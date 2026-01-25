@@ -10,13 +10,13 @@ CLEAN_DIR = "data/cleaned_transcripts"
 LOG_PATH = "outputs/failed_chunks.log"
 
 # Smaller chunks = fewer connection/rate-limit failures
-MAX_CHARS_PER_CHUNK = 2500
+MAX_CHARS_PER_CHUNK = 1200
 
 # Gentle pacing between requests (helps avoid throttling)
-SLEEP_BETWEEN_CHUNKS_SEC = 2.5
+SLEEP_BETWEEN_CHUNKS_SEC = 5.0
 
 # Retry settings
-MAX_RETRIES = 5
+MAX_RETRIES = 8
 
 # Optional: detect Devanagari (Hindi) to decide whether to translate
 DEVANAGARI_RE = re.compile(r"[\u0900-\u097F]")
