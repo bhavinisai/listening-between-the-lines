@@ -1,0 +1,1592 @@
+Give me three examples of businesses
+which are going to benefit from the
+rapid adoption of AI. So software
+development, healthcare, financial
+consulting. What is the most ridiculous
+search query you have read? Either this
+person is trying to rob a bank. Ended up
+asking I want my face protected. I still
+want to be able to breathe but it should
+cover my nose and holes for my eyes and
+I want to like bike. Explain me how does
+the answer comes in. A lot of it just
+has to do with like filtering out like
+really lowquality domains and then like
+there are subtle things you can do based
+on the region, based on the users's past
+queries, based on the current query
+itself. You can rerank the final set of
+like links. You're in a sort of
+competition and race with all these
+large companies. Who loses the most if
+you win? The one with the most to lose
+is Google. What would be Google be like?
+Google employees and their kids, they
+all use Perplexity because it's a better
+product. Our today's guest is Aravvin
+Sri Navas who's a founder of perplexity.
+He has raised millions of dollars which
+has gotten funded by Nvidia's founder
+and Jeff Bezos as well. We learn how AI
+actually works and what's the future of
+AI and what's the craziest conspiracy
+you have heard about AI? AI god like
+thing that you can use to control the
+whole universe. But do you think that's
+possible?
+Do you see any potential political
+threats coming on
+Perplexity? I think Elon raised $6
+billion forex. Are you scared of Elon?
+podcaster
+Spotify enjoy the
+show when you think about India or just
+like let's say world and you want to
+compete and you want to be the best you
+want to be number one
+why keep name as perplexity it's so
+difficult to say like I was talking to
+so many people in the organization
+because I use perplexity
+And there are two three people who use
+PEX and then when we spoke to everyone
+that hey you know what we're going to
+get the founder we'll do this and
+they're like it's such a difficult name
+we'll never going to be able to even
+download it and use it. Sure. And it's a
+it's an important question. Yeah. So uh
+this goes back to the origins of the
+company like you know when I started I
+didn't really have a clear sense of like
+you know whether we'll build a search
+app or consumer
+application none of that like we were we
+knew we wanted to do something in search
+we knew like we wanted to build like
+unique experiences that were not
+possible before we're not dreaming big
+like oh we're going to build a billion
+user product potentially. Um, so, um,
+when when you pick a name for the
+company, you pick something pretty cool
+like and and easy to get a domain for,
+you know, I I didn't have much money at
+the beginning, no funding. So, uh,
+perplexity.ai was available for like
+$120 for 2 years, so I just got it. Um,
+and um, perplexity is a metric in AI
+that measures how well you understand
+something. Okay. So, very geeky, you
+know, I I get it. And once you get even
+more users and more funding like we can
+just buy the rights to some crazy name
+and like just do something like four or
+five letters that would be amazing. Mhm.
+Interesting. Okay. So they there is plan
+to actually change it. This is a problem
+you're aware about. Yeah. Yeah. I mean
+look I'm it's one of the worst names you
+can pick for a consumer company. 100%
+aware of it and I'm not going to defend
+the maybe we can do something like the
+comp the company will still be called
+Perplexity but the product can be called
+something else. Yeah. Fair. I was
+looking at the list of your investors.
+Jeff Bezos happens to be one of them.
+Yeah. And he came much later like he's
+not the earliest investor. Okay. But did
+you meet Jeff? Yeah. Yeah, I did meet
+Jeff. How did that happen? uh how did
+you go from being this guy who doesn't
+know much about this business genius and
+how this model will make sense
+to getting a Jeff Bezos the Jeff Bezos
+investing in you. So we reached out uh
+through like a common contact like uh
+and then um um you know they responded
+saying okay like why don't you uh send
+like a you know like a document like a
+memo he he likes to read memos and so I
+I sent that and I also made like a nice
+demo where uh it's an imaginary demo of
+like Jeff talking to our our voice to
+voice system where his voice is talking
+to it and that system is responding back
+and and the questions are about like
+Star Trek and Blue Origin and things
+like that and I I I recorded it myself
+and then um sent it over both the memo
+and this and um he for the first
+investment he didn't even meet me. They
+just said, "Okay, I'll just seen the
+memo and looked at the demo and um he's
+approved the investment." So, okay,
+fine. That's awesome. And then we asked
+for permission to use his name in the
+public release of the funding round.
+They said, "Yeah, go for it." and that
+became the headline essentially. So that
+that really helped us like so thanks to
+him. Um subsequent after that like when
+we kept making more progress he reached
+that was the first inbound request like
+hey uh Jeff wants to meet and like you
+know get a update on the company and
+like your strategy and again they asked
+me to write a six pager I wrote it but
+that's a really good exercise uh writing
+these memos and six pages uh it takes a
+lot out of you to write one but it's
+totally worth it for your clarity and he
+explains why too right it So, I've
+written it and then had the one-on-one
+meeting. It was for an hour. Um, I
+thought he's not going to he he he
+certainly wouldn't have had time to read
+it. Yeah. So, he's just going to use the
+first 30 minutes to uh read it together,
+but no, like he just directly got to the
+points. He referenced specific sections,
+what he liked and what he was not sure
+about. Uh, asked me for things like what
+I think about like the chip space and
+stuff. Um, and no time was wasted. It's
+it was like basically getting to the
+second meeting, you know. Uh, and at the
+end like he just said something of like
+your your success doesn't rely on
+Google's failure, which is why like, you
+know, I'm pretty optimistic about your
+chances. And, uh, you just got to keep
+moving fast. And of course, the only
+thing that matters is customer
+experience. Like just retain the users.
+Don't be a leaky bucket. Make sure
+retention is high. Don't everyone's
+going to like just push you for getting
+as many users as you can but maintain
+your growth rates. Don't try to aim for
+like something crazy. Uh but absolutely
+make sure that as you grow your
+retention is like only increasing not
+even staying flat. So he had all the
+right messages. I mean we we knew it but
+it was always great to you know have it
+reinforced by someone like him. And then
+I met him in person in another event
+later. So he the three I met him like
+totally like two or three times. He's
+he's pretty awesome. A lot of people
+think he's like not very plugged in
+anymore, but um I would say he's like
+literally was up to date with everything
+when I met him. What do you think is the
+reason why did he invest in you? I I
+mean look I I really don't know. He
+probably What do you think? I know that
+you don't know. I mean he knows it
+better, but what do you think? Why did
+he I'm guessing he probably tried out
+the product and like like you know it
+worked as expected and I thought like it
+you know it's but he must be getting
+thousand products which are living up to
+the expectation and working as described
+or explained by you. Well, uh we had a
+lot of visibility already by then a lot
+of people using it. Um and
+um there were very few products in the
+market at the time also like chat GPT
+was there but it wasn't even doing
+browsing reliably and you know Google
+bar it was called Bard back then wasn't
+even called Gemini and wasn't really
+like good. Microsoft copilot wasn't
+good. Bing chat wasn't good. So we
+actually had a pretty good time to um
+like attract a lot of users where like
+our service is basically not uh possible
+anywhere else. So that that
+differentiator was clear there. It was
+not like one among another product. Um
+and the other thing he probably my guess
+is um the existing set of investors were
+already pretty incredible. Uh the team
+was shipping really fast. I I think
+these are good attributes for a startup
+and we were very efficient in the way we
+got to where we were like before we
+raised that round. We had raised very
+little money. Uh and we did not spend it
+on like you know like training our own
+models but just continually investing in
+a good product. We had a core thesis
+that like your model is not my concern
+like for the user. Uh and I think that
+appealed to him because it was literally
+a play on his uh your profitability is
+not my concern. Yeah. You get the
+package in a day. I don't care what it
+costs you to do that. So I think like it
+was a customer focused AI company. Maybe
+he wanted to be part of the journey. Got
+it. And he probably liked the way you
+were thinking about it way more than
+probably any other thing. I really don't
+know. I'm also making a guess asking
+you. Maybe that demo was pretty cool
+like the I'm trying to prompt so that
+you give me an answer which is beyond
+just your product. It's very I've never
+asked. Maybe next time I meet I'm just
+going to ask him like hey like why did
+you invest? Because honestly it's
+um like you could argue like it's it's
+going to create conflict at some point
+like you know Amazon Alexa is also going
+to be in in the operating in the space
+and uh so maybe there's some deeper
+reason or maybe it's not that deep. I
+don't know. Yeah, because it's usually
+when someone of that stature actually
+takes up personal time to a invest and
+then meet the founders, it has to be
+something deeper because I hope so.
+Couple of millions of dollars for him is
+going to like it's peanuts. It's not
+going to mean anything. Yeah, it's not.
+So he doesn't like it doesn't mean
+anything to him. kind of again look like
+if we become really big
+um you know even then I think the the
+the valuation which he came in and the
+amount he put in like it'll move the
+needle for him a bit financially but
+it's not it's not for that reason that's
+like a lot of other ways for him to do
+that exactly exactly and what what do
+you think makes him special why is he
+the number one why is he one of the
+biggest founders in the world because
+you met him did you notice or observe
+anything different that makes him a star
+founder? I think he has incredible
+clarity of thought. Uh like the thing I
+said like you know there there there
+some of the wisdom that he gave is
+timeless. The your margin is my
+opportunity thing is timeless like it
+keeps on coming. It is the it is the
+core uh truth to like most disruption
+stories where uh someone else has to
+protect their margin and they're on an
+innovative dilemma situation and like
+someone else eats the lunch with a
+better technology
+u and and like he has all these
+frameworks right like repeatable
+frameworks like one oneway door two-way
+door decisions where should you spend
+your mind mental compute on um and a
+shareholder letter is like a masterclass
+in good writing. So my uh the reason I
+really respect him is when you try to
+scale a company uh you have to kind of
+have u some version of you or your
+thought process in every meeting
+otherwise because it's physically and
+like impossible for you to be in every
+meeting and like driving decisions
+everywhere. So you have to be able to
+write down how you think and how you
+make decisions which is very going a
+step further. It's not just about making
+good decisions. It's
+about writing down your decision making
+framework so that others can think in a
+way as clear as you. Yeah. That requires
+even higher order clarity. And he did it
+at Amazon and um and I scaled the
+company a lot and built like many
+businesses simultaneously.
+Uh and I think that I'm I'm definitely
+not at that level. I cannot do that
+right now. Uh and I don't think many
+CEOs are like that good either. True. Uh
+so uh that that that is a very unique
+Bezos thing like he he totally nailed
+the like shareholder letters and like
+decision-m frameworks and like how to
+understand the markets. Even recently uh
+in an interview with Sarkin he said this
+thing that was like very profound which
+is like you know uh we are uh we usually
+overestimate risk and underestimate
+opportunity almost all of us and a
+corollary of that is like we don't take
+enough risk like we are all like
+uh we don't we don't like like there's a
+reason why most humans are not
+risk-seeking animals and another thing
+he said in the Lex Friedman interview
+was very cool like you know We we all
+talk about truth seeeking, but there's a
+reason that it's not easy is because by
+by by
+nature human beings are not truth
+seeeking animals. We are social animals.
+We like validation. We like like other
+people saying we're good or like what
+we're saying is correct. We don't care
+if like what we're saying is actually
+correct by by nature. You actually have
+to rewire yourself for that. And that
+any rewiring process is painful. So I I
+think like that clarity of thought is
+what is making makes him pretty
+singular. I am a big Jeff Basos fan.
+Like it's in my list of entrepreneurs in
+the world. He comes at the top. Like
+he's the number one because obviously
+all of these frameworks and the things
+that he has done. Yeah. I think it makes
+ton of sense and I can go on and on him
+because I've read so many things and
+I've like used so many of his frameworks
+to make decisions in my day-to-day life.
+All the dumb decisions that I've made in
+my life which have actually turned out
+to be good was because of this one
+regret minimization framework that I've
+heard from him. It's so good. Like
+regret minimization framework. Oh my
+god. And that has made me do dumb things
+in my life. But in most cases it has
+been a pretty lovely one. Yeah. I mean
+that's one of the main reasons I I I was
+so um um I was having a lot of urgency
+to start the company because I I knew
+that um well I had I had some so my own
+reasoning too which is I knew that my
+cognitive abilities are on a decline.
+You have to accept that. Yeah. Um how
+old are you? I'm 30 but I I I I know
+that I'm on a decline. I I can try to
+fight it, but I I can clearly see the
+kind of insane things I could do when I
+studied for J or uh when I was at IIA,
+you know, cramming last minute before
+the exam. I could download like 10
+lectures in my head in the last 3 hours.
+I can't do all those things anymore.
+Um so I wanted to do it as soon as I
+can. And the regret minimization
+framework was also clearly there which
+is look it's only going to get harder to
+start a company because of both your
+abilities and other constraints in your
+life that come.
+So you're the regret's going to go up
+and your abilities are going to go down.
+So you better like start now. Yeah. But
+okay explain me how does the answer
+comes in. So moment I talk I type
+something in perplexity and I type the
+question. Yeah. Does it show based on my
+interest and what I would be interested
+in or does it show based on some level
+of merit like what is the way that you
+show me because as far as I understand
+about Google it depends a lot on the
+location I'm in my past history what
+kind of things I'm interested in then
+Google shows me some lot set of those
+things and maybe like keywords and stuff
+like that but a lot depends on two
+individual people we have tried this
+multiple times two people from the same
+location searching the same thing
+probably shows like three four top
+things right so I think in in the case
+of Google the reason you see different
+results um might not even be
+personalization mhm um Google runs AB
+tests a lot um ranking algorithm AB test
+um UI AB tests u number of ads on on the
+query there's a lot of other things that
+end up making the result pretty
+different per user the biggest level of
+personalization you can make is
+um location actually that that gives you
+most of the heavy lifting in terms of
+personalization. So the what we do when
+you ask a query is you we pull up
+relevant results uh from an index we
+have we look at ranking signals that we
+can get from many different search
+engines. We pull them all together in a
+with a proprietary algorithm and then we
+let the model like read all those
+retrieved links uh pull relevant
+paragraphs use that to write a
+synthesize an answer and pull the final
+citations and allow you to keep
+conversing by keeping things in context.
+Keeping the past sources, past answer,
+past query in context. As it grows, it
+gets more challenging and we do all this
+like pretty minimal latency that makes a
+product feel fast yet pretty useful. M
+so the hard part is actually the
+orchestration. Uh you can do a lot in
+what links you retrieve in the first
+stage that can make the answer quality
+really really good without even
+improving the model. Um a lot of it just
+has to do with like filtering out like
+really low quality domains that gives
+you a lot of heavy lifting to like
+quality improvements. Um and then like
+there are subtle things you can do based
+on the region um based on the user's
+past queries based on the current query
+itself. You can rerank the final set of
+like links. Um and we do all that. Uh
+but we've generally seen that like
+location gener like are are like big
+predictors of what final set of links
+that you need to retrieve and any more
+personalization can improve the quality
+a bit but uh most users or most queries
+are not going to see the differences. So
+if you and me type the same problem here
+together are there chances that we'll
+see the same answer? most likely you
+will unless by the way as products and
+companies get bigger u a lot of AB tests
+are run um pretty much every day uh
+because that's the only way to improve
+the product so if you see different
+answers it either means like different
+models were used for that or like um the
+query like reformulated the ones that
+are taking your original query and
+changing it a bit uh those models were
+different uh or like the ranking
+algorithms were different you
+Literally for bad query if you get
+different answers the only reason has to
+be like AB tests and you cannot do
+anything about it like every product has
+to do this because the only way to
+iterate to improve is run AB tests on
+hold out sets and and see if like the
+retention was higher or like number of
+queries so that user ended up going up
+or there were more follow-ups to that
+question that were like relevant but not
+like recclarifying the original query so
+that means the original answer was
+correct. We we we collect a lot of
+signals like this. Um and so
+um my hope is that even if you see a
+different answer like it ends up
+conveying the same thing rather than uh
+one answer is like completely
+contradictory to the other. Got it. So
+now do you get in investor meetings now
+that you have some such start investors
+you have bunch of capital now capital is
+never enough though but you have capital
+and you have good investors. Yeah.
+Right. You're a soft bank as well. You
+have a soft bank, Stanley Draen Miller,
+a bunch of really great people. Like
+bunch of great people right now. Do you
+go into your board meetings or investor
+meetings and be like, "Hey, you know
+what? I'm going to beat Google." No, we
+we don't talk about how to beat Google.
+Um I think we just talk about how to
+grow Perplexity. This very being very
+honest with you. like um I think the
+Google positioning is very interesting
+mainly because like there's a reason
+they cannot ship the same product to
+billion users yet uh because of the
+invader dilemon situation. So it's very
+interesting. Uh but they're also very
+clear right about that and they're
+building Gemini and they're trying to
+like make it as you know at least like
+oh if there is a an app that truly kills
+Google it better we we also own one of
+it right my hope is that in the next
+generation of search where we're all
+going to converse and ask questions on
+voice and get tasks done. I hope there
+are multiple players there and Google
+will certainly be one of them. There's
+no question about it. and OpenAI will be
+one of them. We hope to be one of them.
+MetaB is likely to be one of them.
+XAI. So, I'm I'm hoping like there are a
+lot of players here and u it's a much
+more
+um I still think there'll be a winner
+with a dominant market share, but I hope
+it's like um it's not like a
+90% winner and like 10% rest and and
+that can be avoided if you're like
+having enough capital to compete and
+like innovative on like features you're
+shipping and figure out like new
+business models outside subscriptions,
+uh new ways for commerce must happen
+here. You have to do all that work.
+There's a lot of nonAI work to be done
+here. And um so we talk a lot about
+those kind of things in board meetings
+rather than like oh how can I get
+everyone's like
+uh you know single word searches that
+are happening on Google on perplexity.
+That's impossible. I'm not going to get
+it unless like I literally displays your
+browser your operating system everything
+right like that. That's not worth
+thinking about. Rather it's worth
+thinking about like okay there are some
+kind of searches that clearly people are
+coming to perplexity for not going to
+Google what how to grow that those kind
+of searches which is actually new right
+we were not earlier at least me we were
+I was not going to Google like type in
+like a full quest than ever
+so that's a new ability that people some
+people are not even aware they can do
+and that that'll grow and um I think
+that market how to monetize that how to
+grow that how to like bring it to more
+verticals, how to get in front of more
+users, that's where it's really worth
+focusing energy on. Okay. Compare for a
+layman like me and for all the viewers
+who are watching. Compare Google with
+Perpacity for me. What are the
+weaknesses which Google has? Yeah. And
+those are the weaknesses or the gaps
+that you guys have seen and you're
+solving it for it. Yeah. So the median
+number of words on a Google search is
+like two to three words. I think 2.3
+words maybe. The median number of words
+on a perplexity search is like 10 words.
+So um people on Google like if you
+actually go to
+trends.google.com and and look at the
+top one not the rising ones the top ones
+are always like single word searches.
+Amazon, Instagram, Reddit, Tik Tok. Mhm.
+Weather score cricket you know it's like
+single word searches. Um and that tells
+you what people are mostly doing.
+They're just navigating the web. You
+know, sometimes they ask like very quick
+fa fast facts like such in Tanuker age
+or something. You know, you just quickly
+get it right there. But you're not
+asking questions like oh like uh what
+how many times has Tendulkar uh scored a
+um 100 and India has lost the match.
+You're probably not going to get it
+quickly on Google. It'll give you a
+bunch of links. You'll have to open
+them. You have to read and parse and
+figure out. You can ask those kind of
+questions on perplexity. You can ask
+such nooker age also on perplexity but
+there's going to be some overlap in the
+searches that we can share but there are
+just going to be some searches that are
+clearly better done on Google which is
+the quick fast navigation and there are
+going to be some searches that are
+better done on perplexity which is
+actual answers to questions. Now you can
+ask me how many people are really asking
+these kind of complicated questions.
+Today not so much. We get 20 million
+queries a day and you know maybe like
+80% of them are like pretty deep
+questions but over time it's going to
+grow. You're not just going to ask those
+kind of weird esoteric questions. You're
+going to ask things like oh like how do
+I fix my how do I renew my other card?
+I'm I'm actually outside the US or like
+my passport tour and like I I'm I'm
+stuck stuck in this country. What what
+do I do? Like these are the kind of
+questions that are going to like grow.
+Yeah. And I think uh you're not going to
+go to Google to that for two reasons.
+One is Google uh was never like meant
+for that. It's ingrained in you is not
+that user habit yet. So that muscle
+memory is not something that we're
+competing with. So we can actually like
+be the product go to product for that.
+Number two is even if they ship things
+like AI overview or like answers right
+there, it they don't actually know when
+to like um do that when when not to and
+it becomes a uh you know like a kitchen
+sink of so many different UIs in one
+search page which really frustrates the
+user and it actually competes with their
+ad business u and like revenue traffic
+right so um that's where I think we have
+a clear opportunity and this category
+searches is going to grow uh
+exponentially in the next 5 to 10 years
+and we won't be the only person to
+capture that market. I think chat GPT
+will also compete even though chat GP
+started off as a writing tool they're
+also like going more towards these kind
+of uh prompts and Gemini will also be a
+player in this but it's going to be a
+pretty interesting uh new market that's
+emerging. Yeah. So without even knowing
+about this you're right I use perplexity
+for this only like and it's so
+subconscious that I use it for XYZ
+reason because probably the first time I
+asked question it showed me the kind of
+answers which made me ask more deeper
+questions. So I would really go on
+Google and be like hey Sachin
+Dendelkar's age
+or how much this person's spending or
+whatever like some random very easy one
+word kind of answer and then I would go
+on perplexity and be like okay what's a
+specific core message of this person in
+this speech in this year right and then
+this is the specificity I go to and then
+I get an answer yeah by the way I I
+would say just you know like for
+the correct correctness of it. both
+sides will do what the other side is
+doing like we'll be we'll try to get
+even faster at like quick fast facts
+like such a 10 age or um how much did
+the India spend on transportation those
+kind of like things um and it'll make
+the experience better for you so that
+you don't have to go somewhere else for
+those questions like why even the user
+burden of deciding when to use what tool
+um and at the same time Google will also
+try to get better at like you know like
+like
+pull-ups that require multiple hops of
+reasoning. So both things are going to
+happen and that's why it's interesting
+moment for the user like u of like who's
+going to deliver the best orchestrated
+product. Is it the one that's starting
+from answers or is it the one that
+already has links and these one box
+answers? Nobody knows, right? Because
+you can argue in both favor like the
+more general system can build the final
+solution faster versus the legacy system
+that's trying to like you know layer in
+things together. What would beating
+Google be like it would feel amazing
+like there I I was definitely inspired
+by Larry and Sergey a lot and the
+founding story of Google the academic
+roots they're deeply inspir I mean I've
+worked as an intern there both deep mind
+and brain and a lot of the Google
+culture engineering focus I'm big fan of
+that. So it would feel great to have a
+product that uh look I think the true
+test is if even people within Google
+like Google employees and their kids
+they all use perplexity instead of
+Google because it's a better product not
+because they want to like they they stop
+liking Google and they move for it but
+like they truly there's no other choice
+you have to use it because it's a better
+product. I think that is the true true
+uh benchmark and that's going to take a
+while but what would it look like? Okay.
+So you said it'll be feel amazing but
+what would it look at like at what point
+will you know that okay we have done
+better job
+two three markers yeah like so today we
+do like 20 million daily queries right
+uh it has to get to like uh two orders
+of magnitude more like two billion now
+you can say it's even that's lower than
+what Google does like I think Google
+does like around 6 to 8 something like
+that but uh because of the query length
+here uh I I would say that we we've done
+the job. Um and um you can see it right
+like look the the younger generation has
+less loyalty to Google as as we do. So
+they're actually the older generation
+allows these voicetooice systems. The
+younger generation also allows using
+these uh conversational systems. So we
+so I think it's going to be very
+interesting to see how the behavior of
+the new generation changes. Uh so so one
+way to mark like a marker is like what
+what product do they use when they grow
+up. Uh and my prediction is it won't be
+all Google. Let's play the long game
+here. Like it's not necessary to win
+every single user. Yeah. Um and I think
+that mentality of like, oh, I'm the next
+Google means I need to have 90% market
+share should go away. I think no one's
+going to be that next Google. So when I
+say we're competing with Google, I'm
+only saying about the core search
+experience. Yeah. Not the Alphabet unit
+or the Google stock. So a lot of people
+like use this, you know, criticism for
+us saying like, oh, like look at this
+competitor, but then Google stock keeps
+going up. Okay, listen, like they have
+like so many other businesses and I'm
+not saying the stock is going to go down
+ever. Like it's a safe investment to
+make. They have VHO, they have like so
+many new businesses that are coming up.
+Deep mine, uh, Alpha Fold, like Quantum
+Ships. So it's it's a great company, but
+the core search product for the first
+time ever in like two decades uh is
+clearly under threat. If if it was not
+under threat, they wouldn't be doing
+like Gemini AI overview, right? Yeah.
+Interesting. Okay. So is it fair to say
+that the success would look like when an
+entire generation would use your product
+as a default? The way one generation
+uses Google as a default. That would
+like that would beating Google mean like
+yeah or or having a higher market share
+there like like that's what like entire
+generation like a majority of the
+generation using one thing. Yeah.
+Exactly. Let's say like it's split like
+you know 40 30 20 uh 10 with with among
+four tools. I don't know what they are.
+Maybe ask like Microsoft Google M like
+something like that right? I I think
+that would be a pretty big win. And um I
+hope like unanimously the the global
+aggregate is that and that would be an
+even massive win but um even like one
+generation would be a great win. Where
+do you stand today? Give me give me some
+comparison. I'm interested in this.
+Let's say right now the AI AI usage is
+like I think chat has 80% market share
+right now as far as I'm aware. And you u
+it's all depend depends on the web and
+the mobile. I believe on the web we are
+uh third and Gemini is second. On mobile
+I think Gemini has more installs but
+extremely poor retention. So in terms of
+actual usage on mobile I I wouldn't be
+surprised if we're number two. Um and I
+think like Copilot has a lot of installs
+too but lower retention than us. Uh but
+clear winner right now both web and
+mobile is
+CHD and but that doesn't need to remain
+the case. Yeah. Uh and that's why it's
+really interesting. And uh in terms of
+funding, if you want to compare yourself
+with let's say a chat GPT, Google and
+you where do you stand? Oh, come on.
+Like Google Google has like hundred
+billion dollars in cash. Yeah. And chat
+GPT has raised uh I mean as an open AI.
+Yeah. They've raised um the last round
+was probably like 10 billion and I think
+they're going to raise more and they've
+already raised like 13 billion. So in
+total they raised 20 billion or 25
+billion, right? And they can definitely
+have they have the brand to raise more.
+Yeah. So we we have not even raised a
+billion so far in in total. How much
+have you raised total? I mean uh in
+total we've raised around like 800 or
+900 million, right? So, and the last
+round was around. Yeah, we raised 500 in
+the last round. So, clearly like from
+one end, if you look at our funding
+rounds, it looks
+massive. But on the other hand, these
+are like three like like one has 100,
+another has like you know raised 20 but
+burning five like losing 5 billion a
+year. So, it's not exactly same and us
+is like we raise not even a billion. So,
+clearly these are three different uh
+like orders of magnitude on the
+spectrum. Um, but the nice thing is like
+just because you have the money doesn't
+mean you
+win. Um, like like I said, if that was
+true, then we would never have been even
+being in the conversation. Yeah. Uh, so
+the one who can ship the best product
+has like a good chance uh lower
+bureaucracy, faster movement, lower
+distractions, clear right focus on just
+the product. Definitely has like a lot
+of advantages here. So what we need to
+ensure is like keep growing our usage,
+keep growing our brand and mind share
+uh figure out ways to like monetize well
+too so that we don't just end up with
+like a big pile of cash and a lot of
+users but don't know how to turn that
+into real business. We don't want to be
+in that sort of spot either. So but
+don't like uh overemphasize revenue over
+growth. So that we we if we can ensure
+we get these basics right over the next
+two years and keep shipping cool things
+and staying ahead of the rest and core
+user experience then we have a good shot
+at like playing this game. But if we
+don't like there's nothing we ship that
+others don't ship in like a matter of
+weeks or months. Mhm. Uh and if we are
+not growing our user base uh and if we
+don't know how to monetize the existing
+user base well we're definitely going to
+be in a difficult spot. And your current
+focus is revenue or growth? growth. So
+you're not going to focus on revenue for
+a while. We we'll make good revenue to
+the extent that like at least on the
+paying users we have good margins and
+the free users the cost of running the
+service keeps going down because these
+models get cheaper and we'll figure out
+ways to make it cheaper algorithmically
+too. But we're not going to obsess about
+like making revenue and turning the
+company profitable next year. Yeah.
+Okay. And then what about XAI? You read
+the news yesterday. They just
+circulated. I think Elon raised $6
+billion for XAI. Yeah. Are are you
+scared of Elon? I mean, come on.
+Like what? It's not scare. I'm I'm a
+fan. Like, he's a, you know,
+inspirational entrepreneur for me. Um,
+and I think it's cool that he's also
+building something here in the space and
+I would never underestimate him. It's
+the quote is like never bet against Elon
+Musk. that my hope is like there's a lot
+of people who you know um there's not
+like one product everybody uses here you
+know there's a lot of people use
+different apps and he's also going to
+work in the search space clearly like
+rock's doing some Mhm. web sources
+too. Uh my sense is like there are a lot
+of verticles to build here. Um there is
+finance, shopping, travel, local,
+weather, news, um
+sports, like so even within each of
+these there's so many subtles
+um and like entertainment is there,
+shows. So there's a lot of things to do
+here that like
+um some products will be amazing at some
+things, some products will be worse at
+other things. And I feel um Elon's entry
+just makes the whole market even bigger
+that if it takes if some if something is
+worth his time then it just means like
+the market's huge and but does it bother
+you? Does it scare you in some say? No.
+because they're already like a lot of
+star players and the big players with
+big deep pockets and then there's Elon
+as well now he's entering into this this
+space where you are operating and you
+are three you're number third right now
+you want to escalate to number two and
+then eventually number one but then
+there's this guy and you said the world
+says that don't bet against Elon right
+yeah I mean by that I mean like he's not
+going to lose he's definitely going to
+have a good market share is going to win
+in in some manner. No, but what does it
+mean? Like if someone like him raises
+the money, does it mean raising money
+for you gets difficult? U so it's it's
+it's complicated like obviously you know
+um money is not infinite sum right.
+Um similarly GPUs are not infinite sum
+like there there there are some zero sum
+games there because just constraints in
+the world how much capital there is and
+how many GPUs you can make. Yeah. So
+yeah definitely like there are some
+advantages having a lot of capital but
+at the same time uh it's also how you
+spend it. Uh so XAI for example has
+raised $6 billion out of which they
+intend to spend five billion on just
+building a data center with a million
+GPUs. At least that's what I read. Maybe
+it's wrong. Maybe it's an overestimate
+but let's just assume that they spend 60
+to 70% of the cash on just building data
+centers. So uh that's not how we are
+spending our money. So the amount
+they're actually spending on the core
+product and making it better uh will be
+probably comparable on a yearly basis.
+Uh, and I think that gives you a pretty
+good shot if you're not training your
+own models. Um, and now you can ask
+like, oh, what if they train an insanely
+better model than the rest? Yeah, that
+this makes their product way better that
+no matter if you use other people's
+models, you're not going to be as good
+as them. again like it's
+possible but I wouldn't give it a very
+high probability because um so far the
+trends are that models are like there
+are like too many players and they're
+all like playing ping pong and like it's
+very evenly contested like anthropics
+there Google's there meta's there openai
+is there so um I think there's good um
+thesis for a company like us which can
+use all of them and just focus on the
+user so now that He's a part of the
+government as well. Does it give him any
+edge? I mean my my sense is like he's
+never really taken any advantage of that
+and like for example not yet. Okay. Like
+I I would just go by past actions are a
+good predictor of future and he um owns
+X. Yeah. Right. But it's not like he um
+deamplified any of his rivals tweets or
+company rivals's tweets. So he could
+have done that like just gone to the
+algorithm like tweaked the knobs to like
+lower the engagement score for those
+tweets. He could have done that and like
+hurt the marketing efforts of everybody
+except he himself he has he's never done
+as far as I know OpenAI always dominates
+the Twitter
+discussions and he owns the platform. He
+lets them thrive on it despite his
+rivalry. So I think he that that already
+shows like he doesn't combine like his
+power or ownership or something that's
+very powerful with like his business
+interests. So I think like whatever work
+he's going to do in the government I
+would just assume that u he truly cares
+about the country and he's not like
+combining his business interests with
+that. You also said in Lex Freedman's
+podcast that perplexity is not succumb
+to political power the way Google is.
+What do you mean by that? like you know
+Google in the past has been like accused
+of
+um like at least like ranking uh bias
+where if you tried Trump news you would
+get both it would kind of reformulate
+your query to like Harris Trump and give
+you like both articles
+u whereas for um if you just type Harris
+news you'll just get her news
+or uh autocomplete when you type in
+Google that your query are auto
+suggested, right? If you type Donald
+like the the next suggestion is duck and
+not Trump and Trump doesn't even show up
+in the other list of suggestions. At
+least three or four instances like these
+like um where Google clearly had some
+ranking bias. Um I think like for
+example the Joe Rogan Trump podcast when
+people went to search for on YouTube you
+couldn't even find it.
+So we we don't have these issues as far
+I mean we as far as I'm aware like we've
+tried to be pretty politically neutral.
+Um
+and again it's easy to build from a
+clean slate than having something and
+trying to correct it. Mhm. Um but at the
+same time um I'm also reading news of
+Sundar meeting Trump a lot and like
+Sergey went and met Trump and Sundar
+clearly sent out an email saying gone
+are the days where we had like political
+opinions and the only thing we care
+about is our mission delivering correct
+information. So clearly like they're
+changing and so maybe what I said you
+know in the Lex podcast one year ago may
+not be relevant now. Do you see any
+potential political threats coming on
+Perplexity at some point? I see. Um,
+look, you don't know like there are
+always unknown unknowns. If there is
+some article that said something
+negative about somebody and uh that
+surfaced in an answer and like someone's
+upset about it and um even though the
+answer gives all perspectives
+u there are chances that some group of
+people could get upset about it, right?
+So u anytime when a group of people are
+involved and their sentiments are hurt
+there's like room for politics to become
+part of it and and it may not even
+happen in America it might happen in
+some other country and censorship and
+free speech have like different levels
+of relevance in each country. So um
+we're open to like you know working with
+each government look like individual
+government like what they think is
+reasonable for their country. We have to
+abide by their rules right. Uh I've been
+very clear about this like Google in the
+beginning I think they had all these
+opinions of like them being about
+governments and like you know what they
+really care about is like um true
+freedom like that that sort of like you
+know you can read their culture don't be
+evil like just be free and they refused
+to operate in China when China wanted to
+censor them. So u reality is like
+everyone's a capitalistic business at
+the end of the day. Yeah. you know,
+they're all competing to win government
+contracts. At one point, Google Cloud
+employees
+um protested that Google's working with
+the Pentagon and now like they just
+fired those people who did it again and
+they're competing with Amazon and
+Microsoft to win those contracts because
+clearly that moves their revenue up and
+moves the stock up and that's what the
+shareholders want, right? So, um I think
+like we we're not going to repeat those
+mistakes of like what they went through
+where
+they forgot that they were actually a
+company and like trying to like have
+political opinions and things like that.
+Like we're going to be like a proper
+well-run business at the end. great
+product. Like we want to be a great
+product, but we have clear
+responsibility to like our shareholders
+and we're not going to like confuse that
+with
+like my agenda or like someone else's
+agenda that all that stays outside the
+company. But would you lose out on these
+opportunities even if it means
+sacrificing revenues for your company?
+What what do you mean by lose out on
+options? lose out on opportunities of
+trying to maybe partner with some
+person, some government, somebody who
+wants little bend in your rules and in
+your platform so that it shows searches
+in their favor. Mhm. But that means you
+winning lot of government contracts, you
+winning a lot of revenues and eventually
+that maximizing your company's value.
+Complicated question, right? like what I
+I don't want to say something that'll be
+held to like obviously uh we'll try to
+do what's like right as as as to the
+best of our abilities as possible.
+Um but if a certain government has rules
+that you have to obey if you want to
+like just think about it leave us even
+you as an individual if a certain
+government has rules
+u of what you can do and not do and you
+want to continue there and like run your
+business there you will follow it right
+or you have to move out. Yeah. The same
+thing applies to a business like us but
+sometimes it's not rules it's just few
+influencers calling you. Mhm. That's it.
+It's not about the rules. Like rules are
+pretty much black and white and you can
+be freedom of speech. You can show
+whatever you want to show. But maybe the
+ruling party wants something else
+because these are the political
+pressures which probably a Google faces
+or meta faces or maybe Twitter says like
+X now. Jack Dorsey has been very vocal
+about it that specifically about Indian
+government and a lot of other
+governments in the world that there are
+some pressures that they have to
+actually listen to. I mean like I I just
+look at the fact that even uh someone
+like Elon way more influential than me
+and way more opinionated than me. Um
+like like how he's handled like conflict
+with countries in different ways like
+with I think there was conflict with
+India at some point there was conflict
+with Brazil at some point and I think
+the way he went about it was different.
+Mhm. So um so long answer short it's
+very complicated because you're in India
+I want to talk about challenges of
+India. Okay. What do you see like where
+is India today in terms of in the world
+of AI? How far are we from becoming even
+a contender in the AI world? Yeah. Like
+I mean I'm sorry if I'm repeating what I
+said earlier but I think we are very
+well positioned in terms of adoption.
+like we've already adopted a lot like
+92% of knowledge workers have adopted AI
+here compared to 65% of global average
+elsewhere um so the amount of people who
+already know how to use these tools and
+like um can keep themselves updated with
+it is pretty awesome you don't need to
+like train them or something like when I
+went to Japan I I saw like uh there were
+like actual courses on how to learn chat
+GBT or like all these different tools
+that people writing books on how to use
+perplexity. I don't think you even need
+these things here. People are already
+like pretty u acclimatized to these
+things. Um what are the challenges that
+you see here? I think the challenges are
+how can people using these tools earn
+more?
+They should they should ideally because
+uh they should be able to do more work
+now
+uh faster throughput. So, I hope like
+the usage goes beyond just like
+identifying hacks and cheat codes to get
+work done faster to like, okay, this
+thing is actually making my life so much
+easier. So, I'm going to like figure out
+side gigs that I can do and earn more
+and and if like a bunch of people start
+doing that, um the average income goes
+up and GDP goes up. So, that needs to
+happen. I hope it's already happening to
+at least at a small scale, but that
+really needs to happen. Uh the second
+thing a challenge I would say is okay
+now that you guys really know how to use
+these tools and you get a sense of it.
+Um can you start building apps and
+businesses that can let um other people
+use things in a way that are not
+possible with the existing tools whether
+you build it for the Indian market or
+the international market doesn't matter
+but build something that doesn't exist
+yet and um get it in the hands of like
+100 million people here and um create
+new um market caps from nothing right
+employ new people here and they give
+them opportunities. So that's again
+creation of value that needs to happen.
+So uh the bright side is we know how to
+use these tools. Uh the flip side is
+like we have to figure out how
+to increase the GDP of our country per
+capita GDP is more important of our
+country through these things and I
+really hope like one um advantage that
+we have healthcare is uh looked upon
+more seriously as an opportunity space.
+So you said people should start earning
+more. Yeah. Give me three examples of
+businesses which are going to benefit
+from the rapid adoption of AI. I would
+say healthcare. Okay. I would say like a
+lot of like software development easily
+like you know a lot of other companies I
+think like there are a lot of
+independent consultants here who like do
+coding gigs for others. I think they can
+do a lot more now per unit time. Um so
+software development, healthcare, I
+think just financial consulting. Um how
+a financial consultant can use AI to
+give better. Yeah. So take have the AI
+look at your portfolio and have the AI
+go and research the web on like latest
+news related to each of these stocks. uh
+read analysis reports, private reports
+prepared by all these banks like Goldman
+Sachs or Barclays uh sellside reports
+and then come back with investment
+advice of like what you should be like
+changing to adjust it or um new um
+stocks that you should be looking into
+new changes equivalent of like several
+hours of actual research that an analyst
+doesn't charge us for. If you can have
+an AI do it, arbitrage that and give it
+to more people who usually don't get
+access to these kind of uh
+consultants and allow everybody wants to
+make money and you take some cut of
+that. Yeah. And like create mark value
+from nothing, right? So AI based
+financial advisor, AI based healthcare
+advisor or maybe agents who are
+connecting you to doctors or just
+allowing you to get quick checks on like
+what's happening to you, uploading your
+reports, having it be audited by an AI
+and then using that going to a doctor.
+Um all these things are like clear
+opportunities. Okay. And what are the
+businesses that are going to feel the
+maximum tension because of AI? they're
+going to fail because of adoption of AI
+software consulting right like if you
+can get work done with the help of an AI
+co-pilot coding co-pilot like you're no
+longer like going to rely on like like a
+huge form of dev shops uh customer
+support like you know call centers I
+think voice agents are going to be able
+to do a lot of these things pretty well
+we should try to disrupt it ourselves
+like whoever is going to these call
+centers and doing these calls and like
+we should try to like do it with a you
+know AI as much as we can. Uh so
+obviously some people who are going
+there are going to lose their jobs but
+uh whoever is like running these
+businesses can potentially have higher
+margins too and those margins can be
+used to give those people that are
+potentially going to lay off like
+different kind of jobs right I think we
+got to do some restructuring there okay
+these are the two places where you see
+the most I have two three like fun
+questions one is what is the most
+ridiculous and bizarre search query you
+have read I think someone like ended of
+asking something very particular for
+like oh like I I want my
+um face protected. I I still want to be
+able to breathe but it should cover my
+nose and like it should just have the um
+holes for my eyes and I want to like
+bike uh in the winter for Thanksgiving
+like help me figure out like which city
+I can go to and like what I should buy
+like and we ended up giving him like a
+really nice like product recommendation.
+Okay. And when when we actually saw like
+we saw that product getting purchased,
+either this person's trying to um rob a
+bank or or they're really like in a cold
+place. So we went and actually like
+checked query and the query was so long
+and again like this is the kind of thing
+that people are very creative and like
+using these products that you know.
+Interesting. And what's the craziest
+conspiracy you've heard about AI? Well,
+there's always this conspiracy theory of
+like uh AI this
+AGI is this god like thing that you can
+use to control the whole
+universe by um building super
+intelligent entity. Mhm. And whoever has
+access to that will be the mastermind.
+Yeah. And uh you know some people think
+Sam Alman ultimately wants that but I I
+I don't think it's it's that level
+of power craze. By the way there is true
+power in in being the u CEO or the chief
+decision maker of a company that's
+building the most intelligent
+model. But I don't think it's being
+built with the intention of controlling
+the universe. M
+but do you think that's possible? I
+think it's uh going to be like you know
+it's not going to like fool people in
+doing things. It's possible by the way
+that like a very intelligent AI can
+manipulate people. Yeah. But I think the
+power games are not going to come from
+those things like it's not like oh
+politician wants to have access to it to
+to win the next election or something.
+they can do it. But the real danger is
+going to be more from
+um if you can throw like the equivalent
+of 100 most intelligent
+scientists but working 24/7
+um on like a very hard pharma problem,
+figure out a new um
+drug and like the next or something and
+sell it for a crazy premium.
+um and you completely own the solution.
+The only way you even got to the
+solution is you had the ability to spend
+that much inference
+compute. Um so those kind of situations
+are we are like one country getting uh
+the end output of a very super
+intelligent AI that they can use to
+their advantage in the market. Mhm. And
+then uh because of that the next thought
+effects are another country trying to
+steal it in some manner. and that
+leading to like defense problems and
+warfare you know those kind of
+situations are possible those are the
+big and real worries that's what I think
+will happen if we have like super
+intelligence I'm not talking about
+general intelligence super intelligence
+is a weird thing it's it's it's not a
+thing we understand today because we're
+not used to super intelligence it
+doesn't really exist there there are
+people that have been extraordinarily
+intelligent like Einstein,
+but you wouldn't call even Einstein
+super intelligent. He cracked like three
+or four very important problems. Yeah.
+But it's not like he there was an
+equivalent of a computer Einstein that
+just oh I could throw any domain any
+problem at that computer and they would
+come up with the equivalent of theory of
+relativity for that problem that has
+massive like economic impact too that
+doesn't exist but once it exists
+whichever country has it the next
+country that's trying to compete for
+being the world superpower will also
+want it. Yeah. If you happen to be that
+person when you get and you are at the
+top of the pedestal, you become the most
+powerful person in the world of
+supercomputers and AI. What would you
+do? I'm happy I'm not even in that
+place. I think it's a very weird um
+position to be. I've been wanting to ask
+this from the point we started. Right.
+You're in a sort of competition and race
+with all these large companies and
+incredibly successful founders, right?
+Who loses the most if you win? I think
+like I mean I've never thought about it
+in a zero sum way. There are clearly
+some zero sum games with some other
+companies
+undoubtedly. Um I think it's not about
+whether we win. Um, whoever is going to
+crack this AI native answer engine
+assistant, let's say you cracked it,
+okay? Whoever cracks it, the one with
+the most to lose is
+Google and and that's simply because of
+their current business model. M
+now by the time someone cracks it if
+their other bets YouTube cloud and all
+that they increase the margins there and
+they figure out a way to like make way
+more even more successful meanwhile and
+get some new cash flow there and explain
+to the shareholders that like look this
+is clearly an inflection moment but like
+we have other things and we'll be fine
+and we'll go for the new thing too. It's
+not like they're going to get destroyed
+but they definitely are going to have a
+difficult turbulent period. So yeah,
+they they have the big most to lose in
+this game and they're aware of it and I
+think they're working on it. Got it. You
+know, my one worry is with the rapid
+adoption of AI. This happened with all
+the technologies which are coming is
+increase of digital amnesia. So it's
+like a phenomena where people forget
+information on day-to-day basis a lot
+because they rely on technology. Oh
+right. Right. Yeah. That's right. That's
+fair. So it's like so compared to like
+our parents generations the way we
+calculate things is our ability to
+calculate simple math problems has gone
+because we use calculators. Similarly
+when I see my younger cousins they do it
+their ability to just remember
+information is so low because they are
+like Google first chat GPD perplexity
+kind of people who are just constantly
+using these. Yeah. So increase of
+technology is going to just increase the
+digital amnesia where people are
+forgetful left, right, center. Yeah.
+Okay. Let me put it this way.
+I are you good at like driving with a
+physical map versus using Google maps?
+Correct. Google maps of course. But but
+I think the previous generation like our
+our previous generation wouldn't have
+needed Google maps. They would have
+taken a physical print out and like
+figured out Yeah. Yeah. that like like
+they would have mapped what they see in
+front of them to the 2D layout and
+figured it out. they wouldn't need like
+accurate. It's very dynamic, right? But
+so little things like how do your brain
+functions because if you if you remember
+a little thing then it gives you
+confidence to remember like the bigger
+things as well. So today it could be as
+small as something like let's say
+remembering a phone number. We don't
+nobody even cares about it. But that
+habit of telling or signaling our brain
+that hey you need to remember this
+little thing is getting down down. Yeah.
+So that's why that's which which I think
+is totally okay by the way. Which is
+okay. I'm I'm saying like a lot of
+things a lot of times what is happening
+I'll tell because I was reading some
+survey which is going on is not proven
+yet. I think some university in
+Australia is doing it where they're
+they're testing that pe more and more
+young people are forgetting to take
+medicines on time. I see. But they don't
+remember like just a small thing. You
+could argue that like uh that that's the
+job of the AI like the AI should just
+tell them when take the medicine and
+they should take it and uh you know like
+like by the way forgetful people exist
+already like even I'm pretty forgetful
+myself. I'm not like um on top of
+everything. Same. It's because your your
+RAM is limited right now. I guess what
+you're trying to say is like what the
+next generation is going to load their
+RAM with is going to look very different
+from us. Um, and it's going to be
+interesting to see like how they spend
+their mental compute. If they if they
+don't spend it at all and it's all just
+like uh
+unutilized, that's sad. Yeah, that's
+what I'm telling. I hope that's not
+going to happen. if they have all that
+um free capacity and they can spend it
+on like more creative things that would
+be amazing
+and it's still like jewelry is still out
+of what's going to happen but I'm hoping
+like it's going to be the second yeah if
+it happens like that like all with all
+the free mental capacity that they have
+if they increase their ability to work
+on more complex problems it's going to
+be great but if it happens the other way
+around which is which a lot of people
+are worried about that's something I
+deal is I don't know what's going to
+happen then. Yeah. I mean it'll be bad
+because because our um if
+you if you like roll out multiple
+generations after that like it's only
+going to get worse. So we really need to
+make sure like they are being thrown at
+like hard problems and like you know
+given all these tools and hey go figure
+it out. Got it. Well perfect. Thank you
+so much for coming here. This was
+awesome. By the way, I heard you're the
+Joe Rogan of India. That's what someone
+told me. Is that true? No, I am the Raj
+Shamani of India. Let's just put it this
+way. Cool. Awesome. Perfect. Thank you
+so much for coming here. I really
+enjoyed our chat. I have bunch of
+questions for you, but maybe we'll the
+time do it again and try to figure out
+all the best for your India trip. Thank
+you. Thank you. Thank you so much. I
+read your one I think it was some
+interview some podcast or some like an
+outcome of this and the thumbnail was
+like I'm going to beat Google. Oh yeah.
+People make these thumbnails. That's why
+I asked you this question. Do you go to
+these meetings and be like hey I'm going
+to beat I mean you're a YouTuber you
+understand I do. Yeah. Thank you so much
+for watching this podcast till the
+end. Number two,
+comments. And number
+three, conversation is enough to change
+someone's life. I'll see you next time.
+Until then, keep figuring out.
+[Music]
