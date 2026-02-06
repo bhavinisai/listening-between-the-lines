@@ -1,3 +1,5 @@
 # Virtual environment
 venv/
-
+data/raw_audio/Sunita_Williams_full.wav
+logs
+sbatch
