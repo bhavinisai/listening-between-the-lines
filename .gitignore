@@ -3,3 +3,5 @@ venv/
 data/raw_audio/Sunita_Williams_full.wav
 logs
 sbatch
+data/raw_audio/*.wav
+
