@@ -1,0 +1,1264 @@
+{
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.264,
+      "text": " It's life, it's how it is.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 0.0,
+          "end": 1.262,
+          "score": 0.547
+        },
+        {
+          "word": "life,",
+          "start": 1.362,
+          "end": 1.603,
+          "score": 0.995
+        },
+        {
+          "word": "it's",
+          "start": 1.663,
+          "end": 1.763,
+          "score": 0.615
+        },
+        {
+          "word": "how",
+          "start": 1.803,
+          "end": 1.963,
+          "score": 0.972
+        },
+        {
+          "word": "it",
+          "start": 2.023,
+          "end": 2.063,
+          "score": 0.887
+        },
+        {
+          "word": "is.",
+          "start": 2.183,
+          "end": 2.264,
+          "score": 0.984
+        }
+      ],
+      "speaker_raw": "SPEAKER_00",
+      "speaker": "Host",
+      "speaker_original": "Speaker 1"
+    },
+    {
+      "start": 3.445,
+      "end": 14.503,
+      "text": "But I think just appreciation for different cultures at a young age, not even realizing it, I think was really beneficial and set me up for success.",
+      "words": [
+        {
+          "word": "But",
+          "start": 3.445,
+          "end": 3.646,
+          "score": 0.988
+        },
+        {
+          "word": "I",
+          "start": 3.666,
+          "end": 3.846,
+          "score": 0.799
+        },
+        {
+          "word": "think",
+          "start": 3.906,
+          "end": 4.147,
+          "score": 0.864
+        },
+        {
+          "word": "just",
+          "start": 4.908,
+          "end": 5.048,
+          "score": 0.996
+        },
+        {
+          "word": "appreciation",
+          "start": 5.128,
+          "end": 5.849,
+          "score": 0.885
+        },
+        {
+          "word": "for",
+          "start": 5.909,
+          "end": 6.049,
+          "score": 0.933
+        },
+        {
+          "word": "different",
+          "start": 6.09,
+          "end": 6.45,
+          "score": 0.669
+        },
+        {
+          "word": "cultures",
+          "start": 6.49,
+          "end": 6.911,
+          "score": 0.829
+        },
+        {
+          "word": "at",
+          "start": 6.951,
+          "end": 7.191,
+          "score": 0.882
+        },
+        {
+          "word": "a",
+          "start": 7.231,
+          "end": 7.271,
+          "score": 0.498
+        },
+        {
+          "word": "young",
+          "start": 7.331,
+          "end": 7.512,
+          "score": 0.715
+        },
+        {
+          "word": "age,",
+          "start": 7.672,
+          "end": 7.892,
+          "score": 0.952
+        },
+        {
+          "word": "not",
+          "start": 8.253,
+          "end": 8.373,
+          "score": 0.759
+        },
+        {
+          "word": "even",
+          "start": 8.433,
+          "end": 8.573,
+          "score": 0.778
+        },
+        {
+          "word": "realizing",
+          "start": 8.614,
+          "end": 9.234,
+          "score": 0.88
+        },
+        {
+          "word": "it,",
+          "start": 9.315,
+          "end": 9.375,
+          "score": 0.993
+        },
+        {
+          "word": "I",
+          "start": 9.755,
+          "end": 9.795,
+          "score": 0.825
+        },
+        {
+          "word": "think",
+          "start": 9.835,
+          "end": 9.956,
+          "score": 0.699
+        },
+        {
+          "word": "was",
+          "start": 9.976,
+          "end": 10.136,
+          "score": 0.532
+        },
+        {
+          "word": "really",
+          "start": 10.176,
+          "end": 10.416,
+          "score": 0.695
+        },
+        {
+          "word": "beneficial",
+          "start": 10.456,
+          "end": 11.338,
+          "score": 0.921
+        },
+        {
+          "word": "and",
+          "start": 11.398,
+          "end": 11.478,
+          "score": 0.872
+        },
+        {
+          "word": "set",
+          "start": 11.518,
+          "end": 11.658,
+          "score": 0.978
+        },
+        {
+          "word": "me",
+          "start": 11.718,
+          "end": 11.799,
+          "score": 0.995
+        },
+        {
+          "word": "up",
+          "start": 11.899,
+          "end": 11.959,
+          "score": 0.996
+        },
+        {
+          "word": "for",
+          "start": 13.141,
+          "end": 13.501,
+          "score": 0.793
+        },
+        {
+          "word": "success.",
+          "start": 13.541,
+          "end": 14.503,
+          "score": 0.808
+        }
+      ],
+      "speaker_raw": "SPEAKER_00",
+      "speaker": "Host",
+      "speaker_original": "Speaker 1"
+    },
+    {
+      "start": 14.643,
+      "end": 23.537,
+      "text": "I would say just because I feel like I can relate to a lot of different people, or at least to have the patience to listen for a moment.",
+      "words": [
+        {
+          "word": "I",
+          "start": 14.643,
+          "end": 14.683,
+          "score": 0.946
+        },
+        {
+          "word": "would",
+          "start": 14.723,
+          "end": 14.883,
+          "score": 0.65
+        },
+        {
+          "word": "say",
+          "start": 14.983,
+          "end": 15.204,
+          "score": 0.962
+        },
+        {
+          "word": "just",
+          "start": 15.284,
+          "end": 15.464,
+          "score": 0.866
+        },
+        {
+          "word": "because",
+          "start": 15.524,
+          "end": 15.885,
+          "score": 0.787
+        },
+        {
+          "word": "I",
+          "start": 15.965,
+          "end": 16.025,
+          "score": 0.844
+        },
+        {
+          "word": "feel",
+          "start": 16.546,
+          "end": 16.706,
+          "score": 0.827
+        },
+        {
+          "word": "like",
+          "start": 16.746,
+          "end": 16.907,
+          "score": 0.776
+        },
+        {
+          "word": "I",
+          "start": 17.047,
+          "end": 17.147,
+          "score": 0.986
+        },
+        {
+          "word": "can",
+          "start": 17.207,
+          "end": 17.527,
+          "score": 0.934
+        },
+        {
+          "word": "relate",
+          "start": 18.529,
+          "end": 18.749,
+          "score": 0.676
+        },
+        {
+          "word": "to",
+          "start": 18.789,
+          "end": 18.83,
+          "score": 0.892
+        },
+        {
+          "word": "a",
+          "start": 18.87,
+          "end": 18.89,
+          "score": 0.132
+        },
+        {
+          "word": "lot",
+          "start": 18.95,
+          "end": 19.07,
+          "score": 0.881
+        },
+        {
+          "word": "of",
+          "start": 19.11,
+          "end": 19.15,
+          "score": 0.996
+        },
+        {
+          "word": "different",
+          "start": 19.19,
+          "end": 19.471,
+          "score": 0.806
+        },
+        {
+          "word": "people,",
+          "start": 19.511,
+          "end": 19.811,
+          "score": 0.896
+        },
+        {
+          "word": "or",
+          "start": 20.112,
+          "end": 20.172,
+          "score": 0.894
+        },
+        {
+          "word": "at",
+          "start": 20.212,
+          "end": 20.252,
+          "score": 1.0
+        },
+        {
+          "word": "least",
+          "start": 20.272,
+          "end": 20.452,
+          "score": 0.787
+        },
+        {
+          "word": "to",
+          "start": 20.492,
+          "end": 20.552,
+          "score": 0.018
+        },
+        {
+          "word": "have",
+          "start": 20.632,
+          "end": 20.753,
+          "score": 0.968
+        },
+        {
+          "word": "the",
+          "start": 20.773,
+          "end": 20.853,
+          "score": 0.813
+        },
+        {
+          "word": "patience",
+          "start": 21.273,
+          "end": 21.694,
+          "score": 0.803
+        },
+        {
+          "word": "to",
+          "start": 21.774,
+          "end": 21.994,
+          "score": 0.947
+        },
+        {
+          "word": "listen",
+          "start": 22.035,
+          "end": 22.696,
+          "score": 0.836
+        },
+        {
+          "word": "for",
+          "start": 22.716,
+          "end": 23.096,
+          "score": 0.871
+        },
+        {
+          "word": "a",
+          "start": 23.136,
+          "end": 23.176,
+          "score": 0.439
+        },
+        {
+          "word": "moment.",
+          "start": 23.236,
+          "end": 23.537,
+          "score": 0.82
+        }
+      ],
+      "speaker_raw": "SPEAKER_00",
+      "speaker": "Host",
+      "speaker_original": "Speaker 1"
+    },
+    {
+      "start": 23.757,
+      "end": 26.802,
+      "text": "At what point in your childhood you felt like this is a strength?",
+      "words": [
+        {
+          "word": "At",
+          "start": 23.757,
+          "end": 23.837,
+          "score": 0.691
+        },
+        {
+          "word": "what",
+          "start": 23.897,
+          "end": 24.058,
+          "score": 0.493
+        },
+        {
+          "word": "point",
+          "start": 24.138,
+          "end": 24.378,
+          "score": 0.872
+        },
+        {
+          "word": "in",
+          "start": 24.458,
+          "end": 24.498,
+          "score": 0.487
+        },
+        {
+          "word": "your",
+          "start": 24.538,
+          "end": 24.639,
+          "score": 0.388
+        },
+        {
+          "word": "childhood",
+          "start": 24.679,
+          "end": 24.959,
+          "score": 0.285
+        },
+        {
+          "word": "you",
+          "start": 24.999,
+          "end": 25.099,
+          "score": 0.375
+        },
+        {
+          "word": "felt",
+          "start": 25.139,
+          "end": 25.36,
+          "score": 0.495
+        },
+        {
+          "word": "like",
+          "start": 25.4,
+          "end": 25.62,
+          "score": 0.79
+        },
+        {
+          "word": "this",
+          "start": 25.82,
+          "end": 25.961,
+          "score": 0.672
+        },
+        {
+          "word": "is",
+          "start": 26.021,
+          "end": 26.101,
+          "score": 0.807
+        },
+        {
+          "word": "a",
+          "start": 26.181,
+          "end": 26.241,
+          "score": 0.479
+        },
+        {
+          "word": "strength?",
+          "start": 26.281,
+          "end": 26.802,
+          "score": 0.608
+        }
+      ],
+      "speaker_raw": "SPEAKER_02",
+      "speaker": "Guest",
+      "speaker_original": "Speaker 2"
+    },
+    {
+      "start": 27.202,
+      "end": 29.124,
+      "text": " Like being multicultural is a strength.",
+      "words": [
+        {
+          "word": "Like",
+          "start": 27.202,
+          "end": 27.382,
+          "score": 0.792
+        },
+        {
+          "word": "being",
+          "start": 27.743,
+          "end": 27.943,
+          "score": 0.928
+        },
+        {
+          "word": "multicultural",
+          "start": 27.983,
+          "end": 28.644,
+          "score": 0.376
+        },
+        {
+          "word": "is",
+          "start": 28.724,
+          "end": 28.784,
+          "score": 0.652
+        },
+        {
+          "word": "a",
+          "start": 28.804,
+          "end": 28.824,
+          "score": 0.009
+        },
+        {
+          "word": "strength.",
+          "start": 28.844,
+          "end": 29.124,
+          "score": 0.851
+        }
+      ],
+      "speaker_raw": "SPEAKER_02",
+      "speaker": "Guest",
+      "speaker_original": "Speaker 2"
+    },
+    {
+      "start": 29.144,
+      "end": 29.825,
+      "text": "Oh, gosh.",
+      "words": [
+        {
+          "word": "Oh,",
+          "start": 29.144,
+          "end": 29.485,
+          "score": 0.54
+        },
+        {
+          "word": "gosh.",
+          "start": 29.505,
+          "end": 29.825,
+          "score": 0.809
+        }
+      ],
+      "speaker_raw": "SPEAKER_00",
+      "speaker": "Host",
+      "speaker_original": "Speaker 1"
+    },
+    {
+      "start": 30.125,
+      "end": 32.849,
+      "text": "I don't think I realized it for a long time, for a while.",
+      "words": [
+        {
+          "word": "I",
+          "start": 30.125,
+          "end": 30.165,
+          "score": 0.945
+        },
+        {
+          "word": "don't",
+          "start": 30.205,
+          "end": 30.346,
+          "score": 0.771
+        },
+        {
+          "word": "think",
+          "start": 30.386,
+          "end": 30.526,
+          "score": 0.852
+        },
+        {
+          "word": "I",
+          "start": 30.566,
+          "end": 30.646,
+          "score": 0.958
+        },
+        {
+          "word": "realized",
+          "start": 30.706,
+          "end": 31.086,
+          "score": 0.769
+        },
+        {
+          "word": "it",
+          "start": 31.167,
+          "end": 31.207,
+          "score": 0.995
+        },
+        {
+          "word": "for",
+          "start": 31.287,
+          "end": 31.447,
+          "score": 0.912
+        },
+        {
+          "word": "a",
+          "start": 31.507,
+          "end": 31.527,
+          "score": 0.996
+        },
+        {
+          "word": "long",
+          "start": 31.587,
+          "end": 31.807,
+          "score": 0.873
+        },
+        {
+          "word": "time,",
+          "start": 31.847,
+          "end": 32.068,
+          "score": 0.974
+        },
+        {
+          "word": "for",
+          "start": 32.248,
+          "end": 32.428,
+          "score": 0.849
+        },
+        {
+          "word": "a",
+          "start": 32.468,
+          "end": 32.488,
+          "score": 0.243
+        },
+        {
+          "word": "while.",
+          "start": 32.568,
+          "end": 32.849,
+          "score": 0.914
+        }
+      ],
+      "speaker_raw": "SPEAKER_00",
+      "speaker": "Host",
+      "speaker_original": "Speaker 1"
+    },
+    {
+      "start": 32.929,
+      "end": 35.311,
+      "text": "It was a little bit, I think, more so.",
+      "words": [
+        {
+          "word": "It",
+          "start": 32.929,
+          "end": 33.309,
+          "score": 0.821
+        },
+        {
+          "word": "was",
+          "start": 33.349,
+          "end": 33.449,
+          "score": 0.748
+        },
+        {
+          "word": "a",
+          "start": 33.529,
+          "end": 33.549,
+          "score": 0.999
+        },
+        {
+          "word": "little",
+          "start": 33.569,
+          "end": 33.77,
+          "score": 0.828
+        },
+        {
+          "word": "bit,",
+          "start": 33.81,
+          "end": 34.03,
+          "score": 0.997
+        },
+        {
+          "word": "I",
+          "start": 34.33,
+          "end": 34.43,
+          "score": 0.788
+        },
+        {
+          "word": "think,",
+          "start": 34.49,
+          "end": 34.751,
+          "score": 0.904
+        },
+        {
+          "word": "more",
+          "start": 34.831,
+          "end": 35.011,
+          "score": 0.874
+        },
+        {
+          "word": "so.",
+          "start": 35.071,
+          "end": 35.311,
+          "score": 0.957
+        }
+      ],
+      "speaker_raw": "SPEAKER_00",
+      "speaker": "Host",
+      "speaker_original": "Speaker 1"
+    },
+    {
+      "start": 37.714,
+      "end": 38.395,
+      "text": "We were different.",
+      "words": [
+        {
+          "word": "We",
+          "start": 37.714,
+          "end": 37.834,
+          "score": 0.827
+        },
+        {
+          "word": "were",
+          "start": 37.874,
+          "end": 37.994,
+          "score": 0.856
+        },
+        {
+          "word": "different.",
+          "start": 38.055,
+          "end": 38.395,
+          "score": 0.838
+        }
+      ],
+      "speaker_raw": "SPEAKER_00",
+      "speaker": "Host",
+      "speaker_original": "Speaker 1"
+    },
+    {
+      "start": 38.655,
+      "end": 39.756,
+      "text": "We are a different family.",
+      "words": [
+        {
+          "word": "We",
+          "start": 38.655,
+          "end": 38.755,
+          "score": 0.92
+        },
+        {
+          "word": "are",
+          "start": 38.815,
+          "end": 38.915,
+          "score": 0.65
+        },
+        {
+          "word": "a",
+          "start": 38.936,
+          "end": 38.956,
+          "score": 0.999
+        },
+        {
+          "word": "different",
+          "start": 39.016,
+          "end": 39.316,
+          "score": 0.74
+        },
+        {
+          "word": "family.",
+          "start": 39.376,
+          "end": 39.756,
+          "score": 0.838
+        }
+      ],
+      "speaker_raw": "SPEAKER_00",
+      "speaker": "Host",
+      "speaker_original": "Speaker 1"
+    },
+    {
+      "start": 39.877,
+      "end": 41.278,
+      "text": "And we all knew that.",
+      "words": [
+        {
+          "word": "And",
+          "start": 39.877,
+          "end": 39.977,
+          "score": 0.934
+        },
+        {
+          "word": "we",
+          "start": 40.417,
+          "end": 40.537,
+          "score": 0.902
+        },
+        {
+          "word": "all",
+          "start": 40.597,
+          "end": 40.738,
+          "score": 0.964
+        },
+        {
+          "word": "knew",
+          "start": 40.798,
+          "end": 40.958,
+          "score": 0.806
+        },
+        {
+          "word": "that.",
+          "start": 40.998,
+          "end": 41.278,
+          "score": 0.854
+        }
+      ],
+      "speaker_raw": "SPEAKER_00",
+      "speaker": "Host",
+      "speaker_original": "Speaker 1"
+    },
+    {
+      "start": 41.478,
+      "end": 42.42,
+      "text": "But I don't know.",
+      "words": [
+        {
+          "word": "But",
+          "start": 41.478,
+          "end": 41.659,
+          "score": 0.947
+        },
+        {
+          "word": "I",
+          "start": 41.919,
+          "end": 41.979,
+          "score": 0.663
+        },
+        {
+          "word": "don't",
+          "start": 42.019,
+          "end": 42.199,
+          "score": 0.672
+        },
+        {
+          "word": "know.",
+          "start": 42.239,
+          "end": 42.42,
+          "score": 0.846
+        }
+      ],
+      "speaker_raw": "SPEAKER_00",
+      "speaker": "Host",
+      "speaker_original": "Speaker 1"
+    },
+    {
+      "start": 42.44,
+      "end": 48.847,
+      "text": "I didn't know if it was a strength until later on in life where just easy to deal with people.",
+      "words": [
+        {
+          "word": "I",
+          "start": 42.44,
+          "end": 42.46,
+          "score": 0.968
+        },
+        {
+          "word": "didn't",
+          "start": 42.48,
+          "end": 42.84,
+          "score": 0.792
+        },
+        {
+          "word": "know",
+          "start": 42.86,
+          "end": 42.98,
+          "score": 0.873
+        },
+        {
+          "word": "if",
+          "start": 43.02,
+          "end": 43.08,
+          "score": 0.738
+        },
+        {
+          "word": "it",
+          "start": 43.16,
+          "end": 43.22,
+          "score": 0.894
+        },
+        {
+          "word": "was",
+          "start": 43.261,
+          "end": 43.361,
+          "score": 0.918
+        },
+        {
+          "word": "a",
+          "start": 43.421,
+          "end": 43.441,
+          "score": 0.651
+        },
+        {
+          "word": "strength",
+          "start": 43.461,
+          "end": 43.881,
+          "score": 0.694
+        },
+        {
+          "word": "until",
+          "start": 43.961,
+          "end": 44.282,
+          "score": 0.839
+        },
+        {
+          "word": "later",
+          "start": 44.722,
+          "end": 45.003,
+          "score": 0.877
+        },
+        {
+          "word": "on",
+          "start": 45.123,
+          "end": 45.203,
+          "score": 0.945
+        },
+        {
+          "word": "in",
+          "start": 45.283,
+          "end": 45.323,
+          "score": 0.936
+        },
+        {
+          "word": "life",
+          "start": 45.423,
+          "end": 45.683,
+          "score": 0.916
+        },
+        {
+          "word": "where",
+          "start": 45.783,
+          "end": 46.144,
+          "score": 0.698
+        },
+        {
+          "word": "just",
+          "start": 47.666,
+          "end": 47.826,
+          "score": 0.746
+        },
+        {
+          "word": "easy",
+          "start": 47.926,
+          "end": 48.126,
+          "score": 0.922
+        },
+        {
+          "word": "to",
+          "start": 48.166,
+          "end": 48.246,
+          "score": 0.864
+        },
+        {
+          "word": "deal",
+          "start": 48.286,
+          "end": 48.426,
+          "score": 0.846
+        },
+        {
+          "word": "with",
+          "start": 48.446,
+          "end": 48.547,
+          "score": 0.953
+        },
+        {
+          "word": "people.",
+          "start": 48.607,
+          "end": 48.847,
+          "score": 0.895
+        }
+      ],
+      "speaker_raw": "SPEAKER_00",
+      "speaker": "Host",
+      "speaker_original": "Speaker 1"
+    },
+    {
+      "start": 49.147,
+      "end": 49.408,
+      "text": "I think.",
+      "words": [
+        {
+          "word": "I",
+          "start": 49.147,
+          "end": 49.187,
+          "score": 0.957
+        },
+        {
+          "word": "think.",
+          "start": 49.227,
+          "end": 49.408,
+          "score": 0.85
+        }
+      ],
+      "speaker_raw": "SPEAKER_00",
+      "speaker": "Host",
+      "speaker_original": "Speaker 1"
+    },
+    {
+      "start": 49.648,
+      "end": 50.729,
+      "text": "What do you mean by different?",
+      "words": [
+        {
+          "word": "What",
+          "start": 49.648,
+          "end": 49.748,
+          "score": 0.882
+        },
+        {
+          "word": "do",
+          "start": 49.768,
+          "end": 49.868,
+          "score": 0.598
+        },
+        {
+          "word": "you",
+          "start": 49.888,
+          "end": 49.948,
+          "score": 0.833
+        },
+        {
+          "word": "mean",
+          "start": 49.988,
+          "end": 50.128,
+          "score": 0.894
+        },
+        {
+          "word": "by",
+          "start": 50.168,
+          "end": 50.289,
+          "score": 0.905
+        },
+        {
+          "word": "different?",
+          "start": 50.349,
+          "end": 50.729,
+          "score": 0.937
+        }
+      ],
+      "speaker_raw": "SPEAKER_01",
+      "speaker": "Unknown"
+    },
+    {
+      "start": 51.85,
+      "end": 54.994,
+      "text": "Well, we were the only Indian family in our town.",
+      "words": [
+        {
+          "word": "Well,",
+          "start": 51.85,
+          "end": 52.051,
+          "score": 0.954
+        },
+        {
+          "word": "we",
+          "start": 52.071,
+          "end": 52.191,
+          "score": 0.988
+        },
+        {
+          "word": "were",
+          "start": 52.211,
+          "end": 52.351,
+          "score": 0.895
+        },
+        {
+          "word": "the",
+          "start": 52.391,
+          "end": 52.531,
+          "score": 0.39
+        },
+        {
+          "word": "only",
+          "start": 52.631,
+          "end": 52.791,
+          "score": 0.799
+        },
+        {
+          "word": "Indian",
+          "start": 52.872,
+          "end": 53.172,
+          "score": 0.915
+        },
+        {
+          "word": "family",
+          "start": 53.212,
+          "end": 53.592,
+          "score": 0.713
+        },
+        {
+          "word": "in",
+          "start": 53.753,
+          "end": 53.853,
+          "score": 0.862
+        },
+        {
+          "word": "our",
+          "start": 53.873,
+          "end": 54.373,
+          "score": 0.796
+        },
+        {
+          "word": "town.",
+          "start": 54.393,
+          "end": 54.994,
+          "score": 0.891
+        }
+      ],
+      "speaker_raw": "SPEAKER_00",
+      "speaker": "Host",
+      "speaker_original": "Speaker 1"
+    },
+    {
+      "start": 55.074,
+      "end": 56.767,
+      "text": " OK, or partially Indian family.",
+      "words": [
+        {
+          "word": "OK,",
+          "start": 55.074,
+          "end": 55.437,
+          "score": 0.318
+        },
+        {
+          "word": "or",
+          "start": 55.457,
+          "end": 55.558,
+          "score": 0.745
+        },
+        {
+          "word": "partially",
+          "start": 55.618,
+          "end": 56.001,
+          "score": 0.786
+        },
+        {
+          "word": "Indian",
+          "start": 56.041,
+          "end": 56.384,
+          "score": 0.752
+        },
+        {
+          "word": "family.",
+          "start": 56.424,
+          "end": 56.767,
+          "score": 0.928
+        }
+      ],
+      "speaker_raw": "SPEAKER_00",
+      "speaker": "Host",
+      "speaker_original": "Speaker 1"
+    },
+    {
+      "start": 56.807,
+      "end": 60.052,
+      "text": "So I think we stuck out pretty much my sister and I had long.",
+      "words": [
+        {
+          "word": "So",
+          "start": 56.807,
+          "end": 57.009,
+          "score": 0.996
+        },
+        {
+          "word": "I",
+          "start": 57.029,
+          "end": 57.049,
+          "score": 0.999
+        },
+        {
+          "word": "think",
+          "start": 57.392,
+          "end": 57.533,
+          "score": 0.993
+        },
+        {
+          "word": "we",
+          "start": 57.553,
+          "end": 57.674,
+          "score": 0.782
+        },
+        {
+          "word": "stuck",
+          "start": 57.714,
+          "end": 57.916,
+          "score": 0.862
+        },
+        {
+          "word": "out",
+          "start": 57.996,
+          "end": 58.097,
+          "score": 0.8
+        },
+        {
+          "word": "pretty",
+          "start": 58.178,
+          "end": 58.359,
+          "score": 0.994
+        },
+        {
+          "word": "much",
+          "start": 58.399,
+          "end": 58.561,
+          "score": 0.965
+        },
+        {
+          "word": "my",
+          "start": 58.782,
+          "end": 58.883,
+          "score": 0.994
+        },
+        {
+          "word": "sister",
+          "start": 58.944,
+          "end": 59.246,
+          "score": 0.904
+        },
+        {
+          "word": "and",
+          "start": 59.327,
+          "end": 59.407,
+          "score": 0.95
+        },
+        {
+          "word": "I",
+          "start": 59.488,
+          "end": 59.548,
+          "score": 0.989
+        },
+        {
+          "word": "had",
+          "start": 59.609,
+          "end": 59.75,
+          "score": 0.729
+        },
+        {
+          "word": "long.",
+          "start": 59.79,
+          "end": 60.052,
+          "score": 0.975
+        }
+      ],
+      "speaker_raw": "SPEAKER_00",
+      "speaker": "Host",
+      "speaker_original": "Speaker 1"
+    }
+  ],
+  "host_identification": {
+    "host_original_label": "Speaker 1",
+    "guest_original_label": "Speaker 2",
+    "confidence": 0.7,
+    "method": "speaks_first_and_last",
+    "detection_type": "none"
+  }
+}
