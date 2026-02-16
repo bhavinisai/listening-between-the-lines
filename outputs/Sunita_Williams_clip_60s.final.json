@@ -45,7 +45,8 @@
       "speaker_raw": "SPEAKER_00",
       "speaker": "Host",
       "speaker_original": "Speaker 1",
-      "gender": "female"
+      "gender": "female",
+      "gender_confidence": 2.1732983098502703
     },
     {
       "start": 3.445,
@@ -218,7 +219,8 @@
       "speaker_raw": "SPEAKER_00",
       "speaker": "Host",
       "speaker_original": "Speaker 1",
-      "gender": "female"
+      "gender": "female",
+      "gender_confidence": 2.1732983098502703
     },
     {
       "start": 14.643,
@@ -403,7 +405,8 @@
       "speaker_raw": "SPEAKER_00",
       "speaker": "Host",
       "speaker_original": "Speaker 1",
-      "gender": "female"
+      "gender": "female",
+      "gender_confidence": 2.1732983098502703
     },
     {
       "start": 23.757,
@@ -492,7 +495,8 @@
       "speaker_raw": "SPEAKER_02",
       "speaker": "Guest",
       "speaker_original": "Speaker 2",
-      "gender": "male"
+      "gender": "female",
+      "gender_confidence": 1.0458961651558971
     },
     {
       "start": 27.202,
@@ -539,7 +543,8 @@
       "speaker_raw": "SPEAKER_02",
       "speaker": "Guest",
       "speaker_original": "Speaker 2",
-      "gender": "male"
+      "gender": "female",
+      "gender_confidence": 1.0458961651558971
     },
     {
       "start": 29.144,
@@ -562,7 +567,8 @@
       "speaker_raw": "SPEAKER_00",
       "speaker": "Host",
       "speaker_original": "Speaker 1",
-      "gender": "female"
+      "gender": "female",
+      "gender_confidence": 2.1732983098502703
     },
     {
       "start": 30.125,
@@ -651,7 +657,8 @@
       "speaker_raw": "SPEAKER_00",
       "speaker": "Host",
       "speaker_original": "Speaker 1",
-      "gender": "female"
+      "gender": "female",
+      "gender_confidence": 2.1732983098502703
     },
     {
       "start": 32.929,
@@ -716,7 +723,8 @@
       "speaker_raw": "SPEAKER_00",
       "speaker": "Host",
       "speaker_original": "Speaker 1",
-      "gender": "female"
+      "gender": "female",
+      "gender_confidence": 2.1732983098502703
     },
     {
       "start": 37.714,
@@ -745,7 +753,8 @@
       "speaker_raw": "SPEAKER_00",
       "speaker": "Host",
       "speaker_original": "Speaker 1",
-      "gender": "female"
+      "gender": "female",
+      "gender_confidence": 2.1732983098502703
     },
     {
       "start": 38.655,
@@ -786,7 +795,8 @@
       "speaker_raw": "SPEAKER_00",
       "speaker": "Host",
       "speaker_original": "Speaker 1",
-      "gender": "female"
+      "gender": "female",
+      "gender_confidence": 2.1732983098502703
     },
     {
       "start": 39.877,
@@ -827,7 +837,8 @@
       "speaker_raw": "SPEAKER_00",
       "speaker": "Host",
       "speaker_original": "Speaker 1",
-      "gender": "female"
+      "gender": "female",
+      "gender_confidence": 2.1732983098502703
     },
     {
       "start": 41.478,
@@ -862,7 +873,8 @@
       "speaker_raw": "SPEAKER_00",
       "speaker": "Host",
       "speaker_original": "Speaker 1",
-      "gender": "female"
+      "gender": "female",
+      "gender_confidence": 2.1732983098502703
     },
     {
       "start": 42.44,
@@ -993,7 +1005,8 @@
       "speaker_raw": "SPEAKER_00",
       "speaker": "Host",
       "speaker_original": "Speaker 1",
-      "gender": "female"
+      "gender": "female",
+      "gender_confidence": 2.1732983098502703
     },
     {
       "start": 49.147,
@@ -1016,7 +1029,8 @@
       "speaker_raw": "SPEAKER_00",
       "speaker": "Host",
       "speaker_original": "Speaker 1",
-      "gender": "female"
+      "gender": "female",
+      "gender_confidence": 2.1732983098502703
     },
     {
       "start": 49.648,
@@ -1061,8 +1075,7 @@
         }
       ],
       "speaker_raw": "SPEAKER_01",
-      "speaker": "Unknown",
-      "gender": "unknown"
+      "speaker": "Unknown"
     },
     {
       "start": 51.85,
@@ -1133,7 +1146,8 @@
       "speaker_raw": "SPEAKER_00",
       "speaker": "Host",
       "speaker_original": "Speaker 1",
-      "gender": "female"
+      "gender": "female",
+      "gender_confidence": 2.1732983098502703
     },
     {
       "start": 55.074,
@@ -1174,7 +1188,8 @@
       "speaker_raw": "SPEAKER_00",
       "speaker": "Host",
       "speaker_original": "Speaker 1",
-      "gender": "female"
+      "gender": "female",
+      "gender_confidence": 2.1732983098502703
     },
     {
       "start": 56.807,
@@ -1269,58 +1284,24 @@
       "speaker_raw": "SPEAKER_00",
       "speaker": "Host",
       "speaker_original": "Speaker 1",
-      "gender": "female"
+      "gender": "female",
+      "gender_confidence": 2.1732983098502703
     }
   ],
-  "speaker_gender": {
-    "Host": "female",
-    "Guest": "male"
-  },
-  "gender_segments": [
-    {
-      "start": 0.0,
-      "end": 1.12,
-      "gender": "male"
+  "speaker_gender_analysis": {
+    "Host": {
+      "gender": "female",
+      "avg_pitch": 440.0447692871094,
+      "std_pitch": 53.09886932373047,
+      "confidence": 2.1732983098502703,
+      "sample_count": 10
     },
-    {
-      "start": 1.12,
-      "end": 23.82,
-      "gender": "female"
-    },
-    {
-      "start": 23.82,
-      "end": 29.8,
-      "gender": "male"
-    },
-    {
-      "start": 29.8,
-      "end": 36.34,
-      "gender": "female"
-    },
-    {
-      "start": 37.44,
-      "end": 49.9,
-      "gender": "female"
-    },
-    {
-      "start": 49.9,
-      "end": 51.1,
-      "gender": "male"
-    },
-    {
-      "start": 51.1,
-      "end": 54.9,
-      "gender": "female"
-    },
-    {
-      "start": 54.9,
-      "end": 55.6,
-      "gender": "male"
-    },
-    {
-      "start": 55.6,
-      "end": 60.02,
-      "gender": "female"
+    "Guest": {
+      "gender": "female",
+      "avg_pitch": 275.60760498046875,
+      "std_pitch": 50.42950439453125,
+      "confidence": 1.0458961651558971,
+      "sample_count": 2
     }
-  ]
+  }
 }
