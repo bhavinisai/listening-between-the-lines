@@ -1,448 +1,448 @@
-[00:00:25.442 - 00:00:25.742] Guest: Five minutes?
+[00:00:25.442 - 00:00:25.742] Host: Five minutes?
 [00:00:27.525 - 00:00:29.528] Unknown: Yeah, two minutes.
-[00:00:29.548 - 00:00:30.290] Guest: Everything looks good.
-[00:00:30.310 - 00:00:34.476] Guest: Just the monitor, the main monitor went up.
-[00:00:34.496 - 00:00:36.960] Guest: Everyone who's done can leave.
-[00:00:43.991 - 00:00:44.472] Guest: Hi, Sam.
-[00:00:45.032 - 00:00:45.413] Host: Hey, Nikhil.
-[00:00:46.074 - 00:00:47.036] Guest: How are you?
-[00:00:47.056 - 00:00:47.436] Host: I'm good.
-[00:00:47.456 - 00:00:48.117] Host: Sorry I'm late.
-[00:00:48.137 - 00:00:53.746] Host: I got caught up in getting ready for the launch tomorrow and lost track of time and excitement with the final results.
-[00:00:54.050 - 00:00:54.531] Guest: No worries.
-[00:00:54.651 - 00:00:56.333] Guest: I'm guessing it must be really hectic, right?
-[00:00:56.513 - 00:01:01.941] Host: It is a very hectic day.
-[00:01:13.558 - 00:01:16.902] Guest: I have the model and I've been playing with it a little bit.
-[00:01:17.704 - 00:01:18.825] Guest: How is it different, Sam?
-[00:01:20.087 - 00:01:22.290] Guest: I'm not an expert at this, so yeah.
-[00:01:23.714 - 00:01:31.422] Host: There's all these ways we can talk about it's better at this metric or it can do this amazing coding demo that GPT-4 couldn't.
-[00:01:31.903 - 00:01:42.514] Host: But the thing that has been most striking for me is in ways that are both big and small, going back from GPT-5 to our previous generation model is just so painful.
-[00:01:42.534 - 00:01:44.116] Host: It's just worse at everything.
-[00:01:44.156 - 00:01:53.266] Host: And I've taken for granted that there is a fluency and a depth of intelligence with GPT-5 that we haven't had in any previous model.
-[00:01:53.410 - 00:02:01.242] Host: It's an integrated model, so you don't have to pick on our model switcher and know if you should use GPT-40 or 03 or 04 mini or any of the complicated things.
-[00:02:01.302 - 00:02:03.065] Host: It's just one thing that works.
-[00:02:03.325 - 00:02:12.239] Host: And it is like having PhD level experts in every field available to you 24-7 for whatever you need.
-[00:02:13.521 - 00:02:15.925] Host: Not only to ask anything, but also to do anything for you.
-[00:02:16.345 - 00:02:22.034] Host: So if you need a piece of software created, it can kind of do it from scratch all at once.
-[00:02:22.498 - 00:02:26.224] Host: If you need a research report on some complicated topic, it can do that for you.
-[00:02:26.244 - 00:02:28.628] Host: If you needed to plan an event for you, it could do that too.
-[00:02:30.251 - 00:02:38.625] Guest: Is it more agentic in nature in the sense that sequential tasking, you're one step closer to it?
-[00:02:38.946 - 00:02:39.947] Guest: Because I was trying that out.
-[00:02:40.809 - 00:02:42.191] Host: It's much better at things like that.
-[00:02:42.251 - 00:02:48.722] Host: The robustness and reliability has greatly increased and that's very helpful for agentic workflows.
-[00:02:49.346 - 00:02:54.091] Host: So I'm like very impressed by how long and complex of a task it can carry out.
-[00:02:54.631 - 00:03:02.179] Guest: So we did a call a couple of weeks ago when I was bugging you about what sectors and themes to invest in for the next decade.
-[00:03:03.580 - 00:03:06.323] Guest: So I don't want to talk about that too much.
-[00:03:06.403 - 00:03:17.074] Guest: I thought we'll keep today about first principles and how the world is changing by virtue of all that is changing in the world that you dominate.
-[00:03:17.250 - 00:03:38.071] Guest: So the very first thing I want to start with is if I were a 25 year old boy or girl living in Mumbai or Bangalore or in India, I know you've said a bunch of times that colleges are not holding on to the place of relevance they might have had when I was growing up.
-[00:03:38.992 - 00:03:40.133] Guest: But what do I do now?
-[00:03:40.493 - 00:03:41.574] Guest: A, what do I study?
-[00:03:41.594 - 00:03:45.298] Guest: If I'm starting a company, what kind of company do I start?
-[00:03:46.338 - 00:03:52.846] Guest: Or if I were to even find a job, what industry do you think has some kind of tailwind?
-[00:03:53.487 - 00:03:58.794] Guest: I'm not talking 10 years down the line, but even as close as three to five years down the line.
-[00:03:59.375 - 00:04:04.021] Host: First of all, I think this is probably the most exciting time to be starting out one's career.
-[00:04:05.042 - 00:04:05.563] Host: Maybe ever.
-[00:04:06.183 - 00:04:14.514] Host: I think that 25-year-old in Mumbai can probably do more than any previous 25-year-old in history could.
-[00:04:14.754 - 00:04:17.017] Host: It's really amazing what you can do with a tool like this.
-[00:04:17.718 - 00:04:33.020] Host: I felt the same way when I was 25 and the tools then were not as amazing as tools we have now, but we had the computer revolution and we could do things, a 25 year old then could do things that no 25 year old in history before would have been able to.
-[00:04:34.201 - 00:04:36.484] Host: And now that's happening in a huge way.
-[00:04:36.585 - 00:04:43.314] Host: So whether you want to start a company or be a programmer or go work in kind of any other industry,
-[00:04:43.394 - 00:04:59.194] Host: create new media, whatever it is, the ability for one person to use these tools and have great ideas and implement them with what would have taken decades of experience or teams of people is really quite remarkable.
-[00:04:59.734 - 00:05:10.067] Host: In terms of particular industries, I am very excited about what AI is going to mean for science and the amount of science that one person will be able to discover and the rate at which they can do that.
-[00:05:10.708 - 00:05:12.210] Host: Clearly, it's transforming
-[00:05:12.386 - 00:05:14.889] Host: what it means to program computers in a huge way.
-[00:05:15.029 - 00:05:20.455] Host: And people will be able to create completely new kinds of software in a huge new scale.
-[00:05:21.677 - 00:05:29.766] Host: Definitely for startups, if you have an idea for a new business, the ability for a very tiny team to do a huge amount of work is great.
-[00:05:32.570 - 00:05:36.154] Host: But it feels like this is just now a very open canvas.
-[00:05:37.616 - 00:05:39.698] Host: People are limited.
-[00:05:39.970 - 00:05:47.320] Host: to a degree that they've never been before, only by the quality and creativity of their ideas, and you have these incredible tools to help you realize them.
-[00:05:47.740 - 00:05:51.486] Guest: Is there anything in particular you want to say about GPT-5, then I can ask you questions around that?
-[00:05:52.146 - 00:06:00.578] Host: GPT-5 does feel to us like it's going to be another big step forward in how people use these systems.
-[00:06:02.000 - 00:06:09.650] Host: The level of capability, the level of robustness, the reliability,
-[00:06:10.018 - 00:06:17.188] Host: a lot of tasks in life to create software, to answer questions, to learn, to work more efficiently.
-[00:06:17.208 - 00:06:21.414] Host: This is a pretty significant step forward.
-[00:06:21.474 - 00:06:25.439] Host: Each time we've had one of these, we have been amazed by the human potential it unlocks.
-[00:06:26.440 - 00:06:32.068] Host: And in particular, India is now our second largest market in the world.
-[00:06:32.368 - 00:06:36.434] Host: It may become our largest.
-[00:06:36.578 - 00:06:45.068] Host: taken a lot of feedback from users in India about what they'd like from us, better support for languages, more affordable access, much more.
-[00:06:45.089 - 00:06:48.132] Host: And we've been able to put that into this model and upgrades to chat GPT.
-[00:06:49.414 - 00:06:51.236] Host: So we're committed to continuing to work on that.
-[00:06:51.316 - 00:07:05.714] Host: But the, you know, every time we've had a major leap forward in how the capability we can bring to users, we've been amazed by what those, those 25 year olds go off and do in terms of creating new companies
-[00:07:06.018 - 00:07:08.541] Host: learning better, getting better medical advisor, whatever else.
-[00:07:09.803 - 00:07:21.557] Guest: Is there anything that I could build on top of GPT-5 today as a 25 year old in India that you think are low hanging fruits per se that I should definitely look at?
-[00:07:21.577 - 00:07:25.902] Host: I think you could build an entire startup way more efficiently than you ever could before.
-[00:07:26.042 - 00:07:30.788] Host: Now, this is obviously I'm biased because this is like near and dear to my heart.
-[00:07:31.209 - 00:07:35.634] Host: But the fact that as a 25 year old in India or anywhere else,
-[00:07:36.226 - 00:08:05.202] Host: maybe with a couple of friends, maybe just by yourself, you could use GPT-5 to help you write the software for a product much more efficiently, help you handle customer support, help you write marketing and communications plans, help you review legal documents, all of these things that would have taken a lot of people and a lot of expertise, and you now have GPT-5 to help you do all of this, that's pretty amazing.
-[00:08:05.698 - 00:08:16.092] Guest: If I could push you to be like a bit more specific and say, I get science, but what do I study?
-[00:08:16.132 - 00:08:20.297] Guest: Say I've been studying engineering or commerce or arts or something like that.
-[00:08:21.479 - 00:08:26.846] Guest: Is there any specific thing I study in order to use AI to develop something in science?
-[00:08:28.689 - 00:08:35.698] Host: I think the most important specific thing to study is just getting really good at using the new AI tools.
-[00:08:36.290 - 00:08:43.620] Host: I think learning is valuable for its own sake and learning to learn is this like meta skill that will serve you throughout life.
-[00:08:44.241 - 00:08:54.314] Host: And whether you're learning, you know, engineering, like computer engineering or biology or any other field like that, if you get good at learning things, you can learn new things quickly.
-[00:08:54.655 - 00:09:00.062] Host: But fluency with the tools is, you know, is really important.
-[00:09:00.082 - 00:09:05.970] Host: When I was in college or in high school, it seemed to me that the obvious thing to do was learn a program.
-[00:09:06.082 - 00:09:14.351] Host: And I didn't know exactly what I was going to use that for, but there was this new frontier that seemed very high leverage and important to get good at.
-[00:09:14.871 - 00:09:22.119] Host: And right now, learning how to use AI tools is probably the most important specific hard skill to learn.
-[00:09:22.540 - 00:09:27.845] Host: And the difference between people who are really good at it, really AI native and think of everything in terms of those tools and don't is huge.
-[00:09:28.606 - 00:09:29.787] Host: There's other general skills.
-[00:09:31.870 - 00:09:35.954] Host: Learning kind of like to be adaptable and resilient, which I think is something really learnable.
-[00:09:36.066 - 00:09:40.873] Host: That's like quite valuable in a world that's changing so fast.
-[00:09:40.893 - 00:09:45.380] Host: Learning how to figure out what people want is really quite important.
-[00:09:47.023 - 00:09:53.853] Host: Before this, I used to be a startup investor and people would ask me what the most important thing for startup founders to figure out was.
-[00:09:54.554 - 00:10:00.964] Host: And my predecessor, Paul Graham, had this answer that has always stuck with me for people to give to founders.
-[00:10:01.545 - 00:10:04.850] Host: And it became the motto for Y Combinator, which is make something people want.
-[00:10:05.570 - 00:10:08.513] Host: And that sounds like such an easy instruction.
-[00:10:08.573 - 00:10:14.538] Host: I have watched so many people try so hard to learn how to figure that out and fail.
-[00:10:14.558 - 00:10:19.303] Host: And then I've watched many people work really hard to learn how to do that and get great at it over a career.
-[00:10:19.863 - 00:10:21.645] Host: So that's something as well.
-[00:10:21.665 - 00:10:26.169] Host: But in terms of the specifics, like are you supposed to take the biology class or the physics class?
-[00:10:26.630 - 00:10:27.531] Host: I don't think it matters right now.
-[00:10:28.031 - 00:10:35.538] Guest: And if I were to build on top of that, and when you say learn to adapt and change and learn AI tools,
-[00:10:35.682 - 00:10:36.283] Guest: faster.
-[00:10:36.944 - 00:10:37.645] Guest: Is there a path?
-[00:10:38.447 - 00:10:41.372] Guest: I'm just looking for a light that somebody could begin walking towards.
-[00:10:41.752 - 00:10:45.559] Guest: How does one get better at the AI tools that are available out there?
-[00:10:46.581 - 00:10:48.023] Host: Well, one great thing to do.
-[00:10:49.385 - 00:10:54.474] Host: GPT-5 is quite good at helping to create small pieces of software very quickly.
-[00:10:55.816 - 00:11:01.426] Host: And much better than any model that I've used.
-[00:11:02.434 - 00:11:11.124] Host: few weeks, I have surprised myself how much I've used it to create a piece of software to solve some little problem that I have in my life.
-[00:11:11.584 - 00:11:16.369] Host: And, you know, it's been an interesting creative process, because I'll ask it for a first draft, I'll start using that.
-[00:11:16.910 - 00:11:19.473] Host: And then I'll say, hey, with this feature, it would be better.
-[00:11:19.893 - 00:11:22.196] Host: Or with this other thing, I'd be able to do something differently.
-[00:11:22.896 - 00:11:27.461] Host: Or, you know, I have started using it and realized that with my workflow, I really needed this.
-[00:11:28.162 - 00:11:31.666] Host: And by putting more and more of the things that I have to do in this kind of a workflow,
-[00:11:32.162 - 00:11:35.846] Host: That's been a very interesting way for me to learn how to use this.
-[00:11:37.508 - 00:11:49.703] Guest: You mentioned Paul Graham and I was reading this letter or report he wrote in 2009 where he spoke about five founders to watch out for.
-[00:11:50.765 - 00:11:58.874] Guest: And I think you were 19 at the time and he mentioned you along with people like Steve Jobs and Larry and Sergey.
-[00:12:01.057 - 00:12:01.938] Guest: Why was that?
-[00:12:02.082 - 00:12:05.727] Guest: You hadn't accomplished anything of note like they had.
-[00:12:05.947 - 00:12:07.769] Guest: What did Paul see in you?
-[00:12:08.550 - 00:12:12.075] Guest: And what do you think is the innate skill set that sets you apart from your peers?
-[00:12:13.657 - 00:12:14.518] Host: That was very nice of him.
-[00:12:14.638 - 00:12:15.199] Host: I remember that.
-[00:12:15.540 - 00:12:22.649] Host: I certainly, I remember at the time feeling that it was very deeply undeserved, but grateful that he said that.
-[00:12:23.350 - 00:12:29.778] Host: I mean, there's like a lot of people who are starting great companies.
-[00:12:30.978 - 00:12:34.443] Host: lucky here in many ways, we've also worked super hard.
-[00:12:38.248 - 00:12:48.041] Host: Maybe the one thing that I would, that I think we have done here well is to take a very long time horizon and think very independently.
-[00:12:48.602 - 00:12:53.989] Host: You know, when we started, it was like four and a half years before we had a first product and it was very uncertain.
-[00:12:54.690 - 00:12:58.595] Host: We were just doing research, trying to figure out how to get AI to work.
-[00:12:59.036 - 00:13:00.818] Host: And we had very different ideas then
-[00:13:00.962 - 00:13:02.083] Host: the rest of the world.
-[00:13:04.967 - 00:13:13.017] Host: But I think that ability to sort of trust our own conviction over a long time horizon without a lot of external feedback was very helpful.
-[00:13:13.978 - 00:13:15.800] Guest: Is that a V or an I thing?
-[00:13:15.820 - 00:13:17.842] Guest: Because I'm speaking about when you were 19.
-[00:13:18.884 - 00:13:20.105] Host: Oh, sorry.
-[00:13:20.125 - 00:13:21.747] Host: I thought you were asking about open AI.
-[00:13:22.448 - 00:13:24.150] Host: Me when I was 19, I barely remember that.
-[00:13:24.210 - 00:13:24.591] Host: I don't know.
-[00:13:24.771 - 00:13:30.738] Host: I was like a naive 19-year-old that didn't really know what he was doing.
-[00:13:32.514 - 00:13:33.596] Host: This is not false modesty.
-[00:13:33.616 - 00:13:35.659] Host: I think I've done impressive things now.
-[00:13:35.880 - 00:13:41.429] Host: But my own self-conception in 19 was like deeply unsure of myself and very unimpressive.
-[00:13:41.970 - 00:13:51.145] Guest: If the world were to be, the world of tomorrow were to be an AI kingdom of sorts, you're definitely some kind of prince.
-[00:13:52.547 - 00:13:58.898] Guest: And I don't know if you follow Machiavelli, but he used to say a very interesting thing.
-[00:13:59.778 - 00:14:12.632] Guest: He said that a prince should always appear but not be religious, compassionate, trustworthy, humane and honest.
-[00:14:14.914 - 00:14:18.939] Guest: Do you think this particular projection of...
-[00:14:19.620 - 00:14:29.170] Guest: I've watched a lot of your interviews of late and I've heard you say repeatedly that you're not formidable and use words like that.
-[00:14:29.698 - 00:14:36.727] Guest: this projection of humility, is it apt for the world we live in or the world you're walking into?
-[00:14:41.633 - 00:14:57.714] Host: I'm not sure it's apt for either one, but when I was 19, to go back to what you said, I assumed that the people running these big tech companies really had it all figured out.
-[00:14:58.050 - 00:15:15.411] Host: and there were adults in the room and somebody had a plan and there were these people that were like way different than me that understood how to do things and had this like, the companies were like running very well and there was like not much drama and everything was like, just everything was being handled by the adults.
-[00:15:16.393 - 00:15:21.759] Host: And now that I'm supposed to be the adult in the room, I will tell you, I think no one has a plan.
-[00:15:22.020 - 00:15:24.162] Host: No one really has it all working smoothly.
-[00:15:24.202 - 00:15:27.186] Host: Everyone or at least I am figuring out as they go
-[00:15:27.618 - 00:15:49.178] Host: And you have things you want to build and then things go wrong and you bet on the wrong people or the right people and you get a technological breakthrough here or you don't there and you just keep putting one foot in front of another and you put your head down and work and you have these tactics that some of them become great strategies, some of them don't.
-[00:15:50.259 - 00:15:57.266] Host: You try something and the market reacts in some way or your competitors react in some way and you do something else.
-[00:15:59.458 - 00:16:03.544] Host: And now my conception is everybody is kind of figuring it out as they go.
-[00:16:03.564 - 00:16:05.127] Host: Everybody is like learning on the job.
-[00:16:05.487 - 00:16:09.774] Host: And I don't think that's like false humility.
-[00:16:09.794 - 00:16:11.797] Host: I think that's just the way the world works.
-[00:16:11.817 - 00:16:20.191] Host: And it's like a little, it's a little strange to be on this side of it, but that is what it seems like.
-[00:16:21.252 - 00:16:27.442] Guest: I'm not even speaking so much about the authenticity of the humility or not, but
-[00:16:27.970 - 00:16:33.858] Guest: More again from the lens of somebody starting to build for tomorrow, because that's who we speak to.
-[00:16:34.980 - 00:16:37.203] Guest: Is that a good image to project into the world?
-[00:16:37.363 - 00:16:42.810] Host: Does it... the image of humility really work today?
-[00:16:43.291 - 00:16:45.274] Host: You mean, should someone project that image?
-[00:16:45.334 - 00:16:57.010] Host: I mean, I certainly have a very negative reaction to... people who are...
-[00:16:59.458 - 00:17:05.884] Host: projecting certainty and confidence when they don't really know what's going to happen.
-[00:17:05.904 - 00:17:23.461] Host: And the reason is not just because it's annoying, which it is, but also because I think if you have that kind of a mindset, it is harder to have the culture of intellectual openness and to sort of like listen to other viewpoints and make good decisions.
-[00:17:24.182 - 00:17:28.146] Host: A thing I say all the time to people is no one knows what happens next.
-[00:17:28.834 - 00:17:32.578] Host: And the more you forget that and the more you're like, I am smarter than everybody else.
-[00:17:32.638 - 00:17:33.499] Host: I have a master plan.
-[00:17:33.559 - 00:17:39.025] Host: I'm not going to pay attention to like what my users are saying or where the technology takes us or how the world is reacting.
-[00:17:39.065 - 00:17:42.569] Host: But, you know, I know better and the world doesn't know as much.
-[00:17:43.170 - 00:17:44.611] Host: I think you just make worse decisions.
-[00:17:45.552 - 00:17:58.066] Host: So having that kind of open mindset and the sort of like curiosity and willingness to adapt to new data and change your mind, I think that's super important.
-[00:17:59.618 - 00:18:08.070] Host: Like the number of times we have thought we knew something to get smacked in the face by reality here has been a lot.
-[00:18:08.631 - 00:18:19.065] Host: And one of our strengths as a company is when that happens, we change what we're going to do where that that's been, I think that's been really great and a big part of what's helped us succeed.
-[00:18:19.125 - 00:18:28.178] Host: So, so maybe there are other ways to succeed and maybe, you know, projecting a ton of bravado into the world works,
-[00:18:30.498 - 00:18:41.350] Host: the best founders that I have watched up close throughout my career have all been more like the sort of quick learning and adapting style.
-[00:18:41.650 - 00:18:45.555] Guest: And you probably know more about this than most because of your role at Y Combinator.
-[00:18:45.935 - 00:18:51.021] Guest: I have a lot of data points on it at least, yeah.
-[00:18:51.341 - 00:18:59.250] Guest: When we met in Washington a couple of years ago at the White House, I remember when we were speaking and you went somewhere, I was speaking to your partner.
-[00:18:59.650 - 00:19:00.652] Guest: And you guys had a kid.
-[00:19:01.653 - 00:19:01.934] Host: We did.
-[00:19:03.176 - 00:19:04.298] Host: And how is that?
-[00:19:05.279 - 00:19:07.042] Host: Uh, it is my favorite thing ever.
-[00:19:07.082 - 00:19:09.927] Host: But I mean, I, I know that like, I have nothing that is not a cliche to say here.
-[00:19:10.708 - 00:19:21.746] Host: Um, but it is the coolest, most amazing, most like emotionally overwhelming in the best ways and hard ways to experience every
-[00:19:22.946 - 00:19:29.733] Host: Everything everyone said about how great it is, how intense it is, how it's like a kind of love you didn't know you could feel, it's all true.
-[00:19:29.773 - 00:19:33.116] Host: I have nothing to add other than I strongly recommend it.
-[00:19:33.216 - 00:19:35.658] Host: And I think it's been really wonderful.
-[00:19:35.679 - 00:19:36.259] Host: It's amazing.
-[00:19:37.440 - 00:19:49.312] Guest: So I ponder on this a lot, Sam, kids, why people have kids, and also questions like what happens to religion and marriage tomorrow?
-[00:19:49.872 - 00:19:51.474] Guest: Can I ask you why you had a kid?
-[00:19:51.874 - 00:19:54.758] Host: Like family has always been an incredibly important thing to me.
-[00:19:55.078 - 00:20:13.683] Host: And going, like it just, it felt like, it felt like the most, and I didn't even know how much I underestimated what it was actually going to be like, but it felt like the most important and meaningful and fulfilling thing I could imagine doing.
-[00:20:13.843 - 00:20:17.809] Host: And it has so far, so early exceeded all expectations.
-[00:20:19.451 - 00:20:21.714] Guest: Do you think it's the biological need
-[00:20:21.954 - 00:20:22.735] Guest: to procreate?
-[00:20:23.516 - 00:20:47.627] Host: I don't know, there's like, this seems like a thing that is so deep, it's difficult to put into words, but I feel confident, like everyone I know looking back on their life who has had a great career and had a family has either said, you know, I'm so glad I took the time to have kids.
-[00:20:47.687 - 00:20:49.970] Host: That was one of the most important things I've ever done.
-[00:20:50.306 - 00:20:51.147] Host: the best things I've ever done.
-[00:20:51.447 - 00:20:53.509] Host: Or they've said that was by far the best thing I've ever done.
-[00:20:53.529 - 00:20:55.611] Host: That was way more important than any of the work I ever did.
-[00:20:57.053 - 00:21:01.217] Host: And I was like willing to take the leap of faith that that would be true for me too.
-[00:21:01.337 - 00:21:02.578] Host: And it certainly seems like it will be.
-[00:21:02.698 - 00:21:04.360] Host: It's like, yeah, it is.
-[00:21:04.860 - 00:21:07.363] Host: And if it is just a biological hack, I don't care, I'm so happy.
-[00:21:08.584 - 00:21:18.834] Host: But it, you know, it like, there's a sense of responsibility and kind of like family is the word that keeps coming to mind that is just really great.
-[00:21:19.682 - 00:21:29.916] Guest: The world seems to be having lesser kids, and do you have an insight into the future of marriage, religion, and kids?
-[00:21:29.936 - 00:21:41.452] Host: Yeah, I hope that creating family, creating community, whatever you want to call it, will become far more important in a sort of post-AGI world.
-[00:21:42.253 - 00:21:46.579] Host: I think it's a real problem for society that those things have been in retreat.
-[00:21:47.401 - 00:21:48.402] Host: I think that
-[00:21:50.370 - 00:21:51.972] Host: that just feels strictly bad to me.
-[00:21:52.413 - 00:21:58.782] Host: I'm obviously not sure why that's been happening, but I hope we'll really reverse course on that.
-[00:21:59.283 - 00:22:15.426] Host: And in a world where people have more abundance, more time, more sort of resources and potential and ability, I think it's like pretty clear that family and community are two of the things that make us the happiest.
-[00:22:16.387 - 00:22:18.450] Host: And I hope we will turn back to that.
-[00:22:20.162 - 00:22:34.762] Guest: As societies get more affluent, if one were to buy into the mimetic desires of people, we all tend to want what other people want, not necessarily what other people have.
-[00:22:34.802 - 00:22:41.811] Guest: If we all had more, do you think we would still want more if we all had enough?
-[00:22:43.774 - 00:22:49.682] Host: I do sort of think that human demand, desire,
-[00:22:49.890 - 00:22:54.215] Host: ability to play status games, whatever is like, it seems pretty limitless.
-[00:22:55.456 - 00:22:59.901] Host: I don't think that's necessarily bad, or not all bad.
-[00:23:01.202 - 00:23:04.446] Host: But yeah, I think we will figure out new things to want and new things to compete over.
-[00:23:06.228 - 00:23:14.536] Guest: Do you think the world retains, largely the world retains the current model of capitalism and democracy in a way?
-[00:23:15.698 - 00:23:16.799] Guest: Let me give you a scenario.
-[00:23:16.899 - 00:23:19.762] Guest: What happens if a company X
-[00:23:21.058 - 00:23:26.767] Guest: Let's say OpenAI gets to the point where it is 50% of world GDP.
-[00:23:27.888 - 00:23:31.374] Guest: Does society allow for that or?
-[00:23:32.295 - 00:23:32.836] Host: I would bet not.
-[00:23:33.517 - 00:23:34.298] Host: I don't think that will happen.
-[00:23:34.358 - 00:23:36.822] Host: I think this will be a much more distributed thing.
-[00:23:36.862 - 00:23:41.068] Host: But if for some reason that did happen, I think society would say, we don't think so.
-[00:23:41.128 - 00:23:44.133] Host: Like let's figure out something to do here.
-[00:23:45.875 - 00:23:50.322] Host: The analogy I like most for AI is the transistor.
-[00:23:50.882 - 00:24:01.774] Host: which was this really important scientific discovery that for a while looked like it was going to capture a ton of the value and then turned out to be something that just gets built into like tons of products and services.
-[00:24:01.854 - 00:24:12.546] Host: And you don't really think about, you know, the fact that you're using transistors all day long, it's just kind of in everything and all these companies make incredible products and profits from it in this very distributed way.
-[00:24:13.467 - 00:24:14.868] Host: So I would guess that's what happens.
-[00:24:14.928 - 00:24:16.530] Host: And it's not like one company has ever
-[00:24:16.866 - 00:24:18.028] Host: half of global GDP.
-[00:24:18.589 - 00:24:22.094] Host: At one point, I did worry that that might happen, but I think that was a naive take.
-[00:24:23.777 - 00:24:23.957] Guest: Right.
-[00:24:24.738 - 00:24:34.233] Guest: But do you think the odds of the world moving towards socialism go up or if something gets that large, will it get nationalized and we become more socialist?
-[00:24:35.895 - 00:24:38.039] Host: I don't know if something will get nationalized.
-[00:24:38.079 - 00:24:42.866] Host: I don't know if the world will like officially turn towards socialism, but I expect that
-[00:24:45.154 - 00:24:55.985] Host: I expect that like social support or redistribution or whatever you want to call it will increase over time as society gets richer and as sort of the technological landscape shifts.
-[00:24:56.005 - 00:24:59.668] Host: I don't know what way it's going to happen and I expect in different countries, it'll happen in different ways.
-[00:24:59.929 - 00:25:08.497] Host: Like I think you'll see experimentation of like new kinds of sovereign wealth funds, new kinds of like universal basic income ideas, redistribution of AI compute.
-[00:25:08.557 - 00:25:13.522] Host: I don't know exactly what, but I suspect we'll see a lot of experimentation in society here.
-[00:25:15.074 - 00:25:19.941] Guest: On universal basic income, I think world coin was a very interesting experiment.
-[00:25:20.001 - 00:25:22.044] Guest: Can you tell us a bit about what's happening there?
-[00:25:23.005 - 00:25:26.650] Host: Uh, the idea was, could we, you know, we have all this AI coming.
-[00:25:26.951 - 00:25:29.895] Host: We really want to like care about humans is special.
-[00:25:30.396 - 00:25:37.786] Host: Can we find a way to a privacy preserving way to identify unique humans and then create a new network and a new currency around that.
-[00:25:38.667 - 00:25:43.474] Host: Uh, so it's a very interesting experiment, still early, but growing quite fast.
-[00:25:43.554 - 00:25:49.842] Guest: AGI eliminates scarcity or scarcity by virtue of increasing productivity.
-[00:25:52.905 - 00:25:56.890] Guest: Could one also assume that it would be deflationary in nature?
-[00:25:58.432 - 00:26:10.487] Guest: Capital or money loses its ability to return a rate of return and capital no longer remains a moat in the world of tomorrow?
-[00:26:11.908 - 00:26:13.330] Host: I feel confused about this.
-[00:26:13.474 - 00:26:20.962] Host: I think if you look at the basic economic principles, it's supposed to be hugely deflationary.
-[00:26:22.183 - 00:26:42.866] Host: And yet, if the world decides that building out AI compute today is super important to things tomorrow, maybe something very strange happens with the economy and maybe capital is really, really important because every piece of compute is so valuable.
-[00:26:43.330 - 00:26:51.998] Host: I was asking someone at dinner the other night if they thought that interest rates should be minus 2% or 25%.
-[00:26:54.120 - 00:26:55.121] Host: And he kind of laughed.
-[00:26:55.141 - 00:26:56.903] Host: He's like, well, that's a ridiculous question.
-[00:26:56.963 - 00:26:57.523] Host: It has to be.
-[00:26:57.563 - 00:26:59.785] Host: And then he stopped and said, actually, I'm not sure.
-[00:27:00.446 - 00:27:07.553] Host: So I think it's like, yeah, it should be deflationary eventually, but I could see it being weird in the short term.
-[00:27:08.834 - 00:27:10.736] Guest: It's actually a very interesting thing to say.
-[00:27:11.196 - 00:27:13.138] Guest: Do you suspect it would be minus 2%?
-[00:27:14.338 - 00:27:16.341] Host: Eventually.
-[00:27:18.405 - 00:27:19.366] Host: But I'm not sure.
-[00:27:19.546 - 00:27:26.798] Host: And maybe it's just like we're in this massive expansionary time where you're trying to like build the Dyson Sphere and the solar system and you're borrowing money at crazy rates to do that.
-[00:27:26.878 - 00:27:30.945] Host: And then there's more expansion beyond and more and more and I don't know.
-[00:27:31.305 - 00:27:37.596] Host: I find it very hard to see more than a few years in the future at this point.
-[00:27:38.617 - 00:27:41.522] Guest: The conversation we were having a couple of weeks ago,
-[00:27:41.666 - 00:27:44.649] Guest: I was doing more research on the sectors you had suggested.
-[00:27:44.669 - 00:27:48.694] Guest: I think we agreed on older and sicker world.
-[00:27:50.376 - 00:27:57.785] Guest: You also made a case for as discretionary spend goes up, gateway luxury brands might do well.
-[00:27:58.345 - 00:27:59.146] Host: Yeah.
-[00:27:59.166 - 00:28:01.209] Guest: What happens to them in a deflationary world?
-[00:28:02.130 - 00:28:05.153] Guest: Because the value of these purchases go down.
-[00:28:05.894 - 00:28:06.374] Guest: Maybe not.
-[00:28:06.535 - 00:28:09.458] Host: I mean, in a deflationary world,
-[00:28:09.634 - 00:28:13.701] Host: face huge deflationary pressure and others can be the sink for all of the extra capital.
-[00:28:14.362 - 00:28:17.106] Host: So I'm actually not sure they do go down in a deflationary world.
-[00:28:18.509 - 00:28:20.592] Host: I would bet they go up actually.
-[00:28:22.616 - 00:28:24.899] Host: Because the excess capital has to flow somewhere.
-[00:28:25.140 - 00:28:36.178] Guest: When you look at classical economic theory like Adam Smith and stuff like that, the Austrian school always spoke about the marginal utility of things.
-[00:28:36.450 - 00:28:41.879] Guest: If you have one kettle at home to make tea, it has X in value.
-[00:28:42.640 - 00:28:45.284] Guest: When you have two kettles, it still has some value.
-[00:28:45.364 - 00:28:48.409] Guest: But when you have 20 kettles, it has no value.
-[00:28:49.070 - 00:28:50.713] Guest: Do you think the world goes in that direction?
-[00:28:51.835 - 00:28:53.778] Host: Yeah, so 20 kettles doesn't help you.
-[00:28:54.799 - 00:29:03.954] Host: But even if you're only going to spend two hours a day playing video games or whatever, and that amount of time is fixed,
-[00:29:04.930 - 00:29:06.873] Host: And so you don't need 20 hours worth of video games.
-[00:29:07.654 - 00:29:14.524] Host: If that two hours of games gets better and more entertaining forever and ever and ever, and just keeps getting more and more compelling, that still has value to you.
-[00:29:16.047 - 00:29:28.766] Host: And I think there are a lot of categories where we will find that people can just get much better stuff, even if they don't necessarily get more of them.
-[00:29:30.148 - 00:29:31.570] Host: I think we'll see this in a really big way.
-[00:29:32.066 - 00:29:36.914] Guest: Do you think there's a use case for the rappers that are getting built on these large models right now?
-[00:29:37.114 - 00:29:41.001] Guest: Like I was in the U.S. recently and I met Harvey for example.
-[00:29:42.243 - 00:29:44.466] Guest: What happens to a rapper like that?
-[00:29:45.889 - 00:29:53.361] Guest: Does it get innovated out by the model itself at some point of time?
-[00:29:53.381 - 00:29:56.466] Host: Some of them yes and some of them no.
-[00:29:56.834 - 00:29:59.718] Host: Sometimes you can obviously predict when one is going to go one way or the other.
-[00:29:59.758 - 00:30:05.706] Host: And sometimes it really depends on the choices the company makes down the line.
-[00:30:05.986 - 00:30:13.536] Host: The main thing I would say is using AI itself does not create a defensible business.
-[00:30:14.457 - 00:30:24.210] Host: You see this with every technology boom where people are like, well, I must start up doing X and because I'm using the latest technology trend, the normal rules of business don't apply to me.
-[00:30:24.898 - 00:30:25.900] Host: And that's never true.
-[00:30:26.040 - 00:30:37.577] Host: You've always got to parlay that advantage that comes from using the new technology into a durable business with real value that gets created.
-[00:30:38.298 - 00:30:40.341] Host: And it's kind of a race against the clock to do that.
-[00:30:40.962 - 00:30:54.002] Host: So, you know, you can definitely build an amazing thing with AI, but then you have to go build a real defensible layer around it.
-[00:30:54.178 - 00:31:13.238] Guest: The example of Amazon, for example, if I sold a certain kind of t-shirt and I sold a lot and Amazon had all the data, eventually Amazon probably started a white labeled brand, which was very similar to mine and cannibalize my business almost.
-[00:31:14.259 - 00:31:20.626] Guest: Should one worry that will happen here as well, because you're no longer just a model, but you're foray into so many different businesses?
-[00:31:21.922 - 00:31:24.626] Host: I'd come back to that example of the transistor.
-[00:31:29.272 - 00:31:45.134] Host: We are building this general purpose technology that you can integrate into something in a lot of ways, but we keep following our equivalent of Moore's law and the general capability keeps going up.
-[00:31:45.815 - 00:31:51.122] Host: If you build a business that gets better, the business gets better when that model gets better.
-[00:31:51.586 - 00:31:58.115] Host: then you should keep doing well if we continue to make progress.
-[00:31:58.816 - 00:32:11.632] Host: If you build a business where when the model gets better, your business gets worse because the wrapper was too thin or whatever, then that's probably bad in the same way that it's been bad in other technology revolutions.
-[00:32:12.794 - 00:32:18.962] Host: So there are clearly companies building on top of AI models that are creating huge value
-[00:32:19.042 - 00:32:22.106] Host: and very deep relationships with their customers for themselves.
-[00:32:24.690 - 00:32:33.602] Host: Cursor is like a recent example of a company that is just exploding in popularity and I think really durable relationships with their customers.
-[00:32:34.583 - 00:32:38.428] Host: And then there's many others that don't and that's kind of, that's always the case.
-[00:32:39.509 - 00:32:45.938] Host: It does seem to me like there are more companies getting created now
-[00:32:46.178 - 00:32:50.544] Host: than in previous technological revolutions that feel like they have a chance at real durability.
-[00:32:51.786 - 00:33:07.389] Host: Maybe an example we could use to ground this is when the iPhone first came out and the app store first came out, the first set of apps were pretty light and a lot of them ended up being features that kind of made it into future versions of iOS.
-[00:33:08.190 - 00:33:13.778] Host: You could like sell a flashlight for a dollar that turned on the flash on your phone
-[00:33:15.138 - 00:33:20.225] Host: made a lot of dollars doing that, but it wasn't sticky because eventually Apple just added that into the operating system where it belonged.
-[00:33:20.706 - 00:33:29.098] Host: But if you started something that was like complicated and the iPhone was just an enabler for it like Uber, that was a very valuable long-term thing to do.
-[00:33:29.678 - 00:33:38.130] Host: And in the early days, like the GPT-3 days, I think you had a lot of kind of toy applications as you should, many of which didn't need to be standalone companies or products.
-[00:33:38.591 - 00:33:43.698] Host: But now as the market's matured, you're really seeing some of these more durable businesses form.
-[00:33:44.258 - 00:33:58.477] Guest: If you lay emphasis on owning the customer almost, like the interface with the customer, would you say the relationship gets deeper when I sell a service on top of your model versus a product?
-[00:33:58.617 - 00:34:03.384] Guest: Because if it's a product company, the exchange happens once.
-[00:34:03.604 - 00:34:06.208] Guest: But if it's a service company, it happens repeatedly.
-[00:34:06.248 - 00:34:13.938] Guest: And there is room for me to build and taste in that transaction, which is repetitive in nature.
-[00:34:14.946 - 00:34:19.771] Guest: A small part of my world or a part of my world is creating content which I do once a month.
-[00:34:21.313 - 00:34:41.554] Guest: If a model to a large extent is able to factor in my vintage, my tenure and my evolution and throw out an output which is predictive in nature with a fair degree of efficiency,
-[00:34:42.754 - 00:34:54.592] Guest: Now, if I behave in the same predictable manner tomorrow will be less valuable than me being contrarian, contrarian not to the world, but contrarian to my own behavior almost.
-[00:34:54.832 - 00:35:01.963] Guest: So do you think the world inordinately favors contrarian behavior tomorrow?
-[00:35:03.124 - 00:35:05.708] Host: Yeah, that's a good point.
-[00:35:05.728 - 00:35:06.189] Host: I think so.
-[00:35:07.171 - 00:35:12.178] Host: I think the thing I'm thinking is how much will the models learn to do that?
-[00:35:12.514 - 00:35:14.857] Host: You know, you want to be contrarian and right.
-[00:35:15.457 - 00:35:18.221] Host: Most of the time you're contrarian, you're contrarian and wrong, and that's not that helpful.
-[00:35:18.261 - 00:35:32.717] Host: But yeah, I bet the ability to come up with the kind of contrarian and right idea that the models today just can't do at all, and maybe they'll get better at some point, that value of that should go up over time.
-[00:35:34.499 - 00:35:40.466] Host: Getting good at doing things models can't do seems like an obvious increase in value.
-[00:35:40.674 - 00:35:45.140] Guest: Outside of being contrarian, is there anything else that I could do that a model will take longer to learn?
-[00:35:45.621 - 00:35:52.371] Host: Look, the models are going to be much smarter than we are, but there's a lot of things that people care about that have nothing to do with intelligence.
-[00:35:53.292 - 00:36:03.567] Host: Maybe there can be like an AI podcast host that is much better than you at asking interesting questions and, you know, kind of engaging, whatever.
-[00:36:03.967 - 00:36:08.594] Host: And I personally don't think that podcast host
-[00:36:09.218 - 00:36:11.761] Host: that AI podcast host is likely to be more popular than you.
-[00:36:12.362 - 00:36:14.064] Host: People really care about other humans.
-[00:36:14.104 - 00:36:15.085] Host: This is like very deep.
-[00:36:15.105 - 00:36:18.289] Host: People want to know a little bit about your life story, what got you here.
-[00:36:18.349 - 00:36:23.175] Host: They want to be able to like talk to other people about this like shared sense of who you are.
-[00:36:23.255 - 00:36:25.358] Host: And there's like some cultural and social value in that.
-[00:36:26.259 - 00:36:27.600] Host: We are obsessed with other people.
-[00:36:29.943 - 00:36:31.105] Guest: Why is that Sam?
-[00:36:31.185 - 00:36:33.668] Guest: Why do you think that is?
-[00:36:33.948 - 00:36:38.674] Host: I think that's also like deep in our biology.
-[00:36:39.234 - 00:36:41.357] Host: You know, again, they're common.
-[00:36:41.377 - 00:36:43.059] Host: You don't fight things that are deep in biology.
-[00:36:43.880 - 00:36:48.407] Host: I mean, I think it'd make ton of sense of why we would evolve that way.
-[00:36:48.927 - 00:36:49.869] Host: But, you know, here we are.
-[00:36:50.329 - 00:36:53.073] Host: So, you know, we're going to keep caring about real people.
-[00:36:53.093 - 00:36:57.980] Host: And even if the AI podcast host is much smarter than you, I think it's very unlikely he'll be more popular than you.
-[00:36:58.481 - 00:37:05.090] Guest: So in a perverse way, being stupider will be more novel than being smart.
-[00:37:05.110 - 00:37:08.114] Host: I don't know if it's like a stupider
-[00:37:08.578 - 00:37:16.447] Host: or smarter that has the novelty, but I think being a real person in a world of unlimited AI content will increase in value.
-[00:37:17.628 - 00:37:20.391] Guest: Is a real person somebody who screws up, unlike a model?
-[00:37:21.412 - 00:37:26.157] Host: I mean, certainly real people do screw up, so maybe that's part of what we associate with a real person, I'm not sure.
-[00:37:26.758 - 00:37:31.062] Host: But I do think we just, knowing that it's a real person or not, we really extremely care about.
-[00:37:33.125 - 00:37:37.970] Guest: What is the difference between AGI and human intelligence, today and tomorrow?
-[00:37:39.874 - 00:37:52.390] Host: So with GPT-5 you have something that is incredibly smart in a lot of domains at tasks that take seconds to a few minutes.
-[00:37:52.950 - 00:38:01.201] Host: It's very superhuman at knowledge, at pattern recognition, at recall on these shorter term tasks.
-[00:38:01.221 - 00:38:08.690] Host: But in terms of figuring out what questions to ask or to work on something over a very long period of time, we are definitely not
-[00:38:09.570 - 00:38:10.792] Host: close to human performance.
-[00:38:12.074 - 00:38:29.019] Host: And an interesting example that one of our researchers gave me recently is if you look at our performance in math, a couple of years ago we could solve math problems that would take like an expert human a few minutes to solve.
-[00:38:29.039 - 00:38:32.243] Host: Recently we got gold level performance on the International Math Olympiad.
-[00:38:32.724 - 00:38:34.427] Host: Each of those problems takes about an hour and a half.
-[00:38:34.567 - 00:38:39.474] Host: So we've gone from a problem, a thinking horizon of a few minutes to an hour and a half.
-[00:38:39.810 - 00:38:44.797] Host: To prove an important new mathematical theorem maybe takes like a thousand hours.
-[00:38:45.719 - 00:38:50.185] Host: And you can predict when we can do a thousand hour problem, but certainly in the world today we cannot at all.
-[00:38:51.127 - 00:38:55.193] Host: And so that's like another dimension where AI can't do it.
-[00:38:56.254 - 00:39:06.930] Guest: So I was in the U.S. between SF, between San Francisco and New York the last couple of months, and I met a whole bunch of AI founders.
-[00:39:07.810 - 00:39:18.762] Guest: The one thing everybody seemed to agree on is like for AI, the US is a few years ahead of most others.
-[00:39:20.304 - 00:39:23.647] Guest: They also thought that for robotics, China seems to be ahead.
-[00:39:25.269 - 00:39:30.515] Guest: Do you have a view on robotics and what happens there, like humanoid or other form of robotics?
-[00:39:31.756 - 00:39:34.719] Host: I think it will be incredibly important in a couple of years.
-[00:39:34.879 - 00:39:37.202] Host: I think one of the things that is going to feel most
-[00:39:37.954 - 00:39:43.781] Host: AGI-like is seeing robots just walk by you on the street doing kind of normal day-to-day tasks.
-[00:39:46.404 - 00:39:48.846] Guest: Is there a reason why they need to have human-like form?
-[00:39:49.787 - 00:39:54.693] Host: Well, you can certainly have non-humanoid forms, but the world is really built for humans.
-[00:39:55.454 - 00:40:06.226] Host: You know, like door handles, steering wheels in cars, factories, like a lot of this is built for... We built it for our own kind of morphology.
-[00:40:06.498 - 00:40:15.151] Host: So there will of course be other specialized robots too, but the world like is built and I hope stays built for us.
-[00:40:15.512 - 00:40:18.677] Host: So, you know, robots that match that form factor, it seems like a good idea.
-[00:40:19.678 - 00:40:35.282] Guest: If I'm a young guy looking to start a robotics company, but somebody else has manufacturing scale and I really want as an Indian guy to be able to build and compete there, how do I make up for manufacturing scale as someone starting up?
-[00:40:38.018 - 00:40:41.563] Host: Well, eventually, once you build enough robots, they can make more copies of themselves.
-[00:40:42.565 - 00:40:46.932] Host: But in the short term, I think you probably have to find some really good partners that know a lot about manufacturing.
-[00:40:47.593 - 00:40:50.858] Host: And we're interested in robots, so we're thinking about this.
-[00:40:50.918 - 00:40:53.982] Host: And it's definitely a new skill for us to learn.
-[00:40:55.204 - 00:40:56.887] Guest: Sam, what happens to the form factor?
-[00:40:57.287 - 00:40:59.711] Guest: I've been using the cell phone for a long time.
-[00:40:59.731 - 00:41:06.962] Guest: I know you will not likely speak about what you're doing with Johnny Ive and what happens there.
-[00:41:07.266 - 00:41:09.869] Guest: But what happens to form factor overall?
-[00:41:12.012 - 00:41:30.878] Host: One of the things that I think we'll be defining about the difference of AI versus the sort of previous way we've been using computers and technology is you really want AI to be, have as much context as possible, do stuff for you and be proactive.
-[00:41:31.519 - 00:41:37.106] Host: So a computer or a phone, you know, it's kind of either on or off.
-[00:41:37.506 - 00:41:57.325] Host: But you might want AI to just be, you know, like a companion with you throughout your day and alerting you in different ways when it can do something to help you or when it's, you know, there's something really important you need to know or reminding you of something that you said you needed to do earlier in the day.
-[00:41:58.246 - 00:42:04.192] Host: And the current form factors of computers are I think not quite right for that.
-[00:42:04.212 - 00:42:06.514] Host: They do have this either on or off binary.
-[00:42:07.106 - 00:42:12.694] Host: that I think isn't quite what we want for the sort of sci-fi dream of the AI companion.
-[00:42:13.315 - 00:42:15.999] Host: So the form factor that enables that, you could imagine a lot of things.
-[00:42:17.040 - 00:42:21.667] Host: There's people talking about glasses and wearables and things that sit on your table.
-[00:42:22.809 - 00:42:34.866] Host: I think the world will extreme with a lot of those, but this idea of sort of ambiently aware physical hardware, that feels like it's going to be important.
-[00:42:35.650 - 00:42:38.696] Guest: Is that the form factor with Johnny Ive, like a sensor?
-[00:42:40.780 - 00:42:52.742] Host: So we'll try multiple products, but I think this idea of trying to build hardware that an AI companion can sort of embody itself in will be an important thread.
-[00:42:54.867 - 00:42:58.834] Guest: The last two things I want to ask you, Sam,
-[00:42:59.586 - 00:43:03.732] Guest: Fusion, because I know you've invested in helium and you're a big proponent of it.
-[00:43:04.253 - 00:43:06.256] Guest: Does that solve the climate change problem?
-[00:43:07.618 - 00:43:08.560] Guest: Would you put money on that?
-[00:43:10.643 - 00:43:11.704] Host: It certainly helps a lot.
-[00:43:12.325 - 00:43:16.431] Host: I suspect that we've already done sufficient damage to the climate.
-[00:43:16.452 - 00:43:20.017] Host: We're going to have to undo some damage too, even if we got to switch to fusion right away.
-[00:43:20.538 - 00:43:22.260] Host: But it would certainly be a great step forward.
-[00:43:23.943 - 00:43:28.690] Guest: And the last question I have for you, Sam, is the question I care most about.
-[00:43:29.762 - 00:43:34.387] Guest: What's in this AI realm for India as a country?
-[00:43:34.407 - 00:43:35.869] Guest: What's the opportunity for us?
-[00:43:36.389 - 00:43:42.596] Host: As I mentioned earlier, I think India may be our largest market in the world at some point in the not very distant future.
-[00:43:42.957 - 00:43:55.250] Host: The excitement, the embrace of AI in India and the ability for Indian people to use AI to just sort of leapfrog into the future and
-[00:43:55.714 - 00:44:01.421] Host: invent a totally new and better way of doing things and the sort of the economic benefits that come from that, the societal benefits.
-[00:44:02.142 - 00:44:10.632] Host: If there is one large society in the world that seems most enthusiastic to transform with AI right now, it's India and the energy is incredible.
-[00:44:10.652 - 00:44:11.793] Host: I'm looking forward to coming soon.
-[00:44:12.634 - 00:44:16.719] Host: And it's really like quite amazing to watch.
-[00:44:17.540 - 00:44:22.847] Host: And I think the, it's sort of the momentum is unmatched anywhere in the world.
-[00:44:24.228 - 00:44:25.490] Guest: I feel like,
-[00:44:25.890 - 00:44:36.120] Guest: The question really is how do we transition from being a consumer to be a producer where we can build something that other people use outside of India?
-[00:44:36.480 - 00:44:37.321] Host: That was what I mean.
-[00:44:37.341 - 00:44:39.683] Host: There's lots of things happening there, but that was the thing I meant.
-[00:44:39.743 - 00:44:42.246] Host: I think that's really happening already in a big way.
-[00:44:42.966 - 00:44:55.218] Host: The entrepreneurial energy around building with AI in India is quite amazing and we hope to see much more of it.
-[00:44:55.650 - 00:44:56.011] Guest: Super.
-[00:44:56.353 - 00:44:56.995] Guest: Thank you, Sam.
+[00:00:29.548 - 00:00:30.290] Host: Everything looks good.
+[00:00:30.310 - 00:00:34.476] Host: Just the monitor, the main monitor went up.
+[00:00:34.496 - 00:00:36.960] Host: Everyone who's done can leave.
+[00:00:43.991 - 00:00:44.472] Host: Hi, Sam.
+[00:00:45.032 - 00:00:45.413] Guest: Hey, Nikhil.
+[00:00:46.074 - 00:00:47.036] Host: How are you?
+[00:00:47.056 - 00:00:47.436] Guest: I'm good.
+[00:00:47.456 - 00:00:48.117] Guest: Sorry I'm late.
+[00:00:48.137 - 00:00:53.746] Guest: I got caught up in getting ready for the launch tomorrow and lost track of time and excitement with the final results.
+[00:00:54.050 - 00:00:54.531] Host: No worries.
+[00:00:54.651 - 00:00:56.333] Host: I'm guessing it must be really hectic, right?
+[00:00:56.513 - 00:01:01.941] Guest: It is a very hectic day.
+[00:01:13.558 - 00:01:16.902] Host: I have the model and I've been playing with it a little bit.
+[00:01:17.704 - 00:01:18.825] Host: How is it different, Sam?
+[00:01:20.087 - 00:01:22.290] Host: I'm not an expert at this, so yeah.
+[00:01:23.714 - 00:01:31.422] Guest: There's all these ways we can talk about it's better at this metric or it can do this amazing coding demo that GPT-4 couldn't.
+[00:01:31.903 - 00:01:42.514] Guest: But the thing that has been most striking for me is in ways that are both big and small, going back from GPT-5 to our previous generation model is just so painful.
+[00:01:42.534 - 00:01:44.116] Guest: It's just worse at everything.
+[00:01:44.156 - 00:01:53.266] Guest: And I've taken for granted that there is a fluency and a depth of intelligence with GPT-5 that we haven't had in any previous model.
+[00:01:53.410 - 00:02:01.242] Guest: It's an integrated model, so you don't have to pick on our model switcher and know if you should use GPT-40 or 03 or 04 mini or any of the complicated things.
+[00:02:01.302 - 00:02:03.065] Guest: It's just one thing that works.
+[00:02:03.325 - 00:02:12.239] Guest: And it is like having PhD level experts in every field available to you 24-7 for whatever you need.
+[00:02:13.521 - 00:02:15.925] Guest: Not only to ask anything, but also to do anything for you.
+[00:02:16.345 - 00:02:22.034] Guest: So if you need a piece of software created, it can kind of do it from scratch all at once.
+[00:02:22.498 - 00:02:26.224] Guest: If you need a research report on some complicated topic, it can do that for you.
+[00:02:26.244 - 00:02:28.628] Guest: If you needed to plan an event for you, it could do that too.
+[00:02:30.251 - 00:02:38.625] Host: Is it more agentic in nature in the sense that sequential tasking, you're one step closer to it?
+[00:02:38.946 - 00:02:39.947] Host: Because I was trying that out.
+[00:02:40.809 - 00:02:42.191] Guest: It's much better at things like that.
+[00:02:42.251 - 00:02:48.722] Guest: The robustness and reliability has greatly increased and that's very helpful for agentic workflows.
+[00:02:49.346 - 00:02:54.091] Guest: So I'm like very impressed by how long and complex of a task it can carry out.
+[00:02:54.631 - 00:03:02.179] Host: So we did a call a couple of weeks ago when I was bugging you about what sectors and themes to invest in for the next decade.
+[00:03:03.580 - 00:03:06.323] Host: So I don't want to talk about that too much.
+[00:03:06.403 - 00:03:17.074] Host: I thought we'll keep today about first principles and how the world is changing by virtue of all that is changing in the world that you dominate.
+[00:03:17.250 - 00:03:38.071] Host: So the very first thing I want to start with is if I were a 25 year old boy or girl living in Mumbai or Bangalore or in India, I know you've said a bunch of times that colleges are not holding on to the place of relevance they might have had when I was growing up.
+[00:03:38.992 - 00:03:40.133] Host: But what do I do now?
+[00:03:40.493 - 00:03:41.574] Host: A, what do I study?
+[00:03:41.594 - 00:03:45.298] Host: If I'm starting a company, what kind of company do I start?
+[00:03:46.338 - 00:03:52.846] Host: Or if I were to even find a job, what industry do you think has some kind of tailwind?
+[00:03:53.487 - 00:03:58.794] Host: I'm not talking 10 years down the line, but even as close as three to five years down the line.
+[00:03:59.375 - 00:04:04.021] Guest: First of all, I think this is probably the most exciting time to be starting out one's career.
+[00:04:05.042 - 00:04:05.563] Guest: Maybe ever.
+[00:04:06.183 - 00:04:14.514] Guest: I think that 25-year-old in Mumbai can probably do more than any previous 25-year-old in history could.
+[00:04:14.754 - 00:04:17.017] Guest: It's really amazing what you can do with a tool like this.
+[00:04:17.718 - 00:04:33.020] Guest: I felt the same way when I was 25 and the tools then were not as amazing as tools we have now, but we had the computer revolution and we could do things, a 25 year old then could do things that no 25 year old in history before would have been able to.
+[00:04:34.201 - 00:04:36.484] Guest: And now that's happening in a huge way.
+[00:04:36.585 - 00:04:43.314] Guest: So whether you want to start a company or be a programmer or go work in kind of any other industry,
+[00:04:43.394 - 00:04:59.194] Guest: create new media, whatever it is, the ability for one person to use these tools and have great ideas and implement them with what would have taken decades of experience or teams of people is really quite remarkable.
+[00:04:59.734 - 00:05:10.067] Guest: In terms of particular industries, I am very excited about what AI is going to mean for science and the amount of science that one person will be able to discover and the rate at which they can do that.
+[00:05:10.708 - 00:05:12.210] Guest: Clearly, it's transforming
+[00:05:12.386 - 00:05:14.889] Guest: what it means to program computers in a huge way.
+[00:05:15.029 - 00:05:20.455] Guest: And people will be able to create completely new kinds of software in a huge new scale.
+[00:05:21.677 - 00:05:29.766] Guest: Definitely for startups, if you have an idea for a new business, the ability for a very tiny team to do a huge amount of work is great.
+[00:05:32.570 - 00:05:36.154] Guest: But it feels like this is just now a very open canvas.
+[00:05:37.616 - 00:05:39.698] Guest: People are limited.
+[00:05:39.970 - 00:05:47.320] Guest: to a degree that they've never been before, only by the quality and creativity of their ideas, and you have these incredible tools to help you realize them.
+[00:05:47.740 - 00:05:51.486] Host: Is there anything in particular you want to say about GPT-5, then I can ask you questions around that?
+[00:05:52.146 - 00:06:00.578] Guest: GPT-5 does feel to us like it's going to be another big step forward in how people use these systems.
+[00:06:02.000 - 00:06:09.650] Guest: The level of capability, the level of robustness, the reliability,
+[00:06:10.018 - 00:06:17.188] Guest: a lot of tasks in life to create software, to answer questions, to learn, to work more efficiently.
+[00:06:17.208 - 00:06:21.414] Guest: This is a pretty significant step forward.
+[00:06:21.474 - 00:06:25.439] Guest: Each time we've had one of these, we have been amazed by the human potential it unlocks.
+[00:06:26.440 - 00:06:32.068] Guest: And in particular, India is now our second largest market in the world.
+[00:06:32.368 - 00:06:36.434] Guest: It may become our largest.
+[00:06:36.578 - 00:06:45.068] Guest: taken a lot of feedback from users in India about what they'd like from us, better support for languages, more affordable access, much more.
+[00:06:45.089 - 00:06:48.132] Guest: And we've been able to put that into this model and upgrades to chat GPT.
+[00:06:49.414 - 00:06:51.236] Guest: So we're committed to continuing to work on that.
+[00:06:51.316 - 00:07:05.714] Guest: But the, you know, every time we've had a major leap forward in how the capability we can bring to users, we've been amazed by what those, those 25 year olds go off and do in terms of creating new companies
+[00:07:06.018 - 00:07:08.541] Guest: learning better, getting better medical advisor, whatever else.
+[00:07:09.803 - 00:07:21.557] Host: Is there anything that I could build on top of GPT-5 today as a 25 year old in India that you think are low hanging fruits per se that I should definitely look at?
+[00:07:21.577 - 00:07:25.902] Guest: I think you could build an entire startup way more efficiently than you ever could before.
+[00:07:26.042 - 00:07:30.788] Guest: Now, this is obviously I'm biased because this is like near and dear to my heart.
+[00:07:31.209 - 00:07:35.634] Guest: But the fact that as a 25 year old in India or anywhere else,
+[00:07:36.226 - 00:08:05.202] Guest: maybe with a couple of friends, maybe just by yourself, you could use GPT-5 to help you write the software for a product much more efficiently, help you handle customer support, help you write marketing and communications plans, help you review legal documents, all of these things that would have taken a lot of people and a lot of expertise, and you now have GPT-5 to help you do all of this, that's pretty amazing.
+[00:08:05.698 - 00:08:16.092] Host: If I could push you to be like a bit more specific and say, I get science, but what do I study?
+[00:08:16.132 - 00:08:20.297] Host: Say I've been studying engineering or commerce or arts or something like that.
+[00:08:21.479 - 00:08:26.846] Host: Is there any specific thing I study in order to use AI to develop something in science?
+[00:08:28.689 - 00:08:35.698] Guest: I think the most important specific thing to study is just getting really good at using the new AI tools.
+[00:08:36.290 - 00:08:43.620] Guest: I think learning is valuable for its own sake and learning to learn is this like meta skill that will serve you throughout life.
+[00:08:44.241 - 00:08:54.314] Guest: And whether you're learning, you know, engineering, like computer engineering or biology or any other field like that, if you get good at learning things, you can learn new things quickly.
+[00:08:54.655 - 00:09:00.062] Guest: But fluency with the tools is, you know, is really important.
+[00:09:00.082 - 00:09:05.970] Guest: When I was in college or in high school, it seemed to me that the obvious thing to do was learn a program.
+[00:09:06.082 - 00:09:14.351] Guest: And I didn't know exactly what I was going to use that for, but there was this new frontier that seemed very high leverage and important to get good at.
+[00:09:14.871 - 00:09:22.119] Guest: And right now, learning how to use AI tools is probably the most important specific hard skill to learn.
+[00:09:22.540 - 00:09:27.845] Guest: And the difference between people who are really good at it, really AI native and think of everything in terms of those tools and don't is huge.
+[00:09:28.606 - 00:09:29.787] Guest: There's other general skills.
+[00:09:31.870 - 00:09:35.954] Guest: Learning kind of like to be adaptable and resilient, which I think is something really learnable.
+[00:09:36.066 - 00:09:40.873] Guest: That's like quite valuable in a world that's changing so fast.
+[00:09:40.893 - 00:09:45.380] Guest: Learning how to figure out what people want is really quite important.
+[00:09:47.023 - 00:09:53.853] Guest: Before this, I used to be a startup investor and people would ask me what the most important thing for startup founders to figure out was.
+[00:09:54.554 - 00:10:00.964] Guest: And my predecessor, Paul Graham, had this answer that has always stuck with me for people to give to founders.
+[00:10:01.545 - 00:10:04.850] Guest: And it became the motto for Y Combinator, which is make something people want.
+[00:10:05.570 - 00:10:08.513] Guest: And that sounds like such an easy instruction.
+[00:10:08.573 - 00:10:14.538] Guest: I have watched so many people try so hard to learn how to figure that out and fail.
+[00:10:14.558 - 00:10:19.303] Guest: And then I've watched many people work really hard to learn how to do that and get great at it over a career.
+[00:10:19.863 - 00:10:21.645] Guest: So that's something as well.
+[00:10:21.665 - 00:10:26.169] Guest: But in terms of the specifics, like are you supposed to take the biology class or the physics class?
+[00:10:26.630 - 00:10:27.531] Guest: I don't think it matters right now.
+[00:10:28.031 - 00:10:35.538] Host: And if I were to build on top of that, and when you say learn to adapt and change and learn AI tools,
+[00:10:35.682 - 00:10:36.283] Host: faster.
+[00:10:36.944 - 00:10:37.645] Host: Is there a path?
+[00:10:38.447 - 00:10:41.372] Host: I'm just looking for a light that somebody could begin walking towards.
+[00:10:41.752 - 00:10:45.559] Host: How does one get better at the AI tools that are available out there?
+[00:10:46.581 - 00:10:48.023] Guest: Well, one great thing to do.
+[00:10:49.385 - 00:10:54.474] Guest: GPT-5 is quite good at helping to create small pieces of software very quickly.
+[00:10:55.816 - 00:11:01.426] Guest: And much better than any model that I've used.
+[00:11:02.434 - 00:11:11.124] Guest: few weeks, I have surprised myself how much I've used it to create a piece of software to solve some little problem that I have in my life.
+[00:11:11.584 - 00:11:16.369] Guest: And, you know, it's been an interesting creative process, because I'll ask it for a first draft, I'll start using that.
+[00:11:16.910 - 00:11:19.473] Guest: And then I'll say, hey, with this feature, it would be better.
+[00:11:19.893 - 00:11:22.196] Guest: Or with this other thing, I'd be able to do something differently.
+[00:11:22.896 - 00:11:27.461] Guest: Or, you know, I have started using it and realized that with my workflow, I really needed this.
+[00:11:28.162 - 00:11:31.666] Guest: And by putting more and more of the things that I have to do in this kind of a workflow,
+[00:11:32.162 - 00:11:35.846] Guest: That's been a very interesting way for me to learn how to use this.
+[00:11:37.508 - 00:11:49.703] Host: You mentioned Paul Graham and I was reading this letter or report he wrote in 2009 where he spoke about five founders to watch out for.
+[00:11:50.765 - 00:11:58.874] Host: And I think you were 19 at the time and he mentioned you along with people like Steve Jobs and Larry and Sergey.
+[00:12:01.057 - 00:12:01.938] Host: Why was that?
+[00:12:02.082 - 00:12:05.727] Host: You hadn't accomplished anything of note like they had.
+[00:12:05.947 - 00:12:07.769] Host: What did Paul see in you?
+[00:12:08.550 - 00:12:12.075] Host: And what do you think is the innate skill set that sets you apart from your peers?
+[00:12:13.657 - 00:12:14.518] Guest: That was very nice of him.
+[00:12:14.638 - 00:12:15.199] Guest: I remember that.
+[00:12:15.540 - 00:12:22.649] Guest: I certainly, I remember at the time feeling that it was very deeply undeserved, but grateful that he said that.
+[00:12:23.350 - 00:12:29.778] Guest: I mean, there's like a lot of people who are starting great companies.
+[00:12:30.978 - 00:12:34.443] Guest: lucky here in many ways, we've also worked super hard.
+[00:12:38.248 - 00:12:48.041] Guest: Maybe the one thing that I would, that I think we have done here well is to take a very long time horizon and think very independently.
+[00:12:48.602 - 00:12:53.989] Guest: You know, when we started, it was like four and a half years before we had a first product and it was very uncertain.
+[00:12:54.690 - 00:12:58.595] Guest: We were just doing research, trying to figure out how to get AI to work.
+[00:12:59.036 - 00:13:00.818] Guest: And we had very different ideas then
+[00:13:00.962 - 00:13:02.083] Guest: the rest of the world.
+[00:13:04.967 - 00:13:13.017] Guest: But I think that ability to sort of trust our own conviction over a long time horizon without a lot of external feedback was very helpful.
+[00:13:13.978 - 00:13:15.800] Host: Is that a V or an I thing?
+[00:13:15.820 - 00:13:17.842] Host: Because I'm speaking about when you were 19.
+[00:13:18.884 - 00:13:20.105] Guest: Oh, sorry.
+[00:13:20.125 - 00:13:21.747] Guest: I thought you were asking about open AI.
+[00:13:22.448 - 00:13:24.150] Guest: Me when I was 19, I barely remember that.
+[00:13:24.210 - 00:13:24.591] Guest: I don't know.
+[00:13:24.771 - 00:13:30.738] Guest: I was like a naive 19-year-old that didn't really know what he was doing.
+[00:13:32.514 - 00:13:33.596] Guest: This is not false modesty.
+[00:13:33.616 - 00:13:35.659] Guest: I think I've done impressive things now.
+[00:13:35.880 - 00:13:41.429] Guest: But my own self-conception in 19 was like deeply unsure of myself and very unimpressive.
+[00:13:41.970 - 00:13:51.145] Host: If the world were to be, the world of tomorrow were to be an AI kingdom of sorts, you're definitely some kind of prince.
+[00:13:52.547 - 00:13:58.898] Host: And I don't know if you follow Machiavelli, but he used to say a very interesting thing.
+[00:13:59.778 - 00:14:12.632] Host: He said that a prince should always appear but not be religious, compassionate, trustworthy, humane and honest.
+[00:14:14.914 - 00:14:18.939] Host: Do you think this particular projection of...
+[00:14:19.620 - 00:14:29.170] Host: I've watched a lot of your interviews of late and I've heard you say repeatedly that you're not formidable and use words like that.
+[00:14:29.698 - 00:14:36.727] Host: this projection of humility, is it apt for the world we live in or the world you're walking into?
+[00:14:41.633 - 00:14:57.714] Guest: I'm not sure it's apt for either one, but when I was 19, to go back to what you said, I assumed that the people running these big tech companies really had it all figured out.
+[00:14:58.050 - 00:15:15.411] Guest: and there were adults in the room and somebody had a plan and there were these people that were like way different than me that understood how to do things and had this like, the companies were like running very well and there was like not much drama and everything was like, just everything was being handled by the adults.
+[00:15:16.393 - 00:15:21.759] Guest: And now that I'm supposed to be the adult in the room, I will tell you, I think no one has a plan.
+[00:15:22.020 - 00:15:24.162] Guest: No one really has it all working smoothly.
+[00:15:24.202 - 00:15:27.186] Guest: Everyone or at least I am figuring out as they go
+[00:15:27.618 - 00:15:49.178] Guest: And you have things you want to build and then things go wrong and you bet on the wrong people or the right people and you get a technological breakthrough here or you don't there and you just keep putting one foot in front of another and you put your head down and work and you have these tactics that some of them become great strategies, some of them don't.
+[00:15:50.259 - 00:15:57.266] Guest: You try something and the market reacts in some way or your competitors react in some way and you do something else.
+[00:15:59.458 - 00:16:03.544] Guest: And now my conception is everybody is kind of figuring it out as they go.
+[00:16:03.564 - 00:16:05.127] Guest: Everybody is like learning on the job.
+[00:16:05.487 - 00:16:09.774] Guest: And I don't think that's like false humility.
+[00:16:09.794 - 00:16:11.797] Guest: I think that's just the way the world works.
+[00:16:11.817 - 00:16:20.191] Guest: And it's like a little, it's a little strange to be on this side of it, but that is what it seems like.
+[00:16:21.252 - 00:16:27.442] Host: I'm not even speaking so much about the authenticity of the humility or not, but
+[00:16:27.970 - 00:16:33.858] Host: More again from the lens of somebody starting to build for tomorrow, because that's who we speak to.
+[00:16:34.980 - 00:16:37.203] Host: Is that a good image to project into the world?
+[00:16:37.363 - 00:16:42.810] Guest: Does it... the image of humility really work today?
+[00:16:43.291 - 00:16:45.274] Guest: You mean, should someone project that image?
+[00:16:45.334 - 00:16:57.010] Guest: I mean, I certainly have a very negative reaction to... people who are...
+[00:16:59.458 - 00:17:05.884] Guest: projecting certainty and confidence when they don't really know what's going to happen.
+[00:17:05.904 - 00:17:23.461] Guest: And the reason is not just because it's annoying, which it is, but also because I think if you have that kind of a mindset, it is harder to have the culture of intellectual openness and to sort of like listen to other viewpoints and make good decisions.
+[00:17:24.182 - 00:17:28.146] Guest: A thing I say all the time to people is no one knows what happens next.
+[00:17:28.834 - 00:17:32.578] Guest: And the more you forget that and the more you're like, I am smarter than everybody else.
+[00:17:32.638 - 00:17:33.499] Guest: I have a master plan.
+[00:17:33.559 - 00:17:39.025] Guest: I'm not going to pay attention to like what my users are saying or where the technology takes us or how the world is reacting.
+[00:17:39.065 - 00:17:42.569] Guest: But, you know, I know better and the world doesn't know as much.
+[00:17:43.170 - 00:17:44.611] Guest: I think you just make worse decisions.
+[00:17:45.552 - 00:17:58.066] Guest: So having that kind of open mindset and the sort of like curiosity and willingness to adapt to new data and change your mind, I think that's super important.
+[00:17:59.618 - 00:18:08.070] Guest: Like the number of times we have thought we knew something to get smacked in the face by reality here has been a lot.
+[00:18:08.631 - 00:18:19.065] Guest: And one of our strengths as a company is when that happens, we change what we're going to do where that that's been, I think that's been really great and a big part of what's helped us succeed.
+[00:18:19.125 - 00:18:28.178] Guest: So, so maybe there are other ways to succeed and maybe, you know, projecting a ton of bravado into the world works,
+[00:18:30.498 - 00:18:41.350] Guest: the best founders that I have watched up close throughout my career have all been more like the sort of quick learning and adapting style.
+[00:18:41.650 - 00:18:45.555] Host: And you probably know more about this than most because of your role at Y Combinator.
+[00:18:45.935 - 00:18:51.021] Host: I have a lot of data points on it at least, yeah.
+[00:18:51.341 - 00:18:59.250] Host: When we met in Washington a couple of years ago at the White House, I remember when we were speaking and you went somewhere, I was speaking to your partner.
+[00:18:59.650 - 00:19:00.652] Host: And you guys had a kid.
+[00:19:01.653 - 00:19:01.934] Guest: We did.
+[00:19:03.176 - 00:19:04.298] Guest: And how is that?
+[00:19:05.279 - 00:19:07.042] Guest: Uh, it is my favorite thing ever.
+[00:19:07.082 - 00:19:09.927] Guest: But I mean, I, I know that like, I have nothing that is not a cliche to say here.
+[00:19:10.708 - 00:19:21.746] Guest: Um, but it is the coolest, most amazing, most like emotionally overwhelming in the best ways and hard ways to experience every
+[00:19:22.946 - 00:19:29.733] Guest: Everything everyone said about how great it is, how intense it is, how it's like a kind of love you didn't know you could feel, it's all true.
+[00:19:29.773 - 00:19:33.116] Guest: I have nothing to add other than I strongly recommend it.
+[00:19:33.216 - 00:19:35.658] Guest: And I think it's been really wonderful.
+[00:19:35.679 - 00:19:36.259] Guest: It's amazing.
+[00:19:37.440 - 00:19:49.312] Host: So I ponder on this a lot, Sam, kids, why people have kids, and also questions like what happens to religion and marriage tomorrow?
+[00:19:49.872 - 00:19:51.474] Host: Can I ask you why you had a kid?
+[00:19:51.874 - 00:19:54.758] Guest: Like family has always been an incredibly important thing to me.
+[00:19:55.078 - 00:20:13.683] Guest: And going, like it just, it felt like, it felt like the most, and I didn't even know how much I underestimated what it was actually going to be like, but it felt like the most important and meaningful and fulfilling thing I could imagine doing.
+[00:20:13.843 - 00:20:17.809] Guest: And it has so far, so early exceeded all expectations.
+[00:20:19.451 - 00:20:21.714] Host: Do you think it's the biological need
+[00:20:21.954 - 00:20:22.735] Host: to procreate?
+[00:20:23.516 - 00:20:47.627] Guest: I don't know, there's like, this seems like a thing that is so deep, it's difficult to put into words, but I feel confident, like everyone I know looking back on their life who has had a great career and had a family has either said, you know, I'm so glad I took the time to have kids.
+[00:20:47.687 - 00:20:49.970] Guest: That was one of the most important things I've ever done.
+[00:20:50.306 - 00:20:51.147] Guest: the best things I've ever done.
+[00:20:51.447 - 00:20:53.509] Guest: Or they've said that was by far the best thing I've ever done.
+[00:20:53.529 - 00:20:55.611] Guest: That was way more important than any of the work I ever did.
+[00:20:57.053 - 00:21:01.217] Guest: And I was like willing to take the leap of faith that that would be true for me too.
+[00:21:01.337 - 00:21:02.578] Guest: And it certainly seems like it will be.
+[00:21:02.698 - 00:21:04.360] Guest: It's like, yeah, it is.
+[00:21:04.860 - 00:21:07.363] Guest: And if it is just a biological hack, I don't care, I'm so happy.
+[00:21:08.584 - 00:21:18.834] Guest: But it, you know, it like, there's a sense of responsibility and kind of like family is the word that keeps coming to mind that is just really great.
+[00:21:19.682 - 00:21:29.916] Host: The world seems to be having lesser kids, and do you have an insight into the future of marriage, religion, and kids?
+[00:21:29.936 - 00:21:41.452] Guest: Yeah, I hope that creating family, creating community, whatever you want to call it, will become far more important in a sort of post-AGI world.
+[00:21:42.253 - 00:21:46.579] Guest: I think it's a real problem for society that those things have been in retreat.
+[00:21:47.401 - 00:21:48.402] Guest: I think that
+[00:21:50.370 - 00:21:51.972] Guest: that just feels strictly bad to me.
+[00:21:52.413 - 00:21:58.782] Guest: I'm obviously not sure why that's been happening, but I hope we'll really reverse course on that.
+[00:21:59.283 - 00:22:15.426] Guest: And in a world where people have more abundance, more time, more sort of resources and potential and ability, I think it's like pretty clear that family and community are two of the things that make us the happiest.
+[00:22:16.387 - 00:22:18.450] Guest: And I hope we will turn back to that.
+[00:22:20.162 - 00:22:34.762] Host: As societies get more affluent, if one were to buy into the mimetic desires of people, we all tend to want what other people want, not necessarily what other people have.
+[00:22:34.802 - 00:22:41.811] Host: If we all had more, do you think we would still want more if we all had enough?
+[00:22:43.774 - 00:22:49.682] Guest: I do sort of think that human demand, desire,
+[00:22:49.890 - 00:22:54.215] Guest: ability to play status games, whatever is like, it seems pretty limitless.
+[00:22:55.456 - 00:22:59.901] Guest: I don't think that's necessarily bad, or not all bad.
+[00:23:01.202 - 00:23:04.446] Guest: But yeah, I think we will figure out new things to want and new things to compete over.
+[00:23:06.228 - 00:23:14.536] Host: Do you think the world retains, largely the world retains the current model of capitalism and democracy in a way?
+[00:23:15.698 - 00:23:16.799] Host: Let me give you a scenario.
+[00:23:16.899 - 00:23:19.762] Host: What happens if a company X
+[00:23:21.058 - 00:23:26.767] Host: Let's say OpenAI gets to the point where it is 50% of world GDP.
+[00:23:27.888 - 00:23:31.374] Host: Does society allow for that or?
+[00:23:32.295 - 00:23:32.836] Guest: I would bet not.
+[00:23:33.517 - 00:23:34.298] Guest: I don't think that will happen.
+[00:23:34.358 - 00:23:36.822] Guest: I think this will be a much more distributed thing.
+[00:23:36.862 - 00:23:41.068] Guest: But if for some reason that did happen, I think society would say, we don't think so.
+[00:23:41.128 - 00:23:44.133] Guest: Like let's figure out something to do here.
+[00:23:45.875 - 00:23:50.322] Guest: The analogy I like most for AI is the transistor.
+[00:23:50.882 - 00:24:01.774] Guest: which was this really important scientific discovery that for a while looked like it was going to capture a ton of the value and then turned out to be something that just gets built into like tons of products and services.
+[00:24:01.854 - 00:24:12.546] Guest: And you don't really think about, you know, the fact that you're using transistors all day long, it's just kind of in everything and all these companies make incredible products and profits from it in this very distributed way.
+[00:24:13.467 - 00:24:14.868] Guest: So I would guess that's what happens.
+[00:24:14.928 - 00:24:16.530] Guest: And it's not like one company has ever
+[00:24:16.866 - 00:24:18.028] Guest: half of global GDP.
+[00:24:18.589 - 00:24:22.094] Guest: At one point, I did worry that that might happen, but I think that was a naive take.
+[00:24:23.777 - 00:24:23.957] Host: Right.
+[00:24:24.738 - 00:24:34.233] Host: But do you think the odds of the world moving towards socialism go up or if something gets that large, will it get nationalized and we become more socialist?
+[00:24:35.895 - 00:24:38.039] Guest: I don't know if something will get nationalized.
+[00:24:38.079 - 00:24:42.866] Guest: I don't know if the world will like officially turn towards socialism, but I expect that
+[00:24:45.154 - 00:24:55.985] Guest: I expect that like social support or redistribution or whatever you want to call it will increase over time as society gets richer and as sort of the technological landscape shifts.
+[00:24:56.005 - 00:24:59.668] Guest: I don't know what way it's going to happen and I expect in different countries, it'll happen in different ways.
+[00:24:59.929 - 00:25:08.497] Guest: Like I think you'll see experimentation of like new kinds of sovereign wealth funds, new kinds of like universal basic income ideas, redistribution of AI compute.
+[00:25:08.557 - 00:25:13.522] Guest: I don't know exactly what, but I suspect we'll see a lot of experimentation in society here.
+[00:25:15.074 - 00:25:19.941] Host: On universal basic income, I think world coin was a very interesting experiment.
+[00:25:20.001 - 00:25:22.044] Host: Can you tell us a bit about what's happening there?
+[00:25:23.005 - 00:25:26.650] Guest: Uh, the idea was, could we, you know, we have all this AI coming.
+[00:25:26.951 - 00:25:29.895] Guest: We really want to like care about humans is special.
+[00:25:30.396 - 00:25:37.786] Guest: Can we find a way to a privacy preserving way to identify unique humans and then create a new network and a new currency around that.
+[00:25:38.667 - 00:25:43.474] Guest: Uh, so it's a very interesting experiment, still early, but growing quite fast.
+[00:25:43.554 - 00:25:49.842] Host: AGI eliminates scarcity or scarcity by virtue of increasing productivity.
+[00:25:52.905 - 00:25:56.890] Host: Could one also assume that it would be deflationary in nature?
+[00:25:58.432 - 00:26:10.487] Host: Capital or money loses its ability to return a rate of return and capital no longer remains a moat in the world of tomorrow?
+[00:26:11.908 - 00:26:13.330] Guest: I feel confused about this.
+[00:26:13.474 - 00:26:20.962] Guest: I think if you look at the basic economic principles, it's supposed to be hugely deflationary.
+[00:26:22.183 - 00:26:42.866] Guest: And yet, if the world decides that building out AI compute today is super important to things tomorrow, maybe something very strange happens with the economy and maybe capital is really, really important because every piece of compute is so valuable.
+[00:26:43.330 - 00:26:51.998] Guest: I was asking someone at dinner the other night if they thought that interest rates should be minus 2% or 25%.
+[00:26:54.120 - 00:26:55.121] Guest: And he kind of laughed.
+[00:26:55.141 - 00:26:56.903] Guest: He's like, well, that's a ridiculous question.
+[00:26:56.963 - 00:26:57.523] Guest: It has to be.
+[00:26:57.563 - 00:26:59.785] Guest: And then he stopped and said, actually, I'm not sure.
+[00:27:00.446 - 00:27:07.553] Guest: So I think it's like, yeah, it should be deflationary eventually, but I could see it being weird in the short term.
+[00:27:08.834 - 00:27:10.736] Host: It's actually a very interesting thing to say.
+[00:27:11.196 - 00:27:13.138] Host: Do you suspect it would be minus 2%?
+[00:27:14.338 - 00:27:16.341] Guest: Eventually.
+[00:27:18.405 - 00:27:19.366] Guest: But I'm not sure.
+[00:27:19.546 - 00:27:26.798] Guest: And maybe it's just like we're in this massive expansionary time where you're trying to like build the Dyson Sphere and the solar system and you're borrowing money at crazy rates to do that.
+[00:27:26.878 - 00:27:30.945] Guest: And then there's more expansion beyond and more and more and I don't know.
+[00:27:31.305 - 00:27:37.596] Guest: I find it very hard to see more than a few years in the future at this point.
+[00:27:38.617 - 00:27:41.522] Host: The conversation we were having a couple of weeks ago,
+[00:27:41.666 - 00:27:44.649] Host: I was doing more research on the sectors you had suggested.
+[00:27:44.669 - 00:27:48.694] Host: I think we agreed on older and sicker world.
+[00:27:50.376 - 00:27:57.785] Host: You also made a case for as discretionary spend goes up, gateway luxury brands might do well.
+[00:27:58.345 - 00:27:59.146] Guest: Yeah.
+[00:27:59.166 - 00:28:01.209] Host: What happens to them in a deflationary world?
+[00:28:02.130 - 00:28:05.153] Host: Because the value of these purchases go down.
+[00:28:05.894 - 00:28:06.374] Host: Maybe not.
+[00:28:06.535 - 00:28:09.458] Guest: I mean, in a deflationary world,
+[00:28:09.634 - 00:28:13.701] Guest: face huge deflationary pressure and others can be the sink for all of the extra capital.
+[00:28:14.362 - 00:28:17.106] Guest: So I'm actually not sure they do go down in a deflationary world.
+[00:28:18.509 - 00:28:20.592] Guest: I would bet they go up actually.
+[00:28:22.616 - 00:28:24.899] Guest: Because the excess capital has to flow somewhere.
+[00:28:25.140 - 00:28:36.178] Host: When you look at classical economic theory like Adam Smith and stuff like that, the Austrian school always spoke about the marginal utility of things.
+[00:28:36.450 - 00:28:41.879] Host: If you have one kettle at home to make tea, it has X in value.
+[00:28:42.640 - 00:28:45.284] Host: When you have two kettles, it still has some value.
+[00:28:45.364 - 00:28:48.409] Host: But when you have 20 kettles, it has no value.
+[00:28:49.070 - 00:28:50.713] Host: Do you think the world goes in that direction?
+[00:28:51.835 - 00:28:53.778] Guest: Yeah, so 20 kettles doesn't help you.
+[00:28:54.799 - 00:29:03.954] Guest: But even if you're only going to spend two hours a day playing video games or whatever, and that amount of time is fixed,
+[00:29:04.930 - 00:29:06.873] Guest: And so you don't need 20 hours worth of video games.
+[00:29:07.654 - 00:29:14.524] Guest: If that two hours of games gets better and more entertaining forever and ever and ever, and just keeps getting more and more compelling, that still has value to you.
+[00:29:16.047 - 00:29:28.766] Guest: And I think there are a lot of categories where we will find that people can just get much better stuff, even if they don't necessarily get more of them.
+[00:29:30.148 - 00:29:31.570] Guest: I think we'll see this in a really big way.
+[00:29:32.066 - 00:29:36.914] Host: Do you think there's a use case for the rappers that are getting built on these large models right now?
+[00:29:37.114 - 00:29:41.001] Host: Like I was in the U.S. recently and I met Harvey for example.
+[00:29:42.243 - 00:29:44.466] Host: What happens to a rapper like that?
+[00:29:45.889 - 00:29:53.361] Host: Does it get innovated out by the model itself at some point of time?
+[00:29:53.381 - 00:29:56.466] Guest: Some of them yes and some of them no.
+[00:29:56.834 - 00:29:59.718] Guest: Sometimes you can obviously predict when one is going to go one way or the other.
+[00:29:59.758 - 00:30:05.706] Guest: And sometimes it really depends on the choices the company makes down the line.
+[00:30:05.986 - 00:30:13.536] Guest: The main thing I would say is using AI itself does not create a defensible business.
+[00:30:14.457 - 00:30:24.210] Guest: You see this with every technology boom where people are like, well, I must start up doing X and because I'm using the latest technology trend, the normal rules of business don't apply to me.
+[00:30:24.898 - 00:30:25.900] Guest: And that's never true.
+[00:30:26.040 - 00:30:37.577] Guest: You've always got to parlay that advantage that comes from using the new technology into a durable business with real value that gets created.
+[00:30:38.298 - 00:30:40.341] Guest: And it's kind of a race against the clock to do that.
+[00:30:40.962 - 00:30:54.002] Guest: So, you know, you can definitely build an amazing thing with AI, but then you have to go build a real defensible layer around it.
+[00:30:54.178 - 00:31:13.238] Host: The example of Amazon, for example, if I sold a certain kind of t-shirt and I sold a lot and Amazon had all the data, eventually Amazon probably started a white labeled brand, which was very similar to mine and cannibalize my business almost.
+[00:31:14.259 - 00:31:20.626] Host: Should one worry that will happen here as well, because you're no longer just a model, but you're foray into so many different businesses?
+[00:31:21.922 - 00:31:24.626] Guest: I'd come back to that example of the transistor.
+[00:31:29.272 - 00:31:45.134] Guest: We are building this general purpose technology that you can integrate into something in a lot of ways, but we keep following our equivalent of Moore's law and the general capability keeps going up.
+[00:31:45.815 - 00:31:51.122] Guest: If you build a business that gets better, the business gets better when that model gets better.
+[00:31:51.586 - 00:31:58.115] Guest: then you should keep doing well if we continue to make progress.
+[00:31:58.816 - 00:32:11.632] Guest: If you build a business where when the model gets better, your business gets worse because the wrapper was too thin or whatever, then that's probably bad in the same way that it's been bad in other technology revolutions.
+[00:32:12.794 - 00:32:18.962] Guest: So there are clearly companies building on top of AI models that are creating huge value
+[00:32:19.042 - 00:32:22.106] Guest: and very deep relationships with their customers for themselves.
+[00:32:24.690 - 00:32:33.602] Guest: Cursor is like a recent example of a company that is just exploding in popularity and I think really durable relationships with their customers.
+[00:32:34.583 - 00:32:38.428] Guest: And then there's many others that don't and that's kind of, that's always the case.
+[00:32:39.509 - 00:32:45.938] Guest: It does seem to me like there are more companies getting created now
+[00:32:46.178 - 00:32:50.544] Guest: than in previous technological revolutions that feel like they have a chance at real durability.
+[00:32:51.786 - 00:33:07.389] Guest: Maybe an example we could use to ground this is when the iPhone first came out and the app store first came out, the first set of apps were pretty light and a lot of them ended up being features that kind of made it into future versions of iOS.
+[00:33:08.190 - 00:33:13.778] Guest: You could like sell a flashlight for a dollar that turned on the flash on your phone
+[00:33:15.138 - 00:33:20.225] Guest: made a lot of dollars doing that, but it wasn't sticky because eventually Apple just added that into the operating system where it belonged.
+[00:33:20.706 - 00:33:29.098] Guest: But if you started something that was like complicated and the iPhone was just an enabler for it like Uber, that was a very valuable long-term thing to do.
+[00:33:29.678 - 00:33:38.130] Guest: And in the early days, like the GPT-3 days, I think you had a lot of kind of toy applications as you should, many of which didn't need to be standalone companies or products.
+[00:33:38.591 - 00:33:43.698] Guest: But now as the market's matured, you're really seeing some of these more durable businesses form.
+[00:33:44.258 - 00:33:58.477] Host: If you lay emphasis on owning the customer almost, like the interface with the customer, would you say the relationship gets deeper when I sell a service on top of your model versus a product?
+[00:33:58.617 - 00:34:03.384] Host: Because if it's a product company, the exchange happens once.
+[00:34:03.604 - 00:34:06.208] Host: But if it's a service company, it happens repeatedly.
+[00:34:06.248 - 00:34:13.938] Host: And there is room for me to build and taste in that transaction, which is repetitive in nature.
+[00:34:14.946 - 00:34:19.771] Host: A small part of my world or a part of my world is creating content which I do once a month.
+[00:34:21.313 - 00:34:41.554] Host: If a model to a large extent is able to factor in my vintage, my tenure and my evolution and throw out an output which is predictive in nature with a fair degree of efficiency,
+[00:34:42.754 - 00:34:54.592] Host: Now, if I behave in the same predictable manner tomorrow will be less valuable than me being contrarian, contrarian not to the world, but contrarian to my own behavior almost.
+[00:34:54.832 - 00:35:01.963] Host: So do you think the world inordinately favors contrarian behavior tomorrow?
+[00:35:03.124 - 00:35:05.708] Guest: Yeah, that's a good point.
+[00:35:05.728 - 00:35:06.189] Guest: I think so.
+[00:35:07.171 - 00:35:12.178] Guest: I think the thing I'm thinking is how much will the models learn to do that?
+[00:35:12.514 - 00:35:14.857] Guest: You know, you want to be contrarian and right.
+[00:35:15.457 - 00:35:18.221] Guest: Most of the time you're contrarian, you're contrarian and wrong, and that's not that helpful.
+[00:35:18.261 - 00:35:32.717] Guest: But yeah, I bet the ability to come up with the kind of contrarian and right idea that the models today just can't do at all, and maybe they'll get better at some point, that value of that should go up over time.
+[00:35:34.499 - 00:35:40.466] Guest: Getting good at doing things models can't do seems like an obvious increase in value.
+[00:35:40.674 - 00:35:45.140] Host: Outside of being contrarian, is there anything else that I could do that a model will take longer to learn?
+[00:35:45.621 - 00:35:52.371] Guest: Look, the models are going to be much smarter than we are, but there's a lot of things that people care about that have nothing to do with intelligence.
+[00:35:53.292 - 00:36:03.567] Guest: Maybe there can be like an AI podcast host that is much better than you at asking interesting questions and, you know, kind of engaging, whatever.
+[00:36:03.967 - 00:36:08.594] Guest: And I personally don't think that podcast host
+[00:36:09.218 - 00:36:11.761] Guest: that AI podcast host is likely to be more popular than you.
+[00:36:12.362 - 00:36:14.064] Guest: People really care about other humans.
+[00:36:14.104 - 00:36:15.085] Guest: This is like very deep.
+[00:36:15.105 - 00:36:18.289] Guest: People want to know a little bit about your life story, what got you here.
+[00:36:18.349 - 00:36:23.175] Guest: They want to be able to like talk to other people about this like shared sense of who you are.
+[00:36:23.255 - 00:36:25.358] Guest: And there's like some cultural and social value in that.
+[00:36:26.259 - 00:36:27.600] Guest: We are obsessed with other people.
+[00:36:29.943 - 00:36:31.105] Host: Why is that Sam?
+[00:36:31.185 - 00:36:33.668] Host: Why do you think that is?
+[00:36:33.948 - 00:36:38.674] Guest: I think that's also like deep in our biology.
+[00:36:39.234 - 00:36:41.357] Guest: You know, again, they're common.
+[00:36:41.377 - 00:36:43.059] Guest: You don't fight things that are deep in biology.
+[00:36:43.880 - 00:36:48.407] Guest: I mean, I think it'd make ton of sense of why we would evolve that way.
+[00:36:48.927 - 00:36:49.869] Guest: But, you know, here we are.
+[00:36:50.329 - 00:36:53.073] Guest: So, you know, we're going to keep caring about real people.
+[00:36:53.093 - 00:36:57.980] Guest: And even if the AI podcast host is much smarter than you, I think it's very unlikely he'll be more popular than you.
+[00:36:58.481 - 00:37:05.090] Host: So in a perverse way, being stupider will be more novel than being smart.
+[00:37:05.110 - 00:37:08.114] Guest: I don't know if it's like a stupider
+[00:37:08.578 - 00:37:16.447] Guest: or smarter that has the novelty, but I think being a real person in a world of unlimited AI content will increase in value.
+[00:37:17.628 - 00:37:20.391] Host: Is a real person somebody who screws up, unlike a model?
+[00:37:21.412 - 00:37:26.157] Guest: I mean, certainly real people do screw up, so maybe that's part of what we associate with a real person, I'm not sure.
+[00:37:26.758 - 00:37:31.062] Guest: But I do think we just, knowing that it's a real person or not, we really extremely care about.
+[00:37:33.125 - 00:37:37.970] Host: What is the difference between AGI and human intelligence, today and tomorrow?
+[00:37:39.874 - 00:37:52.390] Guest: So with GPT-5 you have something that is incredibly smart in a lot of domains at tasks that take seconds to a few minutes.
+[00:37:52.950 - 00:38:01.201] Guest: It's very superhuman at knowledge, at pattern recognition, at recall on these shorter term tasks.
+[00:38:01.221 - 00:38:08.690] Guest: But in terms of figuring out what questions to ask or to work on something over a very long period of time, we are definitely not
+[00:38:09.570 - 00:38:10.792] Guest: close to human performance.
+[00:38:12.074 - 00:38:29.019] Guest: And an interesting example that one of our researchers gave me recently is if you look at our performance in math, a couple of years ago we could solve math problems that would take like an expert human a few minutes to solve.
+[00:38:29.039 - 00:38:32.243] Guest: Recently we got gold level performance on the International Math Olympiad.
+[00:38:32.724 - 00:38:34.427] Guest: Each of those problems takes about an hour and a half.
+[00:38:34.567 - 00:38:39.474] Guest: So we've gone from a problem, a thinking horizon of a few minutes to an hour and a half.
+[00:38:39.810 - 00:38:44.797] Guest: To prove an important new mathematical theorem maybe takes like a thousand hours.
+[00:38:45.719 - 00:38:50.185] Guest: And you can predict when we can do a thousand hour problem, but certainly in the world today we cannot at all.
+[00:38:51.127 - 00:38:55.193] Guest: And so that's like another dimension where AI can't do it.
+[00:38:56.254 - 00:39:06.930] Host: So I was in the U.S. between SF, between San Francisco and New York the last couple of months, and I met a whole bunch of AI founders.
+[00:39:07.810 - 00:39:18.762] Host: The one thing everybody seemed to agree on is like for AI, the US is a few years ahead of most others.
+[00:39:20.304 - 00:39:23.647] Host: They also thought that for robotics, China seems to be ahead.
+[00:39:25.269 - 00:39:30.515] Host: Do you have a view on robotics and what happens there, like humanoid or other form of robotics?
+[00:39:31.756 - 00:39:34.719] Guest: I think it will be incredibly important in a couple of years.
+[00:39:34.879 - 00:39:37.202] Guest: I think one of the things that is going to feel most
+[00:39:37.954 - 00:39:43.781] Guest: AGI-like is seeing robots just walk by you on the street doing kind of normal day-to-day tasks.
+[00:39:46.404 - 00:39:48.846] Host: Is there a reason why they need to have human-like form?
+[00:39:49.787 - 00:39:54.693] Guest: Well, you can certainly have non-humanoid forms, but the world is really built for humans.
+[00:39:55.454 - 00:40:06.226] Guest: You know, like door handles, steering wheels in cars, factories, like a lot of this is built for... We built it for our own kind of morphology.
+[00:40:06.498 - 00:40:15.151] Guest: So there will of course be other specialized robots too, but the world like is built and I hope stays built for us.
+[00:40:15.512 - 00:40:18.677] Guest: So, you know, robots that match that form factor, it seems like a good idea.
+[00:40:19.678 - 00:40:35.282] Host: If I'm a young guy looking to start a robotics company, but somebody else has manufacturing scale and I really want as an Indian guy to be able to build and compete there, how do I make up for manufacturing scale as someone starting up?
+[00:40:38.018 - 00:40:41.563] Guest: Well, eventually, once you build enough robots, they can make more copies of themselves.
+[00:40:42.565 - 00:40:46.932] Guest: But in the short term, I think you probably have to find some really good partners that know a lot about manufacturing.
+[00:40:47.593 - 00:40:50.858] Guest: And we're interested in robots, so we're thinking about this.
+[00:40:50.918 - 00:40:53.982] Guest: And it's definitely a new skill for us to learn.
+[00:40:55.204 - 00:40:56.887] Host: Sam, what happens to the form factor?
+[00:40:57.287 - 00:40:59.711] Host: I've been using the cell phone for a long time.
+[00:40:59.731 - 00:41:06.962] Host: I know you will not likely speak about what you're doing with Johnny Ive and what happens there.
+[00:41:07.266 - 00:41:09.869] Host: But what happens to form factor overall?
+[00:41:12.012 - 00:41:30.878] Guest: One of the things that I think we'll be defining about the difference of AI versus the sort of previous way we've been using computers and technology is you really want AI to be, have as much context as possible, do stuff for you and be proactive.
+[00:41:31.519 - 00:41:37.106] Guest: So a computer or a phone, you know, it's kind of either on or off.
+[00:41:37.506 - 00:41:57.325] Guest: But you might want AI to just be, you know, like a companion with you throughout your day and alerting you in different ways when it can do something to help you or when it's, you know, there's something really important you need to know or reminding you of something that you said you needed to do earlier in the day.
+[00:41:58.246 - 00:42:04.192] Guest: And the current form factors of computers are I think not quite right for that.
+[00:42:04.212 - 00:42:06.514] Guest: They do have this either on or off binary.
+[00:42:07.106 - 00:42:12.694] Guest: that I think isn't quite what we want for the sort of sci-fi dream of the AI companion.
+[00:42:13.315 - 00:42:15.999] Guest: So the form factor that enables that, you could imagine a lot of things.
+[00:42:17.040 - 00:42:21.667] Guest: There's people talking about glasses and wearables and things that sit on your table.
+[00:42:22.809 - 00:42:34.866] Guest: I think the world will extreme with a lot of those, but this idea of sort of ambiently aware physical hardware, that feels like it's going to be important.
+[00:42:35.650 - 00:42:38.696] Host: Is that the form factor with Johnny Ive, like a sensor?
+[00:42:40.780 - 00:42:52.742] Guest: So we'll try multiple products, but I think this idea of trying to build hardware that an AI companion can sort of embody itself in will be an important thread.
+[00:42:54.867 - 00:42:58.834] Host: The last two things I want to ask you, Sam,
+[00:42:59.586 - 00:43:03.732] Host: Fusion, because I know you've invested in helium and you're a big proponent of it.
+[00:43:04.253 - 00:43:06.256] Host: Does that solve the climate change problem?
+[00:43:07.618 - 00:43:08.560] Host: Would you put money on that?
+[00:43:10.643 - 00:43:11.704] Guest: It certainly helps a lot.
+[00:43:12.325 - 00:43:16.431] Guest: I suspect that we've already done sufficient damage to the climate.
+[00:43:16.452 - 00:43:20.017] Guest: We're going to have to undo some damage too, even if we got to switch to fusion right away.
+[00:43:20.538 - 00:43:22.260] Guest: But it would certainly be a great step forward.
+[00:43:23.943 - 00:43:28.690] Host: And the last question I have for you, Sam, is the question I care most about.
+[00:43:29.762 - 00:43:34.387] Host: What's in this AI realm for India as a country?
+[00:43:34.407 - 00:43:35.869] Host: What's the opportunity for us?
+[00:43:36.389 - 00:43:42.596] Guest: As I mentioned earlier, I think India may be our largest market in the world at some point in the not very distant future.
+[00:43:42.957 - 00:43:55.250] Guest: The excitement, the embrace of AI in India and the ability for Indian people to use AI to just sort of leapfrog into the future and
+[00:43:55.714 - 00:44:01.421] Guest: invent a totally new and better way of doing things and the sort of the economic benefits that come from that, the societal benefits.
+[00:44:02.142 - 00:44:10.632] Guest: If there is one large society in the world that seems most enthusiastic to transform with AI right now, it's India and the energy is incredible.
+[00:44:10.652 - 00:44:11.793] Guest: I'm looking forward to coming soon.
+[00:44:12.634 - 00:44:16.719] Guest: And it's really like quite amazing to watch.
+[00:44:17.540 - 00:44:22.847] Guest: And I think the, it's sort of the momentum is unmatched anywhere in the world.
+[00:44:24.228 - 00:44:25.490] Host: I feel like,
+[00:44:25.890 - 00:44:36.120] Host: The question really is how do we transition from being a consumer to be a producer where we can build something that other people use outside of India?
+[00:44:36.480 - 00:44:37.321] Guest: That was what I mean.
+[00:44:37.341 - 00:44:39.683] Guest: There's lots of things happening there, but that was the thing I meant.
+[00:44:39.743 - 00:44:42.246] Guest: I think that's really happening already in a big way.
+[00:44:42.966 - 00:44:55.218] Guest: The entrepreneurial energy around building with AI in India is quite amazing and we hope to see much more of it.
+[00:44:55.650 - 00:44:56.011] Host: Super.
+[00:44:56.353 - 00:44:56.995] Host: Thank you, Sam.
 [00:44:57.015 - 00:44:57.216] Unknown: Great.
-[00:44:57.617 - 00:44:59.102] Host: Thank you for having me.
-[00:44:59.122 - 00:44:59.524] Guest: Thank you.
-[00:45:00.126 - 00:45:00.568] Host: Appreciate it.
-[00:45:01.531 - 00:45:02.976] Guest: I'm going to message you.
+[00:44:57.617 - 00:44:59.102] Guest: Thank you for having me.
+[00:44:59.122 - 00:44:59.524] Host: Thank you.
+[00:45:00.126 - 00:45:00.568] Guest: Appreciate it.
+[00:45:01.531 - 00:45:02.976] Host: I'm going to message you.
 [00:45:02.996 - 00:45:03.097] Unknown: Okay.
-[00:45:03.418 - 00:45:03.839] Host: Good to see you.
-[00:45:03.860 - 00:45:04.562] Host: Thanks for doing this.
+[00:45:03.418 - 00:45:03.839] Guest: Good to see you.
+[00:45:03.860 - 00:45:04.562] Guest: Thanks for doing this.

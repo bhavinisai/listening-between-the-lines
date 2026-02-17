@@ -74838,7 +74838,8 @@
     "host_original_label": "Speaker 1",
     "guest_original_label": "Speaker 2",
     "confidence": 0.95,
-    "method": "youtube_cta (2 subscribe/like mentions)",
-    "sponsor_segments_detected": 2
+    "method": "host_phrases (1 phrases)",
+    "detection_type": "host_phrases",
+    "interview_style": true
   }
 }

@@ -68939,8 +68939,9 @@
   "host_identification": {
     "host_original_label": "Speaker 1",
     "guest_original_label": "Speaker 2",
-    "confidence": 0.9856407011261087,
-    "method": "dominant_speaker (98.6%)",
-    "sponsor_segments_detected": 1
+    "confidence": 0.9803921568627451,
+    "method": "questions (50 vs 1, 98.0%)",
+    "detection_type": "questions",
+    "interview_style": true
   }
 }

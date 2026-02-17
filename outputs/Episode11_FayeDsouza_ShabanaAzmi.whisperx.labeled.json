@@ -65151,8 +65151,9 @@
   "host_identification": {
     "host_original_label": "Speaker 1",
     "guest_original_label": "Speaker 2",
-    "confidence": 0.8,
-    "method": "sponsor_detection (5 ad segments)",
-    "sponsor_segments_detected": 5
+    "confidence": 0.744,
+    "method": "questions (93 vs 32, 74.4%)",
+    "detection_type": "questions",
+    "interview_style": true
   }
 }
