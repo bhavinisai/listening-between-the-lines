@@ -1,0 +1,785 @@
+[00:00:00.002 - 00:00:03.926] Guest: We look at western cultures, we look at western world and the startups which have worked there.
+[00:00:04.567 - 00:00:05.789] Host: And we try to copy that here.
+[00:00:06.069 - 00:00:06.710] Host: That's terrible.
+[00:00:07.150 - 00:00:13.798] Host: From the maybe 100 unicorns today, I don't think out of these 100 more than 25 will be unicorns in the next two to three years.
+[00:00:13.978 - 00:00:23.028] Host: We should really be cautious that they should not become the inspiration for all your listeners and viewers here also today because actually that's a bad example to follow.
+[00:00:23.048 - 00:00:28.114] Host: But this gold standard that we put on this self-acclaimed back thumping
+[00:00:28.194 - 00:00:33.059] Host: chest thumping approach because five people backed you at a certain valuation and you managed that.
+[00:00:33.640 - 00:00:35.001] Host: Your problems are all starting now.
+[00:00:35.222 - 00:00:39.887] Guest: Don't you feel that some people should not be an entrepreneur and they're trying to become entrepreneurs?
+[00:00:41.048 - 00:00:47.996] Guest: Today's episode is with the India media Mughal and the education Mughal as well at the same time.
+[00:00:48.776 - 00:00:57.586] Guest: Today, we spoke to Ronnie Scruvala who started his journey from the scratch on the streets in Mumbai
+[00:00:57.698 - 00:01:01.902] Guest: and turned around his life into something really, really big.
+[00:01:02.563 - 00:01:04.925] Guest: He started with building a media house.
+[00:01:05.486 - 00:01:08.929] Guest: Then he bought a Kabaddi team and turned that around.
+[00:01:09.490 - 00:01:13.213] Guest: Then he started an EdTech company called Upgrad.
+[00:01:13.654 - 00:01:22.463] Guest: And now he is actually helping every Indian learn better and get upgraded with their skills so that they can lead better in their life.
+[00:01:22.923 - 00:01:25.746] Guest: In today's episode, we've spoken about the media.
+[00:01:25.986 - 00:01:38.826] Guest: education sector, entrepreneurship, what young entrepreneurs make mistake, what is the difference between venture funded startups and bootstrap starters, and so many more tips which you and I, everybody will be benefited from.
+[00:01:39.107 - 00:01:52.488] Guest: And, and, and, if you feel that this podcast is really long, then go subscribe our Rajshamani clips and Rajshamani Shorts channel to enjoy this into small clips and learn better in just short amount of time.
+[00:01:52.909 - 00:01:53.810] Guest: Enjoy today's show.
+[00:01:58.562 - 00:02:05.090] Guest: Tell me like, were you always like this big dreamer and dream with your feet on the ground or like you started as?
+[00:02:05.831 - 00:02:07.272] Guest: I think I started with feet on the ground.
+[00:02:07.432 - 00:02:08.874] Guest: Then I started dreaming.
+[00:02:08.894 - 00:02:10.316] Guest: I don't think I started with dreaming.
+[00:02:10.716 - 00:02:13.980] Guest: So you were not born into riches, you were not... What's the background?
+[00:02:14.100 - 00:02:19.587] Host: Yeah, I mean, yeah, a complete lower middle class background in a place in Mumbai called Grant Road.
+[00:02:19.887 - 00:02:22.290] Host: I do remember we are a large joint family.
+[00:02:22.370 - 00:02:23.652] Host: There was no private bedroom.
+[00:02:23.952 - 00:02:26.877] Host: The toilet was at the end of the door and I spent my first 17 years.
+[00:02:27.398 - 00:02:29.942] Host: Incredible grounding in those days.
+[00:02:30.242 - 00:02:36.411] Host: There was a lovely cafe 786 on the ground floor which served the best biryani in Grant Road and the best jalebi.
+[00:02:37.553 - 00:02:40.818] Host: My two aunts and my mum used to teach the piano.
+[00:02:41.250 - 00:02:47.119] Host: So I think all my first few girlfriends were all piano students that would come there.
+[00:02:47.179 - 00:02:48.701] Host: Did you learn to impress them or no?
+[00:02:48.862 - 00:02:57.455] Host: Yes, I learned how to play the piano in the process, but that is compliments to my mom and my aunts, not the girlfriends, but very, very fond memories.
+[00:02:57.675 - 00:02:59.898] Host: And that's why I meant that you get grounded.
+[00:03:00.780 - 00:03:04.145] Host: Then your expectation on life is everything is up there.
+[00:03:04.445 - 00:03:07.570] Host: And I think many of the times when I've been set back,
+[00:03:08.066 - 00:03:11.130] Host: My introspection was, now how worse can it get?
+[00:03:11.290 - 00:03:15.355] Host: At worst, look at the first 17 years of my life, I was very happy then.
+[00:03:15.936 - 00:03:18.559] Host: So even if I get back to even that level, how bad can it get?
+[00:03:19.019 - 00:03:24.085] Host: It allows you and empowers you to take lots of risks and lower your expectations in life.
+[00:03:25.387 - 00:03:25.787] Guest: Interesting.
+[00:03:26.028 - 00:03:33.036] Guest: Tell me one interesting lesson that you learned while you were going through that phase.
+[00:03:34.138 - 00:03:37.842] Guest: I don't want to call that adversity, but like in the initial years of your life.
+[00:03:37.954 - 00:03:40.178] Guest: Something that you learned and that still stays with you.
+[00:03:41.541 - 00:03:43.905] Host: I'm coining it now.
+[00:03:44.005 - 00:03:46.349] Host: I was not mature enough to do that.
+[00:03:47.652 - 00:03:49.495] Host: I learned a couple of things.
+[00:03:49.655 - 00:03:50.577] Host: One is you're on your own.
+[00:03:51.098 - 00:03:52.581] Host: You're on your own in many ways.
+[00:03:52.861 - 00:03:53.623] Host: Not from a family.
+[00:03:53.683 - 00:03:55.827] Host: Family ecosystem is always there, but you're on your own.
+[00:03:56.528 - 00:03:57.650] Host: The second one is
+[00:03:58.146 - 00:04:02.270] Host: When you choose to do something, you have to go about it with, you don't have a choice, right?
+[00:04:02.330 - 00:04:07.335] Host: Because I think when I told my parents that I want to do something on my own, that was a big shock for them.
+[00:04:07.455 - 00:04:11.119] Host: Like it is for most, 99% of the parents that want to look at that.
+[00:04:11.219 - 00:04:17.546] Host: But they were like good Parsi parents, quietly, worrisomely supportive.
+[00:04:18.026 - 00:04:25.714] Host: And I think one of the things that my parents said is, look, even if you finally want to do this, I just want to tell you, you're on your own.
+[00:04:25.858 - 00:04:28.923] Host: because we don't have the money for your first mistake.
+[00:04:28.983 - 00:04:31.446] Host: Forget about your second mistake and your third mistake.
+[00:04:31.887 - 00:04:37.776] Host: And I think that rung a bell with me that says, you know, you're on your own and therefore you don't have a choice.
+[00:04:38.437 - 00:04:50.594] Host: And when you have these two non parachutes, non parachutes with you in life, it kind of holds you very tightly and makes again your feet on the ground always.
+[00:04:50.614 - 00:04:54.741] Guest: That's a very interesting take because you are on your own and mostly what you do.
+[00:04:55.101 - 00:04:55.762] Guest: Yeah.
+[00:04:56.098 - 00:05:16.050] Guest: I'll tell you a contradictory thing like with I also grew up in like a middle class family and didn't have enough money for the mistakes and stuff but my parents on the contradictory maybe because now the generation has changed and like so much awareness is there they have always been that okay we know that we don't have enough resources but even if you fail don't worry
+[00:05:16.290 - 00:05:28.017] Host: I think what they were telling me in a very materialistic sense is while our spirit will be willing, our wallet will definitely be.
+[00:05:28.418 - 00:05:31.826] Guest: You know, they always say, I'm asking this question because people say this, right?
+[00:05:32.194 - 00:05:37.041] Guest: the money changes you, success changes you, the more you achieve you kind of become like a different person.
+[00:05:37.401 - 00:05:41.006] Guest: So that's why like the belief system and the things that you value do that change or not?
+[00:05:41.026 - 00:05:46.294] Host: I've seen that happen with people and I'm not sitting here from the pulpit and trying to lecture.
+[00:05:46.314 - 00:05:57.970] Host: I hope when I have my own report card that it doesn't reflect for me that money has changed anything for me but I can see that it is quite intoxicating right because
+[00:05:58.114 - 00:05:59.215] Host: It's a thumbs up for you.
+[00:05:59.355 - 00:06:02.138] Host: When you see that, what do you do?
+[00:06:02.158 - 00:06:04.360] Host: Money attracts people thumping your back.
+[00:06:05.001 - 00:06:06.823] Host: It attracts more friends than you want.
+[00:06:07.403 - 00:06:11.187] Host: It attracts a fan club which can disappear the next day.
+[00:06:11.227 - 00:06:16.272] Host: It makes every glory look non fleeting, whereas it should be fleeting.
+[00:06:16.873 - 00:06:18.434] Host: So it can go to people's head.
+[00:06:19.075 - 00:06:21.617] Host: And it just sounds like you're invulnerable.
+[00:06:21.898 - 00:06:24.500] Host: And actually you are a vulnerable at every given stage.
+[00:06:24.921 - 00:06:26.162] Host: And the world is fragile.
+[00:06:26.306 - 00:06:28.488] Host: It is fragile today in many, many ways, right?
+[00:06:28.508 - 00:06:30.030] Host: I mean- What do you mean by the fragile world?
+[00:06:30.770 - 00:06:33.813] Host: I mean, it's not just changes, it is a fragile world.
+[00:06:33.894 - 00:06:54.354] Host: Today, I think the biggest challenge for any person, young or old, wanting to do something on their own or in a job, in a career or not, in a profession, as a lawyer or a doctor or whatever else, has to deal with fragility because there's so many things that are actually changing around you, and 50% of them are not in your control.
+[00:06:54.882 - 00:07:01.211] Host: I mean, I'm not talking about the macro things about war in Ukraine and two banks collapsing or the economy.
+[00:07:01.251 - 00:07:01.752] Host: Those are all...
+[00:07:02.172 - 00:07:04.936] Host: I think we have to live that that's going to be a way of life.
+[00:07:05.897 - 00:07:14.830] Host: But fragility today, I think, you know, what troubles me, frankly, is the fact that almost 10%, 15% of the people today have more of a mental crisis.
+[00:07:14.930 - 00:07:20.658] Host: I mean, we're now vocally talking about the context of mental health.
+[00:07:20.994 - 00:07:21.916] Host: Right, versus health.
+[00:07:22.276 - 00:07:23.719] Host: Most people would have scorned on that.
+[00:07:24.421 - 00:07:26.785] Host: Firstly, I want to treat somebody who's genuinely sick.
+[00:07:26.805 - 00:07:29.551] Host: You think I'm going to wait for you because your mind is not working?
+[00:07:29.571 - 00:07:30.853] Host: How dare your mind is not working?
+[00:07:30.893 - 00:07:31.434] Host: Go fix it.
+[00:07:31.935 - 00:07:32.897] Host: But today, that's real.
+[00:07:33.558 - 00:07:37.987] Host: So which means there's so much of fragility in the world that's creating so much conflict in your mind.
+[00:07:38.027 - 00:07:41.554] Host: And there's so much information that comes your way.
+[00:07:41.858 - 00:07:48.510] Host: You know, and I think my brother-in-law told me one fine day last week, he says, I'm going to put that watch on you because it's going to give you a lot of data.
+[00:07:48.630 - 00:07:49.732] Host: You can do that when you exercise.
+[00:07:49.752 - 00:07:51.595] Host: I said, look, I'm dealing with too many data points.
+[00:07:51.655 - 00:07:53.558] Host: I don't want more data right now in my life.
+[00:07:53.578 - 00:07:56.804] Host: And I don't mean data in that sense, just any more information to process.
+[00:07:57.345 - 00:08:00.290] Host: Because frankly, you need to, you need to chill.
+[00:08:00.390 - 00:08:01.232] Host: You need to relax.
+[00:08:01.332 - 00:08:04.177] Host: You need to get the thoughts let come flow into your mind.
+[00:08:04.617 - 00:08:07.282] Host: So to me, fragility is, um,
+[00:08:07.522 - 00:08:11.008] Host: things outside your control will change, things within you will control and change.
+[00:08:11.468 - 00:08:14.112] Host: They will change more sharply than ever before.
+[00:08:14.493 - 00:08:19.942] Host: If something was bad news, you'll have time to process it, maybe even avert it, go back and do it.
+[00:08:20.142 - 00:08:21.544] Host: I think that's becoming less and less.
+[00:08:21.785 - 00:08:24.409] Host: Before you can digest it, it could be fatal.
+[00:08:25.090 - 00:08:35.346] Guest: You know, I am asking this to you because I recently read about a couple of Silicon Valley founders who have all made it multi-million dollars in the last four to five years.
+[00:08:35.522 - 00:08:39.207] Guest: like from zero to four, five years, and then there was a study done on there, like there was 80 of them.
+[00:08:39.767 - 00:08:44.293] Guest: They found out majority of them are data control freaks.
+[00:08:44.674 - 00:08:52.244] Guest: And they track their life, their time, their body, not only their organization and their productivity, they track themselves.
+[00:08:52.264 - 00:09:03.378] Guest: In fact, so I was having a conversation with someone about this and they said like, they track the steps they do, the food they eat, the calories they intake,
+[00:09:03.458 - 00:09:06.568] Guest: Like every little thing about everything.
+[00:09:06.749 - 00:09:07.772] Guest: Like they just track everything.
+[00:09:07.792 - 00:09:11.324] Guest: Do you think that kind of tracking becomes... No.
+[00:09:11.344 - 00:09:13.330] Guest: And I can tell you that... Is it good or bad?
+[00:09:13.602 - 00:09:15.185] Host: No, there's no judgment call.
+[00:09:15.265 - 00:09:16.286] Host: It's each one to their own.
+[00:09:16.507 - 00:09:17.148] Host: What would you say?
+[00:09:17.208 - 00:09:17.809] Host: I would not say.
+[00:09:17.909 - 00:09:19.752] Host: No, I think that's relevant, but for each time.
+[00:09:20.233 - 00:09:30.110] Host: So I will answer that question by saying if there are 80 of them, A, B, in Silicon Valley, C, done multi-million, and they've done it between 2019 and 2022, that's a different era.
+[00:09:30.931 - 00:09:34.216] Host: Will they be able to do it if it started in 2020 to 2025?
+[00:09:34.296 - 00:09:35.218] Host: Probably not.
+[00:09:35.906 - 00:09:39.150] Host: And that's the difference between saying, I'm a data freak.
+[00:09:39.350 - 00:09:41.853] Host: And therefore, I mean, because there were things that are not being controlled.
+[00:09:41.873 - 00:09:47.240] Host: Whatever velocity they thought that got them there, 50% is serendipity and tailwind.
+[00:09:47.300 - 00:09:51.045] Host: If some sorts, that gets you to a certain level.
+[00:09:51.285 - 00:09:51.705] Host: Number one.
+[00:09:52.707 - 00:09:55.570] Host: Two, the opportunities in each place are also very, very different, right?
+[00:09:55.810 - 00:09:58.494] Host: And you can do that for a momentary time in four or five years.
+[00:09:58.914 - 00:10:05.362] Host: The question would be, can we track these same 80 people over the next seven years and figure out whether how many of them kept their wealth
+[00:10:06.114 - 00:10:10.780] Host: If wealth is the benchmark, because the other unfortunate part is your benchmark of all of this is wealth.
+[00:10:10.960 - 00:10:11.161] Host: Yeah.
+[00:10:11.701 - 00:10:11.902] Host: Why?
+[00:10:13.043 - 00:10:14.145] Host: Where's the happiness quotient?
+[00:10:14.165 - 00:10:15.146] Host: Where's the joy quotient?
+[00:10:15.166 - 00:10:16.368] Host: Where's the balance quotient?
+[00:10:16.888 - 00:10:18.110] Host: Where's the so many other quotients?
+[00:10:18.150 - 00:10:19.251] Host: And I'm not talking about Nirvana.
+[00:10:19.312 - 00:10:20.373] Host: I'm not talking about Buddhism.
+[00:10:20.413 - 00:10:21.575] Host: I'm not talking about Vipassana.
+[00:10:21.595 - 00:10:22.736] Host: I'm not talking about meditation.
+[00:10:23.317 - 00:10:30.226] Host: Just because at some stage when you have this kind of acuteness, you're going to need balance at some stage.
+[00:10:30.818 - 00:10:36.245] Host: Because do you really want to test the pulse on your body and the calories that you burn every single day of your life?
+[00:10:37.426 - 00:10:39.148] Host: Because at some stage the pennies are going to drop.
+[00:10:39.168 - 00:10:46.237] Host: Did that make me happy that I was so... You know, willpower is a very difficult thing for a lot of people and it's great the people who have willpower.
+[00:10:46.257 - 00:10:48.580] Host: And I think at leadership you need that kind of willpower, right?
+[00:10:48.600 - 00:10:52.925] Host: Because you need that willpower to get up at 4.30 in the morning, still continue a regiment routine.
+[00:10:52.945 - 00:10:57.170] Host: 99% of the people who say, I travel 10 days a month, I can't keep my...
+[00:10:57.314 - 00:11:00.777] Host: can't keep myself fit, but the people who have a willpower will find themselves.
+[00:11:00.797 - 00:11:02.459] Host: So that's a very strong anchor.
+[00:11:03.160 - 00:11:06.203] Host: But I would say to this, there are two, three things here.
+[00:11:06.303 - 00:11:10.127] Host: One is validate that after five years and see how many people continue to do that.
+[00:11:10.387 - 00:11:13.090] Host: Second, wealth is not the only benchmark.
+[00:11:13.210 - 00:11:16.934] Host: And third is if you're so obsessed, I think you need to take a reality check.
+[00:11:16.954 - 00:11:19.096] Host: Can you be obsessed for 20 years at a go?
+[00:11:19.156 - 00:11:19.676] Host: I don't think so.
+[00:11:21.278 - 00:11:22.940] Guest: Does that make sense?
+[00:11:23.280 - 00:11:25.362] Guest: That makes sense because it's periodically
+[00:11:25.634 - 00:11:27.977] Guest: relevant for some people at some stage.
+[00:11:28.598 - 00:11:30.361] Host: As much as a sprint versus a marathon.
+[00:11:30.581 - 00:11:30.882] Host: Yeah.
+[00:11:31.062 - 00:11:34.026] Host: As much as a hundred meters versus 500 meters and whatever else.
+[00:11:34.687 - 00:11:34.788] Guest: Yeah.
+[00:11:34.808 - 00:11:41.578] Guest: And, you know, we, we overestimate when we achieve something, we tend to look back and try to connect dots and overestimate.
+[00:11:42.759 - 00:11:47.206] Guest: Like, you know, we, we give more importance to certain things because we are going through that phase.
+[00:11:47.226 - 00:11:52.594] Host: It might not only do we give more importance, I think we give more credit to ourselves than you.
+[00:11:53.058 - 00:11:54.961] Other: That's true.
+[00:11:55.061 - 00:11:55.221] Other: 99%.
+[00:11:55.241 - 00:11:58.206] Other: So I was, I just said it yesterday.
+[00:11:58.226 - 00:11:59.908] Guest: This is a belief.
+[00:12:00.129 - 00:12:01.971] Guest: There's no math behind it and there's no science.
+[00:12:01.991 - 00:12:09.222] Guest: I just believe that 99% of his serendipity like luck, 1% is your manufactured luck, right?
+[00:12:09.242 - 00:12:13.188] Host: And by manufactured luck, I mean it's like strong believer in serendipity.
+[00:12:13.449 - 00:12:14.690] Host: I wouldn't put 99% or 90%.
+[00:12:14.871 - 00:12:15.992] Host: I put it at 50%.
+[00:12:16.954 - 00:12:22.482] Host: Because if it's 99% or 90% also, then you might as well sit down and chill and let
+[00:12:22.594 - 00:12:25.238] Host: the breeze blow, but it may blow you in different directions.
+[00:12:25.678 - 00:12:35.532] Host: But if you really want to catch serendipity, then you need to be out there in multiple places so that when the wind catches you, you know when to ride on the sail and when to walk in the trenches.
+[00:12:36.533 - 00:12:38.456] Guest: I know that's what I was saying, there's no math to it.
+[00:12:38.516 - 00:12:41.940] Guest: I just believe that it's a combination of manufactured luck and serendipity.
+[00:12:41.960 - 00:12:47.648] Host: But it needs to have a slightly more balance than saying I'm around, now come hit me from the back.
+[00:12:47.668 - 00:12:49.170] Guest: True, that makes sense.
+[00:12:49.346 - 00:13:00.337] Guest: Quick question, what do you think, like what makes, what's the difference between successful entrepreneurs and versus people who kind of quit on just the entrepreneurship journey after a while?
+[00:13:00.357 - 00:13:03.139] Guest: I would not call them unsuccessful entrepreneurs.
+[00:13:03.279 - 00:13:05.742] Guest: Like people who make it versus the people who don't make it.
+[00:13:05.942 - 00:13:11.507] Guest: And the judgment criteria can be wealth, happiness, impact, anything.
+[00:13:11.587 - 00:13:13.709] Guest: I'm just saying like people who make it versus not make it.
+[00:13:14.330 - 00:13:18.514] Host: I would answer this very directly because I think the question is a very relevant and important one.
+[00:13:19.458 - 00:13:24.448] Host: The people who haven't made it, there is no category like that, because actually that's not a category.
+[00:13:24.468 - 00:13:33.064] Host: So it's not that I'm comparing it to do, but the difference between somebody who made it and somebody who called it a day, because there's no such thing as I didn't make it.
+[00:13:33.525 - 00:13:35.028] Host: It only means you call it a day.
+[00:13:36.791 - 00:13:40.178] Host: And therefore the difference between the two is you didn't stick it out.
+[00:13:41.154 - 00:13:42.436] Host: you didn't stick it out.
+[00:13:42.636 - 00:13:45.722] Host: Because if you stuck it out, you wouldn't be in this category.
+[00:13:46.743 - 00:13:48.045] Host: It's a self-claimed category.
+[00:13:48.065 - 00:13:49.648] Host: It's not a category that is a category.
+[00:13:50.690 - 00:13:51.311] Host: I didn't make it.
+[00:13:51.331 - 00:13:52.353] Host: There is no such category.
+[00:13:53.354 - 00:13:54.176] Host: I didn't stick it out.
+[00:13:54.276 - 00:13:54.977] Host: That's a category.
+[00:13:55.979 - 00:13:56.680] Host: I copped out.
+[00:13:56.800 - 00:13:57.802] Host: That's a category.
+[00:13:57.822 - 00:13:59.144] Host: There's no question about the fact.
+[00:13:59.745 - 00:14:07.698] Host: It may not be the success you planned it to be, but the fact is that the people who got it, because they eventually became successful,
+[00:14:08.450 - 00:14:18.461] Host: Okay, so if you ask me which of my journey whatever else is because it's that's the journey and you're eventually and then eventually becomes a new benchmark and okay there's a certain benchmark from which you feel you may not fall but you could.
+[00:14:19.142 - 00:14:31.936] Host: So that is a progressive one but the people who did not make it opened a category that doesn't exist but it's a self-made category called I didn't make it because I don't think anyone should sit in that category says I didn't make it.
+[00:14:32.397 - 00:14:32.637] Other: Why?
+[00:14:33.358 - 00:14:33.618] Host: Why?
+[00:14:34.659 - 00:14:37.042] Host: Of course you may have failed you may have got bankrupt
+[00:14:37.474 - 00:14:40.278] Host: shit would have happened to you, lots of things may have happened.
+[00:14:40.298 - 00:14:46.127] Host: At that particular point, your life is over, your career is over, your reputation may be...
+[00:14:46.147 - 00:14:49.953] Host: I don't mean reputation as in you did something and it was crooked.
+[00:14:50.033 - 00:14:56.964] Host: So without ethics, your reputation of a failure, those will fly out of the window in one minute.
+[00:14:57.805 - 00:15:00.609] Host: So I think that category should be nixed.
+[00:15:01.491 - 00:15:06.258] Guest: But Aren, don't you feel like there are people who are not cut out for certain things?
+[00:15:06.946 - 00:15:08.549] Guest: And they should not try that.
+[00:15:09.130 - 00:15:11.275] Host: So they're not cut out for entrepreneurship.
+[00:15:11.295 - 00:15:12.337] Guest: Just asking your question.
+[00:15:12.357 - 00:15:18.349] Guest: Do you feel that some people should not be an entrepreneur and they're trying to become entrepreneurs or some people should not be?
+[00:15:18.369 - 00:15:20.012] Host: So then it's not that they didn't make it.
+[00:15:20.373 - 00:15:27.026] Host: They tried something and they made the wise decision that I need to go back into a zone
+[00:15:27.138 - 00:15:29.320] Host: which I know is gonna be my security zone.
+[00:15:29.741 - 00:15:33.744] Host: Like I think taking risks or working and taking that responsibility is not my best.
+[00:15:33.825 - 00:15:37.068] Host: I perform better when I'm part of a overall support system.
+[00:15:37.748 - 00:15:39.690] Host: That doesn't mean you didn't make it as an entrepreneur.
+[00:15:39.850 - 00:15:47.658] Host: You did that and then you took a good call that says for good reason, not because I failed, not because I didn't make it.
+[00:15:48.439 - 00:15:55.666] Host: So, and I'm trying to dissect this here because I think I've lived all of those journeys enough to be able to dissect that and say very clearly.
+[00:15:55.970 - 00:16:02.280] Host: Don't go do it, because if you think I have the option to go back to a job, you will.
+[00:16:02.962 - 00:16:11.796] Host: If you start on your journey, and I think you asked me in the very beginning, whatever one or two things that I started from my early childhood, and I said one is you're on your own, and the second is you don't have a choice.
+[00:16:12.457 - 00:16:22.674] Host: So if you ask me today, given that I had zero opening bank balance, and didn't have money like everybody else thinks today is their birthright that I won't start a business unless somebody funds me,
+[00:16:23.138 - 00:16:24.920] Host: Today, at that stage, there was no such thing.
+[00:16:24.940 - 00:16:26.042] Host: It was the reverse of that.
+[00:16:26.503 - 00:16:33.672] Host: So for the next 10 years, not having any fiscal support, but still building something, you go with the fact that I don't have a choice.
+[00:16:33.692 - 00:16:34.814] Guest: You have won multiple hats.
+[00:16:35.074 - 00:16:35.355] Guest: Okay.
+[00:16:35.375 - 00:16:39.821] Guest: There's a media company and then there's EdTech and then there's multiple things that the sports franchise, right?
+[00:16:39.841 - 00:16:40.722] Guest: Like everything you've done.
+[00:16:40.842 - 00:16:43.626] Guest: And you have, you have tasted success in like multiple of them.
+[00:16:44.607 - 00:16:45.588] Guest: After lots of failures.
+[00:16:45.689 - 00:16:47.251] Guest: But of course we will come to failures.
+[00:16:47.271 - 00:16:47.831] Guest: I'll come to that.
+[00:16:47.852 - 00:16:52.658] Guest: But I want to understand like, you know, there are people who are really good at one thing.
+[00:16:52.962 - 00:16:59.450] Guest: But when they try to get out of their zone of like level of expertise, they kind of fail in like other things, right?
+[00:16:59.470 - 00:17:04.697] Guest: So what do you think like what, what makes somebody or what are the fundamentals?
+[00:17:04.717 - 00:17:09.002] Guest: What is that one thing or two things which makes someone successful in like multiple things?
+[00:17:09.423 - 00:17:09.643] Guest: Yeah.
+[00:17:09.783 - 00:17:11.405] Guest: Because it's so difficult to succeed in like so many things.
+[00:17:11.425 - 00:17:13.248] Host: You're putting a domain expertise and figuring that out.
+[00:17:13.288 - 00:17:18.354] Host: I mean, the first is the supposition that I was a media expert when I decided to start media, I wasn't.
+[00:17:18.786 - 00:17:22.050] Host: I mean, again, that was serendipity that got me there.
+[00:17:22.531 - 00:17:27.057] Host: The day on which I said I want to start something was not the day I knew I wanted to start something in media.
+[00:17:27.598 - 00:17:31.904] Host: At the time in which I started it, there was no words and vocabulary like media and entertainment.
+[00:17:32.364 - 00:17:35.409] Other: But now the world describes you as like media expert and all of that.
+[00:17:35.509 - 00:17:38.032] Host: At that stage, it wasn't the case.
+[00:17:38.553 - 00:17:42.839] Host: But I used to do a lot of weekend as a hobby, weekend theater.
+[00:17:43.980 - 00:17:48.306] Host: I used to do front of camera hosting for Doodarshan at that particular point in time.
+[00:17:48.450 - 00:17:58.159] Host: Why and how those are all desperate to get pocket money and theater was something I came not having from a lower middle class house, not having too much of education.
+[00:17:58.280 - 00:18:02.604] Host: So soft skills for me were very important and theater debate, elocution helped me there.
+[00:18:03.124 - 00:18:09.410] Host: So I think those were the early years where I felt, wow, I'm having fun and I'm earning pocket money to go out on a date.
+[00:18:09.931 - 00:18:11.152] Host: I mean, that was real pocket money.
+[00:18:11.312 - 00:18:14.996] Host: It was like 250 rupees on a weekend or 500 rupees on a weekend kind of situation.
+[00:18:15.416 - 00:18:17.298] Host: But enough for you to be able to
+[00:18:17.442 - 00:18:23.589] Host: move up in your lifestyle and not go home and ask your parents for even 50 bucks at that particular point in time.
+[00:18:23.650 - 00:18:25.712] Host: So it was great fun.
+[00:18:26.173 - 00:18:33.702] Host: And so my first part of my career was not because I had an inkling towards media and entertainment, but because I was exposed to it.
+[00:18:33.982 - 00:18:36.785] Host: And then I said, why don't I make a business of it?
+[00:18:36.805 - 00:18:38.988] Host: So I think that's kind of how it works.
+[00:18:39.068 - 00:18:41.311] Host: I mean, I think if I went forward to...
+[00:18:41.331 - 00:18:47.218] Host: So I think domain expertise, when you're in a job, when you've taken engineering or technology,
+[00:18:47.298 - 00:18:51.263] Host: That's a good one, but that doesn't mean today you need to be a specialist only.
+[00:18:51.303 - 00:18:52.385] Host: You can be a generalist.
+[00:18:53.186 - 00:18:57.752] Host: So all I'm saying is people can do something great for the entire part of their career.
+[00:18:57.852 - 00:19:04.261] Host: I'm sure if you're a great lawyer, the probability of you switching and saying, I want to be a doctor for the rest of my life is not going to work.
+[00:19:04.341 - 00:19:07.145] Host: So there'll always be those examples, right?
+[00:19:07.285 - 00:19:13.714] Host: But a leader in an oil rig company can become a CEO of a media company.
+[00:19:14.882 - 00:19:15.283] Host: Why?
+[00:19:15.323 - 00:19:18.868] Host: Because both are equal in terms of their probabilities of success.
+[00:19:18.928 - 00:19:23.175] Host: You'll drill 100 times and at three times when the oil will hit the ground, right?
+[00:19:23.535 - 00:19:24.296] Host: I'm just saying it as a...
+[00:19:24.797 - 00:19:29.444] Host: So it's about how you build the organization, how you look at your...
+[00:19:29.464 - 00:19:35.713] Host: If you understand consumer, if you understand consumers, you understand trends, you can actually transcend many, many sectors.
+[00:19:35.994 - 00:19:36.274] Other: Okay.
+[00:19:36.535 - 00:19:38.738] Guest: We'll come to consumer trends because that's my favorite.
+[00:19:38.978 - 00:19:40.159] Guest: Favorite, favorite area.
+[00:19:40.600 - 00:19:45.164] Guest: But speaking on the topic you said about taking risk on entrepreneurship, right?
+[00:19:46.065 - 00:19:50.890] Guest: As an entrepreneur or as a job, as an employee or as anyone, you need to take risk in order to go ahead.
+[00:19:51.991 - 00:19:54.354] Guest: There was a very interesting quote which I heard.
+[00:19:54.394 - 00:20:06.066] Guest: It says, getting rich is about taking lots of risk with small amount of money and staying rich is a lot about taking small risks with lots of money.
+[00:20:06.562 - 00:20:15.734] Guest: And to me, that was like super interesting, but when you think about it, what essentially the court is trying to say is take calculated risk at any point of your life, right?
+[00:20:15.754 - 00:20:22.502] Guest: And you believe in that, like every entrepreneur should keep taking risk, but what's the right way to take a calculated risk?
+[00:20:23.303 - 00:20:26.988] Host: Yeah, so firstly, I mean, risk is a very subjective word, right?
+[00:20:27.008 - 00:20:34.057] Host: Because it really, the most important part of a risk is your own appetite, your own appetite, not just financially, your own appetite mentally.
+[00:20:34.157 - 00:20:35.218] Host: A lot of people think,
+[00:20:35.426 - 00:20:38.130] Host: you know, because can you have the shock absorbers to take whatever?
+[00:20:38.150 - 00:20:41.474] Host: Because if you are resilient, it doesn't make a difference where the financials will come from.
+[00:20:41.514 - 00:20:44.118] Host: That could get figured out in most spaces.
+[00:20:44.198 - 00:20:47.863] Host: If you have the mental aptitude for it, for risk, it will work very differently.
+[00:20:48.664 - 00:20:54.673] Host: To the quote that you just mentioned, I think my ratio of success to failure is about eight failures to two successes.
+[00:20:55.674 - 00:20:58.178] Host: So let me explain my formula, if not my quote.
+[00:20:58.839 - 00:21:02.083] Host: Because I do believe that, and this has evolved over a period of time.
+[00:21:02.103 - 00:21:04.146] Host: It's not a strategy that I've walked into.
+[00:21:05.186 - 00:21:09.050] Host: But at the stage where I walked in with a DNA that says, what have I got to lose?
+[00:21:09.630 - 00:21:17.498] Host: In a snakes and ladders game, I'm still in the game even if I go from 97 down to six, because it's still six, it's not zero, okay?
+[00:21:17.778 - 00:21:18.799] Host: So what's my worst case?
+[00:21:18.819 - 00:21:25.486] Host: I'll go down to six, but I'm still in the game and I don't know, I might still go up there because there's ladders to climb and snakes to slip down from.
+[00:21:26.146 - 00:21:32.853] Host: So I think my ratio is that when I take the risks, the outcome or the failure is a one X.
+[00:21:33.373 - 00:21:34.354] Host: It could be,
+[00:21:34.626 - 00:21:43.497] Host: invested 10 crores and it was a write-off, or I hired somebody and it was a write-off, or I started a business and it's a write-off, but whatever that is, it's a finite zero sums game.
+[00:21:44.518 - 00:22:02.300] Host: But when you're taking those kind of risks on a sustained basis, and I don't mean risk just for the sake of taking risks, but if you've got these opportunities, the probability of you having a 40x, 50x, or 60x gain versus a 3x or a 4x gain in the things that really work, you're setting yourself up for that.
+[00:22:03.281 - 00:22:04.082] Host: And that's what
+[00:22:04.194 - 00:22:29.010] Host: worked for me as a formula that while there are enough of the minus one x's but if two of them are 30 x that's 60 and 60 minus 8 is 52 now that that could be 32 but it still won't be two two yeah and i think now it's not just a mathematical equation and it's not about only monies it could be as i said one could be a decision about personal one could be a decision about people one could be decision about
+[00:22:29.154 - 00:22:33.281] Host: Exiting something before its time giving up on something before its time.
+[00:22:33.482 - 00:22:49.070] Host: All of those are one axis But because you're moving your journey along with that that in mind Your probability of high success versus good success is really where wealth creation happens Okay, you talked about consumer trends.
+[00:22:49.371 - 00:22:53.458] Guest: All right, and I want to know that because you said like you can
+[00:22:53.666 - 00:22:59.977] Guest: actually win at a lot of things in the business world in different arenas as well if you know how to spot consumer trends.
+[00:23:00.698 - 00:23:03.162] Guest: So give me like what do you feel what's the trend in India right now?
+[00:23:03.483 - 00:23:14.802] Host: Firstly to spot it you need to be in it right you need to be in the you need to walk the talk you need to be doing that you need to be open to the fact most people are not necessarily open to the fact
+[00:23:14.946 - 00:23:26.382] Host: they'll take a consumer researcher, they'll take a focus group, they wanna do it because it's a tick in their book, but actually they're saying, yeah, yeah, yeah, I think what he wanted to say was this and what he, no, no, no, he's saying three different things from what you set out to do in that context.
+[00:23:26.763 - 00:23:29.527] Host: So I think you need to be kind of open to that.
+[00:23:30.488 - 00:23:42.866] Host: The second part I think is especially my media days and today, even in UpGrad and what we're doing in skilling, basically my next 15 years is about preempting careers of tomorrow.
+[00:23:43.138 - 00:23:53.232] Host: It's about seeing how soft skills can become super skills for people, making them understand that just a formal degree is fantastic, but it's not the be all and end all.
+[00:23:53.712 - 00:24:01.923] Host: And that every single day, every three years, the good news is and the bad news is that when you throw up your graduation cap and you thought you were done, you're not done anymore.
+[00:24:02.704 - 00:24:07.551] Host: So when you're looking at that and you're preempting it, you need to understand what's in people's mind, right?
+[00:24:07.571 - 00:24:10.034] Host: Because I may say, here's a career of tomorrow.
+[00:24:10.274 - 00:24:36.530] Host: the fact is the matter is that that person may not feel the agility for it and how do you get them and therefore understanding what the consumer was my messaging to them to pinch them to make them feel that hey hey you need to upgrade and one of the examples and we have a great university here as part of UpGrad which is at BKC and we are a class of about 35-40 of them that were in a room and I came in there and I brought the head of KPMG and the head of
+[00:24:36.642 - 00:24:40.807] Host: McKinsey there, and they were talking about careers of tomorrow.
+[00:24:42.428 - 00:24:46.473] Host: As normal consultants, everyone talks about, here's what I think is going to be there.
+[00:24:46.493 - 00:24:48.635] Host: And the kids there said, wait, wait, wait, wait, wait, actually.
+[00:24:49.096 - 00:24:51.759] Host: We are here to tell you what the careers of tomorrow are.
+[00:24:51.799 - 00:24:56.164] Host: We don't want to hear from you what you think they are, because actually, we're going to make the careers of tomorrow.
+[00:24:56.324 - 00:25:00.068] Host: It doesn't make a difference whether you think this is what it is and this is the future.
+[00:25:00.108 - 00:25:05.714] Host: We know what we want to do for the next 30 years of our life, and that's going to be the careers of tomorrow.
+[00:25:05.954 - 00:25:08.257] Host: I mean, you take that insight, that one insight.
+[00:25:10.139 - 00:25:27.099] Host: I'm sure those two people walked away from there saying, I better shred half my reports out there because if I don't, if I'm telling people what they need to be prepared for without listening to what they think they want to do for the next 30 years, which is going to give them maximum joy, excitement to do, I'm missing the boat.
+[00:25:28.020 - 00:25:32.786] Host: So that's my best example I can give you of why it is absolutely important, how you do it.
+[00:25:33.474 - 00:25:34.496] Host: And you need to.
+[00:25:35.017 - 00:25:41.770] Host: And I think for me, the best mix today is I'm involved with storytelling by making movies.
+[00:25:42.331 - 00:25:47.240] Host: So you have to understand what audiences are looking for just in every sense of the word, why they want to go to the cinema.
+[00:25:47.260 - 00:25:48.423] Host: What do they want to tell in stories?
+[00:25:48.483 - 00:25:49.224] Host: What's the genre?
+[00:25:49.244 - 00:25:49.645] Host: What's this?
+[00:25:50.286 - 00:25:52.370] Host: And then in education, what they want to do with their careers.
+[00:25:52.674 - 00:26:05.796] Host: work-life balance and if you put all of that together and if I do a webinar with 5,000 of our alumni on a Sunday I get more insights with the questions they ask than having five boardroom or meeting room conversations there.
+[00:26:06.356 - 00:26:17.074] Host: So it just depends on how you're open, how you process that information and you know we spoke a little bit about data earlier on but data without understanding how you're going to
+[00:26:17.570 - 00:26:20.314] Host: Place it in context is very, very important.
+[00:26:20.454 - 00:26:26.744] Host: A little bit like I had this conversation and, you know, it was so much gold there, but no, it may be gold to them.
+[00:26:26.844 - 00:26:30.108] Host: How am I going to make it platinum or gold or silver is up to me.
+[00:26:31.450 - 00:26:32.212] Guest: Okay.
+[00:26:32.452 - 00:26:34.835] Guest: It's too much.
+[00:26:34.896 - 00:26:37.039] Guest: Exactly.
+[00:26:37.399 - 00:26:38.821] Guest: I'll break it down into three different parts.
+[00:26:39.042 - 00:26:39.182] Guest: Okay.
+[00:26:39.262 - 00:26:42.026] Guest: So these are three different lives you're talking about in three different things.
+[00:26:42.647 - 00:26:43.969] Guest: One is the media and the stories part.
+[00:26:44.049 - 00:26:44.610] Guest: I'll come to that.
+[00:26:45.091 - 00:26:47.474] Guest: The other was a work life balance that is
+[00:26:47.586 - 00:26:48.267] Guest: a different part.
+[00:26:48.647 - 00:26:57.598] Guest: And third was how do you take people's feedback and then kind of backward engineer and try to build the kind of skills we need.
+[00:26:57.618 - 00:27:03.344] Host: But I do want to say that all of three amalgamate because if I want to figure out the consumer of tomorrow, what is their wallet share?
+[00:27:03.845 - 00:27:11.794] Host: Why are you spending only 20% on entertainment three years back and now you want to make it 40% or why are you spending 3% on education and why are you spending 20% now?
+[00:27:11.874 - 00:27:14.416] Host: All of this, you'll need all this information, but we can still break it up.
+[00:27:14.837 - 00:27:22.104] Host: But I'm saying understanding the consumer to understand, because you asked me the first question on this was what do you think, where do you think consumers are at and what are they looking for?
+[00:27:22.665 - 00:27:24.907] Host: So therefore a lot of that is what is their wallet share?
+[00:27:24.967 - 00:27:27.049] Host: Like if you had a hundred bucks, what would you spend it on?
+[00:27:27.729 - 00:27:35.557] Host: If my community in the village where we work, for example, if he had a hundred bucks or she had a hundred bucks, what would she work?
+[00:27:35.577 - 00:27:36.378] Host: What would the mother do?
+[00:27:36.778 - 00:27:37.579] Host: What would the daughter do?
+[00:27:37.839 - 00:27:40.562] Host: What would the son who migrated to Mumbai from Riga do?
+[00:27:41.218 - 00:27:43.281] Host: All of these are very different questions for different people.
+[00:27:44.323 - 00:27:45.745] Guest: Okay.
+[00:27:45.765 - 00:27:48.850] Guest: And all right, we'll come to this.
+[00:27:48.930 - 00:27:51.795] Guest: Interesting take on wallet share because, and give me your take on this.
+[00:27:51.915 - 00:27:52.035] Guest: Okay.
+[00:27:52.055 - 00:27:53.157] Guest: I read a report recently.
+[00:27:53.177 - 00:27:57.624] Guest: Well, it was done by like obviously consultants and stuff like very named.
+[00:27:57.744 - 00:28:00.368] Guest: I don't want to quote them because it might change.
+[00:28:00.949 - 00:28:04.274] Guest: So 54% of what they said.
+[00:28:04.482 - 00:28:08.488] Guest: that our parents' generation used to save 54% of their income.
+[00:28:09.068 - 00:28:13.515] Guest: And our generation only saved 17% of their income.
+[00:28:14.056 - 00:28:15.618] Guest: So that's a huge difference.
+[00:28:15.658 - 00:28:18.862] Guest: Like there is like 30-35% which people are spending now more than saving.
+[00:28:19.523 - 00:28:24.390] Guest: So where do you, like you have read the wallet share and you understand that much better.
+[00:28:24.891 - 00:28:27.154] Guest: Where do you feel like the consumers of today are the
+[00:28:27.330 - 00:28:28.673] Guest: Today's generation is spending on...
+[00:28:28.693 - 00:28:29.855] Host: So the mindset has changed, right?
+[00:28:29.895 - 00:28:35.986] Host: I mean, the fact of the matter is when you ask your parents and they've got a bank balance, you say, Mom, Dad, why don't you go to Nainital and have a holiday?
+[00:28:37.630 - 00:28:42.098] Host: So they're thinking of that negative tomorrow.
+[00:28:42.242 - 00:28:43.884] Host: You're thinking of the positive tomorrow.
+[00:28:44.184 - 00:28:46.667] Host: You're thinking tomorrow dekha jaega, today I have to live.
+[00:28:47.208 - 00:28:48.810] Host: So that mindset has changed a lot.
+[00:28:48.930 - 00:28:54.237] Host: And that's not wallet share, that's behavior pattern, that's spending pattern, that's everything you want to do.
+[00:28:54.657 - 00:29:01.285] Host: And a lot of that is because of the media, the social media, the interactiveness, and the peer-to-peer pressure that you get today that they didn't have.
+[00:29:01.926 - 00:29:08.013] Host: So that to me is the one where somebody is looking that tomorrow I need to make, provide for tomorrow.
+[00:29:08.854 - 00:29:10.296] Host: And you're saying, kal ho na ho.
+[00:29:10.997 - 00:29:12.018] Other: Yeah.
+[00:29:12.194 - 00:29:13.736] Other: That's true.
+[00:29:13.756 - 00:29:16.239] Other: I'm little, I'm still in the middle of it.
+[00:29:16.359 - 00:29:17.621] Other: I am sometimes...
+[00:29:17.741 - 00:29:19.223] Other: But it's a good balance.
+[00:29:19.243 - 00:29:20.344] Host: 25% is still spending.
+[00:29:20.625 - 00:29:25.210] Host: By the way, I want to tell you, that's slightly better than some nations where that 50% is all debt.
+[00:29:25.551 - 00:29:25.791] Host: Yeah.
+[00:29:26.752 - 00:29:28.154] Host: That's what I'm saying.
+[00:29:28.174 - 00:29:32.379] Host: So you take here, this is the psyche and actually it's a good Indian psyche from that point of view.
+[00:29:32.399 - 00:29:34.482] Host: But if you take a Western country, if you take America,
+[00:29:34.562 - 00:29:43.811] Host: Their pocket share is not 100 bucks is for 100 bucks, their pocket share is 3000 bucks for 100 bucks because you can mortgage your flat, you can do this, you can take on debt, everything is on that basis, right?
+[00:29:43.831 - 00:29:53.100] Host: So then your leveraging is very different and you're leveraging at 0.25% interest where in India we've grown up on eight to 12.5% interest.
+[00:29:53.480 - 00:29:57.924] Host: For example, then everyone's mindset, your parents mindset to whatever else is there's a value for money.
+[00:29:59.626 - 00:30:04.210] Host: And that doesn't mean I'm saying America has a less value for money, but it's just a very different way.
+[00:30:04.386 - 00:30:06.010] Host: wallet share in each country.
+[00:30:06.030 - 00:30:08.234] Host: When you're looking at a consumer, you'll have to see which consumer.
+[00:30:08.254 - 00:30:13.927] Host: The guy in Vietnam, the person in India, the person in Bangladesh, the person in US, the person in Ukraine, very different.
+[00:30:14.608 - 00:30:22.185] Guest: You know what, and you know, we tend to, I'm having so many different questions and I'm not completing the last one, but I'm still going to ask.
+[00:30:23.067 - 00:30:24.690] Guest: So what do you feel like what
+[00:30:25.122 - 00:30:29.719] Guest: Everybody we look at Western cultures, we look at Western world and the startups which have worked there.
+[00:30:30.381 - 00:30:31.586] Guest: And we try to copy that here.
+[00:30:31.887 - 00:30:32.529] Host: That's terrible.
+[00:30:32.850 - 00:30:35.460] Host: I've never done that in my life and I don't know why people do that.
+[00:30:35.480 - 00:30:37.106] Host: But I want to just caution you.
+[00:30:37.186 - 00:30:41.632] Host: What you read about in the media is that small minority of people that actually look at that.
+[00:30:42.093 - 00:30:55.351] Host: But if you see the people that are out there and some of the entrepreneurs, the SME sector, the small and middle scale, those are making manufacturing, somebody's working in climate change, they're working in agriculture, those are all non-copy paste.
+[00:30:56.292 - 00:31:06.226] Host: But 90% of business ideas today on a cumulative basis, not basis on how they're funded by nine crazy VC and private equity investors who want to just throw money on people.
+[00:31:06.434 - 00:31:11.422] Host: The other people, when you don't have that kind of money, you come up with better business models.
+[00:31:12.003 - 00:31:15.128] Host: Some few investors have decided to overvalue you.
+[00:31:15.148 - 00:31:17.872] Host: I mean, nothing can go to that level.
+[00:31:17.932 - 00:31:20.897] Host: No mercury rises in such a sudden manner.
+[00:31:21.338 - 00:31:25.184] Host: So I think there was a phase of zero cost of capital.
+[00:31:25.224 - 00:31:26.185] Host: There was a phase in that.
+[00:31:26.226 - 00:31:28.729] Host: That report card changes very, very quickly.
+[00:31:29.250 - 00:31:34.098] Host: I don't think we should use that as the gold standard or that as the benchmark for anything from that point of view.
+[00:31:34.370 - 00:31:43.482] Host: I mean, I've said it before and I'll say it again, from the maybe 100 unicorns today, I don't think out of these 100 more than 25 will be unicorns in the next two to three years.
+[00:31:44.003 - 00:31:46.146] Host: There might be another X number of unicorns.
+[00:31:46.186 - 00:31:50.251] Host: I'm sure we'll have many, many who will have the right value, but they'll have built a much more business.
+[00:31:50.311 - 00:31:54.617] Host: But today, I think a lot of fragility in the valuations that have happened there.
+[00:31:54.637 - 00:31:55.979] Host: And for all good reason, we know that.
+[00:31:56.019 - 00:31:57.321] Host: We know the reason why it's happened.
+[00:31:57.861 - 00:32:01.426] Host: So we should really be cautious that they should not become
+[00:32:01.506 - 00:32:09.197] Host: the inspiration for all your listeners and viewers here also today, because actually that's a bad example to follow.
+[00:32:09.217 - 00:32:15.625] Host: And look, I mean, I think UpGrad is in that category, but I kind of cringe because I'm just saying we went about what we went about.
+[00:32:15.666 - 00:32:19.631] Host: The first five years we funded it ourselves and then we went through with that process.
+[00:32:20.092 - 00:32:30.546] Host: But this gold standard that we put on this self-acclaimed back thumping, chest thumping approach, because five people backed you at a certain valuation and you managed that.
+[00:32:30.626 - 00:32:32.048] Host: your problems are all starting now.
+[00:32:33.090 - 00:32:34.272] Host: There's a statutory warning.
+[00:32:35.253 - 00:32:36.255] Host: Your problems start now.
+[00:32:37.197 - 00:32:38.879] Guest: After getting that statistic.
+[00:32:38.899 - 00:32:39.721] Host: Yeah, because now where do you go?
+[00:32:40.201 - 00:32:40.722] Host: Now where do you go?
+[00:32:41.243 - 00:32:41.924] Host: Where do you go from here?
+[00:32:41.964 - 00:32:44.288] Host: Now you've got to build solid.
+[00:32:44.789 - 00:32:45.590] Host: Where do you go from here?
+[00:32:45.850 - 00:32:46.572] Guest: Now you know where CS is.
+[00:32:46.592 - 00:32:47.753] Host: 25, sure.
+[00:32:47.793 - 00:32:51.339] Host: Out of the 100, yeah, I would say the rest, where do you go from here?
+[00:32:53.422 - 00:32:56.287] Host: Yeah, for the... And if that's not a model, then let's keep that out.
+[00:32:56.708 - 00:32:58.130] Host: And then when we talk about
+[00:32:58.402 - 00:33:08.617] Host: the real India or the real opportunities, even the real anywhere from that point of view, or the real Vietnam or the real China or the real any economy or the real Africa.
+[00:33:08.697 - 00:33:10.360] Host: I mean, you know, there's a lot happening.
+[00:33:10.720 - 00:33:10.921] Guest: True.
+[00:33:11.281 - 00:33:13.585] Guest: That is, I'll come to that, the India story, right?
+[00:33:13.645 - 00:33:20.836] Guest: And first, I want to complete the last question was, where do you feel like the today's customer is spending on?
+[00:33:21.136 - 00:33:21.697] Guest: Like, what do you think?
+[00:33:21.977 - 00:33:24.060] Guest: Where are we spending the most the generation?
+[00:33:24.100 - 00:33:24.922] Guest: Is it entertainment?
+[00:33:24.942 - 00:33:25.603] Guest: Is it education?
+[00:33:25.643 - 00:33:27.826] Guest: Like, where are we spending the most?
+[00:33:27.906 - 00:33:35.238] Host: I'm not an economist, so I'm giving a very down-to-earth person-to-person as a customer.
+[00:33:35.358 - 00:33:38.804] Host: I can see that the self-consumption has gone up.
+[00:33:39.024 - 00:33:41.508] Host: And I say self-consumption, then I'm going to have many roots in that.
+[00:33:41.909 - 00:33:52.786] Host: So for some people, I think the whole element of what I would call for yourself is a combination of entertainment, recreation, outdoor activities,
+[00:33:53.026 - 00:33:57.011] Host: something that you want to consume in that thought process, lifestyle approach, what you spend.
+[00:33:57.352 - 00:34:12.792] Host: So there's that whole consumption pattern on self, whether it could be an expensive phone because you're spending six hours a day or three hours a day on it, to lifestyle, to how you want to dress and do whatever else, to what you want to consume in every sense of the word, and recreation.
+[00:34:12.812 - 00:34:15.395] Host: I think today more and more people have spent more money on that.
+[00:34:16.216 - 00:34:20.722] Host: The savings part, I think, is the one that has shrunk because you do believe
+[00:34:21.058 - 00:34:24.882] Host: rightly so, I think, and in India, that tomorrow is gonna be better than yesterday.
+[00:34:25.603 - 00:34:31.770] Host: And I think when you ask for that generation, maybe your parents at that stage grew up where tomorrow may not be as good as yesterday.
+[00:34:31.830 - 00:34:35.113] Host: And then you have a very cautious approach to life.
+[00:34:35.133 - 00:34:40.579] Host: So it's not that they were born pessimists, but it's just that you felt, I have to save for a rainy day.
+[00:34:40.599 - 00:34:43.483] Host: Today, I don't think that's the first thing you think of a rainy day.
+[00:34:44.964 - 00:34:50.290] Host: Part of it is also because you have a lot of self-confidence today in young India.
+[00:34:50.562 - 00:34:51.063] Host: I'll manage.
+[00:34:51.223 - 00:34:51.904] Host: I'll figure it out.
+[00:34:52.846 - 00:34:54.689] Host: At that time, you didn't feel you had to figure it out.
+[00:34:54.749 - 00:35:00.018] Host: That's why my dad said and tell me, but you are on your own because he didn't think that there would be.
+[00:35:00.238 - 00:35:03.744] Host: But at that stage in age, I felt I'll figure it out.
+[00:35:04.245 - 00:35:04.465] Host: True.
+[00:35:05.026 - 00:35:07.570] Host: So that's why my ability to take risks.
+[00:35:08.034 - 00:35:11.678] Host: My spending part of a 100 rupee wallet will be on great ideas.
+[00:35:11.998 - 00:35:14.080] Host: It may not be necessarily on my self-consumption.
+[00:35:14.120 - 00:35:18.164] Host: The t-shirts and the trousers I wear, I buy 10 of each and then wear them for 10 years.
+[00:35:19.025 - 00:35:23.870] Host: So it's the easiest decision for shopping and it's the easiest decision every morning for wearing your clothes.
+[00:35:24.570 - 00:35:26.412] Host: So I think it's each one to their own.
+[00:35:27.413 - 00:35:28.735] Guest: But still it's self-consumption.
+[00:35:29.115 - 00:35:30.676] Host: It is self-consumption.
+[00:35:30.697 - 00:35:36.242] Host: But it is because you believe tomorrow is going to be better than today and I think some of the
+[00:35:36.322 - 00:35:49.186] Host: I'm not saying I'm in that generation where I feel young, but I'm in an older generation, so I feel I can relate to both, where I do believe tomorrow is better than yesterday and I think and spend accordingly.
+[00:35:51.471 - 00:35:55.117] Guest: You're right, because I've seen my father from...
+[00:35:55.799 - 00:35:59.666] Guest: The best thing happened to me was I saw my father building.
+[00:36:00.098 - 00:36:08.467] Guest: I was born at the time when we were not doing very well financially and then eventually I saw that whole struggle like up and down, up and down and then eventually he started doing better, right?
+[00:36:09.008 - 00:36:15.075] Guest: But even today, his entire life is about, I will buy a small land, that will take care of mom.
+[00:36:15.095 - 00:36:18.038] Guest: I will buy a second land that will take care of my son, right?
+[00:36:18.379 - 00:36:19.019] Guest: His whole life is...
+[00:36:19.560 - 00:36:23.104] Guest: I've never heard him saying, okay, let me go take a holiday.
+[00:36:23.524 - 00:36:24.806] Guest: Let me go spend on myself.
+[00:36:24.926 - 00:36:26.428] Guest: Let me buy something because I like it.
+[00:36:26.788 - 00:36:28.530] Guest: And whereas we,
+[00:36:28.610 - 00:36:30.333] Guest: I make like fraction of what my dad has made.
+[00:36:30.353 - 00:36:34.581] Host: And it's not because he doesn't want to and it's not from an indulgent or lack of indulgence point of view.
+[00:36:34.741 - 00:36:36.985] Host: He might think it's worth it to take all of you all for a holiday.
+[00:36:37.125 - 00:36:37.426] Other: Yeah.
+[00:36:37.746 - 00:36:37.987] Other: Yeah.
+[00:36:38.187 - 00:36:38.407] Host: Okay.
+[00:36:38.427 - 00:36:40.010] Host: But now you're not willing to go for a holiday.
+[00:36:40.070 - 00:36:43.677] Host: Then his mind will change overnight on that.
+[00:36:43.697 - 00:36:45.039] Guest: Yeah, that's true.
+[00:36:45.400 - 00:36:46.121] Guest: Okay.
+[00:36:46.141 - 00:36:51.250] Guest: And coming to the next topic, okay, that was about education.
+[00:36:51.458 - 00:36:53.501] Guest: because I have my own courses as well.
+[00:36:53.521 - 00:37:03.334] Guest: I have my small university called Figuring Out University where we teach people a lot of how to become content creators, how do you expand your businesses through social media and stuff like that, right?
+[00:37:03.354 - 00:37:10.524] Guest: And there's something I came to a realization because I used to talk about public speaking as well.
+[00:37:10.764 - 00:37:14.229] Guest: And I used to have courses on public speaking and stuff, right?
+[00:37:14.249 - 00:37:15.310] Guest: And correct me if I'm wrong.
+[00:37:16.612 - 00:37:20.978] Guest: India, specifically this is what the pattern I've seen, India spends
+[00:37:21.154 - 00:37:26.100] Guest: very high when there's a promise of jobs.
+[00:37:26.520 - 00:37:27.481] Guest: Of jobs, yeah.
+[00:37:27.501 - 00:37:29.664] Guest: Of jobs or the money or something in return.
+[00:37:29.684 - 00:37:32.727] Guest: Like there's a promise, a certificate which can get them a better job.
+[00:37:33.368 - 00:37:35.330] Guest: They spend very less on soft skills.
+[00:37:36.352 - 00:37:41.197] Guest: And then they spend like extremely low on something which is just for passion.
+[00:37:42.038 - 00:37:45.482] Guest: So the highest is something which is rewarding them instantly.
+[00:37:46.003 - 00:37:48.786] Guest: Second is passion and third is something which is just like
+[00:37:49.410 - 00:37:51.293] Guest: I don't have passion.
+[00:37:51.373 - 00:37:53.176] Guest: Second is soft skill and third is passion.
+[00:37:53.196 - 00:37:54.117] Host: So do you feel that that's true?
+[00:37:54.137 - 00:37:55.659] Host: I think that's a very good categorization.
+[00:37:55.800 - 00:38:03.531] Host: But bottom line is, it's not about whether... See firstly education is a very evolved word because education is a calendar event now in your life which is school and college.
+[00:38:03.912 - 00:38:07.457] Host: So the minute you say education sounds like I'm going back to a place to learn.
+[00:38:08.098 - 00:38:11.223] Host: And I think today people are understanding that education is a lot more.
+[00:38:11.263 - 00:38:16.210] Host: It's a lifelong learning process or a learning process or a skilling process or an upgrading process there.
+[00:38:16.354 - 00:38:26.805] Host: You're right that for a lot of people, see, in a developing country, or even though we're gonna be one of the three largest economies, we're still in many ways developing, even though we're not a category of a developing country in India.
+[00:38:27.206 - 00:38:34.333] Host: But in that category, you are looking at where 90% of the people do want some sense of instant gratification.
+[00:38:35.054 - 00:38:38.398] Host: There's low ROI on soft skills because it's not an immediate.
+[00:38:39.279 - 00:38:46.226] Host: You know in the heart of heart that, yeah, if I could just do this, this, actually, I just finished interviewing for a job.
+[00:38:46.338 - 00:38:57.429] Host: I don't think the connection is that if I knew my soft skills, I would be able to get 80% better marks just because I presented myself better rather than I knew everything I needed to do to go into that interview.
+[00:38:57.970 - 00:39:01.473] Host: So today it's a lack of knowledge that you feel because soft skills is the most important.
+[00:39:01.493 - 00:39:03.095] Host: I'm a product of soft skills.
+[00:39:03.295 - 00:39:04.497] Host: I'm not a product of half skills.
+[00:39:04.557 - 00:39:06.879] Host: I did my B.Com and then I moved on to being an entrepreneur.
+[00:39:07.359 - 00:39:13.746] Host: So everything that I've done since that, not having had funding for 10 years, not having had recourse is about
+[00:39:13.826 - 00:39:16.590] Host: my own self-confidence, then my ability to communicate.
+[00:39:16.610 - 00:39:17.972] Host: And I wasn't born with that, right?
+[00:39:17.992 - 00:39:20.215] Host: I mean, it was something that I inculcated.
+[00:39:20.996 - 00:39:25.001] Host: I realized the power of soft skills more than anything else.
+[00:39:25.141 - 00:39:26.563] Host: And therefore I'm a preacher of that.
+[00:39:26.603 - 00:39:27.364] Host: I'm an evangelist.
+[00:39:27.384 - 00:39:31.049] Host: And my second book I did was really about saying how important soft skills is.
+[00:39:31.150 - 00:39:34.074] Host: And I think for a lot of people, they don't see the immediate ROI.
+[00:39:35.075 - 00:39:40.983] Host: They feel, but actually that is going to be 10 times more critical today in this field of education.
+[00:39:41.023 - 00:39:43.186] Host: And I think what you're doing here and on this show
+[00:39:43.362 - 00:39:45.285] Host: People want to absorb that today.
+[00:39:45.806 - 00:39:48.992] Host: They want to feel, okay, so I need that two, three things.
+[00:39:49.333 - 00:39:51.016] Host: They might listen to us for 45 minutes.
+[00:39:51.176 - 00:39:52.739] Host: They just need to get two points out of it.
+[00:39:52.959 - 00:39:55.103] Host: Nobody needs to get 40 points out of it.
+[00:39:55.604 - 00:40:05.842] Host: We've talked about an array of things and I know you might say, we've talked about lots of things in this too much, but actually what I want to do is if two people, if one person has two things to take away from it, superb.
+[00:40:06.306 - 00:40:12.717] Host: Now that, in that context, what they take will be something that will give them that level of clarity and confidence to put into life.
+[00:40:13.177 - 00:40:17.044] Host: So I think soft skills is underrated, but it's very, very, very critical.
+[00:40:17.444 - 00:40:22.673] Host: I started calling it super skills because soft sounds soft, but super sounds like Shaktiman.
+[00:40:22.693 - 00:40:23.715] Host: And nice, I like that.
+[00:40:23.895 - 00:40:33.170] Host: So I think we should all, because we are gonna be a superpower and I think we should just call it super skills because actually it's gonna give you superpowers and you're gonna be a superhero.
+[00:40:33.282 - 00:40:36.246] Host: if you can just get your soft skills into some super skills.
+[00:40:36.686 - 00:40:38.308] Host: And look, there are 60 soft skills.
+[00:40:38.348 - 00:40:40.251] Host: You just need to know two, pick your two.
+[00:40:40.891 - 00:40:48.020] Host: Not everything is about you being able to be a great person or an articulation or English language or Hindi language or Tamil.
+[00:40:48.441 - 00:40:55.770] Host: I think it's about any two things that you think will make you stand out is what you need to pick and then just focus on them.
+[00:40:55.930 - 00:40:57.832] Guest: Just curious question from an entrepreneur point of view.
+[00:40:57.852 - 00:41:00.736] Guest: What's the difference between Upgrad versus all the other tech companies?
+[00:41:01.837 - 00:41:02.738] Host: Yeah, so I mean,
+[00:41:03.426 - 00:41:08.911] Host: The way I see it is, our vision is a much more integrated approach, right?
+[00:41:08.931 - 00:41:13.716] Host: I mean, I'm saying somebody may just want to give college degrees, somebody wants to do a bootcamp, somebody wants to do just job-enabled.
+[00:41:14.236 - 00:41:32.274] Host: I think what we have, and this is my media upbringing and the way I've started a media company, I'm a firm believer that scale in a country like India or when you want to build a global company, which I think we want to do, is to have something integrated, which means you take everyone, plus K-12, which is a college learner all the way to 65,
+[00:41:32.738 - 00:41:34.200] Host: and look at all their needs.
+[00:41:34.921 - 00:41:49.419] Host: And I think that's our differentiator today, where some people are doing study abroad, some people are doing transnational education, some people are doing only boot camps, some people are doing formal degrees, some people are doing undergrad degrees, some people have only offline and online blended.
+[00:41:49.939 - 00:41:51.401] Host: I think our ability is to do all.
+[00:41:51.681 - 00:42:02.034] Host: And I think, reflecting back, when I started off and finally made a media business, and I think the reason we stood out and created value was because
+[00:42:02.114 - 00:42:13.330] Host: we were not just a content creator, we were not just a production house, but we had 10 broadcast channels, yet we understood content and created for many people, yet we were a movie studio, we were an animation studio and a production house.
+[00:42:13.771 - 00:42:30.194] Host: So it was all very much part of media, it wasn't some diversified salt to steel kind of definition, it was a very connected approach to creativity and being a catalyst, but in an area where when something went down, something would go up, and I think that makes a,
+[00:42:30.306 - 00:42:31.849] Host: you know, more like an aircraft carrier.
+[00:42:32.229 - 00:42:41.985] Host: So I see ourselves more as a flotilla or as a sort of an armada of ships rather than just having one aircraft carrier because sometimes once that hit, then it's it.
+[00:42:44.269 - 00:42:49.417] Guest: Which one is your favorite or where do you see the most traction out of all the things that you provide?
+[00:42:50.479 - 00:42:57.330] Host: So at Upgrad, I'm fascinated by the fact that I think the future of learning tomorrow is going to be a lot more about peer-to-peer learning.
+[00:42:57.698 - 00:43:05.018] Host: I know that most people said when you build brick and mortar curriculum is important, follow the rules important, and faculty is important.
+[00:43:05.058 - 00:43:06.221] Host: And faculty is definitely important.
+[00:43:06.542 - 00:43:09.309] Host: But we're not going to be able to solve the faculty problem in India because it isn't.
+[00:43:09.329 - 00:43:11.154] Host: But peer-to-peer learning today,
+[00:43:11.266 - 00:43:33.298] Host: is becoming today as it's like anything else right when you want to consume you don't want to see a marketing ad anymore you want to see what 40 other people who experienced it went through that yeah so that whole element of study groups and peer-to-peer learning is something that we're cannibalizing and second i think that the umbrella of the future of learning is coaching and mentoring and i don't mean one-on-one coaching or even what we're doing here it's just the element of
+[00:43:33.922 - 00:43:35.766] Host: permanent coaching and mentoring.
+[00:43:36.327 - 00:43:41.858] Host: If I look at these two umbrellas, I think that's our guiding force for everything that we're building for the next 10 years.
+[00:43:44.123 - 00:43:45.886] Guest: What do you understand about Indian consumers?
+[00:43:46.026 - 00:43:49.032] Guest: Give us some consumer insight which you feel like, oh Indians are different in this way.
+[00:43:49.153 - 00:43:53.842] Guest: If I'm an entrepreneur, is there something I should know about India very well?
+[00:43:54.050 - 00:44:03.820] Host: I think there's a great diversity of culture, diversity of needs, diversity of spending and I think you can look at that in the largest common denominator, you can look at it in the top of the pinnacle.
+[00:44:04.300 - 00:44:21.618] Host: There's so many different markets that you can play with here, both from a taste point of view, consumption point of view, ethnic point of view, habits point of view, family values point of view, a patriarchal society versus a matriarchal society versus just a very democratic society, the whole younger generation
+[00:44:21.698 - 00:44:28.105] Host: To me, this thing of tomorrow is better than yesterday, psychology, is a very, very haunting one.
+[00:44:28.245 - 00:44:28.826] Host: To me, it's...
+[00:44:28.846 - 00:44:29.506] Host: It's haunting.
+[00:44:29.807 - 00:44:44.963] Host: Well, I like the word haunting because it's like, you know, it's in the room, it's omnipresent and it's something you need to take into account because when you have that sentiment and if you can create that sentiment, it's a mindset change moment, if you do believe that.
+[00:44:44.983 - 00:44:46.304] Host: And it's something for you to introspect.
+[00:44:47.085 - 00:44:49.127] Host: Do I really believe tomorrow is better than yesterday?
+[00:44:49.268 - 00:44:51.570] Host: Every day tomorrow is going to be better than yesterday?
+[00:44:51.746 - 00:44:52.227] Host: Okay.
+[00:44:52.848 - 00:44:57.814] Host: And that, if you look at it, it sounds like it's just a nice, simple, firmly optimistic believing sentence.
+[00:44:58.335 - 00:45:00.518] Host: But you need to actually change your mind and believe in that.
+[00:45:00.618 - 00:45:04.223] Host: And you'll find behavioral patterns in a very different manner.
+[00:45:04.383 - 00:45:07.267] Host: Your answer to work-life balance will change.
+[00:45:07.307 - 00:45:11.934] Host: Your answer to so many other things that you angst about may go away.
+[00:45:12.054 - 00:45:13.776] Guest: What do you look in a movie before you invest in it?
+[00:45:13.896 - 00:45:15.558] Host: So firstly, I don't think I...
+[00:45:15.578 - 00:45:18.362] Host: If I have an investment mindset, I'll crash and burn.
+[00:45:18.382 - 00:45:21.106] Guest: What kind of movies you create you feel like, oh, this is going to work in a movie?
+[00:45:21.218 - 00:45:25.543] Host: I think I understand consumers and I keep wanting to understand consumers in a different manner.
+[00:45:25.603 - 00:45:26.003] Host: Number one.
+[00:45:26.484 - 00:45:30.368] Host: Number two, I want to be true to storytelling in the way I want to necessarily do it.
+[00:45:30.668 - 00:45:31.088] Guest: What is that?
+[00:45:31.249 - 00:45:32.650] Guest: What do you understand about consumers?
+[00:45:33.511 - 00:45:43.021] Host: Yeah, so obviously today, more than ever before, outside of the fact that this is an entertainment sector, I think people definitely want a certain sense of context and a certain sense of realism.
+[00:45:43.501 - 00:45:46.545] Host: So I think the movies we've made versus, see, I came from the outsider.
+[00:45:46.585 - 00:45:47.826] Host: So being an outsider,
+[00:45:47.906 - 00:45:57.537] Host: To me the song dance family approach and you know everything goes and either that or the dishing dishing or just hardcore nonsensical but it works.
+[00:45:57.837 - 00:45:59.719] Host: You know hardcore leave your brains behind.
+[00:45:59.739 - 00:46:02.122] Host: I can't relate with that.
+[00:46:02.242 - 00:46:03.423] Host: I wouldn't be able to make it better.
+[00:46:03.744 - 00:46:05.525] Host: I'd only make it worse so I stayed out of it.
+[00:46:06.306 - 00:46:13.234] Host: So then therefore from my early days whether it was Swades or whether it was Rangde Basanti those were the breakout stories that appealed to me.
+[00:46:13.922 - 00:46:21.297] Host: And I guess maybe to that extent in those early days, I do believe that I was part of the formula that allowed it to happen.
+[00:46:21.557 - 00:46:23.942] Host: Maybe if hadn't backed it, maybe somebody else would not have backed it.
+[00:46:24.543 - 00:46:25.726] Host: And therefore it may not have happened.
+[00:46:26.227 - 00:46:29.834] Host: But being the outsider gave you the sense that if I stay with my values.
+[00:46:29.894 - 00:46:33.842] Host: Now, I was not doing it saying I want to talk about an audience that I don't know exists.
+[00:46:34.018 - 00:46:44.969] Host: I don't make movies myself because if I did, I would not make 99% of the movies that I would make because what I want to see, if I want relaxing versus what I want to see from what I want to do as a passion are two different things.
+[00:46:45.670 - 00:46:50.955] Host: So to me, I think getting the message across, having a sense of realism, that doesn't mean that everyone should do that.
+[00:46:51.576 - 00:46:57.162] Host: But I'm seeing there's so many people doing the other stuff in any case that one more person doing that doesn't make any sense.
+[00:46:57.182 - 00:46:59.264] Host: So that's my way of storytelling.
+[00:46:59.804 - 00:47:01.586] Host: Now, when I was running it as a business,
+[00:47:02.050 - 00:47:05.214] Host: to what I'm doing today with RSVP as a passion are two different things.
+[00:47:05.375 - 00:47:10.402] Host: And the reason is when you're running a business, 50, 60% of your decisions are what you have to do.
+[00:47:10.682 - 00:47:12.745] Host: And 40% what you want to do.
+[00:47:13.266 - 00:47:19.515] Host: When you're doing it as a passion, 100% better be what you want to do and nothing that you have to do because it's a passion.
+[00:47:20.156 - 00:47:21.057] Host: You don't have to do it.
+[00:47:21.077 - 00:47:22.739] Host: You don't have to get up in the morning and play golf.
+[00:47:22.980 - 00:47:24.562] Host: You don't have to go to the squash court.
+[00:47:24.582 - 00:47:27.506] Host: You don't have to play chess or whatever else you want to do.
+[00:47:27.586 - 00:47:37.030] Host: So that is a very liberating sense of being able to then do what you want to do, because you can say no 99 times when you're running a business, you can't say no 99 times.
+[00:47:37.110 - 00:47:41.240] Guest: A lot of people are doing what they used to do in Bollywood.
+[00:47:41.741 - 00:47:45.170] Guest: And do you feel that's the reason why it's struggling right now?
+[00:47:45.346 - 00:47:49.731] Guest: Or is it just because of OTT and the South Cinema has gotten super successful?
+[00:47:49.751 - 00:47:49.891] Guest: No.
+[00:47:50.272 - 00:47:52.815] Host: South Cinema has always been around and they tell great stories.
+[00:47:53.736 - 00:48:03.246] Host: They're just looking much better and shining much better because of the simple reason that they're doing exactly what they were doing and staying focusing on it, innovating and doing it better.
+[00:48:04.187 - 00:48:08.272] Host: So yes, I think here... Because you talk about sense of realism, right?
+[00:48:08.292 - 00:48:13.458] Host: I don't want to be judgmental, but I think we've taken our audience for granted here and I think that's the problem.
+[00:48:13.922 - 00:48:14.182] Host: Right?
+[00:48:14.543 - 00:48:15.605] Host: And we haven't made the change.
+[00:48:15.645 - 00:48:23.076] Host: And the main problem is when you're an insular industry, and I'm not saying we necessarily are, and I don't want to be critical because I'm very much part of it.
+[00:48:23.096 - 00:48:26.902] Host: I'm very proud of it because the creative industry does have a strong impact.
+[00:48:27.402 - 00:48:32.931] Host: But when you're insular and when you're clannish, you just say the same thing again.
+[00:48:32.951 - 00:48:37.778] Host: And when you're with people who finish the sentence for you, it's the most dangerous place to be in.
+[00:48:39.801 - 00:48:43.026] Host: Because of every meeting, somebody can finish the sentence for you going out saying,
+[00:48:43.138 - 00:48:44.079] Host: What a culture.
+[00:48:44.580 - 00:48:45.641] Host: It's so nice.
+[00:48:48.264 - 00:48:49.265] Host: Where's the diversity?
+[00:48:49.325 - 00:48:50.346] Host: What's going on outside?
+[00:48:50.566 - 00:48:52.168] Host: How are you going to figure this part out?
+[00:48:52.528 - 00:48:53.569] Host: Who's going to challenge you?
+[00:48:53.930 - 00:48:57.073] Host: Then you're in your own world and you're in La La Land.
+[00:48:57.614 - 00:48:58.675] Host: Fun, you're in your own world.
+[00:48:58.755 - 00:49:01.919] Host: Then you're in La La Land and then you're irrelevant.
+[00:49:05.603 - 00:49:07.685] Guest: It's not because of OTT or the world.
+[00:49:07.825 - 00:49:08.786] Guest: It's just about
+[00:49:09.378 - 00:49:13.245] Guest: Those kind of changes will be there in any case.
+[00:49:13.305 - 00:49:15.268] Host: But thank God for OTT, right?
+[00:49:15.889 - 00:49:23.963] Host: Thank God for OTT because the simple reason that good creative people are getting an opportunity to write even better scripts for a much wider audience.
+[00:49:24.765 - 00:49:34.802] Host: And what you've done is now an audience has actually got used to a different level of storytelling and now finds it very difficult to just be in suspension of reality.
+[00:49:35.586 - 00:49:43.559] Host: or look at a star, because the context of star and actor and larger than life has also changed for a lot of people, right?
+[00:49:43.639 - 00:49:48.047] Host: I mean, in the younger generation, complete iconic situations are very different.
+[00:49:48.688 - 00:49:55.519] Host: A 20 million TikTok viewer is very different than 20 millions of Twitter with an actor.
+[00:49:55.800 - 00:50:01.970] Guest: Coming to the last topic of the day, why do you feel like giving back is really important?
+[00:50:02.370 - 00:50:03.351] Guest: What do you feel?
+[00:50:03.691 - 00:50:04.692] Guest: And at the young age as well?
+[00:50:05.273 - 00:50:07.155] Host: Yeah, I think that was my balance.
+[00:50:07.636 - 00:50:09.197] Host: I think it's a route sometimes.
+[00:50:09.317 - 00:50:16.906] Host: And I think for a lot of people who feel uncomfortable in their work-life balance, therefore they're feeling unsatisfied with their life in some form or the other.
+[00:50:17.306 - 00:50:24.674] Host: And I know I'm not trying to be a mockery because there are people who are thinking, between the two hours, it's so easy for you to do, but I commute two hours each day, each way.
+[00:50:25.094 - 00:50:28.959] Host: Then I come home, I'm fagged out, my family, my kids, I don't see them growing up.
+[00:50:29.379 - 00:50:30.220] Host: I'm being made to travel.
+[00:50:30.260 - 00:50:31.341] Host: Those are ground realities.
+[00:50:31.381 - 00:50:32.242] Host: I fully get that.
+[00:50:32.706 - 00:50:36.430] Host: But you can manage a fair bit of it, is what I think.
+[00:50:36.470 - 00:50:39.733] Host: You can be at least 50% in the control of your destiny.
+[00:50:40.213 - 00:50:49.242] Host: Giving back is a very powerful medium and I think it gave me a lot of balance because at that early age, and I don't know why, it's a little bit like I wanted to be an entrepreneur, I didn't know what I wanted to do.
+[00:50:49.262 - 00:50:54.908] Host: I became something in media and entertainment as I gave you because of serendipity of doing theater and whatever else.
+[00:50:55.468 - 00:51:01.554] Host: The same way, I don't know why, but when we started something, my first thing was that, you know, about 10% of what we do,
+[00:51:01.794 - 00:51:03.176] Host: we'll do for giving back.
+[00:51:04.077 - 00:51:10.706] Host: And at that stage, again, with no balance, for me, we had a 10,000 square foot office that we had rented.
+[00:51:10.986 - 00:51:16.974] Host: And at 1,000 square foot of that, we started our old age home, a little bit of a crush, and an orphanage kind of situation.
+[00:51:17.495 - 00:51:19.658] Host: And that was extremely binding because nobody went home.
+[00:51:20.519 - 00:51:29.010] Host: At 637, everyone would, you had 30 people in the people, all 30 people gravitated that till eight, nine, 10, because suddenly it was a different
+[00:51:29.154 - 00:51:29.775] Host: part of them.
+[00:51:30.256 - 00:51:35.203] Host: And I saw the culture building in an organization at that very early stage, but I wanted to do that.
+[00:51:35.904 - 00:51:42.594] Host: So I think this thing about I can't make a difference singularly, which I think today the generation feels I think is wrong.
+[00:51:43.114 - 00:51:53.249] Host: And I know that when we did in 2006 Rande Basanti and I remember Amir Rakesh and me going to Delhi University and they were, you know, in that large quadrangle, they were almost 10,000 students.
+[00:51:53.289 - 00:51:56.594] Host: And after the screening and they said, sir, this is nice, because, you know,
+[00:51:56.674 - 00:51:58.978] Host: The heroes die at the end and whatever else.
+[00:51:59.639 - 00:52:04.426] Host: But the cry at that time was, I can't make a difference.
+[00:52:04.447 - 00:52:05.308] Host: Yeah, it's okay.
+[00:52:05.328 - 00:52:06.390] Host: You are Aamir Khan.
+[00:52:07.431 - 00:52:08.433] Host: You can make this statement.
+[00:52:08.633 - 00:52:09.034] Host: What do you think?
+[00:52:09.094 - 00:52:10.877] Host: Do you think I can make a difference?
+[00:52:10.897 - 00:52:15.024] Host: And I think that's changed today where people do feel singularly we can make a difference.
+[00:52:15.484 - 00:52:20.272] Host: And I think in the giving back, individuality is very, very important.
+[00:52:20.312 - 00:52:21.254] Host: It's not about money.
+[00:52:21.674 - 00:52:24.018] Host: It's about the mindset of that balance.
+[00:52:24.706 - 00:52:32.417] Host: And I think you'll get your work-life balance because if you're slightly more blessed than the next person, you look at life in a very different perspective.
+[00:52:32.798 - 00:52:42.813] Host: And I've come from a lower middle class household, so I can identify with that journey that I've taken, that at every stage, if I look back over my shoulder and say, but if I've come here, what about this person?
+[00:52:43.093 - 00:52:44.715] Host: And what about that person?
+[00:52:45.076 - 00:52:50.844] Host: Or I was privileged in the last five years of my life to go to a good school like cathedral.
+[00:52:51.325 - 00:52:54.610] Host: But before that, I went to an even good school called Dunn's Institute.
+[00:52:54.882 - 00:52:55.182] Host: Right?
+[00:52:55.262 - 00:52:57.906] Host: Where it was, it was a challenging environment.
+[00:52:57.926 - 00:53:02.111] Host: Then today I still sponsor at least about seven to 10 kids from that institution.
+[00:53:02.171 - 00:53:04.354] Host: But that's just because you're looking over your shoulder.
+[00:53:04.975 - 00:53:10.381] Host: So I think it's not a categorization and I feel sure there are enough people who say make a pledge.
+[00:53:10.802 - 00:53:11.763] Host: I think that's all fine.
+[00:53:11.863 - 00:53:20.434] Host: And it's nice because maybe Bill Gates and Buffett have at least made philanthropy a little bit more high profile, but I'm not, it's, it's a very personal thing.
+[00:53:20.802 - 00:53:23.406] Host: But I would say for everyone in the younger, you can do your balance.
+[00:53:23.446 - 00:53:25.269] Host: It gives you a very strong purpose.
+[00:53:25.729 - 00:53:27.612] Host: Even if it's 10%, it's like your wallet share.
+[00:53:28.453 - 00:53:34.803] Host: In that wallet share, you don't need to spend one rupee a bit, but take 10% of your mind share and it'll make a big difference.
+[00:53:35.644 - 00:53:41.172] Guest: So it's either you give back via time or you give back via a wallet share or like money.
+[00:53:41.393 - 00:53:45.378] Host: My daughter runs a mentor mentee program at about seven and called the Lighthouse Project.
+[00:53:45.399 - 00:53:47.762] Host: And I've spoken to a lot of people and you know,
+[00:53:47.938 - 00:53:51.903] Host: They're young professionals or college going kids who adopt a kid.
+[00:53:52.343 - 00:53:56.088] Host: And you need to spend about a day, a month with that.
+[00:53:56.648 - 00:53:58.210] Host: And actually most of them spend much more.
+[00:53:58.390 - 00:54:02.435] Host: But the impact it's had on the mentors is more than it's had on the mentees.
+[00:54:04.377 - 00:54:11.666] Host: So I think it's a strong message for anyone wanting to look at a balance in life, forget work life balance, mind balance, mind share balance, very important.
+[00:54:11.906 - 00:54:14.730] Guest: I say it's like self-help and help others.
+[00:54:15.010 - 00:54:15.832] Guest: Both the categories.
+[00:54:15.872 - 00:54:16.453] Guest: You should be there.
+[00:54:16.533 - 00:54:16.873] Guest: Yeah.
+[00:54:16.893 - 00:54:17.875] Guest: That's what my mom says.
+[00:54:17.895 - 00:54:22.842] Guest: You know, my mom says like, you guys keep reading about self-help, self-help, self-help.
+[00:54:22.862 - 00:54:25.826] Guest: You need to have a lesson in your life which says help others.
+[00:54:26.247 - 00:54:26.627] Guest: Absolutely.
+[00:54:26.647 - 00:54:27.769] Guest: Like start reading books.
+[00:54:27.789 - 00:54:35.280] Host: But I do want to say in that early stages, while you may be helping somebody else, you are big time helping yourself for the future.
+[00:54:37.022 - 00:54:39.826] Host: So introspect on the impact is having on you.
+[00:54:40.194 - 00:54:44.321] Host: Also, there is an ROI for you, not an ROI for somebody else when you're doing that.
+[00:54:45.102 - 00:54:48.468] Guest: So be selfish when you're being selfless.
+[00:54:48.548 - 00:54:52.675] Host: You'll get a lot of self-conviction on yourself and that.
+[00:54:53.216 - 00:54:53.877] Guest: You'll feel that.
+[00:54:54.138 - 00:54:54.498] Guest: All right.
+[00:54:54.679 - 00:54:58.325] Guest: On that note, thank you so much for having a lovely conversation.
+[00:54:58.385 - 00:54:59.747] Host: I think it flowed.
+[00:55:00.288 - 00:55:03.634] Host: I think it was very natural and obviously you have a lot of
+[00:55:03.810 - 00:55:06.613] Host: curiosity that brought about a very diverse set.
+[00:55:06.774 - 00:55:08.796] Host: I didn't see you looking at any notes ever.
+[00:55:08.816 - 00:55:10.078] Host: It was more about speaking aloud.
+[00:55:10.098 - 00:55:11.439] Other: I didn't ask you about lot of stuff.
+[00:55:11.459 - 00:55:13.001] Host: I wrote down like so many things.
+[00:55:13.161 - 00:55:16.045] Host: Best way for something is for the water to flow.
+[00:55:17.466 - 00:55:19.509] Guest: Thank you so much for watching this episode till the end.
+[00:55:20.009 - 00:55:23.674] Guest: Please let us know in the comments if you like this guest, if you didn't like the guest.
+[00:55:23.994 - 00:55:27.779] Guest: What question do you want us to ask from the next guest which is coming?
+[00:55:28.159 - 00:55:33.746] Guest: Until the next episode, keep figuring out and don't forget to share it with at least one person
+[00:55:33.858 - 00:55:44.146] Guest: because one conversation can give 100 ideas and out of those 100 ideas, if one can implement even one in their lives, then their Indian dream will come true.

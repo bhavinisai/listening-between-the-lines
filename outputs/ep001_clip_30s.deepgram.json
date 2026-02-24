@@ -1,0 +1,1249 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "24343ba0-3982-48a7-93cd-1844996f286f",
+    "sha256": "470e5814bfd1fc907db0273b577aa432716ea673ace324c35b81846a13421516",
+    "created": "2026-02-23T02:27:55.021Z",
+    "duration": 30.08,
+    "channels": 1,
+    "models": [
+      "1abfe86b-e047-4eed-858a-35e5625b41ee"
+    ],
+    "model_info": {
+      "1abfe86b-e047-4eed-858a-35e5625b41ee": {
+        "name": "2-general-nova",
+        "version": "2024-01-06.5664",
+        "arch": "nova-2"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "i mean there's something like the austro hungarian empire where there was just a lot of sort of clever marriages but fundamentally there's an engine of conquest and they celebrate always always excellence in warfare many of the leaders were excellent generals yeah that kind of thing so big picture question grok approved i asked this is a good question to ask get tested grok approved at least on fun mode",
+            "confidence": 0.99503183,
+            "words": [
+              {
+                "word": "i",
+                "start": 0.39999998,
+                "end": 0.56,
+                "confidence": 0.9967873,
+                "speaker": 0,
+                "speaker_confidence": 0.68841904
+              },
+              {
+                "word": "mean",
+                "start": 0.56,
+                "end": 0.71999997,
+                "confidence": 0.99597037,
+                "speaker": 0,
+                "speaker_confidence": 0.68841904
+              },
+              {
+                "word": "there's",
+                "start": 0.71999997,
+                "end": 0.96,
+                "confidence": 0.97757554,
+                "speaker": 0,
+                "speaker_confidence": 0.68841904
+              },
+              {
+                "word": "something",
+                "start": 0.96,
+                "end": 1.1999999,
+                "confidence": 0.539072,
+                "speaker": 0,
+                "speaker_confidence": 0.68841904
+              },
+              {
+                "word": "like",
+                "start": 1.1999999,
+                "end": 1.4399999,
+                "confidence": 0.97021973,
+                "speaker": 0,
+                "speaker_confidence": 0.68841904
+              },
+              {
+                "word": "the",
+                "start": 1.4399999,
+                "end": 1.52,
+                "confidence": 0.9892727,
+                "speaker": 0,
+                "speaker_confidence": 0.6778406
+              },
+              {
+                "word": "austro",
+                "start": 1.52,
+                "end": 1.76,
+                "confidence": 0.8822969,
+                "speaker": 0,
+                "speaker_confidence": 0.6778406
+              },
+              {
+                "word": "hungarian",
+                "start": 1.76,
+                "end": 2.24,
+                "confidence": 0.9998965,
+                "speaker": 0,
+                "speaker_confidence": 0.6778406
+              },
+              {
+                "word": "empire",
+                "start": 2.24,
+                "end": 2.56,
+                "confidence": 0.7661519,
+                "speaker": 0,
+                "speaker_confidence": 0.6778406
+              },
+              {
+                "word": "where",
+                "start": 2.56,
+                "end": 2.72,
+                "confidence": 0.9753329,
+                "speaker": 0,
+                "speaker_confidence": 0.6778406
+              },
+              {
+                "word": "there",
+                "start": 2.72,
+                "end": 2.8799999,
+                "confidence": 0.999005,
+                "speaker": 0,
+                "speaker_confidence": 0.6778406
+              },
+              {
+                "word": "was",
+                "start": 2.8799999,
+                "end": 3.12,
+                "confidence": 0.9670806,
+                "speaker": 0,
+                "speaker_confidence": 0.6778406
+              },
+              {
+                "word": "just",
+                "start": 3.12,
+                "end": 3.28,
+                "confidence": 0.9754397,
+                "speaker": 0,
+                "speaker_confidence": 0.6778406
+              },
+              {
+                "word": "a",
+                "start": 3.28,
+                "end": 3.36,
+                "confidence": 0.99896514,
+                "speaker": 0,
+                "speaker_confidence": 0.6778406
+              },
+              {
+                "word": "lot",
+                "start": 3.36,
+                "end": 3.52,
+                "confidence": 0.99977833,
+                "speaker": 0,
+                "speaker_confidence": 0.6778406
+              },
+              {
+                "word": "of",
+                "start": 3.52,
+                "end": 3.76,
+                "confidence": 0.9816624,
+                "speaker": 0,
+                "speaker_confidence": 0.6778406
+              },
+              {
+                "word": "sort",
+                "start": 4.08,
+                "end": 4.4,
+                "confidence": 0.9992372,
+                "speaker": 0,
+                "speaker_confidence": 0.6778406
+              },
+              {
+                "word": "of",
+                "start": 4.4,
+                "end": 4.48,
+                "confidence": 0.9990219,
+                "speaker": 0,
+                "speaker_confidence": 0.6778406
+              },
+              {
+                "word": "clever",
+                "start": 4.48,
+                "end": 4.88,
+                "confidence": 0.97688717,
+                "speaker": 0,
+                "speaker_confidence": 0.6778406
+              },
+              {
+                "word": "marriages",
+                "start": 4.88,
+                "end": 5.38,
+                "confidence": 0.9966446,
+                "speaker": 0,
+                "speaker_confidence": 0.6778406
+              },
+              {
+                "word": "but",
+                "start": 6.64,
+                "end": 6.96,
+                "confidence": 0.84554636,
+                "speaker": 1,
+                "speaker_confidence": 0.59641284
+              },
+              {
+                "word": "fundamentally",
+                "start": 6.96,
+                "end": 7.46,
+                "confidence": 0.9997661,
+                "speaker": 1,
+                "speaker_confidence": 0.59641284
+              },
+              {
+                "word": "there's",
+                "start": 7.52,
+                "end": 7.7599998,
+                "confidence": 0.99730825,
+                "speaker": 1,
+                "speaker_confidence": 0.59641284
+              },
+              {
+                "word": "an",
+                "start": 7.7599998,
+                "end": 8.0,
+                "confidence": 0.99975866,
+                "speaker": 1,
+                "speaker_confidence": 0.59641284
+              },
+              {
+                "word": "engine",
+                "start": 8.0,
+                "end": 8.32,
+                "confidence": 0.9999014,
+                "speaker": 1,
+                "speaker_confidence": 0.59641284
+              },
+              {
+                "word": "of",
+                "start": 8.32,
+                "end": 8.48,
+                "confidence": 0.9998977,
+                "speaker": 1,
+                "speaker_confidence": 0.59641284
+              },
+              {
+                "word": "conquest",
+                "start": 8.48,
+                "end": 8.98,
+                "confidence": 0.7505365,
+                "speaker": 1,
+                "speaker_confidence": 0.59641284
+              },
+              {
+                "word": "and",
+                "start": 9.2,
+                "end": 9.44,
+                "confidence": 0.9966,
+                "speaker": 1,
+                "speaker_confidence": 0.59641284
+              },
+              {
+                "word": "they",
+                "start": 9.44,
+                "end": 9.599999,
+                "confidence": 0.97603726,
+                "speaker": 1,
+                "speaker_confidence": 0.59641284
+              },
+              {
+                "word": "celebrate",
+                "start": 9.599999,
+                "end": 9.84,
+                "confidence": 0.99141204,
+                "speaker": 1,
+                "speaker_confidence": 0.59641284
+              },
+              {
+                "word": "always",
+                "start": 10.0,
+                "end": 10.16,
+                "confidence": 0.56431144,
+                "speaker": 1,
+                "speaker_confidence": 0.59641284
+              },
+              {
+                "word": "always",
+                "start": 10.16,
+                "end": 10.36,
+                "confidence": 0.8668944,
+                "speaker": 0,
+                "speaker_confidence": 0.5469688
+              },
+              {
+                "word": "excellence",
+                "start": 10.559999,
+                "end": 11.059999,
+                "confidence": 0.8595401,
+                "speaker": 1,
+                "speaker_confidence": 0.5540709
+              },
+              {
+                "word": "in",
+                "start": 11.92,
+                "end": 12.16,
+                "confidence": 0.95856386,
+                "speaker": 1,
+                "speaker_confidence": 0.5540709
+              },
+              {
+                "word": "warfare",
+                "start": 12.16,
+                "end": 12.66,
+                "confidence": 0.9976901,
+                "speaker": 1,
+                "speaker_confidence": 0.5540709
+              },
+              {
+                "word": "many",
+                "start": 13.555,
+                "end": 13.795,
+                "confidence": 0.9991916,
+                "speaker": 1,
+                "speaker_confidence": 0.5540709
+              },
+              {
+                "word": "of",
+                "start": 13.795,
+                "end": 13.875,
+                "confidence": 0.9996935,
+                "speaker": 1,
+                "speaker_confidence": 0.5540709
+              },
+              {
+                "word": "the",
+                "start": 13.875,
+                "end": 14.035001,
+                "confidence": 0.9998952,
+                "speaker": 1,
+                "speaker_confidence": 0.5540709
+              },
+              {
+                "word": "leaders",
+                "start": 14.035001,
+                "end": 14.515,
+                "confidence": 0.9999206,
+                "speaker": 1,
+                "speaker_confidence": 0.5540709
+              },
+              {
+                "word": "were",
+                "start": 14.515,
+                "end": 14.755,
+                "confidence": 0.99953294,
+                "speaker": 1,
+                "speaker_confidence": 0.5540709
+              },
+              {
+                "word": "excellent",
+                "start": 14.755,
+                "end": 15.255,
+                "confidence": 0.9997508,
+                "speaker": 1,
+                "speaker_confidence": 0.5540709
+              },
+              {
+                "word": "generals",
+                "start": 15.475,
+                "end": 15.975,
+                "confidence": 0.9240327,
+                "speaker": 1,
+                "speaker_confidence": 0.5540709
+              },
+              {
+                "word": "yeah",
+                "start": 16.435001,
+                "end": 16.755001,
+                "confidence": 0.99591076,
+                "speaker": 1,
+                "speaker_confidence": 0.5889094
+              },
+              {
+                "word": "that",
+                "start": 16.835001,
+                "end": 16.995,
+                "confidence": 0.9988606,
+                "speaker": 1,
+                "speaker_confidence": 0.5889094
+              },
+              {
+                "word": "kind",
+                "start": 16.995,
+                "end": 17.155,
+                "confidence": 0.7491406,
+                "speaker": 1,
+                "speaker_confidence": 0.5889094
+              },
+              {
+                "word": "of",
+                "start": 17.155,
+                "end": 17.235,
+                "confidence": 0.9977774,
+                "speaker": 1,
+                "speaker_confidence": 0.5889094
+              },
+              {
+                "word": "thing",
+                "start": 17.235,
+                "end": 17.735,
+                "confidence": 0.99960995,
+                "speaker": 1,
+                "speaker_confidence": 0.5889094
+              },
+              {
+                "word": "so",
+                "start": 17.955,
+                "end": 18.195,
+                "confidence": 0.9994617,
+                "speaker": 1,
+                "speaker_confidence": 0.5889094
+              },
+              {
+                "word": "big",
+                "start": 18.195,
+                "end": 18.355,
+                "confidence": 0.753696,
+                "speaker": 1,
+                "speaker_confidence": 0.5889094
+              },
+              {
+                "word": "picture",
+                "start": 18.355,
+                "end": 18.755001,
+                "confidence": 0.9997818,
+                "speaker": 1,
+                "speaker_confidence": 0.5889094
+              },
+              {
+                "word": "question",
+                "start": 18.755001,
+                "end": 19.255001,
+                "confidence": 0.7711506,
+                "speaker": 1,
+                "speaker_confidence": 0.5889094
+              },
+              {
+                "word": "grok",
+                "start": 20.174936,
+                "end": 20.574936,
+                "confidence": 0.72746193,
+                "speaker": 1,
+                "speaker_confidence": 0.5889094
+              },
+              {
+                "word": "approved",
+                "start": 20.574936,
+                "end": 21.054937,
+                "confidence": 0.8156619,
+                "speaker": 1,
+                "speaker_confidence": 0.5889094
+              },
+              {
+                "word": "i",
+                "start": 21.054937,
+                "end": 21.214937,
+                "confidence": 0.99503183,
+                "speaker": 1,
+                "speaker_confidence": 0.35395515
+              },
+              {
+                "word": "asked",
+                "start": 21.214937,
+                "end": 21.454937,
+                "confidence": 0.8862568,
+                "speaker": 1,
+                "speaker_confidence": 0.35395515
+              },
+              {
+                "word": "this",
+                "start": 21.534937,
+                "end": 21.614937,
+                "confidence": 0.7538767,
+                "speaker": 1,
+                "speaker_confidence": 0.35395515
+              },
+              {
+                "word": "is",
+                "start": 21.614937,
+                "end": 21.694937,
+                "confidence": 0.9552697,
+                "speaker": 1,
+                "speaker_confidence": 0.35395515
+              },
+              {
+                "word": "a",
+                "start": 21.694937,
+                "end": 21.854937,
+                "confidence": 0.996903,
+                "speaker": 1,
+                "speaker_confidence": 0.35395515
+              },
+              {
+                "word": "good",
+                "start": 21.854937,
+                "end": 22.014936,
+                "confidence": 0.99943835,
+                "speaker": 1,
+                "speaker_confidence": 0.35395515
+              },
+              {
+                "word": "question",
+                "start": 22.014936,
+                "end": 22.254936,
+                "confidence": 0.9993773,
+                "speaker": 1,
+                "speaker_confidence": 0.35395515
+              },
+              {
+                "word": "to",
+                "start": 22.254936,
+                "end": 22.334936,
+                "confidence": 0.9890372,
+                "speaker": 1,
+                "speaker_confidence": 0.14605463
+              },
+              {
+                "word": "ask",
+                "start": 22.334936,
+                "end": 22.814938,
+                "confidence": 0.98066974,
+                "speaker": 1,
+                "speaker_confidence": 0.14605463
+              },
+              {
+                "word": "get",
+                "start": 22.814938,
+                "end": 22.974937,
+                "confidence": 0.6821842,
+                "speaker": 0,
+                "speaker_confidence": 0.67987955
+              },
+              {
+                "word": "tested",
+                "start": 22.974937,
+                "end": 23.374937,
+                "confidence": 0.88983876,
+                "speaker": 0,
+                "speaker_confidence": 0.67987955
+              },
+              {
+                "word": "grok",
+                "start": 23.374937,
+                "end": 23.614937,
+                "confidence": 0.99950135,
+                "speaker": 0,
+                "speaker_confidence": 0.67987955
+              },
+              {
+                "word": "approved",
+                "start": 23.614937,
+                "end": 24.114937,
+                "confidence": 0.9963888,
+                "speaker": 0,
+                "speaker_confidence": 0.67987955
+              },
+              {
+                "word": "at",
+                "start": 25.934937,
+                "end": 26.014936,
+                "confidence": 0.98232275,
+                "speaker": 1,
+                "speaker_confidence": 0.39931583
+              },
+              {
+                "word": "least",
+                "start": 26.014936,
+                "end": 26.254936,
+                "confidence": 0.99983275,
+                "speaker": 1,
+                "speaker_confidence": 0.39931583
+              },
+              {
+                "word": "on",
+                "start": 26.254936,
+                "end": 26.494938,
+                "confidence": 0.91095436,
+                "speaker": 1,
+                "speaker_confidence": 0.39931583
+              },
+              {
+                "word": "fun",
+                "start": 26.494938,
+                "end": 26.734936,
+                "confidence": 0.9943193,
+                "speaker": 1,
+                "speaker_confidence": 0.39931583
+              },
+              {
+                "word": "mode",
+                "start": 26.734936,
+                "end": 27.234936,
+                "confidence": 0.9974941,
+                "speaker": 1,
+                "speaker_confidence": 0.39931583
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "utterances": [
+      {
+        "start": 0.39999998,
+        "end": 5.38,
+        "confidence": 0.94931495,
+        "channel": 0,
+        "transcript": "i mean there's something like the austro hungarian empire where there was just a lot of sort of clever marriages",
+        "words": [
+          {
+            "word": "i",
+            "start": 0.39999998,
+            "end": 0.56,
+            "confidence": 0.9967873,
+            "speaker": 0,
+            "speaker_confidence": 0.68841904
+          },
+          {
+            "word": "mean",
+            "start": 0.56,
+            "end": 0.71999997,
+            "confidence": 0.99597037,
+            "speaker": 0,
+            "speaker_confidence": 0.68841904
+          },
+          {
+            "word": "there's",
+            "start": 0.71999997,
+            "end": 0.96,
+            "confidence": 0.97757554,
+            "speaker": 0,
+            "speaker_confidence": 0.68841904
+          },
+          {
+            "word": "something",
+            "start": 0.96,
+            "end": 1.1999999,
+            "confidence": 0.539072,
+            "speaker": 0,
+            "speaker_confidence": 0.68841904
+          },
+          {
+            "word": "like",
+            "start": 1.1999999,
+            "end": 1.4399999,
+            "confidence": 0.97021973,
+            "speaker": 0,
+            "speaker_confidence": 0.68841904
+          },
+          {
+            "word": "the",
+            "start": 1.4399999,
+            "end": 1.52,
+            "confidence": 0.9892727,
+            "speaker": 0,
+            "speaker_confidence": 0.6778406
+          },
+          {
+            "word": "austro",
+            "start": 1.52,
+            "end": 1.76,
+            "confidence": 0.8822969,
+            "speaker": 0,
+            "speaker_confidence": 0.6778406
+          },
+          {
+            "word": "hungarian",
+            "start": 1.76,
+            "end": 2.24,
+            "confidence": 0.9998965,
+            "speaker": 0,
+            "speaker_confidence": 0.6778406
+          },
+          {
+            "word": "empire",
+            "start": 2.24,
+            "end": 2.56,
+            "confidence": 0.7661519,
+            "speaker": 0,
+            "speaker_confidence": 0.6778406
+          },
+          {
+            "word": "where",
+            "start": 2.56,
+            "end": 2.72,
+            "confidence": 0.9753329,
+            "speaker": 0,
+            "speaker_confidence": 0.6778406
+          },
+          {
+            "word": "there",
+            "start": 2.72,
+            "end": 2.8799999,
+            "confidence": 0.999005,
+            "speaker": 0,
+            "speaker_confidence": 0.6778406
+          },
+          {
+            "word": "was",
+            "start": 2.8799999,
+            "end": 3.12,
+            "confidence": 0.9670806,
+            "speaker": 0,
+            "speaker_confidence": 0.6778406
+          },
+          {
+            "word": "just",
+            "start": 3.12,
+            "end": 3.28,
+            "confidence": 0.9754397,
+            "speaker": 0,
+            "speaker_confidence": 0.6778406
+          },
+          {
+            "word": "a",
+            "start": 3.28,
+            "end": 3.36,
+            "confidence": 0.99896514,
+            "speaker": 0,
+            "speaker_confidence": 0.6778406
+          },
+          {
+            "word": "lot",
+            "start": 3.36,
+            "end": 3.52,
+            "confidence": 0.99977833,
+            "speaker": 0,
+            "speaker_confidence": 0.6778406
+          },
+          {
+            "word": "of",
+            "start": 3.52,
+            "end": 3.76,
+            "confidence": 0.9816624,
+            "speaker": 0,
+            "speaker_confidence": 0.6778406
+          },
+          {
+            "word": "sort",
+            "start": 4.08,
+            "end": 4.4,
+            "confidence": 0.9992372,
+            "speaker": 0,
+            "speaker_confidence": 0.6778406
+          },
+          {
+            "word": "of",
+            "start": 4.4,
+            "end": 4.48,
+            "confidence": 0.9990219,
+            "speaker": 0,
+            "speaker_confidence": 0.6778406
+          },
+          {
+            "word": "clever",
+            "start": 4.48,
+            "end": 4.88,
+            "confidence": 0.97688717,
+            "speaker": 0,
+            "speaker_confidence": 0.6778406
+          },
+          {
+            "word": "marriages",
+            "start": 4.88,
+            "end": 5.38,
+            "confidence": 0.9966446,
+            "speaker": 0,
+            "speaker_confidence": 0.6778406
+          }
+        ],
+        "speaker": 0,
+        "id": "d8e70d85-af87-4218-a0f0-b445fe871e33"
+      },
+      {
+        "start": 6.64,
+        "end": 11.059999,
+        "confidence": 0.911347,
+        "channel": 0,
+        "transcript": "but fundamentally there's an engine of conquest and they celebrate always always excellence",
+        "words": [
+          {
+            "word": "but",
+            "start": 6.64,
+            "end": 6.96,
+            "confidence": 0.84554636,
+            "speaker": 1,
+            "speaker_confidence": 0.59641284
+          },
+          {
+            "word": "fundamentally",
+            "start": 6.96,
+            "end": 7.46,
+            "confidence": 0.9997661,
+            "speaker": 1,
+            "speaker_confidence": 0.59641284
+          },
+          {
+            "word": "there's",
+            "start": 7.52,
+            "end": 7.7599998,
+            "confidence": 0.99730825,
+            "speaker": 1,
+            "speaker_confidence": 0.59641284
+          },
+          {
+            "word": "an",
+            "start": 7.7599998,
+            "end": 8.0,
+            "confidence": 0.99975866,
+            "speaker": 1,
+            "speaker_confidence": 0.59641284
+          },
+          {
+            "word": "engine",
+            "start": 8.0,
+            "end": 8.32,
+            "confidence": 0.9999014,
+            "speaker": 1,
+            "speaker_confidence": 0.59641284
+          },
+          {
+            "word": "of",
+            "start": 8.32,
+            "end": 8.48,
+            "confidence": 0.9998977,
+            "speaker": 1,
+            "speaker_confidence": 0.59641284
+          },
+          {
+            "word": "conquest",
+            "start": 8.48,
+            "end": 8.98,
+            "confidence": 0.7505365,
+            "speaker": 1,
+            "speaker_confidence": 0.59641284
+          },
+          {
+            "word": "and",
+            "start": 9.2,
+            "end": 9.44,
+            "confidence": 0.9966,
+            "speaker": 1,
+            "speaker_confidence": 0.59641284
+          },
+          {
+            "word": "they",
+            "start": 9.44,
+            "end": 9.599999,
+            "confidence": 0.97603726,
+            "speaker": 1,
+            "speaker_confidence": 0.59641284
+          },
+          {
+            "word": "celebrate",
+            "start": 9.599999,
+            "end": 9.84,
+            "confidence": 0.99141204,
+            "speaker": 1,
+            "speaker_confidence": 0.59641284
+          },
+          {
+            "word": "always",
+            "start": 10.0,
+            "end": 10.16,
+            "confidence": 0.56431144,
+            "speaker": 1,
+            "speaker_confidence": 0.59641284
+          },
+          {
+            "word": "always",
+            "start": 10.16,
+            "end": 10.36,
+            "confidence": 0.8668944,
+            "speaker": 0,
+            "speaker_confidence": 0.5469688
+          },
+          {
+            "word": "excellence",
+            "start": 10.559999,
+            "end": 11.059999,
+            "confidence": 0.8595401,
+            "speaker": 1,
+            "speaker_confidence": 0.5540709
+          }
+        ],
+        "speaker": 1,
+        "id": "9c9996a6-1914-4d28-a7f7-6c501c405ac6"
+      },
+      {
+        "start": 11.92,
+        "end": 12.66,
+        "confidence": 0.978127,
+        "channel": 0,
+        "transcript": "in warfare",
+        "words": [
+          {
+            "word": "in",
+            "start": 11.92,
+            "end": 12.16,
+            "confidence": 0.95856386,
+            "speaker": 1,
+            "speaker_confidence": 0.5540709
+          },
+          {
+            "word": "warfare",
+            "start": 12.16,
+            "end": 12.66,
+            "confidence": 0.9976901,
+            "speaker": 1,
+            "speaker_confidence": 0.5540709
+          }
+        ],
+        "speaker": 1,
+        "id": "4e9a8b1f-a617-418a-a920-c50365f8402a"
+      },
+      {
+        "start": 13.555,
+        "end": 15.975,
+        "confidence": 0.9888596,
+        "channel": 0,
+        "transcript": "many of the leaders were excellent generals",
+        "words": [
+          {
+            "word": "many",
+            "start": 13.555,
+            "end": 13.795,
+            "confidence": 0.9991916,
+            "speaker": 1,
+            "speaker_confidence": 0.5540709
+          },
+          {
+            "word": "of",
+            "start": 13.795,
+            "end": 13.875,
+            "confidence": 0.9996935,
+            "speaker": 1,
+            "speaker_confidence": 0.5540709
+          },
+          {
+            "word": "the",
+            "start": 13.875,
+            "end": 14.035001,
+            "confidence": 0.9998952,
+            "speaker": 1,
+            "speaker_confidence": 0.5540709
+          },
+          {
+            "word": "leaders",
+            "start": 14.035001,
+            "end": 14.515,
+            "confidence": 0.9999206,
+            "speaker": 1,
+            "speaker_confidence": 0.5540709
+          },
+          {
+            "word": "were",
+            "start": 14.515,
+            "end": 14.755,
+            "confidence": 0.99953294,
+            "speaker": 1,
+            "speaker_confidence": 0.5540709
+          },
+          {
+            "word": "excellent",
+            "start": 14.755,
+            "end": 15.255,
+            "confidence": 0.9997508,
+            "speaker": 1,
+            "speaker_confidence": 0.5540709
+          },
+          {
+            "word": "generals",
+            "start": 15.475,
+            "end": 15.975,
+            "confidence": 0.9240327,
+            "speaker": 1,
+            "speaker_confidence": 0.5540709
+          }
+        ],
+        "speaker": 1,
+        "id": "960a0549-6d3b-4223-8aa2-73684f9521b8"
+      },
+      {
+        "start": 16.435001,
+        "end": 19.255001,
+        "confidence": 0.9183766,
+        "channel": 0,
+        "transcript": "yeah that kind of thing so big picture question",
+        "words": [
+          {
+            "word": "yeah",
+            "start": 16.435001,
+            "end": 16.755001,
+            "confidence": 0.99591076,
+            "speaker": 1,
+            "speaker_confidence": 0.5889094
+          },
+          {
+            "word": "that",
+            "start": 16.835001,
+            "end": 16.995,
+            "confidence": 0.9988606,
+            "speaker": 1,
+            "speaker_confidence": 0.5889094
+          },
+          {
+            "word": "kind",
+            "start": 16.995,
+            "end": 17.155,
+            "confidence": 0.7491406,
+            "speaker": 1,
+            "speaker_confidence": 0.5889094
+          },
+          {
+            "word": "of",
+            "start": 17.155,
+            "end": 17.235,
+            "confidence": 0.9977774,
+            "speaker": 1,
+            "speaker_confidence": 0.5889094
+          },
+          {
+            "word": "thing",
+            "start": 17.235,
+            "end": 17.735,
+            "confidence": 0.99960995,
+            "speaker": 1,
+            "speaker_confidence": 0.5889094
+          },
+          {
+            "word": "so",
+            "start": 17.955,
+            "end": 18.195,
+            "confidence": 0.9994617,
+            "speaker": 1,
+            "speaker_confidence": 0.5889094
+          },
+          {
+            "word": "big",
+            "start": 18.195,
+            "end": 18.355,
+            "confidence": 0.753696,
+            "speaker": 1,
+            "speaker_confidence": 0.5889094
+          },
+          {
+            "word": "picture",
+            "start": 18.355,
+            "end": 18.755001,
+            "confidence": 0.9997818,
+            "speaker": 1,
+            "speaker_confidence": 0.5889094
+          },
+          {
+            "word": "question",
+            "start": 18.755001,
+            "end": 19.255001,
+            "confidence": 0.7711506,
+            "speaker": 1,
+            "speaker_confidence": 0.5889094
+          }
+        ],
+        "speaker": 1,
+        "id": "43f5a665-a9ff-4b19-9bce-7a17d324c90f"
+      },
+      {
+        "start": 20.174936,
+        "end": 24.114937,
+        "confidence": 0.9111265,
+        "channel": 0,
+        "transcript": "grok approved i asked this is a good question to ask get tested grok approved",
+        "words": [
+          {
+            "word": "grok",
+            "start": 20.174936,
+            "end": 20.574936,
+            "confidence": 0.72746193,
+            "speaker": 1,
+            "speaker_confidence": 0.5889094
+          },
+          {
+            "word": "approved",
+            "start": 20.574936,
+            "end": 21.054937,
+            "confidence": 0.8156619,
+            "speaker": 1,
+            "speaker_confidence": 0.5889094
+          },
+          {
+            "word": "i",
+            "start": 21.054937,
+            "end": 21.214937,
+            "confidence": 0.99503183,
+            "speaker": 1,
+            "speaker_confidence": 0.35395515
+          },
+          {
+            "word": "asked",
+            "start": 21.214937,
+            "end": 21.454937,
+            "confidence": 0.8862568,
+            "speaker": 1,
+            "speaker_confidence": 0.35395515
+          },
+          {
+            "word": "this",
+            "start": 21.534937,
+            "end": 21.614937,
+            "confidence": 0.7538767,
+            "speaker": 1,
+            "speaker_confidence": 0.35395515
+          },
+          {
+            "word": "is",
+            "start": 21.614937,
+            "end": 21.694937,
+            "confidence": 0.9552697,
+            "speaker": 1,
+            "speaker_confidence": 0.35395515
+          },
+          {
+            "word": "a",
+            "start": 21.694937,
+            "end": 21.854937,
+            "confidence": 0.996903,
+            "speaker": 1,
+            "speaker_confidence": 0.35395515
+          },
+          {
+            "word": "good",
+            "start": 21.854937,
+            "end": 22.014936,
+            "confidence": 0.99943835,
+            "speaker": 1,
+            "speaker_confidence": 0.35395515
+          },
+          {
+            "word": "question",
+            "start": 22.014936,
+            "end": 22.254936,
+            "confidence": 0.9993773,
+            "speaker": 1,
+            "speaker_confidence": 0.35395515
+          },
+          {
+            "word": "to",
+            "start": 22.254936,
+            "end": 22.334936,
+            "confidence": 0.9890372,
+            "speaker": 1,
+            "speaker_confidence": 0.14605463
+          },
+          {
+            "word": "ask",
+            "start": 22.334936,
+            "end": 22.814938,
+            "confidence": 0.98066974,
+            "speaker": 1,
+            "speaker_confidence": 0.14605463
+          },
+          {
+            "word": "get",
+            "start": 22.814938,
+            "end": 22.974937,
+            "confidence": 0.6821842,
+            "speaker": 0,
+            "speaker_confidence": 0.67987955
+          },
+          {
+            "word": "tested",
+            "start": 22.974937,
+            "end": 23.374937,
+            "confidence": 0.88983876,
+            "speaker": 0,
+            "speaker_confidence": 0.67987955
+          },
+          {
+            "word": "grok",
+            "start": 23.374937,
+            "end": 23.614937,
+            "confidence": 0.99950135,
+            "speaker": 0,
+            "speaker_confidence": 0.67987955
+          },
+          {
+            "word": "approved",
+            "start": 23.614937,
+            "end": 24.114937,
+            "confidence": 0.9963888,
+            "speaker": 0,
+            "speaker_confidence": 0.67987955
+          }
+        ],
+        "speaker": 1,
+        "id": "0512acdc-c41a-4841-9187-10d088fabd7f"
+      },
+      {
+        "start": 25.934937,
+        "end": 27.234936,
+        "confidence": 0.9769847,
+        "channel": 0,
+        "transcript": "at least on fun mode",
+        "words": [
+          {
+            "word": "at",
+            "start": 25.934937,
+            "end": 26.014936,
+            "confidence": 0.98232275,
+            "speaker": 1,
+            "speaker_confidence": 0.39931583
+          },
+          {
+            "word": "least",
+            "start": 26.014936,
+            "end": 26.254936,
+            "confidence": 0.99983275,
+            "speaker": 1,
+            "speaker_confidence": 0.39931583
+          },
+          {
+            "word": "on",
+            "start": 26.254936,
+            "end": 26.494938,
+            "confidence": 0.91095436,
+            "speaker": 1,
+            "speaker_confidence": 0.39931583
+          },
+          {
+            "word": "fun",
+            "start": 26.494938,
+            "end": 26.734936,
+            "confidence": 0.9943193,
+            "speaker": 1,
+            "speaker_confidence": 0.39931583
+          },
+          {
+            "word": "mode",
+            "start": 26.734936,
+            "end": 27.234936,
+            "confidence": 0.9974941,
+            "speaker": 1,
+            "speaker_confidence": 0.39931583
+          }
+        ],
+        "speaker": 1,
+        "id": "0a85d744-cd4a-44b5-9759-48cd0ec53f6d"
+      }
+    ]
+  }
+}

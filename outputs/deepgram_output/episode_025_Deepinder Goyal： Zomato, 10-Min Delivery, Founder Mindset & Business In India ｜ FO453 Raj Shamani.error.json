@@ -1,0 +1,8 @@
+{
+  "status": 400,
+  "response": {
+    "err_code": "Bad Request",
+    "err_msg": "Bad Request: Invalid data received.",
+    "request_id": "9696c8c5-6b15-4e26-b512-65d04b01f365"
+  }
+}

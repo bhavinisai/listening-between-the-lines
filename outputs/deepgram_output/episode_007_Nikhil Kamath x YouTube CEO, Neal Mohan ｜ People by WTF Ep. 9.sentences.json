@@ -1,0 +1,5977 @@
+{
+  "unit": "utterance (sentence-like)",
+  "num_segments": 853,
+  "segments": [
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 47.204998,
+      "end": 51.925,
+      "transcript": "I remember reading this thing about Google offering you a $100,000,000"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 51.925,
+      "end": 55.53,
+      "transcript": "not to quit, not today, but fifteen years ago,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 55.989998,
+      "end": 57.29,
+      "transcript": "which was a lot of money."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 60.309998,
+      "end": 65.369995,
+      "transcript": "What is it I like that you're waiting for the question of this boy and not reacting."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 67.505005,
+      "end": 69.205,
+      "transcript": "I wanna see where you're gonna take this."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 84.72,
+      "end": 85.94,
+      "transcript": "We started over."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 86.240005,
+      "end": 87.54,
+      "transcript": "It's rolling. Okay."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 88.880005,
+      "end": 89.94,
+      "transcript": "Can you define"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 90.240005,
+      "end": 92.740005,
+      "transcript": "Neil waves? What do you think it is?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 93.645004,
+      "end": 96.865,
+      "transcript": "Because I've tried, and I'm I'm kinda, like, conflicted. I don't know if the"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 97.405,
+      "end": 100.705,
+      "transcript": "messaging has gone out in the manner that it should,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 101.085,
+      "end": 102.625,
+      "transcript": "but what is waves, really?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 103.245,
+      "end": 107.345,
+      "transcript": "Well, my understanding is it's really the first time ever, I think,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 107.69,
+      "end": 110.51,
+      "transcript": "not just here in India, but really anywhere in the world,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 110.89,
+      "end": 112.83,
+      "transcript": "where there's been such a,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 113.85,
+      "end": 117.71,
+      "transcript": "kind of meeting of everybody who has an interest and a stake"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 118.09,
+      "end": 119.39,
+      "transcript": "in the creative industries,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 120.41,
+      "end": 122.11,
+      "transcript": "with really the purpose of,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 123.905,
+      "end": 128.885,
+      "transcript": "finding ways to accelerate it further, certainly for India and Indian culture and"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 129.345,
+      "end": 130.245,
+      "transcript": "Indian creators,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 130.785,
+      "end": 132.165,
+      "transcript": "but I really think that"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 132.705,
+      "end": 135.605,
+      "transcript": "it will have a global impact as a result."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 136.49,
+      "end": 138.03,
+      "transcript": "And I think, you know, kind of"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 139.13,
+      "end": 140.83,
+      "transcript": "the insight for me, at least,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 142.57,
+      "end": 146.19,
+      "transcript": "was the recognition, you know, certainly on part of the government, but I think,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 146.73001,
+      "end": 149.87001,
+      "transcript": "the creative industries and India in general, the recognition that,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 151.515,
+      "end": 155.215,
+      "transcript": "India really is at the cusp of being a true creator nation."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 155.595,
+      "end": 158.415,
+      "transcript": "And I get to see it from my vantage point at YouTube."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 159.355,
+      "end": 164.495,
+      "transcript": "I see it in the numbers. I see it, obviously, in everybody that I interact with whenever I'm visiting India."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 164.95,
+      "end": 165.76999,
+      "transcript": "But I think,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 166.87,
+      "end": 170.65,
+      "transcript": "that's the big vision. And I think what's really interesting about it is it's"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 171.10999,
+      "end": 178.96999,
+      "transcript": "a mix of everything. There's obviously the cultural and creative aspect of it, but there's also the business aspect of it, what's required to be a successful creator."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 179.345,
+      "end": 185.045,
+      "transcript": "There's also the collaborative aspect of it. There's the private government partnership aspect. And I think waves,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 185.505,
+      "end": 188.885,
+      "transcript": "at least in my understanding, is trying to put all those pieces together."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 190.385,
+      "end": 192.565,
+      "transcript": "Content creators and politics."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 193.98,
+      "end": 198.0,
+      "transcript": "Do you think they're more they're getting more ingrained than they have ever been?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 198.86,
+      "end": 202.96,
+      "transcript": "Well, the way I think about it is Did you vote Republican or Democrat?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 203.34,
+      "end": 208.64,
+      "transcript": "Did I? I'm not gonna get into all all my pieces. I've been I've I've"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 210.225,
+      "end": 214.805,
+      "transcript": "voted on both sides for a very long time. Let's put it let's put it that way."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 215.345,
+      "end": 219.745,
+      "transcript": "You're asking so you're not asking an India question. You're asking in general. I would say,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 221.68,
+      "end": 224.1,
+      "transcript": "it really goes back to the fact that,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 225.44,
+      "end": 227.62,
+      "transcript": "you know, a place like YouTube is,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 230.72,
+      "end": 234.26,
+      "transcript": "yes, it's a place for content creators and creators and YouTubers."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 234.56,
+      "end": 235.06,
+      "transcript": "And"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 235.485,
+      "end": 238.465,
+      "transcript": "most of what we all consume on on YouTube is"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 238.92499,
+      "end": 245.185,
+      "transcript": "is entertainment or learning or what have you. But really, it's a it's an information platform."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 245.885,
+      "end": 250.02,
+      "transcript": "And our mission statement is to give everyone a voice and show them the world."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 250.5,
+      "end": 252.36,
+      "transcript": "And so if you think about that,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 253.14,
+      "end": 256.44,
+      "transcript": "what happens on YouTube is a reflection of what's happening in the world,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 256.9,
+      "end": 257.96,
+      "transcript": "and vice versa."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 258.34,
+      "end": 259.16,
+      "transcript": "And so"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 259.78,
+      "end": 263.4,
+      "transcript": "the connection, therefore, between creativity on YouTube and"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 264.025,
+      "end": 267.32498,
+      "transcript": "politics or elections or societal conversations,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 270.025,
+      "end": 279.22,
+      "transcript": "in if you look at it in that context, shouldn't be a surprise. And that's what we see in The US, whether you're talking about, you know, the Republican Party or the Democratic Party."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 279.84,
+      "end": 289.86002,
+      "transcript": "And it's what we saw here in the elections, the gigantic elections that happened here in in India last year and, you know, just happened in Canada yesterday and really all over the world."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 290.615,
+      "end": 292.23502,
+      "transcript": "So if I were to make the assumption"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 292.935,
+      "end": 293.435,
+      "transcript": "that"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 294.055,
+      "end": 294.555,
+      "transcript": "Trump"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 294.935,
+      "end": 295.435,
+      "transcript": "utilized"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 296.935,
+      "end": 298.395,
+      "transcript": "content creators better"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 298.935,
+      "end": 300.875,
+      "transcript": "in the previous election,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 302.055,
+      "end": 303.995,
+      "transcript": "does the platform that houses"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 304.77,
+      "end": 307.43,
+      "transcript": "most of the content creators get to sway"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 308.93,
+      "end": 311.27,
+      "transcript": "what should be heard since you control the narrative?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 312.37,
+      "end": 317.51,
+      "transcript": "I narrative, but who watches which narrative? Yeah. I really don't look at it that way at all. In fact,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 319.305,
+      "end": 320.685,
+      "transcript": "I really think that"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 321.465,
+      "end": 330.685,
+      "transcript": "it goes back to what I was saying, which is YouTube really is a reflection of of what is happening in the world. And precisely, it's actually meant to be a reflection"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 331.09998,
+      "end": 342.15997,
+      "transcript": "of what's interesting to you in the moment. When you open up the YouTube app, it really should be a reflection of Nikhil's interests Mhmm. Of the moment over some period of time."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 342.62,
+      "end": 349.185,
+      "transcript": "Doesn't mean that it's just that. There's Obviously, we endeavor to show a diversity of content, but it's generally oriented around"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 349.565,
+      "end": 354.465,
+      "transcript": "what we know to be of your personal interest based on your viewing habits, etcetera."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 355.165,
+      "end": 355.665,
+      "transcript": "So"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 356.04498,
+      "end": 362.61,
+      "transcript": "you, as the user, really are in the driver's seat in terms of what type of content you're looking for, what you're looking to view."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 362.99,
+      "end": 364.69,
+      "transcript": "And it's the job of"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 365.06998,
+      "end": 373.40997,
+      "transcript": "the content creators to be true to who they are, but then to use the YouTube platform to build an audience. And I say that, you know, YouTube in many ways is"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 373.965,
+      "end": 374.465,
+      "transcript": "the"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 374.925,
+      "end": 376.705,
+      "transcript": "the the most efficient way of connecting"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 377.485,
+      "end": 387.66498,
+      "transcript": "a creator like yourself with their audience wherever they are in the world. But it's it's really just that. You are the one responsible for actually producing the content that's interesting to people."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 388.22,
+      "end": 390.08,
+      "transcript": "And I, as a fan of yours,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 391.18,
+      "end": 400.16,
+      "transcript": "am only going to watch it to the extent that I'm interested. And so that's fundamentally what happens on YouTube. In your question about what happened in the recent elections in The US,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 400.94,
+      "end": 402.16,
+      "transcript": "I do think that"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 404.075,
+      "end": 413.21503,
+      "transcript": "news commentators, podcasters, or what whatever you want to call them, played a played a played a big role in that election. Mhmm. And I do think that candidates"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 414.475,
+      "end": 414.635,
+      "transcript": "that,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 415.27502,
+      "end": 417.695,
+      "transcript": "got the word out as a result of engagement"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 418.79,
+      "end": 423.85,
+      "transcript": "in what, you know, in generations past or years past would have been overlooked as an outlet,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 424.87,
+      "end": 426.01,
+      "transcript": "ended up being successful"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 426.55,
+      "end": 427.05,
+      "transcript": "because"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 427.83,
+      "end": 428.89,
+      "transcript": "those podcasters"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 429.27,
+      "end": 433.21,
+      "transcript": "had large audiences that were interested in what their guests had to say."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 433.655,
+      "end": 435.51498,
+      "transcript": "And, we saw that play out"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 435.895,
+      "end": 436.775,
+      "transcript": "over and over."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 437.175,
+      "end": 440.79498,
+      "transcript": "You know, I always say that the success of podcasts on YouTube"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 441.335,
+      "end": 448.64,
+      "transcript": "came into focus last year. You know, obviously, the elections were kind of a pivotal point in The US, but it was like an overnight success"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 449.02,
+      "end": 453.52,
+      "transcript": "many years in the making. Right. Because when we first started investing in in podcasts,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 454.46,
+      "end": 457.6,
+      "transcript": "and and I'm curious what your experience is, on our platform,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 458.31497,
+      "end": 466.895,
+      "transcript": "We made, like, two or three really big bets that I think back then would have been kind of strange. Well, the biggest is we bet on the fact that people would"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 467.435,
+      "end": 479.03,
+      "transcript": "wanna watch a conversation, not listen to it. Lots of people listen to podcasts on YouTube, but lots of people watch it. And obviously, COVID was an accelerator when people were at homes. They wanted to see what was happening."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 479.49,
+      "end": 483.66998,
+      "transcript": "But, there's an enormous amount of content, podcast content, that's viewed,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 484.05,
+      "end": 487.59,
+      "transcript": "not just on mobile phones, but on television screens. So that was one."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 487.935,
+      "end": 491.23502,
+      "transcript": "The second was really betting on discovery."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 492.255,
+      "end": 493.635,
+      "transcript": "So discovery around"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 494.095,
+      "end": 499.155,
+      "transcript": "not just podcasts that you're subscribed to, but like discovery around podcasts that you might be"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 499.61502,
+      "end": 508.65997,
+      "transcript": "genuinely interested in. So that was a that was a really big part of it. So posting the podcast and and going about it that way. And then the third piece is just recognizing"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 509.59998,
+      "end": 526.175,
+      "transcript": "that, it's not just about building an audience for podcasters. It's also helping them monetize it. So really making it so that podcasts were integrated into our YouTube partner program monetization. So those three bets really ended up being, I think, kind of foundational driver of our"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 526.635,
+      "end": 528.09503,
+      "transcript": "of our podcast strategy."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 528.89,
+      "end": 531.07,
+      "transcript": "So when I think of podcasting, Neil,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 533.05,
+      "end": 533.61,
+      "transcript": "news has"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 534.49,
+      "end": 542.83,
+      "transcript": "there is no information arbitrage when somebody is reporting the news. For a long time, the bias of the reporter is why I might have watched"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 543.225,
+      "end": 545.485,
+      "transcript": "one particular new news channel over another."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 546.90497,
+      "end": 551.005,
+      "transcript": "I feel recently people have gotten disillusioned by corporations"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 553.065,
+      "end": 555.96497,
+      "transcript": "owning news channels and assume the newscaster's"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 556.345,
+      "end": 557.96497,
+      "transcript": "views will also be biased."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 558.51996,
+      "end": 561.98,
+      "transcript": "And a podcaster seems to be more of a independent character,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 562.68,
+      "end": 567.89996,
+      "transcript": "so the bias of the corporation doesn't translate onto him. Do you think why people are"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 568.36,
+      "end": 571.18,
+      "transcript": "moving to podcast in the news information space?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 572.605,
+      "end": 575.08496,
+      "transcript": "Yeah. That's really interesting. And I think,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 576.52496,
+      "end": 579.02496,
+      "transcript": "first, I would say I think there's lots of reasons why"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 580.845,
+      "end": 588.54,
+      "transcript": "why podcasters have moved to platforms like YouTube but also found success on it. But I think it comes down to two fundamental things."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 589.64,
+      "end": 590.3,
+      "transcript": "One is"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 591.32,
+      "end": 593.1,
+      "transcript": "they would only do it if they felt"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 593.56,
+      "end": 597.02,
+      "transcript": "that they could build an audience on YouTube so that there was"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 597.545,
+      "end": 598.76495,
+      "transcript": "no barrier between"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 599.14496,
+      "end": 604.605,
+      "transcript": "them and the audience that they were looking to build. My question is more why is the audience"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 605.38495,
+      "end": 610.20496,
+      "transcript": "choosing to know what happened in the world from a podcaster versus a news media channel?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 612.14996,
+      "end": 620.81,
+      "transcript": "I have to you know, I'd say that I don't think it's an either or. Mhmm. So I would say and, again, just speaking from, what's happening on YouTube standpoint,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 621.43,
+      "end": 624.81,
+      "transcript": "we see lots of success from what you would call traditional"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 625.635,
+      "end": 626.375,
+      "transcript": "news channels."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 627.955,
+      "end": 629.41504,
+      "transcript": "They have adopted"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 629.955,
+      "end": 632.135,
+      "transcript": "the YouTube style of content."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 632.67505,
+      "end": 639.91003,
+      "transcript": "Many of them have been investing in the platform for a very long time. And I don't mean just clips. I mean, like, full on live news broadcasts,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 640.85,
+      "end": 647.43,
+      "transcript": "replays of the broadcast, live streams in many cases. So really kind of all the gamut of news. And we have seen,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 648.53,
+      "end": 653.51,
+      "transcript": "their success on our platform as well, especially when people are coming to YouTube looking for information"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 654.26495,
+      "end": 655.08496,
+      "transcript": "around politics,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 655.625,
+      "end": 657.245,
+      "transcript": "to use your example, but,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 657.70496,
+      "end": 661.165,
+      "transcript": "you know, whatever sort of thing impacts their lives,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 661.785,
+      "end": 668.71,
+      "transcript": "we've seen that success. Now I think what a podcaster does, sort of to the extent that they're related to news,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 669.09,
+      "end": 672.47003,
+      "transcript": "is that they cover the news, talk about the news,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 673.09,
+      "end": 675.59,
+      "transcript": "but they also are doing it, through"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 676.61005,
+      "end": 681.77496,
+      "transcript": "the means and the tools of a creator. Right? Like, so, you know, YouTube oftentimes"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 682.075,
+      "end": 682.815,
+      "transcript": "is about"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 683.27496,
+      "end": 690.015,
+      "transcript": "connecting with the person whose channel it is. Like Mhmm. It's not just about what they said in that one particular video."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 690.475,
+      "end": 693.935,
+      "transcript": "I, as a fan, am interested in that person in general, like,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 694.28,
+      "end": 706.54004,
+      "transcript": "how do they go about their day, what their interests are, etcetera. And so I think the nice thing about podcasting on YouTube is it really combines both of those things. If I were to push you a bit, Neil, and ask you a binary answer to the question,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 707.4,
+      "end": 708.62,
+      "transcript": "five years from today,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 709.575,
+      "end": 710.715,
+      "transcript": "will you be watching"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 711.655,
+      "end": 712.155,
+      "transcript": "Fox"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 712.53503,
+      "end": 713.35504,
+      "transcript": "or CNN"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 713.73505,
+      "end": 722.955,
+      "transcript": "to know what happened in the world that day, or would you be watching a independent creator on YouTube say what it is? I really don't think it's gonna be one or the other. Fox,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 723.335,
+      "end": 724.955,
+      "transcript": "had one of its most successful"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 725.76,
+      "end": 730.5,
+      "transcript": "quarters, months ever on YouTube. Just I think just last month, they reported it themselves."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 730.96,
+      "end": 735.22003,
+      "transcript": "They have been investing, and credit to them. Right? They have been investing heavily in understanding"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 735.68005,
+      "end": 736.9,
+      "transcript": "Mhmm. This."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 738.76495,
+      "end": 741.665,
+      "transcript": "But I also think alongside of that, you're gonna see"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 742.125,
+      "end": 749.665,
+      "transcript": "other types of content, like you said, podcasters, be successful. And I think some of that gets at sort of the inherent nature of YouTube,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 750.125,
+      "end": 756.37,
+      "transcript": "which is it really can be all of these things. I mean, 2,000,000,000 people come to the platform every single day."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 757.87,
+      "end": 760.52997,
+      "transcript": "The subset of them that are consuming news,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 760.83,
+      "end": 767.605,
+      "transcript": "there's gonna be such enormous diversity in terms of their preferences, their priorities, in terms of how they consume news on YouTube."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 768.225,
+      "end": 778.805,
+      "transcript": "So I just think that five years from now, you should expect to see more of that diversity, not less. I think if I were predicting anything, I don't think it would be a one or zero between those two types of options."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 779.39,
+      "end": 791.97,
+      "transcript": "I could very well see a third type of format get invented and find success on the platform. That's what's amazing about about the creators on on YouTube is we never really know what they're gonna experiment with and then come up with next."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 792.595,
+      "end": 795.335,
+      "transcript": "I know it's tough to put YouTube in a box, but"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 795.875,
+      "end": 800.215,
+      "transcript": "if you were to try and define what YouTube is today, what would you say it is?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 803.875,
+      "end": 805.975,
+      "transcript": "That's a great question. I would say,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 808.59,
+      "end": 818.29,
+      "transcript": "I I think we are we are really our own thing, and and what I, what I mean by that is our ambition is to be a a a streaming service where"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 818.99,
+      "end": 819.89,
+      "transcript": "you can"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 821.015,
+      "end": 821.515,
+      "transcript": "watch,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 822.375,
+      "end": 827.275,
+      "transcript": "create, and share video Mhmm. Regardless of where you are in the world, who you are."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 828.375,
+      "end": 828.875,
+      "transcript": "And"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 829.255,
+      "end": 835.91504,
+      "transcript": "that's our goal. That's our mission. And what I like about that is it really encapsulates everything from living room screens to"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 836.45996,
+      "end": 838.07996,
+      "transcript": "television screens to,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 838.89996,
+      "end": 841.19995,
+      "transcript": "you know, your phone in your pocket,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 842.3,
+      "end": 847.6,
+      "transcript": "to car radio, all that sort of stuff. We're not social media. We're not a place where you go"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 848.06,
+      "end": 851.315,
+      "transcript": "to connect or share with your friends. You're primarily"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 851.695,
+      "end": 852.91504,
+      "transcript": "there to watch video."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 853.85504,
+      "end": 855.875,
+      "transcript": "And we're not sort of linear traditional"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 856.495,
+      "end": 857.555,
+      "transcript": "television either."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 858.015,
+      "end": 866.115,
+      "transcript": "We're sort of our own thing because of the nature of the content that's created on our platform being a creator led content generation platform."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 867.02997,
+      "end": 868.01,
+      "transcript": "Are you more"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 869.26996,
+      "end": 869.93,
+      "transcript": "a place"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 870.79,
+      "end": 872.49,
+      "transcript": "where content is stored"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 873.11,
+      "end": 875.29,
+      "transcript": "and then streamed? Do you think"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 875.67,
+      "end": 878.81,
+      "transcript": "the technology of doing that defines YouTube more,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 879.345,
+      "end": 881.365,
+      "transcript": "or are you a curator of content"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 881.985,
+      "end": 884.08496,
+      "transcript": "that shows me what I want to see more?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 885.58496,
+      "end": 887.045,
+      "transcript": "I think the term creator"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 888.065,
+      "end": 891.445,
+      "transcript": "is a is a bit of a loaded term. And because"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 891.94,
+      "end": 897.56006,
+      "transcript": "we don't curate the content. We've tried in in the past. We had something called YouTube Originals. It wasn't successful."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 898.10004,
+      "end": 903.795,
+      "transcript": "So we don't do that. What we do I the the analogy that I use that I think I think sort of"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 904.27496,
+      "end": 905.175,
+      "transcript": "works best"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 906.035,
+      "end": 907.65497,
+      "transcript": "is most of the people at YouTube,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 908.915,
+      "end": 912.695,
+      "transcript": "are software engineers. They're technologists. And our job is to build the stage."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 913.235,
+      "end": 922.0,
+      "transcript": "And I want that to be the best possible stage in the world. When you come to this stage, to this theater, the most comfortable seats, the best view lines,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 922.45996,
+      "end": 925.51996,
+      "transcript": "the most amazing, you know, effects or what have you,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 926.77997,
+      "end": 930.95996,
+      "transcript": "but that's it. That's what we do. The people that are on the stage are our creators."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 931.385,
+      "end": 933.645,
+      "transcript": "And so we have to create"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 934.025,
+      "end": 935.405,
+      "transcript": "the tools and capabilities"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 936.185,
+      "end": 943.085,
+      "transcript": "that make them shine the best possible stage and make viewers really wanna keep coming back to that theater."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 943.62,
+      "end": 947.56,
+      "transcript": "And I think that's the best really the best way to describe,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 948.1,
+      "end": 950.76,
+      "transcript": "what YouTube is and and what YouTube does. So"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 951.14,
+      "end": 952.12,
+      "transcript": "build the technology,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 952.5,
+      "end": 954.52,
+      "transcript": "and then, frankly, get out of the way."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 955.22003,
+      "end": 961.95496,
+      "transcript": "So is YouTube the show director which picks which show goes on at what time, or are you somebody who built the theater?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 962.495,
+      "end": 965.77496,
+      "transcript": "We are really someone who built the theater. Right. We don't,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 967.45496,
+      "end": 974.36,
+      "transcript": "I don't tell you when to post or what you should say. Mhmm. You have exercised that creative control. Back to your point on podcasters,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 975.54004,
+      "end": 978.28,
+      "transcript": "multiple podcasters will tell me that they have"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 978.82,
+      "end": 985.8,
+      "transcript": "they've had more creative and editorial control by taking their destiny into their own hands than they ever had in sort of any other,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 986.625,
+      "end": 988.645,
+      "transcript": "type of their profession in the past. And"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 989.025,
+      "end": 991.60504,
+      "transcript": "that's what YouTube is. You get to decide those things."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 991.98505,
+      "end": 1000.325,
+      "transcript": "What I need to do for you is to give you the technology that allows you to match with your audience, not just, you know, the person who subscribes to your channel,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1001.09,
+      "end": 1004.79004,
+      "transcript": "but, you know, who but who might be who who else might be interested in it."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1005.25,
+      "end": 1006.55005,
+      "transcript": "You know, you produce,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1007.33,
+      "end": 1008.71,
+      "transcript": "content and have conversations"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1009.73004,
+      "end": 1016.435,
+      "transcript": "that might be interesting to an English listener, somebody who understands English. But of course, this conversation"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1017.135,
+      "end": 1022.435,
+      "transcript": "might, apply to somebody speaking Spanish or Portuguese or Tamil or Bengali."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1023.055,
+      "end": 1023.795,
+      "transcript": "And so"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1024.255,
+      "end": 1027.715,
+      "transcript": "I should provide you the technology so you choose if you choose"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1028.26,
+      "end": 1040.52,
+      "transcript": "to how to allow for this conversation to happen in all those languages, as an example. So that's what I mean by, like, we build a theater, we kinda build the rooms in the theater, we build the stage, we build the seats, but you're the one who's on the stage."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1041.5651,
+      "end": 1043.505,
+      "transcript": "So, Neil, I'm 38 years old."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1044.045,
+      "end": 1046.7051,
+      "transcript": "I have grown up in India, largely in Bangalore."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1048.2051,
+      "end": 1051.8251,
+      "transcript": "So my relationship with content went from watching"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1052.685,
+      "end": 1053.905,
+      "transcript": "Hindi TV serials"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1054.5599,
+      "end": 1058.2599,
+      "transcript": "growing up on TV, on traditional broadcast TV,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1060.5599,
+      "end": 1062.82,
+      "transcript": "to cricket and then maybe"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1063.2799,
+      "end": 1067.2999,
+      "transcript": "getting my first personal device or a medium to consume content"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1068.115,
+      "end": 1070.455,
+      "transcript": "when I was 16 or 17 years old,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1073.235,
+      "end": 1077.575,
+      "transcript": "to where I sit today and, you know, the movie theater going experience, all of that followed."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1078.4349,
+      "end": 1080.5349,
+      "transcript": "Where I sit today, I'm trying to predict"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1080.835,
+      "end": 1085.41,
+      "transcript": "where Nikhil, the 48 year old, will be, What content will he be consuming?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1086.03,
+      "end": 1087.09,
+      "transcript": "On what medium?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1088.03,
+      "end": 1089.65,
+      "transcript": "Can you throw some light on that?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1090.35,
+      "end": 1091.97,
+      "transcript": "Yeah. I would say"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1092.35,
+      "end": 1095.01,
+      "transcript": "a few things might be different in"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1095.31,
+      "end": 1096.05,
+      "transcript": "ten years."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1096.995,
+      "end": 1098.615,
+      "transcript": "First, I would say that"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1099.555,
+      "end": 1100.855,
+      "transcript": "everything we've talked about,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1101.555,
+      "end": 1103.955,
+      "transcript": "I still think that we're in the early innings of."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1104.355,
+      "end": 1116.2101,
+      "transcript": "Meaning that the growth of content in general, but, you know, YouTube content is gonna only continue to grow on screens like the living room. We're just getting started there. I would say that probably the biggest"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1116.91,
+      "end": 1127.325,
+      "transcript": "early stage sort of phenomenon that I see that I'm very excited about, and actually a lot of it is being driven by what's happening here in India, is just this whole idea of, like, creator led content production."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1127.705,
+      "end": 1136.205,
+      "transcript": "So it's like, you know, creators are the startups of Hollywood. And I mean Hollywood, I mean Bollywood, I mean kind of just whatever. Pick your metaphor there."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1136.985,
+      "end": 1141.99,
+      "transcript": "And just like startups keep an industry vibrant, just like in Silicon Valley,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1142.4501,
+      "end": 1143.99,
+      "transcript": "creators do the same thing,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1144.53,
+      "end": 1147.99,
+      "transcript": "when it comes to the production of content. So in ten years,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1148.61,
+      "end": 1149.11,
+      "transcript": "this"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1149.41,
+      "end": 1161.425,
+      "transcript": "relatively new phenomenon, which, you know, I'm cons consider, at least for young people, is pretty mainstream, but I think for the general population, it's not quite there yet, I think is gonna be pretty mainstream. You know, when I go visit,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1163.3251,
+      "end": 1164.545,
+      "transcript": "Burbank in California,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1165.2101,
+      "end": 1170.03,
+      "transcript": "right down the street from the largest studio in the world, 100 year old studio, Disney,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1170.81,
+      "end": 1174.1901,
+      "transcript": "there are all of these startup studios led by"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1174.5701,
+      "end": 1177.7101,
+      "transcript": "creators like Rhett and Link, Alan Chicken Chow, etcetera."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1178.105,
+      "end": 1186.125,
+      "transcript": "10,000 square foot foot studios where they're producing amazing content. It's done differently. It's done in a very YouTube style. It's done with their personalities."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1186.905,
+      "end": 1199.44,
+      "transcript": "But they're doing, you know, kind of roughly what big studios were doing before. They're just doing it in a different sort of scale, different budgets, etcetera. So I think that's gonna be a really big phenomenon. I think the other one that's very exciting is,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1199.9199,
+      "end": 1203.62,
+      "transcript": "you know, the advent of AI and what AI will be able to do for creativity."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1204.32,
+      "end": 1205.7,
+      "transcript": "My view is that it's"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1206.125,
+      "end": 1212.305,
+      "transcript": "really going to be a tool that enhances human creativity, never replacing it. We can talk more about that."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1212.6051,
+      "end": 1215.745,
+      "transcript": "I think, again, you know, you gave the example from sort of"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1216.4451,
+      "end": 1223.99,
+      "transcript": "you growing up and sort of how these various things sort of came into play for you. I think if you think about it through the lens of young people today,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1224.29,
+      "end": 1225.99,
+      "transcript": "the things that they take for granted,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1226.77,
+      "end": 1233.99,
+      "transcript": "were things that and I'm a little bit older than you, so I had to discover this even even later in my life. They just they just have been"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1234.575,
+      "end": 1239.375,
+      "transcript": "having that experience from from day one. And so I think, you know, one of the things that,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1240.335,
+      "end": 1243.635,
+      "transcript": "people shouldn't forget when it comes to the content world is, like,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1244.095,
+      "end": 1249.39,
+      "transcript": "ultimately, consumers really are in charge. They really vote with their time and their engagement."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1250.33,
+      "end": 1252.03,
+      "transcript": "And today, a young person,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1254.01,
+      "end": 1255.07,
+      "transcript": "almost expects"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1255.77,
+      "end": 1262.59,
+      "transcript": "all of their favorite content to really be in one place. Everything from a fifteen second short to a fifteen"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1263.0851,
+      "end": 1266.9451,
+      "transcript": "minute vlog to an hour long podcast, fifteen hour gaming livestream"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1267.4851,
+      "end": 1271.905,
+      "transcript": "and four hour NFL game, you know, three hour cricket game, they expect it to be"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1272.685,
+      "end": 1282.52,
+      "transcript": "in one place and be able to consume that on whatever surface and device that they want. And so that sort of like plethora of consumer choice ten years from now is gonna be"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1282.8201,
+      "end": 1290.68,
+      "transcript": "even more dramatic than it is today because those young people have had that expectation since day one. So building on that last thought,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1292.0449,
+      "end": 1296.225,
+      "transcript": "in the future, if you're competing with, say, Netflix for mindshare,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1296.6849,
+      "end": 1303.345,
+      "transcript": "will you become more like Netflix, or will Netflix become more like YouTube? I mean, it's it's I I think that our"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1303.965,
+      "end": 1305.505,
+      "transcript": "approach is going to be"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1306.29,
+      "end": 1307.03,
+      "transcript": "the approach"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1307.41,
+      "end": 1310.31,
+      "transcript": "that you've seen on YouTube. You should expect that same approach,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1311.3301,
+      "end": 1319.8301,
+      "transcript": "going into the future. Like I said, we produce the stage. We will be the leaders when it comes to technology, whether it's our investment in AI, in the algorithm,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1320.5549,
+      "end": 1322.975,
+      "transcript": "in terms of how the product looks and feels,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1323.595,
+      "end": 1324.335,
+      "transcript": "all the,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1324.875,
+      "end": 1331.0549,
+      "transcript": "bells and whistles we build for creators. You should expect us to continue to do that, but it's gonna be our creators that actually determine"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1331.5149,
+      "end": 1333.9349,
+      "transcript": "that sort of creative journey, where it goes."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1334.35,
+      "end": 1336.69,
+      "transcript": "And I like that because our creators"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1337.3899,
+      "end": 1340.1299,
+      "transcript": "are infinitely creative. There are,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1341.23,
+      "end": 1344.2899,
+      "transcript": "you know, a 100,000,000 creators in India uploaded videos"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1344.6699,
+      "end": 1346.83,
+      "transcript": "on YouTube. We have 15,000"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1346.83,
+      "end": 1347.33,
+      "transcript": "creators"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1347.7899,
+      "end": 1351.9349,
+      "transcript": "in India, over a million subs. When I was here last, just a few months ago,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1352.315,
+      "end": 1354.095,
+      "transcript": "that number was, I think, 11,000."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1354.155,
+      "end": 1358.255,
+      "transcript": "When I first started at YouTube, like, ten years ago, that number was, like, four or five."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1358.635,
+      "end": 1363.0549,
+      "transcript": "So just this proliferation of amazing content, amazing creativity"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1363.83,
+      "end": 1370.09,
+      "transcript": "is what, you know, is what YouTube is today, and that's what you should expect it to be five, ten years from now too."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1370.47,
+      "end": 1372.8099,
+      "transcript": "For content like Hollywood and Bollywood,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1373.51,
+      "end": 1378.4099,
+      "transcript": "I've had this conversation with a friend of mine who was recently putting out a movie."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1379.6449,
+      "end": 1382.465,
+      "transcript": "I know he did consider putting it on YouTube"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1383.0049,
+      "end": 1384.7849,
+      "transcript": "straight up and charging a fee,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1385.325,
+      "end": 1386.945,
+      "transcript": "a smaller fee, albeit."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1388.0449,
+      "end": 1390.065,
+      "transcript": "But then comes in the concern of"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1390.7649,
+      "end": 1391.2649,
+      "transcript": "piracy"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1391.565,
+      "end": 1394.865,
+      "transcript": "if he were not to go the theater or the multiplex route."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1395.1699,
+      "end": 1403.27,
+      "transcript": "Do you have any thoughts about that? If I'm a filmmaker Mhmm. And I don't go to a multiplex or a theater, and I come to YouTube, and I release a movie there,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1404.5299,
+      "end": 1405.59,
+      "transcript": "how do you prevent"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1405.89,
+      "end": 1408.63,
+      "transcript": "somebody from copying it and republishing it?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1410.645,
+      "end": 1411.385,
+      "transcript": "We have,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1413.845,
+      "end": 1415.465,
+      "transcript": "for a long time invested"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1415.845,
+      "end": 1422.1849,
+      "transcript": "very heavily in the DRM tools that that that try to prevent that from happening. Now if somebody is,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1423.25,
+      "end": 1429.6699,
+      "transcript": "screen grabbing and screen daping in a particular way, it's it's really hard. And there's two aspects, obviously, of piracy."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1430.0499,
+      "end": 1436.71,
+      "transcript": "By the way, I might be able to guess who this friend of yours is because I've heard this feedback directly from from him. So,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1437.8151,
+      "end": 1441.595,
+      "transcript": "I watched the movie. Yeah? Yeah. It looks amazing. Yes. Yes."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1443.655,
+      "end": 1452.795,
+      "transcript": "There's two aspects to piracy. One is the actual act of creating that copy, and as I said, things like DRM and what we do to sort of prevent against that"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1453.3701,
+      "end": 1458.43,
+      "transcript": "at least create enough friction where it's not trivial to do. And then the other aspect, of course,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1458.9701,
+      "end": 1475.775,
+      "transcript": "is the distribution piece because, like, piracy is ultimately for viewership. And if you can kind of choke that piece off, then that's sort of getting at one of the other use cases. And that's where, you know, the fact that lots of content is ultimately distributed on YouTube, we have that choke point around that type of,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1476.875,
+      "end": 1477.375,
+      "transcript": "content"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1477.755,
+      "end": 1483.88,
+      "transcript": "in conjunction with our policy. So it's a twofold approach. It's never perfect from that standpoint, but I think,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1484.66,
+      "end": 1485.8,
+      "transcript": "history has shown"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1486.18,
+      "end": 1490.04,
+      "transcript": "that we have a pretty good handle in terms of that type of content"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1490.42,
+      "end": 1492.12,
+      "transcript": "never running rampant on YouTube."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1492.965,
+      "end": 1496.265,
+      "transcript": "So my audience, Neil, are largely young,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1496.8049,
+      "end": 1498.345,
+      "transcript": "Indian wannabe entrepreneurs."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1498.645,
+      "end": 1499.145,
+      "transcript": "Mhmm."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1500.245,
+      "end": 1501.465,
+      "transcript": "The line between"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1502.165,
+      "end": 1502.985,
+      "transcript": "a influencer"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1503.285,
+      "end": 1505.385,
+      "transcript": "and somebody who wants to start a business"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1505.87,
+      "end": 1509.0901,
+      "transcript": "is fading in India Mhmm. Like it is elsewhere in the world."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1510.91,
+      "end": 1517.89,
+      "transcript": "A lot of my people believe that to sell anything, you need to build influence first, either on YouTube or other social media,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1518.51,
+      "end": 1521.17,
+      "transcript": "and then you build a product on top of that influence."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1522.3251,
+      "end": 1522.8251,
+      "transcript": "Now"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1523.685,
+      "end": 1524.345,
+      "transcript": "to them,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1524.805,
+      "end": 1526.665,
+      "transcript": "if me at 38"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1527.045,
+      "end": 1530.425,
+      "transcript": "let's say today I spend 30% of my time on YouTube,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1531.205,
+      "end": 1541.12,
+      "transcript": "30% of my my free time on YouTube, 30% of my free time on social media, and the balance on broadcast news and the other platforms and Netflix and everything,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1542.38,
+      "end": 1543.68,
+      "transcript": "where should these people"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1544.3,
+      "end": 1548.48,
+      "transcript": "focus on building? Say, somebody wants to start a t shirt brand. Mhmm."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1548.78,
+      "end": 1550.72,
+      "transcript": "Where should he build influence today?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1551.165,
+      "end": 1554.145,
+      "transcript": "And give me some tips for him to build influence there today."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1554.685,
+      "end": 1559.265,
+      "transcript": "Yeah. So I think the first thing that I would say is I wouldn't I wouldn't describe"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1561.0851,
+      "end": 1565.79,
+      "transcript": "if that's your sole goal, then I would I would think about YouTube a a bit differently. Mhmm."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1566.3301,
+      "end": 1568.8301,
+      "transcript": "The way I think about YouTube is it's really"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1569.37,
+      "end": 1578.03,
+      "transcript": "the home for creators. And I use that term creator specifically as opposed to influencer or what have you. Because the primary purpose"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1578.345,
+      "end": 1581.005,
+      "transcript": "of your presence and investment on YouTube"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1581.5449,
+      "end": 1582.365,
+      "transcript": "has to be,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1582.985,
+      "end": 1585.645,
+      "transcript": "the act of creation. About having an idea,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1586.825,
+      "end": 1592.765,
+      "transcript": "whatever the topic, have it, whether it's funny, whether it's sports, whether it's business, and sharing it. So"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1593.49,
+      "end": 1597.9099,
+      "transcript": "that's if if that's not really fundamentally the goal, then I think it becomes"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1598.45,
+      "end": 1604.7899,
+      "transcript": "a bit harder on YouTube. Now having said that, if that is a goal, then what I hear over and over from YouTubers,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1605.25,
+      "end": 1608.1499,
+      "transcript": "you know, here in Mumbai, but really all over the world,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1608.5449,
+      "end": 1612.085,
+      "transcript": "is that YouTube is their home. Because it is a place where"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1612.625,
+      "end": 1613.125,
+      "transcript": "they,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1615.025,
+      "end": 1620.485,
+      "transcript": "have that connection to their audience in a way that is deeper and more authentic than they can get anywhere else."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1621.1599,
+      "end": 1623.1,
+      "transcript": "And so they keep coming back to that."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1624.2799,
+      "end": 1624.94,
+      "transcript": "You know,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1625.32,
+      "end": 1635.26,
+      "transcript": "Jimmy Donaldson, Mr. Beast has these five pillars of focus in his studio, in his office. Mhmm. The very first one is YouTube first, because he knows that"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1635.675,
+      "end": 1637.135,
+      "transcript": "everything that he has derived,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1637.8351,
+      "end": 1640.0951,
+      "transcript": "has come from that investment on YouTube."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1640.4751,
+      "end": 1644.015,
+      "transcript": "And so, if you do that, but do it through a creator mindset,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1644.635,
+      "end": 1647.6951,
+      "transcript": "then I think it affords you a world of opportunities,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1648.54,
+      "end": 1649.04,
+      "transcript": "Because"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1649.5,
+      "end": 1651.6,
+      "transcript": "then you can use that home base"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1651.98,
+      "end": 1662.16,
+      "transcript": "to build audiences elsewhere or drive those audiences back. But more importantly, to build all kinds of other businesses. There's, of course, how you monetize content on YouTube through"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1662.525,
+      "end": 1664.865,
+      "transcript": "advertising or a cut of the SVOD revenues."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1665.725,
+      "end": 1672.145,
+      "transcript": "But what's really interesting about YouTube is that if you wanna write a book or if you have a clothing line or if you have,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1673.0851,
+      "end": 1677.745,
+      "transcript": "some other product that you're very excited about, YouTube can be the home base by which you build"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1678.14,
+      "end": 1679.36,
+      "transcript": "all of those businesses"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1679.9,
+      "end": 1681.76,
+      "transcript": "over and over. And I see that,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1682.86,
+      "end": 1684.48,
+      "transcript": "happen with our top creators,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1685.26,
+      "end": 1687.68,
+      "transcript": "you know, the Mr. Beast of the world, but really,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1689.02,
+      "end": 1691.12,
+      "transcript": "you know, millions of our creators,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1691.5801,
+      "end": 1692.8,
+      "transcript": "over over time."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1693.225,
+      "end": 1703.885,
+      "transcript": "What am I kind of a long answer, but that's really but I think that's important because it's not a place that's a fly by night place. If you were to replace the influencer in my question to content creator Mhmm."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1704.9049,
+      "end": 1707.245,
+      "transcript": "Say me, Nikhil, wants to sell t shirts."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1708.8501,
+      "end": 1714.0701,
+      "transcript": "I need to create some kind of content before I can go about selling my t shirts so I have somebody"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1714.6901,
+      "end": 1720.63,
+      "transcript": "watching my content where I can market this t shirt. Mhmm. What will work today? What I'm asking you is,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1721.1649,
+      "end": 1723.0249,
+      "transcript": "in a very euphemized manner,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1723.565,
+      "end": 1740.57,
+      "transcript": "what is the YouTube algorithm to a layman like me? Yeah. And what can I do today to succeed on it? Success in my definition in this particular subject would be the number of views and distribution I get. Yeah. I would say that what what the most important advice that I give to"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1740.87,
+      "end": 1746.89,
+      "transcript": "two pieces of advice that I give to somebody thinking about building a career on YouTube. The first is,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1748.525,
+      "end": 1749.745,
+      "transcript": "really think hard"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1750.125,
+      "end": 1764.54,
+      "transcript": "about what type of content you're passionate about. So if it happens to be t shirts or something related to it No. I wanna sell t shirts. I know. I want you to tell me content. Yes. But I don't I think that if your only goal in life is to sell t shirts,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1765.3201,
+      "end": 1765.8201,
+      "transcript": "then"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1766.3601,
+      "end": 1771.875,
+      "transcript": "you better also really care and have passion around creating content. It shouldn't be a means to an end. Right."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1772.355,
+      "end": 1774.775,
+      "transcript": "So that that's what I meant by home of creators,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1775.555,
+      "end": 1776.055,
+      "transcript": "because,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1777.635,
+      "end": 1786.775,
+      "transcript": "if you don't have passion around that, you're not gonna be your authentic self, and fans will figure that out very, very quickly, and you're not gonna build a fan base."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1787.13,
+      "end": 1793.79,
+      "transcript": "And so the first and most important thing that I would say is think hard about what you are really, really excited about."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1795.13,
+      "end": 1796.27,
+      "transcript": "You know, we work with"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1797.21,
+      "end": 1799.87,
+      "transcript": "all kinds of, you know, athletes on our platform,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1800.25,
+      "end": 1800.75,
+      "transcript": "and"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1802.255,
+      "end": 1804.595,
+      "transcript": "it comes through really, really quickly"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1804.975,
+      "end": 1808.4349,
+      "transcript": "when they're talking about something that they're really excited about"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1808.735,
+      "end": 1817.62,
+      "transcript": "versus not. Right? Like, it's not just about throwing up a piece of content. And that's super, super important because, like, the power of YouTube is that it's not just an algorithm"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1818.16,
+      "end": 1827.14,
+      "transcript": "of your favorite meme of the week or favorite, you know, what have you. It is about your face, your you as the creator, and you built that because you talk about something authentically"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1827.4401,
+      "end": 1828.58,
+      "transcript": "Mhmm. That your fans,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1829.265,
+      "end": 1835.045,
+      "transcript": "understand. That's really the most important thing. And I say that over and over. That's the difference between somebody who's"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1835.3451,
+      "end": 1839.2051,
+      "transcript": "who stops doing it after a few months and that really continues. The second,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1839.985,
+      "end": 1842.3251,
+      "transcript": "you know, YouTube can be a bit of a slow burn."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1843.025,
+      "end": 1843.765,
+      "transcript": "And so"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1844.2001,
+      "end": 1849.8201,
+      "transcript": "if you are passionate about something, care deeply about it, give it time because you want to,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1851.4,
+      "end": 1854.06,
+      "transcript": "set expectations with your audience about"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1855.0801,
+      "end": 1867.265,
+      "transcript": "what you're going to talk about, what's your content going to be about, what are you going to do, and how you're gonna go about doing it. And that builds over time. And that builds in terms of followerships, but it actually also builds in terms of,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1867.725,
+      "end": 1871.9049,
+      "transcript": "you know, the algorithm because the algorithm is just a reflection of the audience."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1872.59,
+      "end": 1874.77,
+      "transcript": "So those are the two most important things."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1875.87,
+      "end": 1879.3301,
+      "transcript": "A really smart person once said about passion"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1880.43,
+      "end": 1884.53,
+      "transcript": "that the passion about something goes away when you truly understand something."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1885.79,
+      "end": 1886.59,
+      "transcript": "Do you think"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1887.735,
+      "end": 1893.835,
+      "transcript": "what is passion to you? Because the answer to my question, you said, you know, you should build around what you're passionate about."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1894.135,
+      "end": 1895.835,
+      "transcript": "What is the definition of passion?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1897.175,
+      "end": 1897.675,
+      "transcript": "Oh,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1898.695,
+      "end": 1900.215,
+      "transcript": "well, I think it is,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1902.45,
+      "end": 1902.95,
+      "transcript": "something"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1903.33,
+      "end": 1904.47,
+      "transcript": "that you have,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1907.41,
+      "end": 1908.87,
+      "transcript": "such deep and abiding"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1910.77,
+      "end": 1918.975,
+      "transcript": "interest in that you would just keep doing it if it wasn't for all of these other goals as well. Is there anything like that, Neil? Would you do something if"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1919.6749,
+      "end": 1921.615,
+      "transcript": "what is what is that for you?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1923.115,
+      "end": 1925.215,
+      "transcript": "You know, my background is I"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1925.57,
+      "end": 1932.23,
+      "transcript": "am a technologist by training. I've been interested in, you know, let's say passionate about technology since I was a really young kid."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1933.17,
+      "end": 1935.99,
+      "transcript": "I went to high school in Lucknow. I had a little,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1936.69,
+      "end": 1945.915,
+      "transcript": "software startup back in the day building software for for for other high school kids and teachers, and so I've always had a deep and abiding interest in technology."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1946.615,
+      "end": 1947.8351,
+      "transcript": "But I have also,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1948.295,
+      "end": 1950.395,
+      "transcript": "from a very, very early days,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1952.055,
+      "end": 1955.915,
+      "transcript": "for lack of a better term, been a media junkie. Like, I love"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1956.65,
+      "end": 1960.35,
+      "transcript": "stories in the general in the broadest sense of the term."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1960.65,
+      "end": 1964.0299,
+      "transcript": "Movies, music, sports. I'm a sports nut. Mhmm."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1964.4099,
+      "end": 1965.39,
+      "transcript": "Those are, like,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1966.1699,
+      "end": 1971.925,
+      "transcript": "two abiding passions I've had since I could like, I was, you know, probably five or six years old."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1972.305,
+      "end": 1977.765,
+      "transcript": "And But you're you're talking about consuming something. I'm talking about Yeah. But consuming something. Practicing something?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1978.785,
+      "end": 1979.665,
+      "transcript": "Well, I,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1980.4651,
+      "end": 1984.32,
+      "transcript": "I mean, I do try to practice those things. I'm not very good at them. So that's,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1985.2,
+      "end": 1989.1399,
+      "transcript": "in terms of my my my love of sports. But I'm highlighting it because,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 1990.0,
+      "end": 2001.005,
+      "transcript": "those are areas of of passion of mine, and the way that I practice them is what I do every day. I think that YouTube is one of the few places that combines both those passions that I have,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2001.725,
+      "end": 2005.025,
+      "transcript": "both technology as well as media. And so,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2005.3251,
+      "end": 2010.225,
+      "transcript": "you know, did I stumble upon this? Probably. Like, I got lucky that I was given"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2010.685,
+      "end": 2012.785,
+      "transcript": "this opportunity, but those really are"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2013.14,
+      "end": 2014.92,
+      "transcript": "a place where I get to"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2015.9401,
+      "end": 2017.0,
+      "transcript": "work on technology"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2017.3,
+      "end": 2020.2001,
+      "transcript": "in service of, like, the thing that I really love."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2021.14,
+      "end": 2024.6101,
+      "transcript": "The more I think about passion and talent Mhmm. Neil,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2026.455,
+      "end": 2031.755,
+      "transcript": "in my life, it's starting to sound to me more as an output than as an input."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2033.015,
+      "end": 2040.075,
+      "transcript": "I believe I'm passionate or talented at something when I do something and I'm a little bit better at it than my peer group."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2041.91,
+      "end": 2043.93,
+      "transcript": "I was having this conversation with someone."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2044.55,
+      "end": 2046.41,
+      "transcript": "If I believed that I was"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2046.95,
+      "end": 2048.57,
+      "transcript": "passionate about playing cricket,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2048.95,
+      "end": 2056.01,
+      "transcript": "and I played cricket for ten years, trained really hard, and sucked at it Mhmm. I don't think I would be passionate about cricket."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2057.2449,
+      "end": 2061.665,
+      "transcript": "So passion is almost an output. Talent is almost an output,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2062.445,
+      "end": 2069.425,
+      "transcript": "less so an input to me today. Do you think you were good at technology, and, hence, you felt like you could be passionate about it?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2069.965,
+      "end": 2070.705,
+      "transcript": "It's interesting."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2071.05,
+      "end": 2073.31,
+      "transcript": "I mean, I think what you're describing is"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2073.69,
+      "end": 2077.55,
+      "transcript": "kind of like almost a flywheel or chicken and egg type of a thing."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2080.1702,
+      "end": 2082.03,
+      "transcript": "I have always been passionate about"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2082.57,
+      "end": 2084.59,
+      "transcript": "sports, for example. Right? I played"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2084.9348,
+      "end": 2087.275,
+      "transcript": "little league, I played soccer, I played cricket."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2088.615,
+      "end": 2097.835,
+      "transcript": "I was never good enough to But were you good? Were you better than the people you played with? I was okay. But I but I but that interest still continues today. I love"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2098.1902,
+      "end": 2104.77,
+      "transcript": "playing basketball with myself. Are you generally a modest pers like, I was asking your team earlier. They said you're a quiet person."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2105.87,
+      "end": 2112.1301,
+      "transcript": "I am I tend to be a quiet person. Yes. That's probably how my wife would describe me. You seem more like a"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2113.525,
+      "end": 2116.025,
+      "transcript": "euphemism versus embellishment kind of person."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2116.325,
+      "end": 2122.425,
+      "transcript": "My wife calls me Even Keel Neal. So that's, that is, I think a pretty apt description. So you're not very emotive?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2123.445,
+      "end": 2124.985,
+      "transcript": "I can I can be emotive?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2125.56,
+      "end": 2131.02,
+      "transcript": "I mean, my kids would say that I can be emotive sometimes, but, I'm I'm pretty even keeled in terms of my"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2131.8,
+      "end": 2136.22,
+      "transcript": "day to day, in terms of how I go about myself, and I think part of it has to do with,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2136.76,
+      "end": 2137.74,
+      "transcript": "I think, perspective."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2139.4648,
+      "end": 2140.345,
+      "transcript": "I think that,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2141.1448,
+      "end": 2144.9248,
+      "transcript": "whether there's challenges that you face in your work life"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2145.2249,
+      "end": 2147.4048,
+      "transcript": "or even in your personal life, they"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2147.785,
+      "end": 2149.2449,
+      "transcript": "can be very, very hard,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2149.545,
+      "end": 2150.045,
+      "transcript": "but,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2151.91,
+      "end": 2158.01,
+      "transcript": "you know, keeping things in perspective is really oftentimes the best way to to get through them. Is that good for work?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2159.03,
+      "end": 2160.33,
+      "transcript": "I think that it is"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2161.19,
+      "end": 2164.09,
+      "transcript": "good for work. I mean, I think the things that are really important,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2165.315,
+      "end": 2166.9348,
+      "transcript": "in my job leading YouTube"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2167.3948,
+      "end": 2168.535,
+      "transcript": "is actually having"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2168.9949,
+      "end": 2170.535,
+      "transcript": "a level head to be"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2170.9148,
+      "end": 2179.46,
+      "transcript": "Mhmm. Because that allows for, I think, sort of the most well considered judgment around things. I always say that, you know, by the time a decision comes up to me,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2180.6401,
+      "end": 2184.9001,
+      "transcript": "it's usually a decision between two bad choices, because if it was"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2185.6,
+      "end": 2187.46,
+      "transcript": "easier, then it would have been made"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2187.76,
+      "end": 2189.94,
+      "transcript": "several levels below me in the organization."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2190.635,
+      "end": 2194.335,
+      "transcript": "And so if that's the nature of the types of decisions I have to make,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2195.035,
+      "end": 2198.175,
+      "transcript": "I'd rather make them with a level head, a cool head."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2198.635,
+      "end": 2203.6948,
+      "transcript": "I'd also like to make them with principles that I've hopefully thought about well ahead of time,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2204.155,
+      "end": 2206.175,
+      "transcript": "especially when it comes to difficult tradeoffs."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2207.3699,
+      "end": 2209.93,
+      "transcript": "So, yeah, I think it is a useful skill,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2210.25,
+      "end": 2211.5498,
+      "transcript": "in my professional life."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2212.25,
+      "end": 2214.27,
+      "transcript": "You mentioned Lucknow just now."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2214.8098,
+      "end": 2217.15,
+      "transcript": "You were born in the West in The US,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2217.77,
+      "end": 2222.345,
+      "transcript": "came back for high school, and then went back. And I read that your"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2222.645,
+      "end": 2226.745,
+      "transcript": "father was from IIT who went to The US to do his PhD. Mhmm."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2227.365,
+      "end": 2230.745,
+      "transcript": "The one thing that stood out to me is you grew up on things like"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2231.365,
+      "end": 2231.865,
+      "transcript": "transformers"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2232.325,
+      "end": 2233.065,
+      "transcript": "and baseball"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2233.365,
+      "end": 2234.5051,
+      "transcript": "and star wars."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2235.27,
+      "end": 2237.1301,
+      "transcript": "So even though you look like me,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2237.99,
+      "end": 2238.97,
+      "transcript": "you're not really"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2240.3901,
+      "end": 2243.61,
+      "transcript": "somebody who grew up on the same diet of content as me."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2245.03,
+      "end": 2249.175,
+      "transcript": "You know what I would say about that, though, Nikhil? Probably the biggest reason for that is,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2249.575,
+      "end": 2251.0352,
+      "transcript": "because you're younger than me."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2251.495,
+      "end": 2264.555,
+      "transcript": "No, seriously. Like, I do think that I'm 51, so that that does that does make a bit of a difference. Mhmm. But you know, it's interesting. Like I so I like you said, I went to high school in in Lucknow. My dad Mhmm. I was born in in,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2265.7898,
+      "end": 2271.01,
+      "transcript": "in Indiana. My dad was getting his PhD, so when my parents were were grad students was when I was born,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2271.39,
+      "end": 2271.89,
+      "transcript": "and,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2272.67,
+      "end": 2278.21,
+      "transcript": "came back here for for high school. And, yes, you know, that was a part of the diet that I grew up on,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2278.8052,
+      "end": 2279.705,
+      "transcript": "You know, Transformers"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2280.0852,
+      "end": 2283.0652,
+      "transcript": "and, you know, Star Wars and and all of that."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2284.0051,
+      "end": 2289.625,
+      "transcript": "But I'd say a couple of things. Even back then, and now we're I'm really dating myself, so, like, we're talking, like, mid eighties."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2291.22,
+      "end": 2294.52,
+      "transcript": "A lot of those things had spilled over to my friends here,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2295.6199,
+      "end": 2296.76,
+      "transcript": "but I would say,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2298.58,
+      "end": 2299.24,
+      "transcript": "not Particularly."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2300.34,
+      "end": 2306.2,
+      "transcript": "A little bit. A little bit. But the other the other thing though is, like, you know, back to what we were talking about, like,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2308.065,
+      "end": 2310.565,
+      "transcript": "these were specific types of interests,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2310.945,
+      "end": 2326.89,
+      "transcript": "but I think that if you broadened it out, you like, I fell in love with cricket, for example, right away. And Mhmm. Why? Because I I liked all kinds of sports. And so whether it was baseball or basketball growing up or cricket when I was in high school, like, the nature of the competition,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2328.15,
+      "end": 2330.65,
+      "transcript": "the nature of sort of teamwork and how those things"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2330.95,
+      "end": 2339.595,
+      "transcript": "happened, like, that was, like, really natural for me and and also just lots of ways to have relationships and conversations with people."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2340.455,
+      "end": 2342.955,
+      "transcript": "You know, I loved a particular set of movies,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2343.975,
+      "end": 2345.915,
+      "transcript": "but then, you know, I,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2346.695,
+      "end": 2348.395,
+      "transcript": "remember watching what was"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2348.92,
+      "end": 2351.58,
+      "transcript": "popular here. And actually, you know, back to back to media,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2351.96,
+      "end": 2353.66,
+      "transcript": "that was right around the time"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2354.2,
+      "end": 2370.285,
+      "transcript": "that the media landscape here started to change dramatically too, which was there was, of course, Bollywood, and then, you know, what T Series represented in Bollywood, but it was also the advent of things like Star. So that was like a precursor to a lot of what we're talking about today in terms of just"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2370.745,
+      "end": 2371.245,
+      "transcript": "changing"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2372.105,
+      "end": 2373.325,
+      "transcript": "the media diet"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2373.705,
+      "end": 2376.685,
+      "transcript": "through lots of choice, for example. Right? And so"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2377.1,
+      "end": 2378.96,
+      "transcript": "that was a big sort of, I think,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2379.5,
+      "end": 2384.4,
+      "transcript": "foundational thing for me when I was a kid. And I I think, you know, again, people always find"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2384.78,
+      "end": 2387.52,
+      "transcript": "these sorts of threads, like, in retrospect,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2388.46,
+      "end": 2394.105,
+      "transcript": "to kind of sort of justify what they've done in the rest of their careers. But I do think that, like, that early,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2394.645,
+      "end": 2404.185,
+      "transcript": "especially in those formative years of just falling in love with all these different types of media and storytelling was an important part of my childhood that I sort of carried through. Because,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2404.5698,
+      "end": 2406.99,
+      "transcript": "you know, it was one of those things where,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2407.8499,
+      "end": 2415.7898,
+      "transcript": "growing up, in The US, like, I love baseball, I love I love, you know, Transformers, etcetera, and then coming here"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2416.25,
+      "end": 2425.645,
+      "transcript": "where, you know, I sounded funny, like I didn't have sort of, like, those immediate things to connect with people on, but finding some of these common ground types of things,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2426.105,
+      "end": 2428.445,
+      "transcript": "like sports, like music, etcetera,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2429.065,
+      "end": 2430.365,
+      "transcript": "was, like, really formative"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2430.8,
+      "end": 2437.54,
+      "transcript": "for me, and I do think that that's probably back to your sort of passion or interest. Like, that's carried forward,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2438.72,
+      "end": 2441.54,
+      "transcript": "in the rest of my career because I do think that, like,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2442.48,
+      "end": 2445.38,
+      "transcript": "the one of the foundational things is we as human beings,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2446.235,
+      "end": 2449.375,
+      "transcript": "are storytellers. Like, the way we connect with each other is, like,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2450.315,
+      "end": 2456.575,
+      "transcript": "telling stories. Like, I'll remember an anecdote about you in this conversation, and you'll likely do that about me. What do you mean?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2457.2751,
+      "end": 2464.89,
+      "transcript": "Well, I'll remember the the stories. Yeah. Well, the story you walked through in terms of your own media diet evolution. Like Right. Obviously, I know"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2465.43,
+      "end": 2473.91,
+      "transcript": "your bio, your enormous success professionally, but, like, that was an interesting anecdote that you told me that was, like, true to who you are. Right? And so"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2474.625,
+      "end": 2476.485,
+      "transcript": "You've been wealthy a long time."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2477.985,
+      "end": 2482.785,
+      "transcript": "I remember reading this thing about Google offering you a $100,000,000"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2482.785,
+      "end": 2484.565,
+      "transcript": "not to quit, not today,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2484.865,
+      "end": 2486.325,
+      "transcript": "but fifteen years ago,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2486.785,
+      "end": 2488.165,
+      "transcript": "which was a lot of money."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2491.27,
+      "end": 2496.3298,
+      "transcript": "What is it I like that you're waiting for the question at this point and not reacting."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2498.23,
+      "end": 2500.01,
+      "transcript": "I wanna see where you're gonna take this."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2503.425,
+      "end": 2504.8052,
+      "transcript": "What is it about"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2505.585,
+      "end": 2510.725,
+      "transcript": "you know, there's a I can put you in a box, not in a bad way, but in the manner that"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2512.465,
+      "end": 2513.605,
+      "transcript": "techy growing up,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2514.945,
+      "end": 2515.925,
+      "transcript": "IIT dad."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2516.5598,
+      "end": 2521.14,
+      "transcript": "I'm gonna make the assumption and extrapolate that you were fairly nerdy growing up."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2521.76,
+      "end": 2525.94,
+      "transcript": "Indian origin making a lot of money in The US in the last twenty, thirty years."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2527.2,
+      "end": 2529.7,
+      "transcript": "When you come from that background to India,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2531.0398,
+      "end": 2531.5398,
+      "transcript": "a,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2532.2751,
+      "end": 2537.5752,
+      "transcript": "what is working for Indian origin people in The US who are accomplishing as much as you are?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2538.195,
+      "end": 2539.095,
+      "transcript": "And b,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2539.635,
+      "end": 2541.2551,
+      "transcript": "when you come here, does"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2542.835,
+      "end": 2543.335,
+      "transcript": "projecting"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2543.7952,
+      "end": 2544.2952,
+      "transcript": "patriotism"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2545.08,
+      "end": 2546.54,
+      "transcript": "to India almost"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2548.52,
+      "end": 2550.46,
+      "transcript": "help open up a market which"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2551.48,
+      "end": 2555.58,
+      "transcript": "you and your peer group believe will be really large going forward tomorrow?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2558.405,
+      "end": 2570.52,
+      "transcript": "When you say pro projecting patriotism, you mean, like Indian patriotism. Professing a a love for, like, this the admiration for India. No. I feel like deep down, we are all wearing a mask. Mhmm."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2570.82,
+      "end": 2573.8801,
+      "transcript": "The mask changes depending on who we are sitting around."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2575.2202,
+      "end": 2577.08,
+      "transcript": "Now that the world is so connected,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2577.62,
+      "end": 2586.715,
+      "transcript": "the masks have become more nuanced because one mask in a certain geography can be viewed by another in another geography. Sure. And YouTube has played a big part in that. Mhmm."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2587.495,
+      "end": 2589.435,
+      "transcript": "So when you come to India now,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2590.5352,
+      "end": 2592.5552,
+      "transcript": "Neil Mohan, the CEO of YouTube,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2593.0151,
+      "end": 2594.475,
+      "transcript": "what masks work"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2595.0151,
+      "end": 2597.675,
+      "transcript": "and what don't, and which one do you have on?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2598.09,
+      "end": 2599.07,
+      "transcript": "Oh my goodness."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2600.33,
+      "end": 2600.83,
+      "transcript": "Well,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2602.25,
+      "end": 2602.75,
+      "transcript": "hopefully,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2603.37,
+      "end": 2605.87,
+      "transcript": "I'm not very sophisticated in masks, so,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2606.8901,
+      "end": 2608.51,
+      "transcript": "I always like to think that it's"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2609.1301,
+      "end": 2610.75,
+      "transcript": "what you see is what you get."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2612.605,
+      "end": 2615.585,
+      "transcript": "And by the way, I don't believe every single headline that you read,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2615.965,
+      "end": 2618.205,
+      "transcript": "even if it was 15 years old. So I'll,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2619.0051,
+      "end": 2621.185,
+      "transcript": "to start, address the first part of your question."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2622.445,
+      "end": 2623.585,
+      "transcript": "I would say that,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2625.05,
+      "end": 2628.35,
+      "transcript": "I mean, again, just in my in my particular role,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2630.81,
+      "end": 2633.15,
+      "transcript": "what's amazing about YouTube is"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2634.09,
+      "end": 2638.59,
+      "transcript": "it really is truly global, like you just said. Like, this con this conversation,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2639.7449,
+      "end": 2645.605,
+      "transcript": "you know, you've had enormous success here in India, but you've had success all over the world. And so I expect"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2646.065,
+      "end": 2649.045,
+      "transcript": "everything that we talk about here is going to be consumed"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2649.6648,
+      "end": 2655.95,
+      "transcript": "not just here, but really in every other part of the world. And hopefully, what we're talking about is just as applicable in that sense."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2656.57,
+      "end": 2659.71,
+      "transcript": "You know, when I come to India, I mean, I really,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2661.29,
+      "end": 2662.51,
+      "transcript": "I'll say a few things"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2662.97,
+      "end": 2664.81,
+      "transcript": "that I've said before that I think,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2666.25,
+      "end": 2667.55,
+      "transcript": "really ring true is"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2667.93,
+      "end": 2668.43,
+      "transcript": "you"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2669.335,
+      "end": 2671.595,
+      "transcript": "see the enormous success of India"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2672.2952,
+      "end": 2673.115,
+      "transcript": "on YouTube,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2674.215,
+      "end": 2677.975,
+      "transcript": "but in general, in the creative and, you know, we started this conversation talking about waves"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2678.695,
+      "end": 2679.915,
+      "transcript": "in the creative industries"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2680.215,
+      "end": 2685.86,
+      "transcript": "through numbers and data. Right? Like, four out of five Indians is on YouTube."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2686.32,
+      "end": 2692.18,
+      "transcript": "You know, billions of hours of, you know, content being created consumed 100,000,000 channels uploading videos."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2692.56,
+      "end": 2695.14,
+      "transcript": "15,000 over a million million subs."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2695.965,
+      "end": 2697.185,
+      "transcript": "You know, Indian creators,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2698.5251,
+      "end": 2700.0652,
+      "transcript": "generated 21,000"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2700.125,
+      "end": 2700.625,
+      "transcript": "crores,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2702.205,
+      "end": 2706.3052,
+      "transcript": "2 and a half billion dollars on YouTube in the last three years. I could go on and on and on,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2706.6052,
+      "end": 2712.68,
+      "transcript": "but it is not until you are here on the ground that you viscerally understand that. Mhmm. And what I mean by that is"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2712.98,
+      "end": 2714.52,
+      "transcript": "the vibrancy around,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2715.6199,
+      "end": 2720.68,
+      "transcript": "the creator economy. And it's like kind of and you sort of alluded to this earlier. It's like, it's two things."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2721.14,
+      "end": 2723.56,
+      "transcript": "Yes, you have to be a creative person, an authentic"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2724.1,
+      "end": 2729.125,
+      "transcript": "thought. You have to share it with yourself, but you also have to be an entrepreneur. You have to be someone who's really"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2729.745,
+      "end": 2735.685,
+      "transcript": "and what I mean by that is, like, truly, unfortunately, in the best sense, like, someone who's willing to work hard and really"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2735.985,
+      "end": 2738.245,
+      "transcript": "give in to their passion kind of a thing."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2738.55,
+      "end": 2742.25,
+      "transcript": "And I see that every time I'm here in India,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2742.55,
+      "end": 2743.05,
+      "transcript": "and,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2743.83,
+      "end": 2746.73,
+      "transcript": "I really think that that's where all of this success"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2747.03,
+      "end": 2748.1702,
+      "transcript": "has come from."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2749.11,
+      "end": 2755.655,
+      "transcript": "And it's not just, like, their success of these creators in India. Something like the on the order of 15%"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2755.655,
+      "end": 2756.155,
+      "transcript": "or,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2756.775,
+      "end": 2757.255,
+      "transcript": "like,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2757.575,
+      "end": 2765.9248,
+      "transcript": "which translates to about forty five billion hours of watch time of content created by Indian creators is actually consumed outside of India. So it's an exporter of ideas and culture. And so,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2770.81,
+      "end": 2777.55,
+      "transcript": "viscerally see that when it's happening here, when you see that just walking the streets in terms of how people what they're watching on their phones."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2778.09,
+      "end": 2788.865,
+      "transcript": "You see that in the conversations I have with creators, and so Mhmm. That's really what I would reiterate every time I'm here. Whether you call that a mask or not, that's that's the reality from my standpoint."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2791.0051,
+      "end": 2793.745,
+      "transcript": "I'm an investor, first and foremost. Mhmm."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2794.1902,
+      "end": 2795.4702,
+      "transcript": "If I had a $100"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2795.4702,
+      "end": 2796.1301,
+      "transcript": "to invest,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2796.4302,
+      "end": 2797.49,
+      "transcript": "and I could buy"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2798.83,
+      "end": 2799.33,
+      "transcript": "Spotify,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2800.4302,
+      "end": 2800.9302,
+      "transcript": "YouTube,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2803.31,
+      "end": 2804.77,
+      "transcript": "a movie theater business,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2805.4702,
+      "end": 2806.77,
+      "transcript": "a Hollywood studio,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2807.4248,
+      "end": 2808.885,
+      "transcript": "a news broadcasting"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2809.4248,
+      "end": 2809.9248,
+      "transcript": "company,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2810.305,
+      "end": 2820.1648,
+      "transcript": "where would I put my money if I could only put it in one place for the next decade? I mean, I can't I'm not gonna give you investment advice. You're a much savvier investor than I am. I can't give you any advice."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2821.1848,
+      "end": 2823.02,
+      "transcript": "I would, again, just just,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2824.12,
+      "end": 2825.98,
+      "transcript": "maybe broaden it. I would just say,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2826.76,
+      "end": 2838.575,
+      "transcript": "I think that, really, YouTube is different than all of those pieces that you touched on. I mean, we interact with, we probably compete with some of those players that you mentioned. Mhmm. But,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2839.195,
+      "end": 2841.535,
+      "transcript": "you know, our lane is different. It really is"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2841.835,
+      "end": 2842.335,
+      "transcript": "about"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2843.515,
+      "end": 2847.375,
+      "transcript": "watching, sharing, and creating video, full stop. That's what we,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2848.075,
+      "end": 2854.69,
+      "transcript": "wanna do. We wanna make sure that we continue to do it. We are the world's oldest and largest creator economy,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2855.31,
+      "end": 2860.29,
+      "transcript": "and, you know, it's my ambition as CEO to make sure that continues to be the case."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2861.07,
+      "end": 2864.13,
+      "transcript": "And if I were to go back to the fact that I'm speaking to entrepreneurs"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2864.51,
+      "end": 2867.765,
+      "transcript": "who want to use this platform to grow a business,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2868.305,
+      "end": 2869.845,
+      "transcript": "can you give me five nonobvious"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2870.305,
+      "end": 2874.4849,
+      "transcript": "insights about the world of content that I might not be able to find online?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2875.665,
+      "end": 2878.385,
+      "transcript": "Yeah. Let me say a few things. First is,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2879.505,
+      "end": 2885.04,
+      "transcript": "and and I don't know if this is obvious or not, but I'll just I'll say sort of the things that I I I think an up and coming"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2885.5,
+      "end": 2887.52,
+      "transcript": "entrepreneur would would want to think about."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2887.82,
+      "end": 2891.28,
+      "transcript": "One is, you know, places like YouTube, but other platforms also,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2893.395,
+      "end": 2894.7751,
+      "transcript": "have really eliminated"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2895.795,
+      "end": 2897.175,
+      "transcript": "the need or the,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2897.795,
+      "end": 2912.8298,
+      "transcript": "like, the fact of a barrier between you and your audience or your customer or however you think about it. Like, you are in the driver's seat, you get to control what that conversation looks like, and you get the feedback immediately. That's the second thing. It's like, as opposed to"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2913.2898,
+      "end": 2918.0298,
+      "transcript": "feedback that would happen in the traditional way, whether you were an entrepreneur and getting the feedback"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2918.5698,
+      "end": 2931.325,
+      "transcript": "from the market six months down the road or from your investors a year down the road, feedback on a place like YouTube is instantaneously. You see you literally see it in the comments within minutes of you, seconds minutes within you posting the video."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2931.625,
+      "end": 2932.765,
+      "transcript": "So that's a world,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2933.545,
+      "end": 2939.06,
+      "transcript": "that you really, really have to be ready for. The third we talked about, which is true"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2939.86,
+      "end": 2941.8801,
+      "transcript": "truly global. Right? Like, so,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2942.98,
+      "end": 2947.6401,
+      "transcript": "you can have local, regional, national sort of ambitions, but, you know, content"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2948.1,
+      "end": 2949.08,
+      "transcript": "tends to be"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2949.645,
+      "end": 2953.185,
+      "transcript": "global. Story lines do translate. They are specifics, obviously,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2953.885,
+      "end": 2956.305,
+      "transcript": "and, obviously, culture matters a lot."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2957.085,
+      "end": 2959.105,
+      "transcript": "But that's that's kind of the"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2959.645,
+      "end": 2960.145,
+      "transcript": "the"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2960.685,
+      "end": 2967.6802,
+      "transcript": "the third thing that I would say. One thing that I think is was not obvious for a while is now starting to be more obvious around content is,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2968.3801,
+      "end": 2973.76,
+      "transcript": "it truly is multi screen. Right? Like, you know, like the mental model when you say the word"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2974.06,
+      "end": 2989.235,
+      "transcript": "YouTube, what pops into your head? You might be a mobile phone. Well, in The US, the majority of content is actually consumed on television screens. And, you know, that could happen in the rest of the world. It's our fastest growing screen. So just, you know, kind of this multi modality, multi surface"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2989.935,
+      "end": 2992.195,
+      "transcript": "is is is super, super important."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2992.58,
+      "end": 2996.34,
+      "transcript": "And then I think the very last thing I'll say again from an entrepreneur standpoint is,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2997.06,
+      "end": 3003.72,
+      "transcript": "our fundamental business model is an advertising model, and that's because we're large scale. Right? Like, it is a way to reach"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3004.1,
+      "end": 3005.8,
+      "transcript": "a very large pool of people"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3006.1,
+      "end": 3008.2,
+      "transcript": "with your content if it's ad supported."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3008.715,
+      "end": 3010.495,
+      "transcript": "But I also think that,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3011.195,
+      "end": 3014.895,
+      "transcript": "entrepreneurs should think about other types of monetization models"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3015.2751,
+      "end": 3018.5752,
+      "transcript": "like SVOD. We have a subscription business, right, with YouTube Premium,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3019.8352,
+      "end": 3023.215,
+      "transcript": "direct fan funding models, right, especially if you have niche content,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3023.65,
+      "end": 3029.35,
+      "transcript": "if you are, you know, creating content in a particular education vertical that is super, super valuable,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3030.13,
+      "end": 3031.91,
+      "transcript": "but probably doesn't have broad reach,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3032.21,
+      "end": 3036.23,
+      "transcript": "then a direct consumer fan funding type model might make sense."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3036.5752,
+      "end": 3041.0752,
+      "transcript": "We talked about shopping and and merch and those types of use cases. So"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3041.5352,
+      "end": 3042.0352,
+      "transcript": "be,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3042.8152,
+      "end": 3045.5552,
+      "transcript": "creative and flexible about the monetization models,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3046.5752,
+      "end": 3048.7551,
+      "transcript": "but be very rock solid in terms of"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3049.215,
+      "end": 3051.395,
+      "transcript": "the content that you're that's true to you."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3051.9202,
+      "end": 3056.58,
+      "transcript": "If all of all the world is stories and stage a stage,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3059.36,
+      "end": 3061.86,
+      "transcript": "if Neil had to quit YouTube tomorrow"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3062.56,
+      "end": 3064.6602,
+      "transcript": "and build YouTube's competition,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3065.875,
+      "end": 3070.2952,
+      "transcript": "because the world should not just have one, two, or three stages, but many stages,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3070.995,
+      "end": 3073.8152,
+      "transcript": "what would you build that can compete with YouTube"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3074.2751,
+      "end": 3076.0352,
+      "transcript": "as a better place to tell stories?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3077.73,
+      "end": 3080.79,
+      "transcript": "Well, hopefully, if that's gonna be the case, we're doing it within YouTube."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3082.13,
+      "end": 3083.99,
+      "transcript": "I always say to our teams that"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3084.29,
+      "end": 3089.19,
+      "transcript": "we really do have to continue to disrupt ourselves. That's what our creators and our viewers"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3089.65,
+      "end": 3092.55,
+      "transcript": "expect. Whether they say it or not, they they do expect that."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3093.525,
+      "end": 3097.785,
+      "transcript": "You know, one area that we haven't talked a lot about, but I am very excited"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3098.165,
+      "end": 3107.545,
+      "transcript": "by, and I I do think it will be disruptive, not just to YouTube, but to the creative industries in general, is is AI and everything that's happening with AI."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3107.91,
+      "end": 3108.41,
+      "transcript": "And,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3110.5498,
+      "end": 3112.0898,
+      "transcript": "I think it can be disruptive"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3112.47,
+      "end": 3122.7852,
+      "transcript": "up and down the stack. What we're doing, and, you know, I'm sure lots of competition is doing, but what we're doing at YouTube is how do we turn it into tools that allow for that disruption"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3123.0852,
+      "end": 3124.7852,
+      "transcript": "to occur because you can't"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3125.0852,
+      "end": 3126.8652,
+      "transcript": "bury that technological disruption,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3127.3252,
+      "end": 3127.8052,
+      "transcript": "but,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3128.3652,
+      "end": 3132.465,
+      "transcript": "allow for it to feel like it is in the hands of the creative people."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3133.0852,
+      "end": 3135.5852,
+      "transcript": "And, so I'll just give you a couple of examples."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3137.97,
+      "end": 3142.31,
+      "transcript": "The technology exists today, when you hit that plus plus camera on YouTube,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3142.85,
+      "end": 3149.59,
+      "transcript": "to now, within a few seconds, give it a text prompt of, you know, let's change this set to one where"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3149.975,
+      "end": 3154.155,
+      "transcript": "we're sitting in a spring meadow and there's birds and flowers outside."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3155.175,
+      "end": 3156.875,
+      "transcript": "And that's probably something,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3157.575,
+      "end": 3159.355,
+      "transcript": "that would have taken us"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3160.055,
+      "end": 3163.435,
+      "transcript": "days or weeks to put together if that's what we wanted our set to be."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3163.76,
+      "end": 3169.54,
+      "transcript": "AI allows you to do that now in seconds, and that's a collaboration between YouTube and Google DeepMind."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3170.24,
+      "end": 3176.02,
+      "transcript": "So that's pretty profound from a user standpoint. As fans, we're like, wow, we get get the benefit of this,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3176.545,
+      "end": 3177.045,
+      "transcript": "really,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3177.425,
+      "end": 3179.445,
+      "transcript": "really quickly. I also think it is"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3179.985,
+      "end": 3191.125,
+      "transcript": "a tool in the hands of the creator. Like, it was your decision or my decision to come up with that creative idea, and now it's there. And so that's really cool because now this technology is in the hands of a lot more creators,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3191.48,
+      "end": 3194.94,
+      "transcript": "but it is disruptive because it did disrupt a lot of things"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3195.48,
+      "end": 3196.7,
+      "transcript": "that needed to happen"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3197.0,
+      "end": 3204.5999,
+      "transcript": "in the pre AI scenario. Right? Like, the the the days or weeks that it would have taken. So I don't wanna be naive to that. And so I just,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3206.375,
+      "end": 3209.515,
+      "transcript": "I think that's where you're gonna see lots of really"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3210.775,
+      "end": 3214.7148,
+      "transcript": "interesting disruption in a way that creates new opportunities because now"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3215.255,
+      "end": 3221.77,
+      "transcript": "10,000 more people could produce that content than otherwise could have. But I do recognize that it's actually also gonna"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3222.07,
+      "end": 3222.73,
+      "transcript": "disrupt certain"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3223.19,
+      "end": 3226.8901,
+      "transcript": "parts of that sort of value chain or stack or whatever you wanna call it,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3227.35,
+      "end": 3229.45,
+      "transcript": "through the process. And I could give you"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3229.83,
+      "end": 3235.125,
+      "transcript": "many examples of that in the creative industry. If I were to put back the investor hat for a second,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3235.585,
+      "end": 3237.925,
+      "transcript": "let's assume OpenAI used"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3238.625,
+      "end": 3240.085,
+      "transcript": "YouTube data for Sora."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3241.905,
+      "end": 3246.9648,
+      "transcript": "And, again, if you had a $100 that you could bet behind one large AI company,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3248.8499,
+      "end": 3253.75,
+      "transcript": "which company has the most data? Is it Google? Is it Microsoft? Is it as an outsider"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3254.21,
+      "end": 3256.7898,
+      "transcript": "trying to take a bet on the world of AI broadly?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3257.65,
+      "end": 3259.43,
+      "transcript": "Where do you think that money should go?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3259.8052,
+      "end": 3262.5452,
+      "transcript": "Remove the remove, like, your own company from the pitch."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3264.6052,
+      "end": 3270.685,
+      "transcript": "You know, is it it I think it's hard to answer who has the most data or what have you. I think that,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3271.3252,
+      "end": 3275.22,
+      "transcript": "data's sort of one part of of the equation. I do think that"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3276.26,
+      "end": 3276.76,
+      "transcript": "technological"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3277.06,
+      "end": 3277.56,
+      "transcript": "breakthroughs"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3278.0999,
+      "end": 3278.5999,
+      "transcript": "and"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3279.14,
+      "end": 3282.84,
+      "transcript": "investment in innovation is another big part of it. I I get to,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3284.18,
+      "end": 3287.235,
+      "transcript": "work very closely with Google DeepMind every day,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3287.635,
+      "end": 3292.135,
+      "transcript": "particularly in areas of, you know, audio and video, right, with the VO models, etcetera."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3292.675,
+      "end": 3294.0552,
+      "transcript": "So I see how"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3294.5952,
+      "end": 3301.495,
+      "transcript": "powerful that innovation can be. And then there's a third piece, which doesn't actually get talked about that much, but I think is also very important,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3302.02,
+      "end": 3302.76,
+      "transcript": "which is"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3303.06,
+      "end": 3307.56,
+      "transcript": "the applications of these models. How do they actually show up? How do they show up in a way where they're"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3307.9402,
+      "end": 3309.8801,
+      "transcript": "useful and they capture the imagination,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3310.74,
+      "end": 3316.36,
+      "transcript": "but not just capture the imagination once and then they're forgotten about, but then really become something"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3316.935,
+      "end": 3319.915,
+      "transcript": "mainstream. And so I think all three of those pieces are important."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3320.2952,
+      "end": 3326.075,
+      "transcript": "At YouTube, our focus is really obviously working on the deep sort of technology and collaboration with DeepMind,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3326.375,
+      "end": 3328.7952,
+      "transcript": "but also just as much turning it into"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3329.38,
+      "end": 3344.045,
+      "transcript": "tools and features. So I described this product to you called DreamScreen, which is like, you know, kind of the super interesting product. Oh, oh my god. You can you can create that amazing video out of thin air from just this quick text prompt. Of course it's amazing. It's mind blowing."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3345.705,
+      "end": 3351.725,
+      "transcript": "But when we talk to our creators, when I talk to creators, they they love that feature. They think it's powerful. It democratizes"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3352.105,
+      "end": 3352.605,
+      "transcript": "creation."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3353.145,
+      "end": 3355.005,
+      "transcript": "All all great great stuff."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3355.44,
+      "end": 3357.6199,
+      "transcript": "But they also talked to me things about, like,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3357.92,
+      "end": 3360.18,
+      "transcript": "you know, why don't you do something even more"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3360.72,
+      "end": 3363.94,
+      "transcript": "kind of basic basic and mundane, which is, like,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3364.96,
+      "end": 3369.22,
+      "transcript": "why not just give me a translation of my video in 10 big languages?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3369.625,
+      "end": 3374.685,
+      "transcript": "Mhmm. Why not give it to me in a thousand different languages? And why not do it in a way where it captures,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3376.2651,
+      "end": 3377.965,
+      "transcript": "my tone, my inflection?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3378.745,
+      "end": 3386.45,
+      "transcript": "And AI will be able to do that, and that will be magical too. And that will have a profound impact on, like, you know, some some kid,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3387.31,
+      "end": 3390.21,
+      "transcript": "you know, trying to learn algebra in a small Indian village,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3390.67,
+      "end": 3394.3699,
+      "transcript": "and that's, like, a profound impact on humanity. But it's not as interesting,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3394.83,
+      "end": 3396.3699,
+      "transcript": "at least it's not kind of like"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3396.83,
+      "end": 3405.455,
+      "transcript": "like as, glitzy of a use case. Another one that comes to mind that creators always talk to me about is, you know, one of their biggest challenges is sort of the blank blank,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3406.5552,
+      "end": 3412.3352,
+      "transcript": "screen problem. Like, I have a video. I have no idea what to do next, and I'm a travel vlogger."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3413.55,
+      "end": 3416.05,
+      "transcript": "Well, could I iterate with an AI"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3416.59,
+      "end": 3418.4502,
+      "transcript": "to actually help me come up with ideas"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3419.31,
+      "end": 3424.29,
+      "transcript": "on, you know, the next where should I take my next trip, and what sort of video should I produce around it?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3424.99,
+      "end": 3427.49,
+      "transcript": "So those are these are the types of things where"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3428.505,
+      "end": 3433.1648,
+      "transcript": "a lot of AI innovation is happening because that's what makes it actually practical for for real users."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3433.785,
+      "end": 3436.2048,
+      "transcript": "Are attention spans falling or growing?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3436.9048,
+      "end": 3438.605,
+      "transcript": "I can watch a Netflix"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3439.065,
+      "end": 3442.125,
+      "transcript": "or a YouTube show for ten hours and binge it,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3442.76,
+      "end": 3443.8198,
+      "transcript": "and yet I hear"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3444.3599,
+      "end": 3449.0999,
+      "transcript": "people's attention spans have come down to ten seconds or twenty seconds. What do you think?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3450.2,
+      "end": 3452.94,
+      "transcript": "I don't see it one way or the other. I mean, our"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3453.48,
+      "end": 3453.98,
+      "transcript": "our"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3454.44,
+      "end": 3455.5,
+      "transcript": "we see all"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3456.095,
+      "end": 3460.835,
+      "transcript": "all nature of consumption patterns on YouTube. What are you betting more on? Long form or Shorts?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3461.9348,
+      "end": 3464.835,
+      "transcript": "I mean, I think I really view them as kind of"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3465.295,
+      "end": 3469.315,
+      "transcript": "a I I don't view them as two separate things, I guess, is what I would say. I I think"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3469.71,
+      "end": 3481.79,
+      "transcript": "Shorts sort of stands on its own in the sense in that it's, like, it's vertical, it's shot on a mobile phone, maybe it gets consumed more in a feed. But all it is is just, like, it's shorter video. It's, like, if you take,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3482.805,
+      "end": 3496.425,
+      "transcript": "put your head back to where YouTube was fifth we were just celebrating our twentieth birthday. Right? So go back to the very early days of YouTube. That people call that Shorts. That was Shorts back then. Mhmm. And so it's just like I think it's like a frame of reference thing."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3496.97,
+      "end": 3498.67,
+      "transcript": "And in our corpus, we see"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3500.0898,
+      "end": 3503.13,
+      "transcript": "our long form content, in many cases, growing even longer,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3503.69,
+      "end": 3505.95,
+      "transcript": "getting more episodic in nature, as you're describing."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3506.89,
+      "end": 3507.8699,
+      "transcript": "And we have,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3508.41,
+      "end": 3512.5898,
+      "transcript": "you know, short form content that's fifteen seconds, but we get we get,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3513.7751,
+      "end": 3520.035,
+      "transcript": "lots of asks for that short form short form content to be over three minutes long. So, like, it's just like"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3520.495,
+      "end": 3521.635,
+      "transcript": "a a continuum."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3522.095,
+      "end": 3524.195,
+      "transcript": "And I think in terms of attention span,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3525.19,
+      "end": 3528.41,
+      "transcript": "you know, I you know, you can have a long session"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3529.27,
+      "end": 3530.17,
+      "transcript": "just consuming"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3530.55,
+      "end": 3534.95,
+      "transcript": "quote unquote short content Mhmm. And vice versa. So I I see it really"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3537.245,
+      "end": 3542.705,
+      "transcript": "I kind of see it in in we see it in all all different directions. I don't think there's a one one or the other."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3543.325,
+      "end": 3547.665,
+      "transcript": "I use YouTube a lot as a second screen while I'm at work."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3548.205,
+      "end": 3550.065,
+      "transcript": "So if I lose it for?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3550.58,
+      "end": 3557.64,
+      "transcript": "I'm watching, like, podcasts and, I don't know, random, like, studies and stuff like that. I actually find that"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3559.14,
+      "end": 3561.72,
+      "transcript": "this is me being really honest. When I"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3562.585,
+      "end": 3565.645,
+      "transcript": "turn on a screen, my TV, and I watch Netflix"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3565.945,
+      "end": 3568.445,
+      "transcript": "Mhmm. I feel like I'm doing something wrong."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3569.065,
+      "end": 3571.805,
+      "transcript": "But when I turn on my TV and I watch YouTube,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3572.345,
+      "end": 3577.885,
+      "transcript": "very subconsciously, I feel like I'm doing something right. Mhmm. I don't know how to describe this. Yeah."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3578.4,
+      "end": 3580.5,
+      "transcript": "Because somewhere in my subconscious,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3581.0398,
+      "end": 3583.2998,
+      "transcript": "the latter makes me think I'm learning."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3583.92,
+      "end": 3585.0598,
+      "transcript": "And when I'm learning,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3585.44,
+      "end": 3588.26,
+      "transcript": "some anxiety in me is alleviated."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3589.1199,
+      "end": 3591.14,
+      "transcript": "I don't know if that's by design or not."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3592.105,
+      "end": 3593.0051,
+      "transcript": "I'm not sure"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3593.3052,
+      "end": 3593.465,
+      "transcript": "if"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3594.905,
+      "end": 3597.965,
+      "transcript": "it's not by design in the sense of"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3598.2651,
+      "end": 3604.205,
+      "transcript": "anything that we have done to either communicate that or pick the content. So I feel like the credit really goes again"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3604.55,
+      "end": 3608.89,
+      "transcript": "to our amazing creators, you know, the 100,000,000 creators that upload in India or wherever."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3609.3499,
+      "end": 3610.25,
+      "transcript": "I will say,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3611.27,
+      "end": 3617.6099,
+      "transcript": "learning is a really big use case on YouTube. And when I say learning, I mean the broad definition of the term learning."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3619.095,
+      "end": 3623.035,
+      "transcript": "You know, frankly, in my own experience, I use YouTube a lot for that."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3623.4949,
+      "end": 3628.075,
+      "transcript": "Like, and all kinds of niches of learning are are really are really popular. Obviously,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3628.375,
+      "end": 3641.1301,
+      "transcript": "there's the obvious learning, like, you know, high school kid in the classroom kind of learning. And then there's the other sort of very obvious thing, which is like, well, how do I fix my bike? Or how did I how do I fix my garage door? But, like, the really deep learning use cases are"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3641.51,
+      "end": 3662.8848,
+      "transcript": "pretty esoteric and can and and have lots and lots of content in very particular places. A colleague of mine always talks about his love of, you know, woodworking, right, and carving, and you can go really deep on that on YouTube. I love, like, it's kind of random, but I love, like, logistics and logistics patterns and how things happen sort of in infrastructure."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3663.345,
+      "end": 3665.82,
+      "transcript": "You You can go really deep on that on YouTube. So"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3666.3599,
+      "end": 3670.38,
+      "transcript": "that is not something that we sort of pick those content verticals"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3671.4,
+      "end": 3678.055,
+      "transcript": "on purpose, but just like every niche sort of exists on YouTube, there's 20,000,000,000 videos that have been,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3678.4348,
+      "end": 3679.635,
+      "transcript": "uploaded to YouTube. That"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3681.555,
+      "end": 3688.855,
+      "transcript": "that's that's every that's that's where the experience comes from. So five years ago, when I turned on YouTube, it was to play songs. Mhmm."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3689.34,
+      "end": 3692.8801,
+      "transcript": "That position in my mind somehow is lost has been lost to Spotify."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3693.1802,
+      "end": 3695.76,
+      "transcript": "Mhmm. Now when I think of a song, I go to Spotify."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3696.3801,
+      "end": 3698.0,
+      "transcript": "When I think of a podcast"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3698.3801,
+      "end": 3701.04,
+      "transcript": "or something around learning, I go to YouTube."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3701.865,
+      "end": 3705.085,
+      "transcript": "When I think of entertainment, entertainment, I go to Netflix."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3705.465,
+      "end": 3707.325,
+      "transcript": "Do you think the music battle"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3708.505,
+      "end": 3715.565,
+      "transcript": "Spotify has gained a lot of traction in it over the last few years? Why do you feel that way about music? I don't know. It's just how I use it. Mhmm."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3716.54,
+      "end": 3717.84,
+      "transcript": "I didn't have Spotify"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3718.22,
+      "end": 3723.04,
+      "transcript": "six, seven years ago, and, also, I'm not the generic Indian user. Mhmm. But"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3724.06,
+      "end": 3724.56,
+      "transcript": "somehow,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3726.14,
+      "end": 3732.2551,
+      "transcript": "my music needs today are not met by YouTube, but more needs of mine around learning are met by YouTube."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3733.2751,
+      "end": 3753.39,
+      "transcript": "Yeah. It's interesting. I mean, like I said, I mean, learning is a very large use case on YouTube across every demographic, every part of the world. It's one that I'm very proud of. You know, I saw a stat 90 per 90% plus of classroom teachers use YouTube in the classroom in some particular way. So that is core to what we do. But music is our,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3753.93,
+      "end": 3759.715,
+      "transcript": "I'd say, almost oldest and one of our most important verticals by far. It's really core to the YouTube,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3760.495,
+      "end": 3769.315,
+      "transcript": "heritage, starting from, you know, the early days of YouTube and T Series, and T Series is still one of our most important, most strategic, largest partners."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3769.855,
+      "end": 3779.68,
+      "transcript": "There's a few things that I would say that's happened, I think, to music in in India in general, regardless of, you know, YouTube or or Spotify, which is, you know, the growth of,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3781.02,
+      "end": 3783.44,
+      "transcript": "you know, Indian origin music, pop music,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3784.5398,
+      "end": 3785.0398,
+      "transcript": "in"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3785.925,
+      "end": 3792.105,
+      "transcript": "that sort of not classic Bollywood. Right? Like, you know, we have amazing YouTubers like King who grew up on our platform,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3792.965,
+      "end": 3801.385,
+      "transcript": "who are superstars in of their own right, but sort of charted their own path. And we you know, he's he's obviously kind of a megastar, but there's lots and lots of examples like that."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3801.74,
+      "end": 3807.28,
+      "transcript": "And, I would say that that's a really big phenomenon on YouTube, just like it is on other platforms."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3807.8198,
+      "end": 3810.64,
+      "transcript": "One of the things that I want to continue to do"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3811.02,
+      "end": 3811.52,
+      "transcript": "is"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3813.855,
+      "end": 3818.115,
+      "transcript": "invest more in terms of actually showcasing that on YouTube. So, again,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3818.4949,
+      "end": 3829.9202,
+      "transcript": "not about the algorithm or what have you, but having charts, for example, popular charts in not just in sort of classic Bollywood Hindi, but in all of these different languages to recognize those artists."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3830.3801,
+      "end": 3834.08,
+      "transcript": "So we're doing more and more work like that, getting more precise about,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3834.46,
+      "end": 3835.6,
+      "transcript": "algorithmic recommendations"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3835.9001,
+      "end": 3836.4001,
+      "transcript": "around"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3836.86,
+      "end": 3841.9202,
+      "transcript": "specific because the Indian music landscape is so diverse in terms of language and style"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3842.495,
+      "end": 3846.595,
+      "transcript": "that, it sort of, in that sense, presents, like, a unique challenge and opportunity"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3847.055,
+      "end": 3859.91,
+      "transcript": "to how sophisticated the algorithm needs to be to be able to make good recommendations in that context. And so those are areas that we're, investing in. We're actually gonna talk more about some of that at WAVES too. Like, the first night of WAVES is"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3860.37,
+      "end": 3870.79,
+      "transcript": "the the the YouTube cultural night, which is, you know, our our chance to put our best foot forward of all of our YouTubers. Mhmm. So, yeah, music is is very important. I'm not sure why you feel that way, but"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3871.1648,
+      "end": 3874.7048,
+      "transcript": "Indian music is, like, a core part of our our our investment."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3875.565,
+      "end": 3878.1448,
+      "transcript": "Any fleeting thoughts, Neil? You wanna tell us something?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3879.4849,
+      "end": 3881.265,
+      "transcript": "Anything that you'd like to tell us?"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3882.6848,
+      "end": 3889.16,
+      "transcript": "No. I think what I would say first of all, thank you so much for making the talk. Thank you so much for doing this. It's really a privilege, to have the conversation."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3890.1,
+      "end": 3891.48,
+      "transcript": "I would just say that,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3892.34,
+      "end": 3900.2,
+      "transcript": "every time I come back to India, I'm I'm amazed at sort of how much the Indian creative economy and creative industry continues to grow."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3900.5151,
+      "end": 3916.35,
+      "transcript": "We at YouTube are privileged to play our role in that. And as I said earlier in the conversation, I think we're just getting started. It's still the early innings. Right. Thank you so much for doing this, Neil. You make India proud, and hope to see you again soon. Thank you very much. Thanks for having"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3918.09,
+      "end": 3918.75,
+      "transcript": "me. Okay."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3919.37,
+      "end": 3924.6702,
+      "transcript": "Alright. How was it? It was good. You're Yeah. You're a pro. You're very, very well prepared."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3929.7349,
+      "end": 3931.4949,
+      "transcript": "You guys have a studio there too? Or"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3932.535,
+      "end": 3933.035,
+      "transcript": "it's"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3935.015,
+      "end": 3937.595,
+      "transcript": "Awesome. Very cool. Alright, Nicole. Take care. Thank you, everybody."
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3942.4001,
+      "end": 3942.9001,
+      "transcript": "Libby,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3943.44,
+      "end": 3946.82,
+      "transcript": "are you speaking there or are you No. I'm participating in some"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 3947.36,
+      "end": 3952.66,
+      "transcript": "round table with the PM. Oh, nice. Yeah. Okay. I think I will probably see you there."
+    }
+  ]
+}

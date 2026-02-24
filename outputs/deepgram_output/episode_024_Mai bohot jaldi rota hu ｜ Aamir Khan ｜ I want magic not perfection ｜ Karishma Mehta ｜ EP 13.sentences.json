@@ -1,0 +1,2778 @@
+{
+  "unit": "utterance (sentence-like)",
+  "num_segments": 396,
+  "segments": [
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 17.145,
+      "end": 21.305,
+      "transcript": "Thank you so much for doing this with us. No. Not at all. And giving us your time. Not at all."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 21.945,
+      "end": 25.725,
+      "transcript": "I'm I'm most interested about this fact that you actually grew up in this building."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 26.4,
+      "end": 42.425003,
+      "transcript": "Yes. Well, I was 11 when my parents moved here. Yeah. On the Top Floor. Right. So since I remember I've been in this place all my life. Yeah. On a different floor? On a different floor. The same building. Yeah. And what kind of a student were you in school? Very average."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 43.045002,
+      "end": 45.785,
+      "transcript": "I was actually not so interested in academics."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 46.565002,
+      "end": 47.285,
+      "transcript": "And I think that,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 48.645,
+      "end": 52.105003,
+      "transcript": "the few times that there was a teacher who was interesting,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 53.100002,
+      "end": 58.56,
+      "transcript": "I used to, you know, pay attention that particular year to that particular teacher and score really high in that subject."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 59.420002,
+      "end": 63.92,
+      "transcript": "But, otherwise, I was very average and I was my homework was never in time because I was more into,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 64.78,
+      "end": 69.945,
+      "transcript": "sports and reading. I love reading. I started reading at the age of six. Wow. So I used to read a lot."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 70.485,
+      "end": 70.805,
+      "transcript": "And,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 71.365005,
+      "end": 84.079994,
+      "transcript": "in your family your father was a producer. There was a bit of a filming background. Mhmm. So what was that influence like while you were growing up? Is that something you saw? Well, I did. Yes. I saw films being made around me and there would be"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 84.38,
+      "end": 86.38,
+      "transcript": "what I remember most about it is we never,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 86.78,
+      "end": 97.725,
+      "transcript": "like my father, never really took us to film shoots and all that. So I never very rarely would be able to go to a film shoot. And And whenever I went to a film shoot, I felt very shy and awkward. There were so many people. It was so noisy and,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 98.105,
+      "end": 99.645004,
+      "transcript": "you know, I felt so,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 100.025,
+      "end": 100.685,
+      "transcript": "you know,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 101.225,
+      "end": 103.005,
+      "transcript": "like I don't belong there, you know."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 103.785,
+      "end": 107.61,
+      "transcript": "So I should not like to go to shoots. But what I used to really love"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 108.39,
+      "end": 109.53,
+      "transcript": "was listening to stories."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 110.47,
+      "end": 118.89,
+      "transcript": "And a lot of writers and directors would come home to pitch stories to my father. Yeah. Sometimes they would be just concepts which took them fifteen minutes to narrate."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 119.215004,
+      "end": 120.275,
+      "transcript": "Sometimes it was,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 120.815,
+      "end": 135.03,
+      "transcript": "fully developed script. Sometimes it was with dialogues and, you know, like like really totally locked script. So sometimes the narrations would be fifteen minutes, half an hour. Sometimes they would be three hours, four hours. Whenever I was at home and the narration was happening, I would always sit in"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 135.99,
+      "end": 136.73,
+      "transcript": "and listen"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 137.19,
+      "end": 146.25,
+      "transcript": "to the story because I just love stories. So I used to listen to so I was to listen to a thousands I mean, thousands of stories over the years since the age of six to,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 147.91,
+      "end": 149.45,
+      "transcript": "till I was 14, 15."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 150.155,
+      "end": 155.61499,
+      "transcript": "So while growing up, you know, the the question that we get asked the most is what do you want to be when you grow up? Oh, yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 156.235,
+      "end": 158.655,
+      "transcript": "When when I was asked what I want to be as a kid,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 159.83499,
+      "end": 161.935,
+      "transcript": "I used to say different things at different times."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 163.56,
+      "end": 168.54,
+      "transcript": "I've also said astronaut and scientist and, you know, bizarre things like that. Football player, cricketer."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 169.48,
+      "end": 172.62,
+      "transcript": "So anyway, I was in the 10 standard. I was about 14, 15 or something."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 173.08,
+      "end": 175.9,
+      "transcript": "And, I had a classmate Aditya Bhattacharya."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 176.2,
+      "end": 178.62,
+      "transcript": "Okay. Basudas son. Basudas Bhattacharya son."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 191.07999,
+      "end": 192.37999,
+      "transcript": "My dad's got a camera."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 192.84,
+      "end": 195.34,
+      "transcript": "I'm gonna get stock free from Manbon Shetty"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 196.68,
+      "end": 197.81999,
+      "transcript": "or I'll get it cheap."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 198.35999,
+      "end": 198.76,
+      "transcript": "And,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 199.15999,
+      "end": 201.81999,
+      "transcript": "he'll you know, he won't charge us much at all. He's got a lab."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 202.51999,
+      "end": 203.23999,
+      "transcript": "And we'll,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 203.79999,
+      "end": 204.85999,
+      "transcript": "we'll make a film."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 205.455,
+      "end": 209.955,
+      "transcript": "So it was kind of an very esoteric kind of a film. There were no dialogues. It was all silent. Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 210.735,
+      "end": 215.955,
+      "transcript": "But I have to say it was quite a well mounted film. So Victor Banerjee was my father."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 218.68,
+      "end": 220.94,
+      "transcript": "My mother was, I think, Shilbad Deshpande."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 221.31999,
+      "end": 222.7,
+      "transcript": "I'm I'm figuring right now."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 223.56,
+      "end": 225.58,
+      "transcript": "But very fine artist from Marathi,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 226.2,
+      "end": 227.66,
+      "transcript": "theater and cinema. And,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 228.12,
+      "end": 233.495,
+      "transcript": "Nina Gupta was playing my girlfriend. Oh. Yeah. And there was Alok Nath, I remember in a scene"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 234.11499,
+      "end": 237.575,
+      "transcript": "where he's beating up he and some five six people are beating up some"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 237.955,
+      "end": 244.215,
+      "transcript": "guy. And so I'm seeing that violence in my reaction to that. So there were it was like quite quite well mounted. Ashok Mehta,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 244.595,
+      "end": 250.13,
+      "transcript": "the very famous DOP was shot the film. Oh, wow. Because he was a close friend of Vasudha and so"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 250.43001,
+      "end": 259.89,
+      "transcript": "Aditi had a lot of connections. Yeah. He used all of that. And we ended up making a forty minute silent film. And when I'm saying silent, I mean pin drop silence. Wow. There was no dialogue."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 260.205,
+      "end": 266.785,
+      "transcript": "There was no background score. There were no sound effects. There was no atmospheric sound. It was just you hear the hiss of the projector."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 268.445,
+      "end": 272.785,
+      "transcript": "So I hid it from my parents that I was doing this film. But what happened is that the experience"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 273.885,
+      "end": 274.385,
+      "transcript": "of"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 275.09,
+      "end": 277.43,
+      "transcript": "trying to help Aditya make this film,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 277.88998,
+      "end": 281.59,
+      "transcript": "you know, all the various activities that you go through in making a film, that experience"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 282.21,
+      "end": 283.99,
+      "transcript": "gave me a lot of joy. Mhmm."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 284.45,
+      "end": 287.66998,
+      "transcript": "And that one month made me realize that this is where I belong."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 288.01498,
+      "end": 293.955,
+      "transcript": "Wow. That's when I realized. And so I was very young. So when you asked me what did you want to be? For the longest time, I had different ideas,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 295.455,
+      "end": 311.12997,
+      "transcript": "including born into a tennis player. But that's when I actually zeroed in on what I wanted to do in life because I experienced that life. I have lived it for a month and I was like, you know, this this is what makes me happy. Yeah. Being part of telling a story. Wow. That's what makes me happy."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 311.43,
+      "end": 315.285,
+      "transcript": "And so that's when I decided I want to be in the films, which was I think it was about"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 316.245,
+      "end": 324.025,
+      "transcript": "15 max sixteen hours when I And what were your parents' reaction? So this film, what happened is when it got ready, this forty minutes film, but it's called paranoia."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 324.48502,
+      "end": 324.98502,
+      "transcript": "Okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 326.405,
+      "end": 326.905,
+      "transcript": "And,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 327.365,
+      "end": 331.56,
+      "transcript": "Aditya wanted to show it to a few people. So one of the persons he showed it to was Shivan Azmi. Okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 332.02,
+      "end": 334.84,
+      "transcript": "And his mom was a close friend of Shivanaji and,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 337.06,
+      "end": 339.62,
+      "transcript": "so one day at Dimple Theater, Rajendra Kumar's Theater,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 341.22,
+      "end": 345.8,
+      "transcript": "it was there was screening and only Shivanaji was called for the screening and she came to watch the film."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 346.335,
+      "end": 349.315,
+      "transcript": "And Nikkad, my sister and I were sitting at the back. Mhmm."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 350.975,
+      "end": 354.275,
+      "transcript": "And Aditya was in front and the film got over and,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 355.295,
+      "end": 358.755,
+      "transcript": "when the film got over she said, well, you know, to be honest I couldn't understand anything."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 360.015,
+      "end": 364.68,
+      "transcript": "It was a big tech, you know, high funder other film. Mhmm. So she said I couldn't understand anything but"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 365.7,
+      "end": 366.84,
+      "transcript": "but who's that boy?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 368.58002,
+      "end": 369.64,
+      "transcript": "He's really good."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 370.1,
+      "end": 372.12,
+      "transcript": "So I kind of sunk lower in my chair."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 373.22,
+      "end": 376.68,
+      "transcript": "Dimple is like the high back chair, so now it doesn't exist anymore."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 377.315,
+      "end": 377.815,
+      "transcript": "But,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 378.995,
+      "end": 383.175,
+      "transcript": "so Rinki aunty said, that's Tahir's son. My father's name is Tahir."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 384.035,
+      "end": 390.535,
+      "transcript": "So she said, that's Tahir's son. He said, oh, where where is he? He said, he's sitting in the back. So I stood up. She said, what's your name? I said, Amir."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 391.02,
+      "end": 397.36,
+      "transcript": "She said, you're Taissa's son. I said, yeah. She said, well, I'm doing a film with your father. So she was shooting for a film at that time with my father."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 397.74,
+      "end": 402.48,
+      "transcript": "So I said, yes. I know. She said, I must tell him that you're a very good actor. I said, no. You can't."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 402.86,
+      "end": 416.79,
+      "transcript": "He doesn't know you've done this film. And he's a very short-tempered person then. And that, of course, Shivana ji knew because the whole industry knew how short-tempered my father was. So she said, oh, yeah. Yeah. Okay. So, so I said, you can't let him know that I've done this film. He'll, you know, he'll kill me."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 418.71002,
+      "end": 420.25,
+      "transcript": "So she understood that very quickly."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 420.87,
+      "end": 426.09,
+      "transcript": "And she said, yeah. Yeah. Cool. I won't tell him, but, you know, you should be acting. You're really good."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 427.27002,
+      "end": 433.655,
+      "transcript": "Oh my god. That made me feel so nice because I was and still am such a big fan of Shabana ji. She's such a wonderful actor."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 435.075,
+      "end": 437.73502,
+      "transcript": "So that made me feel really nice. You know, it was so,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 438.835,
+      "end": 447.04,
+      "transcript": "it encouraged me a lot. Yeah. You know, it suddenly made me believe that I'm I can I can act? So is that how your parents found out that this is so So then what happened, I realized that you have been there."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 448.22,
+      "end": 454.395,
+      "transcript": "But I'm also quite a person who plays on the front foot and I was, you know, at one point when things kind of came out of the open, I said, listen, I want to be in the films."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 455.435,
+      "end": 463.935,
+      "transcript": "At which point all hell broke loose and my father and my uncle and my aunt and Ami and all of them said, listen, this is a bad idea. You should not be in the films. And"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 464.715,
+      "end": 466.655,
+      "transcript": "we've been in the films for so long,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 467.56998,
+      "end": 476.06998,
+      "transcript": "and and we've we know how volatile this business is and one day you're up there the next day you know nobody cares about you. Yeah. It's a very harsh"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 477.00998,
+      "end": 477.50998,
+      "transcript": "profession."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 478.28998,
+      "end": 481.19,
+      "transcript": "So we don't want you to get into this profession. It's very difficult."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 481.905,
+      "end": 483.845,
+      "transcript": "So I said, you know, I don't think I have a choice"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 484.705,
+      "end": 488.165,
+      "transcript": "because I really love it and I've I this is where I want to be."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 488.625,
+      "end": 492.725,
+      "transcript": "So they said, okay. I mean, after a point, they realized that I'm not going to listen."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 493.185,
+      "end": 493.685,
+      "transcript": "So"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 494.4,
+      "end": 497.06,
+      "transcript": "everything was attempted at me. Anger, you know,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 497.44,
+      "end": 499.38,
+      "transcript": "but I just stood firm."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 499.76,
+      "end": 501.22,
+      "transcript": "So they said then finally graduation."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 503.12,
+      "end": 504.02,
+      "transcript": "Mhmm. Even for graduation."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 561.505,
+      "end": 564.08496,
+      "transcript": "And you must be living with a silver spoon in your mouth"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 565.345,
+      "end": 566.005,
+      "transcript": "but actually,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 567.665,
+      "end": 569.365,
+      "transcript": "to average producer in film industry."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 584.22504,
+      "end": 586.645,
+      "transcript": "Above average producer. His sensibility was"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 588.385,
+      "end": 588.885,
+      "transcript": "nice."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 611.96497,
+      "end": 612.46497,
+      "transcript": "Life"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 613.005,
+      "end": 613.505,
+      "transcript": "make"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 614.185,
+      "end": 614.685,
+      "transcript": "film."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 615.365,
+      "end": 615.865,
+      "transcript": "I"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 616.545,
+      "end": 617.045,
+      "transcript": "think"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 617.725,
+      "end": 618.385,
+      "transcript": "he's locked it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 621.20496,
+      "end": 621.70496,
+      "transcript": "Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 624.52496,
+      "end": 626.705,
+      "transcript": "He used to write a lot of films. He was very popular"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 627.32,
+      "end": 629.42,
+      "transcript": "as a comedian and a villain in the South."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 630.6,
+      "end": 631.98,
+      "transcript": "Very strong character actor."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 654.04,
+      "end": 655.02,
+      "transcript": "Actors actors"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 667.32,
+      "end": 668.07,
+      "transcript": "actors actors."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 668.925,
+      "end": 672.145,
+      "transcript": "To my father, you know, used to get pushed around a bit. Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 673.085,
+      "end": 673.585,
+      "transcript": "Interest"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 677.085,
+      "end": 677.585,
+      "transcript": "interest"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 700.21497,
+      "end": 700.95496,
+      "transcript": "The situation"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 702.45496,
+      "end": 704.795,
+      "transcript": "actually we were on the on the roads almost."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 706.295,
+      "end": 709.115,
+      "transcript": "So and how old were you, like your siblings?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 711.415,
+      "end": 711.89496,
+      "transcript": "I was,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 713.815,
+      "end": 715.355,
+      "transcript": "this is Lockett. So"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 715.88995,
+      "end": 720.06995,
+      "transcript": "yeah. I was about 12 10, 12, 13, 14. Actually,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 720.52997,
+      "end": 725.19,
+      "transcript": "before that. Yeah. I was maybe eight, nine. Around that time, I was let's say 10."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 726.29,
+      "end": 729.11,
+      "transcript": "So what was the living situation? You don't have to make compromises."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 730.115,
+      "end": 730.615,
+      "transcript": "Actually,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 758.145,
+      "end": 758.645,
+      "transcript": "So,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 769.745,
+      "end": 770.965,
+      "transcript": "sorry. I got a little"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 771.505,
+      "end": 772.005,
+      "transcript": "emotional"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 774.8,
+      "end": 775.3,
+      "transcript": "tension."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 775.76,
+      "end": 776.08,
+      "transcript": "So,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 776.72003,
+      "end": 779.3,
+      "transcript": "the thing that actually used to trouble us most or"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 826.53,
+      "end": 827.19,
+      "transcript": "I remember,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 832.49005,
+      "end": 832.99005,
+      "transcript": "film"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 834.37006,
+      "end": 834.87006,
+      "transcript": "problem"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 835.57,
+      "end": 836.47003,
+      "transcript": "finally release"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 847.995,
+      "end": 848.57495,
+      "transcript": "So that's"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 848.875,
+      "end": 849.615,
+      "transcript": "go ahead of"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 850.95496,
+      "end": 855.24,
+      "transcript": "course. So when the film made money, he went and gave the money to that sub. Yeah. That"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 859.22003,
+      "end": 859.88,
+      "transcript": "sub said, oh,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 866.58,
+      "end": 868.60004,
+      "transcript": "producer But he was very happy."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 869.185,
+      "end": 876.22504,
+      "transcript": "Thank you so much. And, you know, then he came to a house for dinner. I remember he had he was at a house for dinner, you know, immediately after that. So,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 876.78503,
+      "end": 878.325,
+      "transcript": "he was a very straight person."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 879.185,
+      "end": 881.445,
+      "transcript": "I learned that from him. You know, he was very honest."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 885.24,
+      "end": 885.74,
+      "transcript": "Problem"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 887.56,
+      "end": 888.06,
+      "transcript": "phone."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 894.68,
+      "end": 895.66,
+      "transcript": "And he was a short"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 912.24,
+      "end": 912.74,
+      "transcript": "Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 941.17004,
+      "end": 941.67004,
+      "transcript": "School"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 942.69,
+      "end": 943.51,
+      "transcript": "up 600"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 943.73004,
+      "end": 944.47003,
+      "transcript": "to 6 rupees"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 947.25,
+      "end": 948.07,
+      "transcript": "maximum fees"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 949.97003,
+      "end": 950.47003,
+      "transcript": "or"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 951.735,
+      "end": 955.515,
+      "transcript": "in my entire school life from the second to the eighth"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 963.69995,
+      "end": 964.68,
+      "transcript": "notice board"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 969.3,
+      "end": 969.8,
+      "transcript": "assembly"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 972.74,
+      "end": 975.24,
+      "transcript": "parents fees Oh, me. Uh-huh."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 976.25995,
+      "end": 978.27997,
+      "transcript": "We knew that, you know, he's struggling. Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 978.985,
+      "end": 979.485,
+      "transcript": "Funny"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 980.10504,
+      "end": 981.16504,
+      "transcript": "party. School"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 982.585,
+      "end": 983.085,
+      "transcript": "producer"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 992.11,
+      "end": 992.61,
+      "transcript": "donations"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 994.91,
+      "end": 995.73,
+      "transcript": "magazines half page"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 998.43,
+      "end": 999.41,
+      "transcript": "sponsor annual magazine"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 999.87,
+      "end": 1000.37,
+      "transcript": "school"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1001.14996,
+      "end": 1001.64996,
+      "transcript": "teacher"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1003.55,
+      "end": 1004.29,
+      "transcript": "father to producer"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1004.83,
+      "end": 1006.20996,
+      "transcript": "back page front page"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1037.725,
+      "end": 1038.945,
+      "transcript": "They yeah. They had"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1040.205,
+      "end": 1043.985,
+      "transcript": "strange hopes. They thought I'll be an engineer and all that. Mhmm. No chance."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1045.325,
+      "end": 1048.625,
+      "transcript": "You should become an engineer. You should become a doctor. You should become a chartered accountant."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1050.125,
+      "end": 1052.225,
+      "transcript": "There's no chance I can become any of these things."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1052.56,
+      "end": 1053.06,
+      "transcript": "But,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1054.0801,
+      "end": 1054.5801,
+      "transcript": "dreams"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1056.16,
+      "end": 1058.18,
+      "transcript": "set a job professional job"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1059.84,
+      "end": 1062.4,
+      "transcript": "successful life. Mhmm. That's what their,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1063.12,
+      "end": 1064.415,
+      "transcript": "dream was for all of us."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1065.375,
+      "end": 1065.775,
+      "transcript": "But,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1066.175,
+      "end": 1068.115,
+      "transcript": "so and it was because of this, you know,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1069.295,
+      "end": 1070.435,
+      "transcript": "I suppose their"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1072.735,
+      "end": 1073.9551,
+      "transcript": "experiences, they failed"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1075.375,
+      "end": 1075.875,
+      "transcript": "financially."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1081.48,
+      "end": 1081.98,
+      "transcript": "Life."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1084.48,
+      "end": 1084.98,
+      "transcript": "Mhmm."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1087.48,
+      "end": 1091.7051,
+      "transcript": "With all the problems and everything. Right. And they looked after us very well."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1092.725,
+      "end": 1093.225,
+      "transcript": "Tissue?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1095.685,
+      "end": 1096.185,
+      "transcript": "So,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1097.285,
+      "end": 1099.145,
+      "transcript": "so we financial difficulties"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1100.645,
+      "end": 1102.505,
+      "transcript": "as kids and as a family, we were,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1103.285,
+      "end": 1106.96,
+      "transcript": "very sensitive to that. Yeah. And we didn't want to load"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1107.42,
+      "end": 1107.92,
+      "transcript": "parents."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1109.65,
+      "end": 1110.65,
+      "transcript": "Or face. But"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1254.275,
+      "end": 1254.775,
+      "transcript": "eleventh"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1255.795,
+      "end": 1256.295,
+      "transcript": "eleventh"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1256.755,
+      "end": 1258.055,
+      "transcript": "young freshers students."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1295.2699,
+      "end": 1296.97,
+      "transcript": "So he was a very fine director."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1335.9049,
+      "end": 1336.8049,
+      "transcript": "Actually, play"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1339.585,
+      "end": 1340.325,
+      "transcript": "actors scaffolding"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1343.345,
+      "end": 1343.845,
+      "transcript": "scaffolding"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1348.625,
+      "end": 1349.125,
+      "transcript": "scaffolding"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1367.145,
+      "end": 1368.765,
+      "transcript": "So I didn't go."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1529.33,
+      "end": 1532.07,
+      "transcript": "And how did you tell your family, especially parents"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1532.45,
+      "end": 1532.95,
+      "transcript": "that"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1533.33,
+      "end": 1537.385,
+      "transcript": "I've got the role? Jezraan called me and said we're planning to make a film with you."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1538.2451,
+      "end": 1544.7651,
+      "transcript": "Then he also actually told my dad and my mom and they all were very happy that if he's gonna be in the films and"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1545.2051,
+      "end": 1549.4651,
+      "transcript": "actually, I'll tell you what happened. When I started working with Nasir Saba, they were very against it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1550.1499,
+      "end": 1552.01,
+      "transcript": "Nasir Sab also was against it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1552.87,
+      "end": 1558.73,
+      "transcript": "And I but I was very clear and I had already gone and met Shekhar Kapoor because he was one of my favorite directors."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1560.23,
+      "end": 1561.9299,
+      "transcript": "Shekhar, I want to work with you as an assistant."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1562.615,
+      "end": 1564.9551,
+      "transcript": "Satish Kaushik was his assistant, his chief assistant."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1580.37,
+      "end": 1586.15,
+      "transcript": "Because I was very meticulous about my paperwork. So and no one had taught me. I'm a self taught person."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1587.49,
+      "end": 1588.15,
+      "transcript": "So I"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1588.7051,
+      "end": 1593.6051,
+      "transcript": "think I must be one of the best first AD in the country even now."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1594.145,
+      "end": 1597.525,
+      "transcript": "Wow. Yeah. I'm a very good first AD. Much better than an actor."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1598.385,
+      "end": 1600.5651,
+      "transcript": "I'm fantastic at controlling set."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1601.19,
+      "end": 1603.69,
+      "transcript": "Wow. And and, you know, planning ahead."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1610.47,
+      "end": 1610.97,
+      "transcript": "Satish"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1656.23,
+      "end": 1658.01,
+      "transcript": "So he called me and said you be my assistant."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1659.19,
+      "end": 1660.01,
+      "transcript": "I said okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1662.47,
+      "end": 1664.33,
+      "transcript": "Then I started working as his assistant."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1668.495,
+      "end": 1668.995,
+      "transcript": "As"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1670.335,
+      "end": 1670.915,
+      "transcript": "an assistant."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1672.415,
+      "end": 1675.075,
+      "transcript": "As an assistant. So I think within two months,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1675.775,
+      "end": 1676.515,
+      "transcript": "my uncle"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1677.135,
+      "end": 1679.635,
+      "transcript": "and my parents and my aunt and all of them realized"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1680.175,
+      "end": 1680.675,
+      "transcript": "correct."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1681.6,
+      "end": 1682.8999,
+      "transcript": "Right part"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1698.2251,
+      "end": 1700.005,
+      "transcript": "adapt a short story, adapt"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1700.545,
+      "end": 1701.045,
+      "transcript": "dialogue,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1703.1051,
+      "end": 1703.765,
+      "transcript": "edit background."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1705.5851,
+      "end": 1708.645,
+      "transcript": "Mhmm. To make film. Mhmm. But as an assistant, I"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1709.665,
+      "end": 1710.405,
+      "transcript": "was very"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1711.14,
+      "end": 1716.36,
+      "transcript": "hardworking and very sharp as an assistant. Mhmm. So they realized in two three months that you This is right."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1716.9,
+      "end": 1717.4,
+      "transcript": "At"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1718.34,
+      "end": 1718.84,
+      "transcript": "least"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1719.78,
+      "end": 1720.28,
+      "transcript": "confidence."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1726.165,
+      "end": 1727.225,
+      "transcript": "You know, they started,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1727.685,
+      "end": 1732.025,
+      "transcript": "depending on me more. My uncle started depending on me more because I took over his whole life."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1737.205,
+      "end": 1737.705,
+      "transcript": "Editing,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1738.005,
+      "end": 1738.905,
+      "transcript": "mixing, everything."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1739.37,
+      "end": 1739.87,
+      "transcript": "And"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1740.77,
+      "end": 1741.27,
+      "transcript": "he"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1742.17,
+      "end": 1743.23,
+      "transcript": "knew 101%."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1743.61,
+      "end": 1744.83,
+      "transcript": "Mhmm. So if you're mixing"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1745.29,
+      "end": 1748.83,
+      "transcript": "reels check on check. I should check all the reels, all the tracks."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1749.45,
+      "end": 1749.95,
+      "transcript": "Mhmm."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1752.97,
+      "end": 1753.47,
+      "transcript": "Mixing."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1753.77,
+      "end": 1754.27,
+      "transcript": "Mhmm."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1754.725,
+      "end": 1756.825,
+      "transcript": "So he knew he could depend on me."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1757.125,
+      "end": 1762.345,
+      "transcript": "So they realized that he's working well. And so all that slowly slowly added up. I think he realized then he realized"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1797.5901,
+      "end": 1798.49,
+      "transcript": "Wow. But confidence"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1802.87,
+      "end": 1803.37,
+      "transcript": "tennis"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1807.11,
+      "end": 1807.86,
+      "transcript": "skill tennis"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1845.045,
+      "end": 1845.545,
+      "transcript": "test"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1848.005,
+      "end": 1848.505,
+      "transcript": "marks"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1882.91,
+      "end": 1883.73,
+      "transcript": "when I was 14."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1884.75,
+      "end": 1885.65,
+      "transcript": "College admission."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1892.11,
+      "end": 1894.37,
+      "transcript": "So I'll ask a question. One-sided interview."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1895.87,
+      "end": 1896.37,
+      "transcript": "So,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1912.05,
+      "end": 1912.55,
+      "transcript": "Actually,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1912.93,
+      "end": 1913.43,
+      "transcript": "awards."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1914.05,
+      "end": 1915.27,
+      "transcript": "Even in my first film."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1915.81,
+      "end": 1916.31,
+      "transcript": "Because"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1916.6101,
+      "end": 1918.2301,
+      "transcript": "what I'm sorry."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1921.17,
+      "end": 1923.51,
+      "transcript": "Value let me put it that way for the rewards."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1925.6849,
+      "end": 1926.1849,
+      "transcript": "Mhmm."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1927.2849,
+      "end": 1927.7849,
+      "transcript": "Actually,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1932.1649,
+      "end": 1932.9049,
+      "transcript": "First time"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1934.325,
+      "end": 1937.065,
+      "transcript": "Mansoor is a very fine director. He's a very fine minder."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1941.0599,
+      "end": 1941.7999,
+      "transcript": "Growth fast."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1946.02,
+      "end": 1946.6799,
+      "transcript": "So nurses"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1947.62,
+      "end": 1948.36,
+      "transcript": "first day."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1949.0599,
+      "end": 1950.44,
+      "transcript": "Credit first day"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1950.98,
+      "end": 1951.88,
+      "transcript": "planning scheduling"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1954.1,
+      "end": 1955.655,
+      "transcript": "thousand rupees per month."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1957.175,
+      "end": 1958.3151,
+      "transcript": "Wow. For working"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1961.415,
+      "end": 1965.755,
+      "transcript": "in. Thousand rupees a month. Mhmm. What like regular income"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1966.775,
+      "end": 1967.275,
+      "transcript": "actually"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1968.535,
+      "end": 1969.275,
+      "transcript": "regular income"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1985.125,
+      "end": 1986.345,
+      "transcript": "but I"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1986.725,
+      "end": 1988.4249,
+      "transcript": "to be honest, I don't remember because"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2016.655,
+      "end": 2017.475,
+      "transcript": "Mhmm. Realistically"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2102.0352,
+      "end": 2102.5352,
+      "transcript": "audience"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2102.955,
+      "end": 2103.455,
+      "transcript": "theater"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2103.875,
+      "end": 2104.375,
+      "transcript": "what"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2104.7551,
+      "end": 2106.0552,
+      "transcript": "male centric audience"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2106.595,
+      "end": 2107.095,
+      "transcript": "families."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2111.7952,
+      "end": 2113.495,
+      "transcript": "Families had stopped going to theaters."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2114.34,
+      "end": 2114.84,
+      "transcript": "Single"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2125.1401,
+      "end": 2126.6802,
+      "transcript": "screens. I think they were not interested."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2142.1199,
+      "end": 2144.8599,
+      "transcript": "They flock to the theater. They flock to the theaters. Youth"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2145.5598,
+      "end": 2146.0598,
+      "transcript": "families."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2148.1199,
+      "end": 2148.8699,
+      "transcript": "Mhmm. Or"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2228.04,
+      "end": 2230.3,
+      "transcript": "audience film receive Yeah. Or may happen"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2231.96,
+      "end": 2233.1,
+      "transcript": "her film. Mhmm. Theater"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2234.04,
+      "end": 2234.54,
+      "transcript": "audience"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2235.8,
+      "end": 2238.54,
+      "transcript": "till now? Till now. Oh, wow. Audience"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2239.48,
+      "end": 2239.98,
+      "transcript": "theater."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2240.335,
+      "end": 2240.835,
+      "transcript": "How?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2281.44,
+      "end": 2282.98,
+      "transcript": "And there was"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2284.2798,
+      "end": 2284.7798,
+      "transcript": "there"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2285.18,
+      "end": 2285.68,
+      "transcript": "was"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2286.0798,
+      "end": 2287.54,
+      "transcript": "back to back to back. Actually,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2289.28,
+      "end": 2293.22,
+      "transcript": "overnight star to my to my surprise. Actually, I didn't know what stardom was."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2342.33,
+      "end": 2342.49,
+      "transcript": "Wow."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2344.09,
+      "end": 2344.59,
+      "transcript": "Block."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2345.69,
+      "end": 2347.55,
+      "transcript": "That was stardom moment."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2347.85,
+      "end": 2348.67,
+      "transcript": "I was shocked."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2373.8901,
+      "end": 2374.79,
+      "transcript": "I think lucky"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2375.25,
+      "end": 2375.75,
+      "transcript": "lucky"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2403.68,
+      "end": 2404.74,
+      "transcript": "I also said hi."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2406.24,
+      "end": 2407.8599,
+      "transcript": "Then I realized eight minute."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2412.72,
+      "end": 2415.925,
+      "transcript": "Wow. Then I said, Then I said, I don't know"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2416.225,
+      "end": 2418.965,
+      "transcript": "them. And then they were smiling at me. So then I said it's me."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2419.905,
+      "end": 2422.405,
+      "transcript": "That was my first moment of realizing k o."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2423.7449,
+      "end": 2424.2449,
+      "transcript": "Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2426.705,
+      "end": 2427.365,
+      "transcript": "I couldn't"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2459.84,
+      "end": 2461.78,
+      "transcript": "So then what did you do? I ran."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2464.4,
+      "end": 2465.78,
+      "transcript": "Wow. I couldn't,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2487.72,
+      "end": 2488.38,
+      "transcript": "Okay. Or"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2489.08,
+      "end": 2490.22,
+      "transcript": "topic change."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2493.4,
+      "end": 2493.9,
+      "transcript": "But"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2494.92,
+      "end": 2496.84,
+      "transcript": "that was a very exciting time because I had"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2497.32,
+      "end": 2499.19,
+      "transcript": "Yeah. Didn't realize that I would be and"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2500.7048,
+      "end": 2501.2048,
+      "transcript": "So"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2516.44,
+      "end": 2520.3801,
+      "transcript": "during this time, you know, when you're doing back to back films, all of that. Routine,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2520.84,
+      "end": 2523.18,
+      "transcript": "what would you do? Like, what were your days?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2524.04,
+      "end": 2525.9001,
+      "transcript": "Like fifteen, sixteen years. When your film"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2526.28,
+      "end": 2527.74,
+      "transcript": "released, it was successful."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2529.08,
+      "end": 2530.7,
+      "transcript": "And what offers I"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2681.5,
+      "end": 2682.0,
+      "transcript": "Actually,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2682.4602,
+      "end": 2682.9602,
+      "transcript": "directors"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2685.5,
+      "end": 2686.56,
+      "transcript": "are important."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2691.34,
+      "end": 2693.36,
+      "transcript": "Then I realized that theme is important."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2693.98,
+      "end": 2695.36,
+      "transcript": "Director, script, and producer."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2696.605,
+      "end": 2697.105,
+      "transcript": "Correct."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2697.885,
+      "end": 2704.145,
+      "transcript": "And all three are equally important, but little more importance I would give to director and script. Producer comes to"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2705.725,
+      "end": 2707.345,
+      "transcript": "manage. Ideally, I'll have a strong producer."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2710.75,
+      "end": 2711.25,
+      "transcript": "Platform."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2712.35,
+      "end": 2714.2102,
+      "transcript": "Producer is correct resources."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2717.07,
+      "end": 2718.53,
+      "transcript": "Good producer is very important."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2742.51,
+      "end": 2743.01,
+      "transcript": "Flash"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2743.4102,
+      "end": 2743.9102,
+      "transcript": "in"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2744.31,
+      "end": 2744.81,
+      "transcript": "the"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2745.21,
+      "end": 2745.71,
+      "transcript": "pan."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2746.11,
+      "end": 2746.85,
+      "transcript": "Flash in the"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2748.75,
+      "end": 2749.25,
+      "transcript": "pan."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2770.89,
+      "end": 2773.63,
+      "transcript": "So what is that one film that changed it?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2773.93,
+      "end": 2778.51,
+      "transcript": "It was not a film that changed it. It was my inner strength that changed it. I have to say."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2780.49,
+      "end": 2782.75,
+      "transcript": "Within six months of my work starting after"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2783.915,
+      "end": 2784.4949,
+      "transcript": "I decided"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2880.3098,
+      "end": 2880.8098,
+      "transcript": "M"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2894.6948,
+      "end": 2896.315,
+      "transcript": "I'll get a new lease of life."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3006.6848,
+      "end": 3007.1848,
+      "transcript": "Discussion."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3007.885,
+      "end": 3008.7048,
+      "transcript": "Who's decision"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3010.125,
+      "end": 3010.625,
+      "transcript": "film"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3012.0715,
+      "end": 3012.5715,
+      "transcript": "film"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3014.0183,
+      "end": 3014.5183,
+      "transcript": "film."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3015.9648,
+      "end": 3017.345,
+      "transcript": "Actually, Reena, loser"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3030.975,
+      "end": 3032.5151,
+      "transcript": "they said, I said"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3038.175,
+      "end": 3040.195,
+      "transcript": "Actually, Krishna who bought turning point."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3041.135,
+      "end": 3042.435,
+      "transcript": "So I followed my heart."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3057.655,
+      "end": 3058.155,
+      "transcript": "Situation"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3059.735,
+      "end": 3060.235,
+      "transcript": "dream"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3060.8552,
+      "end": 3061.3552,
+      "transcript": "compromise."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3087.2048,
+      "end": 3088.665,
+      "transcript": "So if I'm not sure,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3089.125,
+      "end": 3090.105,
+      "transcript": "I don't mind that."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3090.565,
+      "end": 3092.105,
+      "transcript": "Mhmm. But I"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3100.14,
+      "end": 3101.2798,
+      "transcript": "So I stopped"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3101.74,
+      "end": 3102.72,
+      "transcript": "going by logic."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3114.9248,
+      "end": 3115.4248,
+      "transcript": "Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3116.365,
+      "end": 3116.865,
+      "transcript": "Decision."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3120.765,
+      "end": 3121.825,
+      "transcript": "Decision or thinking."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3128.045,
+      "end": 3128.61,
+      "transcript": "Mhmm. Magic."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3129.49,
+      "end": 3130.07,
+      "transcript": "Magic. Perfection."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3131.25,
+      "end": 3135.11,
+      "transcript": "So at the peak of your career, you also got married and became a father."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3135.7302,
+      "end": 3139.99,
+      "transcript": "No. Not at the peak of my career. Before my career started. Oh, before your career started. Okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3141.57,
+      "end": 3142.7102,
+      "transcript": "1986"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3143.5251,
+      "end": 3145.465,
+      "transcript": "or '86 April 18."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3147.125,
+      "end": 3147.625,
+      "transcript": "But"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3148.205,
+      "end": 3148.705,
+      "transcript": "eighty"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3149.2852,
+      "end": 3151.5552,
+      "transcript": "eighty six eighty eight release"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3158.28,
+      "end": 3164.06,
+      "transcript": "So then how how were you balancing personal and professional? Because you were working three shifts doing that."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3164.4402,
+      "end": 3166.54,
+      "transcript": "Because I used to get no time to be with"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3166.84,
+      "end": 3168.62,
+      "transcript": "Reena and it was a tough life."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3169.08,
+      "end": 3172.06,
+      "transcript": "But Reena and I used to, you know, spend time together also."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3180.9148,
+      "end": 3183.8948,
+      "transcript": "At best, we used to go for dinner, you know, somewhere in Bandra with"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3185.09,
+      "end": 3186.23,
+      "transcript": "friends of ours."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3186.77,
+      "end": 3188.71,
+      "transcript": "And how did fatherhood change you?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3189.33,
+      "end": 3190.95,
+      "transcript": "Fatherhood changed me a lot."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3191.41,
+      "end": 3192.6301,
+      "transcript": "Suddenly made me scared"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3193.01,
+      "end": 3193.75,
+      "transcript": "for life."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3194.05,
+      "end": 3198.95,
+      "transcript": "Mhmm. Until then, you have no responsibility. Suddenly, when you have a responsibility, you suddenly become conscious."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3203.1448,
+      "end": 3209.9648,
+      "transcript": "Mhmm. Thank you so much for your time. Thank you. And, it was wonderful. I think we lost we ran out of time. Actually, question."
+    }
+  ]
+}
