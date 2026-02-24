@@ -99123,7 +99123,6 @@
     "guest_original_label": "Speaker 2",
     "confidence": 0.5,
     "method": "speaks_first",
-    "detection_type": "fallback",
-    "interview_style": true
+    "detection_type": "fallback"
   }
 }

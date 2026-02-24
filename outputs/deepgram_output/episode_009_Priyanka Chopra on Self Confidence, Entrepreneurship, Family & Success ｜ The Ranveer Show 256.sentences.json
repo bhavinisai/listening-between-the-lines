@@ -1,0 +1,3765 @@
+{
+  "unit": "utterance (sentence-like)",
+  "num_segments": 537,
+  "segments": [
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 0.08,
+      "end": 0.9,
+      "transcript": "When I was younger,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1.76,
+      "end": 8.74,
+      "transcript": "it was really romanticized that you're going for it and just keep going. And, you know, it's like you have to work twenty four hours, do four movies"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 9.2,
+      "end": 28.5,
+      "transcript": "in one time, you know, five shifts, don't sleep, don't eat. And the more a person does that, the more successful you will be. But as I have seen and lived more life, I've realized having a work life balance is really important. So when you talk about a beach, I was in Turks and Caicos just recently. My phones were off, me and my husband, just by ourselves."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 28.82,
+      "end": 31.72,
+      "transcript": "We spent time. We walked on the beach. We collected shells."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 32.58,
+      "end": 34.68,
+      "transcript": "And then I came back feeling rejuvenated,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 35.06,
+      "end": 35.56,
+      "transcript": "feeling"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 35.94,
+      "end": 62.829998,
+      "transcript": "excited, and really motivated to take my career forward. I mean, this generation of girls is fearless. And there's so many girls that take charge of their own lives, and they say, you know, I'm not going to fit into the cookie cutter mold that probably my mother did or my grandmother had to. And it's so like, I have goosebumps right now just thinking about it. I meet so many young women who have changed the trajectory of their families because of the choices that they've made."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 63.69,
+      "end": 71.869995,
+      "transcript": "Our first episode of Priyanka Chopra was the thirteenth episode of TRS ever. Now we've crossed two fifty episodes on our English podcast."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 72.335,
+      "end": 79.314995,
+      "transcript": "Priyanka Chopra was our lucky charm back then. I think the entire trajectory, the destiny of the podcast changed."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 79.695,
+      "end": 80.994995,
+      "transcript": "And this conversation"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 81.454994,
+      "end": 84.195,
+      "transcript": "is an extension, a sequel of that conversation."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 84.72,
+      "end": 89.700005,
+      "transcript": "Priyanka Chopra has now begun her entrepreneurial journey with her brand, Anomaly."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 90.24,
+      "end": 97.14,
+      "transcript": "If you enjoyed the episode we did with her last time, you're going to enjoy this one even more because it's even more raw, it's even more detailed,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 97.520004,
+      "end": 99.62,
+      "transcript": "and it's even more motivational."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 100.515,
+      "end": 102.295,
+      "transcript": "Remember, if you're consuming this on YouTube,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 102.595,
+      "end": 122.11,
+      "transcript": "now we have subtitles on every episode. So hit that CC button and read along with us and also make sure to follow us on Spotify. We're Spotify exclusive. Every episode's available on Spotify forty eight hours before it's available anywhere else in the world. Priyanka Chopra returns on the Ranveer show in a new avatar,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 122.41,
+      "end": 123.39,
+      "transcript": "a new flavor."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 123.69,
+      "end": 126.03,
+      "transcript": "The new TRS is here."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 144.53,
+      "end": 145.59,
+      "transcript": "Today on TRS,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 145.89,
+      "end": 148.95,
+      "transcript": "we have one of the most productive human beings that"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 149.25,
+      "end": 150.63,
+      "transcript": "mankind has ever known,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 151.41,
+      "end": 152.47,
+      "transcript": "Priyanka Chopra."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 152.77,
+      "end": 154.29001,
+      "transcript": "For an international audience"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 155.295,
+      "end": 157.075,
+      "transcript": "welcome. For an Indian audience,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 162.09499,
+      "end": 162.59499,
+      "transcript": "Indians."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 162.89499,
+      "end": 163.39499,
+      "transcript": "Welcome."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 163.69499,
+      "end": 166.355,
+      "transcript": "Thank you so much, Ranvir. Thank you for having me back."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 167.295,
+      "end": 173.96,
+      "transcript": "I I have so much to say to you, which I'll finally offload now. Please do. I've been waiting for this. Anticipation has built to high levels."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 176.58,
+      "end": 181.0,
+      "transcript": "You and your podcast with us was a turning point in the whole podcast journey."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 181.535,
+      "end": 181.855,
+      "transcript": "And,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 182.495,
+      "end": 195.155,
+      "transcript": "fortunately, we had first mover's advantage for doing the podcast in India because podcasting wasn't a culture back. That's true. Yeah. That was right at the precipit of it. Yeah. And and when someone asked me what my favorite podcast was or my favorite guest was, I say you."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 195.54,
+      "end": 197.0,
+      "transcript": "I love being a favorite."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 198.5,
+      "end": 205.4,
+      "transcript": "There's a reason for that. Thank you. Okay. Which which I've not which I've not said online, but I will say. And I wanna say this in front of you."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 206.34,
+      "end": 213.805,
+      "transcript": "When you're doing podcast, you really sense the energy of the guest. Okay? And I've done all sorts of guests, like Bollywood, military, you you name it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 215.065,
+      "end": 216.44499,
+      "transcript": "You were the only person"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 216.905,
+      "end": 218.685,
+      "transcript": "who gave me a very, like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 219.065,
+      "end": 230.03,
+      "transcript": "quiet, calming energy. You sat. You understood. I was, like, crazy nervous. You calm me down, and you gave me the content that you knew would work for the show. It was kind of like you were helping a younger version of yourself."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 230.48999,
+      "end": 238.995,
+      "transcript": "Am I calling myself a younger version of you? I don't know. Who? Ravi? Maybe. Yeah. For sure. But I totally felt that. I felt so much help from you. And you didn't have to, but you were so nice."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 239.47499,
+      "end": 241.575,
+      "transcript": "And it kind of also gave me a reference point"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 242.19499,
+      "end": 256.64,
+      "transcript": "of how to just be as a media professional. Like, you're so professional, so thank you so much. Oh, thank you. That means so much to me. Yeah. It means a lot. I mean, even I was a newcomer, right, at one point. I also started at something different. And it's just so nice when"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 257.02,
+      "end": 264.08002,
+      "transcript": "someone understands what your goal is and instead of standing in your way, helps you pushes you just a little bit. And,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 265.18,
+      "end": 268.48,
+      "transcript": "and I I kind of maybe sense that feeling from you. And,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 269.34,
+      "end": 270.64,
+      "transcript": "I always like to,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 270.965,
+      "end": 273.545,
+      "transcript": "you know, stand and be helpful rather than"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 274.005,
+      "end": 274.505,
+      "transcript": "be,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 275.125,
+      "end": 287.04,
+      "transcript": "a thorn on your side. So I'm glad that it worked for you. No. You weren't a thorn at all. Should I make it heavy now, or should I warm you up a little bit? Whenever you want, buddy. I'm good. I I'm really good with heavy lifting. Okay. Are you happy in"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 287.41998,
+      "end": 292.72,
+      "transcript": "life? Yeah. Actually happier than I've been in a really long time. Okay. Why do you say that?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 293.25998,
+      "end": 295.28,
+      "transcript": "I think I reached a place where"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 295.9,
+      "end": 296.56,
+      "transcript": "I stopped"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 297.18,
+      "end": 298.4,
+      "transcript": "struggling with"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 299.045,
+      "end": 306.505,
+      "transcript": "the things I did when I was younger. Mhmm. Maybe it's maturity. Maybe it's, being on the other side of 35, I guess. And,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 307.125,
+      "end": 309.305,
+      "transcript": "maybe it is just having,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 310.325,
+      "end": 313.545,
+      "transcript": "my feet on the ground and a little bit more stable ground."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 314.51,
+      "end": 315.41,
+      "transcript": "But I think"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 316.03,
+      "end": 320.61002,
+      "transcript": "I'm not running as fast as I was. I'm thinking about the steps I take."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 321.15002,
+      "end": 324.69,
+      "transcript": "I'm in a really comfortable, content place when it comes to my life."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 324.99002,
+      "end": 328.69,
+      "transcript": "And the choices that I'm making are mine and are not defined by"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 329.42502,
+      "end": 335.125,
+      "transcript": "other people or the validation that I probably needed when I was younger. So I think that's made me a little bit more"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 335.505,
+      "end": 336.64502,
+      "transcript": "happy and calm."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 337.345,
+      "end": 337.845,
+      "transcript": "Okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 338.225,
+      "end": 339.52502,
+      "transcript": "While you say all that,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 340.225,
+      "end": 348.65,
+      "transcript": "I feel yours is one of the biggest success stories that India has ever seen. Like, very few Indian actors or anyone from the media industry has reached"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 349.03,
+      "end": 354.40997,
+      "transcript": "where you've reached in your life. Aren't you, like, done? Like like, why do you want more?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 354.78998,
+      "end": 357.93,
+      "transcript": "And then why What kind of question is that? I meant"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 358.31,
+      "end": 358.81,
+      "transcript": "see."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 359.135,
+      "end": 383.58,
+      "transcript": "I have this vision for myself that I'm only gonna work till about 35, 40 because then I just wanna chill on a beach. I'm asking you from the beach scenario. Sure. Don't you don't you kinda wanna go on a beach? Because every time you take up something new, there is a trade off of mental health in the long term. But you're just going for it. Like, you were going for it even during the last conversation and you're going for it now. So I'm just trying to, like, explore what's happening and why. I can help you understand it a little bit. Yeah. When I was younger,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 384.43997,
+      "end": 391.385,
+      "transcript": "it was very romanticized that you're going for it and just keep going. And, you know, it's like you have to work twenty four hours, do four movies"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 391.76498,
+      "end": 411.09998,
+      "transcript": "in one time, you know, five shifts, don't sleep, don't eat. And the more a person does that, the more successful you will be. But as I have seen and lived more life, I've realized having a work life balance is really important. So when you talk about a beach, I was in Turks and Caicos just recently. My phones were off, me and my husband just by ourselves."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 411.47998,
+      "end": 414.46,
+      "transcript": "We spent time, we walked on the beach, we collected shells."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 415.15997,
+      "end": 418.195,
+      "transcript": "And then I came back feeling rejuvenated, feeling"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 418.655,
+      "end": 421.875,
+      "transcript": "excited, and really motivated to take my career forward."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 422.255,
+      "end": 423.315,
+      "transcript": "So this romanticization"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 424.095,
+      "end": 424.595,
+      "transcript": "of"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 424.975,
+      "end": 426.11502,
+      "transcript": "work has to be"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 426.495,
+      "end": 431.22,
+      "transcript": "tough and work has to be rough, and it's not. Work can be your companion."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 431.6,
+      "end": 436.58002,
+      "transcript": "Work can be creative. Work can be something that gives you joy. And now I've reached a point"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 437.2,
+      "end": 439.94,
+      "transcript": "where that work life balance for me is most important."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 440.48,
+      "end": 441.78,
+      "transcript": "I will work on"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 442.225,
+      "end": 448.005,
+      "transcript": "the six verticals that I'm working on. You know, my business, my production, my book, my acting, whatever."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 448.70502,
+      "end": 476.015,
+      "transcript": "But when I switch off, I'm with my family, I'm at home, I watch movies, I do whatever I want to do. So then when I come back to work the next day, I have the focus to be able to do even more things. Mhmm. So when you're talking about retiring at like 35, 40, sure. If you wanna have a shack in Goa, used to be my dream when I worked like that too. But I wanna have a shack in Goa, not wear shoes, chappal pen, have fish fry all day. You know? And that's what I wanted to do. But"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 476.55502,
+      "end": 477.535,
+      "transcript": "as I realized"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 478.075,
+      "end": 481.535,
+      "transcript": "that there's something I love my job, and I love"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 481.915,
+      "end": 483.61502,
+      "transcript": "being able to create in"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 483.995,
+      "end": 486.255,
+      "transcript": "very different ways. I have the privilege"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 486.68,
+      "end": 491.42,
+      "transcript": "to be in a position that not many have been in, and I've created that by myself."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 491.96,
+      "end": 497.26,
+      "transcript": "I don't wanna give it up, and I don't want anyone to take it away from me. It's my legacy for my children"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 497.64,
+      "end": 503.145,
+      "transcript": "and for the future generation that may not have even seen the potential of something like that for themselves."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 503.685,
+      "end": 510.985,
+      "transcript": "Why would I give it up? Again, I feel you're you're helping a younger version of yourself. Sure. Somewhere in some other universe. I like deep sea diving. Let's go."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 512.08496,
+      "end": 512.58496,
+      "transcript": "Okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 513.365,
+      "end": 529.28,
+      "transcript": "What you wanna know about one of my favorite new hobbies? Yeah. It's watching really old episodes of Coffee with Karan and then seeing how everyone's trajectories were in life. Yeah. And my favorite episode one of my favorites was the one you did, I think, with Arjun Rampal in season one. Oh my gosh."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 529.66003,
+      "end": 534.745,
+      "transcript": "Even I I don't even know what I was What was I like then? You very different."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 536.645,
+      "end": 539.625,
+      "transcript": "How old must I when was that season? 2004?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 540.085,
+      "end": 541.385,
+      "transcript": "Holy wow."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 542.085,
+      "end": 546.885,
+      "transcript": "Would you like to know? Yeah. As a podcaster? Yeah. Yeah. I wanna know. I can't even 2004,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 546.885,
+      "end": 550.95996,
+      "transcript": "that means that's one year into me being an actor. Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 551.89996,
+      "end": 555.76,
+      "transcript": "I feel you're even different from, like, three years ago because lots have happened in those three years."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 556.38,
+      "end": 560.16,
+      "transcript": "You're even more chill now. Yeah. Like, I can I can feel that? Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 560.77997,
+      "end": 562.16,
+      "transcript": "You were very, like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 562.745,
+      "end": 566.285,
+      "transcript": "hyper kind of alpha when I last saw you in 2019."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 566.505,
+      "end": 568.045,
+      "transcript": "And in that episode,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 568.585,
+      "end": 569.485,
+      "transcript": "you're deeply"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 569.865,
+      "end": 585.79004,
+      "transcript": "professional and, what's the word, conscientious. Mhmm. You were like that. Like, you were just, you're very professional. I think Karan Johar said, hey, you know, well done and all. And your response was, yeah. I'm just trying to do my best job, guys. It was kind of like that. And I was just so nervous. I didn't know anything about the industry."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 586.25,
+      "end": 586.83,
+      "transcript": "I mean,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 587.30505,
+      "end": 589.16504,
+      "transcript": "the closest I had come to"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 589.625,
+      "end": 596.28503,
+      "transcript": "being in the business was taking a vacation to Bombay when I was 11 years old with my brother. And it was like, wow, Bombay."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 596.74506,
+      "end": 613.48,
+      "transcript": "You know that park where they have the shoe and the Hanging garden. Yeah. Hanging garden. I had photographs in the hanging gardens even now, and that was like going to the beach was seeing the queen's necklace. All of that was all I knew about Mumbai. Mhmm. The industry was terrifying to me, and I think that's probably why I reacted."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 614.28503,
+      "end": 617.10504,
+      "transcript": "It it it's a great message for young people because"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 617.48505,
+      "end": 625.265,
+      "transcript": "lots of people idolize you now because of what you've done now without understanding that it takes something as simple as that when you're beginning. Just be professional."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 625.645,
+      "end": 626.385,
+      "transcript": "Or just"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 626.79,
+      "end": 635.69,
+      "transcript": "give yourself a break. It's okay. You just have to do the best you can. Survive, keep your head above water and slowly you will see you will be walking on it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 636.39,
+      "end": 639.85,
+      "transcript": "When did you realize that you are starting to become successful in life?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 643.445,
+      "end": 646.025,
+      "transcript": "It's a really tough question because when I won"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 646.805,
+      "end": 647.865,
+      "transcript": "my first pageant,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 648.16504,
+      "end": 652.585,
+      "transcript": "which was Miss India, I was like, wow. I've won the world. I'm really successful."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 653.36005,
+      "end": 660.9,
+      "transcript": "Then I won miss world. And I was like, Did not even like, I had no computation of again, eighteen, seventeen."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 661.36005,
+      "end": 663.46,
+      "transcript": "Had had no understanding how it happened."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 663.84,
+      "end": 680.645,
+      "transcript": "But what I did understand was the opportunity it gave me. Suddenly people knew me, wanted to know me, gave me new opportunities. There were movies that were coming my way. I didn't know anything about how how do you sign a movie. My poor father was a physician. He couldn't know even more. And he was, like, highly protective."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 681.81,
+      "end": 694.31,
+      "transcript": "They gave up their practice. And for two working doctors who were very successful in Bareilly, and this is something I didn't even think about till I was, like, 30 years old, gave up everything to pursue my 19 year old dream."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 694.61005,
+      "end": 697.03,
+      "transcript": "My 19 year old opportunity is that even."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 697.805,
+      "end": 702.46497,
+      "transcript": "When someone sees your life the way you speak about it, there's a lot of blessings at a lot"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 702.845,
+      "end": 705.105,
+      "transcript": "of points. You believe in karma? Absolutely."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 705.485,
+      "end": 713.79,
+      "transcript": "You believe in reincarnation? I do. Do you think about what you did in your previous life to get this life now? I hope so. I do. And I always think about it like if you think,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 715.21,
+      "end": 716.11,
+      "transcript": "why do"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 716.73,
+      "end": 721.71,
+      "transcript": "I have why am I lucky enough to have the life that I do? And some other woman,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 722.17,
+      "end": 725.71,
+      "transcript": "somewhere else, with the same opportunity with the same desires,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 726.285,
+      "end": 727.02496,
+      "transcript": "same ambitions,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 727.805,
+      "end": 728.305,
+      "transcript": "same,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 728.925,
+      "end": 730.225,
+      "transcript": "you know, needs"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 730.605,
+      "end": 733.825,
+      "transcript": "doesn't have any of it. I really think about that a lot."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 734.20496,
+      "end": 739.105,
+      "transcript": "It makes me feel like there must be something I did right. I wake up every day with a sense of gratitude,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 739.55,
+      "end": 751.17,
+      "transcript": "and I wake up every day with wanting to give back. Whether that's with the person that is standing right next to me or whether that is a a life choice that I might make. But giving back,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 751.64496,
+      "end": 766.70496,
+      "transcript": "I think, is so crucial when it comes to being grateful. I'm highly grateful for everything that I have. And I do think that maybe I did something right, that I've been blessed with the opportunity of having the life, being born to the parents that I was, being able to have the"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 767.15,
+      "end": 769.25,
+      "transcript": "opportunity of making my own choices,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 769.63,
+      "end": 773.49,
+      "transcript": "having agency in my own life. If you think about women around the world,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 774.03,
+      "end": 780.45,
+      "transcript": "so many don't have that. The complete choices are made for themselves. But my parents told me, you have to have your opinion."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 781.15497,
+      "end": 781.89496,
+      "transcript": "What a"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 782.55493,
+      "end": 783.05493,
+      "transcript": "privilege."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 783.71497,
+      "end": 789.175,
+      "transcript": "Yeah. That's that's a part of the blessing being born to those parents. I mean, that's the biggest one probably. Yeah. Completely."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 790.755,
+      "end": 791.255,
+      "transcript": "Wow."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 791.63495,
+      "end": 797.42,
+      "transcript": "Okay. Hold on. I gotta I gotta take my thoughts and just put them together. I made you speechless. No. No."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 799.64,
+      "end": 800.14,
+      "transcript": "Okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 801.72003,
+      "end": 802.7,
+      "transcript": "With this whole"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 803.32,
+      "end": 808.78,
+      "transcript": "journey Mhmm. And this is a question that's been sent in from a lot of people who I spoke to before this chat."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 809.585,
+      "end": 812.485,
+      "transcript": "I've firstly, I wanted wanna tell you that you inspire"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 812.865,
+      "end": 813.365,
+      "transcript": "men,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 813.66504,
+      "end": 814.965,
+      "transcript": "women, everyone."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 815.34503,
+      "end": 818.485,
+      "transcript": "It's not about you just inspiring women. Okay?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 818.945,
+      "end": 822.405,
+      "transcript": "But I think you've shown a lot of women possibility."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 822.81,
+      "end": 827.31,
+      "transcript": "Like, an entire generation needed to be shown possibility, which has happened through people like yourself."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 828.33,
+      "end": 839.745,
+      "transcript": "Who's supposed to be born exactly in your age bracket to set the tone for, like, eighties born, nineties born, two thousands born? I absolutely agree. I was talking to somebody else about this yesterday. A young actor who was talking to me."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 840.04504,
+      "end": 842.465,
+      "transcript": "And I really did say that"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 843.405,
+      "end": 845.185,
+      "transcript": "my generation of women"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 845.965,
+      "end": 846.465,
+      "transcript": "changed"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 847.16504,
+      "end": 853.34503,
+      "transcript": "the trajectory of the next generation of women. My co actors, female co actors that fought"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 853.7,
+      "end": 865.64,
+      "transcript": "to be the face on the poster, that fought for agency in the movies that a lot of women didn't get before us, just opened the doors for the generation after us. And I think not just for women, but people,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 865.96497,
+      "end": 867.82495,
+      "transcript": "Our generation and every generation"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 868.365,
+      "end": 869.90497,
+      "transcript": "will always have a prototype"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 870.365,
+      "end": 894.22,
+      "transcript": "that will be better than us because we have changed the landscape. Right? Yep. And that's a huge responsibility on all of us. I remember Mary Kom being one of the first female led films. Yeah. Now so many films are That did, commercially well. Yeah. At that time. Yeah. I remember. Yeah. Mainstream. Yeah. Mainstream female led. And now there's so many female led films. Like And that's the thing. Like, that's another sorry. Not to put you on the spot, but"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 894.865,
+      "end": 900.72504,
+      "transcript": "films are films. Yep. And we still talk about female led films as female led films. We don't say that's a male led film."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 901.10504,
+      "end": 912.72003,
+      "transcript": "This person's film, Aamir Khan's movie, oh, we're watching a male led film today. Look. I hear you, but I'm also talking on behalf of the Indian masses. Completely. But that's as a vocabulary, we need to change that. Female athlete, female,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 913.34,
+      "end": 913.84,
+      "transcript": "politician,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 914.30005,
+      "end": 916.0,
+      "transcript": "female actress. Why?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 916.38,
+      "end": 917.52,
+      "transcript": "Actress, politician,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 917.98004,
+      "end": 918.48004,
+      "transcript": "athlete."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 919.18,
+      "end": 920.24005,
+      "transcript": "What is your message"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 921.165,
+      "end": 923.345,
+      "transcript": "for okay. I'm gonna ask you what's your message generally"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 923.725,
+      "end": 929.265,
+      "transcript": "and what's your message for girls? And I'm also gonna give you a supplementary point and say that this is not the end of the podcast. Is that one at a time?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 930.125,
+      "end": 934.46497,
+      "transcript": "This is not the end of the podcast, PC. There's so much more to unpack. But"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 935.15,
+      "end": 936.85004,
+      "transcript": "I actually do wanna ask you a message,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 937.23,
+      "end": 940.37,
+      "transcript": "for young, ambitious women out there. My sister,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 941.95,
+      "end": 942.61,
+      "transcript": "my girlfriend,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 942.99,
+      "end": 951.42505,
+      "transcript": "my my friends, everyone had this exact question for you that what's the message for the girls who are starting out their careers or who is trying to climb? I think it can be very scary."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 952.60504,
+      "end": 953.185,
+      "transcript": "You know,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 953.885,
+      "end": 973.05,
+      "transcript": "we I mean, this generation of girls is fearless. And there's so many girls that take charge of their own lives and they say, you know, I'm not going to fit into the cookie cutter mold that probably my mother did or my grandmother had to. And it's so like, I have goosebumps right now just thinking about it. I meet so many young women"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 973.40497,
+      "end": 977.90497,
+      "transcript": "who have changed the trajectory of their families because of the choices that they've made."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 978.925,
+      "end": 980.545,
+      "transcript": "I think my message would be"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 981.325,
+      "end": 982.785,
+      "transcript": "that there's a lot of noise"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 983.085,
+      "end": 989.89996,
+      "transcript": "around us. Narratives. Yeah. And people that tell us to be a certain way. That people that tell us that, you know,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 990.27997,
+      "end": 996.69995,
+      "transcript": "I was talking the other day about someone that when I went to convent school, I had this thing called moral science, a subject called moral science,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 997.07996,
+      "end": 1001.42,
+      "transcript": "which taught me how, you know, women shouldn't be, women should be seen, not heard."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1002.105,
+      "end": 1005.165,
+      "transcript": "The lengths of our skirts, how we should sit with our legs."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1005.705,
+      "end": 1011.885,
+      "transcript": "There's so much that has been told to women that to be a good girl, you have to be a certain way."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1012.345,
+      "end": 1013.885,
+      "transcript": "Good girls don't make history."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1014.585,
+      "end": 1015.645,
+      "transcript": "You know what I mean?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1016.22,
+      "end": 1021.36,
+      "transcript": "Bold girls make history. Bold people make history. So if you want to be"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1021.74,
+      "end": 1028.4,
+      "transcript": "the lead actor of the of your movie, which is your life, you've gotta take choices that might be"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1028.775,
+      "end": 1029.275,
+      "transcript": "contrary"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1029.655,
+      "end": 1031.675,
+      "transcript": "to what you've heard. And that"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1032.135,
+      "end": 1032.635,
+      "transcript": "empowerment"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1033.015,
+      "end": 1041.275,
+      "transcript": "may or may not come from your parents, may or may not come from your family, your boyfriend, or whoever you're around. It comes from you. And that"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1041.9501,
+      "end": 1046.77,
+      "transcript": "no one can do. You know? I, again, was lucky maybe because my parents gave me that."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1047.15,
+      "end": 1050.13,
+      "transcript": "But I try to remind young girls specifically"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1050.67,
+      "end": 1063.565,
+      "transcript": "that if you don't have that, if you don't have that encouragement in your home, try to find it in your gut because no one's gonna fix your life but you. Or try to find it from content. And I'm not just speaking on behalf of No. It's true. It is really true. Try to find inspiration"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1063.945,
+      "end": 1067.005,
+      "transcript": "from people that inspire you. I have been inspired"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1067.545,
+      "end": 1080.71,
+      "transcript": "every day by collaborators that I work with. The reason I take new steps is because I see someone else doing something new and I'm like, wow. I can touch my idea. I can't see anything. But I don't just sit with that. I think about my"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1081.25,
+      "end": 1081.75,
+      "transcript": "ideas."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1082.37,
+      "end": 1089.345,
+      "transcript": "What can I do that'll make me feel how I feel about this person? It's about that feeling. It's about imbibing"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1089.645,
+      "end": 1101.66,
+      "transcript": "from the people around you. And it could be someone you admire on television. It could be someone in your class. It could be someone that you work with. But when you see something that you admire about some someone,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1102.0399,
+      "end": 1102.86,
+      "transcript": "imbibe it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1104.44,
+      "end": 1112.235,
+      "transcript": "Mhmm. All this is exactly why I love that you're taking up entrepreneurship as your next step, like, very actively. You've been an entrepreneur in the past,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1112.635,
+      "end": 1118.415,
+      "transcript": "but here you're going, like, all out and saying that, okay. This is, like, the next big step."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1118.795,
+      "end": 1120.095,
+      "transcript": "I also feel that,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1120.875,
+      "end": 1121.375,
+      "transcript": "people"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1122.235,
+      "end": 1125.295,
+      "transcript": "my age, but actually younger than me, Gen z, deeply entrepreneurial."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1126.02,
+      "end": 1128.2001,
+      "transcript": "Everyone wants to start, like, their businesses. Absolutely."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1128.66,
+      "end": 1133.48,
+      "transcript": "And I'm sure you see this difference between, like, eighties and nineties born. Completely. And then the next one."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1134.3401,
+      "end": 1140.36,
+      "transcript": "How did this entrepreneurship thing start, PC? Like, where did it start and how how far do you want to take it?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1140.695,
+      "end": 1142.075,
+      "transcript": "I don't know. I don't think about"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1142.455,
+      "end": 1152.875,
+      "transcript": "the future. I'm not someone who I plan for the future, but I don't think about how far I can go. I mean, who knows what my future holds for me? But what I can think about is my present."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1153.95,
+      "end": 1165.965,
+      "transcript": "And like I said, I like to imbibe from people that I know. You know, your your future is so bright that there's conspiracy theories about you that you've made deals with the devil to achieve this level of success. That you're a satanic worshiper."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1166.445,
+      "end": 1170.625,
+      "transcript": "Horrible. It's that level of success that you reach. You very upset with me."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1171.885,
+      "end": 1173.6649,
+      "transcript": "Sorry. But go on. Go on."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1175.005,
+      "end": 1188.3,
+      "transcript": "No. I I just think that like I told you, I like to imbibe from the people around me. When I was becoming an actor, I didn't know anything about acting. So I used to sit and watch my co actors. I used to sit and watch why they did what they did. So"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1189.16,
+      "end": 1192.9401,
+      "transcript": "this came from a really funny thought. My mom, as soon as I turned 30,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1193.48,
+      "end": 1193.98,
+      "transcript": "she"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1195.125,
+      "end": 1198.025,
+      "transcript": "she's an entrepreneur, she's a doctor, she created her own business."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1198.805,
+      "end": 1214.49,
+      "transcript": "But as soon as I turned 30, she tracked me down and she said, Look, you're in Bollywood. Your shelf life is over. You know, nobody all these 50 year old actors only want to work with the girls in their twenties. So So after 30, you're not gonna have a job very much, you know, just like if you start planning for your future."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1215.11,
+      "end": 1218.65,
+      "transcript": "So what about making your own movies? You know, starting production."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1219.35,
+      "end": 1226.905,
+      "transcript": "And that at that time, it was really funny considering I'm 40 and I'm still have a very active acting career. But it was foresight on her end,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1227.685,
+      "end": 1232.585,
+      "transcript": "in an industry which kind of told women that that, you know, when you're 30, sorry, you're too old."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1233.4451,
+      "end": 1238.585,
+      "transcript": "So I started getting interested in production just thinking about the fact that I was gonna lose lose my day job."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1239.55,
+      "end": 1244.4501,
+      "transcript": "And then that became really interesting to me. The business of entertainment started becoming"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1244.91,
+      "end": 1258.995,
+      "transcript": "really interesting to me. I used to talk a lot to my producer friends, producers that I was working with. What are the choices they make? How are movies made? So you have a cost of production, you have to recover your cost of production to make profit. So I started getting into,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1259.6951,
+      "end": 1266.115,
+      "transcript": "what margins look like and just understanding that. And that was fascinating to me. Mhmm. Because it's so creative."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1267.61,
+      "end": 1270.43,
+      "transcript": "There are so many ways to be able to create something."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1270.89,
+      "end": 1273.0701,
+      "transcript": "And I think once I started doing production,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1273.85,
+      "end": 1280.03,
+      "transcript": "and I started working in America, I I knew my manager happened to be a venture capitalist,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1280.41,
+      "end": 1285.895,
+      "transcript": "and she was really into tech and stuff. So I was very interested in and at that time, she was just a collaborator."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1286.435,
+      "end": 1288.455,
+      "transcript": "But I really got interested in investments."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1289.635,
+      "end": 1290.855,
+      "transcript": "And I started with"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1291.155,
+      "end": 1301.43,
+      "transcript": "small investments in little things, and then those things became really big, like Bumble. So when I brought Bumble into India, I mean, Bumble changed the dating scene in India, especially for"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1301.81,
+      "end": 1313.165,
+      "transcript": "girls. And and that just showed me the power of being able to have a new idea. And the idea at that time was when Bumble was launched around the world and Whitney, who's a dear friend of mine, and launched it, she left Tinder"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1313.4651,
+      "end": 1316.525,
+      "transcript": "to make Bumble because she saw the gap in the market."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1317.305,
+      "end": 1317.805,
+      "transcript": "That,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1318.1051,
+      "end": 1322.3651,
+      "transcript": "you know, we wanna be able to create a safe space where women have the first opportunity,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1322.8251,
+      "end": 1326.2051,
+      "transcript": "where women can take the first step. And that was such a brilliant plan."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1326.63,
+      "end": 1332.97,
+      "transcript": "And what I said to her was India needs it the most. Mhmm. Because of especially the unsafe circumstances"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1333.27,
+      "end": 1344.895,
+      "transcript": "within which girls have to survive and live in sometimes in India. And it's being used in tier three, tier four now. Absolutely. How beautiful is that? Like, again, I have goosebumps just thinking about the fact that this came from an idea."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1345.275,
+      "end": 1351.775,
+      "transcript": "So ideas are what was really interesting to me. And then being able to work with people who can help me execute ideas"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1352.155,
+      "end": 1353.855,
+      "transcript": "is what really started the entrepreneur,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1355.4299,
+      "end": 1360.89,
+      "transcript": "journey in me. First, I started with investments, and Anomalies is my first brand that I founded myself"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1361.27,
+      "end": 1363.61,
+      "transcript": "with the help of Mesa. Thank you."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1364.15,
+      "end": 1365.75,
+      "transcript": "With the help of Mesa that were,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1366.23,
+      "end": 1369.2899,
+      "transcript": "who are market leaders and leaders in incubating new brands,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1369.665,
+      "end": 1370.885,
+      "transcript": "specifically in beauty."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1372.145,
+      "end": 1384.2599,
+      "transcript": "And and then Nykaa, of course, bringing them. But I really lean on my partners to learn from them. And I just love the fact that you can have an idea today and monetize it. Why not? It you're not rec you're not just,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1385.6799,
+      "end": 1389.46,
+      "transcript": "reduced to I wouldn't say reduced to because I come from a family of doctors and engineers."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1389.84,
+      "end": 1395.7,
+      "transcript": "But at that time, in my parents' generation and the generation before that, it was doctor, engineer, lawyer, military,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1396.0,
+      "end": 1401.575,
+      "transcript": "government job. Like, those five or six things that everyone had to aim for. But today,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1401.955,
+      "end": 1409.975,
+      "transcript": "like, I think my generation of parents are not going to have those boxes for our children. Right? You have an idea. Let's run with it. Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1410.72,
+      "end": 1418.1799,
+      "transcript": "I have this little crystal ball with me everywhere that I go that only I can see. And it shows me the future. Oh, yeah. I think you're gonna be a multi billionaire"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1418.88,
+      "end": 1421.54,
+      "transcript": "going forward. From your mouth to God's ears, please."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1422.0,
+      "end": 1428.315,
+      "transcript": "Remember the moment we had before the shoot began? I said, I don't wanna talk to you until the camera started rolling and the lights went off. My crystal ball looked bad."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1429.1749,
+      "end": 1430.875,
+      "transcript": "But I also I also generally"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1431.335,
+      "end": 1435.595,
+      "transcript": "wanna talk about that crystal ball a little bit Mhmm. And what it tells me."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1436.2949,
+      "end": 1444.78,
+      "transcript": "Everyone knows that going to America was very good for the career, the material aspect of life. I feel it helped you a lot as a person as well."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1445.0801,
+      "end": 1446.06,
+      "transcript": "America does"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1446.4401,
+      "end": 1462.935,
+      "transcript": "have this very different entrepreneurial energy. It's got like this little like accepting energy. As long as you're willing to work hard, the country just accepts you. You'll be able to create further opportunity yourself. But now I'll let you unpack. I just I feel I feel it's been great for you. And,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1463.635,
+      "end": 1466.135,
+      "transcript": "the harsh truth, I'm gonna say it online,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1466.68,
+      "end": 1473.98,
+      "transcript": "is that India finds things cooler when they become cool abroad and then come back. I mean, that's a fact. It's like Swami Vivekananda"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1474.36,
+      "end": 1479.5,
+      "transcript": "is used as one example? That's our that's our colonial background. We still haven't been able to shed that."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1483.105,
+      "end": 1485.0449,
+      "transcript": "You know, we have a lot of equity on,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1485.985,
+      "end": 1489.0449,
+      "transcript": "on things that come from the West. That I agree is a fact."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1489.825,
+      "end": 1490.325,
+      "transcript": "But"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1491.265,
+      "end": 1494.325,
+      "transcript": "no, it's not it's not the easiest thing to be"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1494.76,
+      "end": 1497.9,
+      "transcript": "an Indian in America. Yeah. It's not easy."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1498.52,
+      "end": 1505.74,
+      "transcript": "Priyanka Chopra said that? Said that? I mean, yes. I've had a I started working in The States in 2010."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1506.2,
+      "end": 1509.635,
+      "transcript": "And in 2020,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1510.095,
+      "end": 1511.795,
+      "transcript": "after ten years of working"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1512.175,
+      "end": 1514.355,
+      "transcript": "in the industry, I started with music"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1514.655,
+      "end": 1516.915,
+      "transcript": "and then pivoted into acting in America."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1517.375,
+      "end": 1519.055,
+      "transcript": "So started in 2010,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1519.055,
+      "end": 1520.975,
+      "transcript": "for context. In 2020,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1520.975,
+      "end": 1522.595,
+      "transcript": "I got my first leading role."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1523.1,
+      "end": 1525.92,
+      "transcript": "How long did it take me? Ten years."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1526.7,
+      "end": 1528.24,
+      "transcript": "So people don't think about"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1528.7,
+      "end": 1530.4,
+      "transcript": "how much hard work,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1530.78,
+      "end": 1532.16,
+      "transcript": "how much consistent"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1532.94,
+      "end": 1538.8351,
+      "transcript": "knocking on doors, how much humility it takes to go to another country and start from scratch."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1539.615,
+      "end": 1544.035,
+      "transcript": "I had built an incredible career here, an amazing credibility here."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1544.895,
+      "end": 1545.295,
+      "transcript": "And,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1546.495,
+      "end": 1548.515,
+      "transcript": "I got an opportunity to do music,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1548.99,
+      "end": 1552.37,
+      "transcript": "and people were curious about the fact that because I could sing,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1552.75,
+      "end": 1556.69,
+      "transcript": "what that could be. And I'm a big fan of the music industry anyway."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1556.99,
+      "end": 1557.49,
+      "transcript": "We,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1557.87,
+      "end": 1574.55,
+      "transcript": "in India, monopolized by Bollywood when it comes to music so much. For now? I hope so. I hope so. That we've not really been able to bifurcate into pop, you know, pop music or pop culture when it comes to music. It's still very niche. So I was really a big fan of, like, music and musicians and,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1575.03,
+      "end": 1582.41,
+      "transcript": "very excited about that opportunity. Went there, worked with the most incredible musicians, and quickly realized that I'm not as good as them,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1582.7101,
+      "end": 1583.27,
+      "transcript": "you know?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1583.67,
+      "end": 1586.65,
+      "transcript": "And I should go back to my day job. I don't lie I'm very,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1587.3501,
+      "end": 1590.41,
+      "transcript": "astute when it comes to I don't lie to myself."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1590.925,
+      "end": 1596.0651,
+      "transcript": "I'm very honest to myself. So I did the music. I love the music that I did for myself, but it wasn't"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1596.925,
+      "end": 1604.0651,
+      "transcript": "my standard of excellence. It was good. It was fun. Played on the radio. It was successful. Sold a lot of CDs. But it wasn't"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1605.0851,
+      "end": 1605.905,
+      "transcript": "my lane."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1606.48,
+      "end": 1617.5399,
+      "transcript": "And that made me want to dabble in acting as well and see if there was an opportunity there. But it required me to strip every single thing that I knew in India"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1618.0,
+      "end": 1639.23,
+      "transcript": "and the laurels that I had achieved in India, the awards that I had won, the movies that I had done, the box office successes that I had seen. It required me to walk into rooms with extreme humility and introduce myself to people, To take my showreel and say, this is the work I have done. I would love to work with you. I would love to see if there's an opportunity with you."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1640.33,
+      "end": 1643.39,
+      "transcript": "I remember I had to do I mean, I've done so many"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1643.77,
+      "end": 1646.03,
+      "transcript": "small roles in big movies in Hollywood,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1646.8049,
+      "end": 1652.0249,
+      "transcript": "but that's what it took for me when I started here too. A lot of people used to say to me, oh, she's left,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1652.565,
+      "end": 1661.1799,
+      "transcript": "doing Bollywood movies to do small roles in Hollywood. It started with every new actor starts there. You have to start with from the beginning,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1661.5599,
+      "end": 1664.0599,
+      "transcript": "and I don't sit with that,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1665.5599,
+      "end": 1671.82,
+      "transcript": "you know, if you're if I'm successful in one country, then everyone in the world should treat me like I'm a queen. It doesn't work that way."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1672.12,
+      "end": 1675.26,
+      "transcript": "So I'm Which is the case for a lot of big stars in a Most"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1675.765,
+      "end": 1679.5449,
+      "transcript": "a Most people I don't know about that, but most people expect"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1679.845,
+      "end": 1680.745,
+      "transcript": "and anticipate"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1681.285,
+      "end": 1685.945,
+      "transcript": "that if you are treated a certain way or if you're making a certain amount of money,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1686.565,
+      "end": 1697.73,
+      "transcript": "in a certain country, you're going to be treated the same way because everyone is waiting in Hollywood to cast you. Right? They're just waiting for Priyanka Chopraha. We were just waiting for you to come only, Priyanka. Change the trajectory of movies."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1698.19,
+      "end": 1711.525,
+      "transcript": "Of course. Hollywood is not the same without you. It doesn't work that way. You have to go. You have to pound the pavement. You have to walk in. You have to be rejected. You have to audition. And you have to work around the culture of a new country."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1711.905,
+      "end": 1718.23,
+      "transcript": "And that was so hard. I had to swallow the humility pill, and I was willing to do that hard work. And then"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1718.6901,
+      "end": 1729.27,
+      "transcript": "ten years later, I finally got my leading role in a movie. I finally got the same remuneration as a man, which I never did in Bollywood. I have never got the same"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1729.745,
+      "end": 1738.645,
+      "transcript": "check as my male co actor even if my part is the same, even if I've held the movie as much as I can. Finally, I got it in 2021"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1739.1051,
+      "end": 1742.245,
+      "transcript": "after twenty one years of working. Mhmm. So"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1743.45,
+      "end": 1747.7899,
+      "transcript": "it seems like, oh my gosh, America was so great for you and Hollywood was awesome."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1748.1699,
+      "end": 1749.07,
+      "transcript": "But the tears"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1749.45,
+      "end": 1753.23,
+      "transcript": "that it took when you moved to a new country with no friends,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1753.61,
+      "end": 1754.27,
+      "transcript": "no family,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1754.73,
+      "end": 1760.835,
+      "transcript": "working with people that don't know you and don't know what you are able to achieve. When I first started doing Quantico,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1761.2949,
+      "end": 1764.835,
+      "transcript": "my co actors did not understand the hoopla around me. They were like,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1765.2949,
+      "end": 1767.5549,
+      "transcript": "why is like, who is this person?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1767.855,
+      "end": 1773.85,
+      "transcript": "Like, why are you, you know, the lead of a that was the first time I got a lead role in a television series."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1774.23,
+      "end": 1779.1299,
+      "transcript": "And they just couldn't understand why. And it it it required me to just,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1779.4299,
+      "end": 1783.1299,
+      "transcript": "you know, be humble and say, I'm okay. This is a new environment."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1783.59,
+      "end": 1803.7201,
+      "transcript": "It it's it's easy to go, you know, fishing from your boat. But when you have to go deep sea diving, it's a completely different thing. Yeah. So you have to learn according to your environment. So no. It wasn't easy. It was very hard. It took a lot of sweat, tears, and blood from me to finally be able to reach where I have reached. So when you say, you know, I I don't wanna pass off,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1804.5,
+      "end": 1807.64,
+      "transcript": "the work that it took to get there and the time and the commitment"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1808.26,
+      "end": 1809.64,
+      "transcript": "that it took to get there."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1810.02,
+      "end": 1825.7549,
+      "transcript": "But look at you now. Look at me now. But I'm still at the beginning. That's what I'm saying. It's the first movie that I'm doing with as a lead part. Who knows where else I'll go? Again, the the mainstream narrative, though, on you is that things have just gone upwards. So I like I love that you're saying this. Because I'm not someone who,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1827.75,
+      "end": 1831.53,
+      "transcript": "talks about my struggles too much. Why don't we talk about your struggles a little?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1831.91,
+      "end": 1847.6951,
+      "transcript": "That's it. Okay. You have to ask me the questions. Did people try jeopardizing your career here, there, at any point? Because that's the one thing I'm slowly learning about success. Like, the moment you start climbing that ladder, there's too many people who don't like that you're climbing the ladder and try pulling you down."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1849.435,
+      "end": 1850.655,
+      "transcript": "I don't know. Unfortunately,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1850.9551,
+      "end": 1851.935,
+      "transcript": "I feel like"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1853.91,
+      "end": 1855.9299,
+      "transcript": "in India, we've been taught that mindset."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1856.63,
+      "end": 1858.97,
+      "transcript": "We are not people as a people."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1859.51,
+      "end": 1864.49,
+      "transcript": "Very few of us are happy for somebody else's success because we we"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1865.75,
+      "end": 1867.53,
+      "transcript": "again, I think my hypothesis"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1868.0449,
+      "end": 1875.725,
+      "transcript": "and I don't know, I'm I'm not someone who's an expert on the field, but my hypothesis is that, you know, we were colonized till 1947."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1875.725,
+      "end": 1893.28,
+      "transcript": "Yeah. I agree. We just about not even a hundred years. We've just about been our own country, our own people. It's divide and rule, but on an emotional level. Exactly. And our generation has to recognize that. Our generation has to say, hold on. Hold on. Why is my natural instinct"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1893.945,
+      "end": 1900.365,
+      "transcript": "when someone is successful is to be jealous? Why is my natural instinct when someone is successful to be envious?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1900.9049,
+      "end": 1903.325,
+      "transcript": "Why is my natural instinct not saying,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1903.7849,
+      "end": 1907.325,
+      "transcript": "wow, you've done so great. Let me add on to this person."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1907.625,
+      "end": 1914.13,
+      "transcript": "Let me push you forward because then you are pulling me forward. Mhmm. There is such a strength in numbers"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1914.75,
+      "end": 1915.89,
+      "transcript": "which we don't recognize."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1916.35,
+      "end": 1918.61,
+      "transcript": "If we only collectively banded together"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1918.99,
+      "end": 1919.97,
+      "transcript": "and supported"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1920.27,
+      "end": 1926.1449,
+      "transcript": "other successful people in our fields, we would be unstoppable in the world. We are one fifth of the world's population,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1926.7649,
+      "end": 1933.4249,
+      "transcript": "but we've never been able to take our own stand because of that reason. I feel this is something we can learn from the West."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1933.8049,
+      "end": 1937.73,
+      "transcript": "We cheer each other more than what we do. Probably. Probably. I don't know about"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1938.11,
+      "end": 1954.675,
+      "transcript": "where that learning comes from, but I just I just like you, I've also had people wanting to jeopardize my career. Like, what used to happen? I don't know. Take away from work, make sure that I wasn't cast just because, you know, I was doing well in what I was doing. But that's not what stopped. I don't sit and wait and,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1955.535,
+      "end": 1974.1,
+      "transcript": "harp on I mean, maybe I'll cry one night or the other when an opportunity was taken away from me, but I don't sit in the shit. You know? You can sit in the shit and then you'll start smelling of it. And then you don't even know you're smelling of it because you got so used to it. So then you just become dark and negative and you'll never move forward. You have to shut off the noise."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1974.4,
+      "end": 1989.7949,
+      "transcript": "There are many people that will want to pull you down. But don't focus on that. Focus on the one person that believes in you. Focus on the light, little sliver of light that you might see, a little bit of inspiration that you might see. And that's the hardest thing to do because you're bogged down by baggage."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1990.17,
+      "end": 1996.3501,
+      "transcript": "You're bogged down by shackles of people holding you down. So you have to really push forward. And that's just individual."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1996.9701,
+      "end": 2007.115,
+      "transcript": "Do you have that inside of you to fight that fight for yourself? Or are you going to wait for somebody else to do it? That's an individual choice. Let's talk about that little sliver of light. Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2008.215,
+      "end": 2016.235,
+      "transcript": "I don't know how else to put this, but is that God for you? Is that the higher power? I mean, a lot of it is. I really do believe in destiny."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2016.775,
+      "end": 2017.995,
+      "transcript": "I believe in"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2018.34,
+      "end": 2018.84,
+      "transcript": "I'm"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2019.22,
+      "end": 2020.6799,
+      "transcript": "someone who has a lot of faith."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2022.4199,
+      "end": 2023.1599,
+      "transcript": "I pray,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2023.94,
+      "end": 2028.76,
+      "transcript": "a lot. What do you how do you pray and what do you pray for? I do puja almost every day. I do"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2029.62,
+      "end": 2033.4,
+      "transcript": "gratitude. What's your interaction with the higher power? Thank you."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2033.8151,
+      "end": 2040.875,
+      "transcript": "And? It starts with thank you. It starts with thank you for my health, thank you for my life, thank you for my family, thank you for my life,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2041.255,
+      "end": 2041.755,
+      "transcript": "lifestyle."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2042.2151,
+      "end": 2044.795,
+      "transcript": "Thank you for my ability to,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2045.5751,
+      "end": 2048.635,
+      "transcript": "be a nice human being, to be a grateful person."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2050.26,
+      "end": 2052.6,
+      "transcript": "And then I'll ask for a few things too."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2053.1401,
+      "end": 2055.0,
+      "transcript": "What are you asking for now, Peecee?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2056.26,
+      "end": 2057.32,
+      "transcript": "Manifest it."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2058.02,
+      "end": 2061.4001,
+      "transcript": "I don't know. I I mean, I don't know. I don't think that I"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2061.705,
+      "end": 2068.845,
+      "transcript": "believe listen, a lot of people believe in the secret and the vision board and all of that, but it's not something that ever worked for me. I tried it."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2069.145,
+      "end": 2078.42,
+      "transcript": "I had a vision board. I put shit up on it and I was like, okay, this is what I wanna achieve. But I didn't focus enough on it for it to work. For me, what has always worked is"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2079.2,
+      "end": 2082.26,
+      "transcript": "having the small next dream, you know,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2082.8,
+      "end": 2083.86,
+      "transcript": "the next step."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2084.4,
+      "end": 2093.715,
+      "transcript": "So that you always have to take a step up in the ladder to be able to get to the top. You can't get to the top by flying up. Human beings don't fly. It's a way of saying manifest something achievable."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2094.0151,
+      "end": 2097.5552,
+      "transcript": "Yes. And then slowly you'll turn around and say, oh, woah."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2098.2551,
+      "end": 2101.475,
+      "transcript": "Look at this legacy I've created. But if you have unachievable"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2101.7751,
+      "end": 2103.235,
+      "transcript": "dreams, something that seems"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2103.59,
+      "end": 2106.41,
+      "transcript": "too out of the ordinary, then you are waiting for a miracle."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2107.11,
+      "end": 2107.77,
+      "transcript": "And miracles"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2108.23,
+      "end": 2109.53,
+      "transcript": "don't happen very often."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2109.99,
+      "end": 2117.69,
+      "transcript": "You have to create it for yourself. So what's the next step in your big dream? So if you want to buy a car, say for example, you have to figure out how much it's for."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2118.1748,
+      "end": 2121.795,
+      "transcript": "So if you don't want to buy a car, you don't want to buy a car. So if you don't want to buy a"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2122.4148,
+      "end": 2137.04,
+      "transcript": "car, you have to work backwards from your goal. So if my goal is one thing, I'll work backwards. And what is the first step in that goal? I'll take that. Then the next step in that goal, and slowly you'll buy your car. What would you like to change about this whole journey till this point? Is there anything you'd like to do differently?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2137.82,
+      "end": 2141.2,
+      "transcript": "Yeah. I'd like to tell my younger self not to have stressed out so much."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2141.66,
+      "end": 2142.16,
+      "transcript": "I"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2142.7,
+      "end": 2144.72,
+      "transcript": "used to have a lot of anxiety around"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2145.255,
+      "end": 2148.4749,
+      "transcript": "losing my job, losing my position. Losing time."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2148.855,
+      "end": 2156.875,
+      "transcript": "That's no Never time. Because that's a very, very common thing now with teenagers with college. Everyone's afraid that they're getting too old when they're 18."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2158.375,
+      "end": 2161.18,
+      "transcript": "I I mean, I'm not afraid at 40 of getting too old yet."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2162.04,
+      "end": 2168.14,
+      "transcript": "Yeah. Well, that'll that's your glass ceiling for you right there. What do you mean? I mean, you're telling yourself you're too old at 18."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2168.68,
+      "end": 2169.42,
+      "transcript": "It's like"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2169.96,
+      "end": 2181.5852,
+      "transcript": "everyone's aging. That's the one thing as a fact we know, birth and death. That's going to happen to all of us. You have to age. You have to like, that's something to really come to terms with early on in your life."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2182.445,
+      "end": 2184.145,
+      "transcript": "I feel aging feels really nice."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2184.445,
+      "end": 2186.225,
+      "transcript": "Like, it it makes you feel very chill."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2186.53,
+      "end": 2191.9902,
+      "transcript": "Why are we putting so much equity on aging? Mhmm. That's the one thing we know that is going to happen."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2192.4502,
+      "end": 2194.6301,
+      "transcript": "What is the stress around it? Mhmm."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2194.9302,
+      "end": 2204.0251,
+      "transcript": "You're gonna get older. I mean, yeah, I feel like I did when I was still 18, but, like, I'm going to get older. And who am I right now at this age is what's important."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2204.3252,
+      "end": 2205.705,
+      "transcript": "What is my best opportunity"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2206.245,
+      "end": 2209.145,
+      "transcript": "at 18, at 25, at 35, at 60?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2209.5251,
+      "end": 2216.185,
+      "transcript": "Who is it that you wanna be? I was just doing an interview with, Falgreen Nair, and she started and started Nykaa at 50."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2217.15,
+      "end": 2241.5452,
+      "transcript": "Like, that was her idea. And she built it into an empire today. So age ain't nothing but a number. That's a real, real fact. We put too much equity on age. It just doesn't matter. What matters is what you do about your life in the moment right now. Yeah. It's It's also the people around other people telling them that they're getting too old. So then don't keep those people around you. Break up with them. Bye. Peace out. Keep the people around you that"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2242.0051,
+      "end": 2257.98,
+      "transcript": "are your champions. And maybe this is also something I realize when I'm older, but I tell young people this all the time. Do not hang around with poisonous people. Do not keep people around you that are toxic, that mess with your brain. Keep people around you that are genuinely happy with happy for you."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2258.28,
+      "end": 2263.2349,
+      "transcript": "Only people that are genuinely happy for you and whether if that's two people, you are a rich person."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2264.335,
+      "end": 2268.115,
+      "transcript": "Yeah. Meeting you was a very big turning point for me. I mean, I'm saying that again. In what way?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2268.575,
+      "end": 2282.45,
+      "transcript": "Just saw what you are in truth, you know, in in reality who you are. Right. So many people put on masks on the show, even today. Yeah. I've done so. You are twelfth episode. I've done 400 now. Wow. And we still have lots of people putting on masks."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2282.8298,
+      "end": 2287.0898,
+      "transcript": "You're just the same person. You're very real, very professional, very polite."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2288.1099,
+      "end": 2291.89,
+      "transcript": "People can sense the kindness. That's the joy of podcasting that you really get to know"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2292.245,
+      "end": 2295.865,
+      "transcript": "who the other person is over a long, nice conversation like this."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2296.485,
+      "end": 2298.425,
+      "transcript": "But it's not easy to be a public person."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2298.965,
+      "end": 2300.585,
+      "transcript": "Like, you know, I we"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2301.365,
+      "end": 2307.3,
+      "transcript": "we talk a lot about and we point a lot of fingers at celebrities and public people. It's"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2309.28,
+      "end": 2310.82,
+      "transcript": "a really hard job."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2311.3599,
+      "end": 2321.795,
+      "transcript": "It is so hard to be dinner table conversation every single day. It is so hard to walk into a room and know that somebody is going to be talking about me when I leave. Good, bad, ugly, not my control."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2322.095,
+      "end": 2326.675,
+      "transcript": "It is so hard to wake up every morning and know that I am for public consumption."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2327.135,
+      "end": 2327.635,
+      "transcript": "And"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2327.935,
+      "end": 2336.93,
+      "transcript": "my it can be an opinion that is completely the opposite of who I am. People could think I'm unlikable. People could say that I'm a horrible person. People could say I'm unprofessional."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2337.23,
+      "end": 2343.49,
+      "transcript": "That's not my truth. But I can't change that opinion. So if I sit and read every comment or every"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2344.0298,
+      "end": 2354.825,
+      "transcript": "negative thing on social media or keep wondering about the paranoia of when I walk out of a room. What is someone saying? Oh my god. I'll never be able to achieve anything. But it's so hard. Cut people a break."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2355.205,
+      "end": 2364.02,
+      "transcript": "Cut public people. Everyone aspires to be a celebrity. Everyone is like, oh, I wanna be famous and I wanna be in that position. But nobody sees how hard it is."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2364.4001,
+      "end": 2378.115,
+      "transcript": "Like, it is so hard when you are going to a shadi. Suppose your family is a shadi. And everyone is talking about you and pointing fingers at you. Can you imagine how you'll feel? Do you still go for family functions and all that? Can you? Can you? Because of the same fame angle. Means?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2378.655,
+      "end": 2398.3699,
+      "transcript": "You've reached, like, this level of fame. I I can't imagine. So you're saying I'm not gonna dance on the barat of my brother's wedding? Maybe. No problem. Maybe nai bhai, of course. My cousins, my brothers, we, Family is most important to me. My fame is a byproduct of my job. It does not define me. My fame is not my job. It's very clear to me."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2398.99,
+      "end": 2400.77,
+      "transcript": "I am not famous for a living."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2401.63,
+      "end": 2404.935,
+      "transcript": "I work for a living. And fame comes with it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2405.415,
+      "end": 2423.68,
+      "transcript": "So it's not something I can control. Yeah. That's something that's thrust upon me. The reason I'm asking you such, like, incisive questions is, again, I'm trying to learn like here. Yeah. Like, you're you're setting the bar for other media professionals. And that's what I meant the last time as well. I realized that this is what it takes. You know, this this kind of professionalism, this this kind of energy."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2424.14,
+      "end": 2431.3599,
+      "transcript": "So don't get me wrong. No. I don't get I'm not getting you wrong at all. I'm just trying to elaborate on something that people don't really think about sometimes."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2431.74,
+      "end": 2436.0798,
+      "transcript": "You know? Public people, even though you're seeing a celebrity or"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2436.405,
+      "end": 2439.865,
+      "transcript": "someone everyday on like billboards or or magazines,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2442.085,
+      "end": 2457.28,
+      "transcript": "there's still a human being behind them. They also like to eat paratha and achar. They also like to sit in a like we also like to sit in a palti and dance at the bara to your cousin and make sure that you get, you know, great food. The chores the desires of a human being is the same. Mhmm."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2458.14,
+      "end": 2466.255,
+      "transcript": "The needs or at least the people that I know. I keep my friends, my family. I'm a very grounded person. I come from the ground and I'm gonna stay there."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2467.055,
+      "end": 2497.185,
+      "transcript": "And the day I behaved a certain way, my mom would put a tupply on my head and say, come back to Earth, buddy. Does it happen now? Because I don't need it. I don't come from a place of arrogance. Okay. Gotcha. I never did. I mean, I may have had a little bit of that when I was in my early twenties, where I was like, wow, I'm famous. Everyone knows me. And then quickly I realized when six of my films flopped that it doesn't last, buddy. You have to consistently keep working. So I never rest rest on my laurels. That's the that's that's your downfall right"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2497.565,
+      "end": 2498.2249,
+      "transcript": "there. Alright."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2498.605,
+      "end": 2500.545,
+      "transcript": "Too much to absorb here."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2500.845,
+      "end": 2505.7449,
+      "transcript": "I do have one final question. Too much gyan. You always give me gyan. This is great."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2506.045,
+      "end": 2507.585,
+      "transcript": "That's how we get the views."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2508.205,
+      "end": 2508.705,
+      "transcript": "Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2509.325,
+      "end": 2510.625,
+      "transcript": "Thanks for the views, PC."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2511.85,
+      "end": 2512.59,
+      "transcript": "So anyway,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2513.3699,
+      "end": 2515.15,
+      "transcript": "views are like drugs for YouTubers,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2515.53,
+      "end": 2516.03,
+      "transcript": "but"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2516.97,
+      "end": 2517.77,
+      "transcript": "True. Okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2519.85,
+      "end": 2521.79,
+      "transcript": "So here's my honest question,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2522.41,
+      "end": 2523.31,
+      "transcript": "in terms of"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2523.69,
+      "end": 2531.055,
+      "transcript": "success. I genuinely mean it when I say that, like, in the modern day, you're one of the most successful human beings on this planet."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2532.2349,
+      "end": 2535.295,
+      "transcript": "After seeing so much success, what have you understood about the meaning of life?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2537.515,
+      "end": 2539.375,
+      "transcript": "What does life become after us?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2539.85,
+      "end": 2543.47,
+      "transcript": "Like, why do you have to keep going? Why can't we all just"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2544.09,
+      "end": 2546.59,
+      "transcript": "go to beaches or meditate or become monks?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2546.8901,
+      "end": 2549.71,
+      "transcript": "You can. Okay. What's what's your meaning of life?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2550.33,
+      "end": 2552.91,
+      "transcript": "I think the meaning of life is having purpose."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2553.8152,
+      "end": 2554.635,
+      "transcript": "We're born and we'll"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2555.2551,
+      "end": 2555.7551,
+      "transcript": "die."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2556.7751,
+      "end": 2558.395,
+      "transcript": "What you do in between that"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2559.0151,
+      "end": 2560.475,
+      "transcript": "is your legacy."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2560.8552,
+      "end": 2562.475,
+      "transcript": "And if your legacy is,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2563.0151,
+      "end": 2573.2898,
+      "transcript": "you know, walking with sand between your toes and living in a shack and and being happy and meditating? Sure. It's an individual choice. Success is very subjective."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2574.15,
+      "end": 2579.8499,
+      "transcript": "To each person is their own. My success might be completely not attractive to somebody else's success."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2580.15,
+      "end": 2581.21,
+      "transcript": "You know? So"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2581.51,
+      "end": 2588.1548,
+      "transcript": "the equity that we put on, you know, you're the most successful one of the most successful people on the planet, whatever. Great. That's my version of it."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2588.855,
+      "end": 2593.035,
+      "transcript": "You know? But somebody else's version of it could be completely different. But I really believe"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2593.4148,
+      "end": 2598.795,
+      "transcript": "that what your purpose in life and what you do between birth and death"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2599.2,
+      "end": 2599.7,
+      "transcript": "is"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2600.16,
+      "end": 2601.22,
+      "transcript": "is what counts."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2601.52,
+      "end": 2604.26,
+      "transcript": "So the pursuit of anything else is just futile."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2604.88,
+      "end": 2615.5051,
+      "transcript": "The pursuit should be, what am I doing in my life? What do I want to do in my life? Who do I want to be? Who do I want to touch? What do I want to create? Do I want to create or maybe I don't want to create?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2615.965,
+      "end": 2622.7852,
+      "transcript": "And all of it is fine as long as you are at peace with the choices you make. So make choices that make you feel peaceful."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2623.5652,
+      "end": 2624.0652,
+      "transcript": "Gotcha."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2624.68,
+      "end": 2625.18,
+      "transcript": "Alright."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2625.72,
+      "end": 2627.58,
+      "transcript": "PC, another epic episode."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2628.12,
+      "end": 2629.66,
+      "transcript": "Any signing of notes?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2631.6401,
+      "end": 2634.7,
+      "transcript": "Well, the only thing I'll say is the one thing you didn't talk about"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2635.6401,
+      "end": 2637.0,
+      "transcript": "was I'm very excited about,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2638.255,
+      "end": 2642.595,
+      "transcript": "the multiple things that I do but the one thing I'm really and the reason that I've"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2642.9749,
+      "end": 2648.835,
+      "transcript": "come back and I really wanted to come back to Bombay but launching Anomaly in India really helped me,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2649.775,
+      "end": 2653.2349,
+      "transcript": "you know, have a reason to come back right now because I'm not going to go to Bombay."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2654.93,
+      "end": 2658.5498,
+      "transcript": "You always have a home in Bombay. It's because you're Bombay. But, you"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2659.8098,
+      "end": 2661.91,
+      "transcript": "know, like, becoming a founder"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2662.6099,
+      "end": 2663.5898,
+      "transcript": "was terrifying"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2663.97,
+      "end": 2666.63,
+      "transcript": "because that's not what I do. It's not something I knew."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2667.65,
+      "end": 2668.47,
+      "transcript": "But creating"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2669.415,
+      "end": 2675.195,
+      "transcript": "hair care, understanding why do I want to get into beauty. Makeup, skin, which one should I do?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2675.655,
+      "end": 2679.0352,
+      "transcript": "What is the gap? That learning of creating a brand,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2679.735,
+      "end": 2684.49,
+      "transcript": "which I'm so proud of. And not for the fact that, oh, I've created a beauty product,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2684.79,
+      "end": 2687.45,
+      "transcript": "but the fact that I found a white space"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2687.99,
+      "end": 2694.7048,
+      "transcript": "which I could create a product that you would have spent five times more money to buy. And Indian,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2695.565,
+      "end": 2697.665,
+      "transcript": "the Indian new consumer is very aspirational."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2698.045,
+      "end": 2703.905,
+      "transcript": "You know, we wanna take care of ourselves. We wanna look our best. We wanna get the best brands in the world. We're aware,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2704.4448,
+      "end": 2706.785,
+      "transcript": "especially that Gen Z that you're talking about."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2707.18,
+      "end": 2716.56,
+      "transcript": "But we're also aware about what we're putting in our systems. We wanna eat good. We want to try good stuff. So I'm very proud of Anomaly because it hits that trifecta."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2717.18,
+      "end": 2718.08,
+      "transcript": "It's sustainable."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2718.3801,
+      "end": 2721.6,
+      "transcript": "We make all our packaging from a 100%"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2721.66,
+      "end": 2722.6401,
+      "transcript": "recycled trash,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2723.2148,
+      "end": 2724.755,
+      "transcript": "from ocean bound plastic"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2725.055,
+      "end": 2736.915,
+      "transcript": "to landfills. So we pick up trash and we create these bottles. And because we are making our bottles from plastic trash, we didn't spend too much on it. That gave us more of a budget to have really excellent formulas."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2737.3298,
+      "end": 2740.63,
+      "transcript": "And when you use it, you will know. Please keep a bag for Ranveer."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2741.97,
+      "end": 2745.49,
+      "transcript": "Looking forward. You'll be bathing in some anomaly tonight. Yeah. You will."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2746.0498,
+      "end": 2759.545,
+      "transcript": "And another thing is that marketing has always told us men's hair care needs and women's hair care needs are different. Hair is made of the same stuff. Don't fall for this marketing thing. Anomaly is for anyone who has hair on their head."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2760.085,
+      "end": 2760.9849,
+      "transcript": "Please use,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2762.085,
+      "end": 2766.4048,
+      "transcript": "and also the fact that it is clean. It has none of the bad stuff that usually form,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2767.01,
+      "end": 2769.3499,
+      "transcript": "formulas and shampoos do. If you read the ingredients"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2769.97,
+      "end": 2773.1099,
+      "transcript": "of any shampoos, you'll see things like Sulfate, silicones."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2773.5698,
+      "end": 2777.51,
+      "transcript": "Like, that stuff should not exist in your shampoo. Mineral oil"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2777.97,
+      "end": 2779.1099,
+      "transcript": "exists in shampoos."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2779.49,
+      "end": 2785.8052,
+      "transcript": "Mineral oil goes into your car. Why is it on your head? Can you imagine what it is doing to your scalp and your system?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2786.185,
+      "end": 2790.845,
+      "transcript": "It's crazy. But to be able to create something which is clean, affordable, sustainable,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2791.465,
+      "end": 2795.465,
+      "transcript": "and excellent at the same time is something I was really, really proud of. And,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2796.32,
+      "end": 2797.86,
+      "transcript": "when we brought it to Nykaa,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2798.24,
+      "end": 2799.94,
+      "transcript": "we, on the first day, sold"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2800.48,
+      "end": 2802.82,
+      "transcript": "one Anomaly product every seven seconds."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2803.52,
+      "end": 2804.74,
+      "transcript": "And that just"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2805.68,
+      "end": 2808.98,
+      "transcript": "was amazing to me. And then we had repeat customers."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2809.655,
+      "end": 2811.035,
+      "transcript": "And in the last three months,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2811.415,
+      "end": 2815.835,
+      "transcript": "we're the top 10 haircare brands on Nykaa, and they have, like, some 400, 500"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2816.055,
+      "end": 2821.435,
+      "transcript": "haircare brands. So it just makes you feel really proud of the fact that you've made something good."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2821.82,
+      "end": 2828.88,
+      "transcript": "And whenever you make a good movie, it's the same feeling. Or when you I'm sure you when you have a good podcast Like this one? Like, yeah. Like this one, hopefully."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2829.34,
+      "end": 2838.325,
+      "transcript": "Like, yeah, man. I did something good. So it's a really good feeling. Yeah. Priyanka Chopra sharing her blessings with the world. That's all I'll say. I'll say one more thing though."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2838.865,
+      "end": 2848.815,
+      "transcript": "I think it's just the beginning of your business career and you're gonna like really flourish. That same energy is gonna enter this. And it's my crystal ball. I mean, it's telling me the truth."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2850.86,
+      "end": 2860.32,
+      "transcript": "You're one of those people who just touches something and it turns to gold. No. It doesn't just turn to gold. In the long term, PC. You have to work towards making it gold. That's your perfectionism"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2860.86,
+      "end": 2862.72,
+      "transcript": "speaking. No. It's not. It's just the truth."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2863.4849,
+      "end": 2870.305,
+      "transcript": "You cannot touch something. Only Midas could do that. You cannot pick up something and say, oh, it's gonna be great. It took a year and a half"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2870.605,
+      "end": 2872.7048,
+      "transcript": "of research, of trying"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2873.005,
+      "end": 2884.05,
+      "transcript": "anomaly on my friends, my family, my team. They were all my lab rats sitting and thinking about what the font should be, where the rose gold should be, should the trash be upfront, what the,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2884.75,
+      "end": 2897.355,
+      "transcript": "smell of it should be. All of that takes work. Yeah. You just see the end of it and you say it's gold. It's gold because of the work that's gone into it. Yeah. I meant that you are a manufacturer of gold. And you said you believe in reincarnation."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2897.655,
+      "end": 2902.635,
+      "transcript": "So what if the modern day Midas is like reborn as Priyanka Chopra? Oh boy."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2902.935,
+      "end": 2903.7551,
+      "transcript": "What a thought."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2904.75,
+      "end": 2924.0752,
+      "transcript": "I wish you I wish I had a collection of real gold, buddy. I'd be so rich. I think you do. It's just not the gold that the world recognizes as gold. It's all the blessings that are with you. That is true. The blessings that you spread. Priyanka Chopra, thank you for blessing TRS again. Thank you so much. The last time was a turning point. This time, it's gonna be a rocket. I know it. So,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2924.5552,
+      "end": 2934.6602,
+      "transcript": "I'm saying this extremely humbly, but you're a good luck charm. Trust me. Thank you. I hope so. Especially for our team, but generally. I wish you so much luck and love. And I I know that, you know, you've"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2935.04,
+      "end": 2946.74,
+      "transcript": "expanded and done so well so far. And I hope your trajectory is always just up. Thank you. One day, I will repay you. I don't know how, but I will. It means a lot. Thank you so much. Thank you, PC. Of course."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2947.525,
+      "end": 2948.905,
+      "transcript": "So right after this episode,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2949.285,
+      "end": 2954.105,
+      "transcript": "I felt extremely enriched with information. I felt motivated, and I felt sure that"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2954.725,
+      "end": 2961.145,
+      "transcript": "the podcast is gonna take off once again because of all that good luck that rubbed off on us. My hope and request to Priyanka Chopra"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2961.45,
+      "end": 2968.19,
+      "transcript": "is that he visits us in our home studio because this room and this studio brings out the best from guests."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2969.05,
+      "end": 2974.43,
+      "transcript": "Sometimes we're limited on set because of multiple reasons. Mostly, it's time constraints."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2975.1848,
+      "end": 2977.365,
+      "transcript": "But I feel that the culture of podcasting"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2977.7449,
+      "end": 2982.085,
+      "transcript": "is improving a lot in India. Remember when we had done our first episode with her?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2982.545,
+      "end": 2986.2449,
+      "transcript": "India didn't even know what podcasts were honestly. I didn't know how to podcast."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2986.96,
+      "end": 2991.54,
+      "transcript": "If you go and actually listen to that particular episode, you'll be able to tell"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2991.9202,
+      "end": 2996.4202,
+      "transcript": "how far we've come. I just actually hold a sheet full of questions back then. That's how"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2997.2,
+      "end": 3003.835,
+      "transcript": "early we had began this journey. And now we're almost 400 episodes in with a Hindi language podcast as well."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3004.135,
+      "end": 3032.045,
+      "transcript": "Hoping to have Priyanka Chopra on that one. Also hoping to have her on the English podcast once again. And he was wishing her all the best for her entrepreneurial journey with Anomaly. Make sure you check out the products. We've linked them down below. And also make sure to follow us on Spotify. We're Spotify exclusive. Every episode is available on Spotify. Forty eight hours before it's available anywhere else in the world. TRS will return soon with even more fantastic guests and even more"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3032.6648,
+      "end": 3033.1648,
+      "transcript": "heartfelt"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3033.625,
+      "end": 3034.125,
+      "transcript": "conversation."
+    }
+  ]
+}

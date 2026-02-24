@@ -1,0 +1,637 @@
+[00:00:24.765 - 00:00:28.820] Speaker 1: You told him five minutes? Like, he has two minutes. Yeah. Two minutes.
+[00:00:29.440 - 00:00:32.260] Speaker 1: Everything looks good. Just the monitor the main monitor,
+[00:00:33.440 - 00:00:35.300] Speaker 1: went off. Everyone who's
+[00:00:36.080 - 00:00:37.140] Speaker 1: done can leave.
+[00:00:43.715 - 00:00:45.495] Speaker 2: Hi, Sam. Hey, Nikhil.
+[00:00:45.875 - 00:00:57.790] Speaker 1: How are you? I'm good. Sorry I'm late. I got caught up in getting ready for the launch tomorrow and lost track of time and excitement with the final results. But No worries. I'm guessing it must be really hectic. Right? It is a very hectic day.
+[00:01:13.375 - 00:01:17.075] Speaker 2: I have the model, and I've been playing with it a little bit.
+[00:01:17.535 - 00:01:19.075] Speaker 2: How is it different, Sam?
+[00:01:19.775 - 00:01:22.355] Speaker 2: I'm not an expert at this, so yeah.
+[00:01:23.615 - 00:01:34.350] Speaker 1: There's all these ways we can talk about, you know, it's better at this metric or it's, you know, can do this amazing coding demo that, you know, GPT-four couldn't. But the thing that has been most striking for me
+[00:01:34.810 - 00:01:35.310] Speaker 1: is
+[00:01:35.610 - 00:01:40.670] Speaker 1: in ways that are both big and small, going back from GPT-five to our previous generation model,
+[00:01:41.365 - 00:01:48.105] Speaker 1: is just so painful. It's just like worse at everything. And I've taken for granted that there's a fluency and a depth of intelligence
+[00:01:49.045 - 00:01:52.425] Speaker 1: with GPT five that we haven't had in any previous model.
+[00:01:53.125 - 00:02:03.220] Speaker 1: It's an integrated model so you don't have to pick in our model switcher and know if you should use GPT four point zero or three point zero or 4.04 minutei or any of the complicated things. It's just one thing that works
+[00:02:04.400 - 00:02:05.620] Speaker 1: and it is like
+[00:02:05.920 - 00:02:06.420] Speaker 1: having
+[00:02:07.235 - 00:02:08.535] Speaker 1: PhD level experts
+[00:02:08.915 - 00:02:12.535] Speaker 1: in every field available to you 20 fourseven for whatever you need.
+[00:02:13.235 - 00:02:21.315] Speaker 1: Not only to ask anything, but also to do anything for you. So if you, you know, need a piece of software created, you can kind of do it from scratch all at once. If you need a,
+[00:02:22.450 - 00:02:28.950] Speaker 1: if you need a research report on some complicated topic, it can do that for you. If you needed to, you know, plan an event for you, it could do that too.
+[00:02:30.130 - 00:02:31.110] Speaker 2: Is it more
+[00:02:31.410 - 00:02:34.150] Speaker 2: agentic in nature in the sense that
+[00:02:34.530 - 00:02:35.750] Speaker 2: sequential tasking,
+[00:02:36.715 - 00:02:40.095] Speaker 2: you're one one step closer to it? Because I was trying that.
+[00:02:40.635 - 00:02:44.415] Speaker 1: It's much better at things like that. The the sort of the robustness and reliability,
+[00:02:45.275 - 00:02:48.575] Speaker 1: has greatly increased, and that that's very helpful for agentic workflows.
+[00:02:49.240 - 00:02:51.500] Speaker 1: So I I'm, like, very impressed by how,
+[00:02:52.040 - 00:02:58.140] Speaker 2: long and complex of a task it can carry out. So we did a call a couple of weeks ago when I was bugging you about
+[00:02:58.520 - 00:03:02.060] Speaker 2: what sectors and teams to invest in for the next decade.
+[00:03:04.085 - 00:03:08.025] Speaker 2: So I don't want to talk about that too much. I thought we'll keep today about
+[00:03:08.965 - 00:03:10.185] Speaker 2: first principles
+[00:03:10.565 - 00:03:13.305] Speaker 2: and how the world is changing by virtue
+[00:03:14.165 - 00:03:16.825] Speaker 2: of all that is changing in the world that you dominate.
+[00:03:17.180 - 00:03:22.480] Speaker 2: So the very first thing I want to start with is if I were a 25 year old
+[00:03:23.100 - 00:03:27.040] Speaker 2: boy or girl living in Mumbai or Bangalore in India,
+[00:03:28.700 - 00:03:31.280] Speaker 2: I know you've said a bunch of times that colleges
+[00:03:31.740 - 00:03:32.480] Speaker 2: are not
+[00:03:33.805 - 00:03:38.305] Speaker 2: are not holding on to the place of relevance they might have had when I was growing up.
+[00:03:38.845 - 00:03:45.105] Speaker 2: But what do I do now? A, what do I study? If I'm starting a company, what kind of company do I start?
+[00:03:46.360 - 00:03:52.700] Speaker 2: Or if I were to even find a job, what industry do you think has some kind of tailwind?
+[00:03:53.400 - 00:03:54.220] Speaker 2: I'm not talking
+[00:03:54.920 - 00:04:04.095] Speaker 1: ten years down the line, but even as close as three to five years down the line. First of all, I think this is probably the most exciting time to be starting out one's career,
+[00:04:04.875 - 00:04:06.815] Speaker 1: maybe ever. I think like,
+[00:04:07.275 - 00:04:10.415] Speaker 1: that 25 year old in Mumbai can probably do
+[00:04:10.715 - 00:04:24.760] Speaker 1: more than any previous 25 year old in history could. It's really amazing what you can do with a tool like this. I felt the same way when I was 25 and, you know, the tools then were not as amazing as tools we have now, but we had the computer revolution
+[00:04:25.460 - 00:04:27.400] Speaker 1: and we could do things,
+[00:04:27.835 - 00:04:33.375] Speaker 1: you know, a 25 year old then could do things that no 25 year old in history before would have been able to.
+[00:04:33.995 - 00:04:39.855] Speaker 1: And now that's happening in a huge way. So whether you want to start a company or be a programmer
+[00:04:40.640 - 00:04:46.180] Speaker 1: or go work in kind of any other industry, you know, create new media, whatever it is,
+[00:04:47.440 - 00:04:50.180] Speaker 1: the ability for one person to use these tools
+[00:04:50.800 - 00:04:59.165] Speaker 1: and have great ideas and implement them with what would have taken, you know, decades of experience or teams of people is really quite remarkable.
+[00:05:00.265 - 00:05:02.285] Speaker 1: In terms of particular industries,
+[00:05:03.145 - 00:05:11.730] Speaker 1: I am very excited about what AI is going to mean for science and the amount of science that one person will be able to discover and the rate at which they can do that. Clearly, it's transforming
+[00:05:12.270 - 00:05:20.530] Speaker 1: what it means to program computers in a huge way, and people will be able to create completely new kinds of software in a huge new scale.
+[00:05:21.505 - 00:05:24.485] Speaker 1: Definitely for start ups, you know, if you have that idea for
+[00:05:24.945 - 00:05:29.925] Speaker 1: a new business, the ability for a very tiny team to do a huge amount of work is great.
+[00:05:32.385 - 00:05:36.080] Speaker 1: But it feels like this is just now a very open canvas.
+[00:05:37.200 - 00:05:38.020] Speaker 1: You know, people,
+[00:05:38.560 - 00:05:51.795] Speaker 1: people are limited to a degree that they've never been before, only by the quality and creativity of their ideas. And you have these incredible tools to help you realize them. Is there anything in particular you want to say about GPT five? Then I can ask you questions around that.
+[00:05:52.175 - 00:05:53.395] Speaker 1: GPT five does
+[00:05:54.655 - 00:05:58.275] Speaker 1: does feel to us like it's going to be another big step forward in how people,
+[00:05:58.895 - 00:06:00.515] Speaker 1: use these systems.
+[00:06:01.855 - 00:06:02.355] Speaker 1: The
+[00:06:02.980 - 00:06:03.800] Speaker 1: the level
+[00:06:04.900 - 00:06:05.560] Speaker 1: of capability,
+[00:06:06.020 - 00:06:09.720] Speaker 1: the level of robustness, the reliability, and the ability to use this just for
+[00:06:10.020 - 00:06:12.680] Speaker 1: a lot of tasks in life to create
+[00:06:13.860 - 00:06:20.575] Speaker 1: software, to answer questions, to learn, to work more efficiently, like, this is a you know, pretty significant step
+[00:06:20.955 - 00:06:25.455] Speaker 1: forward. Each time we've had one of these, we have been amazed by the potential it unlocks.
+[00:06:27.195 - 00:06:32.175] Speaker 1: And in particular, India is, India is now our second largest market in the world.
+[00:06:32.875 - 00:06:34.255] Speaker 1: It may become our
+[00:06:35.010 - 00:06:35.510] Speaker 1: largest.
+[00:06:35.810 - 00:06:40.230] Speaker 1: We've taken a lot of feedback from users in India about what they'd like from us.
+[00:06:40.610 - 00:06:43.430] Speaker 1: Better support for languages, more affordable access,
+[00:06:44.370 - 00:06:47.910] Speaker 1: much more and we've been able to put that into this model and upgrades to ChatChippity.
+[00:06:49.105 - 00:06:51.765] Speaker 1: So we're committed to continuing to work on that, but
+[00:06:52.945 - 00:06:58.085] Speaker 1: the, you know, every time we've had a major leap forward in how the capability we can bring to users,
+[00:06:58.785 - 00:07:04.085] Speaker 1: we've been amazed by what those 25 year olds go off and do in terms of creating new companies or
+[00:07:05.240 - 00:07:08.860] Speaker 1: you know, learning better, getting better medical advice, or whatever else.
+[00:07:09.640 - 00:07:11.100] Speaker 2: Is there anything that
+[00:07:12.200 - 00:07:17.820] Speaker 2: I could build on top of g p t five today as a 25 year old in India that you think are
+[00:07:18.765 - 00:07:23.425] Speaker 2: low hanging fruits per se, that I should definitely look at? I think you could build an entire startup
+[00:07:23.965 - 00:07:26.765] Speaker 1: way more efficiently than you ever could before. Now, this is obviously
+[00:07:27.405 - 00:07:35.670] Speaker 1: I'm biased because this is like near and dear to my heart. But the fact that as a 25 year old in India or anywhere else,
+[00:07:36.130 - 00:07:40.630] Speaker 1: maybe with a couple of friends, maybe just by yourself, you could use GPT five to,
+[00:07:41.330 - 00:07:45.350] Speaker 1: help you write the software for a product much more efficiently, help you
+[00:07:46.665 - 00:07:49.485] Speaker 1: handle customer support, help you write marketing
+[00:07:50.025 - 00:07:51.645] Speaker 1: and communications plans,
+[00:07:52.585 - 00:07:54.205] Speaker 1: help you review legal documents.
+[00:07:55.305 - 00:07:56.445] Speaker 1: All of these things
+[00:07:56.745 - 00:07:59.645] Speaker 1: that would have taken a lot of people and a lot of expertise,
+[00:08:00.100 - 00:08:05.240] Speaker 1: and you now have g p t five to help you do all all of this, that that's pretty amazing.
+[00:08:05.700 - 00:08:07.480] Speaker 2: If I could push you to be, like,
+[00:08:08.260 - 00:08:09.640] Speaker 2: a bit more specific
+[00:08:10.420 - 00:08:11.240] Speaker 2: and say,
+[00:08:12.345 - 00:08:13.805] Speaker 2: I get science, but,
+[00:08:15.145 - 00:08:20.525] Speaker 2: what do I study? Say I've been studying engineering or commerce or arts or something like that.
+[00:08:21.225 - 00:08:26.925] Speaker 2: Is there any specific thing I study in order to use AI to develop something in science?
+[00:08:28.470 - 00:08:30.010] Speaker 1: I think the most important
+[00:08:31.350 - 00:08:35.690] Speaker 1: specific thing to study is just getting really good at using the new AI tools.
+[00:08:37.430 - 00:08:43.210] Speaker 1: I think learning is valuable for its own sake and learning to learn is this like meta skill that will serve you throughout
+[00:08:43.805 - 00:08:45.345] Speaker 1: life. And whether you're learning
+[00:08:46.125 - 00:08:49.105] Speaker 1: engineering, like computer engineering or biology or
+[00:08:49.645 - 00:08:51.185] Speaker 1: any other field, like that,
+[00:08:51.965 - 00:08:56.145] Speaker 1: if you get good at learning things, you can learn new things quickly. But fluency with the tools,
+[00:08:56.925 - 00:08:57.425] Speaker 1: is,
+[00:08:58.550 - 00:09:02.490] Speaker 1: you know, is really important. When I was in college or in high school,
+[00:09:03.190 - 00:09:10.410] Speaker 1: it seemed to me that the obvious thing to do was learn to program. And I didn't know exactly what I was going to use that for, but there was this new
+[00:09:11.025 - 00:09:15.685] Speaker 1: frontier that seemed very high leverage and important to get good at. And right now,
+[00:09:16.305 - 00:09:19.685] Speaker 1: learning how to use AI tools is probably the most important
+[00:09:20.145 - 00:09:20.645] Speaker 1: specific
+[00:09:21.105 - 00:09:28.020] Speaker 1: hard skill to learn and the difference between people who are really good at it, really AI native and think of everything in terms of those tools and don't is huge.
+[00:09:28.400 - 00:09:29.940] Speaker 1: There's other general skills,
+[00:09:31.680 - 00:09:35.860] Speaker 1: learning kind of like to be adaptable and resilient, which I think is something really learnable.
+[00:09:37.025 - 00:09:40.005] Speaker 1: That's like quite valuable in a world that's changing so fast.
+[00:09:40.705 - 00:09:42.725] Speaker 1: Learning how to figure out what people want,
+[00:09:44.305 - 00:09:45.445] Speaker 1: is really quite important.
+[00:09:46.865 - 00:09:48.885] Speaker 1: Before this, I used to be a start up investor,
+[00:09:49.310 - 00:09:54.370] Speaker 1: and people would ask me what the most important thing for start up founders to figure out was, and,
+[00:09:55.950 - 00:09:59.490] Speaker 1: my predecessor, Paul Graham, had this answer that has always stuck with me for people,
+[00:10:00.030 - 00:10:05.010] Speaker 1: to give to founders, and it became the motto for Y Combinator, which is make something people want.
+[00:10:06.205 - 00:10:12.385] Speaker 1: And that sounds like such an easy instruction. I have watched so many people try so hard to learn how to figure that out,
+[00:10:13.885 - 00:10:20.225] Speaker 1: and fail. And then I've watched many people work really hard to learn how to do that and get great at it over a career. So,
+[00:10:20.680 - 00:10:31.820] Speaker 1: that's something as well. But, you know, in terms of the specifics, like, are you supposed to take the biology class or the physics class? I don't think it matters right now. And if I were to build on top of that, and when you say
+[00:10:32.280 - 00:10:36.195] Speaker 2: learn to adapt and change and learn AI tools faster.
+[00:10:36.735 - 00:10:45.795] Speaker 2: Is there a path? I'm just looking for a light that somebody could begin walking towards. How does one get better at the AI tools that are available out there?
+[00:10:46.495 - 00:10:48.335] Speaker 1: Well, one great thing to do,
+[00:10:49.350 - 00:10:54.650] Speaker 1: GPT-five is quite good at helping to create small pieces of software very quickly,
+[00:10:55.390 - 00:10:55.890] Speaker 1: and,
+[00:10:57.110 - 00:10:59.130] Speaker 1: much better than any model that I've used.
+[00:10:59.910 - 00:11:01.370] Speaker 1: And in the last
+[00:11:02.415 - 00:11:06.355] Speaker 1: few weeks, I have surprised myself how much I've used it to
+[00:11:06.735 - 00:11:08.595] Speaker 1: create a piece of software to
+[00:11:08.975 - 00:11:22.250] Speaker 1: solve some little problem that I have in my life. And you know, it's been an interesting creative process because I'll ask it for a first draft, I'll start using that, and then I'll say, Hey, with this feature, it would be better, or, With this other thing, I'd be able to do something differently.
+[00:11:23.190 - 00:11:31.610] Speaker 1: Or, you know, I have started using it and realized that with my workflow, I really needed this. And by putting more and more of the things that I have to do in this kind of a workflow,
+[00:11:33.245 - 00:11:36.225] Speaker 1: that's been a very interesting way for me to learn how to use this.
+[00:11:37.405 - 00:11:41.105] Speaker 2: You mentioned Paul Graham, and I I was reading this
+[00:11:42.045 - 00:11:45.025] Speaker 2: letter or report he wrote in 2009
+[00:11:45.640 - 00:11:49.900] Speaker 2: where he spoke about five founders to watch out for.
+[00:11:50.520 - 00:11:54.220] Speaker 2: And I think you were 19 at the time, and he mentioned you
+[00:11:54.920 - 00:11:58.780] Speaker 2: along with people like Steve Jobs and Larry and Sergei.
+[00:12:00.935 - 00:12:03.355] Speaker 2: Why was that? You hadn't accomplished
+[00:12:03.895 - 00:12:12.235] Speaker 2: anything of note like they had. What did Paul see you see in you? And what do you think is the innate skill set that sets you apart from your peers?
+[00:12:13.430 - 00:12:15.350] Speaker 1: That was very nice of him. I remember that.
+[00:12:16.070 - 00:12:16.890] Speaker 1: I I certainly
+[00:12:17.670 - 00:12:22.890] Speaker 1: I remember the time feeling that it was very deeply undeserved, but, grateful that he he said that.
+[00:12:25.205 - 00:12:29.945] Speaker 1: I mean, there's like a lot of people who are starting great companies. We got
+[00:12:30.885 - 00:12:34.265] Speaker 1: lucky here in many ways. We've also worked super hard.
+[00:12:38.160 - 00:12:39.940] Speaker 1: Maybe the one thing that I would,
+[00:12:41.600 - 00:12:47.940] Speaker 1: that I think we have done here well is to take a very long time horizon and think very independently.
+[00:12:48.320 - 00:12:53.865] Speaker 1: You know, when we started, it was like four and a half years before we had our first product and it was very uncertain.
+[00:12:54.485 - 00:13:02.345] Speaker 1: We were just doing research, trying to figure out how to get AI to work, and we had very different ideas than the rest of the world.
+[00:13:04.725 - 00:13:06.825] Speaker 1: But I think that ability to sort of
+[00:13:07.480 - 00:13:11.420] Speaker 1: trust our own conviction over a long time horizon without a lot of external
+[00:13:11.800 - 00:13:13.180] Speaker 1: feedback was very helpful.
+[00:13:13.800 - 00:13:17.900] Speaker 2: Is that a V or a I thing? Because I'm speaking about when you were 19.
+[00:13:18.680 - 00:13:19.080] Speaker 1: Oh,
+[00:13:19.560 - 00:13:21.340] Speaker 1: sorry. I thought you were asking about OpenAI.
+[00:13:22.165 - 00:13:26.185] Speaker 1: Me when I was 19, I barely remember that. I don't know. I was like a
+[00:13:26.565 - 00:13:28.105] Speaker 1: naive 19 year old
+[00:13:28.485 - 00:13:30.425] Speaker 1: that didn't really know what he was doing and,
+[00:13:32.325 - 00:13:38.960] Speaker 1: this is not false modesty. My own self, I think I've done impressive things now, but my own self conception in 19 was like deeply
+[00:13:39.580 - 00:13:41.360] Speaker 1: unsure of myself and very unimpressive.
+[00:13:41.820 - 00:13:43.600] Speaker 2: If the world were to be
+[00:13:44.860 - 00:13:47.760] Speaker 2: the world of tomorrow were to be a AI kingdom
+[00:13:48.140 - 00:13:48.880] Speaker 2: of sorts,
+[00:13:49.260 - 00:13:51.280] Speaker 2: you're definitely some kind of prince.
+[00:13:52.220 - 00:13:52.720] Speaker 2: And,
+[00:13:54.195 - 00:13:55.815] Speaker 2: I don't know if you follow Markievalli,
+[00:13:56.435 - 00:13:58.775] Speaker 2: but he used to say a very interesting thing.
+[00:13:59.635 - 00:14:02.775] Speaker 2: He said that a prince should always appear
+[00:14:03.395 - 00:14:04.855] Speaker 2: appear but not be
+[00:14:07.160 - 00:14:07.660] Speaker 2: religious,
+[00:14:08.280 - 00:14:08.780] Speaker 2: compassionate,
+[00:14:09.880 - 00:14:10.380] Speaker 2: trustworthy,
+[00:14:11.160 - 00:14:12.700] Speaker 2: humane, and honest.
+[00:14:14.920 - 00:14:15.820] Speaker 2: Do you think
+[00:14:16.520 - 00:14:17.420] Speaker 2: this particular
+[00:14:17.720 - 00:14:18.220] Speaker 2: projection
+[00:14:18.680 - 00:14:24.215] Speaker 2: of I've heard you I've watched a lot of your interviews of late, and I've heard you say repeatedly
+[00:14:25.315 - 00:14:29.095] Speaker 2: that you're not formidable and use words like that.
+[00:14:30.195 - 00:14:31.735] Speaker 2: This projection of humility,
+[00:14:32.275 - 00:14:32.935] Speaker 2: is it
+[00:14:33.315 - 00:14:36.930] Speaker 2: apt for the world we live in or the world you're walking into?
+[00:14:41.470 - 00:14:43.970] Speaker 1: I'm not sure it's apt for either
+[00:14:45.550 - 00:14:46.450] Speaker 1: one, but,
+[00:14:48.325 - 00:14:49.385] Speaker 1: when I was
+[00:14:49.925 - 00:14:50.425] Speaker 1: 19,
+[00:14:51.125 - 00:14:52.905] Speaker 1: to go back to what you said, I assumed
+[00:14:53.765 - 00:15:13.270] Speaker 1: that the people running these big tech companies really had it all figured out and there were, you know, adults in the room and somebody had a plan and there were these people that were like way different than me that understood how to do things and, you know, had this like, the companies were like running very well and there was like not much drama and everything was like, you know, just everything
+[00:15:13.970 - 00:15:15.510] Speaker 1: was being handled by the adults.
+[00:15:17.265 - 00:15:27.205] Speaker 1: And now that I'm supposed to be the adult in the room, I will tell you, I think no one has a plan, no one really has it all working smoothly, everyone, or at least I, am figuring out as they go.
+[00:15:27.745 - 00:15:28.245] Speaker 1: And,
+[00:15:30.270 - 00:15:35.970] Speaker 1: you know, you have things you want to build and then things go wrong and you bet on the wrong people or the right people, and
+[00:15:36.350 - 00:15:44.210] Speaker 1: you get a technological breakthrough here or you don't there, and you just keep putting one foot in front of another and you put your head down and work and you,
+[00:15:44.725 - 00:15:49.285] Speaker 1: you know, you have these like tactics that some of them become great strategies, some of them don't.
+[00:15:50.165 - 00:15:50.665] Speaker 1: You
+[00:15:51.525 - 00:15:56.185] Speaker 1: try something and the market reacts in some way, or your competitors react in some way, and you do something else.
+[00:15:59.290 - 00:16:05.790] Speaker 1: And now my conception is everybody is kind of figuring it out as they go. Everybody is like learning on the job, and
+[00:16:08.010 - 00:16:12.270] Speaker 1: I don't think that's like false humility. I think that's just the way the world works, and
+[00:16:13.395 - 00:16:14.135] Speaker 1: it's like a
+[00:16:15.315 - 00:16:15.815] Speaker 1: little
+[00:16:17.155 - 00:16:20.535] Speaker 1: it's a little strange to be on this side of it, but that is what it seems like.
+[00:16:21.075 - 00:16:24.215] Speaker 2: I'm not even speaking so much about the authenticity
+[00:16:24.675 - 00:16:26.295] Speaker 2: of the humility or not,
+[00:16:26.755 - 00:16:27.255] Speaker 2: but
+[00:16:28.190 - 00:16:34.130] Speaker 2: more again from the lens of somebody starting to build for tomorrow because that's who we speak to.
+[00:16:34.750 - 00:16:37.710] Speaker 2: Is that a good image to project into the world? Does it
+[00:16:40.725 - 00:16:45.865] Speaker 2: the image of humility really work today? You mean, should someone project that image? Yeah.
+[00:16:47.085 - 00:16:47.585] Speaker 1: I
+[00:16:48.085 - 00:16:51.465] Speaker 1: mean, I certainly have a very negative
+[00:16:52.325 - 00:16:53.625] Speaker 1: reaction to
+[00:16:55.710 - 00:16:56.610] Speaker 1: people who
+[00:16:57.790 - 00:16:58.290] Speaker 1: are
+[00:16:59.470 - 00:17:02.210] Speaker 1: projecting certainty and confidence when,
+[00:17:03.470 - 00:17:12.145] Speaker 1: they don't really know what's going to happen. And the reason is not just because it's annoying, which it is, but also because I think if you have that kind of a mindset,
+[00:17:12.525 - 00:17:15.105] Speaker 1: it is harder to have the culture of
+[00:17:16.045 - 00:17:17.185] Speaker 1: intellectual openness
+[00:17:18.045 - 00:17:18.545] Speaker 1: and
+[00:17:19.565 - 00:17:20.625] Speaker 1: to sort of like
+[00:17:21.085 - 00:17:23.345] Speaker 1: listen to other viewpoints and make good decisions.
+[00:17:24.360 - 00:17:28.220] Speaker 1: A thing I say all the time to people is no one knows what happens next.
+[00:17:28.760 - 00:17:44.555] Speaker 1: And the more you forget that and the more you're like I am smarter than everybody else, I have a master plan, I'm not going to pay attention to like what my users are saying or where the technology takes us or how the world is reacting, but you know, I know better and the world doesn't know as much, I think you just make worse decisions.
+[00:17:45.415 - 00:17:47.435] Speaker 1: So, having that kind of open mindset,
+[00:17:48.935 - 00:17:50.075] Speaker 1: and the sort of
+[00:17:50.775 - 00:17:52.235] Speaker 1: like curiosity and
+[00:17:53.850 - 00:17:58.030] Speaker 1: willingness to adapt to new data and change your mind, I think that's super important.
+[00:17:59.530 - 00:18:05.870] Speaker 1: Like the number of times we have thought we knew something to get smacked in the face by reality here
+[00:18:06.170 - 00:18:06.830] Speaker 1: has been
+[00:18:07.565 - 00:18:11.185] Speaker 1: a lot. And one of our strengths as a company is
+[00:18:11.485 - 00:18:14.385] Speaker 1: when that happens, we change what we're going to do. That's
+[00:18:15.085 - 00:18:15.585] Speaker 1: been,
+[00:18:15.885 - 00:18:19.105] Speaker 1: I think that's been really great and a big part of what's helped us succeed.
+[00:18:21.600 - 00:18:27.380] Speaker 1: So, maybe there are other ways to succeed and maybe, you know, projecting a ton of bravado into the world works,
+[00:18:27.680 - 00:18:28.180] Speaker 1: but
+[00:18:30.480 - 00:18:35.780] Speaker 1: the best founders that I have watched up close throughout my career, have all been more like the
+[00:18:38.585 - 00:18:47.965] Speaker 1: sort of quick learning and adapting style. And you probably know more about this than most because of your role at y combinator. I have a lot of data points on it at least. Yeah. Yeah.
+[00:18:51.090 - 00:18:59.030] Speaker 2: When we met in Washington a couple of years a couple of years ago at the White House, I remember when we were speaking and you went somewhere, I was speaking to your partner.
+[00:18:59.570 - 00:19:01.030] Speaker 2: And you guys had a kid.
+[00:19:01.490 - 00:19:02.230] Speaker 1: We did.
+[00:19:02.985 - 00:19:04.525] Speaker 2: And how is that?
+[00:19:05.625 - 00:19:10.205] Speaker 1: It is my favorite thing ever. But I mean, I know that, like, I have nothing that is not a cliche to say here.
+[00:19:10.505 - 00:19:11.005] Speaker 1: Mhmm.
+[00:19:11.625 - 00:19:15.085] Speaker 1: But it is the coolest, most amazing, most like,
+[00:19:16.560 - 00:19:20.100] Speaker 1: emotionally overwhelming in the best ways, and hard ways to,
+[00:19:20.640 - 00:19:21.780] Speaker 1: experience everything
+[00:19:23.280 - 00:19:30.660] Speaker 1: everyone said about how great it is, how intense it is, how it's like a kind of love you didn't know you could feel. It's all true. I have nothing
+[00:19:31.295 - 00:19:33.615] Speaker 1: to add other than I strongly recommend it, and I think,
+[00:19:34.655 - 00:19:36.275] Speaker 1: it's been really wonderful. It's amazing.
+[00:19:37.375 - 00:19:40.035] Speaker 2: So I ponder on this a lot, Sam.
+[00:19:41.135 - 00:19:41.635] Speaker 2: Kids.
+[00:19:42.095 - 00:19:43.555] Speaker 2: Why people have kids.
+[00:19:44.370 - 00:19:46.150] Speaker 2: And also questions like,
+[00:19:46.770 - 00:19:49.270] Speaker 2: what happens to religion and marriage tomorrow?
+[00:19:49.650 - 00:19:57.990] Speaker 1: Can I ask you why you had a kid? Like, family has always been an incredibly important thing to me, and going like, it just it felt like
+[00:20:02.035 - 00:20:03.495] Speaker 1: it felt like the most,
+[00:20:04.435 - 00:20:06.055] Speaker 1: and I didn't even know how
+[00:20:06.435 - 00:20:16.030] Speaker 1: much I underestimated what it was actually going to be like, but it felt like the most important and meaningful and fulfilling thing I could imagine doing and it has so far, so early,
+[00:20:16.650 - 00:20:17.630] Speaker 1: exceeded all expectations.
+[00:20:19.130 - 00:20:20.510] Speaker 2: Do you think it's the biological
+[00:20:21.210 - 00:20:22.590] Speaker 2: need to procreate?
+[00:20:23.290 - 00:20:25.390] Speaker 1: I don't know. There's like it this seems like
+[00:20:26.330 - 00:20:27.390] Speaker 1: a thing that is
+[00:20:27.770 - 00:20:29.550] Speaker 1: so deep, it's difficult to put
+[00:20:30.275 - 00:20:31.495] Speaker 1: into words, but
+[00:20:33.155 - 00:20:34.855] Speaker 1: I feel confident, like
+[00:20:35.875 - 00:20:36.935] Speaker 1: everyone I know,
+[00:20:38.595 - 00:20:42.535] Speaker 1: looking back on their life who has had a great career and had a family,
+[00:20:43.315 - 00:20:44.615] Speaker 1: has either said,
+[00:20:45.280 - 00:20:56.020] Speaker 1: you know, I'm so glad I took the time to have kids. That was one of the most important things I've ever done, the best things I've ever done, or they've said that was by far the best thing I've ever done. That was way more important than any of the work I ever did.
+[00:20:56.880 - 00:20:57.380] Speaker 1: And
+[00:20:57.735 - 00:21:03.195] Speaker 1: I was like willing to take the leap of faith that that would be true for me too, and it certainly seems like it will be. It's like,
+[00:21:03.495 - 00:21:07.595] Speaker 1: yeah, it is, and if it is just a biological hack, I don't care. I'm so happy.
+[00:21:08.455 - 00:21:11.515] Speaker 1: But it, you know, like there's a sense of
+[00:21:12.800 - 00:21:13.300] Speaker 1: responsibility
+[00:21:13.840 - 00:21:14.980] Speaker 1: and kind of like
+[00:21:15.840 - 00:21:18.980] Speaker 1: family is the word that keeps coming to mind that, is just really great.
+[00:21:19.520 - 00:21:22.260] Speaker 2: The world seems to be having lesser kids, and
+[00:21:23.520 - 00:21:26.260] Speaker 2: do you have an insight into the future of
+[00:21:27.795 - 00:21:29.415] Speaker 2: marriage, religion, and kids?
+[00:21:29.875 - 00:21:32.855] Speaker 1: Yeah. I hope that creating family, creating community,
+[00:21:33.555 - 00:21:35.015] Speaker 1: whatever you want to call it,
+[00:21:36.675 - 00:21:37.175] Speaker 1: will
+[00:21:37.875 - 00:21:41.655] Speaker 1: become far more important in a sort of post AGI world.
+[00:21:42.280 - 00:21:46.620] Speaker 1: I think it's a real problem for society that those things have been in retreat.
+[00:21:47.480 - 00:21:48.540] Speaker 1: I think that
+[00:21:50.440 - 00:21:53.420] Speaker 1: that just feels strictly bad to me. I have, I don't,
+[00:21:53.975 - 00:21:57.515] Speaker 1: I'm obviously not sure why that's been happening, but I hope we'll really
+[00:21:57.815 - 00:22:02.715] Speaker 1: reverse course on that. And in a world where people have more abundance, more time,
+[00:22:03.095 - 00:22:03.995] Speaker 1: more sort of
+[00:22:05.815 - 00:22:06.315] Speaker 1: resources
+[00:22:06.855 - 00:22:07.355] Speaker 1: and
+[00:22:07.735 - 00:22:09.035] Speaker 1: potential and ability,
+[00:22:10.700 - 00:22:15.440] Speaker 1: I think it's, like, pretty clear that family and community are two of the things that make us the happiest,
+[00:22:16.140 - 00:22:18.720] Speaker 1: and I hope we will turn back to that.
+[00:22:20.060 - 00:22:22.400] Speaker 2: As societies get more affluent,
+[00:22:23.575 - 00:22:25.835] Speaker 2: if one were to buy into the mimetic
+[00:22:26.535 - 00:22:27.755] Speaker 2: desires of people,
+[00:22:28.535 - 00:22:30.075] Speaker 2: we all tend to want
+[00:22:30.615 - 00:22:32.955] Speaker 2: what other people want, not necessarily
+[00:22:33.495 - 00:22:34.955] Speaker 2: what other people have.
+[00:22:35.990 - 00:22:37.610] Speaker 2: If we all had more,
+[00:22:38.790 - 00:22:42.010] Speaker 2: do you think we would still want more if we all had enough?
+[00:22:43.430 - 00:22:45.450] Speaker 1: I I do sort of think that human
+[00:22:46.870 - 00:22:47.370] Speaker 1: demand,
+[00:22:48.675 - 00:22:49.175] Speaker 1: desire,
+[00:22:49.875 - 00:22:51.895] Speaker 1: ability to play status games, whatever,
+[00:22:53.075 - 00:22:54.215] Speaker 1: it seems pretty limitless,
+[00:22:55.155 - 00:22:57.015] Speaker 1: and I don't think that's necessarily bad,
+[00:22:58.995 - 00:23:00.135] Speaker 1: or not all bad.
+[00:23:00.990 - 00:23:04.690] Speaker 1: But, yeah, I think we will figure out new things to want and new things to compete over.
+[00:23:06.030 - 00:23:07.730] Speaker 2: Do you think the world retains,
+[00:23:09.070 - 00:23:14.770] Speaker 2: largely the world retains the current model of capitalism and democracy in a way?
+[00:23:15.515 - 00:23:18.175] Speaker 2: Let me give you a scenario. What happens if
+[00:23:18.475 - 00:23:19.615] Speaker 2: a company x,
+[00:23:20.955 - 00:23:21.935] Speaker 2: let's say OpenAI,
+[00:23:23.035 - 00:23:25.675] Speaker 2: gets to the point where it is 50%
+[00:23:25.675 - 00:23:26.655] Speaker 2: of world GDP?
+[00:23:27.780 - 00:23:28.520] Speaker 2: Does society
+[00:23:29.380 - 00:23:30.440] Speaker 2: allow for that?
+[00:23:30.980 - 00:23:31.300] Speaker 2: Or
+[00:23:32.020 - 00:23:42.200] Speaker 1: I would bet not. I don't think that will happen. I think this will be a much more distributed thing, but if for some reason that did happen, I think society would say, we don't think so, like let's figure out
+[00:23:43.395 - 00:23:44.195] Speaker 1: something to do here.
+[00:23:46.275 - 00:23:48.455] Speaker 1: The analogy I like most for
+[00:23:48.835 - 00:23:50.055] Speaker 1: AI is the transistor,
+[00:23:50.755 - 00:24:08.070] Speaker 1: which was this really important scientific discovery that for a while looked like it was going to capture a ton of the value, and then turned out to be something that just gets built into like tons of products and services and you don't really think about, you know, the fact that you're using transistors all day long. It's just kind of in everything and all these companies
+[00:24:08.770 - 00:24:12.735] Speaker 1: make incredible products and profits from it in this very distributed way.
+[00:24:13.215 - 00:24:18.115] Speaker 1: So I would guess that's what happens and it's not like one company is ever half of global GDP.
+[00:24:18.415 - 00:24:22.435] Speaker 1: At one point, I did worry that that might happen, but I think that was a naive take.
+[00:24:23.775 - 00:24:25.075] Speaker 2: Right. But
+[00:24:25.570 - 00:24:29.430] Speaker 2: do you think the odds of the world moving towards socialism go up?
+[00:24:29.810 - 00:24:34.230] Speaker 2: Or if something gets that large, will it get nationalized and we become more socialist?
+[00:24:35.490 - 00:24:42.375] Speaker 1: I don't know if something will get nationalized, I don't know if the world will, like, officially turn towards socialism, but I expect
+[00:24:43.475 - 00:24:43.975] Speaker 1: that,
+[00:24:45.075 - 00:24:55.430] Speaker 1: I expect that like, social support or redistribution or whatever you want to call it, will increase over time. As society gets richer and as sort of the technological landscape shifts,
+[00:24:55.810 - 00:25:00.310] Speaker 1: I don't know what way it's going to happen and I expect in different countries it will happen in different ways. Like,
+[00:25:01.090 - 00:25:13.675] Speaker 1: I think you'll see experimentation of like new kinds of sovereign wealth funds, new kinds of like universal basic income ideas, redistribution of AI compute, I don't know exactly what. But I suspect we'll see a lot of experimentation in society here.
+[00:25:14.935 - 00:25:19.035] Speaker 2: On universal basic income, I think Worldcoin was a very interesting
+[00:25:19.510 - 00:25:22.250] Speaker 2: experiment. Can you tell us a bit about what's happening there?
+[00:25:22.950 - 00:25:24.570] Speaker 1: The idea was could we
+[00:25:24.950 - 00:25:29.930] Speaker 1: you know, we have all this AI coming, we really want to like care about humans as special.
+[00:25:30.230 - 00:25:38.055] Speaker 1: Can we find a way to a privacy preserving way to identify unique humans and then create a new network and a new currency around that?
+[00:25:38.595 - 00:25:42.215] Speaker 1: So it's a very interesting experiment, still early but growing quite fast.
+[00:25:43.155 - 00:25:44.855] Speaker 2: If AGI eliminates
+[00:25:46.470 - 00:25:49.610] Speaker 2: scarcity, a scarcity by virtue of increasing productivity,
+[00:25:52.790 - 00:25:55.930] Speaker 2: could one also assume that it would be deflationary
+[00:25:56.310 - 00:25:56.970] Speaker 2: in nature?
+[00:25:58.390 - 00:26:00.570] Speaker 2: Capital or money loses
+[00:26:01.145 - 00:26:02.685] Speaker 2: its ability to return
+[00:26:04.105 - 00:26:05.165] Speaker 2: a rate of return,
+[00:26:05.785 - 00:26:06.285] Speaker 2: and
+[00:26:06.905 - 00:26:10.525] Speaker 2: capital no longer remains a moat in the world of tomorrow?
+[00:26:11.705 - 00:26:13.325] Speaker 1: I feel confused about this.
+[00:26:14.105 - 00:26:14.765] Speaker 1: I think
+[00:26:16.560 - 00:26:20.820] Speaker 1: if you like look at the basic economic principles, it's supposed to be hugely deflationary.
+[00:26:23.600 - 00:26:24.420] Speaker 1: And yet,
+[00:26:26.080 - 00:26:32.355] Speaker 1: if the world decides that, you know, building out AI compute today is super important to things tomorrow,
+[00:26:34.895 - 00:26:41.395] Speaker 1: maybe something very strange happens with the economy and maybe capital is really, really important because every piece of compute
+[00:26:41.695 - 00:26:42.595] Speaker 1: is so valuable.
+[00:26:46.870 - 00:26:49.450] Speaker 1: I was asking someone at dinner the other night if they thought
+[00:26:49.910 - 00:26:53.450] Speaker 1: that interest rates should be minus 2% or 25%.
+[00:26:53.910 - 00:27:01.905] Speaker 1: And he kind of laughed. He's like, well, that's a ridiculous question. It has to be, and then he stopped and said, actually I'm not sure. So I think it's like,
+[00:27:02.525 - 00:27:04.145] Speaker 1: yeah, it should be deflationary
+[00:27:04.765 - 00:27:07.905] Speaker 1: eventually, but I could see it being weird in the short term.
+[00:27:08.525 - 00:27:13.265] Speaker 2: That's actually a very interesting thing to say. Do you suspect it would be minus 2%?
+[00:27:15.810 - 00:27:16.310] Speaker 1: Eventually.
+[00:27:17.730 - 00:27:31.585] Speaker 1: Right. But I'm not sure. And maybe it's just like we're in this massive expansionary time where you're trying to like build the Dyson sphere in the solar system, and you're borrowing money at crazy rates to do that, and then there's more expansion beyond it, more and more, and I don't know. Like,
+[00:27:33.645 - 00:27:37.825] Speaker 1: I find it very hard to see more than a few years in the future at this point.
+[00:27:38.365 - 00:27:41.185] Speaker 2: The conversation we were having a couple of weeks ago,
+[00:27:41.550 - 00:27:44.610] Speaker 2: I was doing more research on the sectors you had suggested.
+[00:27:46.190 - 00:27:48.770] Speaker 2: I think we agreed on older and sicker world.
+[00:27:50.190 - 00:27:51.970] Speaker 2: You also made a case for
+[00:27:52.350 - 00:27:53.650] Speaker 2: as discretionary
+[00:27:54.030 - 00:27:55.250] Speaker 2: spend goes up,
+[00:27:55.875 - 00:28:01.415] Speaker 2: gateway luxury brands might do well. Yeah. What happens to them in a deflationary world?
+[00:28:02.035 - 00:28:05.415] Speaker 2: Because the value of these purchases go down.
+[00:28:05.795 - 00:28:13.820] Speaker 1: Maybe not. I mean, deflate in a deflationary world, some things can face huge deflationary pressure and others can be the sink for all of the extra capital.
+[00:28:14.120 - 00:28:19.820] Speaker 1: So I'm actually not sure they do go down in a deflationary world. You know, I would bet they go up, actually.
+[00:28:20.280 - 00:28:21.765] Speaker 2: Yep. I think so.
+[00:28:22.405 - 00:28:26.185] Speaker 1: Because the extra the excess capital has to flow somewhere. When you look at classical
+[00:28:27.045 - 00:28:30.585] Speaker 2: economic theory like Adam Smith and stuff like that,
+[00:28:31.365 - 00:28:34.265] Speaker 2: the Austrian school always spoke about the marginal
+[00:28:34.725 - 00:28:36.025] Speaker 2: utility of things.
+[00:28:36.780 - 00:28:39.920] Speaker 2: If you have one kettle at home to make tea,
+[00:28:40.380 - 00:28:41.920] Speaker 2: it has x in value.
+[00:28:42.460 - 00:28:46.880] Speaker 2: When you have two kettles, it still has some value. But when you have 20 kettles,
+[00:28:47.420 - 00:28:50.795] Speaker 2: it has no value. Do Do you think the world goes in that direction?
+[00:28:51.495 - 00:28:54.075] Speaker 1: Yeah, so 20 kettles doesn't help you.
+[00:28:54.695 - 00:28:57.675] Speaker 1: But even if you're only going to, you know, spend
+[00:28:59.975 - 00:29:04.315] Speaker 1: two hours a day playing video games or whatever, and that amount of time is fixed, and
+[00:29:04.740 - 00:29:14.920] Speaker 1: and so you don't need twenty hours worth of video games, if that two hours of games gets better and more entertaining forever and ever and ever and just keeps getting more and more compelling, that still has value to you.
+[00:29:15.780 - 00:29:18.360] Speaker 1: And I think there are a lot of categories where
+[00:29:20.015 - 00:29:22.675] Speaker 1: we will find that people can just
+[00:29:22.975 - 00:29:24.755] Speaker 1: get much better stuff,
+[00:29:25.375 - 00:29:26.435] Speaker 1: even if they don't
+[00:29:26.815 - 00:29:28.915] Speaker 1: necessarily get more of them.
+[00:29:29.855 - 00:29:40.980] Speaker 2: I think we'll see this in a really big way. Do you think there's a use case for the rappers that are getting built on these large models right now? Like, I was in, The US recently, and I met Harvey, for example.
+[00:29:42.080 - 00:29:44.660] Speaker 2: What happens to a rapper like that?
+[00:29:45.825 - 00:29:46.805] Speaker 2: Does it get
+[00:29:48.865 - 00:29:52.165] Speaker 2: innovated out by the model itself at some point of time?
+[00:29:53.185 - 00:30:01.950] Speaker 1: Some of them, yes, and some of them, no. And it's, you know, it's like sometimes you can obviously predict when one is going to go one way or the other, and sometimes it really depends on the choices
+[00:30:02.570 - 00:30:03.950] Speaker 1: the company makes down,
+[00:30:05.050 - 00:30:05.950] Speaker 1: down the line.
+[00:30:06.410 - 00:30:08.110] Speaker 1: The main thing I would say is,
+[00:30:10.305 - 00:30:13.605] Speaker 1: using AI itself does not create a defensible business.
+[00:30:14.225 - 00:30:20.405] Speaker 1: You see this with every technology boom where people are like, well, I'm a start up doing X and because I'm using the latest
+[00:30:20.865 - 00:30:24.485] Speaker 1: technology trend, the normal rules of business don't apply to me.
+[00:30:24.910 - 00:30:26.130] Speaker 1: And that's never true.
+[00:30:26.510 - 00:30:27.010] Speaker 1: You've
+[00:30:29.870 - 00:30:30.770] Speaker 1: always got to
+[00:30:31.150 - 00:30:34.850] Speaker 1: like parlay that advantage that comes from using the new technology into
+[00:30:35.230 - 00:30:37.730] Speaker 1: a durable business with real value that gets created,
+[00:30:38.155 - 00:30:41.375] Speaker 1: And it's kind of a race against the clock to do that. So,
+[00:30:43.275 - 00:30:43.755] Speaker 1: you know,
+[00:30:44.555 - 00:30:50.335] Speaker 1: you can definitely build an amazing thing with AI, but then you have to go build a real defensible layer around it.
+[00:30:50.810 - 00:30:56.510] Speaker 2: If I were to build a business on top of your model, let me give you the example of Amazon, for example.
+[00:30:57.050 - 00:31:02.990] Speaker 2: If I sold a certain kind of t shirt, and I sold a lot, and Amazon had all the data,
+[00:31:03.885 - 00:31:05.105] Speaker 2: Eventually, Amazon
+[00:31:05.725 - 00:31:10.225] Speaker 2: probably started a white labeled brand, which was very similar to mine
+[00:31:10.685 - 00:31:11.585] Speaker 2: and cannibalized
+[00:31:11.885 - 00:31:13.105] Speaker 2: my business almost.
+[00:31:14.125 - 00:31:20.450] Speaker 2: Should one worry that will happen here as well because you're no longer just a model, but you're foraying into so many different businesses?
+[00:31:22.270 - 00:31:24.610] Speaker 1: I'd come back to that example of the transistor.
+[00:31:28.670 - 00:31:29.570] Speaker 1: The, you know,
+[00:31:29.870 - 00:31:31.250] Speaker 1: we are building this
+[00:31:31.925 - 00:31:34.665] Speaker 1: general purpose technology that you can integrate into
+[00:31:35.045 - 00:31:35.545] Speaker 1: something
+[00:31:36.005 - 00:31:37.305] Speaker 1: in a lot of ways,
+[00:31:39.765 - 00:31:51.190] Speaker 1: but we keep following our equivalent of Moore's Law, and the general capability keeps going up. If you build a business that gets better, the business gets better when the model gets better,
+[00:31:51.650 - 00:31:53.270] Speaker 1: then you should keep
+[00:31:55.330 - 00:31:58.230] Speaker 1: doing, you should keep doing well if we continue to make progress.
+[00:31:58.610 - 00:32:00.150] Speaker 1: If you build a business where
+[00:32:00.485 - 00:32:05.465] Speaker 1: when the model gets better, your business gets worse because the wrapper was too thin or whatever,
+[00:32:06.725 - 00:32:08.505] Speaker 1: then that's probably bad
+[00:32:08.805 - 00:32:11.625] Speaker 1: in the same way that it's been bad in other technology revolutions.
+[00:32:12.660 - 00:32:14.840] Speaker 1: So, there are clearly companies
+[00:32:15.220 - 00:32:22.120] Speaker 1: building on top of AI models that are creating huge value and very deep relationships with their customers for themselves.
+[00:32:24.515 - 00:32:29.175] Speaker 1: Cursor is like a recent example of a company that is just exploding in popularity and
+[00:32:29.475 - 00:32:30.775] Speaker 1: I think really durable
+[00:32:31.635 - 00:32:33.655] Speaker 1: relationships with their customers.
+[00:32:34.275 - 00:32:38.615] Speaker 1: And then there's many others that don't, and that's kind of, that's always the case.
+[00:32:39.340 - 00:32:41.120] Speaker 1: It does seem to me like
+[00:32:43.580 - 00:32:50.400] Speaker 1: there are more companies getting created now than in previous technological revolutions that feel like they have a chance at real durability.
+[00:32:53.735 - 00:32:56.235] Speaker 1: Maybe an example we could use to ground this is when
+[00:32:57.655 - 00:33:01.595] Speaker 1: the iPhone first came out and the app store first came out, the first set of apps
+[00:33:01.975 - 00:33:07.450] Speaker 1: were pretty light and a lot of them ended up being features that kind of made it into future versions of iOS.
+[00:33:07.750 - 00:33:13.610] Speaker 1: You know, you could like sell a flashlight for a dollar that turned on the flash on your phone and
+[00:33:14.630 - 00:33:21.165] Speaker 1: you made a lot of dollars doing that, but it wasn't sticky because eventually Apple just added that into the operating system where it belonged. But,
+[00:33:21.785 - 00:33:26.285] Speaker 1: if you started something that was like complicated and the iPhone was just an enabler for it like Uber,
+[00:33:26.905 - 00:33:34.605] Speaker 1: that was a very valuable long term thing to do. And in the early days, like the GPT three days, I think you had a lot of kind of toy applications, as you should,
+[00:33:35.130 - 00:33:42.670] Speaker 1: many of which didn't need to be stand alone companies or products. But now, as the market's matured, you're really seeing some of these more durable businesses form.
+[00:33:43.290 - 00:33:43.790] Speaker 2: So
+[00:33:44.250 - 00:33:45.710] Speaker 2: if you lay emphasis
+[00:33:46.090 - 00:33:50.030] Speaker 2: on owning the customer almost, like the interface with the customer,
+[00:33:51.185 - 00:33:52.485] Speaker 2: Would you say the relationship
+[00:33:52.865 - 00:33:53.845] Speaker 2: gets deeper
+[00:33:54.945 - 00:34:00.165] Speaker 2: when I sell a service on top of your model versus a product? Because if it's a product company,
+[00:34:00.945 - 00:34:01.445] Speaker 2: the
+[00:34:01.825 - 00:34:06.005] Speaker 2: the exchange happens once. But if it's a service company, it happens repeatedly,
+[00:34:06.760 - 00:34:09.180] Speaker 2: and there is room for me to build and taste
+[00:34:09.480 - 00:34:14.140] Speaker 2: in that transaction, which is repetitive in nature. Yeah. Gen generally, I agree with that.
+[00:34:14.840 - 00:34:19.980] Speaker 2: A small part of my world or a part of my world is creating content, which I do once a month.
+[00:34:21.245 - 00:34:22.145] Speaker 2: If a model
+[00:34:23.085 - 00:34:23.905] Speaker 2: to a large
+[00:34:24.205 - 00:34:24.705] Speaker 2: extent
+[00:34:25.085 - 00:34:25.585] Speaker 2: is
+[00:34:26.045 - 00:34:29.825] Speaker 2: able to factor in my vintage, my tenure, and my evolution,
+[00:34:30.285 - 00:34:30.785] Speaker 2: and,
+[00:34:32.125 - 00:34:34.865] Speaker 2: throughout an output which is predictive in nature
+[00:34:35.390 - 00:34:36.290] Speaker 2: with a fair
+[00:34:38.110 - 00:34:40.030] Speaker 2: degree of fair fair degree of,
+[00:34:40.670 - 00:34:41.170] Speaker 2: efficiency.
+[00:34:42.590 - 00:34:44.610] Speaker 2: Now if I behave in the same predictable
+[00:34:45.150 - 00:34:46.050] Speaker 2: manner tomorrow,
+[00:34:46.590 - 00:34:49.250] Speaker 2: will be less valuable than me being contrarian?
+[00:34:49.915 - 00:34:53.135] Speaker 2: Contradian not to the world, but contrarian to my own
+[00:34:53.595 - 00:34:55.615] Speaker 2: behavior almost? So do you think
+[00:34:56.315 - 00:34:57.055] Speaker 2: the world
+[00:34:58.475 - 00:34:58.975] Speaker 2: inordinately
+[00:34:59.435 - 00:35:01.935] Speaker 2: favors contrarian behavior tomorrow?
+[00:35:03.030 - 00:35:03.530] Speaker 1: Yeah,
+[00:35:03.910 - 00:35:06.490] Speaker 1: that's a good point. I think so.
+[00:35:07.030 - 00:35:07.430] Speaker 1: I think,
+[00:35:09.430 - 00:35:18.335] Speaker 1: the thing I'm thinking is how much will the models learn to do that. You know, you want to be contrarian and right. Most of the time you're contrarian, you're contrarian and wrong, and that's not that helpful.
+[00:35:18.635 - 00:35:21.135] Speaker 1: But, but yeah, I bet the ability to come up with
+[00:35:22.475 - 00:35:25.055] Speaker 1: the kind of contrarian and right idea that the models
+[00:35:25.515 - 00:35:28.975] Speaker 1: today just can't do at all, and maybe they'll get better at at some point,
+[00:35:30.930 - 00:35:32.790] Speaker 1: That value of that should go up over
+[00:35:33.970 - 00:35:36.870] Speaker 1: time. Getting good at doing things models can't do
+[00:35:37.490 - 00:35:39.030] Speaker 1: seems like an obvious
+[00:35:39.490 - 00:35:50.115] Speaker 1: increase in value. Outside of being contrarian, is there anything else that I could do that a model will take longer to learn? Look, the models are going to be much smarter than we are, but there's a lot of things that people care about
+[00:35:50.415 - 00:35:52.275] Speaker 1: that have nothing to do with intelligence.
+[00:35:54.575 - 00:35:57.315] Speaker 1: Maybe there can be like an AI podcast host
+[00:35:57.830 - 00:36:04.250] Speaker 1: that is much better than you at asking interesting questions and you know, kind of engaging whatever, and
+[00:36:04.710 - 00:36:06.170] Speaker 1: I personally don't
+[00:36:06.550 - 00:36:08.570] Speaker 1: think that podcast host,
+[00:36:09.030 - 00:36:21.165] Speaker 1: that AI podcast host is likely to be more popular than you. People really care about other humans. This is like very deep. People want to know a little bit about your life story, what got you here. They want to be able to like talk to other people about this
+[00:36:21.545 - 00:36:25.645] Speaker 1: shared sense of who you are and there's like some cultural and social value in that.
+[00:36:26.025 - 00:36:27.805] Speaker 1: We are obsessed with other people.
+[00:36:29.920 - 00:36:32.260] Speaker 2: And Why is that, Sam? Why do you think that is?
+[00:36:33.040 - 00:36:36.580] Speaker 1: That, you know, like, I think that's also like deepened in our biology.
+[00:36:38.000 - 00:36:38.500] Speaker 1: And,
+[00:36:39.600 - 00:36:43.060] Speaker 1: you know, again, the earlier comment, you don't fight things that are deep in biology.
+[00:36:45.515 - 00:36:59.300] Speaker 1: I think I make a ton of sense of why we would evolve that way, but, you know, here we are. So, you know, we're going to keep caring about real people, and even if the AI podcast host is much smarter than you, I think it's very unlikely he'll be more popular than you. So in a perverse
+[00:36:59.840 - 00:37:00.340] Speaker 2: way,
+[00:37:01.440 - 00:37:04.420] Speaker 2: being stupider will be more novel than being smart?
+[00:37:04.880 - 00:37:06.260] Speaker 1: I don't know if it's like,
+[00:37:07.360 - 00:37:07.860] Speaker 1: stupider
+[00:37:08.480 - 00:37:12.180] Speaker 1: or smarter that has the novelty, but I think being a real person
+[00:37:12.675 - 00:37:14.855] Speaker 1: in a world of unlimited AI content
+[00:37:15.315 - 00:37:16.615] Speaker 1: will increase in value.
+[00:37:17.395 - 00:37:20.535] Speaker 2: Is a real person somebody who screws up, unlike a model?
+[00:37:21.155 - 00:37:31.330] Speaker 1: I mean, certainly real people do screw up, so maybe that's part of what we associate with a real person, I'm not sure. But I do think we just, knowing that it's a real person or not, we really extremely care about.
+[00:37:32.910 - 00:37:34.530] Speaker 2: What is the difference between
+[00:37:34.830 - 00:37:36.530] Speaker 2: AGI and human intelligence?
+[00:37:36.990 - 00:37:37.970] Speaker 2: Today and tomorrow?
+[00:37:39.870 - 00:37:43.170] Speaker 1: So so, like with GPT five, you have something that is
+[00:37:44.185 - 00:37:45.245] Speaker 1: incredibly smart
+[00:37:45.705 - 00:37:46.205] Speaker 1: in
+[00:37:46.665 - 00:37:49.245] Speaker 1: a lot of domains at tasks that take,
+[00:37:50.505 - 00:37:53.965] Speaker 1: you know, seconds to a few minutes. It's very superhuman
+[00:37:54.265 - 00:37:55.005] Speaker 1: at knowledge,
+[00:37:55.545 - 00:37:56.685] Speaker 1: at pattern recognition,
+[00:37:57.225 - 00:38:00.560] Speaker 1: at recall on these shorter term tasks.
+[00:38:00.940 - 00:38:06.480] Speaker 1: But in terms of figuring out what questions to ask or to work on something over a very long period of time,
+[00:38:07.340 - 00:38:08.720] Speaker 1: we are definitely not
+[00:38:09.500 - 00:38:10.800] Speaker 1: close to human performance.
+[00:38:13.575 - 00:38:15.515] Speaker 1: And an interesting example
+[00:38:16.135 - 00:38:19.755] Speaker 1: that one of our researchers gave me recently is if you look at our performance in math,
+[00:38:22.455 - 00:38:28.610] Speaker 1: you know, a couple of years ago, we could solve math problems that would take like an expert human a few minutes to solve.
+[00:38:28.910 - 00:38:32.210] Speaker 1: Recently, we got gold level performance on the International Math Olympiad.
+[00:38:32.510 - 00:38:39.820] Speaker 1: Each of those problems takes about an hour and a half. So we've gone from a problem, a thinking horizon of a few minutes to an hour and a half.
+[00:38:40.495 - 00:38:44.995] Speaker 1: To prove a new, an important new mathematical theorem maybe takes like a thousand hours.
+[00:38:45.375 - 00:38:50.515] Speaker 1: And you can predict when we can do a thousand hour problem, but certainly in the world today, we cannot at all.
+[00:38:50.975 - 00:38:53.635] Speaker 1: And so that's like another dimension where
+[00:38:54.420 - 00:38:55.160] Speaker 1: AI can't
+[00:38:55.540 - 00:38:57.240] Speaker 2: do it. So I was in The US
+[00:38:57.620 - 00:38:58.120] Speaker 2: between
+[00:38:58.420 - 00:39:03.240] Speaker 2: SF between San Francisco and New York the last couple of months, and I met
+[00:39:03.540 - 00:39:05.480] Speaker 2: a whole bunch of AI founders.
+[00:39:07.875 - 00:39:10.535] Speaker 2: The one thing everybody seemed to agree on
+[00:39:10.995 - 00:39:11.495] Speaker 2: is,
+[00:39:12.515 - 00:39:13.015] Speaker 2: like
+[00:39:13.555 - 00:39:17.095] Speaker 2: for AI, The US is a few years ahead
+[00:39:17.635 - 00:39:18.775] Speaker 2: of most others.
+[00:39:20.200 - 00:39:23.820] Speaker 2: They also thought that for robotics, China seems to be ahead.
+[00:39:25.000 - 00:39:28.540] Speaker 2: Do you have a view on robotics and what happens there, like humanoid
+[00:39:29.000 - 00:39:30.460] Speaker 2: or other form of robotics?
+[00:39:31.560 - 00:39:37.155] Speaker 1: I think it will be incredibly important in couple of years. I think, one of the things that is going to feel most
+[00:39:37.935 - 00:39:43.955] Speaker 1: AGI like is seeing robots just walk by you on the street doing kind of normal day to day tasks.
+[00:39:46.175 - 00:39:48.995] Speaker 2: Is there a reason why they need to have human like form?
+[00:39:49.710 - 00:39:51.970] Speaker 1: Well, you can certainly have non humanoid
+[00:39:52.270 - 00:39:54.850] Speaker 1: forms, but the world is really built for humans.
+[00:39:55.310 - 00:39:56.690] Speaker 1: You know, like door handles,
+[00:39:57.870 - 00:39:59.090] Speaker 1: steering wheels in cars,
+[00:39:59.550 - 00:40:01.890] Speaker 1: factories, like a lot of this is built for,
+[00:40:03.245 - 00:40:05.905] Speaker 1: we built it for our own kind of morphology.
+[00:40:06.365 - 00:40:09.665] Speaker 1: So there will of course be other specialized robots too, but,
+[00:40:11.885 - 00:40:14.465] Speaker 1: the world like is built and I hope stays built
+[00:40:14.765 - 00:40:15.345] Speaker 1: for us.
+[00:40:15.990 - 00:40:18.890] Speaker 1: You know, robots that match that form factor, it seems like a good idea.
+[00:40:19.430 - 00:40:22.250] Speaker 2: If I'm a young guy looking to start a robotics company,
+[00:40:22.790 - 00:40:24.970] Speaker 2: but somebody else has manufacturing
+[00:40:25.430 - 00:40:32.455] Speaker 2: scale, and I really want, as a Indian guy, to be able to build and compete there, How do I make up for manufacturing
+[00:40:32.995 - 00:40:33.495] Speaker 2: scale
+[00:40:34.035 - 00:40:35.575] Speaker 2: as someone starting up?
+[00:40:37.875 - 00:40:46.810] Speaker 1: Well, eventually, once you build enough robots, they can make more copies of themselves. And, but in the short term, I think you probably have to find some really good partners that know a lot about manufacturing.
+[00:40:47.350 - 00:40:51.130] Speaker 1: And, you know, we're interested in robots, so we're thinking about this.
+[00:40:51.510 - 00:40:52.330] Speaker 1: It's definitely
+[00:40:52.870 - 00:40:54.250] Speaker 1: a new skill for us to learn.
+[00:40:55.045 - 00:41:00.585] Speaker 2: Sam, what happens to the form factor? I've been using the cell phone for a long time. I know
+[00:41:01.205 - 00:41:06.905] Speaker 2: you will not likely speak about what you're doing with Jony Ive and what happens there, or maybe you will.
+[00:41:07.285 - 00:41:09.865] Speaker 2: But what happens to form factor overall?
+[00:41:11.990 - 00:41:14.650] Speaker 1: One of the things that I think will be defining about
+[00:41:15.110 - 00:41:16.490] Speaker 1: the difference of
+[00:41:17.270 - 00:41:19.610] Speaker 1: AI versus the sort of previous
+[00:41:20.710 - 00:41:22.890] Speaker 1: way we've been using computers and technology
+[00:41:23.510 - 00:41:25.930] Speaker 1: is you really want AI to be,
+[00:41:27.085 - 00:41:28.785] Speaker 1: have as much context as possible,
+[00:41:29.165 - 00:41:30.865] Speaker 1: do stuff for you and be proactive.
+[00:41:31.325 - 00:41:32.225] Speaker 1: So a computer
+[00:41:32.525 - 00:41:40.385] Speaker 1: or a phone, you know, it's kind of either on or off, it's in your pocket or it's in your hand and you're using it, but you might want AI to just be
+[00:41:41.940 - 00:41:42.920] Speaker 1: you know, like a companion
+[00:41:43.300 - 00:41:44.120] Speaker 1: with you
+[00:41:44.580 - 00:41:45.560] Speaker 1: throughout your day
+[00:41:46.740 - 00:41:57.720] Speaker 1: and alerting you in different ways when it can do something to help you or when it's, you know, there's something really important you need to know or reminding you of something that you said you needed to do earlier in the day.
+[00:41:58.795 - 00:41:59.695] Speaker 1: And the current
+[00:42:00.395 - 00:42:06.335] Speaker 1: form factors of computers are, I think, not quite right for that. They do have this either on or off binary,
+[00:42:07.835 - 00:42:12.735] Speaker 1: that I think isn't quite what we want for like a, the sort of sci fi dream of the AI companion.
+[00:42:13.140 - 00:42:16.200] Speaker 1: So the form factor that enables that, you could imagine a lot of things.
+[00:42:16.820 - 00:42:19.960] Speaker 1: There's people talking about glasses and wearables and little
+[00:42:20.260 - 00:42:22.120] Speaker 1: things that sit on your table, and
+[00:42:24.500 - 00:42:28.805] Speaker 1: I think the world will experiment with a lot of those, but this idea of sort of ambiently
+[00:42:30.145 - 00:42:30.645] Speaker 1: aware
+[00:42:32.065 - 00:42:34.805] Speaker 1: physical hardware, that feels like it's going to be important.
+[00:42:35.585 - 00:42:38.725] Speaker 2: Is that the form factor with Johnny Ive, like a sensor?
+[00:42:40.625 - 00:42:42.565] Speaker 1: So we'll try multiple products,
+[00:42:43.270 - 00:42:45.450] Speaker 1: but but I think this idea of
+[00:42:46.870 - 00:42:48.650] Speaker 1: trying to build hardware that
+[00:42:49.030 - 00:42:52.970] Speaker 1: an AI companion can sort of embody itself in will be an important thread.
+[00:42:53.830 - 00:42:54.330] Speaker 2: Right.
+[00:42:54.710 - 00:42:58.490] Speaker 2: The the last two things I want to ask you, Sam, is one about
+[00:42:59.645 - 00:43:06.305] Speaker 2: fusion because I know you've invested in Helion and you're a big proponent of it. Does that solve the climate change problem?
+[00:43:07.405 - 00:43:08.865] Speaker 2: Would you put money on that?
+[00:43:10.285 - 00:43:14.065] Speaker 1: Well, it certainly helps a lot. I suspect that we've already done
+[00:43:14.900 - 00:43:22.440] Speaker 1: sufficient damage to the climate. We're gonna have to undo some damage too, even if we got to switch to fusion right away. But it would certainly be a great step forward.
+[00:43:23.700 - 00:43:28.520] Speaker 2: And the last question I have for you, Sam, is the question I care most about.
+[00:43:29.835 - 00:43:30.335] Speaker 2: What's
+[00:43:30.875 - 00:43:43.695] Speaker 1: in this AI realm for India as a country? What's the opportunity for us? As I mentioned earlier, I think India may be our largest market in the world, at some point in the not very distant future. The excitement,
+[00:43:45.120 - 00:43:48.180] Speaker 1: the embrace of AI in India, and the ability
+[00:43:49.200 - 00:43:52.340] Speaker 1: to, for Indian people to use AI to just sort of
+[00:43:52.960 - 00:43:54.640] Speaker 1: leapfrog into the future and,
+[00:43:55.680 - 00:44:01.425] Speaker 1: invent a totally new and better way of doing things and the sort of economic benefits that come from that, the societal benefits.
+[00:44:02.045 - 00:44:05.345] Speaker 1: If there is one large society in the world that seems
+[00:44:05.725 - 00:44:06.225] Speaker 1: most
+[00:44:06.765 - 00:44:12.145] Speaker 1: enthusiastic to transform with AI right now, it's India, and the energy is incredible. I'm looking forward to it coming soon.
+[00:44:13.720 - 00:44:14.220] Speaker 1: And
+[00:44:15.000 - 00:44:17.020] Speaker 1: it's really, like, quite amazing to watch,
+[00:44:17.480 - 00:44:18.780] Speaker 1: and I I think the
+[00:44:19.080 - 00:44:20.220] Speaker 1: it's sort of
+[00:44:20.840 - 00:44:23.180] Speaker 1: the momentum is unmatched anywhere in the world.
+[00:44:24.040 - 00:44:25.260] Speaker 2: I I feel like
+[00:44:25.885 - 00:44:29.265] Speaker 2: the question really is how do we transition from being
+[00:44:29.645 - 00:44:31.505] Speaker 2: a consumer to be a producer
+[00:44:32.125 - 00:44:32.625] Speaker 2: where
+[00:44:33.005 - 00:44:42.540] Speaker 1: we can build something that other people use outside of India? That that was what I'm I mean, there's lots of things happening there, but that that was the thing I meant. I think that's really happening already in a big way.
+[00:44:42.860 - 00:44:43.360] Speaker 1: The
+[00:44:44.380 - 00:44:46.080] Speaker 1: the entrepreneurial energy around
+[00:44:46.940 - 00:44:48.640] Speaker 1: building with AI in India
+[00:44:49.100 - 00:44:49.600] Speaker 1: is
+[00:44:49.900 - 00:44:53.040] Speaker 1: is quite amazing, and we hope to see much more of it.
+[00:44:53.580 - 00:44:54.080] Speaker 2: Right.
+[00:44:54.485 - 00:44:54.985] Speaker 2: Yeah.
+[00:44:55.605 - 00:45:00.676] Speaker 2: Super. Thank you, Sam Great. For doing this. Thank you for having me. Thank you. Appreciate it.
+[00:45:01.396 - 00:45:02.456] Speaker 2: I'm gonna message you.
+[00:45:02.756 - 00:45:04.776] Speaker 1: Okay. Good to see you. Thanks for doing this.

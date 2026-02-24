@@ -1,0 +1,63 @@
+{
+  "unit": "utterance (sentence-like)",
+  "num_utterances_total": 1729,
+  "audio_duration_s_est": 7903.475,
+  "global_sentence_duration_s": {
+    "count": 1729,
+    "mean": 3.749,
+    "min": 0.4,
+    "max": 24.78
+  },
+  "global_sentence_word_count": {
+    "count": 1729,
+    "mean": 13.647,
+    "min": 1.0,
+    "max": 98.0
+  },
+  "per_speaker": [
+    {
+      "speaker": "Speaker 2",
+      "speaker_id": 1,
+      "num_sentences": 1461,
+      "total_speech_s": 5549.878,
+      "total_words": 20381,
+      "wpm_est": 220.34,
+      "question_count": 29,
+      "question_rate_per_sentence": 0.0198,
+      "sentence_duration_s": {
+        "count": 1461,
+        "mean": 3.799,
+        "min": 0.4,
+        "max": 24.78
+      },
+      "sentence_word_count": {
+        "count": 1461,
+        "mean": 13.95,
+        "min": 1.0,
+        "max": 98.0
+      }
+    },
+    {
+      "speaker": "Speaker 1",
+      "speaker_id": 0,
+      "num_sentences": 268,
+      "total_speech_s": 932.135,
+      "total_words": 3214,
+      "wpm_est": 206.88,
+      "question_count": 25,
+      "question_rate_per_sentence": 0.0933,
+      "sentence_duration_s": {
+        "count": 268,
+        "mean": 3.478,
+        "min": 0.5,
+        "max": 18.055
+      },
+      "sentence_word_count": {
+        "count": 268,
+        "mean": 11.993,
+        "min": 1.0,
+        "max": 71.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,4143 @@
+{
+  "unit": "utterance (sentence-like)",
+  "num_segments": 591,
+  "segments": [
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 0.24,
+      "end": 3.54,
+      "transcript": "What's your message to all the young Virat Kohlis watching this"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3.9199998,
+      "end": 8.26,
+      "transcript": "and young Jemima Rodricks is watching this, who'll take the country"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 8.639999,
+      "end": 9.139999,
+      "transcript": "further?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 9.44,
+      "end": 13.78,
+      "transcript": "You know, I'm so glad you used the second name. I think when I watched the women's,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 14.48,
+      "end": 17.275002,
+      "transcript": "league, like watching a new emerging,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 17.655,
+      "end": 25.675,
+      "transcript": "kind of activity. You know, Vikings would always invade with the women as well. Okay. Alright. We need to be Vikings. No. You notice I'm not disputing it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 26.095,
+      "end": 26.595,
+      "transcript": "So"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 27.175,
+      "end": 28.475,
+      "transcript": "Why are you doing this podcast?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 30.07,
+      "end": 34.01,
+      "transcript": "You know, I'm doing this podcast one because I like you."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 37.27,
+      "end": 38.73,
+      "transcript": "That's right. Ladies and gentlemen,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 39.11,
+      "end": 40.57,
+      "transcript": "this is doctor"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 41.03,
+      "end": 41.53,
+      "transcript": "Jaishankar,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 41.91,
+      "end": 43.85,
+      "transcript": "the minister of external affairs"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 44.629997,
+      "end": 45.53,
+      "transcript": "on TRS."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 46.015,
+      "end": 60.114998,
+      "transcript": "Possibly the most requested episode we've had in the longest time because we've done so much geopolitical content, and this legend has come up so much on the show that we just had to bring him on TRS. Keep in mind, this is a very short episode. There was a time constraint because of"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 61.13,
+      "end": 64.43,
+      "transcript": "schedules on that particular day. So I couldn't podcast"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 64.81,
+      "end": 72.03,
+      "transcript": "exactly the way I wanted to with doctor Jaishankar, but it's a beginning. You're going to see an incredible episode of TRS up ahead."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 72.49,
+      "end": 75.71,
+      "transcript": "Special thanks to myGov India for making this happen."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 76.01501,
+      "end": 85.15501,
+      "transcript": "This is my mid twenties dream to talk to this man considering how much he's done for the country, considering how he's rewritten the country's branding on a global stage."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 85.535,
+      "end": 86.435005,
+      "transcript": "This was a great"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 87.055,
+      "end": 94.62,
+      "transcript": "icebreaker with the legend. As I said earlier, I was a little nervous to speak to the cabinet ministers, but doctor Jaishankar made me feel extremely"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 95.16,
+      "end": 95.66,
+      "transcript": "comfortable."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 96.28,
+      "end": 115.625,
+      "transcript": "That's his actual real life vibe if you're a young motivated Indian. And that's what this particular episode one with doctor Jaishankar was about. It was about the young, the new, and the motivated India. I hope you enjoyed this particular episode. I hope every single young Indian watches this episode because"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 116.03,
+      "end": 123.25,
+      "transcript": "to be honest, jokes apart, we're living through some intense times, and we need to turn to people like doctor Jaishankar"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 124.35,
+      "end": 126.13,
+      "transcript": "for guidance about the future."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 126.59,
+      "end": 128.61,
+      "transcript": "So I'm gonna let you slip into the episode."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 129.235,
+      "end": 133.495,
+      "transcript": "It is a slightly shorter episode. We will come back with a much longer one with doctor Jaishankar,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 133.955,
+      "end": 137.495,
+      "transcript": "but for now, enjoy this legendary piece of TRS."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 156.535,
+      "end": 157.035,
+      "transcript": "Doctor"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 157.41501,
+      "end": 157.91501,
+      "transcript": "Jaishankar,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 158.21501,
+      "end": 159.35501,
+      "transcript": "the most requested"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 159.65501,
+      "end": 161.99501,
+      "transcript": "podcast possibly that we ever had."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 162.77501,
+      "end": 165.675,
+      "transcript": "How how are you and why do you think that is?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 166.21501,
+      "end": 167.195,
+      "transcript": "Oh, I'm good."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 167.895,
+      "end": 169.035,
+      "transcript": "Been a busy"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 169.58,
+      "end": 170.4,
+      "transcript": "few weeks."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 171.34,
+      "end": 171.74,
+      "transcript": "But,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 173.34,
+      "end": 174.32,
+      "transcript": "I would say"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 174.78,
+      "end": 177.52,
+      "transcript": "probably people are more interested in foreign policy."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 177.98,
+      "end": 179.2,
+      "transcript": "Nowadays. Nowadays."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 180.46,
+      "end": 182.08,
+      "transcript": "And maybe they're going to watch you."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 182.54,
+      "end": 183.42,
+      "transcript": "You know? So"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 184.49501,
+      "end": 187.07501,
+      "transcript": "I mean, geopolitics is one of those subjects that"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 187.455,
+      "end": 194.115,
+      "transcript": "people have been lapping up only recently, but lapping it up heavily. And you're the poster boy for everything that's happening, correct geopolitically"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 194.41501,
+      "end": 195.07501,
+      "transcript": "for India."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 196.655,
+      "end": 198.12,
+      "transcript": "Okay. That's good to know."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 199.15999,
+      "end": 205.5,
+      "transcript": "But, you know, I in a way, it's it's natural. Look. What do we do most of the time?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 206.04,
+      "end": 207.26,
+      "transcript": "You get up in the morning."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 207.72,
+      "end": 212.505,
+      "transcript": "First thing you do is reach out for your phone. Right? Mhmm. And see what is it you missed when you're sleeping."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 213.065,
+      "end": 217.485,
+      "transcript": "Now what it's done is it has connected us completely to the world. Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 218.585,
+      "end": 222.765,
+      "transcript": "And because of the phone and then you build everything around it,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 224.10501,
+      "end": 228.125,
+      "transcript": "once you start getting used to global content and global comparisons,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 228.95999,
+      "end": 229.45999,
+      "transcript": "then,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 229.76,
+      "end": 234.65999,
+      "transcript": "you know, what you eat, what you read, what you think, everything becomes global."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 235.04,
+      "end": 237.7,
+      "transcript": "You know, we are I mean, that's why they call it globalization."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 239.04,
+      "end": 239.54,
+      "transcript": "Okay."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 241.12,
+      "end": 251.525,
+      "transcript": "Simple question for you. Who is Doctor. S Jaishankar the man? Like, that people don't know. I'll tell you why. Right now, you're very popular on shorts and reels for your very aggressive"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 252.385,
+      "end": 252.885,
+      "transcript": "comebacks"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 253.185,
+      "end": 254.885,
+      "transcript": "and your very aggressive responses."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 255.425,
+      "end": 256.885,
+      "transcript": "And in many ways,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 257.29,
+      "end": 273.79498,
+      "transcript": "I feel like Virat Kohli and yourself are the faces of young India in some ways. This is a There's a slight age difference between us. No. But you're still you're still the guy young India is, like, cheering for. When we see you up there talking to all these people from other countries, we're like, yep. That's that's the response that they should get."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 274.495,
+      "end": 274.995,
+      "transcript": "Look."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 276.41498,
+      "end": 279.07498,
+      "transcript": "You know, I'm a trained diplomat"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 280.09497,
+      "end": 281.235,
+      "transcript": "whose general"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 281.775,
+      "end": 285.235,
+      "transcript": "SOP is, you know, keep it play it cool,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 287.68,
+      "end": 290.18,
+      "transcript": "sort of don't make too many waves, etcetera."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 292.63998,
+      "end": 293.13998,
+      "transcript": "Now"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 293.6,
+      "end": 294.1,
+      "transcript": "partly,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 294.48,
+      "end": 296.26,
+      "transcript": "I've transitioned into being"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 297.44,
+      "end": 299.38,
+      "transcript": "a political face. Okay?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 299.755,
+      "end": 300.255,
+      "transcript": "But"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 301.115,
+      "end": 305.855,
+      "transcript": "even, I would say, the diplomatic side of me, which is still very deep,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 306.955,
+      "end": 310.335,
+      "transcript": "after all, I've done it for forty five years, maybe more now."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 312.00998,
+      "end": 314.03,
+      "transcript": "It's like this, you know, I'm very"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 314.96997,
+      "end": 316.99,
+      "transcript": "nice to people who are nice to me."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 317.61,
+      "end": 318.66998,
+      "transcript": "When I get pushed,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 319.61,
+      "end": 322.11,
+      "transcript": "I think it's natural to push back."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 322.65,
+      "end": 325.62997,
+      "transcript": "And one of the things that has been happening a bit"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 325.965,
+      "end": 326.945,
+      "transcript": "is in the last"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 327.48502,
+      "end": 338.38,
+      "transcript": "year, year and a half, people have been pushing us a bit. You know? So I feel I mean, it's it's you you raised you brought up Virat Kohli cricket analogy. You know? If,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 338.78,
+      "end": 340.08,
+      "transcript": "you get a few bounces,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 340.69998,
+      "end": 346.0,
+      "transcript": "you you you want to you want to do something with it. No? Hit that pull shot. Yeah. Yeah. Okay."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 347.41998,
+      "end": 350.63998,
+      "transcript": "You know, when you say the sentence when I get pushed,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 351.025,
+      "end": 361.285,
+      "transcript": "in many ways your I get pushed is actually when India gets pushed and you are the personification of India on a global scale. Keeping that in mind, I want to ask you why PM Modi said that"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 361.82498,
+      "end": 363.205,
+      "transcript": "you have other thoughts."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 364.23,
+      "end": 369.05002,
+      "transcript": "No. I I not he didn't exactly say Adhbud. I think he said, Andhroni."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 369.59,
+      "end": 370.09,
+      "transcript": "Andhroni."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 372.47,
+      "end": 378.01,
+      "transcript": "Okay. Look. To be very frank, we had got off a plane. I was myself a little bit zonked, getting off the plane."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 378.725,
+      "end": 379.945,
+      "transcript": "And he was talking"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 380.405,
+      "end": 380.905,
+      "transcript": "about,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 381.605,
+      "end": 383.785,
+      "transcript": "just outside to a group of supporters."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 384.565,
+      "end": 394.62,
+      "transcript": "And, I guess I I didn't ask him after that. Okay? I guess what he was really saying is, look, this guy has watched a lot of people come and go,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 395.63998,
+      "end": 400.13998,
+      "transcript": "so he's seen a lot. So maybe you should talk to him and ask him"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 401.08,
+      "end": 403.82,
+      "transcript": "what, you know, what's different? What's your age?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 404.28,
+      "end": 406.38,
+      "transcript": "What's different? Yeah. About you?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 406.815,
+      "end": 414.11502,
+      "transcript": "No. I don't think it was so much what he was talking about me. He was actually saying that, look, guys, talk to him because he will tell you how much,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 414.575,
+      "end": 422.035,
+      "transcript": "you know, the prime minister's visits have changed, how much foreign policy has changed, how much the country has changed. So it was more his,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 423.11,
+      "end": 430.13,
+      "transcript": "it was my thoughts rather than me as a subject that he was talking about. That's my my take off. I think it's one and the same thing. Whatever."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 430.75,
+      "end": 439.78497,
+      "transcript": "Okay. I had Ishan Sharma on the show yesterday. He's a cricketer. Okay. And, he spoke about how after a certain point, because you've played so much cricket and you have so many"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 440.16498,
+      "end": 441.465,
+      "transcript": "experiences that you've had,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 442.085,
+      "end": 450.26498,
+      "transcript": "your pattern recognition improves. Some people would call pattern recognition intuition or the sixth sense. Mhmm. I am a 100% sure that even on a geopolitical scale,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 450.74,
+      "end": 456.52,
+      "transcript": "there is a role of your sixth sense. Absolutely. I agree with you. Can you talk a little bit about this, like a slightly"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 456.98,
+      "end": 465.79498,
+      "transcript": "higher level of pattern recognition or even go one level higher than that? Is there like a spiritual aspect? I mean, I use that word cautiously. No. Look, what happens"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 466.25497,
+      "end": 466.75497,
+      "transcript": "is,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 467.935,
+      "end": 469.955,
+      "transcript": "there is this is partly experience,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 470.335,
+      "end": 472.595,
+      "transcript": "but it's partly also hard work."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 474.01498,
+      "end": 478.995,
+      "transcript": "Any business, you again, we are using sports, but I would use it in my own"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 479.53497,
+      "end": 480.435,
+      "transcript": "line of work."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 481.71,
+      "end": 482.21,
+      "transcript": "You"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 482.91,
+      "end": 485.17,
+      "transcript": "spend a lot of time reading other players,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 485.55,
+      "end": 486.05,
+      "transcript": "understanding"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 486.83,
+      "end": 487.33,
+      "transcript": "their"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 487.71,
+      "end": 488.21,
+      "transcript": "game,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 488.51,
+      "end": 491.41,
+      "transcript": "you know, their play, how"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 491.79,
+      "end": 492.61,
+      "transcript": "does it work,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 492.99,
+      "end": 500.465,
+      "transcript": "their mind games which they try on you. So you try to see patterns in other people, in other countries, in other,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 501.125,
+      "end": 503.345,
+      "transcript": "you know, other foreign ministries, etcetera."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 504.365,
+      "end": 508.785,
+      "transcript": "Just like you do in sports. So in that sense, there's something very it's a it's a competitive activity."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 509.14,
+      "end": 511.40002,
+      "transcript": "So if you're going up against a competitor"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 512.42,
+      "end": 523.24,
+      "transcript": "and I am a very competitive person. Okay. I mean, when you ask me that bit, I I absolutely let you know. I mean, I try to work out as much of it in sports, but I still have a lot left over,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 523.54004,
+      "end": 524.84,
+      "transcript": "for my real business."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 525.435,
+      "end": 528.575,
+      "transcript": "So when you when you if you are an accommodative person,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 528.955,
+      "end": 539.375,
+      "transcript": "all the time your six senses, you call it, is working on your you know, one part I'm listening to you, but if, you know, I've seen you do this before. We've talked before."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 539.96,
+      "end": 540.78,
+      "transcript": "I've seen"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 541.32,
+      "end": 542.62,
+      "transcript": "I've prepared by"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 543.24,
+      "end": 550.54,
+      "transcript": "watching you or studying you before. The sixth sense takes over. So sometimes, you know, when you are in a situation,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 551.4,
+      "end": 560.09503,
+      "transcript": "people sometimes ask you saying, oh, did you think about that line before? I didn't. I mean, that sixth sense takes over at that time because you already"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 560.715,
+      "end": 563.055,
+      "transcript": "kind of you know, it's moving faster"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 563.59503,
+      "end": 564.495,
+      "transcript": "than your mind."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 564.875,
+      "end": 568.255,
+      "transcript": "And it's actually telling you, okay. This they're gonna hit you with this."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 568.73,
+      "end": 574.26996,
+      "transcript": "So you're already processing it. So you'll you'll you'll see that coming at you before it actually,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 575.52997,
+      "end": 577.06995,
+      "transcript": "comes at you. So,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 577.52997,
+      "end": 584.955,
+      "transcript": "that's now I would say it's more like a instinct. Right? You call it spirituality. I wouldn't go that far, but, you know Sure."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 585.895,
+      "end": 594.875,
+      "transcript": "There you have it. But, you know, I I just want to round off the earlier point. You asked me what, you know, what did PM mean by that? What has changed?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 595.895,
+      "end": 598.395,
+      "transcript": "I think one part is we're really living"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 598.855,
+      "end": 599.355,
+      "transcript": "under"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 599.74,
+      "end": 601.60004,
+      "transcript": "Prime Minister Modi in a different"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 602.22003,
+      "end": 602.72003,
+      "transcript": "era."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 603.66003,
+      "end": 605.52,
+      "transcript": "He has been, in many ways,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 605.9,
+      "end": 606.4,
+      "transcript": "personally"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 606.78,
+      "end": 607.28,
+      "transcript": "transformational."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 608.06,
+      "end": 609.76,
+      "transcript": "He's he's churned the system"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 610.46,
+      "end": 621.515,
+      "transcript": "in a very, very radical way. I mean, I, you know, I joined the government when another Gujarati was a prime minister, Maharaj Desai. Okay? So that's how far back I go."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 622.21497,
+      "end": 630.64,
+      "transcript": "A lot of people, you know, your listeners would be wondering, okay, what the hell is even talking about? No. No. You're still the poster boy of young India. But but look,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 631.82,
+      "end": 635.83997,
+      "transcript": "it's not often you get people in any line of business."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 636.54,
+      "end": 638.88,
+      "transcript": "Leave alone in something like running a nation."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 639.46497,
+      "end": 644.925,
+      "transcript": "You can have the big thoughts, you know, the the strategic ideas, the grand vision."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 646.105,
+      "end": 648.045,
+      "transcript": "Very seriously, you have the"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 648.425,
+      "end": 649.005,
+      "transcript": "the revolutionary"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 649.38495,
+      "end": 654.605,
+      "transcript": "concepts that you chart out. Okay. There's a different way of looking at a problem. That's one skill."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 655.10004,
+      "end": 655.92004,
+      "transcript": "And then you"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 656.30005,
+      "end": 665.36005,
+      "transcript": "have going down to the details saying, okay. This doesn't this needs to be tweaked. That detail needs to be looked at. This problem needs to be fixed. Guys, you haven't done,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 666.14,
+      "end": 667.52,
+      "transcript": "the backup on this."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 668.22003,
+      "end": 668.72003,
+      "transcript": "Usually,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 670.04504,
+      "end": 673.585,
+      "transcript": "there are talented people, inspired people who get the big picture."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 674.445,
+      "end": 676.705,
+      "transcript": "There are people who are very grounded,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 677.405,
+      "end": 678.865,
+      "transcript": "who who kind of,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 679.565,
+      "end": 683.265,
+      "transcript": "go down, drill down. It's very rare to find it in one person."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 683.75,
+      "end": 687.61,
+      "transcript": "And that, I would say, to me, is a very singular quality,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 688.23,
+      "end": 690.97,
+      "transcript": "opera, mister Modi. And that makes it very,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 691.27,
+      "end": 698.97,
+      "transcript": "in a way, very interesting to work with him, but it makes it very challenging because he can challenge you right up there. He can challenge you"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 699.345,
+      "end": 700.805,
+      "transcript": "right down there. You know?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 701.26495,
+      "end": 702.96497,
+      "transcript": "And What's your current challenge?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 703.505,
+      "end": 705.845,
+      "transcript": "Look. It's the world's a tough place right now."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 706.46497,
+      "end": 709.285,
+      "transcript": "You we barely come out of this COVID thing."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 709.985,
+      "end": 711.605,
+      "transcript": "You had this Ukraine conflict,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 712.95,
+      "end": 715.20996,
+      "transcript": "and all the consequences"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 715.51,
+      "end": 717.05,
+      "transcript": "which came out of it, you know,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 717.75,
+      "end": 720.17,
+      "transcript": "energy, food, inflation, fertilizer."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 721.43,
+      "end": 723.93,
+      "transcript": "If we had not handled it well,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 724.975,
+      "end": 726.915,
+      "transcript": "we actually, you know, the Indian"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 727.295,
+      "end": 728.27496,
+      "transcript": "consumer today,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 728.735,
+      "end": 730.51495,
+      "transcript": "the average person, you and me,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 730.89496,
+      "end": 733.07495,
+      "transcript": "it would have actually hit us in our pockets."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 734.81494,
+      "end": 740.01,
+      "transcript": "We would have seen much higher inflation. We'd be paying much more for our oil than we are."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 740.41003,
+      "end": 740.91003,
+      "transcript": "So,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 741.53,
+      "end": 751.15,
+      "transcript": "I'm actually looking at the world when at a world where everything is coming at me at the same time. You know, there's a health issue coming at me. There's an energy issue coming at me."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 751.69,
+      "end": 755.985,
+      "transcript": "I have a set of border problems on the boundary border areas with the Chinese."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 756.945,
+      "end": 760.325,
+      "transcript": "I have the pending or, you know, the old problem"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 760.785,
+      "end": 761.605,
+      "transcript": "with the Pakistanis"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 762.225,
+      "end": 762.96497,
+      "transcript": "who, you know,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 763.985,
+      "end": 764.725,
+      "transcript": "have have,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 765.58496,
+      "end": 774.95,
+      "transcript": "been doing terrorism for so long. And at the same time, I'm growing. You know? My people are traveling abroad. And for me, one big part is"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 775.49,
+      "end": 781.75,
+      "transcript": "how, you know, foreign policy is not a kind of a board game or an academic exercise."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 782.325,
+      "end": 784.585,
+      "transcript": "It actually affects every person."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 785.205,
+      "end": 786.905,
+      "transcript": "So in my own mind,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 787.28503,
+      "end": 791.705,
+      "transcript": "it's it's like, how do I get this foreign policy for you, you personally?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 792.16504,
+      "end": 797.79004,
+      "transcript": "Right. You know, how do I secure you when you travel? How do I look after you when you get into problems?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 798.33,
+      "end": 800.91003,
+      "transcript": "How do I make sure, if you're a student,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 801.69,
+      "end": 808.11,
+      "transcript": "that you can work on the side and support yourself? Or that, you know, you don't have to wait for two and a half years for a visa"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 808.89,
+      "end": 816.175,
+      "transcript": "by a foreign embassy. So it's as I said, I've also learned. These are small things. It's the big things. You've got to get them both right."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 816.71497,
+      "end": 821.695,
+      "transcript": "The one truth I've learned about geopolitics is that it's money oriented. If you have the money, it helps you geopolitically."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 822.235,
+      "end": 830.51996,
+      "transcript": "Second truth I've learned is that and this I've learned in the last three days speaking to the cabinet ministers, is that the role of entrepreneurs is just do your own thing, create employment,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 831.38,
+      "end": 834.36,
+      "transcript": "increase the exports of the country, help the country become richer."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 835.62,
+      "end": 842.415,
+      "transcript": "Would you like to give the youth and especially entrepreneurs any other geopolitical advice? When it comes to this,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 842.955,
+      "end": 845.775,
+      "transcript": "I don't want to use the phrase India versus China,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 846.15497,
+      "end": 853.08,
+      "transcript": "but this whole scenario. How can we help? No. Look, I think you're smart not using that phrase India versus"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 854.34,
+      "end": 855.64,
+      "transcript": "China for this reason."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 857.46,
+      "end": 859.16003,
+      "transcript": "Yes, we have issues with China,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 859.7,
+      "end": 861.96,
+      "transcript": "but that's not the only issue."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 862.42004,
+      "end": 864.52,
+      "transcript": "I mean, we have to be fundamentally"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 864.9,
+      "end": 865.4,
+      "transcript": "competitive."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 866.255,
+      "end": 866.995,
+      "transcript": "You know?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 867.615,
+      "end": 868.435,
+      "transcript": "If I,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 869.215,
+      "end": 870.435,
+      "transcript": "if I do not"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 870.815,
+      "end": 871.875,
+      "transcript": "have the factories,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 872.255,
+      "end": 873.955,
+      "transcript": "if I do not have the,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 874.655,
+      "end": 876.675,
+      "transcript": "the, as you say, the entrepreneurship,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 876.97504,
+      "end": 879.555,
+      "transcript": "the businesses, the start up, the agriculture,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 881.2,
+      "end": 882.02,
+      "transcript": "the infrastructure."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 882.48004,
+      "end": 886.74,
+      "transcript": "It's not just the the Chinese. The rest of the world will also run over me."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 887.12,
+      "end": 892.66003,
+      "transcript": "So, you know, it is at the end of the day, there are roughly 200 nations in the world. Okay?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 893.035,
+      "end": 893.535,
+      "transcript": "Okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 894.075,
+      "end": 897.195,
+      "transcript": "Maybe about a 125,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 897.195,
+      "end": 906.415,
+      "transcript": "maybe much smaller. Okay? After that, once you start grading them, there will be a zone. Okay? There'll be a zone of countries who constantly"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 906.875,
+      "end": 908.175,
+      "transcript": "compete with each other."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 908.7,
+      "end": 910.08,
+      "transcript": "They could even be friends."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 910.7,
+      "end": 913.84,
+      "transcript": "You know, The US and Europe are friends. They compete like that."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 914.7,
+      "end": 939.81,
+      "transcript": "Okay? So you'd have a Europe, you'd have an America, Russia, China, then you add, you know, maybe countries who are economically smaller than us, but they would compete in certain fields. Yeah. So I would say, for example, you have a Vietnam. Vietnam is a much smaller economy, but the fact is Vietnam competes when it comes to certain kinds of investment. K? So the bottom line, I think what the young people need to know, is that today,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 940.51,
+      "end": 942.85004,
+      "transcript": "it is all about building strengths."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 943.55005,
+      "end": 945.57,
+      "transcript": "That when you say make in India,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 945.95,
+      "end": 953.81,
+      "transcript": "when you say start up India, when you say Gati Shakti, you know, you need nobody's going to manufacture in India if your infrastructure is lousy."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 954.40497,
+      "end": 956.58496,
+      "transcript": "Okay? So they need to see"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 957.045,
+      "end": 961.625,
+      "transcript": "the, you know, the smart ports, the good roads, the rapid movement of goods."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 962.165,
+      "end": 971.29,
+      "transcript": "If you have to do all this, if you really need to create jobs. To me, at the end of the day, it's all about creating jobs and opportunities."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 971.99,
+      "end": 974.81,
+      "transcript": "There are many roads to it. Even foreign policy,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 975.27,
+      "end": 982.08997,
+      "transcript": "I would say, especially foreign policy, is one road, which is our job is also to market India, to brand India,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 982.635,
+      "end": 992.17505,
+      "transcript": "to to make India a magnet so that the rest of the world says, okay. These are responsible guys. These are safe guys. Let's go and do business. You know, they're not gonna steal your stuff."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 993.275,
+      "end": 993.775,
+      "transcript": "Okay."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 994.315,
+      "end": 995.695,
+      "transcript": "Basically, Chase excellence,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 996.20996,
+      "end": 996.94995,
+      "transcript": "create employment."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 998.44995,
+      "end": 1003.02997,
+      "transcript": "And as we move forward in this chase of individual excellence, you will achieve national excellence"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1004.37,
+      "end": 1005.18994,
+      "transcript": "in the sport"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1005.81,
+      "end": 1008.38995,
+      "transcript": "of global I mean, in the global sport of geopolitics."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1009.49,
+      "end": 1010.23,
+      "transcript": "Well said."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1010.85,
+      "end": 1014.205,
+      "transcript": "When you meet one of our rival nation's foreign ministers,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1014.665,
+      "end": 1017.485,
+      "transcript": "like we saw you doing the namaste to Bilal Bhutto,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1018.185,
+      "end": 1018.685,
+      "transcript": "what"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1019.22504,
+      "end": 1029.21,
+      "transcript": "is your interaction with him, which the news doesn't capture, which only podcast can potentially capture? And what's your interaction like with, say, the Chinese foreign minister if you meet him?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1029.59,
+      "end": 1030.09,
+      "transcript": "Diplomacy"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1030.87,
+      "end": 1042.1699,
+      "transcript": "is a is an art of detail in a way. Okay? There's a lot of nuance, you know, body language, how you dress, what you say, how you look, how you hold your hands or don't hold your hands. So"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1042.755,
+      "end": 1044.6951,
+      "transcript": "all of all of this, counts."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1045.875,
+      "end": 1049.335,
+      "transcript": "You it depends on the person. It depends on the situation."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1049.715,
+      "end": 1050.375,
+      "transcript": "It depends,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1051.0751,
+      "end": 1051.8151,
+      "transcript": "you know,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1052.1951,
+      "end": 1053.335,
+      "transcript": "the the partnership."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1054.515,
+      "end": 1058.135,
+      "transcript": "Yes. Yes. That also. Okay. So you try to use,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1058.9901,
+      "end": 1061.41,
+      "transcript": "you try to use it's a bit like a choreography."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1062.27,
+      "end": 1065.81,
+      "transcript": "So you you use that occasion to do the signaling."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1066.5901,
+      "end": 1068.75,
+      "transcript": "I I could modulate it,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1069.0701,
+      "end": 1074.265,
+      "transcript": "depending on that. So it would it would depend on on the situation. So there are times and occasions,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1074.965,
+      "end": 1075.465,
+      "transcript": "so"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1075.845,
+      "end": 1078.745,
+      "transcript": "I wouldn't say there's a single formula. Okay?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1079.525,
+      "end": 1093.93,
+      "transcript": "Very raw question for you. Pardon me if I'm crossing a line. No. No. No. What's the most pissed off you've gotten at one of these meetings? I'm sure something would have been said that just irritated you as a human being. And what was your response? And you don't need to name or you can name if you wish."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1094.2301,
+      "end": 1096.89,
+      "transcript": "You know, rarely by personal things because"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1097.27,
+      "end": 1099.29,
+      "transcript": "mostly I've learned to absorb it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1100.31,
+      "end": 1101.8501,
+      "transcript": "It it, sort of,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1102.9851,
+      "end": 1105.005,
+      "transcript": "I take it's par for the cause for me."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1105.785,
+      "end": 1106.925,
+      "transcript": "What happens is"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1107.385,
+      "end": 1123.5,
+      "transcript": "things do get under my skin. And I I give you a recent example I've spoken about. You know, I was getting I was actually landed, I forget, from Bangalore or something on a plane, and I saw this picture of this guy climbing up the Indian High Commission in London and trying to pull down a flag."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1124.2799,
+      "end": 1126.1399,
+      "transcript": "Absolutely. It got under my skin."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1126.6799,
+      "end": 1127.1799,
+      "transcript": "So,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1128.235,
+      "end": 1138.815,
+      "transcript": "or if people, you know, they try and score points. You know, I I personal points, I just shrug it. I get apple. But if if I feel in some way"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1139.195,
+      "end": 1140.655,
+      "transcript": "the collective eye"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1141.91,
+      "end": 1142.8099,
+      "transcript": "in some way,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1143.35,
+      "end": 1145.85,
+      "transcript": "is demeaned or attacked or something. Yes?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1146.3099,
+      "end": 1150.1699,
+      "transcript": "You know, that's when when I said, when I get pushed. Okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1150.63,
+      "end": 1153.37,
+      "transcript": "I mean, that that I, as you rightly said, is not"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1153.975,
+      "end": 1160.3949,
+      "transcript": "me, the I, but I, the India. But that sense that somewhere, if you're not given the respect or you're not,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1161.1749,
+      "end": 1162.875,
+      "transcript": "you if your people are condescending,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1164.695,
+      "end": 1166.315,
+      "transcript": "sometimes people ambush you."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1167.83,
+      "end": 1171.29,
+      "transcript": "Right. Okay. And professionally, when do you feel the most alive?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1171.99,
+      "end": 1174.81,
+      "transcript": "Like, when do you feel that you were born to do exactly this?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1176.47,
+      "end": 1180.5701,
+      "transcript": "That's a feeling which kind of grew on me over a period of time."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1180.95,
+      "end": 1183.29,
+      "transcript": "Part of it was, you know, I actually studied"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1183.725,
+      "end": 1186.465,
+      "transcript": "international relations, which is not that usual"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1186.9249,
+      "end": 1188.545,
+      "transcript": "for people in diplomats."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1189.885,
+      "end": 1191.025,
+      "transcript": "Now, I'm,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1191.965,
+      "end": 1198.145,
+      "transcript": "I'm only the second foreign minister who's actually been a diplomat. Natwar Singh was the only other guy"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1198.525,
+      "end": 1201.1599,
+      "transcript": "who'd been in that. So in a sense,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1202.34,
+      "end": 1204.6,
+      "transcript": "you know, my studies, my"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1205.7799,
+      "end": 1207.1599,
+      "transcript": "my past long profession,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1207.7799,
+      "end": 1208.52,
+      "transcript": "my current,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1209.7799,
+      "end": 1210.4199,
+      "transcript": "my current,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1211.38,
+      "end": 1217.215,
+      "transcript": "responsibility, and even I had a brief break in business. Even that was international. I was with the Tata Group, and"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1217.515,
+      "end": 1227.0549,
+      "transcript": "they gave me a kind of role in international business. So I've been do in that sense, that feeling that you're bound to do this, frankly, has grown a lot. And,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1227.9401,
+      "end": 1231.24,
+      "transcript": "in a way, you know, I also came from a household which was very international."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1231.78,
+      "end": 1239.64,
+      "transcript": "I live international. I mean, you know, my family relationships are international. I spend most of my time international. So,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1240.98,
+      "end": 1241.64,
+      "transcript": "I guess"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1241.9401,
+      "end": 1244.025,
+      "transcript": "it's sort of in you. Okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1244.645,
+      "end": 1250.985,
+      "transcript": "But at this stage of your life, is there any moment? Occasionally, you know, I do give lifestyle advice to younger people."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1251.285,
+      "end": 1253.225,
+      "transcript": "Rarely rarely mostly"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1254.085,
+      "end": 1256.825,
+      "transcript": "when they ask. Okay. I I don't dispense otherwise."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1257.87,
+      "end": 1260.29,
+      "transcript": "I tell people, look, if you like"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1260.99,
+      "end": 1264.21,
+      "transcript": "if you really like doing something, you'll be very good at it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1265.47,
+      "end": 1268.77,
+      "transcript": "The problem with most of us is we end up doing things"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1269.0701,
+      "end": 1271.73,
+      "transcript": "which are not necessarily what we want to do."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1272.43,
+      "end": 1276.175,
+      "transcript": "It's It's what we're told to do. It's what we're told to do. You know, circumstances"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1276.4751,
+      "end": 1277.775,
+      "transcript": "make you. Sure. Okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1278.7151,
+      "end": 1288.21,
+      "transcript": "So for me, look, I always liked reading about the world. I liked listening to music of the world. I liked eating global food. Sometimes consuming YouTube podcasts."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1289.3899,
+      "end": 1300.85,
+      "transcript": "So so so, you know, it's been a mix of all of that. So that what you say, we are bound to do it. Yeah. Sure. I mean, all of this gets into that. Yeah. You you it's a it's a natural. Okay. Alright."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1301.6151,
+      "end": 1304.3551,
+      "transcript": "This is a question that comes from the engineer inside me."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1305.135,
+      "end": 1307.3151,
+      "transcript": "Are you following the AI revolution"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1307.8551,
+      "end": 1310.3351,
+      "transcript": "based on whatever is happening in the world? I'm sure you are."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1311.2151,
+      "end": 1314.3551,
+      "transcript": "I mean, that was just an intro to the question. Okay. That's podcasting techniques."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1315.25,
+      "end": 1318.3899,
+      "transcript": "Let's talk a little bit about the role of AI."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1318.9299,
+      "end": 1323.83,
+      "transcript": "I would love for you to also give an input on the role of quantum computing because it's come up in geopolitical conversations."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1324.13,
+      "end": 1324.5299,
+      "transcript": "Mhmm."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1325.01,
+      "end": 1327.0299,
+      "transcript": "How do you look at it from your perspective?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1327.785,
+      "end": 1330.765,
+      "transcript": "The future of technology. I don't know if you should watch this,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1331.545,
+      "end": 1344.44,
+      "transcript": "show called Black Mirror. No, I haven't. Okay. It's about the technologies that are upcoming. And you all know Harari says that the stuff they've shown in Black Mirror is so realistic. It's either already happening or it's going to happen in five to ten. Or it'll happen once you watch the show."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1345.0599,
+      "end": 1345.5599,
+      "transcript": "Possibly."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1346.1,
+      "end": 1349.16,
+      "transcript": "Because science fiction determines where science goes. But,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1350.02,
+      "end": 1350.9199,
+      "transcript": "do you follow,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1352.4199,
+      "end": 1356.525,
+      "transcript": "whatever is happening in the world of engineering technology? And how do you look at it affecting"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1356.8251,
+      "end": 1357.485,
+      "transcript": "our country,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1357.785,
+      "end": 1361.9651,
+      "transcript": "our foreign policy, etc, etc? You know, I'm not an engineer,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1362.665,
+      "end": 1368.285,
+      "transcript": "and I'll give you what I hope is like a common sense answer from my perspective."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1369.0399,
+      "end": 1372.1,
+      "transcript": "And I'll take you back actually to your first question."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1372.72,
+      "end": 1374.34,
+      "transcript": "You asked me, do I watch patterns?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1375.2,
+      "end": 1375.7,
+      "transcript": "Okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1376.32,
+      "end": 1381.22,
+      "transcript": "Sure. I watch patterns. That's how I do my business. That's why I think I can be good at my business."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1381.695,
+      "end": 1391.315,
+      "transcript": "Now just imagine I am humanly because I have limited capabilities as a human being. I'm watching the patterns of 200 people who I deal with every day."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1391.855,
+      "end": 1395.135,
+      "transcript": "Imagine if I could process the patterns of 200,000,000"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1395.135,
+      "end": 1395.635,
+      "transcript": "people."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1397.65,
+      "end": 1398.55,
+      "transcript": "That's the world"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1399.01,
+      "end": 1401.3501,
+      "transcript": "which is you are talking about. But,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1402.05,
+      "end": 1403.51,
+      "transcript": "with each one of us,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1403.9701,
+      "end": 1405.51,
+      "transcript": "we are like a walking"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1406.8501,
+      "end": 1407.91,
+      "transcript": "emitter of"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1408.29,
+      "end": 1409.43,
+      "transcript": "electronic patterns."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1410.235,
+      "end": 1414.255,
+      "transcript": "Okay. You know, what you download, what you say, what you"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1414.635,
+      "end": 1417.215,
+      "transcript": "listen to, what you buy, what you eat."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1418.475,
+      "end": 1419.215,
+      "transcript": "You're creating"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1419.835,
+      "end": 1420.4149,
+      "transcript": "I mean,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1420.875,
+      "end": 1424.335,
+      "transcript": "earlier on, there would have been a pattern, but you couldn't see it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1425.09,
+      "end": 1431.99,
+      "transcript": "Okay. Today, that pattern is organized. It has actually become a business. It has become politics. It has become strategy."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1432.61,
+      "end": 1437.19,
+      "transcript": "It is actually, at the end of the day, this this how do you"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1438.5449,
+      "end": 1440.645,
+      "transcript": "sort of, mega process patterns?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1441.1849,
+      "end": 1443.445,
+      "transcript": "And that then gives you a fantastic edge."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1443.745,
+      "end": 1445.205,
+      "transcript": "So, I mean, imagine"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1445.745,
+      "end": 1447.845,
+      "transcript": "imagine a Virat Kohli who"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1448.145,
+      "end": 1449.525,
+      "transcript": "has at his fingertips"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1450.98,
+      "end": 1454.68,
+      "transcript": "everything about everybody's ever gonna be batting against."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1455.62,
+      "end": 1458.84,
+      "transcript": "Man, that's a dream world. It's not be able to predict each delivery,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1459.14,
+      "end": 1460.04,
+      "transcript": "each strategy."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1460.5801,
+      "end": 1465.995,
+      "transcript": "So maybe the way we should build out artificial intelligence as humans is we should develop an AI based assistant"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1466.875,
+      "end": 1470.575,
+      "transcript": "for you, for you to be able to, you know Don't worry. It'll happen."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1471.115,
+      "end": 1474.255,
+      "transcript": "Well, is it already happening? You never know. Okay."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1476.395,
+      "end": 1478.015,
+      "transcript": "How often do quantum computing"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1478.4299,
+      "end": 1482.7699,
+      "transcript": "conversations come up? Because it's come up on the show from a geopolitical perspective. The first country that cracks it will"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1483.07,
+      "end": 1488.37,
+      "transcript": "Right now, actually, if you ask me what's right on our plate, it's much more semiconductors."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1488.75,
+      "end": 1490.61,
+      "transcript": "You know, there's this whole chip war,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1490.99,
+      "end": 1494.045,
+      "transcript": "which is going on. You can say a tech war, which is going on."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1495.005,
+      "end": 1498.145,
+      "transcript": "So a lot of what we are doing today is about that."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1498.8451,
+      "end": 1499.3451,
+      "transcript": "And,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1500.365,
+      "end": 1501.185,
+      "transcript": "it's about,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1501.5651,
+      "end": 1503.5851,
+      "transcript": "how do you actually prepare"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1504.125,
+      "end": 1506.4651,
+      "transcript": "a foreign era where, you know,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1507.6799,
+      "end": 1511.7799,
+      "transcript": "sort of chips, you can say, is the new oil. Mhmm. And,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1512.8799,
+      "end": 1515.2,
+      "transcript": "in fact, I, you know, I was,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1515.9199,
+      "end": 1517.3799,
+      "transcript": "a week ago in Europe,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1518.08,
+      "end": 1518.58,
+      "transcript": "and,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1519.6799,
+      "end": 1524.425,
+      "transcript": "thereafter with the PM in, the the quad in, in, Japan."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1524.965,
+      "end": 1529.705,
+      "transcript": "And, a big part of those conversations were really about how, you know, countries"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1530.165,
+      "end": 1531.545,
+      "transcript": "cooperate to ensure,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1532.405,
+      "end": 1534.265,
+      "transcript": "what we call trusted collaboration,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1534.87,
+      "end": 1535.61,
+      "transcript": "which is,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1536.71,
+      "end": 1538.4099,
+      "transcript": "countries who have that"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1539.59,
+      "end": 1540.8099,
+      "transcript": "faith in each other,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1541.19,
+      "end": 1547.13,
+      "transcript": "who have similar systems. We use the word like minded. You know, these are normally market economies, democracies,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1548.385,
+      "end": 1548.885,
+      "transcript": "sort"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1549.345,
+      "end": 1552.085,
+      "transcript": "of, how, you know, people with companies who follow"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1553.425,
+      "end": 1558.565,
+      "transcript": "company ethics and rules like we know. How do these countries really come together"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1558.865,
+      "end": 1559.6849,
+      "transcript": "and create"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1560.145,
+      "end": 1564.14,
+      "transcript": "a kind of a supply chain? Now here's the bit which I think particularly"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1564.8401,
+      "end": 1566.78,
+      "transcript": "your younger listeners should look at."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1567.9601,
+      "end": 1569.1001,
+      "transcript": "There was a time"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1569.88,
+      "end": 1570.9401,
+      "transcript": "ten years ago,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1571.4,
+      "end": 1576.8601,
+      "transcript": "maybe about seven or eight years ago even, I used to go around telling people saying, you know, look,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1577.3351,
+      "end": 1581.515,
+      "transcript": "you need to open up your economy more, you know, mobility. There's Indians"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1582.135,
+      "end": 1583.915,
+      "transcript": "who would be looking for"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1584.375,
+      "end": 1584.875,
+      "transcript": "opportunities"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1585.175,
+      "end": 1587.1951,
+      "transcript": "to work because we really started,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1587.7351,
+      "end": 1589.435,
+      "transcript": "especially under Prime Minister Modi,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1589.7351,
+      "end": 1591.5951,
+      "transcript": "one thing keeps dinning into us,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1591.94,
+      "end": 1595.08,
+      "transcript": "you know, think of the world as a global workplace."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1595.54,
+      "end": 1597.24,
+      "transcript": "Okay? This is one, like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1597.94,
+      "end": 1598.44,
+      "transcript": "regular"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1598.74,
+      "end": 1605.0599,
+      "transcript": "message we get from him in every possible way. As a global workplace? In a global workplace. That don't think"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1605.705,
+      "end": 1608.125,
+      "transcript": "you know, your work opportunities could be anywhere."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1608.985,
+      "end": 1612.125,
+      "transcript": "Now it's your job in foreign policy to open up those doors."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1612.585,
+      "end": 1616.445,
+      "transcript": "Okay. You know, why should a talented Indian be restricted?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1617.065,
+      "end": 1617.565,
+      "transcript": "Okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1618.12,
+      "end": 1625.34,
+      "transcript": "Now if you are gonna work everywhere and this does not mean rocket science. Okay? I mean, you have people working in merchant shipping and air cruise,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1625.96,
+      "end": 1630.94,
+      "transcript": "in blue collar jobs, in professional jobs, a chartered account. Any profession you take,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1632.1649,
+      "end": 1633.385,
+      "transcript": "How do you actually"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1633.9249,
+      "end": 1636.1849,
+      "transcript": "give a full kind of"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1636.645,
+      "end": 1639.3049,
+      "transcript": "space for Indian talent to do its best?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1640.1649,
+      "end": 1641.945,
+      "transcript": "Now coming back to this,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1642.4049,
+      "end": 1651.77,
+      "transcript": "I find because today we are moving into that tech competition or tech wars era, there is a huge demand today for trusted talent."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1652.2301,
+      "end": 1656.41,
+      "transcript": "For people who play by the rules, who understand how the international"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1657.8301,
+      "end": 1658.3301,
+      "transcript": "business"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1658.895,
+      "end": 1659.395,
+      "transcript": "systems"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1659.6951,
+      "end": 1662.275,
+      "transcript": "work. Skilled people, talented people. And"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1663.295,
+      "end": 1669.475,
+      "transcript": "these are the age groups. We are looking at kind of below 35. They are massively in demand"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1669.855,
+      "end": 1674.2999,
+      "transcript": "in the world. And we just came out of Australia. We did a mobility agreement."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1674.94,
+      "end": 1677.2,
+      "transcript": "The week before I signed one with Austria."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1677.74,
+      "end": 1680.5599,
+      "transcript": "Austria, you know, is not a country which would"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1681.0199,
+      "end": 1683.44,
+      "transcript": "immediately think of in terms of"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1683.74,
+      "end": 1684.24,
+      "transcript": "migration."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1685.725,
+      "end": 1692.7849,
+      "transcript": "Done it with Germany, with a number of European countries, and even with The US. You know, prime minister is going to be going there next month."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1693.245,
+      "end": 1694.5449,
+      "transcript": "A lot of it is, look,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1695.485,
+      "end": 1697.265,
+      "transcript": "how do we create the flows?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1698.4401,
+      "end": 1703.02,
+      "transcript": "Now these kind of flows are gonna be very different. It's, you know, it's like the world. You are very familiar,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1703.48,
+      "end": 1711.8201,
+      "transcript": "perhaps more than me. Your habits change. People don't have to leave India anymore to work somewhere. The global workplace doesn't mean you shift your place."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1712.1649,
+      "end": 1716.265,
+      "transcript": "It just means your employer doesn't have to be in the same town or the same country."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1717.125,
+      "end": 1721.7849,
+      "transcript": "Or the service you render doesn't have to be there. So that's the kind of world,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1722.245,
+      "end": 1727.3049,
+      "transcript": "you know, we are getting prepared for. So for me, if you look at the at the tech space,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1728.38,
+      "end": 1731.6799,
+      "transcript": "the global workplace, the mobility, the semiconductor,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1732.0599,
+      "end": 1734.24,
+      "transcript": "the what are called critical emerging technologies,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1734.62,
+      "end": 1737.2799,
+      "transcript": "this is really what is sucking up the oxygen."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1737.6599,
+      "end": 1740.5599,
+      "transcript": "When I was growing up in the 2000s and early 2010s,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1741.115,
+      "end": 1749.135,
+      "transcript": "you'd often go for family functions where the families would encourage the kids to leave India. And that used to piss me off when I was a kid. Why do you want to leave your country?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1749.675,
+      "end": 1754.0951,
+      "transcript": "Let's do something for the country. Maybe that's just the cricket fan in me talking, but it led me in the right direction."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1754.76,
+      "end": 1759.1,
+      "transcript": "More than half of all the engineering students with main college left the country."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1759.96,
+      "end": 1765.5801,
+      "transcript": "A lot of them wish to come back. I want you to directly address those people who are on the fence about coming back."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1766.615,
+      "end": 1769.515,
+      "transcript": "How do we reverse this brain drain problem? That's one part of the question."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1770.375,
+      "end": 1776.9551,
+      "transcript": "To please address the parents who still want their kids to leave the country and please address the kids who want to leave the country for whatever reason."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1777.895,
+      "end": 1779.515,
+      "transcript": "You know, I I"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1780.19,
+      "end": 1790.0499,
+      "transcript": "I would put it I would define the issue differently from you. Sure. If you define it as, you know, brain drain, here's our country, there is abroad, why are you leaving?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1790.99,
+      "end": 1792.61,
+      "transcript": "You're making it"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1793.655,
+      "end": 1798.7151,
+      "transcript": "a a kind of choice which you may not necessarily get the outcomes you want. Okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1799.0951,
+      "end": 1804.0751,
+      "transcript": "I put it to you very differently. It's you know, the world's like a kind of a membrane."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1805.255,
+      "end": 1806.795,
+      "transcript": "You can go in and out."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1807.175,
+      "end": 1813.9099,
+      "transcript": "And, actually, that's what's gonna happen. You know, I see I, you know, I've actually encountered a lot of people"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1814.45,
+      "end": 1818.23,
+      "transcript": "who do a job, go abroad, do a job, come back, go again abroad."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1818.77,
+      "end": 1826.505,
+      "transcript": "The days when you said, oh, if I leave a foreign country and come back to India, my you know, oh my god. Maybe I'll never go back again. Now that's no longer the case."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1826.885,
+      "end": 1833.625,
+      "transcript": "So what you say, you're sure. Maybe ten, fifteen years ago, that's the way the world was. I think we need to, today, recognize"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1834.325,
+      "end": 1834.825,
+      "transcript": "that,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1835.365,
+      "end": 1840.51,
+      "transcript": "you know, there was a time when you said a short term job is what is the employer's preference."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1841.13,
+      "end": 1842.51,
+      "transcript": "Well, a lot of people today,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1843.2101,
+      "end": 1846.91,
+      "transcript": "would actually say, okay, let me take this, but I'm not sure I'm gonna commit"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1847.2101,
+      "end": 1849.9501,
+      "transcript": "my entire life to this. That's also happening."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1850.4551,
+      "end": 1858.4751,
+      "transcript": "So the job is changing, the people are changing, mobility is changing, global economy is changing. I think you're going to see a lot of this up and down,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1860.6951,
+      "end": 1861.915,
+      "transcript": "you know, movement."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1862.4551,
+      "end": 1865.755,
+      "transcript": "And people will also realize in many industries"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1866.27,
+      "end": 1867.01,
+      "transcript": "that actually"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1867.87,
+      "end": 1871.65,
+      "transcript": "you will get an opportunity in India, which may be better than an opportunity"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1872.27,
+      "end": 1875.49,
+      "transcript": "abroad. Yeah. Sure. We have too many"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1875.87,
+      "end": 1888.025,
+      "transcript": "Indian Steve Wozniaks sitting in America right now who studied, gained experiences of working in tech there. We have a lot of Steve Jobs in India who are looking for Wozniaks to come back here and build the kind of companies that we're seeing built out in Silicon Valley."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1888.485,
+      "end": 1891.2251,
+      "transcript": "So do you have anything to say about that? Is that correct thinking?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1892.165,
+      "end": 1892.665,
+      "transcript": "Look,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1894.15,
+      "end": 1894.89,
+      "transcript": "I I,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1895.75,
+      "end": 1897.9299,
+      "transcript": "I've been to Silicon Valley a few times."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1898.71,
+      "end": 1901.37,
+      "transcript": "I see changes even in Silicon Valley."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1901.75,
+      "end": 1902.41,
+      "transcript": "You know?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1903.19,
+      "end": 1907.53,
+      "transcript": "Silicon Valley today is much more interested in the valleys of India."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1908.55,
+      "end": 1909.85,
+      "transcript": "You know? That's also happening."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1910.835,
+      "end": 1912.295,
+      "transcript": "So it's not like"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1913.635,
+      "end": 1916.695,
+      "transcript": "it's not like escape to Silicon Valley and,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1917.155,
+      "end": 1923.895,
+      "transcript": "guys, now I found Nirvana anymore anymore. True. True. I I think you're seeing a a lot of people,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1924.3,
+      "end": 1927.6,
+      "transcript": "you know, out there coming back. You know, after all, look,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1927.9,
+      "end": 1928.4,
+      "transcript": "even"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1928.9401,
+      "end": 1930.64,
+      "transcript": "all people out there,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1931.02,
+      "end": 1932.3201,
+      "transcript": "when they now see,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1933.02,
+      "end": 1935.4401,
+      "transcript": "I mean, you take the example of Apple. Okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1936.62,
+      "end": 1937.92,
+      "transcript": "You know you know why"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1938.335,
+      "end": 1945.715,
+      "transcript": "it's been an important event is it's had a very strong resonance at different levels. It's had a resonance in manufacturing."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1946.415,
+      "end": 1950.435,
+      "transcript": "It's it's a it's a kind of validation of an improved business atmosphere."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1951.81,
+      "end": 1953.3501,
+      "transcript": "It's also, by the way, a testament"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1953.7301,
+      "end": 1955.5901,
+      "transcript": "to the quality of people they find."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1956.37,
+      "end": 1959.1901,
+      "transcript": "Now this frankly, this wouldn't have happened ten years ago."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1960.6101,
+      "end": 1962.4701,
+      "transcript": "So it's a it's a very good example."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1963.3301,
+      "end": 1967.2749,
+      "transcript": "Look. I can always tell anybody, you know, everything is much better ten years."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1968.455,
+      "end": 1970.1549,
+      "transcript": "Now you'll say, okay. Show me the proof."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1970.5349,
+      "end": 1974.3949,
+      "transcript": "To me, that's a proof. You know? When you actually have,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1976.1349,
+      "end": 1977.5149,
+      "transcript": "good global companies."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1978.26,
+      "end": 1979.0,
+      "transcript": "And the"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1979.3,
+      "end": 1987.96,
+      "transcript": "other interesting thing is when you have Indian companies, the big ones, who are actually now saying, you know, maybe maybe I'm going to invest a bit more in India."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1988.5801,
+      "end": 1991.64,
+      "transcript": "I don't need to necessarily hedge by going out."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1992.635,
+      "end": 1997.375,
+      "transcript": "So that, too, is a factor. So things are happening. Okay. Why are you doing this podcast?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1998.875,
+      "end": 2002.815,
+      "transcript": "You know, I'm doing this podcast, one, because I like you."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2004.1549,
+      "end": 2005.695,
+      "transcript": "I but two,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2006.29,
+      "end": 2008.71,
+      "transcript": "I'm also doing it because I feel"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2009.09,
+      "end": 2010.55,
+      "transcript": "today you need to"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2012.13,
+      "end": 2013.59,
+      "transcript": "to get people to understand"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2013.97,
+      "end": 2014.47,
+      "transcript": "what"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2014.93,
+      "end": 2019.03,
+      "transcript": "what we are about, what the government's about, what the world is about."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2019.49,
+      "end": 2019.99,
+      "transcript": "And"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2020.53,
+      "end": 2021.51,
+      "transcript": "different people"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2023.225,
+      "end": 2024.285,
+      "transcript": "different people absorb"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2025.385,
+      "end": 2025.885,
+      "transcript": "differently."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2026.265,
+      "end": 2030.765,
+      "transcript": "Okay. You know, there's still people I mean, the beauty with India is you have,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2032.505,
+      "end": 2036.845,
+      "transcript": "20 different mediums spread over two hundred years. All of them are still working."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2038.11,
+      "end": 2047.73,
+      "transcript": "You know, it's like having an old model that's also working, and the latest gizmo is also working. So today, monkey bath also works. Okay. Newspapers also work."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2048.35,
+      "end": 2048.85,
+      "transcript": "But"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2049.2048,
+      "end": 2051.7048,
+      "transcript": "it's it's who you're talking to. K?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2052.085,
+      "end": 2052.585,
+      "transcript": "So,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2053.285,
+      "end": 2066.11,
+      "transcript": "you know, this is a different set of people I'm talking to, a different generation of people I'm talking to. I would love to believe that my podcast audience is the one that wants aggressive growth. It's the Virat Khouris of, the future of this country. I hope so."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2067.77,
+      "end": 2071.6301,
+      "transcript": "So considering that these are all extremely aggressive leaders,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2072.6501,
+      "end": 2077.3901,
+      "transcript": "one last question for you on this chat, and I hope it's the first chat of many, many more chats that we have eventually."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2078.805,
+      "end": 2082.105,
+      "transcript": "What's your message to all the young Virat colleagues watching this"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2082.4849,
+      "end": 2086.825,
+      "transcript": "and young Jamima Rodricks is watching this who'll take the country"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2087.2048,
+      "end": 2090.425,
+      "transcript": "further? You know, I'm so glad you used the second name"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2090.9648,
+      "end": 2091.4648,
+      "transcript": "because,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2092.52,
+      "end": 2101.02,
+      "transcript": "I mean, I I actually this year got really I mean, it's something which I followed for some time, but I I think when I watched the women's,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2101.8,
+      "end": 2102.3,
+      "transcript": "leak,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2102.84,
+      "end": 2105.0999,
+      "transcript": "and I and I find that's something,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2105.7249,
+      "end": 2107.105,
+      "transcript": "which is also really,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2107.565,
+      "end": 2110.2249,
+      "transcript": "you know, when you it's like watching a new emerging"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2111.005,
+      "end": 2111.905,
+      "transcript": "kind of activity."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2112.605,
+      "end": 2113.005,
+      "transcript": "But,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2113.405,
+      "end": 2118.545,
+      "transcript": "you know, Vikings would always invade with the women as well. Okay. Alright. We need to be Vikings now."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2118.99,
+      "end": 2120.27,
+      "transcript": "Okay. Let's go on."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2120.91,
+      "end": 2122.93,
+      "transcript": "You'll notice I'm not disputing it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2124.51,
+      "end": 2125.57,
+      "transcript": "But, the"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2126.27,
+      "end": 2128.61,
+      "transcript": "the no. Look. My message would be"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2129.47,
+      "end": 2130.29,
+      "transcript": "different data"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2131.005,
+      "end": 2132.1448,
+      "transcript": "have self belief."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2134.045,
+      "end": 2135.4248,
+      "transcript": "The kind of opportunities,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2137.885,
+      "end": 2138.545,
+      "transcript": "the possibilities"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2139.085,
+      "end": 2141.1848,
+      "transcript": "of this era are very different."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2142.285,
+      "end": 2142.9448,
+      "transcript": "I think"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2143.47,
+      "end": 2148.3699,
+      "transcript": "today it is very important at one level. You know, I spoke about thinking big"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2149.15,
+      "end": 2149.89,
+      "transcript": "and thinking"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2150.35,
+      "end": 2152.6099,
+      "transcript": "in kind of practical deep detail."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2153.79,
+      "end": 2158.035,
+      "transcript": "Similarly, I would say we need to look at the big choices we make."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2158.515,
+      "end": 2167.815,
+      "transcript": "The national choices we make. We need to look at the personal choices we make. They're not diverse from each other. A good, sound national choice actually widens your personal choices."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2168.595,
+      "end": 2169.095,
+      "transcript": "And"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2169.395,
+      "end": 2173.7349,
+      "transcript": "I you know, I look. Anybody with age wants to be younger."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2174.17,
+      "end": 2178.99,
+      "transcript": "Okay? It's a it's a natural feeling. But truly, for someone who's today,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2179.37,
+      "end": 2180.03,
+      "transcript": "say, 20,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2180.33,
+      "end": 2183.31,
+      "transcript": "there's a world waiting on them for to happen."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2184.49,
+      "end": 2185.95,
+      "transcript": "And and I I,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2186.73,
+      "end": 2189.23,
+      "transcript": "I think it's the obligation of people like us"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2190.4949,
+      "end": 2198.755,
+      "transcript": "to to to sort of open that up as much, to prepare it as much, to create that kind of favorable ground. And when I,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2199.2148,
+      "end": 2202.115,
+      "transcript": "you know, maybe the next chat we should do this."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2202.42,
+      "end": 2205.16,
+      "transcript": "Actually, you look at Indian cricket and Indian diplomacy."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2205.78,
+      "end": 2210.5999,
+      "transcript": "I think there's a lot that they could learn from each other. That could be a subject in itself."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2211.14,
+      "end": 2212.2,
+      "transcript": "Wow. Okay."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2213.38,
+      "end": 2216.52,
+      "transcript": "So many more tangential questions just related to that thought."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2218.1648,
+      "end": 2220.6648,
+      "transcript": "One last question. There's also a lot of YouTubers,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2221.125,
+      "end": 2222.9849,
+      "transcript": "and I would like to say extremely"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2223.845,
+      "end": 2225.065,
+      "transcript": "early thought leaders."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2225.4448,
+      "end": 2227.1448,
+      "transcript": "Maybe we are because we do influence"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2227.845,
+      "end": 2229.2249,
+      "transcript": "a large mass of people."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2229.6848,
+      "end": 2231.065,
+      "transcript": "What's your message for them?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2231.58,
+      "end": 2232.6401,
+      "transcript": "What role"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2232.9402,
+      "end": 2233.84,
+      "transcript": "do we have"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2234.86,
+      "end": 2235.6802,
+      "transcript": "for our country?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2237.26,
+      "end": 2239.36,
+      "transcript": "I I think the,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2240.06,
+      "end": 2240.56,
+      "transcript": "today"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2241.02,
+      "end": 2243.52,
+      "transcript": "you honestly don't have to be"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2244.485,
+      "end": 2244.985,
+      "transcript": "experienced,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2245.2852,
+      "end": 2248.425,
+      "transcript": "which is another nice way of saying a little older,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2249.205,
+      "end": 2250.105,
+      "transcript": "too too"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2250.885,
+      "end": 2251.5452,
+      "transcript": "too late."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2252.0051,
+      "end": 2254.2651,
+      "transcript": "You know, leadership can come from a young person."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2255.0452,
+      "end": 2255.5452,
+      "transcript": "Conversely,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2256.1401,
+      "end": 2258.08,
+      "transcript": "you know, there are there are people,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2258.96,
+      "end": 2259.96,
+      "transcript": "who who,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2260.46,
+      "end": 2275.375,
+      "transcript": "may be older, who would relate to a young person precisely because they have that kind of confidence. You know, I I was I, I was very struck. I was reading something which P. V. Sindhu had written. And one of the points she made was, how is it that Narendra Modi"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2275.8352,
+      "end": 2277.135,
+      "transcript": "is today a youth icon?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2277.915,
+      "end": 2281.855,
+      "transcript": "You know, why is he a youth icon? It's a very interesting question. It's worth thinking about."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2283.15,
+      "end": 2284.77,
+      "transcript": "So I think that's a good note,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2285.15,
+      "end": 2289.01,
+      "transcript": "to end this session. So I I do look forward to another one,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2289.39,
+      "end": 2294.69,
+      "transcript": "at some stage. I've given you an idea today, but always open to your thoughts. Doctor Jaishankar,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2295.245,
+      "end": 2301.665,
+      "transcript": "owner of my life. That's all I will say. Thank you for everything you're doing. The whole I is in the conversation."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2302.5251,
+      "end": 2303.905,
+      "transcript": "We all know that secretly."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2304.2852,
+      "end": 2310.63,
+      "transcript": "The youth is obsessed with geopolitics nowadays. Thank you, sir. Means a lot. Looking forward to talking to you again. If I may,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2311.27,
+      "end": 2316.65,
+      "transcript": "be able to do some luck to fist bump you and say thank you, sir. Thank you. Learning from you every day."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2317.1099,
+      "end": 2320.49,
+      "transcript": "That was the episode for today, ladies and gentlemen."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2321.3499,
+      "end": 2323.8499,
+      "transcript": "Big tick mark on my own, career"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2324.845,
+      "end": 2325.345,
+      "transcript": "objective"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2325.725,
+      "end": 2326.225,
+      "transcript": "sheet."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2327.245,
+      "end": 2329.665,
+      "transcript": "This is a legend. I just spoke to a legend."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2330.205,
+      "end": 2340.42,
+      "transcript": "Trust me, it took time to sink in. Like, it was just a forty five minute conversation, and I know that the next time I meet him, it's gonna be a two hour conversation. We're gonna go much deeper. We're gonna cover many more topics."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2340.9,
+      "end": 2343.16,
+      "transcript": "I'm going to ask him a lot more questions"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2343.7,
+      "end": 2350.3599,
+      "transcript": "that Abhijit Chawda, Rajeev Malhotra, Abhijit Iyer Mitra have raised in my mind, but that's for the next time."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2350.74,
+      "end": 2360.9949,
+      "transcript": "For now, I request you to share this episode as much as possible. More cabinet minister interviews are coming up. Thanks to MIGO of India helping TRS crack these conversations."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2361.695,
+      "end": 2366.755,
+      "transcript": "Please give me your feedback, ladies and gentlemen. I wanna know what you thought of this conversation."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2367.135,
+      "end": 2368.835,
+      "transcript": "I wanna know what we can improve,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2369.135,
+      "end": 2373.61,
+      "transcript": "and I wanna know who else you'd like to see when it comes to this political"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2374.31,
+      "end": 2374.81,
+      "transcript": "phase"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2375.1902,
+      "end": 2379.1301,
+      "transcript": "of TRS. I always try bringing out the human side of the person,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2379.75,
+      "end": 2381.53,
+      "transcript": "and I hope that you enjoy"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2381.99,
+      "end": 2390.445,
+      "transcript": "these conversations as much as I enjoy creating them for you. Lots of love to you guys. Lots of gratitude. Doctor Jaishankar will be back on TRS."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2390.825,
+      "end": 2395.645,
+      "transcript": "Lots of love and gratitude and terry boner to him. Thank you, sir, for everything you do for the country."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2395.945,
+      "end": 2403.6199,
+      "transcript": "I hope to see you soon. Was an honor speaking to you, and it's always an honor creating episodes for you guys. Ranveer,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2403.92,
+      "end": 2405.38,
+      "transcript": "we'll see you soon, everybody."
+    }
+  ]
+}

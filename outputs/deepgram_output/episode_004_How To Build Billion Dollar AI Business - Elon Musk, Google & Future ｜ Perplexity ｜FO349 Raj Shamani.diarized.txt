@@ -1,0 +1,834 @@
+[00:00:00.000 - 00:00:15.460] Speaker 1: Give me three examples of businesses which are gonna benefit from the rapid adoption of AI. So software development, health care, financial consulting. What is the most ridiculous search query you have read? Either this person's trying to rob a bank, ended up asking, I want my face
+[00:00:16.965 - 00:00:53.685] Speaker 2: breathe, but it should cover my nose, holes for my eyes, and I wanna, like, bike. Explain me how does the answer comes in? A lot of it just has to do with, like, filtering out, like, really low quality domains. And then, like, there are subtle things you can do based on the region, based on the user's pass queries, based on the current query itself, you can re rank the final set of, like, links. You're in a sort of competition in a race with all these large companies. Who loses the most if you win? The one with the most to lose is Google. What would beating Google be like? Google employees and their kids. They all use perplexity because it's a better product. Our today's guest is Aravind Srinivas, who's a founder of perplexity.
+[00:00:54.065 - 00:01:09.080] Speaker 1: He has raised millions of dollars, which has gotten funded by Nvidia's founder and Jeff Bezos as well. We learn how AI actually works and what's the future of AI. And what's the craziest conspiracy you've heard about? AI
+[00:01:09.460 - 00:01:14.280] Speaker 2: god like thing that you can use to control the whole universe. But do you think that's possible?
+[00:01:17.105 - 00:01:19.045] Speaker 1: Do you see any potential
+[00:01:19.585 - 00:01:21.285] Speaker 1: political threats coming on perplexity?
+[00:01:22.225 - 00:01:24.785] Speaker 1: I think Elon raised $6,000,000,000
+[00:01:24.785 - 00:01:26.965] Speaker 1: for x AI. Yeah. Are you scared of Elon?
+[00:01:44.665 - 00:01:45.485] Speaker 1: Enjoy the
+[00:01:49.785 - 00:01:53.565] Speaker 1: show. When you think about India or just like let's say world,
+[00:01:54.345 - 00:02:06.150] Speaker 1: and you want to compete and you want to be the best, you want to be number one. Yeah. Why keep name as perplexity? Yeah. It's so difficult to say. I know. I was talking to so many people in the organization
+[00:02:06.450 - 00:02:08.710] Speaker 1: because I use perplexity. Yeah. And,
+[00:02:09.170 - 00:02:15.190] Speaker 1: there are two, three people who use perplexity. And then when we spoke to everyone that, hey, you know what? We're gonna get the founder.
+[00:02:15.635 - 00:02:17.095] Speaker 1: We'll do this. And they're like,
+[00:02:17.475 - 00:02:22.215] Speaker 1: it's such a difficult name. We'll never gonna be able to even download it and use it. Sure.
+[00:02:22.835 - 00:02:24.855] Speaker 1: And it's a it's an important question.
+[00:02:25.715 - 00:02:29.100] Speaker 2: Yeah. So, this goes back to the origins of the company. Like,
+[00:02:30.140 - 00:02:32.000] Speaker 2: you know, when I started, I didn't really,
+[00:02:32.620 - 00:02:34.240] Speaker 2: clear sense of like, you know,
+[00:02:35.180 - 00:02:37.760] Speaker 2: whether we'll build a search app or consumer application.
+[00:02:39.180 - 00:02:46.935] Speaker 2: None of that. Like we were we knew we wanted to do something in search. We knew, like, we wanted to build unique experiences that were not possible before.
+[00:02:47.475 - 00:02:52.135] Speaker 2: We were not dreaming big, like, oh, we're going to build a billion user product potentially.
+[00:02:54.035 - 00:02:54.535] Speaker 2: So,
+[00:02:55.235 - 00:03:01.400] Speaker 2: when you pick a name for the company, you pick something pretty cool, like an easy to get a domain for.
+[00:03:02.260 - 00:03:06.660] Speaker 2: I didn't have much money at the beginning of funding. So, perplexity.ai
+[00:03:06.660 - 00:03:08.500] Speaker 2: was available for like $120
+[00:03:08.500 - 00:03:10.840] Speaker 2: for two years. So I just got it.
+[00:03:11.540 - 00:03:11.780] Speaker 2: And,
+[00:03:12.705 - 00:03:16.805] Speaker 2: perplexity is a metric in AI that measures how well you understand something.
+[00:03:17.345 - 00:03:23.605] Speaker 2: So very geeky, you know, I get it. Once you get even more users and more funding, like we can just buy the
+[00:03:24.145 - 00:03:29.530] Speaker 2: rights to some crazy name and like just do something like four or five letters. That'll be amazing. Interesting.
+[00:03:31.030 - 00:03:39.850] Speaker 2: Okay. So there there is plan to actually change it. This is a problem you're aware about. Yeah. Yeah. I mean, look, I'm it's one of the worst names you can pick for a consumer company.
+[00:03:40.710 - 00:03:44.085] Speaker 2: 100% aware of it. And I'm not going to defend the
+[00:03:44.865 - 00:03:51.525] Speaker 2: Maybe we can do something like the company will still be called perplexity, but the product can be called something else. Yeah.
+[00:03:52.305 - 00:03:56.165] Speaker 1: I was looking at the list of your investors. Jeff Bezos happens to be one of them. Yeah.
+[00:03:56.870 - 00:04:03.450] Speaker 2: He came much later. He's not the earliest investor. Okay. But did you meet Jeff? Yeah. Yeah. I did meet Jeff. How did that happen?
+[00:04:03.990 - 00:04:05.210] Speaker 1: How did you go from
+[00:04:05.750 - 00:04:10.810] Speaker 1: being this guy who doesn't know much about this business genius and how this model will make sense
+[00:04:11.505 - 00:04:12.165] Speaker 1: to getting
+[00:04:12.865 - 00:04:17.365] Speaker 1: a Jeff Bezos, the Jeff Bezos investing in you. So we reached out,
+[00:04:18.145 - 00:04:21.125] Speaker 2: through, like, a common contact, like, and then,
+[00:04:24.060 - 00:04:27.280] Speaker 2: they responded saying, Okay, why don't you send
+[00:04:28.540 - 00:04:29.920] Speaker 2: a document, like a memo?
+[00:04:30.540 - 00:04:35.760] Speaker 2: He likes to read memos. And so I sent that and I also made a nice demo where
+[00:04:37.015 - 00:04:42.715] Speaker 2: it's an imaginary demo of, like, Jeff talking to our our our voice to voice system,
+[00:04:43.095 - 00:04:51.060] Speaker 2: where his voice is talking to it, and that system is responding back. And and the questions are about, like, Star Trek and Blue Origin and things like that.
+[00:04:51.360 - 00:04:54.400] Speaker 2: And I I I recorded it myself and then,
+[00:04:54.960 - 00:04:56.900] Speaker 2: sent it over, both the memo and this.
+[00:04:57.440 - 00:04:57.760] Speaker 2: And,
+[00:04:58.480 - 00:05:04.635] Speaker 2: he for the first investment, he didn't even meet me. They just said, okay. I'll just seen the memo and looked at the
+[00:05:04.935 - 00:05:08.795] Speaker 2: demo, and, he's approved the investment. So, Okay. Fine. That's awesome.
+[00:05:09.255 - 00:05:17.115] Speaker 2: And then we asked for permission to use his name in the public release of the funding round. They said, Yeah. Go for it. And that became the headline essentially.
+[00:05:17.420 - 00:05:20.240] Speaker 2: So that really helped us, so thanks to him.
+[00:05:21.340 - 00:05:27.360] Speaker 2: Subsequent after that, when we kept making more progress, he reached out, that was the first inbound request. Like, Hey,
+[00:05:27.820 - 00:05:29.360] Speaker 2: Jeff wants to meet and
+[00:05:29.715 - 00:05:33.175] Speaker 2: you know, get a update on the company and, like, your strategy.
+[00:05:33.875 - 00:05:38.695] Speaker 2: And again, they asked me to write a six pager. I wrote it. Well, that's a really good exercise,
+[00:05:39.715 - 00:05:42.215] Speaker 2: writing these memos and six pagers.
+[00:05:42.915 - 00:05:51.630] Speaker 2: It takes a lot out of you to write one, but it's totally worth it for your clarity. And he explains why too, right? He's gonna so I've written it and then
+[00:05:52.010 - 00:05:54.350] Speaker 2: had the one on one meeting. It goes for an hour.
+[00:05:56.090 - 00:05:57.310] Speaker 2: I thought he's not gonna
+[00:05:58.575 - 00:06:09.315] Speaker 2: he he he certainly wouldn't have had time to read it. Yeah. So he's just gonna use the first thirty minutes to, read it together. But no. Like, he just directly got to the points. He referenced specific sections,
+[00:06:10.030 - 00:06:12.370] Speaker 2: what he liked and what he was not sure about,
+[00:06:13.710 - 00:06:17.730] Speaker 2: asked me for things like what I think about, like, the chip space and stuff.
+[00:06:19.230 - 00:06:23.785] Speaker 2: And no time was wasted. So it was like basically getting to the second meeting, you know?
+[00:06:24.885 - 00:06:33.145] Speaker 2: And at the end, like, he just said something of, Your your success doesn't rely on Google's failure, which is why, like, you know, I'm pretty optimistic about your chances.
+[00:06:33.845 - 00:06:49.430] Speaker 2: And, you just gotta keep moving fast. And, of course, the only thing that matters is customer experience. Like, just retain the users. Don't be a leaky bucket. Make sure retention is high. Don't everyone soon, like, just push you for getting as many users as you can, but
+[00:06:49.890 - 00:06:53.395] Speaker 2: maintain your growth rates. Don't try to aim for something crazy.
+[00:06:54.495 - 00:06:58.515] Speaker 2: But absolutely make sure that as you grow, your retention is only increasing, not
+[00:06:59.295 - 00:07:00.355] Speaker 2: even staying flat.
+[00:07:01.135 - 00:07:01.635] Speaker 2: So,
+[00:07:02.335 - 00:07:08.970] Speaker 2: he had all the right messages. I mean, we knew it, but it was always great to have it reinforced with someone like him.
+[00:07:09.430 - 00:07:16.090] Speaker 2: And then I met him in person in another event later. So he the three I met him like totally like two or three times. He's pretty awesome.
+[00:07:16.550 - 00:07:20.055] Speaker 2: A lot of people think he's like not very plugged in anymore, but,
+[00:07:20.775 - 00:07:25.675] Speaker 2: I would say he's like literally was up to date with everything that when I met him. What do you think is the reason?
+[00:07:26.055 - 00:07:38.380] Speaker 1: Why did he invest in you? I mean, look, I really don't know. He probably What do you think? I know that you don't know. I mean, he knows it better, but what do you think? Why did he know? I'm guessing he probably tried out the product and, like, you know, it worked as expected.
+[00:07:39.000 - 00:07:40.860] Speaker 2: And I thought, like, you know, it's
+[00:07:41.720 - 00:07:47.660] Speaker 1: But he must be getting thousand products, which are living up to the expectation and working as
+[00:07:48.035 - 00:07:49.175] Speaker 1: described or explained
+[00:07:49.795 - 00:07:50.455] Speaker 1: by you?
+[00:07:51.075 - 00:07:55.575] Speaker 2: Well, we had a lot of visibility already by then. A lot of people using it.
+[00:07:56.595 - 00:07:57.095] Speaker 2: And
+[00:08:00.110 - 00:08:04.610] Speaker 2: there were very few products in the market at the time also. Like, ChatGPT was there, but
+[00:08:05.070 - 00:08:06.930] Speaker 2: it wasn't even doing browsing reliably.
+[00:08:07.630 - 00:08:14.050] Speaker 2: And, you know, Google bar it was called Bard back then. It wasn't even called Gemini and wasn't really, really good.
+[00:08:14.655 - 00:08:20.275] Speaker 2: Microsoft Copilot wasn't good. Bing chat wasn't good. So we actually had a pretty good time to,
+[00:08:21.535 - 00:08:24.755] Speaker 2: like, attract a lot of users where, like, our service is basically
+[00:08:25.775 - 00:08:26.275] Speaker 2: not,
+[00:08:26.975 - 00:08:31.850] Speaker 2: possible anywhere else. So that that differentiator was clear there. It was not, like, one among another product.
+[00:08:33.110 - 00:08:36.070] Speaker 2: And the other thing he probably my guess is,
+[00:08:36.470 - 00:08:38.810] Speaker 2: the existing set of investors were already pretty incredible.
+[00:08:39.750 - 00:08:41.530] Speaker 2: The team was shipping really fast.
+[00:08:41.990 - 00:08:44.330] Speaker 2: I think these are good attributes for a startup.
+[00:08:44.655 - 00:08:50.595] Speaker 2: And we were very efficient in the way we got to where we were. Like before we raised that round, we had raised very little money,
+[00:08:51.455 - 00:08:57.635] Speaker 2: and we did not spend it on like, you know, like training our own models, but just continually investing in a good product.
+[00:08:58.095 - 00:09:02.780] Speaker 2: We had a core thesis that like, your model is not my concern for the user.
+[00:09:03.480 - 00:09:09.740] Speaker 2: And I think that appealed to him because there's literally a play on his your profitability is not my concern. You
+[00:09:10.120 - 00:09:15.645] Speaker 2: get the package in a day. I don't care what it costs you to do that. So I think like it was
+[00:09:16.425 - 00:09:25.005] Speaker 1: a customer focused AI company. Maybe he wanted to be part of the journey. Got it. And he probably liked the way you were thinking about it way more
+[00:09:25.625 - 00:09:43.925] Speaker 2: than the other thing. Probably. I really don't know. I'm also also making a guess. Who knows? Maybe that demo was pretty cool. Like the I'm trying to prompt so that you give me an answer, which is beyond just your product. It's very hard. I've never asked. Maybe next time I'm just gonna ask them like, hey, like why do you invest? Because honestly, it's,
+[00:09:45.745 - 00:09:50.725] Speaker 2: like, you could argue, like, it's it's gonna create conflict at some point. Like, you know, Amazon, Alexa
+[00:09:51.425 - 00:09:54.565] Speaker 2: is also gonna be in in the operating in the space.
+[00:09:55.265 - 00:09:55.745] Speaker 2: And,
+[00:09:57.320 - 00:10:02.620] Speaker 2: so maybe there's some deeper reason or maybe it's not that deep. I don't know. Yeah. Because
+[00:10:03.160 - 00:10:03.660] Speaker 1: it's
+[00:10:04.200 - 00:10:10.780] Speaker 1: usually when someone of that stature actually takes up personal time to a, invest and then meet the founders.
+[00:10:11.685 - 00:10:21.525] Speaker 1: It has to be something deeper because I hope so. Millions of dollars for him is gonna like it's peanuts. It's not gonna mean anything. Yeah. Yeah. It's not. It's financially It doesn't mean anything to him. And I'm
+[00:10:22.645 - 00:10:25.545] Speaker 2: again, look, like if we become really big,
+[00:10:28.260 - 00:10:33.880] Speaker 2: you know, even then I think the, the, the evaluation of which he came in and the amount he put in, like,
+[00:10:34.260 - 00:10:41.615] Speaker 2: it'll move the needle for him a bit financially, but it's not, it's not for that reason. That's like a lot of other ways for him to do that. Exactly. Exactly.
+[00:10:41.995 - 00:10:48.015] Speaker 1: And what, what do you think makes him special? Why is he the number one? Why is he one of the biggest founders in the world?
+[00:10:48.715 - 00:10:56.340] Speaker 1: Because you met him, did you notice or observe anything different that makes him a star founder? I think he has incredible clarity of thought.
+[00:10:57.600 - 00:11:03.220] Speaker 2: Like the thing I said, like, you know, there are there are some of the wisdom that he gave is timeless.
+[00:11:04.255 - 00:11:09.395] Speaker 2: The your margin is my opportunity thing is timeless. Like it keeps on coming. It is
+[00:11:09.935 - 00:11:10.595] Speaker 2: the core,
+[00:11:11.615 - 00:11:13.955] Speaker 2: truth to like most disruption stories
+[00:11:14.255 - 00:11:20.000] Speaker 2: where, someone else has to protect their margin and they're in an innovative dilemma situation and like someone else eats the lunch
+[00:11:20.380 - 00:11:22.000] Speaker 2: with a better technology.
+[00:11:24.700 - 00:11:31.440] Speaker 2: And and, like, he has all these frameworks, right, like, repeatable frameworks, like one one way door, two way door decisions.
+[00:11:31.845 - 00:11:34.665] Speaker 2: Where should you spend your mind, mental compute on?
+[00:11:36.405 - 00:11:39.545] Speaker 2: And a shareholder there is like a masterclass in good writing.
+[00:11:40.085 - 00:11:41.365] Speaker 2: So my,
+[00:11:41.845 - 00:11:43.785] Speaker 2: the reason I really respect him is
+[00:11:44.370 - 00:11:47.750] Speaker 2: when you try to scale a company, you have to kind of have,
+[00:11:48.370 - 00:11:51.430] Speaker 2: some version of you or your thought process in every meeting.
+[00:11:53.650 - 00:12:01.245] Speaker 2: Otherwise because it's physically and, like, impossible for you to be in every meeting and, like, driving decisions everywhere.
+[00:12:01.865 - 00:12:03.885] Speaker 2: So you have to be able to write down
+[00:12:04.265 - 00:12:06.525] Speaker 2: how you think and how you make decisions,
+[00:12:07.305 - 00:12:12.605] Speaker 2: which is very going a step further. It's not just about making good decisions. It's about
+[00:12:13.770 - 00:12:21.950] Speaker 2: writing down your decision making framework so that others can think in a way as clear as you. That requires even higher order clarity.
+[00:12:22.330 - 00:12:23.790] Speaker 2: And he did it at Amazon
+[00:12:24.330 - 00:12:24.830] Speaker 2: and
+[00:12:26.185 - 00:12:29.885] Speaker 2: and I scaled the company a lot and built like many businesses simultaneously.
+[00:12:31.225 - 00:12:32.285] Speaker 2: And I think that
+[00:12:33.305 - 00:12:37.165] Speaker 2: I'm definitely not at that level. I cannot do that right now.
+[00:12:37.625 - 00:12:41.620] Speaker 2: And I don't think many CEOs are like that good either. True.
+[00:12:42.800 - 00:12:43.040] Speaker 2: So,
+[00:12:44.400 - 00:12:47.220] Speaker 2: that is a very unique Bezos thing. Like he
+[00:12:47.840 - 00:12:54.740] Speaker 2: totally nailed the, like shareholder letters and, like, decision making frameworks and, like, how to understand the market. Even recently,
+[00:12:55.355 - 00:12:59.615] Speaker 2: in an interview with Sorkin, he said this thing that was like very profound, which is like, you know,
+[00:13:00.315 - 00:13:00.795] Speaker 2: we are,
+[00:13:01.595 - 00:13:02.815] Speaker 2: we usually overestimate
+[00:13:03.195 - 00:13:04.815] Speaker 2: risk and underestimate opportunity,
+[00:13:05.835 - 00:13:07.135] Speaker 2: almost all of us.
+[00:13:07.710 - 00:13:12.370] Speaker 2: And a corollary of that is like, we don't take enough risk. Like we are all like,
+[00:13:13.630 - 00:13:18.050] Speaker 2: we don't we're like there's a reason why most humans are not risk seeking animals.
+[00:13:18.430 - 00:13:22.370] Speaker 2: And another thing he said in the Lex Fridman interview was very cool. Like,
+[00:13:22.745 - 00:13:27.485] Speaker 2: you know, we all talk about truth seeking, but there's a reason that it's not easy
+[00:13:28.025 - 00:13:29.085] Speaker 2: is because by nature,
+[00:13:30.985 - 00:13:33.885] Speaker 2: human beings are not truth seeking animals. We are social animals.
+[00:13:34.345 - 00:13:48.810] Speaker 2: We like validation. We like, like, other people saying we're good or what we're saying is correct. We don't care if what we're saying is actually correct. By nature, you actually have to rewire yourself for that. And any rewiring process is painful.
+[00:13:49.445 - 00:13:53.865] Speaker 2: So I I think like that clarity of thought is what is making makes him pretty singular.
+[00:13:54.245 - 00:13:58.025] Speaker 1: I am a big Jeff Bezos fan. Like it's in my list
+[00:13:58.485 - 00:14:12.360] Speaker 1: of entrepreneurs in the world. He comes at the top. Like he's the number one because obviously all of these frameworks and the things that he has done. Yeah. I think it makes ton of sense and I can go on and on with him. Yeah. Because I've read so many things and I've
+[00:14:12.820 - 00:14:16.760] Speaker 1: like used so many of his frameworks to make decisions in my day to day life.
+[00:14:17.765 - 00:14:22.905] Speaker 1: All the dumb decisions that I've made in my life Mhmm. Which have actually turned out to be good,
+[00:14:23.445 - 00:14:42.450] Speaker 1: was because of this one regret minimization framework that I've worked out for him. It's so good. Like, regret minimization framework. Oh my god. Yeah. And that has made me do dumb things in my life. But in most cases, it has been a pretty lovely one. Yeah. I mean, that's one of the main reasons I was so,
+[00:14:45.025 - 00:14:49.525] Speaker 2: I was having a lot of urgency to start the company because I knew that,
+[00:14:50.385 - 00:14:51.365] Speaker 2: well, I had
+[00:14:51.745 - 00:14:55.205] Speaker 2: some of my own reasoning too, which is I knew that my
+[00:14:56.065 - 00:14:59.365] Speaker 2: cognitive abilities are on a decline. You have to accept that. Yeah.
+[00:15:00.540 - 00:15:02.400] Speaker 1: How old are you? I'm 30,
+[00:15:03.020 - 00:15:03.520] Speaker 2: but
+[00:15:03.900 - 00:15:06.080] Speaker 2: I I I know that I'm on a decline.
+[00:15:06.540 - 00:15:15.840] Speaker 2: I I can try to fight it, but I I can clearly see the kind of insane things I could do when I studied for JEE or, when I was at IIT,
+[00:15:16.265 - 00:15:19.725] Speaker 2: you know, cramming last minute before the exam, I could download, like,
+[00:15:20.185 - 00:15:23.885] Speaker 2: 10 lectures in my head in the last three hours. I can't do all those things anymore.
+[00:15:26.265 - 00:15:32.800] Speaker 2: So I wanted to do it as soon as I can. And the regret minimization framework was also clearly there, which is,
+[00:15:33.820 - 00:15:41.280] Speaker 2: look, it's only going to get harder to start a company because of both abilities and other constraints in your life that come.
+[00:15:41.900 - 00:15:42.400] Speaker 2: So
+[00:15:43.345 - 00:15:43.665] Speaker 2: your
+[00:15:44.305 - 00:15:45.685] Speaker 2: the the regret's gonna
+[00:15:46.225 - 00:15:56.325] Speaker 1: go up and your abilities are gonna go down. So you better, like, do it. Start now. Yeah. Wait. Okay. Explain me how does the answer comes in. So the moment I talk, I type something in perplexity.
+[00:15:56.865 - 00:16:01.940] Speaker 1: Yeah. And I type the question. Yeah. Does it show answer based on my interest
+[00:16:02.400 - 00:16:09.940] Speaker 1: and what I would be interested in? Or does it show based on some level of merit? Like what is the way that you show me? Because as far as I understand about Google,
+[00:16:10.720 - 00:16:13.220] Speaker 1: it depends a lot on the location I'm in, my
+[00:16:13.815 - 00:16:24.075] Speaker 1: past history, what kind of things I'm interested in. Then Google shows me some lot set of those things. And maybe like keywords and stuff like that. But a lot depends on
+[00:16:24.695 - 00:16:27.195] Speaker 1: two individual people. We have tried this multiple times.
+[00:16:27.740 - 00:16:36.800] Speaker 1: Two people from the same location searching the same thing probably shows, like, three, four top version things. Right? So I think in in the case of Google, the reason you see different results,
+[00:16:37.740 - 00:16:39.520] Speaker 2: might not even be personalization.
+[00:16:40.380 - 00:16:40.880] Speaker 2: Mhmm.
+[00:16:41.820 - 00:16:43.635] Speaker 2: Google runs AB tests a lot.
+[00:16:44.515 - 00:16:46.135] Speaker 2: Ranking algorithm AB tests,
+[00:16:46.915 - 00:16:48.055] Speaker 2: UI AB tests,
+[00:16:48.915 - 00:16:57.895] Speaker 2: a number of ads on the query. There's a lot of other things that end up making the result pretty different per user. The biggest level of personalization you can make is
+[00:17:00.250 - 00:17:04.510] Speaker 2: location actually. That gives you most of the heavy lifting in terms of personalization.
+[00:17:05.290 - 00:17:09.230] Speaker 2: So what we do when you ask a query is we pull up relevant results,
+[00:17:10.090 - 00:17:20.045] Speaker 2: from an index we have. We look at ranking signals that we can get from many different search engines. We pull them all together with a proprietary algorithm. And then we let the model
+[00:17:20.745 - 00:17:22.525] Speaker 2: read all those retrieved links,
+[00:17:23.305 - 00:17:24.445] Speaker 2: pull relevant paragraphs,
+[00:17:25.050 - 00:17:28.910] Speaker 2: use that to write a synthesize and answer and pull the final citations
+[00:17:29.450 - 00:17:35.310] Speaker 2: and allow you to keep conversing by keeping things in context, keeping the past sources, past answer, past query in context.
+[00:17:35.610 - 00:17:37.310] Speaker 2: As it grows, it gets more challenging.
+[00:17:38.055 - 00:17:39.275] Speaker 2: And we do all this
+[00:17:39.735 - 00:17:46.235] Speaker 2: at pretty minimal latency that makes the product feel fast yet pretty useful. So, the hard part is actually the orchestration.
+[00:17:47.095 - 00:17:53.550] Speaker 2: You can do a lot in what links you've retrieved with the first stage that can make the answer quality really, really good without
+[00:17:56.990 - 00:17:58.850] Speaker 2: a lot of it just has to do with
+[00:17:59.470 - 00:18:02.930] Speaker 2: filtering out really low quality domains that gives you
+[00:18:03.390 - 00:18:05.970] Speaker 2: a lot of heavy lifting to quality improvements.
+[00:18:07.535 - 00:18:10.755] Speaker 2: And then, like, there are subtle things you can do based on the region,
+[00:18:11.695 - 00:18:17.715] Speaker 2: based on the user's past queries, based on the current query itself. You can rerank the final set of, like, links,
+[00:18:18.815 - 00:18:20.195] Speaker 2: and we do all that.
+[00:18:20.970 - 00:18:28.590] Speaker 2: But we've generally seen that, like, location, gender, like, are are, like, big predictors of what final set of links that you need to retrieve.
+[00:18:29.290 - 00:18:30.750] Speaker 2: And any more personalization
+[00:18:31.210 - 00:18:34.085] Speaker 2: can improve the quality a bit, but,
+[00:18:34.625 - 00:18:37.765] Speaker 2: most users or most queries are not gonna see the
+[00:18:38.145 - 00:18:38.645] Speaker 2: differences.
+[00:18:39.425 - 00:18:42.565] Speaker 1: So if you and me type the same problem here together,
+[00:18:43.905 - 00:18:50.070] Speaker 2: are there chances that we'll see the same answer? Most likely you will unless by the way, as products and companies get bigger,
+[00:18:50.770 - 00:18:52.370] Speaker 2: a lot of AB tests are run,
+[00:18:52.770 - 00:18:53.990] Speaker 2: pretty much every day,
+[00:18:54.530 - 00:18:56.470] Speaker 2: because that's the only way to improve the product.
+[00:18:56.930 - 00:19:01.030] Speaker 2: So if you see different answers, it either means different models we use for that or
+[00:19:03.155 - 00:19:03.815] Speaker 2: the query
+[00:19:04.595 - 00:19:05.095] Speaker 2: reformulators,
+[00:19:05.795 - 00:19:08.695] Speaker 2: the ones that are taking your original query and changing it a bit.
+[00:19:09.315 - 00:19:10.695] Speaker 2: Those models were different,
+[00:19:12.115 - 00:19:14.215] Speaker 2: or the ranking algorithms were different.
+[00:19:16.060 - 00:19:21.040] Speaker 2: Literally verbatim query, if you get different answers, the only reason has to be, like, AB tests.
+[00:19:21.420 - 00:19:23.680] Speaker 2: And you cannot do anything about it.
+[00:19:24.060 - 00:19:27.520] Speaker 2: Like, every product has to do this because the only way to iterate and improve
+[00:19:27.820 - 00:19:29.840] Speaker 2: is run AB tests on holdoutsets
+[00:19:30.515 - 00:19:34.455] Speaker 2: and and see if, like, the retention was higher or, like, number of queries so that user
+[00:19:34.835 - 00:19:44.310] Speaker 2: ended up going up or there were more follow ups to that question that were, like, relevant but not, like, reclarifying the original query. So that means the original answer was correct.
+[00:19:44.790 - 00:19:46.730] Speaker 2: We collect a lot of signals like this.
+[00:19:47.670 - 00:19:48.490] Speaker 2: And so,
+[00:19:51.350 - 00:19:53.690] Speaker 2: my hope is that even if you see a different answer,
+[00:19:54.070 - 00:19:57.530] Speaker 2: it ends up conveying the same thing rather than
+[00:19:58.525 - 00:20:10.625] Speaker 1: one answer is, like, completely contradictory to the other. Got it. So now do you get in investor meetings now that you have some such start investors? You have a bunch of capital now. Capital is never enough, though, but you have capital
+[00:20:11.060 - 00:20:26.985] Speaker 1: and you have good investors. Yeah. Right. You have SoftBank as well. You have SoftBank, Stanley Druckenmiller, a bunch of really great people. Like bunch of great people. Right. Now do you go into a board meetings or investor meetings and be like, hey, you know what? I'm going to beat Google. No. We don't talk about how to beat Google.
+[00:20:27.845 - 00:20:28.505] Speaker 2: I think
+[00:20:29.205 - 00:20:31.145] Speaker 2: we just talk about how to grow perplexity.
+[00:20:32.005 - 00:20:34.265] Speaker 2: Just very being very honest with you, like,
+[00:20:35.830 - 00:20:38.330] Speaker 2: I think the Google positioning is very interesting
+[00:20:38.870 - 00:20:43.370] Speaker 2: mainly because there's a reason they cannot ship the same product to a billion users yet,
+[00:20:43.830 - 00:20:45.290] Speaker 2: because of the NVIDIA Diamond
+[00:20:45.590 - 00:20:46.090] Speaker 2: situation.
+[00:20:46.630 - 00:20:47.850] Speaker 2: So it's very interesting.
+[00:20:48.630 - 00:20:54.685] Speaker 2: But they're also very clear, right, about that and they're building Gemini and they're trying to, like, make it as,
+[00:20:55.225 - 00:21:08.260] Speaker 2: you know, at least like, oh, if there is an app that truly kills Google, it's better we also own one of it. Right? My hope is that in the next generational search where we're all gonna converse and ask questions on voice and
+[00:21:08.560 - 00:21:09.620] Speaker 2: get tasks done,
+[00:21:09.920 - 00:21:12.100] Speaker 2: I hope there are multiple players there.
+[00:21:12.640 - 00:21:19.780] Speaker 2: And Google will certainly be one of them. There's no question about it. And OpenAI will be one of them. We hope to be one of them.
+[00:21:20.175 - 00:21:22.355] Speaker 2: Meta is likely to be one of them, XAI.
+[00:21:23.455 - 00:21:26.595] Speaker 2: So I'm hoping like there are a lot of players here and,
+[00:21:27.775 - 00:21:28.655] Speaker 2: it's a much more
+[00:21:30.575 - 00:21:33.875] Speaker 2: I still think there'll be a winner for the dominant market share,
+[00:21:34.520 - 00:21:37.580] Speaker 2: but I hope it's like, it's not like a 90%
+[00:21:38.520 - 00:21:40.140] Speaker 2: winner and like 10%
+[00:21:40.280 - 00:21:40.780] Speaker 2: rest.
+[00:21:41.320 - 00:21:43.420] Speaker 2: And that can be avoided if you're
+[00:21:43.960 - 00:21:47.500] Speaker 2: having enough capital to compete and like innovative on like features you're shipping
+[00:21:48.055 - 00:21:50.875] Speaker 2: and figure out new business models outside subscriptions,
+[00:21:52.295 - 00:21:57.595] Speaker 2: new ways for commerce to happen here. You have to do all that work. There's a lot of non AI work to be done here.
+[00:21:57.975 - 00:22:04.410] Speaker 2: And, so we talk a lot about those kinds of things in board meetings rather than like, oh, how can I get everyone's
+[00:22:06.870 - 00:22:15.770] Speaker 2: single word searches that are happening on Google on perplexity? That's impossible. I'm not going to get it unless it literally displays your browser, your operating system, everything.
+[00:22:16.745 - 00:22:24.445] Speaker 2: That's not worth thinking about. Rather, it's worth thinking about like, okay, there are some kind of searches that clearly people are coming to perplexity for not going to Google,
+[00:22:25.305 - 00:22:29.965] Speaker 2: how to grow that, those kind of searches, which is actually new, right? We were not Earlier,
+[00:22:30.665 - 00:22:31.725] Speaker 2: at least me,
+[00:22:32.080 - 00:22:35.940] Speaker 2: we were I was not going to Google to type in a full quest than ever.
+[00:22:36.720 - 00:22:38.180] Speaker 2: So that's a new ability
+[00:22:38.480 - 00:22:38.980] Speaker 2: that
+[00:22:39.360 - 00:22:41.700] Speaker 2: some people are not even aware they can do and
+[00:22:42.400 - 00:22:43.220] Speaker 2: that'll grow.
+[00:22:43.760 - 00:22:44.260] Speaker 2: And
+[00:22:45.525 - 00:22:49.945] Speaker 2: I think that market, how to monetize that, how to grow that, how to like bring it to more verticals,
+[00:22:50.325 - 00:23:02.700] Speaker 1: how to get in front of more users, that's where it's really worth focusing the energy on. Okay. Compare for a layman like me and for all the viewers who are watching, compare Google with Perpacity for me. What are the weaknesses
+[00:23:03.000 - 00:23:11.340] Speaker 1: which Google has? Yeah. And those are the weaknesses or the gaps that you guys have seen and you are solving it for it. Yeah. So the median number of words
+[00:23:11.720 - 00:23:15.785] Speaker 2: on a Google search is like two to three words, I think 2.3
+[00:23:15.785 - 00:23:16.605] Speaker 2: words maybe.
+[00:23:16.985 - 00:23:20.285] Speaker 2: The median number of words on a perplexity search is like 10 words.
+[00:23:20.905 - 00:23:25.245] Speaker 2: So, people on Google, like if you actually go to trends.google.com
+[00:23:26.265 - 00:23:30.560] Speaker 2: and look at the top one, not the rising ones, the top ones are always like single
+[00:23:30.940 - 00:23:33.600] Speaker 2: word searches, Amazon, Instagram, Reddit, TikTok,
+[00:23:34.940 - 00:23:35.440] Speaker 2: weather,
+[00:23:35.980 - 00:23:39.680] Speaker 2: score, cricket. You know, it's like single word searches.
+[00:23:41.580 - 00:23:49.055] Speaker 2: And that tells you what people are mostly doing. They're just navigating the web, you know. Sometimes they ask like very quick
+[00:23:49.435 - 00:23:56.895] Speaker 2: fast facts like search and Tenufer age or something. You know, you just quickly get it right there. But you're not asking questions like,
+[00:23:57.470 - 00:23:58.030] Speaker 2: oh, like,
+[00:23:58.830 - 00:24:00.210] Speaker 2: how many times has Tendulkar,
+[00:24:00.990 - 00:24:01.970] Speaker 2: scored a
+[00:24:02.750 - 00:24:04.770] Speaker 2: 100 and India has lost a match?
+[00:24:05.310 - 00:24:13.675] Speaker 2: You're probably not going to get it quickly on Google. It'll give you a bunch of links. You'll have to open them. You'll have to read and parse and figure out. You You can ask those kind of questions on perplexity.
+[00:24:14.215 - 00:24:26.075] Speaker 2: You can ask Sachin Tendulkar H also on perplexity, but there's going to be some overlap in the searches that we can share. But there are just going to be some searches that are clearly better than on Google, which is a quick fast navigation.
+[00:24:26.660 - 00:24:35.640] Speaker 2: And there are going to be some searches that are better than on perplexity, which is actual answers to questions. So you can ask me how many people are really asking these kind of complicated questions.
+[00:24:36.420 - 00:24:37.880] Speaker 2: Today, not so much.
+[00:24:38.260 - 00:24:43.485] Speaker 2: We get 20,000,000 queries a day and, you know, maybe like 80% of them are like pretty deep questions.
+[00:24:43.785 - 00:25:02.720] Speaker 2: But over time, it's going to grow. You're not just going to ask those kind of weird esoteric questions. You're going to ask things like, Oh, like, how do I fix my how do I renew my other card? I'm actually outside The US. Or like my passport door and like, I I'm I'm stuck stuck in this country. What what do I do? Like, these are the kind of questions that are going to like grow.
+[00:25:03.020 - 00:25:04.320] Speaker 2: Yeah. And I think,
+[00:25:05.260 - 00:25:11.200] Speaker 2: you're not going to go to Google to that for two reasons. One is Google, was never like meant for that.
+[00:25:11.695 - 00:25:15.795] Speaker 2: It's ingrained in you is not that user habit yet. So that
+[00:25:16.095 - 00:25:28.250] Speaker 2: muscle memory is not something that we're competing with. So we can actually, like, be the product go to product for that. Number two is even if they ship things like AI review or, like, answers right there, it they don't actually
+[00:25:28.550 - 00:25:29.770] Speaker 2: know when to, like,
+[00:25:30.150 - 00:25:33.370] Speaker 2: do that and when not to. And it becomes a,
+[00:25:34.950 - 00:25:41.290] Speaker 2: you know, like a kitchen sink of so many different UIs in one search page, which really frustrates the user. And
+[00:25:41.750 - 00:25:44.105] Speaker 2: it actually competes with their ad business,
+[00:25:44.645 - 00:25:47.205] Speaker 2: and, like, revenue traffic. Right? So,
+[00:25:48.085 - 00:25:49.945] Speaker 2: that's where I think we have a clear opportunity.
+[00:25:50.405 - 00:25:53.445] Speaker 2: And this category of searches is gonna grow,
+[00:25:53.925 - 00:26:06.500] Speaker 2: exponentially in the next five to ten years. And we won't be the only person to capture that market. I think ChatGPT will also compete. Even though ChatGPT started off as a writing tool, they're also going more towards these kind of prompts.
+[00:26:07.040 - 00:26:11.345] Speaker 2: And Gemini will also be a player in this, but it's going to be a pretty interesting,
+[00:26:12.765 - 00:26:17.345] Speaker 1: new market that's emerging. Yeah. So without even knowing about this,
+[00:26:18.045 - 00:26:20.545] Speaker 1: you're right. I use perplexity for this only.
+[00:26:21.405 - 00:26:22.545] Speaker 1: And it's so subconscious
+[00:26:23.600 - 00:26:26.500] Speaker 1: that I use it for x y z reason because probably
+[00:26:26.800 - 00:26:30.020] Speaker 1: the first time I asked question, it showed me the kind of answers which
+[00:26:30.800 - 00:26:38.980] Speaker 1: made me ask more deeper questions. Yeah. So I would really go on Google and be like, hey, Sachin Tendulkar's age or
+[00:26:40.115 - 00:26:50.535] Speaker 1: how much this person's spending, or whatever. Like some random Yeah. Very easy one word kind of answer. Yeah. And then I would go on perplexity and be like, okay, what's a specific core message
+[00:26:51.155 - 00:26:58.680] Speaker 1: of this person in this speech in this year? Right. And then this is the specificity I go to. Yeah. And then I get an answer. Yeah. By the way,
+[00:26:59.480 - 00:27:01.980] Speaker 2: I would say just, you know, like for
+[00:27:03.240 - 00:27:04.540] Speaker 2: the correctness of it,
+[00:27:05.240 - 00:27:11.155] Speaker 2: both sides will do what the other side is doing. Like, we'll be we we'll try to get even faster
+[00:27:11.855 - 00:27:15.475] Speaker 2: at, like, quick fast facts, like, such a tender look at the age
+[00:27:15.855 - 00:27:18.915] Speaker 2: or, how much did India spend on transportation,
+[00:27:19.855 - 00:27:21.075] Speaker 2: those kind of, like, things.
+[00:27:21.980 - 00:27:29.660] Speaker 2: And make the experience better for you so that you don't have to go somewhere else with those questions. Like, why even the user burden of deciding when to use what tool? Yeah.
+[00:27:30.540 - 00:27:33.120] Speaker 2: And at the same time, Google will also try to get better
+[00:27:34.095 - 00:27:35.555] Speaker 2: at, like, you know, like,
+[00:27:37.215 - 00:27:44.355] Speaker 2: pull ups that require multiple hops of reasoning. So both things are gonna happen. And that's why it's interesting moment for the user,
+[00:27:44.655 - 00:27:45.155] Speaker 2: like,
+[00:27:46.095 - 00:27:49.475] Speaker 2: of, like, who's gonna deliver the best orchestrated product.
+[00:27:49.960 - 00:27:55.500] Speaker 2: Is it the one that's starting from answers? Is it the one that already has links and these one box answers?
+[00:27:55.960 - 00:27:57.420] Speaker 2: Nobody knows, right? Because
+[00:27:57.720 - 00:27:59.580] Speaker 2: you can argue in bold favor,
+[00:28:00.200 - 00:28:12.965] Speaker 2: the more general system can build the final solution faster versus the legacy system that's trying to, like, layer in things together. What would beating Google be like? It feels amazing. Like and I was definitely inspired by
+[00:28:13.345 - 00:28:28.995] Speaker 2: Larry and Sergei a lot and the founding story of Google, the academic roots that deeply I mean, I've worked as an intern there, both DeepMind and Brain, and, a lot of the Google culture engineering focus, I'm a big fan of that. So it would feel great to have a product that,
+[00:28:29.955 - 00:28:32.215] Speaker 2: look, I think the true test is
+[00:28:32.675 - 00:28:40.055] Speaker 2: if even people within Google, like Google employees and their kids, they all use perplexity and so Google because it's a better product, not because
+[00:28:40.675 - 00:28:47.910] Speaker 2: they want to like They stop liking Google and they move for it, But, like, they truly there's no other choice. They get to use it because it's a better product.
+[00:28:48.290 - 00:28:50.130] Speaker 2: I think that is the true true,
+[00:28:50.530 - 00:28:58.785] Speaker 1: benchmark, and that's gonna take a while. But what would it look like? Like, okay. So you said it'll be feel amazing, but what would it look like? Like,
+[00:28:59.345 - 00:29:02.965] Speaker 1: at what point will you know that, okay, we have done better job?
+[00:29:04.145 - 00:29:11.925] Speaker 2: I I'll tell you. Three markers. Yeah. Like, so today we do, like, 20,000,000 daily queries. Right? It has to get to, like, two hours of magnitude more,
+[00:29:12.705 - 00:29:13.525] Speaker 2: like 2,000,000,000.
+[00:29:14.240 - 00:29:26.340] Speaker 2: Now you can say it's even that's lower than what Google does. Like, I think Google does like around six to eight, something like that. But, because of the query length here, I would say that we've done the job.
+[00:29:27.545 - 00:29:28.045] Speaker 2: And,
+[00:29:28.825 - 00:29:33.805] Speaker 2: you can see it, right? Like, look, the younger generation has less loyalty to Google
+[00:29:34.185 - 00:29:39.405] Speaker 2: as we do. So, they're actually the older generation allows these voice to voice systems.
+[00:29:39.785 - 00:29:42.205] Speaker 2: The younger generation also allows using these
+[00:29:43.350 - 00:29:44.570] Speaker 2: conversational systems.
+[00:29:45.350 - 00:29:49.930] Speaker 2: So, I think it's going to be very interesting to see how the behaviour of the new generation changes.
+[00:29:51.750 - 00:29:57.690] Speaker 2: So one way to mark like a marker is like what product do they use when they grow up?
+[00:29:58.965 - 00:30:05.705] Speaker 2: And my prediction is it won't be all Google. Let's play the long game here. Like it's not necessary to win every single user. Yeah.
+[00:30:06.965 - 00:30:12.025] Speaker 2: And I think that mentality of like, oh, I'm the next Google means I need to have 90% market share
+[00:30:12.410 - 00:30:18.830] Speaker 2: should go away. I think no one's gonna be that next Google. So when I say we are competing with Google, I'm only saying about the core search experience.
+[00:30:19.130 - 00:30:39.255] Speaker 2: Yeah. Not the alphabet unit or the Google stock. So a lot of people like use this, you know, criticism for us saying like, oh, like, look at this competitor, but then Google stock keeps going up. Okay. Listen. Like, they have, like, so many other businesses, and I'm not saying the stock's gonna go down ever. Like, it's a safe investment to make. They have Waymo. They have, like, so many new businesses that are coming up, DeepMind,
+[00:30:40.035 - 00:30:42.935] Speaker 2: AlphaFold, like Quantum Chips. So it's it's a great
+[00:30:43.450 - 00:30:43.950] Speaker 2: company,
+[00:30:44.330 - 00:30:47.630] Speaker 2: but the core search product for the first time ever in like two decades,
+[00:30:48.330 - 00:30:51.950] Speaker 2: is clearly under threat. If if it was not under threat, they wouldn't be doing like
+[00:30:52.410 - 00:30:54.830] Speaker 2: Gemini AI overview. Right? Yeah.
+[00:30:55.485 - 00:30:55.985] Speaker 1: Interesting.
+[00:30:56.445 - 00:31:01.425] Speaker 1: Okay. So is it fair to say that the success would look like
+[00:31:01.805 - 00:31:03.585] Speaker 1: when an entire generation
+[00:31:04.205 - 00:31:04.705] Speaker 1: would
+[00:31:05.005 - 00:31:07.025] Speaker 1: use your product as a default?
+[00:31:07.405 - 00:31:13.240] Speaker 1: The way one generation uses Google as a default. That would, like, that would beating Google mean like.
+[00:31:13.700 - 00:31:16.120] Speaker 2: Yeah. Or or having a higher market share there.
+[00:31:17.220 - 00:31:24.840] Speaker 2: Like like That's why, like, entire generation, like, a majority of the generation using one thing. Yeah. Exactly. Mhmm. Let's say, like, it's split, like, you know, forty, thirty,
+[00:31:25.300 - 00:31:25.800] Speaker 2: 20,
+[00:31:28.395 - 00:31:31.935] Speaker 2: 10 with among four tools. I don't know what they are. Maybe us like
+[00:31:32.555 - 00:31:33.535] Speaker 2: Microsoft, Google,
+[00:31:34.075 - 00:31:38.815] Speaker 2: Mero, like something like that. Right? I think that will be a pretty big win.
+[00:31:39.355 - 00:31:39.855] Speaker 2: And
+[00:31:40.480 - 00:31:45.940] Speaker 2: I hope, like, unanimously that the global aggregate is that, and that will be an even massive win.
+[00:31:46.560 - 00:31:47.060] Speaker 2: But,
+[00:31:47.520 - 00:31:54.945] Speaker 1: even, like, one generation would be a great win. Where do you stand today? Give me give me some comparison. I'm interested in this. Let's say Right now the
+[00:31:55.405 - 00:32:01.185] Speaker 2: AI usage is like, I think chat should be at 80% market share right now as far as I'm aware. And you?
+[00:32:02.685 - 00:32:03.425] Speaker 2: It depends
+[00:32:03.725 - 00:32:06.385] Speaker 2: on the web and the mobile. I believe on the web we are
+[00:32:07.160 - 00:32:07.660] Speaker 2: third
+[00:32:07.960 - 00:32:09.100] Speaker 2: and Gemini second.
+[00:32:09.640 - 00:32:18.620] Speaker 2: On mobile, I think Gemini has more installs, but extremely poor retention. So in terms of actual usage on mobile, I wouldn't be surprised if we're number two.
+[00:32:20.195 - 00:32:25.255] Speaker 2: And I think like Copilot has a lot of installs too, but lower retention than us. But
+[00:32:26.595 - 00:32:29.815] Speaker 2: clear winner right now with web and mobile is Chargebee. Chargebee.
+[00:32:30.275 - 00:32:35.060] Speaker 2: And but that doesn't need to remain the case. Yeah. And that's why it's really interesting. And,
+[00:32:35.760 - 00:32:38.020] Speaker 1: in terms of funding, if you want to compare yourself
+[00:32:38.880 - 00:32:40.260] Speaker 1: with, let's say, ChatGPT,
+[00:32:41.440 - 00:32:43.380] Speaker 1: Google and you, where do you stand?
+[00:32:43.760 - 00:32:44.660] Speaker 2: Oh, come on.
+[00:32:45.840 - 00:32:47.600] Speaker 2: Google has like a $100,000,000,000
+[00:32:47.600 - 00:32:48.180] Speaker 2: in cash.
+[00:32:49.625 - 00:32:53.805] Speaker 2: And chat GBT has raised, I mean, as an open AI. Yeah. They've raised,
+[00:32:55.545 - 00:32:58.285] Speaker 2: the last round was probably like 10,000,000,000
+[00:32:58.905 - 00:33:01.805] Speaker 2: and I think they're going to raise more and they've already raised
+[00:33:02.345 - 00:33:03.385] Speaker 2: like 13,000,000,000.
+[00:33:03.385 - 00:33:06.500] Speaker 2: So in total they raised 20,000,000,000 or 25,000,000,000.
+[00:33:06.800 - 00:33:09.380] Speaker 2: Right. And they can definitely have they have the brand
+[00:33:09.920 - 00:33:15.620] Speaker 2: to raise more. Yeah. So we have not even raised a billion so far in total. How much have you raised total?
+[00:33:15.920 - 00:33:18.180] Speaker 2: I mean, in total we've raised around like
+[00:33:18.640 - 00:33:20.180] Speaker 2: 800 or 900,000,000.
+[00:33:20.645 - 00:33:25.225] Speaker 2: Right? So And the last round was around? Yeah, we raised 500 in the last round. So
+[00:33:25.605 - 00:33:26.105] Speaker 2: clearly,
+[00:33:26.965 - 00:33:30.265] Speaker 2: like from one end, if you look at our funding rounds, it looks massive.
+[00:33:31.125 - 00:33:32.665] Speaker 2: But on the other hand,
+[00:33:33.430 - 00:33:36.910] Speaker 2: these are like three like one has 100, another has
+[00:33:37.350 - 00:33:46.490] Speaker 2: like raised 20 but burning 5 like losing 5,000,000,000 a year. So, it's not exactly the same. And us, it's like we raised not even a billion. So, clearly there's three different
+[00:33:47.965 - 00:33:49.505] Speaker 2: orders of management on the spectrum.
+[00:33:52.365 - 00:33:56.385] Speaker 2: But the nice thing is just because you have the money doesn't mean you win.
+[00:33:58.765 - 00:34:01.745] Speaker 2: Like I said, if that was true, then we would never have been even
+[00:34:02.500 - 00:34:03.560] Speaker 2: being in the conversation.
+[00:34:04.980 - 00:34:08.440] Speaker 2: So the one who can ship the best product has a good chance.
+[00:34:09.620 - 00:34:11.720] Speaker 2: Lower bureaucracy, faster movement,
+[00:34:12.100 - 00:34:12.920] Speaker 2: lower distractions,
+[00:34:13.300 - 00:34:15.320] Speaker 2: clear focus on just the product.
+[00:34:16.065 - 00:34:18.245] Speaker 2: Definitely has a lot of advantages here.
+[00:34:18.705 - 00:34:20.485] Speaker 2: So what we need to ensure is
+[00:34:21.105 - 00:34:24.725] Speaker 2: keep growing our usage, keep growing our brand and mind share,
+[00:34:26.145 - 00:34:30.005] Speaker 2: figure out ways to monetize well too, so that we don't just end up with
+[00:34:30.600 - 00:34:38.220] Speaker 2: a big pile of cash and a lot of users, but don't know how to turn that into real business. We don't want to be in that sort of spot either.
+[00:34:39.000 - 00:34:40.380] Speaker 2: So but don't like
+[00:34:42.455 - 00:34:42.955] Speaker 2: overemphasize
+[00:34:43.335 - 00:34:45.175] Speaker 2: revenue over growth. So there are
+[00:34:45.975 - 00:34:51.115] Speaker 2: if we can ensure we get these basics right over the next two years and keep shipping cool things
+[00:34:51.415 - 00:34:56.795] Speaker 2: and staying ahead of the rest and core user experience, then we have a good shot at playing this game.
+[00:34:57.270 - 00:35:02.890] Speaker 2: But if we don't, like, there's nothing we ship that others don't ship in, like, a matter of weeks or months. Mhmm.
+[00:35:03.750 - 00:35:06.170] Speaker 2: And if we are not growing our user base,
+[00:35:06.870 - 00:35:14.225] Speaker 2: and if we don't know how to monetize the existing user base well, we're definitely gonna be in a difficult spot. And your current focus is revenue or growth? Growth.
+[00:35:14.685 - 00:35:17.265] Speaker 1: So you're not gonna focus on revenue for a while.
+[00:35:17.645 - 00:35:18.865] Speaker 2: We'll make good revenue
+[00:35:19.165 - 00:35:20.545] Speaker 2: to the extent that, like,
+[00:35:20.925 - 00:35:23.265] Speaker 2: at least on the paying users, we have good margins.
+[00:35:23.900 - 00:35:31.040] Speaker 2: And the free users, the cost of running the service keeps going down because these models get cheaper and we'll figure out ways to make it cheaper algorithmically too.
+[00:35:31.340 - 00:35:33.600] Speaker 2: But we're not going to obsess about like making
+[00:35:33.980 - 00:35:38.560] Speaker 2: revenue and turning the company profitable next year. Yeah. Okay. And then
+[00:35:39.015 - 00:35:42.235] Speaker 1: what about XAI? You read the news yesterday. They just circulated.
+[00:35:42.855 - 00:35:45.095] Speaker 1: I think Elon raised $6,000,000,000
+[00:35:45.095 - 00:35:46.315] Speaker 1: for XAI. Yeah.
+[00:35:46.935 - 00:35:48.315] Speaker 1: Are are you scared of Elon?
+[00:35:48.935 - 00:35:50.155] Speaker 2: I mean, come on. Like,
+[00:35:51.190 - 00:35:57.050] Speaker 2: what? It's not a scare. I'm a fan. Like, he's a, you know, inspirational entrepreneur for me.
+[00:35:58.710 - 00:36:07.965] Speaker 2: And I think it's cool that he's also building something here in the space, and I would never underestimate him. It's the quote is like never bet against Elon Musk.
+[00:36:09.225 - 00:36:11.865] Speaker 2: My hope is like there's a lot of people who, you know,
+[00:36:12.505 - 00:36:21.500] Speaker 2: there's not like one product everybody uses here. You know, there's a lot of people use different apps and he's also gonna work in the search space. Clearly, like Grok's doing some
+[00:36:22.120 - 00:36:22.620] Speaker 2: web
+[00:36:23.240 - 00:36:23.740] Speaker 2: sources
+[00:36:24.360 - 00:36:24.860] Speaker 2: too.
+[00:36:25.480 - 00:36:28.140] Speaker 2: My sense is there are a lot of verticals to build here.
+[00:36:29.800 - 00:36:32.380] Speaker 2: There is finance, shopping, travel, local,
+[00:36:32.920 - 00:36:33.900] Speaker 2: weather, news,
+[00:36:34.920 - 00:36:35.420] Speaker 2: sports.
+[00:36:36.855 - 00:36:39.675] Speaker 2: Like, so even within each of these, there's so many subverticals,
+[00:36:41.175 - 00:36:43.195] Speaker 2: and, like, entertainment is there, shows.
+[00:36:43.655 - 00:36:46.155] Speaker 2: So there's a lot of things to do here that, like,
+[00:36:49.120 - 00:36:52.500] Speaker 2: some products will be amazing at some things, some products will be worse at other things.
+[00:36:52.800 - 00:36:53.620] Speaker 2: And I feel,
+[00:36:54.880 - 00:36:58.160] Speaker 2: Elon's entry just makes the whole market even bigger. The
+[00:36:58.720 - 00:37:03.165] Speaker 2: if it takes if some if something is worth its time, then it just means, like, the market's huge.
+[00:37:03.725 - 00:37:04.625] Speaker 1: And then, but
+[00:37:04.925 - 00:37:16.650] Speaker 1: does it bother you? Does it scare you in some say? No. Because there are already like a lot of star players and the big players with big deep pockets. Mhmm. And then there's Elon as well. Now he's entering into this
+[00:37:17.450 - 00:37:19.870] Speaker 1: this space where you are operating and you
+[00:37:20.330 - 00:37:21.150] Speaker 1: are three.
+[00:37:21.450 - 00:37:22.990] Speaker 1: They are number third right now.
+[00:37:23.450 - 00:37:26.910] Speaker 1: You want to escalate to number two and then eventually number one, but then
+[00:37:27.210 - 00:37:28.750] Speaker 1: there's this guy. And you said
+[00:37:29.475 - 00:37:31.655] Speaker 1: the world says that don't bet against Elon.
+[00:37:31.955 - 00:37:42.375] Speaker 2: Right? Yeah. I mean, by that, I mean, like, he's not gonna lose. Like, he's definitely gonna have a good market share and he's gonna win in in some manner. So what what does it mean? Like, if someone like him raises the money,
+[00:37:42.870 - 00:37:45.290] Speaker 1: does it mean raising money for you gets difficult?
+[00:37:47.190 - 00:37:50.090] Speaker 2: So it's, it's, it's complicated. Like, obviously,
+[00:37:50.390 - 00:37:50.950] Speaker 2: you know,
+[00:37:51.590 - 00:37:54.010] Speaker 2: money is not infinite sum. Right?
+[00:37:55.765 - 00:37:58.105] Speaker 2: Similarly, GPUs are not infinite sum.
+[00:37:59.525 - 00:38:00.985] Speaker 2: There are some zero sum games
+[00:38:01.445 - 00:38:01.945] Speaker 2: there
+[00:38:02.485 - 00:38:08.950] Speaker 2: because just constraints in the world, how much capital there is and how many GPUs you can make. Yeah. So,
+[00:38:09.490 - 00:38:15.430] Speaker 2: yeah, definitely, like, there are some advantages having a lot of capital, but at the same time, it's also how you spend it.
+[00:38:15.890 - 00:38:18.770] Speaker 2: So XAI, for example, has raised $6,000,000,000,
+[00:38:19.010 - 00:38:23.750] Speaker 2: out of which they intend to spend 5,000,000,000 on just building a data center with a million GPUs.
+[00:38:24.875 - 00:38:26.815] Speaker 2: At least that's what I read. Maybe it's wrong.
+[00:38:27.435 - 00:38:34.095] Speaker 2: Maybe it's an overestimate, but let's just assume that they spend 60 to 70% of the cash on just building data centers.
+[00:38:34.475 - 00:38:37.615] Speaker 2: So, that's not how we are spending our money. So
+[00:38:37.950 - 00:38:41.410] Speaker 2: the amount they're actually spending on the core product and making it better,
+[00:38:41.790 - 00:38:44.610] Speaker 2: will be probably comparable on a yearly basis.
+[00:38:45.950 - 00:38:50.850] Speaker 2: And I think that gives you a pretty good shot if you're not training your own models.
+[00:38:52.025 - 00:38:56.125] Speaker 2: And now you can ask like, Oh, what if they train an insanely better model than the rest?
+[00:38:56.585 - 00:38:58.045] Speaker 2: That just makes their product
+[00:38:58.505 - 00:39:02.605] Speaker 2: way better, that no matter if you use other people's models, you're not going to be as good as them.
+[00:39:03.225 - 00:39:05.325] Speaker 2: Again, like, it's possible,
+[00:39:06.420 - 00:39:08.680] Speaker 2: but I wouldn't give it a very high probability
+[00:39:09.060 - 00:39:09.560] Speaker 2: because,
+[00:39:10.820 - 00:39:13.560] Speaker 2: so far the trends are that models are
+[00:39:13.940 - 00:39:19.000] Speaker 2: like, there are, like, too many players and they're all, like, playing ping pong and, like, it's very evenly contested.
+[00:39:19.485 - 00:39:24.365] Speaker 2: Like anthropics there, Google is there, Meta is there, OpenAI is there. So,
+[00:39:24.925 - 00:39:26.065] Speaker 2: I think there's good,
+[00:39:27.245 - 00:39:35.270] Speaker 2: thesis for a company like us, which can use all of them and just focus on the user. So now that he's a part of the government as well, does it give him any edge?
+[00:39:36.210 - 00:39:42.390] Speaker 2: I mean, my, my sense is like he's never really taken any advantage of that. And then like, for example Not yet.
+[00:39:42.770 - 00:39:46.550] Speaker 2: Okay. Like I, I would just go over past actions are a good predictor of future
+[00:39:47.015 - 00:39:47.515] Speaker 2: And
+[00:39:47.975 - 00:39:48.475] Speaker 2: he,
+[00:39:49.335 - 00:39:51.035] Speaker 2: owns X. Yeah. Right?
+[00:39:51.495 - 00:39:52.875] Speaker 2: But it's not like he,
+[00:39:55.175 - 00:39:55.915] Speaker 2: de amplified
+[00:39:56.775 - 00:39:58.875] Speaker 2: any of his rivals' tweets or
+[00:39:59.690 - 00:40:07.150] Speaker 2: company rivals' tweets. He could have done that, like, just gone to the algorithm, like, tweak the knobs to, like, lower the engagement score for those tweets.
+[00:40:07.450 - 00:40:10.530] Speaker 2: He could have done that and, like, hurt the marketing efforts of everybody
+[00:40:10.970 - 00:40:15.285] Speaker 2: Mhmm. Except he himself. He hasn't he's never done as far as I know, OpenAI always
+[00:40:15.905 - 00:40:16.965] Speaker 2: dominates the Twitter
+[00:40:17.505 - 00:40:18.005] Speaker 2: discussions,
+[00:40:19.505 - 00:40:23.925] Speaker 2: and he owns the platform. He lets them thrive on it Yeah. Despite his rivalry.
+[00:40:25.400 - 00:40:33.580] Speaker 2: So I think he that that already shows, like, he doesn't combine, like, his power or ownership of something that's very powerful with, like, his business interests.
+[00:40:34.040 - 00:40:37.880] Speaker 2: So I think, like, whatever work he's gonna do in the government, I would just assume that,
+[00:40:38.555 - 00:40:40.415] Speaker 2: he truly cares about the country,
+[00:40:41.035 - 00:40:47.615] Speaker 2: and he's not, like, combining his business interests with that. You also said in Lex Fridman's podcast that perplexity
+[00:40:47.995 - 00:40:50.850] Speaker 1: is not succumb to political power the way Google is.
+[00:40:51.330 - 00:40:54.950] Speaker 2: What do you mean by that? Like, you know, Google in the past has been, like,
+[00:40:55.410 - 00:40:56.310] Speaker 2: accused of,
+[00:40:57.730 - 00:40:59.030] Speaker 2: like, at least, like, ranking,
+[00:41:00.370 - 00:41:01.910] Speaker 2: bias Mhmm. Where
+[00:41:02.450 - 00:41:03.270] Speaker 2: if you tried
+[00:41:03.685 - 00:41:08.585] Speaker 2: Trump News, you would get both it it would kind of reformulate your query to, like,
+[00:41:08.885 - 00:41:11.225] Speaker 2: Harris, Trump and give you, like, both articles,
+[00:41:12.885 - 00:41:13.765] Speaker 2: whereas for,
+[00:41:14.245 - 00:41:18.105] Speaker 2: if you just type Harris News, you will just get her news. Yeah.
+[00:41:18.500 - 00:41:19.000] Speaker 2: Or,
+[00:41:19.540 - 00:41:20.040] Speaker 2: autocomplete,
+[00:41:20.420 - 00:41:24.600] Speaker 2: when you type in Google, your queries are auto suggested, right? If you type Donald,
+[00:41:25.700 - 00:41:27.400] Speaker 2: their next suggestion is duck
+[00:41:28.100 - 00:41:34.065] Speaker 2: and not Trump and Trump doesn't even show up in the other list of suggestions. At least three or four instances like these, like,
+[00:41:35.505 - 00:41:37.925] Speaker 2: where Google clearly had some ranking bias.
+[00:41:39.425 - 00:41:42.005] Speaker 2: I think, like, for example, the Joe Rogan Trump
+[00:41:42.945 - 00:41:46.485] Speaker 2: podcast, when people were going to search for it on YouTube, you couldn't even find it.
+[00:41:48.500 - 00:41:55.400] Speaker 2: So we don't have these issues as far I mean, as far as I'm aware, like we've tried to be pretty politically neutral.
+[00:41:57.140 - 00:41:57.640] Speaker 2: And
+[00:41:58.820 - 00:42:02.655] Speaker 2: again, it's easy to build from a clean slate than having something and trying to correct it.
+[00:42:04.575 - 00:42:06.115] Speaker 2: But at the same time,
+[00:42:06.575 - 00:42:11.955] Speaker 2: I'm also reading news of Sundar meeting Trump a lot and, like, Sergey went and met Trump.
+[00:42:12.255 - 00:42:19.190] Speaker 2: And Sundar clearly sent out an email saying gone are the days where we had, like, political opinions, and the only thing we care about is our mission
+[00:42:19.810 - 00:42:23.190] Speaker 2: delivering correct information. So clearly, like, they're changing.
+[00:42:23.570 - 00:42:29.590] Speaker 2: And so maybe what I said, you know, in the next podcast one year ago may not be relevant now. Do you see
+[00:42:30.135 - 00:42:30.635] Speaker 1: any
+[00:42:30.935 - 00:42:31.435] Speaker 1: potential
+[00:42:31.815 - 00:42:33.675] Speaker 1: political threats coming on Perplexity
+[00:42:34.775 - 00:42:36.315] Speaker 1: at some point? I see.
+[00:42:37.015 - 00:42:43.355] Speaker 2: Look, you you don't know. Like, there are always unknown unknowns. If there is some article that said something negative about somebody
+[00:42:43.950 - 00:42:48.530] Speaker 2: and that surfaced in an answer and someone's upset about it and
+[00:42:48.910 - 00:42:50.850] Speaker 2: even though the answer gives all perspectives,
+[00:42:52.830 - 00:43:04.825] Speaker 2: there are chances that some group of people could get upset about it, right? So, anytime when a group of people are involved and their sentiments are heard, there's like room for politics to become part of it.
+[00:43:05.525 - 00:43:14.265] Speaker 2: And and it may not even happen in America, it might happen in some other country. And censorship and free speech have like different levels of relevance in each country.
+[00:43:14.650 - 00:43:15.150] Speaker 2: So,
+[00:43:15.690 - 00:43:16.990] Speaker 2: we are open to, like, you
+[00:43:17.530 - 00:43:24.110] Speaker 2: know, working with each government look like, individual government, like, what they think is reasonable for their country. We have to abide by their rules. Right?
+[00:43:24.810 - 00:43:31.385] Speaker 2: I've been very clear about this. I'm, like, Google in the beginning, I think they had all these opinions of, like, them being about governments and
+[00:43:32.085 - 00:43:33.625] Speaker 2: what they really care about is
+[00:43:34.805 - 00:43:35.625] Speaker 2: true freedom.
+[00:43:39.605 - 00:43:41.545] Speaker 2: You can read their culture, don't be evil,
+[00:43:41.925 - 00:43:42.825] Speaker 2: just be free.
+[00:43:43.125 - 00:43:47.280] Speaker 2: And they refused to operate in China and China wanted to censor them.
+[00:43:47.660 - 00:43:48.160] Speaker 2: So,
+[00:43:49.100 - 00:43:51.600] Speaker 2: reality is, like, everyone's a capitalistic
+[00:43:51.900 - 00:43:53.600] Speaker 2: business at the end of the day. Yeah.
+[00:43:53.900 - 00:43:56.560] Speaker 2: You know, they're all competing to win government contracts.
+[00:43:57.100 - 00:43:58.960] Speaker 2: At one point, Google Cloud employees
+[00:44:00.955 - 00:44:03.535] Speaker 2: protested that Google's working with the Pentagon.
+[00:44:04.155 - 00:44:05.215] Speaker 2: And now, like,
+[00:44:05.755 - 00:44:07.855] Speaker 2: they just fired those people
+[00:44:08.155 - 00:44:12.895] Speaker 2: who did it again, and they're competing with Amazon and Microsoft to win those contracts because
+[00:44:13.530 - 00:44:15.710] Speaker 2: clearly that moves their revenue up and
+[00:44:16.090 - 00:44:18.830] Speaker 2: moves the stock up and that's what the shareholders want.
+[00:44:19.290 - 00:44:19.790] Speaker 2: So,
+[00:44:20.890 - 00:44:21.550] Speaker 2: I think
+[00:44:22.010 - 00:44:25.870] Speaker 2: we're not going to repeat those mistakes of what they've been through,
+[00:44:26.330 - 00:44:27.150] Speaker 2: where they
+[00:44:28.385 - 00:44:30.485] Speaker 2: forgot that they were actually a company
+[00:44:31.665 - 00:44:40.725] Speaker 2: and like trying to like have political opinions and things like that. Like we're going to be like a proper well run business at the end. Great product. Like we want to be a great product
+[00:44:41.170 - 00:44:43.830] Speaker 2: where we have clear responsibility to our shareholders.
+[00:44:44.370 - 00:44:47.030] Speaker 2: And we're not going to confuse that with
+[00:44:48.370 - 00:44:50.470] Speaker 2: my agenda or someone's agenda.
+[00:44:51.730 - 00:44:53.430] Speaker 2: All that stays outside the company.
+[00:44:54.335 - 00:44:59.795] Speaker 1: But would you lose out on these opportunities even if it means sacrificing revenues for your company?
+[00:45:00.335 - 00:45:06.915] Speaker 1: What what do you mean by lose out on the option? Lose out on opportunities of trying to maybe partner with some person, some government, somebody
+[00:45:07.450 - 00:45:10.270] Speaker 1: who wants little bend in your rules and in your platform
+[00:45:10.810 - 00:45:21.390] Speaker 1: so that it shows searches in their favor. Mhmm. But that means you winning a lot of government contracts, you winning a lot of revenues, and eventually that maximizing your company's value.
+[00:45:22.495 - 00:45:28.275] Speaker 2: Complicated question. Right? Like, what I I don't wanna say something that'll be held to, like, obviously.
+[00:45:30.015 - 00:45:34.915] Speaker 2: We'll try to do what's, like, right as as to the best of our abilities as possible.
+[00:45:37.270 - 00:45:43.930] Speaker 2: But if a certain government has rules, so you have to obey a if you wanna, like, just think about it, leave us,
+[00:45:44.230 - 00:45:47.770] Speaker 2: even you as an individual. If a certain government has rules
+[00:45:49.845 - 00:46:02.105] Speaker 2: of what you can do and not do, and you want to continue there and, like, run your business there, you will follow it, right? Or you have to move out. Yeah. The same thing applies to a business like us. But sometimes it's not rules. It's just
+[00:46:02.750 - 00:46:29.265] Speaker 1: few influencers calling you. Mhmm. That's it. It's not about the rules. Like, rules are pretty much black and white, and you can be freedom of speech. You can show whatever you wanna show. Mhmm. But maybe the ruling party wants something else. Because these are the political pressures which probably a Google faces or like a meta faces or maybe Twitter says it. Like x now. Yeah. Jack Dorsey has been very vocal about it that specifically about Indian government, a lot of other governments in the world,
+[00:46:29.830 - 00:46:32.490] Speaker 1: that there are some pressures that they have to actually
+[00:46:33.030 - 00:46:33.850] Speaker 1: listen to.
+[00:46:34.630 - 00:46:38.250] Speaker 2: I mean, like, I I just look at the fact that even, someone
+[00:46:38.630 - 00:46:39.370] Speaker 2: like Elon,
+[00:46:39.750 - 00:46:40.650] Speaker 2: way more
+[00:46:41.030 - 00:46:44.570] Speaker 2: influential than me and way more opinionated than me,
+[00:46:45.815 - 00:46:56.955] Speaker 2: like, like how he's handled, like conflict with countries in different ways. Like with I think there was conflict with India at some point. There was conflict with Brazil at some point. And I think the way he went about it was different.
+[00:46:57.575 - 00:46:58.075] Speaker 2: So,
+[00:46:59.500 - 00:47:09.680] Speaker 1: so long answer shots, very complicated. Because you are in India, I wanna talk about challenges of India. Yeah. Okay. What do you see like, where is India today in terms of in the world of AI,
+[00:47:10.220 - 00:47:11.600] Speaker 1: how far are we from
+[00:47:11.980 - 00:47:12.480] Speaker 1: becoming
+[00:47:13.255 - 00:47:19.115] Speaker 2: even a contender in the AI world? Yeah, like, I mean, I'm sorry if I'm repeating what I said earlier, but
+[00:47:19.495 - 00:47:23.035] Speaker 2: I think we are very well positioned in terms of adoption.
+[00:47:23.415 - 00:47:30.530] Speaker 2: Like we've already adopted a lot, like 92% of knowledge workers have adopted AI here compared to 65% is the global average elsewhere.
+[00:47:32.110 - 00:47:35.890] Speaker 2: So the amount of people who already know how to use these tools and like,
+[00:47:37.230 - 00:47:39.570] Speaker 2: can keep themselves updated with it
+[00:47:39.950 - 00:47:44.145] Speaker 2: is pretty awesome. You don't need to like train them or something.
+[00:47:44.525 - 00:47:49.905] Speaker 2: Like when I went to Japan, I saw like, there were like actual courses on how to learn
+[00:47:50.285 - 00:47:54.465] Speaker 2: chat GPT or like all these different tools that people writing books on how to use perplexity.
+[00:47:54.925 - 00:47:57.985] Speaker 2: I don't think you even need these things here. People are already like pretty
+[00:47:58.580 - 00:48:00.520] Speaker 2: acclimatized to these things.
+[00:48:01.940 - 00:48:08.520] Speaker 2: What are the challenges that you see here? I think the challenges are how can people using these tools earn more?
+[00:48:10.340 - 00:48:11.080] Speaker 2: They should.
+[00:48:11.460 - 00:48:12.440] Speaker 2: They should ideally
+[00:48:12.900 - 00:48:13.400] Speaker 2: because,
+[00:48:14.685 - 00:48:16.785] Speaker 2: they should be able to do more work now,
+[00:48:18.205 - 00:48:18.705] Speaker 2: faster
+[00:48:19.325 - 00:48:19.825] Speaker 2: throughput.
+[00:48:20.525 - 00:48:22.865] Speaker 2: So I hope the usage goes beyond just
+[00:48:23.165 - 00:48:28.600] Speaker 2: identifying hacks and cheat codes to get work done faster to like, okay, this thing is actually
+[00:48:29.060 - 00:48:33.400] Speaker 2: making my life so much easier. So I'm going to figure out side gigs that I can do
+[00:48:33.780 - 00:48:34.760] Speaker 2: and earn more.
+[00:48:35.060 - 00:48:35.560] Speaker 2: And
+[00:48:35.860 - 00:48:38.040] Speaker 2: if a bunch of people start doing that,
+[00:48:39.525 - 00:48:46.185] Speaker 2: the average income goes up and GDP goes up. So that needs to happen. I hope it's already happening too, at least at a small scale,
+[00:48:46.485 - 00:48:48.265] Speaker 2: but that really needs to happen.
+[00:48:48.885 - 00:48:55.940] Speaker 2: The second thing, a challenge I would say is, okay, now that you guys really know how to use these tools and you get a sense of it,
+[00:48:57.120 - 00:48:57.860] Speaker 2: can you
+[00:48:58.480 - 00:48:59.220] Speaker 2: start building
+[00:49:00.080 - 00:49:02.100] Speaker 2: apps and businesses that can let,
+[00:49:02.640 - 00:49:07.085] Speaker 2: other people use things in a way that are not possible with the existing tools.
+[00:49:07.545 - 00:49:13.005] Speaker 2: Whether you build it for the Indian market or the international market, doesn't matter. But build something that doesn't exist yet
+[00:49:13.465 - 00:49:13.965] Speaker 2: and,
+[00:49:14.985 - 00:49:16.985] Speaker 2: get it in the hands of, like, 100,000,000
+[00:49:16.985 - 00:49:17.805] Speaker 2: people here
+[00:49:20.310 - 00:49:20.890] Speaker 2: and create
+[00:49:21.350 - 00:49:21.850] Speaker 2: new
+[00:49:22.870 - 00:49:24.330] Speaker 2: market caps from nothing,
+[00:49:25.030 - 00:49:27.690] Speaker 2: employ new people here and then give them opportunities.
+[00:49:28.550 - 00:49:29.210] Speaker 2: So that's,
+[00:49:30.070 - 00:49:33.210] Speaker 2: again, creation of value that needs to happen. So,
+[00:49:34.455 - 00:49:36.715] Speaker 2: the bright side is we know how to use these tools.
+[00:49:37.655 - 00:49:40.235] Speaker 2: The flip side is, like, we have to figure out how to
+[00:49:41.815 - 00:49:45.195] Speaker 2: increase the GDP of our country. Per capita GDP is more important
+[00:49:45.495 - 00:49:49.690] Speaker 2: of our country through these things. And I really hope, like, one,
+[00:49:50.150 - 00:49:52.150] Speaker 2: advantage that we have, healthcare is,
+[00:49:52.550 - 00:50:00.490] Speaker 1: looked upon more seriously as an opportunity space. So you said people should start earning more. Yeah. Give me three examples of businesses
+[00:50:01.275 - 00:50:04.895] Speaker 1: which are going to benefit from the rapid adoption of AI. I would say healthcare.
+[00:50:05.275 - 00:50:09.055] Speaker 1: Okay. I would say like a lot of debt, like software development
+[00:50:09.835 - 00:50:10.815] Speaker 2: easily, like,
+[00:50:11.435 - 00:50:19.110] Speaker 2: you know, a lot of other companies, I think like there are a lot of independent consultants here who like do coding gigs for others.
+[00:50:19.490 - 00:50:22.150] Speaker 2: I think they can do a lot more now per unit time.
+[00:50:23.410 - 00:50:25.270] Speaker 2: So software development, healthcare,
+[00:50:25.810 - 00:50:27.030] Speaker 2: I think just financial
+[00:50:27.410 - 00:50:27.910] Speaker 2: consulting.
+[00:50:29.425 - 00:50:32.745] Speaker 1: How a financial consultant can use AI to give better
+[00:50:33.185 - 00:50:34.085] Speaker 2: Yeah. So take
+[00:50:34.625 - 00:50:36.245] Speaker 2: Have the AI look at your portfolio
+[00:50:36.785 - 00:50:41.685] Speaker 2: and have the AI go and research the web on like latest news related to each of these stocks,
+[00:50:42.830 - 00:50:48.610] Speaker 2: read analysis reports, private reports prepared by all these banks like Goldman Sachs or Barclays,
+[00:50:49.710 - 00:50:50.850] Speaker 2: sell side reports,
+[00:50:51.150 - 00:50:56.450] Speaker 2: and then come back with investment advice of like what you should be changing to adjust it
+[00:50:56.795 - 00:50:57.295] Speaker 2: or,
+[00:50:58.395 - 00:50:58.795] Speaker 2: new,
+[00:50:59.355 - 00:51:01.775] Speaker 2: stocks that you should be looking into, new changes.
+[00:51:02.555 - 00:51:04.015] Speaker 2: Equivalent of, like, several
+[00:51:04.475 - 00:51:15.280] Speaker 2: hours of actual research that analysis doesn't charge us for. If you can have an AI do it, arbitrage that and give it to more people who usually don't get access to these kind of consultants
+[00:51:16.540 - 00:51:18.720] Speaker 2: and allow everybody wants to make money
+[00:51:19.100 - 00:51:20.640] Speaker 2: and you take some cut off that
+[00:51:20.940 - 00:51:28.105] Speaker 1: and create mark value from nothing, right? So AI based financial advisors, AI based healthcare
+[00:51:28.405 - 00:51:34.105] Speaker 1: advisors, or maybe agents who are connecting you to multiple doctors. Correct. Or just allowing you to get quick
+[00:51:34.485 - 00:51:41.890] Speaker 2: checks on what's happening to you, uploading your reports, having it be audited by an AI, and then using that and going to a doctor.
+[00:51:42.990 - 00:51:44.770] Speaker 2: All these things are, like, clear opportunities.
+[00:51:45.390 - 00:51:53.205] Speaker 2: Okay. And what are the businesses that are gonna feel the maximum tension because of AI? They're gonna fail because of adoption of
+[00:51:53.585 - 00:52:00.165] Speaker 2: AI. Software consulting. Right? Like, if you can get work done with the help of an AI co pilot, coding co pilot, like,
+[00:52:00.465 - 00:52:01.925] Speaker 2: you're no longer, like, gonna
+[00:52:02.625 - 00:52:06.165] Speaker 2: rely on, like, on like a huge form of dev shops.
+[00:52:06.950 - 00:52:09.530] Speaker 2: Customer support, like, you know, call centers,
+[00:52:10.070 - 00:52:23.515] Speaker 2: I think wise agents are gonna be able to do a lot of these things pretty well. We should try to disrupt it ourselves, like whoever's going to these call centers and doing these calls. And like we should try to like do it with the AIs as much as we can.
+[00:52:24.215 - 00:52:27.675] Speaker 2: So obviously some people who are going there are going to lose their jobs, but,
+[00:52:28.135 - 00:52:28.635] Speaker 2: whoever's
+[00:52:28.935 - 00:52:31.355] Speaker 2: like running these businesses can potentially
+[00:52:31.655 - 00:52:33.195] Speaker 2: have higher margins too.
+[00:52:33.530 - 00:52:35.390] Speaker 2: And those margins can be used to
+[00:52:35.690 - 00:52:46.270] Speaker 2: give those people that are potentially going to lay off like different kind of jobs. Right? I think we got to do some restructuring there. Okay. These are the two places where you see the most. I have two, three like fun questions.
+[00:52:46.730 - 00:52:57.215] Speaker 2: One is what is the most ridiculous and bizarre search query you have read? I think someone, like, ended up asking something very particular for like, oh, like, I want my
+[00:52:58.875 - 00:53:04.610] Speaker 2: face protected. I I still want to be able to breathe, but it should cover my nose. And like, it should just have the,
+[00:53:05.010 - 00:53:07.510] Speaker 2: holes for my eyes. And I want to, like, bike,
+[00:53:08.210 - 00:53:09.110] Speaker 2: in the winter
+[00:53:09.650 - 00:53:17.655] Speaker 2: for Thanksgiving, like, help me figure out, like, which city I can go to and, like, what I should buy. Like, And we ended up giving him a really nice
+[00:53:18.035 - 00:53:19.255] Speaker 2: product recommendation.
+[00:53:19.795 - 00:53:20.295] Speaker 2: Okay.
+[00:53:20.755 - 00:53:21.255] Speaker 2: And
+[00:53:21.635 - 00:53:25.415] Speaker 2: when we actually saw we saw that product getting purchased,
+[00:53:25.795 - 00:53:27.495] Speaker 2: either this person's trying to
+[00:53:29.060 - 00:53:30.120] Speaker 2: rob a bank
+[00:53:31.060 - 00:53:33.720] Speaker 2: or or they're really, like, in a cold place.
+[00:53:34.500 - 00:53:41.000] Speaker 1: So we went and actually, like, checked the query and the query was so long. And again, like, this is the kind of thing that
+[00:53:41.380 - 00:53:43.960] Speaker 2: people are very creative in, like, using these products
+[00:53:44.405 - 00:53:44.905] Speaker 2: that,
+[00:53:45.205 - 00:53:46.025] Speaker 1: you know Interesting.
+[00:53:46.405 - 00:53:52.185] Speaker 1: And what's the craziest conspiracy you've heard about AI? Well, there's always this conspiracy theory of
+[00:53:52.805 - 00:53:54.665] Speaker 2: like, AI, this AGI
+[00:53:55.685 - 00:53:56.505] Speaker 2: is this
+[00:53:57.340 - 00:53:58.640] Speaker 2: God like thing
+[00:53:59.020 - 00:54:00.960] Speaker 2: that you can use to control the whole
+[00:54:01.580 - 00:54:02.080] Speaker 2: universe
+[00:54:03.180 - 00:54:03.680] Speaker 2: by,
+[00:54:04.860 - 00:54:06.160] Speaker 2: building super intelligent
+[00:54:06.860 - 00:54:07.360] Speaker 2: entity.
+[00:54:08.300 - 00:54:11.385] Speaker 2: And whoever has access to that will be the
+[00:54:11.725 - 00:54:12.225] Speaker 2: mastermind.
+[00:54:12.565 - 00:54:13.065] Speaker 2: And,
+[00:54:14.325 - 00:54:17.145] Speaker 2: some people think Sam Altman ultimately wants that, but
+[00:54:18.005 - 00:54:20.185] Speaker 2: I don't think it's that level of
+[00:54:21.845 - 00:54:24.345] Speaker 2: power crazed. By the way, there is true power
+[00:54:24.885 - 00:54:26.105] Speaker 2: in being the
+[00:54:27.670 - 00:54:28.170] Speaker 2: CEO
+[00:54:28.870 - 00:54:30.810] Speaker 2: or the chief decision maker
+[00:54:31.190 - 00:54:34.170] Speaker 2: of a company that's building the most intelligent model.
+[00:54:35.030 - 00:54:37.690] Speaker 2: But I don't think it's being built with the intention of
+[00:54:37.990 - 00:54:39.130] Speaker 2: controlling the universe.
+[00:54:41.045 - 00:54:43.205] Speaker 1: But do you think that's possible? I think it's,
+[00:54:43.685 - 00:54:49.545] Speaker 2: going to be like, you know, it's not going to fool people in doing things. It's possible by the way that
+[00:54:50.405 - 00:54:51.305] Speaker 2: a very intelligent
+[00:54:51.925 - 00:54:58.430] Speaker 2: AI can manipulate people. Yeah. But I think the power games are not going to come from those things. Like it's not like, Oh, a politician
+[00:54:58.810 - 00:55:01.630] Speaker 2: wants to have access to win the next election or something.
+[00:55:02.090 - 00:55:03.150] Speaker 2: They can do it.
+[00:55:03.530 - 00:55:05.950] Speaker 2: But the real danger is going to be more from,
+[00:55:08.165 - 00:55:11.065] Speaker 2: if you can throw like the equivalent of 100
+[00:55:11.925 - 00:55:13.305] Speaker 2: most intelligent scientists,
+[00:55:14.405 - 00:55:15.865] Speaker 2: but working 20 fourseven,
+[00:55:18.405 - 00:55:19.945] Speaker 2: on like a very hard
+[00:55:20.750 - 00:55:21.730] Speaker 2: pharma problem,
+[00:55:22.110 - 00:55:23.890] Speaker 2: figure out a new drug
+[00:55:25.470 - 00:55:27.570] Speaker 2: and like the next Ozempic or something
+[00:55:28.270 - 00:55:30.530] Speaker 2: and sell it for a crazy premium.
+[00:55:33.415 - 00:55:40.555] Speaker 2: And you completely own the solution. The only way you even got the solution is you had the ability to spend that much inference compute.
+[00:55:42.855 - 00:55:46.235] Speaker 2: So those kind of situations are we are like one country getting,
+[00:55:47.280 - 00:55:50.020] Speaker 2: the end output of a very super indulgent AI
+[00:55:50.560 - 00:55:53.140] Speaker 2: that they can use to their advantage in the market.
+[00:55:53.840 - 00:55:55.780] Speaker 2: And then, because of that,
+[00:55:56.240 - 00:56:01.060] Speaker 2: the next stutter effects are another country trying to steal it in some manner
+[00:56:01.605 - 00:56:04.025] Speaker 2: and that leading to like defense
+[00:56:05.685 - 00:56:06.825] Speaker 2: problems and warfare.
+[00:56:08.005 - 00:56:11.385] Speaker 2: You know, those kind of situations are possible. Those are the big and real worries.
+[00:56:11.685 - 00:56:13.065] Speaker 2: That's what I think will
+[00:56:13.620 - 00:56:14.120] Speaker 2: happen
+[00:56:14.420 - 00:56:15.160] Speaker 2: if we
+[00:56:15.460 - 00:56:18.680] Speaker 2: have super intelligence. I'm not talking about general intelligence.
+[00:56:19.380 - 00:56:21.480] Speaker 2: Super intelligence is a weird thing.
+[00:56:22.580 - 00:56:23.560] Speaker 2: It's not a thing
+[00:56:23.860 - 00:56:30.395] Speaker 2: we understand today because we are not used to super intelligence. It doesn't really exist. There are people that have been extraordinarily
+[00:56:30.935 - 00:56:32.075] Speaker 2: intelligent like Einstein,
+[00:56:33.095 - 00:56:35.675] Speaker 2: but you wouldn't call even Einstein super intelligent.
+[00:56:35.975 - 00:56:46.700] Speaker 2: He cracked like three or four very important problems. Yeah. But it's not like he there was an equivalent of a computer Einstein that just, Oh, I could throw any domain, any problem at that computer,
+[00:56:47.320 - 00:56:51.820] Speaker 2: and they would come up with the equivalent of theory of relativity for that problem that has massive
+[00:56:52.280 - 00:56:57.100] Speaker 2: economic impact too. That doesn't exist. But once it exists, whichever country has it,
+[00:56:57.425 - 00:57:00.565] Speaker 2: the next country that's trying to compete for being the world superpower
+[00:57:01.345 - 00:57:05.125] Speaker 1: will also want it. Yeah. If you happen to be that person
+[00:57:06.065 - 00:57:07.045] Speaker 1: when you get
+[00:57:07.425 - 00:57:09.285] Speaker 1: and you are at the top of the pedestal,
+[00:57:09.930 - 00:57:13.230] Speaker 1: you become the most powerful person in the world of supercomputers
+[00:57:13.610 - 00:57:14.110] Speaker 1: and
+[00:57:14.410 - 00:57:17.710] Speaker 2: AI, what would you do? I'm happy I'm not even in that race.
+[00:57:18.250 - 00:57:19.870] Speaker 2: I think it's a very weird
+[00:57:20.890 - 00:57:24.830] Speaker 1: position to be. I've been wanting to ask this from the point we started.
+[00:57:25.255 - 00:57:25.755] Speaker 1: Right?
+[00:57:26.215 - 00:57:33.355] Speaker 1: You're in a sort of competition in the race with all these large companies and incredibly successful founders.
+[00:57:33.655 - 00:57:34.155] Speaker 1: Right?
+[00:57:34.615 - 00:57:42.840] Speaker 2: Who loses the most if you win? I think, like, I mean, I've never thought about it in a zero sum way. There are clearly some zero sum games with some other companies.
+[00:57:43.860 - 00:57:44.440] Speaker 2: Yeah. Undoubtedly.
+[00:57:46.740 - 00:57:48.600] Speaker 2: I think it's not about whether we win.
+[00:57:49.620 - 00:57:51.160] Speaker 2: Whoever is gonna crack
+[00:57:51.780 - 00:57:52.280] Speaker 2: this
+[00:57:53.015 - 00:57:54.635] Speaker 2: AI native answer engine
+[00:57:54.935 - 00:57:58.795] Speaker 1: assistant, let's say you cracked it. Okay. Whoever cracks it,
+[00:57:59.815 - 00:58:02.155] Speaker 2: the one with the most to lose is Google.
+[00:58:03.975 - 00:58:07.355] Speaker 2: And that's simply because of the current business model.
+[00:58:09.330 - 00:58:09.830] Speaker 2: Now,
+[00:58:10.130 - 00:58:16.630] Speaker 2: by the time someone cracks it, if there are other bets, YouTube cloud and all that, they increase the margins there
+[00:58:17.170 - 00:58:23.350] Speaker 2: and they figure out a way to make Waymo even more successful meanwhile, and get some new cash flow there
+[00:58:23.865 - 00:58:30.605] Speaker 2: and explain to the shareholders that like, Look, this is clearly an inflection moment, but like we have other things and we'll be fine and we'll go for the new thing too.
+[00:58:31.225 - 00:58:36.605] Speaker 2: It's not like they're going to get destroyed, but they definitely are going to have a difficult turbulent period.
+[00:58:37.230 - 00:58:40.770] Speaker 2: So, yeah, they they have the big most to lose in this game,
+[00:58:41.070 - 00:58:45.330] Speaker 2: and they're aware of it, and I think they're working on it. Got it. You know, my one worry is
+[00:58:46.110 - 00:58:46.610] Speaker 1: with
+[00:58:47.470 - 00:58:49.570] Speaker 1: the rapid adoption of AI,
+[00:58:50.175 - 00:59:04.035] Speaker 1: this happened with all the technologies which are coming, is increase of digital amnesia. So it's like a phenomena where people forget information on day to day basis a lot because they rely on technology. Oh, right. Right. Right. Right. That's right. Right.
+[00:59:05.120 - 00:59:07.140] Speaker 1: So compared to, like, our parents' generations,
+[00:59:07.760 - 00:59:14.740] Speaker 1: the way we calculate things is our ability to calculate simple Yeah. Math problem is gone because we use calculators. Yeah.
+[00:59:15.680 - 00:59:19.060] Speaker 1: Similarly, when I see my younger cousins Yeah. They do. Their
+[00:59:19.595 - 00:59:22.015] Speaker 1: ability to just remember information
+[00:59:22.315 - 00:59:36.790] Speaker 1: Yeah. Is solo because they are like Google first, chat, GPD, perplexity kind of people who are just constantly using these. Yeah. So increase of technology is gonna just increase their digital amnesia where people are forgetful left, right, center. Yeah. Okay. Let let me put it this way.
+[00:59:39.410 - 00:59:43.350] Speaker 2: Are are you good at like driving with a physical map versus using Google Maps?
+[00:59:43.810 - 01:00:00.245] Speaker 2: Correct. Google Maps, of course. But but I think the previous generation, like our our previous generation wouldn't have needed Google Maps. They would have taken a physical printout and, like, figure out Yeah. Yeah. Like like, they would have mapped what they see in front of them to the two d layout and figure it out. They wouldn't need, like, accurate science. Dynamic.
+[01:00:01.265 - 01:00:02.005] Speaker 1: Right? But
+[01:00:02.370 - 01:00:10.950] Speaker 1: so little things like how do your brain functions because if you if you remember a little thing, then it gives you confidence to remember, like, the bigger things as well. So today,
+[01:00:11.570 - 01:00:18.985] Speaker 1: it could be as small as something like, let's say, remembering a phone number. We don't. Nobody even cares about it. Exactly. But that habit of
+[01:00:19.365 - 01:00:25.705] Speaker 1: telling or signaling our brain that, hey, you need to remember this little thing Yeah. Is getting down, down, down. Yeah. So
+[01:00:26.085 - 01:00:41.565] Speaker 1: that's why that's Which which I think is totally okay. Which is okay. I'm I'm saying like a lot of things a lot of times what is happening. I'll tell because I was reading some survey which is going on. It's not proven yet. Mhmm. I think some university in Australia is doing it where they're they're testing that
+[01:00:41.965 - 01:00:50.445] Speaker 2: we more and more young people are forgetting to take medicines on time. I see. But they don't remember. Like this is a small thing. You could argue that like,
+[01:00:51.325 - 01:00:56.840] Speaker 2: that's the job with AI. Like the AI should just tell them and take the medicine and they should take it. And,
+[01:00:58.020 - 01:00:59.080] Speaker 2: you know, like,
+[01:00:59.700 - 01:01:02.840] Speaker 2: by the way, forgetful people exist already.
+[01:01:03.300 - 01:01:03.800] Speaker 2: Even
+[01:01:04.260 - 01:01:06.840] Speaker 2: I'm pretty forgetful myself. I'm not
+[01:01:08.340 - 01:01:09.480] Speaker 2: on top of everything.
+[01:01:10.025 - 01:01:10.605] Speaker 1: Same. It's
+[01:01:11.145 - 01:01:12.605] Speaker 2: because your RAM is limited.
+[01:01:13.865 - 01:01:15.965] Speaker 2: Now, I guess what you're trying to say is
+[01:01:16.665 - 01:01:22.020] Speaker 2: what the next generation is going to load their RAM with is going to look very different from us.
+[01:01:22.980 - 01:01:26.520] Speaker 2: And it's going to be interesting to see how they spend their mental compute.
+[01:01:27.060 - 01:01:27.560] Speaker 2: If
+[01:01:27.860 - 01:01:29.880] Speaker 2: they don't spend it at all and it's all just
+[01:01:31.300 - 01:01:31.800] Speaker 2: unutilized,
+[01:01:32.820 - 01:01:36.440] Speaker 2: that's sad. Yeah. That's what I'm telling. I hope that's not going to happen.
+[01:01:36.935 - 01:01:38.875] Speaker 2: If they have all that
+[01:01:39.335 - 01:01:42.635] Speaker 2: free capacity and they can spend it on more creative things,
+[01:01:42.935 - 01:01:43.995] Speaker 2: that would be amazing.
+[01:01:45.415 - 01:01:45.915] Speaker 1: And
+[01:01:46.535 - 01:01:47.195] Speaker 1: it's still
+[01:01:47.655 - 01:02:11.865] Speaker 1: jury's still out of what's going to happen, but I'm hoping it's going to be the second. Yeah. If it happens like that, like all of it, all the free mental capacity that they have, they increase their ability to work on more complex problems. Yeah. It's going to be great. Yeah. That'll be great. But if it happens the other way around, which is which a lot of people are worried about Yeah. That's something I feel is I don't know what's gonna happen then. Yeah. I mean, it'll be bad. Yeah. Because because our,
+[01:02:12.265 - 01:02:12.925] Speaker 2: if you
+[01:02:14.505 - 01:02:21.480] Speaker 2: if you, like, roll out multiple generations after that, like, it's only gonna get worse. Mhmm. So we really need to make sure, like, they are
+[01:02:22.360 - 01:02:28.060] Speaker 2: being thrown they're thrown out like hard problems and like, you know, given all these tools and like, Hey, go figure it out.
+[01:02:28.920 - 01:02:34.220] Speaker 2: Got it. Well, perfect. Thank you so much for coming here. This is awesome. By the way, I heard you are the
+[01:02:34.575 - 01:02:42.515] Speaker 2: Joe Rogan of India. That's what someone told me. Is that true? No. I am the Raj Shimani of India. Let's just put it this way. Oh, awesome.
+[01:02:42.975 - 01:02:48.675] Speaker 1: Perfect. Thank you so much for coming here. I really enjoyed our chat. I have a bunch of questions
+[01:02:49.500 - 01:02:59.280] Speaker 1: for you but maybe we'll, at the time, do it again. Yep. And try to figure out what's the best for your India trip. Thank you. Thank you. Thank you so much. I read your one,
+[01:03:00.140 - 01:03:07.195] Speaker 1: I think it was some interviews and podcast or some like an outcome of this. Uh-huh. And the thumbnail was like I'm going to beat Google.
+[01:03:07.895 - 01:03:09.115] Speaker 2: Oh, yeah. People
+[01:03:09.895 - 01:03:11.755] Speaker 2: people make these thumbnails.
+[01:03:12.215 - 01:03:22.110] Speaker 1: That's why I asked you this question. Do you go to these meetings and be like, hey. I'm gonna be like I mean, you're a YouTuber. You understand what you do? I do. Yeah. Thank you so much for watching this podcast till the end.
+[01:03:26.010 - 01:03:26.510] Speaker 1: Subscribe.
+[01:03:26.810 - 01:03:28.110] Speaker 1: Number two. Comments
+[01:03:29.050 - 01:03:29.550] Speaker 1: or
+[01:03:29.850 - 01:03:32.110] Speaker 1: guest and or as a content topics
+[01:03:33.050 - 01:03:33.950] Speaker 1: podcast or
+[01:03:34.915 - 01:03:38.135] Speaker 1: you will be able to better help and you will be able to value.
+[01:03:38.595 - 01:03:41.255] Speaker 1: And number three. This episode is a good time
+[01:03:41.555 - 01:03:42.615] Speaker 1: to share life.
+[01:03:43.715 - 01:03:44.935] Speaker 1: A positive change
+[01:03:45.555 - 01:03:49.905] Speaker 1: is a good podcast conversation. So this podcast conversation is a good life. A conversation
+[01:03:50.510 - 01:03:52.530] Speaker 1: is enough to change someone's life.
+[01:03:53.150 - 01:03:55.970] Speaker 1: I'll see you next time until then keep figuring out.

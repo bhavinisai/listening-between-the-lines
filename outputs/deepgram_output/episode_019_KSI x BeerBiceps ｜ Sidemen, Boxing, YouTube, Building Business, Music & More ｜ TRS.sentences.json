@@ -1,0 +1,4654 @@
+{
+  "unit": "utterance (sentence-like)",
+  "num_segments": 664,
+  "segments": [
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 0.08,
+      "end": 2.42,
+      "transcript": "Back in what? 2008, 2009,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2.56,
+      "end": 8.74,
+      "transcript": "I remember my parents being like, you can't make money playing games. This is so pointless. And then to see this"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 10.4,
+      "end": 11.94,
+      "transcript": "scene just explode"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 12.4,
+      "end": 13.78,
+      "transcript": "to what it is now."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 27.93,
+      "end": 28.59,
+      "transcript": "Thing for"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 30.970001,
+      "end": 39.55,
+      "transcript": "us. So I had a massive cancellation around a year ago, and I feel I'm a different human, and now I appreciate it. Has that happened with you? I mean, where do you wanna start?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 40.489998,
+      "end": 43.864998,
+      "transcript": "I've always said this, the only person that can cancel you"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 44.245,
+      "end": 44.984997,
+      "transcript": "is you."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 46.644997,
+      "end": 51.784996,
+      "transcript": "Does a bad breakup hurt more or does cancellation hurt? I'd say a bad breakup."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 52.245,
+      "end": 52.745,
+      "transcript": "Just"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 53.284996,
+      "end": 53.784996,
+      "transcript": "depression"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 54.324997,
+      "end": 56.664997,
+      "transcript": "on a whole different level. Of boy hours."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 58.77,
+      "end": 62.39,
+      "transcript": "Who do you think is winning this year? I think it's between three teams. England,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 63.010002,
+      "end": 63.510002,
+      "transcript": "Spain,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 64.05,
+      "end": 82.155,
+      "transcript": "all across. Do you have, like, footballer friends? I think Haaland is actually crazy at such a young age. He was so locked in. So one of my wildest life moments was podcasting with Rio Ferdinand. Yeah. I saw that. Yeah. What advice do you give to someone like Speed?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 83.19,
+      "end": 89.369995,
+      "transcript": "Are the Sidemen guys your best bros? Yeah. I'd say they're good. Are you allowed to talk about that closed door meeting that happened?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 89.99,
+      "end": 90.49,
+      "transcript": "Oh,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 91.909996,
+      "end": 97.925,
+      "transcript": "where have you heard that from? I'd say not everyone has the same goal. Goal. Oh, it's simple. It's not simple."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 98.865005,
+      "end": 99.845,
+      "transcript": "Did you ever"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 100.305,
+      "end": 101.205,
+      "transcript": "speak to"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 101.665,
+      "end": 104.885,
+      "transcript": "Logan and or Jake about I don't talk to Jake."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 105.185005,
+      "end": 106.645004,
+      "transcript": "Me and Jake don't get on."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 107.025,
+      "end": 114.78,
+      "transcript": "I can't imagine you not getting along with anyone. Really? Yeah. I wouldn't mind going to jail with you. Okay. If if you and me both go to jail together,"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 115.159996,
+      "end": 119.659996,
+      "transcript": "I think we'd have a good time. Oh, well, well, we could just be bros"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 120.04,
+      "end": 121.9,
+      "transcript": "outside of jail. Yeah. Yeah. Yeah."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 123.0,
+      "end": 124.299995,
+      "transcript": "We could just do that."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 127.025,
+      "end": 139.925,
+      "transcript": "Think of all the YouTubers that the world has ever seen, and then there'll be, like, this little top rung, the top 1% of YouTubers who've achieved the most in the real world, beginning their journeys from the world of YouTube."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 140.47,
+      "end": 142.09001,
+      "transcript": "KSI is in the top 1%."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 142.23001,
+      "end": 145.37001,
+      "transcript": "In fact, he's one of the most iconic names in the top 1%."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 145.59001,
+      "end": 155.45001,
+      "transcript": "I'm saying this because I've followed KSI's journey for a long time. There's lots of Indian fans who followed KSI's journey for a long time, and the reason I'm doing this intro is for those few fans globally"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 155.83,
+      "end": 158.865,
+      "transcript": "who are not familiar with KSI's work until this point."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 159.485,
+      "end": 161.265,
+      "transcript": "I believe he's gonna keep growing"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 161.565,
+      "end": 163.745,
+      "transcript": "very ferociously in the world of content,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 164.285,
+      "end": 172.06999,
+      "transcript": "but I believe even more so that this guy is a phenomenal human being. It's just a lot of fun being around him."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 172.53,
+      "end": 176.15,
+      "transcript": "This episode contains a lot of that fun, a lot of that"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 176.45,
+      "end": 180.87,
+      "transcript": "energy that chases greatness, and it was just a great hangout sesh. It's KSI"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 181.48999,
+      "end": 182.31,
+      "transcript": "on TRS."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 200.05,
+      "end": 203.27,
+      "transcript": "I was gonna call you Yoruba king at the start of this episode."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 205.01001,
+      "end": 209.19,
+      "transcript": "I mean, I don't know if I deserve that title just yet anyway."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 209.97,
+      "end": 214.77501,
+      "transcript": "Excited about going to Nigeria for the first time? Yes. I it's been a long time coming."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 216.05501,
+      "end": 216.955,
+      "transcript": "Yeah. It's,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 217.815,
+      "end": 221.99501,
+      "transcript": "just life. It's crazy. Like, there's always things that get in the way"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 222.455,
+      "end": 222.77501,
+      "transcript": "of,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 224.05501,
+      "end": 225.66,
+      "transcript": "what matters to me. So,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 225.98001,
+      "end": 228.32,
+      "transcript": "finally, I'm I'm able to, like, make things"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 229.26001,
+      "end": 231.92,
+      "transcript": "what do the things that I've always wanted to do."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 232.3,
+      "end": 245.05501,
+      "transcript": "And I'm feeling real good with how I'm moving this year, especially. I think it all started last year. No. I'd say it started from Tommy Fury fight. After I lost that fight, I was definitely quite a bit lost."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 245.835,
+      "end": 247.455,
+      "transcript": "And then over a few"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 247.91501,
+      "end": 255.59,
+      "transcript": "months, years, I was like, alright. Let me try and get back into the boxing, but my heart wasn't really in it, and it didn't work out. And, eventually,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 256.13,
+      "end": 257.35,
+      "transcript": "I just got to a point"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 257.72998,
+      "end": 258.22998,
+      "transcript": "where"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 258.93,
+      "end": 261.11,
+      "transcript": "I was getting ready to fight Dylan Danis."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 262.69,
+      "end": 263.43,
+      "transcript": "My hand"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 263.97,
+      "end": 264.94998,
+      "transcript": "was up."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 266.355,
+      "end": 274.535,
+      "transcript": "I felt like shit. I'd like physically, my body was broken. I was like, why am I doing this to myself?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 275.795,
+      "end": 277.735,
+      "transcript": "Why am I putting myself through hell"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 278.05002,
+      "end": 284.15002,
+      "transcript": "when there's something I I purely enjoy, something I enjoy so much more, and that's making content? And"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 284.77002,
+      "end": 288.71002,
+      "transcript": "at that point, I was like, alright. I'm gonna make a change. So after"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 289.17,
+      "end": 291.11002,
+      "transcript": "the the Dylan find didn't happen,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 291.49002,
+      "end": 292.63,
+      "transcript": "I said, alright. Cool."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 293.405,
+      "end": 296.225,
+      "transcript": "I'm gonna work on my channel, work on my YouTube channel."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 296.685,
+      "end": 299.345,
+      "transcript": "And it's been a process, especially, you know,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 300.04498,
+      "end": 302.705,
+      "transcript": "the first six, seven months to try and get to"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 303.005,
+      "end": 306.94,
+      "transcript": "a level where I'm where I'm happy at. And now it's, like, alright. Cool."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 307.4,
+      "end": 308.86002,
+      "transcript": "I'm here. You know?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 309.72,
+      "end": 313.42,
+      "transcript": "Let's start. Let's properly start. So I've been making some good content."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 313.88,
+      "end": 314.38,
+      "transcript": "Obviously,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 315.0,
+      "end": 316.62,
+      "transcript": "you know, India has been"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 317.0,
+      "end": 319.58002,
+      "transcript": "so amazing for me throughout the years,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 320.045,
+      "end": 327.725,
+      "transcript": "and I felt like, you know, it's a great place to start for making content. I didn't wanna go Nigeria straight off because I was like"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 328.605,
+      "end": 347.16,
+      "transcript": "I know. I know. Everyone's there, like, you're Nigerian. It makes sense. You've been to India twice. Yeah. I've never been there three times, but I've never been Nigeria, which is so bad. You know, I blame my parents. My parents have told me that Nigeria is an awful place. Oh, really? Yeah. Is is that true, though? So the last time they went was, like, thirty, forty years ago."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 347.78,
+      "end": 348.28,
+      "transcript": "But,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 348.965,
+      "end": 354.985,
+      "transcript": "you know, from the stories they've told me, Nigeria hasn't been very nice to them. You know? From kidnapping"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 355.605,
+      "end": 356.105,
+      "transcript": "to,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 356.805,
+      "end": 360.98,
+      "transcript": "you know, robbery to all the worst things you could think of. Like, it"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 361.36002,
+      "end": 361.94,
+      "transcript": "you know,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 362.40002,
+      "end": 363.46002,
+      "transcript": "they've been scarred."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 364.08002,
+      "end": 364.58002,
+      "transcript": "And,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 365.36002,
+      "end": 369.46002,
+      "transcript": "you know, even the most recent event that happened with Ani Joshua"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 370.24002,
+      "end": 380.575,
+      "transcript": "Yeah. Yeah. Yeah. You know, like, stuff like that scares them. They see that and they go, oh, man. Like, do you really wanna go back there? And I'm like, it's important. You know? I need to, you"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 381.195,
+      "end": 388.315,
+      "transcript": "know, show the world that I need to show me that, you know, it's great. It's fine. Like, all their stories"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 388.79498,
+      "end": 393.83002,
+      "transcript": "yes. Maybe it happened back back then, but, like, things have changed. Nigeria isn't the same,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 394.29,
+      "end": 396.71,
+      "transcript": "you know, place like it was back in the day."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 397.01,
+      "end": 404.70502,
+      "transcript": "And, you know, it's a a lovely place to visit. Yeah. Dude, it's, like, one of my dream travel destinations. West West Africa in general. Like, I wanna go to Nigeria,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 405.085,
+      "end": 407.42502,
+      "transcript": "Ghana, Benin. So I've been Ghana."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 407.805,
+      "end": 414.865,
+      "transcript": "I've been Nigeria, which, again, but, like Shame when you're here. Bad. It's no. No. I know it's super bad. But I think for me, it's like,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 415.9,
+      "end": 425.59998,
+      "transcript": "you know, when I do go to Nigeria, it's gonna be special. It's gonna be a big moment. We're looking to do it after the World Cup to really, like Nice. Just find"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 426.22,
+      "end": 427.44,
+      "transcript": "time for it."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 427.755,
+      "end": 439.295,
+      "transcript": "You know, I'm you're making sure I have time in the calendar to make it one of the best times for me and my bro. I'm gonna bring my bro as well, and it's just gonna be great. I gotta say some shit to you. Hit me."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 440.39502,
+      "end": 443.15,
+      "transcript": "I love how open your heart is, man. Okay."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 443.61002,
+      "end": 451.15,
+      "transcript": "You're like a really open guy. I I mean, I I feel like I've always I mean, it's definitely helped in my career. You've got some serious"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 451.69,
+      "end": 456.75,
+      "transcript": "fandom in India, especially. Yeah. I I think a lot of Indian guys recognize openness"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 457.315,
+      "end": 468.695,
+      "transcript": "in another dude. Yeah. I feel like you can tell when people are fake. Yeah. Yeah. And I'm I'm myself, and I've always been myself. And, you know, sometimes it's been to my detriment."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 469.23502,
+      "end": 476.72,
+      "transcript": "No. No. No. But it's also also you know, it I guess, it makes me more human. Yeah. It makes it more you know, you're able to"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 477.5,
+      "end": 484.4,
+      "transcript": "empathize and bond more with someone that isn't happy to open themselves. It's resilience, baby. CDM energy."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 485.1,
+      "end": 485.6,
+      "transcript": "Yeah."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 486.125,
+      "end": 488.70502,
+      "transcript": "I did just go on there. I'm sorry. No. That's fine."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 489.165,
+      "end": 493.665,
+      "transcript": "That's all good. Yeah. You've got a beautiful voice. No. I'm so sorry."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 496.92502,
+      "end": 499.105,
+      "transcript": "Oh, you've got, like, one of the most"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 499.565,
+      "end": 500.065,
+      "transcript": "success"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 500.77,
+      "end": 501.27,
+      "transcript": "oriented"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 501.88998,
+      "end": 507.03,
+      "transcript": "arcs that any content creator in the world has ever seen, man. Yeah. Are you happy with this success"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 507.57,
+      "end": 510.31,
+      "transcript": "arc? Of course. Oh, no. No. No. Of course."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 511.01,
+      "end": 518.125,
+      "transcript": "So happy with everything I've done. Everything I've created from, you know, I never thought we'd be in this position."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 518.505,
+      "end": 521.64496,
+      "transcript": "You know? You know, my me, my friends, my family."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 522.345,
+      "end": 523.165,
+      "transcript": "You know? Like,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 524.02496,
+      "end": 525.725,
+      "transcript": "it's crazy what,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 526.105,
+      "end": 534.43005,
+      "transcript": "you know, where YouTube has come from or where YouTube is at right now. I remember when I was making YouTube content"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 534.97003,
+      "end": 537.39,
+      "transcript": "back in, what, 02/2009."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 538.25,
+      "end": 539.385,
+      "transcript": "And I was like,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 539.945,
+      "end": 548.925,
+      "transcript": "this is fun. I'm having the best time. Slavery FIFA. Well, yeah. Right. No. Not even then. This I didn't even do like, I was just playing,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 549.705,
+      "end": 553.305,
+      "transcript": "playing games. I didn't even you didn't hear my voice. You didn't,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 553.78503,
+      "end": 555.60004,
+      "transcript": "see my face. It was just"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 555.98004,
+      "end": 571.78503,
+      "transcript": "me doing FIFA skills, and that was it. And I posted that, and I did compilations and montages, and it was just simple. Like, there was nothing else to it. And I remember my parents being like, I don't know why you spent so much time doing this. You can't make money playing games. This is so pointless."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 572.16504,
+      "end": 574.585,
+      "transcript": "Like, you're wasting your time. You should be studying"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 575.125,
+      "end": 577.54504,
+      "transcript": "education, this, that. And then to see"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 578.325,
+      "end": 578.825,
+      "transcript": "this"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 579.84503,
+      "end": 583.385,
+      "transcript": "scene just explode to what it is now where"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 584.31,
+      "end": 595.19,
+      "transcript": "thousands, hundreds of thousands, if not millions of people are able to have a career because it's just fantastic. Whether it's long form, short form, podcasts, anything, it's just sick. Yeah. Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 595.83,
+      "end": 603.105,
+      "transcript": "Why did you not enjoy boxing as much? Because from the outside looking in, it seems like everyone was enjoying boxing. Yeah."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 603.645,
+      "end": 604.545,
+      "transcript": "You know what?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 604.925,
+      "end": 618.37,
+      "transcript": "You the the only way to really understand is to try it. I used to do I used to do martial arts, judo. Yeah. And I I that was the one aspect of my martial arts I didn't enjoy because I'm a very peaceful, loving guy. Yeah. Yeah. Another person. I'd say"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 619.55,
+      "end": 620.45,
+      "transcript": "the training,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 621.95,
+      "end": 627.08997,
+      "transcript": "how physically and mentally training it is, it's just like nothing else. I'd say"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 627.455,
+      "end": 630.91504,
+      "transcript": "of everything I've done in my life, that is the hardest thing."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 631.455,
+      "end": 635.955,
+      "transcript": "The hardest thing. Really? Think about it. You've got twelve week"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 636.335,
+      "end": 636.835,
+      "transcript": "camp."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 637.615,
+      "end": 638.91504,
+      "transcript": "You've got a fight date."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 639.39,
+      "end": 649.49005,
+      "transcript": "And you're there. Alright. Cool. Let me start. I feel good. I feel pumped. I'm ready. First day, you know, you train. You feel good. You're like, oh, wow. That that was great. And then train again."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 649.87,
+      "end": 661.725,
+      "transcript": "So I'm training twice a day. So I'm training twice, and I'm like, okay. I still feel good. Second day, training twice a day. I'm like, wow. I feel great. This happens over and over again for about a week. End of the week, I'm like, oh, man."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 662.34503,
+      "end": 665.165,
+      "transcript": "I feel really good. There's no problems, anything."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 666.185,
+      "end": 673.75,
+      "transcript": "You know, sparring went well. You know, maybe I was a little tired. Stamina was a bit, you know, wasn't up to standard, but"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 674.77,
+      "end": 675.51,
+      "transcript": "I'm there."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 676.29004,
+      "end": 677.11,
+      "transcript": "Next week,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 677.49,
+      "end": 678.55,
+      "transcript": "you do it again."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 679.17,
+      "end": 679.91003,
+      "transcript": "This time,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 681.01,
+      "end": 685.11,
+      "transcript": "you're getting up not so easily. You know, your back hurts."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 685.565,
+      "end": 688.385,
+      "transcript": "Your legs hurt a bit more, and you're then like, okay."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 689.325,
+      "end": 692.625,
+      "transcript": "This is a little bit harder than it was last week."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 693.165,
+      "end": 693.665,
+      "transcript": "Sparring,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 694.605,
+      "end": 695.825,
+      "transcript": "not doing as well."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 696.205,
+      "end": 699.745,
+      "transcript": "You know, the stamina, the fitness is really starting to get to you."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 700.11,
+      "end": 700.85,
+      "transcript": "Third week,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 702.19,
+      "end": 705.33,
+      "transcript": "you're looking you're waking up. You're like, oh, man. Okay."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 705.95,
+      "end": 707.33,
+      "transcript": "I gotta do this again."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 707.95,
+      "end": 710.05,
+      "transcript": "Then you look at the fight date and you go,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 710.43,
+      "end": 711.08997,
+      "transcript": "I got"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 711.47,
+      "end": 716.795,
+      "transcript": "several weeks of this, and I'm already feeling it. Well, by the seventh, eighth week,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 717.415,
+      "end": 721.515,
+      "transcript": "you're like, why am I doing this? Mhmm. I hate this. This is horrible."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 722.375,
+      "end": 724.235,
+      "transcript": "I'm getting beat up."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 724.53503,
+      "end": 725.195,
+      "transcript": "You know?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 727.16003,
+      "end": 728.86005,
+      "transcript": "I I don't even want to get up anymore."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 729.56,
+      "end": 737.34,
+      "transcript": "I feel ill. Like, my body is starting to shut down because you're just feeling sick, ill, but you just have to fight for it"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 737.735,
+      "end": 738.235,
+      "transcript": "every"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 738.615,
+      "end": 743.115,
+      "transcript": "day. The same thing over and over and over again. And then think of it, that's physically,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 743.735,
+      "end": 746.15497,
+      "transcript": "mentally, you're just there cooked."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 746.695,
+      "end": 751.355,
+      "transcript": "Because of the discipline? Just Require. Having to do it over and over and over again."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 751.68,
+      "end": 756.1,
+      "transcript": "And, bro, I haven't even mentioned the food. The food how much food you have to eat. Bro, like,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 756.48,
+      "end": 759.86,
+      "transcript": "it's the same thing over regimented. Like, just"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 760.32,
+      "end": 760.82,
+      "transcript": "chicken,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 761.6,
+      "end": 769.845,
+      "transcript": "rice, no spice, nothing. Just chicken, rice, bland. And you're yearning for, like, some sweets or some,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 771.585,
+      "end": 777.845,
+      "transcript": "just something that just to spice up your life, and it's just that all the time. You know? Fish"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 778.5,
+      "end": 779.56,
+      "transcript": "and potatoes,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 779.86005,
+      "end": 781.56,
+      "transcript": "and that's it. Like, fish and potatoes,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 782.18,
+      "end": 787.96,
+      "transcript": "chicken and rice, that's it. Back and forth over and over and over and over again, and that's all you're having. And then"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 789.06,
+      "end": 790.44,
+      "transcript": "it just it's like"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 791.14,
+      "end": 792.975,
+      "transcript": "mentally, physically, you're just"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 793.77496,
+      "end": 796.915,
+      "transcript": "finished. It breaks you. And then you still have"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 797.375,
+      "end": 799.15497,
+      "transcript": "to have that energy to wanna fight."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 799.77496,
+      "end": 803.235,
+      "transcript": "And then when you get there, it's like, alright. Cool. I'm at the fight."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 804.01495,
+      "end": 805.875,
+      "transcript": "Oh, no. Why why am I nervous?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 806.27997,
+      "end": 808.38,
+      "transcript": "Oh my god. There's so many people around."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 809.48,
+      "end": 812.77997,
+      "transcript": "So many people depending on me. I got people betting on me."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 813.16,
+      "end": 813.89996,
+      "transcript": "Yeah. Like,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 814.36,
+      "end": 829.45496,
+      "transcript": "I got people telling me that they're betting on me being like, bro, I'm betting on 10 k. Like, I really need you to win this and all of that and all the pressure getting heavier and heavier and heavier and heavier, and then you have to walk out. Even if your legs are jelly, you have to walk out,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 830.07495,
+      "end": 832.095,
+      "transcript": "face your opponent, you know,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 832.795,
+      "end": 834.01495,
+      "transcript": "and then fight them."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 834.475,
+      "end": 836.095,
+      "transcript": "Yes. You win. It's fantastic."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 837.26,
+      "end": 840.8,
+      "transcript": "Best feeling ever. Euphoric. You're over the moon."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 841.42,
+      "end": 842.64,
+      "transcript": "You lose, bro."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 843.74,
+      "end": 845.76,
+      "transcript": "What a waste of my time."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 846.86,
+      "end": 851.725,
+      "transcript": "What a waste. I literally spent twelve weeks of my life killing myself"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 852.505,
+      "end": 854.365,
+      "transcript": "to not get the result I wanted."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 856.185,
+      "end": 858.52496,
+      "transcript": "Did you ever think of a moment"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 859.14496,
+      "end": 865.245,
+      "transcript": "like that Anthony Joshua punch on Jake Paul's jaw? Like, do you ever think of injuries being a possibility"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 865.89,
+      "end": 873.59,
+      "transcript": "during a match? You you think of everything. You think it's the idea of I'm in this ring with someone who's trying to knock me out."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 874.13,
+      "end": 877.83,
+      "transcript": "I don't wanna get knocked out. I don't wanna become a meme. Like,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 878.245,
+      "end": 880.265,
+      "transcript": "I remember the fight I had with Joe Weller."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 880.805,
+      "end": 881.54504,
+      "transcript": "It was"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 882.325,
+      "end": 884.34503,
+      "transcript": "the most important fight in my life."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 884.805,
+      "end": 886.265,
+      "transcript": "If I'd lost that fight,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 887.28503,
+      "end": 897.19,
+      "transcript": "well, I don't think AJ would've fought Jake Paul. I don't think Jake Paul would be fighting. He wouldn't it wouldn't be a thing. Logan wouldn't be fighting. It wouldn't none of this would have happened. Like,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 898.29,
+      "end": 899.75,
+      "transcript": "because I beat Joela,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 900.13,
+      "end": 901.67,
+      "transcript": "and I loved it, and I enjoyed"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 902.85,
+      "end": 909.875,
+      "transcript": "the feeling it gave me. Like, it was hard. Like, I before, I didn't even know how to run. I had to download an app called five"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 910.515,
+      "end": 913.175,
+      "transcript": "couch to five k Yeah. To learn how to run."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 913.555,
+      "end": 922.67004,
+      "transcript": "So it's where you have to walk, then jog for a little bit, then walk, jog for a little bit, and then eventually get to a point where you can just jog without stopping for five k."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 923.21,
+      "end": 924.67004,
+      "transcript": "So, you know,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 925.29004,
+      "end": 927.55005,
+      "transcript": "it's it's just crazy to"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 928.41003,
+      "end": 932.35004,
+      "transcript": "think that, yes, I could afford this guy called Joe Weller"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 932.815,
+      "end": 937.95496,
+      "transcript": "lost, and none of this influencer boxing scene will happen. Well, because I won,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 938.415,
+      "end": 939.795,
+      "transcript": "call out the Paul brothers."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 941.45496,
+      "end": 942.595,
+      "transcript": "The rest is history."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 944.255,
+      "end": 945.15497,
+      "transcript": "Did you ever"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 946.63995,
+      "end": 955.62,
+      "transcript": "speak to Logan and or Jake about what boxing gave you guys in the long term? I don't talk to Jake. Me and Jake don't get on."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 956.95996,
+      "end": 957.94,
+      "transcript": "But with Logan,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 958.765,
+      "end": 961.985,
+      "transcript": "yeah, we taught. Dude, I can't imagine you not getting along with anyone."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 962.445,
+      "end": 976.26996,
+      "transcript": "Really? Yeah. I feel like you're a very you wanna we've had some feuds and all that. Yeah. Yeah. Of course. We see your evolution as well. Yeah. You seem like one of the most, like, like, I'd wanna party with you Yeah. Or, like, vacation with you. Do you know? I'd say yeah. It's"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 976.97,
+      "end": 983.70996,
+      "transcript": "it takes a lot to be on my bad side. Do you have a bad side? I think everyone has a bad side."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 984.075,
+      "end": 987.215,
+      "transcript": "But, like, it's whether you wanna tap into that."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 987.995,
+      "end": 988.495,
+      "transcript": "And"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 989.11505,
+      "end": 996.73505,
+      "transcript": "I don't for me, I don't want to do that. I felt like I had to when I was boxing. I felt like I had to be the nightmare."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 997.755,
+      "end": 998.255,
+      "transcript": "And"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 998.58,
+      "end": 1000.68005,
+      "transcript": "with that, to sell a fight,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1001.22003,
+      "end": 1002.28,
+      "transcript": "you have to be"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1003.14,
+      "end": 1007.32,
+      "transcript": "you have to do stuff to get people to want to watch. You have to find"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1007.86005,
+      "end": 1011.0,
+      "transcript": "ways to get to bring that emotion out of people."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1011.54004,
+      "end": 1012.04004,
+      "transcript": "And,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1012.435,
+      "end": 1014.935,
+      "transcript": "you know, I did some horrible things"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1016.275,
+      "end": 1017.17505,
+      "transcript": "when I was"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1018.195,
+      "end": 1019.815,
+      "transcript": "doing the whole boxing thing."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1020.35504,
+      "end": 1023.09503,
+      "transcript": "But you had that's just how that's the fight game."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1023.955,
+      "end": 1024.4551,
+      "transcript": "And"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1025.3151,
+      "end": 1032.89,
+      "transcript": "I didn't enjoy it. Didn't like it. You feel like you've gained anything from the fighting phase other than, like, the material stuff? I think"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1033.99,
+      "end": 1037.0499,
+      "transcript": "I mean, I didn't even gain much from the material stuff."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1037.35,
+      "end": 1040.73,
+      "transcript": "My fight with Tommy Fury, all the money I made, I gave it to my trainers."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1041.495,
+      "end": 1042.235,
+      "transcript": "All of it."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1042.535,
+      "end": 1043.515,
+      "transcript": "I was just like,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1044.535,
+      "end": 1045.355,
+      "transcript": "I don't I"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1045.655,
+      "end": 1049.595,
+      "transcript": "for me, it's not I don't do stuff for this. I've been offered"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1050.455,
+      "end": 1051.255,
+      "transcript": "20,000,000"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1051.255,
+      "end": 1053.995,
+      "transcript": "to fight Jake Paul, 30,000,000 to fight Jake Paul."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1056.1,
+      "end": 1056.6,
+      "transcript": "People"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1057.2999,
+      "end": 1058.44,
+      "transcript": "these guys can't"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1058.82,
+      "end": 1063.96,
+      "transcript": "give me any amount of money to fight this guy. When it comes to boxing, I'm done. I tried."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1064.58,
+      "end": 1067.32,
+      "transcript": "My main goal when I got into the boxing,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1068.58,
+      "end": 1071.0,
+      "transcript": "ring again was to fight Jake Paul"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1072.9049,
+      "end": 1073.885,
+      "transcript": "and Bill Misfit."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1075.1449,
+      "end": 1076.0449,
+      "transcript": "Bill Misfit"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1077.1449,
+      "end": 1078.5249,
+      "transcript": "tried to fight Jake Paul"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1078.9049,
+      "end": 1080.605,
+      "transcript": "time and time and time again."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1081.225,
+      "end": 1081.885,
+      "transcript": "He just"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1082.4249,
+      "end": 1084.2849,
+      "transcript": "excuse after excuse after excuse."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1085.39,
+      "end": 1092.2899,
+      "transcript": "Instead of Tommy Fury, I was there ready to fight Jake Paul. I was ready. I was there. Let's go. And instead, he fought Nate Diaz."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1092.6699,
+      "end": 1106.585,
+      "transcript": "Mhmm. And at that point, I had to fight Tommy Fury. At that point, I was like, you know what? I think I tried to build up again to then try and fight Jake Yoon, and then he was just getting heavier and heavier and heavier trying to move the goalpost when it comes to weight."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1106.885,
+      "end": 1113.15,
+      "transcript": "Then it got to the point where I was like, what am I doing, man? I'm done. How do you feel about money now at this stage of life?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1113.53,
+      "end": 1114.11,
+      "transcript": "I mean,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1115.61,
+      "end": 1117.5499,
+      "transcript": "for me, money doesn't really drive"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1118.33,
+      "end": 1124.6699,
+      "transcript": "anything for me. I'm at a point where I've made it. I've made it in life. I've smashed it. You know, I've been,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1125.425,
+      "end": 1136.085,
+      "transcript": "you know, at the top of my career for a very, very long time, and it's hard, especially in the space that changes so quickly. To stay, you know, on top, it's it's not easy. But for me, it's all about giving."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1136.545,
+      "end": 1139.6849,
+      "transcript": "Just giving back as much as I can. And, you know,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1140.77,
+      "end": 1146.23,
+      "transcript": "whenever I can help out, I'm always gonna help out. I don't know. I I'm just there. Like, I want"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1146.53,
+      "end": 1203.63,
+      "transcript": "I wanna do more, but I can't because of this boxing thing, and now I can. Now I'm able to really do all the things that I've always wanted to do. Yeah. Dude, I think content creation generally is a really tough career to learn, but once you've learned it, it's all about rhythm. Yes. And and then the rhythm is, like, really enjoyable after a point. Exactly. Yeah. I think that's what you're chasing as well. Yeah. I'm getting I'm getting the rhythm. I'm getting there. Yeah. Like, this this guy, he's, like, a lifelong fan. He's, like, 20, 21. Okay. And I spent, like, two hours with him. We worked together. Yeah. But for the last two hours, we've just been talking about you. Oh, wow. Yeah. What the best thing about me, and then you could say the worst as well. Yeah. I mean and he's watched you for his Yeah. Yeah. Because I always find it intriguing to see what I think the best thing about you is the combat that you make every now and then. Like, when we, you know, things are going down bad for you. Yeah. You've have that mentality to just try and match try and match. Yeah. Yeah. Okay. Yeah. So I think that is the best thing about you. Yeah. And I think I think What about was?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1204.7301,
+      "end": 1206.51,
+      "transcript": "I'm not gonna let you go with that."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1207.1749,
+      "end": 1219.0349,
+      "transcript": "Maybe they cancel everything. Yeah. Yeah. We get we get canceled a lot as well. No. No. No. But that I definitely but so with with that, I think it's quite good because, you know, I know I have a lot of people that look up to me, but,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1219.35,
+      "end": 1223.37,
+      "transcript": "yeah, I've made so many mistakes. But I think it's good that,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1224.15,
+      "end": 1246.27,
+      "transcript": "you know, it's people can see the mistakes I make. It's relatable because then you're like, oh, okay. If I made the mistake and then kept making them, then that's a problem. That's terrible. Yeah. But I think with me, I make a mistake, and I learn from it. And then I try to show that to my audience as well. Like, you have to learn from what you want, you know, from the mistakes that you make. So"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1246.91,
+      "end": 1253.73,
+      "transcript": "I feel like cloning Chris and making a bunch of Chrises hug you What? To give you, like, love right now. God's sake."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1256.11,
+      "end": 1264.385,
+      "transcript": "I don't know. I I just had to say that, bro. No. It's all good. It's all good. I wanna take, like, a tiny tangent. Okay. Go for it. I'm really liking just sitting with you in this one, bro."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1265.485,
+      "end": 1275.51,
+      "transcript": "Sick. It's a great it's a great one. Likewise. Likewise. You've got some great energy. Thank you. Yeah? I I honestly truly believe in energy. Oh, yeah, bro. Yeah. Yeah. I feel like you can"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1276.29,
+      "end": 1279.91,
+      "transcript": "you can tell when there's good energy and when there's bad energy."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1280.37,
+      "end": 1280.87,
+      "transcript": "And,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1281.25,
+      "end": 1281.75,
+      "transcript": "like,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1283.17,
+      "end": 1287.4299,
+      "transcript": "I I I just truly believe, like, if you surround yourself with good energy,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1288.2649,
+      "end": 1291.1649,
+      "transcript": "life becomes beautiful. You attract more of it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1291.465,
+      "end": 1300.11,
+      "transcript": "Right? So I had a massive cancellation around a year ago. Okay. Like, pretty bad. Okay. And I feel I'm a different human, and now I appreciate it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1300.59,
+      "end": 1306.29,
+      "transcript": "Has that happened with you where you appreciate a cancellation from the past? Well, I mean, where do you wanna start?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1307.15,
+      "end": 1308.21,
+      "transcript": "How many cancellations"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1308.51,
+      "end": 1310.13,
+      "transcript": "have I had? Oh, brother."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1311.39,
+      "end": 1322.3151,
+      "transcript": "I've been I've been around for a while, so I've been canceled quite a few times. Yeah. But I always I've always said this. The only person that can cancel you"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1322.6951,
+      "end": 1324.715,
+      "transcript": "is you. Yeah. Is yourself."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1325.415,
+      "end": 1335.78,
+      "transcript": "You like, you can let all get to you, and then you could just go, I'm done. Yeah. And that's it. There's like this You've you've canceled yourself, essentially. Yeah. There's this code that goes,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1336.4801,
+      "end": 1337.38,
+      "transcript": "until death,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1337.8401,
+      "end": 1339.4601,
+      "transcript": "all forms of defeat are psychological."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1340.3351,
+      "end": 1340.8351,
+      "transcript": "Okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1341.8551,
+      "end": 1346.915,
+      "transcript": "Samurai mentality. Woah. I think that's what it takes to stay in content for really long. Yes."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1347.2151,
+      "end": 1352.675,
+      "transcript": "And it's not an easy career to, like, sustain in the long run. No. Do you have, like, footballer friends?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1353.135,
+      "end": 1353.4551,
+      "transcript": "I mean"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1354.17,
+      "end": 1358.1101,
+      "transcript": "Have you got great advice from any footballer? I think Haaland,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1359.8501,
+      "end": 1361.55,
+      "transcript": "when I talked to him, he"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1362.3301,
+      "end": 1367.39,
+      "transcript": "he's it's actually crazy. At such a young age, he was so locked in"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1368.115,
+      "end": 1373.1749,
+      "transcript": "so early, and I, you know, I I was quite jealous of that. Like, I wish I had that lock in"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1373.715,
+      "end": 1376.695,
+      "transcript": "when I was his age. And for him, it's like"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1377.235,
+      "end": 1385.69,
+      "transcript": "I think that's that is important just to stay focused. Imagine all your life was just up up up up up up up up. You'd never appreciate anything."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1386.07,
+      "end": 1391.21,
+      "transcript": "You gotta have some downs. And, bro, the amount of downs I've had, it made me really appreciate"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1391.83,
+      "end": 1393.93,
+      "transcript": "the ups and made me really appreciate,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1394.79,
+      "end": 1397.345,
+      "transcript": "you know, what I have and what I had."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1397.805,
+      "end": 1399.745,
+      "transcript": "And then you go, okay. Cool."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1400.205,
+      "end": 1401.745,
+      "transcript": "Let's work myself up again."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1402.365,
+      "end": 1405.585,
+      "transcript": "Does a bad breakup hurt more or does cancellation hurt?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1406.445,
+      "end": 1412.99,
+      "transcript": "I'd say a bad breakup. Up. More more than Yeah. Yeah. I I think heartbreak is probably one of the worst things."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1413.4501,
+      "end": 1417.4701,
+      "transcript": "Right? Like, way more than being canceled even on, like, a really bad level."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1418.49,
+      "end": 1420.8301,
+      "transcript": "I I think with a heartbreak, it's just"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1422.385,
+      "end": 1427.2051,
+      "transcript": "I don't know. There's it's it's you I don't know how to explain it, but it's just"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1427.745,
+      "end": 1428.245,
+      "transcript": "depression"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1429.905,
+      "end": 1434.5651,
+      "transcript": "at a whole different level. You've imagined this person you're gonna be with for the rest of your life,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1435.105,
+      "end": 1440.26,
+      "transcript": "and then they're not there anymore. And they're gone, and that's it. And there's nothing you can do about it."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1440.8,
+      "end": 1442.18,
+      "transcript": "That is awful."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1442.8,
+      "end": 1444.18,
+      "transcript": "Horrible feeling, man."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1444.64,
+      "end": 1449.38,
+      "transcript": "But then, you know, it takes a while to get over that. And, you know, some some people never really"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1449.875,
+      "end": 1452.295,
+      "transcript": "get over it. They always wonder, like, what if?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1453.395,
+      "end": 1457.175,
+      "transcript": "With a cancellation, it's kinda just like you made a mistake."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1457.795,
+      "end": 1461.015,
+      "transcript": "You learn from it, and then you don't make that mistake again."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1461.4751,
+      "end": 1467.9401,
+      "transcript": "And then you just keep on making content. You just keep going and keep that's it. You just have to keep going. Content doesn't heal breakups."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1468.8,
+      "end": 1469.3,
+      "transcript": "No."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1469.76,
+      "end": 1473.62,
+      "transcript": "No. No. No. No. Not at all. Soft boy hours. What?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1475.28,
+      "end": 1477.2001,
+      "transcript": "No. I I I definitely,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1477.8401,
+      "end": 1479.06,
+      "transcript": "you definitely definitely"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1479.495,
+      "end": 1481.275,
+      "transcript": "doesn't. Soft boy, JJ."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1481.975,
+      "end": 1482.695,
+      "transcript": "Well, I definitely,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1484.135,
+      "end": 1486.235,
+      "transcript": "I respect a lot of people who have"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1486.695,
+      "end": 1494.2699,
+      "transcript": "public relationships. Oh, yeah. No chance. Like, I've been with my girl for eight years. Yeah. Yeah. Well, you are just"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1494.97,
+      "end": 1497.95,
+      "transcript": "no, man. Like, the idea of people knowing"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1498.8099,
+      "end": 1502.6699,
+      "transcript": "everything about her and then people commenting on on your relationship,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1503.5299,
+      "end": 1504.2699,
+      "transcript": "saying whatever."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1505.0499,
+      "end": 1507.3899,
+      "transcript": "Like, bro, you see what even on x,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1508.835,
+      "end": 1510.375,
+      "transcript": "like, Grok, the AI,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1510.835,
+      "end": 1515.255,
+      "transcript": "bro, and you're seeing some crazy stuff where people are just wearing normal clothes,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1515.555,
+      "end": 1519.255,
+      "transcript": "and people are like, oh, Grok, show this person in a bikini"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1519.795,
+      "end": 1523.415,
+      "transcript": "and all of that. And I'm just they're like, it's just so intrusive. But, obviously,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1523.87,
+      "end": 1529.41,
+      "transcript": "you know, it's the Internet. It's gonna do its thing. You can't fight it. But I think it's nice that,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1529.9501,
+      "end": 1531.41,
+      "transcript": "you know, there's a little"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1532.03,
+      "end": 1544.825,
+      "transcript": "part of me that's super special that I don't have to give to the world. I keep trying to explain the same thing to my partner. Yeah. She doesn't fully understand it. Yeah. No. Trust me. But it's it's like a very guy to guy conversation thing. Yeah. It's"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1545.365,
+      "end": 1545.865,
+      "transcript": "it's"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1547.365,
+      "end": 1548.105,
+      "transcript": "way better"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1548.725,
+      "end": 1549.7849,
+      "transcript": "way, way better"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1550.52,
+      "end": 1554.3,
+      "transcript": "private because it's just it's so nice being able to go out"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1555.16,
+      "end": 1562.38,
+      "transcript": "in public with your loved one and not have to worry about them just, you know, taking photos here, the photos there, da da da, or just commenting."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1562.92,
+      "end": 1563.345,
+      "transcript": "Like,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1563.905,
+      "end": 1575.9249,
+      "transcript": "it's just it's the worst thing, man. It's just nice to just be free with this person. Just be able to relax and chill and not just talk about your career or your job all the time. Do you get to be anonymous anywhere?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1576.705,
+      "end": 1578.3,
+      "transcript": "It's hard. It's very"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1579.72,
+      "end": 1580.22,
+      "transcript": "hard."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1581.64,
+      "end": 1582.4601,
+      "transcript": "Not really."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1583.24,
+      "end": 1590.78,
+      "transcript": "Not really. Does it feel like a little bit, like, choking? Do you feel like choking? No. No. I think the only place I can be anonymous is at home"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1591.9601,
+      "end": 1596.025,
+      "transcript": "in my house. But, like, I like being at home, you know, when I'm with my missus"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1596.4851,
+      "end": 1617.8201,
+      "transcript": "and, you know, especially when we just do fun things, like make pizzas together or we play video games together. It takes two. It takes two. Yeah. We we smash through that. We played unraveled or unwra is it unraveled? You know the strings? Oh my god. That's a great game as well. It's like a two player thing. Yeah. Yeah. Yeah. Really? Well, anything co op, or flying games,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1618.68,
+      "end": 1625.045,
+      "transcript": "we're going ham on it. We're we're currently playing portal two. Oh, okay. Do you know the two people in prison?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1625.425,
+      "end": 1627.2051,
+      "transcript": "What's that one? There's one called"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1628.0651,
+      "end": 1630.805,
+      "transcript": "the last ride or the not last of us."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1631.265,
+      "end": 1635.045,
+      "transcript": "It's something but, again, we complete it. Like, we just we play"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1635.76,
+      "end": 1644.82,
+      "transcript": "all types of games when it comes to co op. What do you do when you're completely alone, man? I'm completely alone. Oh, man. Honestly, I just stare at YouTube stats."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1645.6799,
+      "end": 1651.915,
+      "transcript": "Yeah. Yeah. Yeah. Yeah. Just look at Wow. And just I'm just or just, like, ways to improve my YouTube videos."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1653.175,
+      "end": 1654.4751,
+      "transcript": "Play Dragon Ball legends,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1655.255,
+      "end": 1656.3151,
+      "transcript": "just on my phone."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1656.935,
+      "end": 1658.635,
+      "transcript": "You know, watch anime,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1660.375,
+      "end": 1660.875,
+      "transcript": "watch"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1661.175,
+      "end": 1667.67,
+      "transcript": "some some series on, like, Netflix, Amazon Prime. You feel like Dragon Ball z kind of affected your"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1668.4501,
+      "end": 1669.43,
+      "transcript": "adult mind?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1669.81,
+      "end": 1688.125,
+      "transcript": "Yes. Yeah. I keep going back to that thought. My it's literally, like, shaped my childhood, and then I've just grown up with it. Just that never give up mentality. And that's why it's it's quite interesting that you mentioned that. Like, whenever I'm down, I'm always finding a way to, you know, get back up again. Mhmm. I just find the sense of being,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1688.905,
+      "end": 1689.725,
+      "transcript": "and I'm back."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1691.88,
+      "end": 1695.1001,
+      "transcript": "Feel like you you enjoy pain a little bit, man. What?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1695.56,
+      "end": 1697.42,
+      "transcript": "What? Wait. What you got with this?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1698.68,
+      "end": 1701.18,
+      "transcript": "Every Dragon Ball fan enjoys pain. Yeah."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1702.4401,
+      "end": 1704.4601,
+      "transcript": "I mean I mean, I've definitely experienced"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1705.125,
+      "end": 1706.345,
+      "transcript": "all types of pain."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1707.925,
+      "end": 1715.385,
+      "transcript": "Not not really. I don't think anyone enjoys pain. I don't think I'm not like what what do you call people who, like, obsess with pain?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1715.685,
+      "end": 1716.345,
+      "transcript": "A masochistic."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1716.725,
+      "end": 1722.1,
+      "transcript": "Such something like that. Yeah. Like, I'm not I'm not there like, oh, where can I find that"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1723.12,
+      "end": 1724.5,
+      "transcript": "bit of pain? I I'm"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1724.8,
+      "end": 1729.7,
+      "transcript": "feeling for it. No. I'm just like, you know, if it happens, it happens, and then you just"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1730.16,
+      "end": 1731.135,
+      "transcript": "move on. Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1731.855,
+      "end": 1733.395,
+      "transcript": "So have you heard of the wedding?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1733.6951,
+      "end": 1736.735,
+      "transcript": "It was this big wedding that you know about it. Yes. Of course."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1737.215,
+      "end": 1737.715,
+      "transcript": "So,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1738.015,
+      "end": 1742.995,
+      "transcript": "I was at the wedding, and I met John Cena at the wedding. Wow. And so I spent about"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1743.3401,
+      "end": 1745.6001,
+      "transcript": "twenty to thirty minutes talking to him. That's incredible."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1745.9801,
+      "end": 1748.8,
+      "transcript": "And he said something that I think he told Kai as well."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1749.1001,
+      "end": 1751.76,
+      "transcript": "He said that the most important thing in life for him"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1752.06,
+      "end": 1756.4801,
+      "transcript": "is to just be useful every day. That's the purpose of life according to John Cena."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1756.975,
+      "end": 1759.5549,
+      "transcript": "That's interesting. Yeah. And all this last one year,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1760.095,
+      "end": 1762.355,
+      "transcript": "that's where my ball lands as well."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1762.735,
+      "end": 1766.5149,
+      "transcript": "Like, I feel like, yeah, that that's right. That's how I Just be useful. Like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1766.815,
+      "end": 1779.8,
+      "transcript": "depending on the person you're with or Whatever it is. Whatever it is. Just be be of use to people, the world, your work, your teammates, all that. That's quite it's quite good. How how far ahead do you visualize"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1780.74,
+      "end": 1785.2849,
+      "transcript": "career or life or whatever? How far ahead? Well, I I, you know, I see"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1785.6649,
+      "end": 1786.725,
+      "transcript": "me doing content"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1787.105,
+      "end": 1788.885,
+      "transcript": "probably for the rest of my life."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1789.265,
+      "end": 1791.445,
+      "transcript": "You know, even when I'm, like, 70, 80,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1792.065,
+      "end": 1795.9249,
+      "transcript": "I think yeah. I mean, I don't know what the content's gonna be."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1797.4199,
+      "end": 1799.4199,
+      "transcript": "I'm still doing try not to laugh, so"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1801.1,
+      "end": 1803.36,
+      "transcript": "or I'm there doing a vlog like, alright."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1803.9,
+      "end": 1805.44,
+      "transcript": "I'm finally in Nigeria."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1807.66,
+      "end": 1809.52,
+      "transcript": "We did it, boys and girls."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1811.3351,
+      "end": 1816.4751,
+      "transcript": "Like, for me, I just I love it. I just love making content, man. It's just"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1817.3351,
+      "end": 1823.675,
+      "transcript": "like, I think even if I had no money, no fame, whatever, I'd always still be making content."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1823.99,
+      "end": 1830.49,
+      "transcript": "And, I mean, I I did I did. I didn't have money at the beginning. I didn't have fame, and I just made content."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1830.79,
+      "end": 1831.6901,
+      "transcript": "So it's"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1832.55,
+      "end": 1833.37,
+      "transcript": "I've always"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1834.31,
+      "end": 1836.65,
+      "transcript": "just loved it. Like, it's just been"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1837.895,
+      "end": 1840.155,
+      "transcript": "a thing. How was life before content?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1841.735,
+      "end": 1843.9149,
+      "transcript": "I mean, I was definitely I was just, like,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1844.615,
+      "end": 1845.9149,
+      "transcript": "a introverted kid,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1847.015,
+      "end": 1848.5549,
+      "transcript": "who would just play games."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1848.855,
+      "end": 1857.0801,
+      "transcript": "You know, with school, I was just like, it's whatever. Like, you know, I'm just doing it. But, like, then when I got back home to play, like, Call of Duty four,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1857.4601,
+      "end": 1858.36,
+      "transcript": "oh my god."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1858.66,
+      "end": 1870.785,
+      "transcript": "The excitement. And then being able like, especially during, like, the summer break, just playing Call of Duty four over and every single day with my mate. And then just going online and seeing people play games"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1871.245,
+      "end": 1874.465,
+      "transcript": "and record themselves doing it. I was there like, oh my god. This is"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1874.845,
+      "end": 1888.41,
+      "transcript": "this is the dream. I'd love to do this, and then eventually, I made it happen. And, obviously, you know, I've already talked about this, but, yeah, I just you know, I'd when it came to school, I wasn't really, like didn't really speak to me. But"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1888.95,
+      "end": 1889.61,
+      "transcript": "I think"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1890.39,
+      "end": 1890.89,
+      "transcript": "nowadays,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1891.59,
+      "end": 1903.005,
+      "transcript": "you you can kinda tell, like, not everyone is super academic. You know, there's other jobs. You know? P you got people who are very good at sports. You're good you got people who are very good at making content."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1903.305,
+      "end": 1906.365,
+      "transcript": "You know? Good at good people. People are just great at talking."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1906.665,
+      "end": 1916.97,
+      "transcript": "Like, you know, us doing this. Like, I wanted to come here. I think this is a huge you know, sick sick thing for us. I'm glad. No. Yeah. Right here, bro. Like like, I've seen"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1917.75,
+      "end": 1919.5099,
+      "transcript": "you doing podcasts with,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1920.1499,
+      "end": 1924.33,
+      "transcript": "Jimmy, a few others guys, and I'm just there, like, you know,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1924.895,
+      "end": 1927.475,
+      "transcript": "why am I not able to do this? And, like,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1928.4149,
+      "end": 1933.395,
+      "transcript": "people were great at just all types of stuff. And now, you know, we live in a world where"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1933.855,
+      "end": 1934.9149,
+      "transcript": "you can make a job"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1935.455,
+      "end": 1936.195,
+      "transcript": "with anything."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1936.93,
+      "end": 1945.8301,
+      "transcript": "I totally agree with what you're saying. Mhmm. But I also feel like the world is progressively becoming sadder, and that's why you need more jokes and shit talking in the world."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1948.13,
+      "end": 1950.71,
+      "transcript": "I think I think a lot of people are just"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1951.405,
+      "end": 1952.705,
+      "transcript": "putting out their frustrations,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1953.245,
+      "end": 1954.545,
+      "transcript": "their anger because,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1955.165,
+      "end": 1955.825,
+      "transcript": "you know,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1956.365,
+      "end": 1957.585,
+      "transcript": "life's tough."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1958.205,
+      "end": 1958.705,
+      "transcript": "And,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1959.165,
+      "end": 1964.385,
+      "transcript": "you know, sometimes the only way to get it out is, you know, online anonymously."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1964.845,
+      "end": 1966.7899,
+      "transcript": "Yeah. And, you know,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1968.21,
+      "end": 1969.51,
+      "transcript": "with the Internet, it's"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1970.85,
+      "end": 1973.19,
+      "transcript": "it's crazy. We we use the Internet"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1973.8099,
+      "end": 1975.59,
+      "transcript": "back in the day as a way to"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1976.69,
+      "end": 1977.6699,
+      "transcript": "connect people."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1978.0499,
+      "end": 1980.95,
+      "transcript": "But now sometimes you feel like the Internet is"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1982.725,
+      "end": 1984.345,
+      "transcript": "making things a lot more lonely."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1985.525,
+      "end": 1989.065,
+      "transcript": "And The next time you feel lonely, we've always got Chris with you."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1990.885,
+      "end": 1992.965,
+      "transcript": "I know he's here all the time, bro. He's"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1994.485,
+      "end": 1998.8,
+      "transcript": "but no. But it's There's so much imagery I'm getting in my head about Chris and you, bro."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1999.8201,
+      "end": 2000.48,
+      "transcript": "Oh, gosh."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2001.42,
+      "end": 2003.12,
+      "transcript": "We're gonna be making fan"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2003.42,
+      "end": 2004.48,
+      "transcript": "dramas of us."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2006.78,
+      "end": 2012.1549,
+      "transcript": "I don't even know why I'm doing this, Steve. No. No. It's fine. You think we'll get canceled after this episode?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2012.7749,
+      "end": 2021.0349,
+      "transcript": "No. I I think I think we've been pretty chill. I mean, I don't think there's anything that could be honestly, these days, it's hard to tell, man."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2022.7749,
+      "end": 2023.4349,
+      "transcript": "And then"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2023.815,
+      "end": 2026.1549,
+      "transcript": "you learn, and then you keep pushing."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2027.17,
+      "end": 2032.23,
+      "transcript": "Dude, you know, I wouldn't mind going to jail with you. Okay. If if you and me both go to jail together,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2032.61,
+      "end": 2035.25,
+      "transcript": "I think we'd have a good time. We play football and, like"
+    },
+    {
+      "speaker_id": 2,
+      "speaker_label": "Speaker 3",
+      "start": 2037.65,
+      "end": 2039.415,
+      "transcript": "We could just be bros"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2039.735,
+      "end": 2040.795,
+      "transcript": "outside the channel."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2041.3351,
+      "end": 2042.395,
+      "transcript": "We could just do that."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2042.6951,
+      "end": 2050.955,
+      "transcript": "We could just do that. I feel like I'm gonna travel to Nigeria with you at some point. Yeah. Yeah. Yeah. Yeah. When are you planning on going? So after World Cup."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2051.495,
+      "end": 2052.475,
+      "transcript": "Like, July,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2052.7751,
+      "end": 2056.4102,
+      "transcript": "August? I think it's probably around August. Yeah. August, September."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2056.87,
+      "end": 2060.73,
+      "transcript": "Who do you think is winning this year? What? The World Cup? Yeah. Oh, man."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2061.03,
+      "end": 2062.6501,
+      "transcript": "I think it's between three teams."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2064.6301,
+      "end": 2065.1301,
+      "transcript": "England,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2067.75,
+      "end": 2068.25,
+      "transcript": "Spain,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2068.9749,
+      "end": 2069.4749,
+      "transcript": "France."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2070.015,
+      "end": 2071.075,
+      "transcript": "France. Yeah?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2071.4548,
+      "end": 2073.555,
+      "transcript": "Yeah. I think There's there's no"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2073.935,
+      "end": 2080.675,
+      "transcript": "fourth team that's even near these three in terms of quality. I mean I mean, I mean, you might have Ronaldo fanboys"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2081.055,
+      "end": 2083.43,
+      "transcript": "or Messi fanboys who go Argentina"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2084.21,
+      "end": 2085.3499,
+      "transcript": "or Portugal."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2085.73,
+      "end": 2087.19,
+      "transcript": "But I just think,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2087.65,
+      "end": 2089.5898,
+      "transcript": "oh my god. Like, the teams,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2090.13,
+      "end": 2090.8699,
+      "transcript": "the players"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2092.05,
+      "end": 2100.415,
+      "transcript": "that these countries have, man, including, you know, England. It's just phenomenal. Like, we have so many good players. But then I look at France."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2101.0352,
+      "end": 2102.2551,
+      "transcript": "They have, like, insane"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2102.955,
+      "end": 2104.0151,
+      "transcript": "11, you know,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2104.5552,
+      "end": 2107.455,
+      "transcript": "11 players. And then you look at their bench, and you're like,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2108.155,
+      "end": 2108.895,
+      "transcript": "oh my god."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2109.3552,
+      "end": 2109.8552,
+      "transcript": "What?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2110.5552,
+      "end": 2114.29,
+      "transcript": "It's just wild. Like, that's what I mean. Like, with a lot of these teams,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2114.59,
+      "end": 2116.37,
+      "transcript": "they have an insane bench."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2116.83,
+      "end": 2118.85,
+      "transcript": "It's it just makes such a difference."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2119.23,
+      "end": 2126.21,
+      "transcript": "Dude, I love I love traveling in England, man. Yeah. Yeah. England's nice. England's nice. Especially during the summer. It's lovely. It's how it should be, man. Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2126.945,
+      "end": 2131.525,
+      "transcript": "I have a lot of bros from, like, Nigeria and Ghana because I've a lot of content creators."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2131.825,
+      "end": 2133.125,
+      "transcript": "They're very chilled out guys."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2133.7449,
+      "end": 2144.88,
+      "transcript": "Maybe it's Nigerian jeans speaking. No. I I I definitely can be very, very chilled. Yeah. Yeah. Especially at home. Just, well, like, nothing better than just watching some Premier League chilling"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2145.42,
+      "end": 2148.24,
+      "transcript": "with my missus or just watching a movie."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2149.2598,
+      "end": 2152.48,
+      "transcript": "Oh, bro. Like, just just at home with my cats."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2153.0999,
+      "end": 2154.64,
+      "transcript": "Yeah. You know, in India,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2155.205,
+      "end": 2156.5051,
+      "transcript": "most football fans,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2157.605,
+      "end": 2163.865,
+      "transcript": "watch more EPL than we watch our Indian league. Okay. Yeah. And and, also, the Indian league currently"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2164.165,
+      "end": 2165.705,
+      "transcript": "is not on. Okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2166.085,
+      "end": 2169.605,
+      "transcript": "Like like our captain, vice captain, all these guys have made videos about"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2170.66,
+      "end": 2187.0752,
+      "transcript": "they've they've kind of in a very what the is happening zone. Mhmm. And it's really sad for, like, Indian football fans. And I've been watching football for twenty five years now. Yeah. And every year, I hope that, you know, we'll get better. Things get better. Yeah. But it doesn't, man. And, it's not getting better because"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2188.0151,
+      "end": 2200.53,
+      "transcript": "the the ecosystem doesn't get support. Yeah. And, also, apparently, I've seen all the African teams get really good in the last twenty five years. Yeah. Yeah. Yeah. Yeah. And there's lots of people here. So mathematically I'd say, like like, with the Premier League, like,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2201.17,
+      "end": 2214.23,
+      "transcript": "it's probably one of the most watched leagues in the world. It's probably one of the most competitive leagues in the world. It's the most fun league to win. Well, it's just you have all the best players from all over the place coming there. But it just, yeah, it just takes time. And,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2214.565,
+      "end": 2234.72,
+      "transcript": "you know, hopefully, you know, the situation that you mentioned gets things get better. Yeah. Anyone else mentioned this to you with this Indian football situation? Never. No? First time. You're gonna hear it a lot in the coming weeks. Okay. Really. Yeah. Because a lot of the guys who watch our stuff are also football fans. Oh, okay. Lots of people are gonna come up and tell you about this. Yeah. Okay. Yeah. Say something for Indian football."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2235.26,
+      "end": 2236.96,
+      "transcript": "Well, I mean yeah. Well, let's"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2237.42,
+      "end": 2237.92,
+      "transcript": "let's"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2238.6199,
+      "end": 2239.1199,
+      "transcript": "increase"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2239.58,
+      "end": 2243.44,
+      "transcript": "the increase the money for the players, man. Like, there's a lot of Indian players"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2244.0652,
+      "end": 2248.725,
+      "transcript": "that, you know, want to play football, wanna do do well. You know, maybe even"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2249.1052,
+      "end": 2249.6052,
+      "transcript": "enter"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2250.0652,
+      "end": 2260.9,
+      "transcript": "well, I mean, I think it'd be great. It's great for the Indian football team in gen in general. Like, I wanna see India in the World Cup smashing it. Yeah. And the best way to do that is to fund"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2262.56,
+      "end": 2263.22,
+      "transcript": "the country,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2263.76,
+      "end": 2277.065,
+      "transcript": "fund the people in the country. I think money is available. And and I'm not saying this. We had an owner of one of the teams on the show. He's also a big film star. He said it on the show. Okay. So people are very aware that there's corruption and Yeah."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2277.465,
+      "end": 2284.205,
+      "transcript": "Issues, but it is what it is, man. Yeah. Well, yeah, I I need to educate myself on it a bit more."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2285.4,
+      "end": 2288.6199,
+      "transcript": "It's I think you've spent, like, twenty four hours in India? Less?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2289.4,
+      "end": 2292.46,
+      "transcript": "Less. Yeah. It's I'd I'd say I've got"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2293.16,
+      "end": 2294.14,
+      "transcript": "how many hours?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2294.44,
+      "end": 2297.74,
+      "transcript": "I'd say six more hours, and then there's twenty four hours. Yeah."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2298.44,
+      "end": 2302.295,
+      "transcript": "But you've been here twice? This is my third time. Okay. So the first time I came,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2303.075,
+      "end": 2305.2551,
+      "transcript": "was a school trip. This was before I was KSI."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2305.955,
+      "end": 2310.275,
+      "transcript": "School trip. Damn. Yeah. Yeah. Talk about that, bro. Why why? I went just,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2310.675,
+      "end": 2311.975,
+      "transcript": "to help out an orphanage"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2312.435,
+      "end": 2313.2551,
+      "transcript": "and to teach,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2313.955,
+      "end": 2315.2551,
+      "transcript": "some students English."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2316.09,
+      "end": 2318.11,
+      "transcript": "Damn. Yeah. Just You were in Mumbai?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2318.4102,
+      "end": 2318.9102,
+      "transcript": "Alright."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2319.37,
+      "end": 2322.83,
+      "transcript": "I don't know exactly where I was. I was in India,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2323.29,
+      "end": 2328.35,
+      "transcript": "but I don't remember. And I'm going to find out. It's on my I can actually"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2328.6501,
+      "end": 2330.03,
+      "transcript": "I can show you pictures."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2330.615,
+      "end": 2333.255,
+      "transcript": "It's on my Facebook. When was this? This was"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2334.615,
+      "end": 2336.795,
+      "transcript": "I can tell you now, actually. 2007."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2337.7349,
+      "end": 2338.2148,
+      "transcript": "What the"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2338.9348,
+      "end": 2341.6748,
+      "transcript": "I'm not too young. When Thierry Henry left Arsenal."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2343.94,
+      "end": 2344.44,
+      "transcript": "And"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2344.82,
+      "end": 2346.76,
+      "transcript": "went to win the Champions League at Barcelona."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2347.7,
+      "end": 2359.145,
+      "transcript": "Ah, stop. I love Thierry Henry, though, dude. No. No. He's I I I met I met him before he's Oh, really? Well, yeah. Yeah. A few times now. He's How do you feel meeting Henry for the first time? Well, it was, like, such a surreal moment."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2359.605,
+      "end": 2361.7852,
+      "transcript": "Like, my heart was, like, doing this."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2362.325,
+      "end": 2365.145,
+      "transcript": "Well, because he was the reason why I became"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2365.605,
+      "end": 2366.665,
+      "transcript": "an Arsenal fan."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2367.125,
+      "end": 2369.705,
+      "transcript": "Yeah. Like, my grandma gave me"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2370.085,
+      "end": 2371.945,
+      "transcript": "an an Arsenal top,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2372.65,
+      "end": 2377.71,
+      "transcript": "And, like, I was like, oh, this is cool. And then I'd watch Arsenal games, and I was like, oh my god."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2378.01,
+      "end": 2379.47,
+      "transcript": "Yeah. This is cool."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2379.77,
+      "end": 2381.79,
+      "transcript": "Like, he just made me love"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2382.49,
+      "end": 2391.505,
+      "transcript": "Arsenal. Dude, he's one of those players that you can't hate even if like, I support United. Yeah. They're lifelong United. Oh my god. United are definitely going through right now, man."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2392.125,
+      "end": 2393.805,
+      "transcript": "Like, I think but who you,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2394.285,
+      "end": 2395.345,
+      "transcript": "you've got Socier"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2395.645,
+      "end": 2397.905,
+      "transcript": "now? Yeah. I mean, I know it's Stanley, like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2398.285,
+      "end": 2398.785,
+      "transcript": "Fletch."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2399.68,
+      "end": 2404.34,
+      "transcript": "I I hope it I hope it's Roy Keane, honestly. Yeah. I hope Roy Keane gets"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2404.6401,
+      "end": 2407.3801,
+      "transcript": "a shot at it. Well, I just I just feel like"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2408.72,
+      "end": 2410.58,
+      "transcript": "you guys are just so indecisive."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2411.28,
+      "end": 2411.78,
+      "transcript": "Like,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2412.665,
+      "end": 2413.165,
+      "transcript": "with"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2413.625,
+      "end": 2419.565,
+      "transcript": "with with a manager, it takes time Yeah. For their for for their philosophy to eventually get"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2420.025,
+      "end": 2421.2449,
+      "transcript": "through. And,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2421.785,
+      "end": 2426.525,
+      "transcript": "you know, with Arteta, we've given them time, but he hasn't won"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2427.3801,
+      "end": 2433.32,
+      "transcript": "many things for us, but he's created this die hard culture fan fan base. And"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2433.86,
+      "end": 2436.2,
+      "transcript": "people just love him, what he's created."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2436.58,
+      "end": 2437.08,
+      "transcript": "And"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2437.78,
+      "end": 2444.375,
+      "transcript": "look at us. We're one of the best teams in the Premier League, and he's done that. He created that. He allowed that to happen."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2444.755,
+      "end": 2445.255,
+      "transcript": "And,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2445.795,
+      "end": 2446.4548,
+      "transcript": "you know,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2446.9148,
+      "end": 2456.8599,
+      "transcript": "we gave him time to get to that. But it hasn't been all up. It's been several several downs. But Especially at the start. Yeah. Yeah. But but because we gave him time to do his thing,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2457.48,
+      "end": 2458.6199,
+      "transcript": "now look. We're flourishing."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2458.92,
+      "end": 2461.8198,
+      "transcript": "And now The best side, we're gonna win the Premier League."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2462.3599,
+      "end": 2464.22,
+      "transcript": "Maybe maybe the Champions League also?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2465.0798,
+      "end": 2468.7,
+      "transcript": "Well, that's what I mean. Like, it's we're just that good now."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2469.595,
+      "end": 2472.415,
+      "transcript": "But it'll be really fun if you guys don't win again."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2472.875,
+      "end": 2476.495,
+      "transcript": "It'll be fun for, like, the other Well, really? I bet. I bet, man."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2477.915,
+      "end": 2484.175,
+      "transcript": "Everyone wants us to lose, man. That's just as as Arsenal fans, you just have to accept that everyone"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2484.69,
+      "end": 2485.67,
+      "transcript": "is against you."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2486.77,
+      "end": 2492.95,
+      "transcript": "Yeah. I mean but, you know, when I was a kid, the first season I saw was the 2002 season, the Invincibles season. Yes. Yes."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2493.25,
+      "end": 2496.39,
+      "transcript": "And since then, I've, like, distantly admired"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2496.69,
+      "end": 2499.2449,
+      "transcript": "Arsenal for whatever at least, it's pretty football."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2499.785,
+      "end": 2503.4849,
+      "transcript": "Yeah. Yeah. And and I miss being a kid seeing those four teams do well."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2503.785,
+      "end": 2508.045,
+      "transcript": "Yeah. I miss that era. Yeah. Yeah. You and I are not really on our level anymore."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2508.665,
+      "end": 2511.005,
+      "transcript": "Yeah. Yeah. I need to break your mind."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2511.7048,
+      "end": 2517.51,
+      "transcript": "It it's just And it's in in another room. Now it's just yeah. Arsenal and Manseil really going back to back. I guess"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2518.1301,
+      "end": 2527.43,
+      "transcript": "Liverpool as well. Yeah. Chelsea, I don't know what's going on with them. I'm waiting for Jude Bellingham to come back to the EPL. I know he's gonna come back at some point. You think? Oh, yes."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2528.0151,
+      "end": 2531.0752,
+      "transcript": "He she needs to. He needs to do it for his own country."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2531.615,
+      "end": 2536.2751,
+      "transcript": "Yeah. I think I think if he won the World Cup with England, I think he'd be alright."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2536.735,
+      "end": 2539.475,
+      "transcript": "Yeah. I think I think the English press"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2539.7751,
+      "end": 2540.675,
+      "transcript": "aren't great"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2541.455,
+      "end": 2542.915,
+      "transcript": "to certain people. So"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2543.26,
+      "end": 2544.08,
+      "transcript": "I think for"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2544.78,
+      "end": 2546.8,
+      "transcript": "his sake, his mindset, for his"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2547.4202,
+      "end": 2554.32,
+      "transcript": "psyche, it's better if he's just in Spain. And he's killing it in Spain. Yeah. But, like, if he wants to come back, he can. But,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2554.86,
+      "end": 2560.9749,
+      "transcript": "yeah, it's English person ain't great. Yeah. Bro, one of my wildest life moments being a content creator"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2561.515,
+      "end": 2577.43,
+      "transcript": "was podcasting with Rio Ferdinand. Yeah. That, like, scene I saw that. Yeah. Who had seen, like, growing up. Yeah. Yeah. Yeah. Across, and I was just, like, talking to this guy I've used on FIFA. Yep. Yep. Yep. That was a wild feeling. Yeah. But, you know, at the end of the podcast, I asked him about his mental health,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2577.81,
+      "end": 2582.23,
+      "transcript": "and he said that it's still up and down. Yeah. In fact, that makes you, like, really think, man. Well,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2582.85,
+      "end": 2583.51,
+      "transcript": "I think"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2584.45,
+      "end": 2586.79,
+      "transcript": "everyone is coming up and down. But,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2587.1648,
+      "end": 2587.7449,
+      "transcript": "you know,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2588.365,
+      "end": 2590.7048,
+      "transcript": "as long as you have someone close to you"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2591.6448,
+      "end": 2592.785,
+      "transcript": "to talk to you,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2593.325,
+      "end": 2595.9849,
+      "transcript": "to communicate with, especially when you're having problems,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2596.4448,
+      "end": 2597.505,
+      "transcript": "I think that's great."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2597.8848,
+      "end": 2598.3848,
+      "transcript": "And,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2599.1648,
+      "end": 2603.76,
+      "transcript": "you know, don't ever keep stuff in. If you've got a problem, speak speak to someone."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2604.22,
+      "end": 2605.44,
+      "transcript": "In the world of content,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2605.74,
+      "end": 2611.2,
+      "transcript": "are the Sidemen guys your best bros? Yeah. I'd say they're good friends. Yeah. Yeah. Really, really good friends."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2611.5,
+      "end": 2614.16,
+      "transcript": "Are you allowed to talk about that closed door meeting that happened"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2614.4949,
+      "end": 2617.555,
+      "transcript": "where you guys have discussed the future of Sidemen in detail?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2618.095,
+      "end": 2618.595,
+      "transcript": "Oh."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2619.935,
+      "end": 2621.155,
+      "transcript": "Oh, that's interesting."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2621.935,
+      "end": 2624.9949,
+      "transcript": "Where have you heard that from? We've had several meetings,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2625.615,
+      "end": 2630.53,
+      "transcript": "just about what we want for the future and everything. And, you know, I'd say"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2632.03,
+      "end": 2632.69,
+      "transcript": "life happens."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2633.31,
+      "end": 2634.53,
+      "transcript": "Life definitely happens."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2637.15,
+      "end": 2638.3699,
+      "transcript": "Some people have kids."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2639.07,
+      "end": 2641.41,
+      "transcript": "You know? Some people, you know, getting married"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2641.71,
+      "end": 2644.53,
+      "transcript": "or are married. And, you know, just millennial problems."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2644.845,
+      "end": 2647.825,
+      "transcript": "Well yeah. And you gotta remember, like, life isn't how it was"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2648.205,
+      "end": 2652.625,
+      "transcript": "ten years ago. Like, when we started, you know, we were just free"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2652.925,
+      "end": 2656.145,
+      "transcript": "and able to do whatever. Whereas now, it's like, oh, there's there's"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2656.525,
+      "end": 2657.585,
+      "transcript": "a lot more responsibility."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2658.205,
+      "end": 2662.21,
+      "transcript": "Yeah. So, you know, not everyone has the same goals."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2662.83,
+      "end": 2664.05,
+      "transcript": "And it's"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2665.55,
+      "end": 2666.53,
+      "transcript": "to think about"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2667.07,
+      "end": 2668.77,
+      "transcript": "seven people getting on"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2669.79,
+      "end": 2670.69,
+      "transcript": "all the time"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2671.71,
+      "end": 2673.65,
+      "transcript": "for several, several years, it's,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2674.5051,
+      "end": 2675.3452,
+      "transcript": "yeah, it's"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2675.7852,
+      "end": 2680.605,
+      "transcript": "Not as simple as It's not as simple. It's not as simple. So, you know, there's definitely gonna be some ups and downs,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2681.385,
+      "end": 2686.2651,
+      "transcript": "but we I think we work it out. We definitely work it out most of the time, and we,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2687.1501,
+      "end": 2687.6501,
+      "transcript": "you"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2688.83,
+      "end": 2692.37,
+      "transcript": "know, we try to hang out outside of us filming."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2692.9102,
+      "end": 2695.8901,
+      "transcript": "But, again, sometimes it's hard sometimes it's hard to just"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2696.27,
+      "end": 2699.97,
+      "transcript": "do that. So sometimes a lot of time when we see each other's when we're filming."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2701.215,
+      "end": 2714.115,
+      "transcript": "So Do you have, like, adult bro conversations with them? I've started doing that a lot with my bros. Like, oh, yeah. Having kids. Yeah. Yeah. Yeah. Wife being No. We definitely chat. We definitely chat. We have a, you know, WhatsApp where we just talk and everything, but,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2714.495,
+      "end": 2717.35,
+      "transcript": "you know, it's it's it's one of the things where,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2718.05,
+      "end": 2722.79,
+      "transcript": "you know, we we've always got each other's back. Mhmm. So yeah. No. Fair."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2725.09,
+      "end": 2728.1501,
+      "transcript": "What advice do you give to someone like Speed?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2728.665,
+      "end": 2730.205,
+      "transcript": "Does he ever ask you for advice?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2731.305,
+      "end": 2737.165,
+      "transcript": "Not really. Not really. I think I think he's got it covered. It's kinda one of the things where I don't know."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2737.465,
+      "end": 2743.725,
+      "transcript": "You sometimes you don't you feel like you don't need advice. He's gonna just do his thing. Flow state. Yeah. Yeah. Yeah. And,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2744.06,
+      "end": 2744.64,
+      "transcript": "you know,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2745.42,
+      "end": 2747.2,
+      "transcript": "people normally ask for advice"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2747.9,
+      "end": 2748.4,
+      "transcript": "when"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2749.34,
+      "end": 2750.48,
+      "transcript": "they're not up anymore,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2751.1,
+      "end": 2753.28,
+      "transcript": "if that makes sense. Like, when they're down"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2753.66,
+      "end": 2756.0,
+      "transcript": "and they're going through it, that's the only one people"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2756.4248,
+      "end": 2759.1648,
+      "transcript": "ask for help and ask, you know, advice. So,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2759.785,
+      "end": 2764.365,
+      "transcript": "you know, if he ever gets that point, I pray he doesn't. But if he ever does,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2765.1448,
+      "end": 2769.2449,
+      "transcript": "I'm always there. He yeah. But he will because that's just the nature of content creation."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2769.56,
+      "end": 2773.82,
+      "transcript": "Well, yeah. Of course. Of course. Like, yeah. You you you you can be the guy"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2774.44,
+      "end": 2778.7,
+      "transcript": "for a period of time, and then eventually, you you're not the guy. And then it's like,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2779.32,
+      "end": 2782.46,
+      "transcript": "how do you handle that? How do you deal with that? Or,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2783.225,
+      "end": 2785.245,
+      "transcript": "yeah, what do you deal with that? And"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2786.0251,
+      "end": 2787.645,
+      "transcript": "it's kinda just like"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2788.185,
+      "end": 2791.085,
+      "transcript": "yeah. I mean, I think that's where it's good to just,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2792.185,
+      "end": 2793.085,
+      "transcript": "you know, talk"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2793.545,
+      "end": 2797.18,
+      "transcript": "just talk to people. Talk to people who are experienced and know"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2798.76,
+      "end": 2799.42,
+      "transcript": "the mistakes"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2800.04,
+      "end": 2801.66,
+      "transcript": "that have been made in the past"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2802.3599,
+      "end": 2802.8599,
+      "transcript": "that"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2803.16,
+      "end": 2804.46,
+      "transcript": "they can learn from."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2805.3198,
+      "end": 2816.055,
+      "transcript": "You know, I kinda believe that it's true for any career. Mhmm. Like a football career, content career. I think it happens everywhere. You see a low, but it's about how you handle yourself in that phase."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2816.355,
+      "end": 2820.055,
+      "transcript": "Yeah. Yeah. That's that is probably the most important place"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2821.395,
+      "end": 2832.1301,
+      "transcript": "that the the determines character of a person. You know? When someone's smashing and, you know, killing it in the game and, you know, everything's happening and they're just over the moon and,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2832.4302,
+      "end": 2839.4102,
+      "transcript": "you know, getting loads of likes and low getting loads of followers and all this and that. You know? It's how you treat people at that period"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2840.755,
+      "end": 2841.415,
+      "transcript": "is important"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2841.715,
+      "end": 2843.975,
+      "transcript": "because when you get to the low low"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2844.9949,
+      "end": 2845.4949,
+      "transcript": "period,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2845.795,
+      "end": 2850.535,
+      "transcript": "people remember how you were when you're up there. And if you treat people like shit"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2850.9949,
+      "end": 2852.375,
+      "transcript": "and you are not nice,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2853.0698,
+      "end": 2860.8499,
+      "transcript": "then they're gonna take that with you when you're low down there, and they're gonna just not give you an olive branch and not help you at all. So,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2861.5498,
+      "end": 2862.0498,
+      "transcript": "ultimately,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2863.23,
+      "end": 2864.21,
+      "transcript": "the best advice,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2865.645,
+      "end": 2870.785,
+      "transcript": "just be nice to everyone, man. Treat everyone with respect, whether they're the cleaner,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2871.325,
+      "end": 2873.585,
+      "transcript": "whether they're they're as a runner,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2874.045,
+      "end": 2881.3499,
+      "transcript": "or whether they're a CEO, whether they're the most famous person, or who cares. They're all the same. Yeah. Hustle, loyalty, respect."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2882.21,
+      "end": 2885.1099,
+      "transcript": "It's it's it's John Cena. John Cena. Yeah. Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2885.57,
+      "end": 2894.63,
+      "transcript": "It's true, bro. Yeah. Like, you gotta get your clothes torn up a bit before you turn into Super Saiyan two or Super Saiyan two. Yeah. Yeah. Yeah. Yeah. Yeah. You gotta go through some shit."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2895.365,
+      "end": 2896.825,
+      "transcript": "Go into the next level."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2897.285,
+      "end": 2901.785,
+      "transcript": "JJ Mhmm. We're out of time today. Okay. But I hope to travel to"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2902.4849,
+      "end": 2906.825,
+      "transcript": "Nigeria maybe. Yeah. Yeah. Yeah. Yeah. On on your second year. This year. For sure."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2907.125,
+      "end": 2910.63,
+      "transcript": "I might actually join you. Maybe. Yeah. Maybe. Come through, bro."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2911.67,
+      "end": 2913.69,
+      "transcript": "I wanna make you travel in India"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2914.5498,
+      "end": 2919.5298,
+      "transcript": "a fair bit. I think there's some places you'll really enjoy. Not not this time. Oh, yeah. For sure. I feel like"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2919.91,
+      "end": 2924.565,
+      "transcript": "yeah. I definitely need to just explore. Well, I mean, I am exploring quite a bit,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2925.125,
+      "end": 2928.265,
+      "transcript": "this time around, but I compared to the last"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2928.645,
+      "end": 2948.3901,
+      "transcript": "time because last time, I just felt very rushed. I felt like I wasn't here for a long time, whereas now this time, I'm here for weeks, so I'm really able to take everything in. Yeah. Dude, I honestly feel travel in India may not be for everyone, but it's definitely for people who ask deep questions to themselves. And you Well, I mean, you know, I always tell my friends, you know, India's a great place. You should come through."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2949.49,
+      "end": 2950.71,
+      "transcript": "Not all of them agree."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2951.25,
+      "end": 2968.84,
+      "transcript": "Oh, yeah. But it's because they've never been here. I mean, the the idea about India is formed through algorithms. The algorithms show show the most. Yeah. But it's just bullshit, man. Yeah. I've been to India several times, and I love it. And it's great, and I'm gonna keep coming. So I don't I don't care what social media say"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2969.4602,
+      "end": 2977.6401,
+      "transcript": "or show. You you can I'm here. I'm on the ground, and I love it. You can look at the camera and go, love you, India. Love what? I think"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2978.0452,
+      "end": 2980.385,
+      "transcript": "I think my bro said India number one"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2980.685,
+      "end": 2981.8252,
+      "transcript": "when he got here."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2982.7651,
+      "end": 2993.97,
+      "transcript": "Lots of fun, Jay. Thank you so much, man. Hope to see you again in life, man. Likewise. Likewise. Take care. Absolute pleasure. Yeah. I hope you had fun. Yeah. I know. It's good. Good talk, Honestly. Thank you guys so much. Thank you. Absolute pleasure."
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+[
+  {
+    "file": "data/raw_audio/Episode18-clip.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/Episode18-clip.deepgram.json",
+    "txt": "outputs/deepgram_output/Episode18-clip.txt",
+    "diarized": "outputs/deepgram_output/Episode18-clip.diarized.txt",
+    "stats": "outputs/deepgram_output/Episode18-clip.stats.json",
+    "sentences_json": "outputs/deepgram_output/Episode18-clip.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/Sunita_Williams_clip_60s.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/Sunita_Williams_clip_60s.deepgram.json",
+    "txt": "outputs/deepgram_output/Sunita_Williams_clip_60s.txt",
+    "diarized": "outputs/deepgram_output/Sunita_Williams_clip_60s.diarized.txt",
+    "stats": "outputs/deepgram_output/Sunita_Williams_clip_60s.stats.json",
+    "sentences_json": "outputs/deepgram_output/Sunita_Williams_clip_60s.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/Episode09-clip.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/Episode09-clip.deepgram.json",
+    "txt": "outputs/deepgram_output/Episode09-clip.txt",
+    "diarized": "outputs/deepgram_output/Episode09-clip.diarized.txt",
+    "stats": "outputs/deepgram_output/Episode09-clip.stats.json",
+    "sentences_json": "outputs/deepgram_output/Episode09-clip.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/ep001_clip_30s.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/ep001_clip_30s.deepgram.json",
+    "txt": "outputs/deepgram_output/ep001_clip_30s.txt",
+    "diarized": "outputs/deepgram_output/ep001_clip_30s.diarized.txt",
+    "stats": "outputs/deepgram_output/ep001_clip_30s.stats.json",
+    "sentences_json": "outputs/deepgram_output/ep001_clip_30s.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_001_India vs The World\uff1f Dr. Jaishankar on Diplomacy, Superpowers & Global Strategy \uff5c TRS.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_001_India vs The World\uff1f Dr. Jaishankar on Diplomacy, Superpowers & Global Strategy \uff5c TRS.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_001_India vs The World\uff1f Dr. Jaishankar on Diplomacy, Superpowers & Global Strategy \uff5c TRS.txt",
+    "diarized": "outputs/deepgram_output/episode_001_India vs The World\uff1f Dr. Jaishankar on Diplomacy, Superpowers & Global Strategy \uff5c TRS.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_001_India vs The World\uff1f Dr. Jaishankar on Diplomacy, Superpowers & Global Strategy \uff5c TRS.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_001_India vs The World\uff1f Dr. Jaishankar on Diplomacy, Superpowers & Global Strategy \uff5c TRS.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/Episode20_RajShamani_RonnieScrewvala.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/Episode20_RajShamani_RonnieScrewvala.deepgram.json",
+    "txt": "outputs/deepgram_output/Episode20_RajShamani_RonnieScrewvala.txt",
+    "diarized": "outputs/deepgram_output/Episode20_RajShamani_RonnieScrewvala.diarized.txt",
+    "stats": "outputs/deepgram_output/Episode20_RajShamani_RonnieScrewvala.stats.json",
+    "sentences_json": "outputs/deepgram_output/Episode20_RajShamani_RonnieScrewvala.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_003_Bill Gates on India, Billion-Dollar Business Opportunities, PM Modi & Children \uff5c FO335 Raj Shamani.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_003_Bill Gates on India, Billion-Dollar Business Opportunities, PM Modi & Children \uff5c FO335 Raj Shamani.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_003_Bill Gates on India, Billion-Dollar Business Opportunities, PM Modi & Children \uff5c FO335 Raj Shamani.txt",
+    "diarized": "outputs/deepgram_output/episode_003_Bill Gates on India, Billion-Dollar Business Opportunities, PM Modi & Children \uff5c FO335 Raj Shamani.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_003_Bill Gates on India, Billion-Dollar Business Opportunities, PM Modi & Children \uff5c FO335 Raj Shamani.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_003_Bill Gates on India, Billion-Dollar Business Opportunities, PM Modi & Children \uff5c FO335 Raj Shamani.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/Sunita_Williams_full.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/Sunita_Williams_full.deepgram.json",
+    "txt": "outputs/deepgram_output/Sunita_Williams_full.txt",
+    "diarized": "outputs/deepgram_output/Sunita_Williams_full.diarized.txt",
+    "stats": "outputs/deepgram_output/Sunita_Williams_full.stats.json",
+    "sentences_json": "outputs/deepgram_output/Sunita_Williams_full.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_004_How To Build Billion Dollar AI Business - Elon Musk, Google & Future \uff5c Perplexity \uff5cFO349 Raj Shamani.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_004_How To Build Billion Dollar AI Business - Elon Musk, Google & Future \uff5c Perplexity \uff5cFO349 Raj Shamani.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_004_How To Build Billion Dollar AI Business - Elon Musk, Google & Future \uff5c Perplexity \uff5cFO349 Raj Shamani.txt",
+    "diarized": "outputs/deepgram_output/episode_004_How To Build Billion Dollar AI Business - Elon Musk, Google & Future \uff5c Perplexity \uff5cFO349 Raj Shamani.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_004_How To Build Billion Dollar AI Business - Elon Musk, Google & Future \uff5c Perplexity \uff5cFO349 Raj Shamani.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_004_How To Build Billion Dollar AI Business - Elon Musk, Google & Future \uff5c Perplexity \uff5cFO349 Raj Shamani.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_005_Sam Altman x Nikhil Kamath\uff1a How to Win When AI Changes Everything \uff5c People by WTF \uff5c Episode 13.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_005_Sam Altman x Nikhil Kamath\uff1a How to Win When AI Changes Everything \uff5c People by WTF \uff5c Episode 13.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_005_Sam Altman x Nikhil Kamath\uff1a How to Win When AI Changes Everything \uff5c People by WTF \uff5c Episode 13.txt",
+    "diarized": "outputs/deepgram_output/episode_005_Sam Altman x Nikhil Kamath\uff1a How to Win When AI Changes Everything \uff5c People by WTF \uff5c Episode 13.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_005_Sam Altman x Nikhil Kamath\uff1a How to Win When AI Changes Everything \uff5c People by WTF \uff5c Episode 13.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_005_Sam Altman x Nikhil Kamath\uff1a How to Win When AI Changes Everything \uff5c People by WTF \uff5c Episode 13.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_002_Sunita Williams On 286 Days in Space, NASA Missions & Astronaut Mindset \uff5c FO461 Raj Shamani.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_002_Sunita Williams On 286 Days in Space, NASA Missions & Astronaut Mindset \uff5c FO461 Raj Shamani.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_002_Sunita Williams On 286 Days in Space, NASA Missions & Astronaut Mindset \uff5c FO461 Raj Shamani.txt",
+    "diarized": "outputs/deepgram_output/episode_002_Sunita Williams On 286 Days in Space, NASA Missions & Astronaut Mindset \uff5c FO461 Raj Shamani.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_002_Sunita Williams On 286 Days in Space, NASA Missions & Astronaut Mindset \uff5c FO461 Raj Shamani.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_002_Sunita Williams On 286 Days in Space, NASA Missions & Astronaut Mindset \uff5c FO461 Raj Shamani.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_007_Nikhil Kamath x YouTube CEO, Neal Mohan \uff5c People by WTF Ep. 9.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_007_Nikhil Kamath x YouTube CEO, Neal Mohan \uff5c People by WTF Ep. 9.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_007_Nikhil Kamath x YouTube CEO, Neal Mohan \uff5c People by WTF Ep. 9.txt",
+    "diarized": "outputs/deepgram_output/episode_007_Nikhil Kamath x YouTube CEO, Neal Mohan \uff5c People by WTF Ep. 9.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_007_Nikhil Kamath x YouTube CEO, Neal Mohan \uff5c People by WTF Ep. 9.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_007_Nikhil Kamath x YouTube CEO, Neal Mohan \uff5c People by WTF Ep. 9.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_006_From Iran to Uber CEO \uff5c Nikhil Kamath x Dara Khosrowshahi \uff5c People by WTF \uff5c Ep. 14.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_006_From Iran to Uber CEO \uff5c Nikhil Kamath x Dara Khosrowshahi \uff5c People by WTF \uff5c Ep. 14.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_006_From Iran to Uber CEO \uff5c Nikhil Kamath x Dara Khosrowshahi \uff5c People by WTF \uff5c Ep. 14.txt",
+    "diarized": "outputs/deepgram_output/episode_006_From Iran to Uber CEO \uff5c Nikhil Kamath x Dara Khosrowshahi \uff5c People by WTF \uff5c Ep. 14.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_006_From Iran to Uber CEO \uff5c Nikhil Kamath x Dara Khosrowshahi \uff5c People by WTF \uff5c Ep. 14.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_006_From Iran to Uber CEO \uff5c Nikhil Kamath x Dara Khosrowshahi \uff5c People by WTF \uff5c Ep. 14.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_009_Priyanka Chopra on Self Confidence, Entrepreneurship, Family & Success \uff5c The Ranveer Show 256.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_009_Priyanka Chopra on Self Confidence, Entrepreneurship, Family & Success \uff5c The Ranveer Show 256.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_009_Priyanka Chopra on Self Confidence, Entrepreneurship, Family & Success \uff5c The Ranveer Show 256.txt",
+    "diarized": "outputs/deepgram_output/episode_009_Priyanka Chopra on Self Confidence, Entrepreneurship, Family & Success \uff5c The Ranveer Show 256.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_009_Priyanka Chopra on Self Confidence, Entrepreneurship, Family & Success \uff5c The Ranveer Show 256.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_009_Priyanka Chopra on Self Confidence, Entrepreneurship, Family & Success \uff5c The Ranveer Show 256.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_011_Shabana Azmi Opens up on Feminism, Life and 50 years in Film Industry \uff5c The Faye D'Souza Show.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_011_Shabana Azmi Opens up on Feminism, Life and 50 years in Film Industry \uff5c The Faye D'Souza Show.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_011_Shabana Azmi Opens up on Feminism, Life and 50 years in Film Industry \uff5c The Faye D'Souza Show.txt",
+    "diarized": "outputs/deepgram_output/episode_011_Shabana Azmi Opens up on Feminism, Life and 50 years in Film Industry \uff5c The Faye D'Souza Show.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_011_Shabana Azmi Opens up on Feminism, Life and 50 years in Film Industry \uff5c The Faye D'Souza Show.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_011_Shabana Azmi Opens up on Feminism, Life and 50 years in Film Industry \uff5c The Faye D'Souza Show.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_008_Nikhil Kamath x Kumar Birla \uff5c People by WTF Ep #5.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_008_Nikhil Kamath x Kumar Birla \uff5c People by WTF Ep #5.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_008_Nikhil Kamath x Kumar Birla \uff5c People by WTF Ep #5.txt",
+    "diarized": "outputs/deepgram_output/episode_008_Nikhil Kamath x Kumar Birla \uff5c People by WTF Ep #5.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_008_Nikhil Kamath x Kumar Birla \uff5c People by WTF Ep #5.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_008_Nikhil Kamath x Kumar Birla \uff5c People by WTF Ep #5.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_013_Madhuri Dixit on Fame, Family & Finding Herself \uff5c The Faye D\u2019Souza Show.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_013_Madhuri Dixit on Fame, Family & Finding Herself \uff5c The Faye D\u2019Souza Show.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_013_Madhuri Dixit on Fame, Family & Finding Herself \uff5c The Faye D\u2019Souza Show.txt",
+    "diarized": "outputs/deepgram_output/episode_013_Madhuri Dixit on Fame, Family & Finding Herself \uff5c The Faye D\u2019Souza Show.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_013_Madhuri Dixit on Fame, Family & Finding Herself \uff5c The Faye D\u2019Souza Show.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_013_Madhuri Dixit on Fame, Family & Finding Herself \uff5c The Faye D\u2019Souza Show.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_010_A.R. Rahman\uff1a The Genius Who Took Indian Music Global \uff5c Nikhil Kamath \uff5c People by WTF \uff5c Ep 15.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_010_A.R. Rahman\uff1a The Genius Who Took Indian Music Global \uff5c Nikhil Kamath \uff5c People by WTF \uff5c Ep 15.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_010_A.R. Rahman\uff1a The Genius Who Took Indian Music Global \uff5c Nikhil Kamath \uff5c People by WTF \uff5c Ep 15.txt",
+    "diarized": "outputs/deepgram_output/episode_010_A.R. Rahman\uff1a The Genius Who Took Indian Music Global \uff5c Nikhil Kamath \uff5c People by WTF \uff5c Ep 15.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_010_A.R. Rahman\uff1a The Genius Who Took Indian Music Global \uff5c Nikhil Kamath \uff5c People by WTF \uff5c Ep 15.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_010_A.R. Rahman\uff1a The Genius Who Took Indian Music Global \uff5c Nikhil Kamath \uff5c People by WTF \uff5c Ep 15.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_012_\u2060How Michael Phelps Built a Champion Mindset\uff1a Obsession & Discipline \uff5c FO458 Raj Shamani.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_012_\u2060How Michael Phelps Built a Champion Mindset\uff1a Obsession & Discipline \uff5c FO458 Raj Shamani.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_012_\u2060How Michael Phelps Built a Champion Mindset\uff1a Obsession & Discipline \uff5c FO458 Raj Shamani.txt",
+    "diarized": "outputs/deepgram_output/episode_012_\u2060How Michael Phelps Built a Champion Mindset\uff1a Obsession & Discipline \uff5c FO458 Raj Shamani.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_012_\u2060How Michael Phelps Built a Champion Mindset\uff1a Obsession & Discipline \uff5c FO458 Raj Shamani.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_012_\u2060How Michael Phelps Built a Champion Mindset\uff1a Obsession & Discipline \uff5c FO458 Raj Shamani.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_014_DEEP Heart To Heart - Madhuri Dixit On TRS.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_014_DEEP Heart To Heart - Madhuri Dixit On TRS.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_014_DEEP Heart To Heart - Madhuri Dixit On TRS.txt",
+    "diarized": "outputs/deepgram_output/episode_014_DEEP Heart To Heart - Madhuri Dixit On TRS.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_014_DEEP Heart To Heart - Madhuri Dixit On TRS.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_014_DEEP Heart To Heart - Madhuri Dixit On TRS.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_016_Smriti Irani\uff1a Power, Politics, Acting, Childhood, Ahmedabad Crash & PM Modi \uff5c FO386 Raj Shamani.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_016_Smriti Irani\uff1a Power, Politics, Acting, Childhood, Ahmedabad Crash & PM Modi \uff5c FO386 Raj Shamani.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_016_Smriti Irani\uff1a Power, Politics, Acting, Childhood, Ahmedabad Crash & PM Modi \uff5c FO386 Raj Shamani.txt",
+    "diarized": "outputs/deepgram_output/episode_016_Smriti Irani\uff1a Power, Politics, Acting, Childhood, Ahmedabad Crash & PM Modi \uff5c FO386 Raj Shamani.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_016_Smriti Irani\uff1a Power, Politics, Acting, Childhood, Ahmedabad Crash & PM Modi \uff5c FO386 Raj Shamani.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_016_Smriti Irani\uff1a Power, Politics, Acting, Childhood, Ahmedabad Crash & PM Modi \uff5c FO386 Raj Shamani.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_015_From TV to Politics\u2026and Back\uff1f Ft Smriti Irani \uff5c Soha Ali Khan \uff5c  All About Her Ep 4 @SohaAliKhanP\u200b.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_015_From TV to Politics\u2026and Back\uff1f Ft Smriti Irani \uff5c Soha Ali Khan \uff5c  All About Her Ep 4 @SohaAliKhanP\u200b.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_015_From TV to Politics\u2026and Back\uff1f Ft Smriti Irani \uff5c Soha Ali Khan \uff5c  All About Her Ep 4 @SohaAliKhanP\u200b.txt",
+    "diarized": "outputs/deepgram_output/episode_015_From TV to Politics\u2026and Back\uff1f Ft Smriti Irani \uff5c Soha Ali Khan \uff5c  All About Her Ep 4 @SohaAliKhanP\u200b.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_015_From TV to Politics\u2026and Back\uff1f Ft Smriti Irani \uff5c Soha Ali Khan \uff5c  All About Her Ep 4 @SohaAliKhanP\u200b.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_015_From TV to Politics\u2026and Back\uff1f Ft Smriti Irani \uff5c Soha Ali Khan \uff5c  All About Her Ep 4 @SohaAliKhanP\u200b.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_018_Ronnie Screwvala\uff1a The Ultimate Entrepreneurship Masterclass \uff5c The Faye D'Souza Show.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_018_Ronnie Screwvala\uff1a The Ultimate Entrepreneurship Masterclass \uff5c The Faye D'Souza Show.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_018_Ronnie Screwvala\uff1a The Ultimate Entrepreneurship Masterclass \uff5c The Faye D'Souza Show.txt",
+    "diarized": "outputs/deepgram_output/episode_018_Ronnie Screwvala\uff1a The Ultimate Entrepreneurship Masterclass \uff5c The Faye D'Souza Show.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_018_Ronnie Screwvala\uff1a The Ultimate Entrepreneurship Masterclass \uff5c The Faye D'Souza Show.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_018_Ronnie Screwvala\uff1a The Ultimate Entrepreneurship Masterclass \uff5c The Faye D'Souza Show.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_019_KSI x BeerBiceps \uff5c Sidemen, Boxing, YouTube, Building Business, Music & More \uff5c TRS.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_019_KSI x BeerBiceps \uff5c Sidemen, Boxing, YouTube, Building Business, Music & More \uff5c TRS.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_019_KSI x BeerBiceps \uff5c Sidemen, Boxing, YouTube, Building Business, Music & More \uff5c TRS.txt",
+    "diarized": "outputs/deepgram_output/episode_019_KSI x BeerBiceps \uff5c Sidemen, Boxing, YouTube, Building Business, Music & More \uff5c TRS.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_019_KSI x BeerBiceps \uff5c Sidemen, Boxing, YouTube, Building Business, Music & More \uff5c TRS.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_019_KSI x BeerBiceps \uff5c Sidemen, Boxing, YouTube, Building Business, Music & More \uff5c TRS.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_017_Bollywood Ka Asli Game - PR, Paisa Aur Power Ft. Nidhhi Agerwal.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_017_Bollywood Ka Asli Game - PR, Paisa Aur Power Ft. Nidhhi Agerwal.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_017_Bollywood Ka Asli Game - PR, Paisa Aur Power Ft. Nidhhi Agerwal.txt",
+    "diarized": "outputs/deepgram_output/episode_017_Bollywood Ka Asli Game - PR, Paisa Aur Power Ft. Nidhhi Agerwal.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_017_Bollywood Ka Asli Game - PR, Paisa Aur Power Ft. Nidhhi Agerwal.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_017_Bollywood Ka Asli Game - PR, Paisa Aur Power Ft. Nidhhi Agerwal.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_022_Real Talk With Laal Singh Chaddha \uff5c Aamir Khan \uff5c #RealTalkTuesday \uff5c MostlySane.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_022_Real Talk With Laal Singh Chaddha \uff5c Aamir Khan \uff5c #RealTalkTuesday \uff5c MostlySane.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_022_Real Talk With Laal Singh Chaddha \uff5c Aamir Khan \uff5c #RealTalkTuesday \uff5c MostlySane.txt",
+    "diarized": "outputs/deepgram_output/episode_022_Real Talk With Laal Singh Chaddha \uff5c Aamir Khan \uff5c #RealTalkTuesday \uff5c MostlySane.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_022_Real Talk With Laal Singh Chaddha \uff5c Aamir Khan \uff5c #RealTalkTuesday \uff5c MostlySane.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_022_Real Talk With Laal Singh Chaddha \uff5c Aamir Khan \uff5c #RealTalkTuesday \uff5c MostlySane.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_023_India Launches Operation Sindoor To Fight Terrorism \uff5c Explanation, Updates \uff5c Abhijit Chavda \uff5c TRS.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_023_India Launches Operation Sindoor To Fight Terrorism \uff5c Explanation, Updates \uff5c Abhijit Chavda \uff5c TRS.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_023_India Launches Operation Sindoor To Fight Terrorism \uff5c Explanation, Updates \uff5c Abhijit Chavda \uff5c TRS.txt",
+    "diarized": "outputs/deepgram_output/episode_023_India Launches Operation Sindoor To Fight Terrorism \uff5c Explanation, Updates \uff5c Abhijit Chavda \uff5c TRS.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_023_India Launches Operation Sindoor To Fight Terrorism \uff5c Explanation, Updates \uff5c Abhijit Chavda \uff5c TRS.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_023_India Launches Operation Sindoor To Fight Terrorism \uff5c Explanation, Updates \uff5c Abhijit Chavda \uff5c TRS.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_021_Aamir Khan On Marriage Failure, Family, Nepotism, Last Film, Bollywood & 3 Idiots \uff5cFO362 Raj Shamani.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_021_Aamir Khan On Marriage Failure, Family, Nepotism, Last Film, Bollywood & 3 Idiots \uff5cFO362 Raj Shamani.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_021_Aamir Khan On Marriage Failure, Family, Nepotism, Last Film, Bollywood & 3 Idiots \uff5cFO362 Raj Shamani.txt",
+    "diarized": "outputs/deepgram_output/episode_021_Aamir Khan On Marriage Failure, Family, Nepotism, Last Film, Bollywood & 3 Idiots \uff5cFO362 Raj Shamani.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_021_Aamir Khan On Marriage Failure, Family, Nepotism, Last Film, Bollywood & 3 Idiots \uff5cFO362 Raj Shamani.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_021_Aamir Khan On Marriage Failure, Family, Nepotism, Last Film, Bollywood & 3 Idiots \uff5cFO362 Raj Shamani.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_024_Mai bohot jaldi rota hu \uff5c Aamir Khan \uff5c I want magic not perfection \uff5c Karishma Mehta \uff5c EP 13.wav",
+    "ok": true,
+    "status": 200,
+    "json": "outputs/deepgram_output/episode_024_Mai bohot jaldi rota hu \uff5c Aamir Khan \uff5c I want magic not perfection \uff5c Karishma Mehta \uff5c EP 13.deepgram.json",
+    "txt": "outputs/deepgram_output/episode_024_Mai bohot jaldi rota hu \uff5c Aamir Khan \uff5c I want magic not perfection \uff5c Karishma Mehta \uff5c EP 13.txt",
+    "diarized": "outputs/deepgram_output/episode_024_Mai bohot jaldi rota hu \uff5c Aamir Khan \uff5c I want magic not perfection \uff5c Karishma Mehta \uff5c EP 13.diarized.txt",
+    "stats": "outputs/deepgram_output/episode_024_Mai bohot jaldi rota hu \uff5c Aamir Khan \uff5c I want magic not perfection \uff5c Karishma Mehta \uff5c EP 13.stats.json",
+    "sentences_json": "outputs/deepgram_output/episode_024_Mai bohot jaldi rota hu \uff5c Aamir Khan \uff5c I want magic not perfection \uff5c Karishma Mehta \uff5c EP 13.sentences.json"
+  },
+  {
+    "file": "data/raw_audio/episode_025_Deepinder Goyal\uff1a Zomato, 10-Min Delivery, Founder Mindset & Business In India \uff5c FO453 Raj Shamani.wav",
+    "ok": false,
+    "status": 400,
+    "error_json": "outputs/deepgram_output/episode_025_Deepinder Goyal\uff1a Zomato, 10-Min Delivery, Founder Mindset & Business In India \uff5c FO453 Raj Shamani.error.json"
+  }
+]

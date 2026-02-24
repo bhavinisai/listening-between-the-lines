@@ -1,0 +1,5844 @@
+{
+  "unit": "utterance (sentence-like)",
+  "num_segments": 834,
+  "segments": [
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 0.0,
+      "end": 15.46,
+      "transcript": "Give me three examples of businesses which are gonna benefit from the rapid adoption of AI. So software development, health care, financial consulting. What is the most ridiculous search query you have read? Either this person's trying to rob a bank, ended up asking, I want my face"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 16.965,
+      "end": 53.684998,
+      "transcript": "breathe, but it should cover my nose, holes for my eyes, and I wanna, like, bike. Explain me how does the answer comes in? A lot of it just has to do with, like, filtering out, like, really low quality domains. And then, like, there are subtle things you can do based on the region, based on the user's pass queries, based on the current query itself, you can re rank the final set of, like, links. You're in a sort of competition in a race with all these large companies. Who loses the most if you win? The one with the most to lose is Google. What would beating Google be like? Google employees and their kids. They all use perplexity because it's a better product. Our today's guest is Aravind Srinivas, who's a founder of perplexity."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 54.065,
+      "end": 69.08,
+      "transcript": "He has raised millions of dollars, which has gotten funded by Nvidia's founder and Jeff Bezos as well. We learn how AI actually works and what's the future of AI. And what's the craziest conspiracy you've heard about? AI"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 69.46,
+      "end": 74.28,
+      "transcript": "god like thing that you can use to control the whole universe. But do you think that's possible?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 77.105,
+      "end": 79.045,
+      "transcript": "Do you see any potential"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 79.585,
+      "end": 81.285,
+      "transcript": "political threats coming on perplexity?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 82.225,
+      "end": 84.785,
+      "transcript": "I think Elon raised $6,000,000,000"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 84.785,
+      "end": 86.965004,
+      "transcript": "for x AI. Yeah. Are you scared of Elon?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 104.665,
+      "end": 105.485,
+      "transcript": "Enjoy the"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 109.784996,
+      "end": 113.564995,
+      "transcript": "show. When you think about India or just like let's say world,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 114.345,
+      "end": 126.149994,
+      "transcript": "and you want to compete and you want to be the best, you want to be number one. Yeah. Why keep name as perplexity? Yeah. It's so difficult to say. I know. I was talking to so many people in the organization"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 126.45,
+      "end": 128.70999,
+      "transcript": "because I use perplexity. Yeah. And,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 129.17,
+      "end": 135.19,
+      "transcript": "there are two, three people who use perplexity. And then when we spoke to everyone that, hey, you know what? We're gonna get the founder."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 135.635,
+      "end": 137.09499,
+      "transcript": "We'll do this. And they're like,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 137.47499,
+      "end": 142.215,
+      "transcript": "it's such a difficult name. We'll never gonna be able to even download it and use it. Sure."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 142.83499,
+      "end": 144.855,
+      "transcript": "And it's a it's an important question."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 145.715,
+      "end": 149.1,
+      "transcript": "Yeah. So, this goes back to the origins of the company. Like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 150.14,
+      "end": 152.0,
+      "transcript": "you know, when I started, I didn't really,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 152.62001,
+      "end": 154.24,
+      "transcript": "clear sense of like, you know,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 155.18001,
+      "end": 157.76001,
+      "transcript": "whether we'll build a search app or consumer application."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 159.18001,
+      "end": 166.93501,
+      "transcript": "None of that. Like we were we knew we wanted to do something in search. We knew, like, we wanted to build unique experiences that were not possible before."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 167.475,
+      "end": 172.13501,
+      "transcript": "We were not dreaming big, like, oh, we're going to build a billion user product potentially."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 174.035,
+      "end": 174.535,
+      "transcript": "So,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 175.235,
+      "end": 181.4,
+      "transcript": "when you pick a name for the company, you pick something pretty cool, like an easy to get a domain for."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 182.26,
+      "end": 186.66,
+      "transcript": "I didn't have much money at the beginning of funding. So, perplexity.ai"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 186.66,
+      "end": 188.5,
+      "transcript": "was available for like $120"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 188.5,
+      "end": 190.84,
+      "transcript": "for two years. So I just got it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 191.54001,
+      "end": 191.78,
+      "transcript": "And,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 192.705,
+      "end": 196.805,
+      "transcript": "perplexity is a metric in AI that measures how well you understand something."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 197.345,
+      "end": 203.605,
+      "transcript": "So very geeky, you know, I get it. Once you get even more users and more funding, like we can just buy the"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 204.14499,
+      "end": 209.53,
+      "transcript": "rights to some crazy name and like just do something like four or five letters. That'll be amazing. Interesting."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 211.03,
+      "end": 219.84999,
+      "transcript": "Okay. So there there is plan to actually change it. This is a problem you're aware about. Yeah. Yeah. I mean, look, I'm it's one of the worst names you can pick for a consumer company."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 220.70999,
+      "end": 224.085,
+      "transcript": "100% aware of it. And I'm not going to defend the"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 224.865,
+      "end": 231.52501,
+      "transcript": "Maybe we can do something like the company will still be called perplexity, but the product can be called something else. Yeah."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 232.30501,
+      "end": 236.16501,
+      "transcript": "I was looking at the list of your investors. Jeff Bezos happens to be one of them. Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 236.87001,
+      "end": 243.45,
+      "transcript": "He came much later. He's not the earliest investor. Okay. But did you meet Jeff? Yeah. Yeah. I did meet Jeff. How did that happen?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 243.99,
+      "end": 245.21,
+      "transcript": "How did you go from"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 245.75,
+      "end": 250.81,
+      "transcript": "being this guy who doesn't know much about this business genius and how this model will make sense"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 251.505,
+      "end": 252.165,
+      "transcript": "to getting"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 252.865,
+      "end": 257.365,
+      "transcript": "a Jeff Bezos, the Jeff Bezos investing in you. So we reached out,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 258.145,
+      "end": 261.125,
+      "transcript": "through, like, a common contact, like, and then,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 264.06,
+      "end": 267.28,
+      "transcript": "they responded saying, Okay, why don't you send"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 268.53998,
+      "end": 269.91998,
+      "transcript": "a document, like a memo?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 270.53998,
+      "end": 275.75998,
+      "transcript": "He likes to read memos. And so I sent that and I also made a nice demo where"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 277.01498,
+      "end": 282.715,
+      "transcript": "it's an imaginary demo of, like, Jeff talking to our our our voice to voice system,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 283.095,
+      "end": 291.06,
+      "transcript": "where his voice is talking to it, and that system is responding back. And and the questions are about, like, Star Trek and Blue Origin and things like that."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 291.36002,
+      "end": 294.40002,
+      "transcript": "And I I I recorded it myself and then,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 294.96002,
+      "end": 296.90002,
+      "transcript": "sent it over, both the memo and this."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 297.44,
+      "end": 297.76,
+      "transcript": "And,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 298.48,
+      "end": 304.63498,
+      "transcript": "he for the first investment, he didn't even meet me. They just said, okay. I'll just seen the memo and looked at the"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 304.935,
+      "end": 308.79498,
+      "transcript": "demo, and, he's approved the investment. So, Okay. Fine. That's awesome."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 309.25497,
+      "end": 317.115,
+      "transcript": "And then we asked for permission to use his name in the public release of the funding round. They said, Yeah. Go for it. And that became the headline essentially."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 317.41998,
+      "end": 320.24,
+      "transcript": "So that really helped us, so thanks to him."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 321.34,
+      "end": 327.36,
+      "transcript": "Subsequent after that, when we kept making more progress, he reached out, that was the first inbound request. Like, Hey,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 327.82,
+      "end": 329.36,
+      "transcript": "Jeff wants to meet and"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 329.715,
+      "end": 333.175,
+      "transcript": "you know, get a update on the company and, like, your strategy."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 333.875,
+      "end": 338.695,
+      "transcript": "And again, they asked me to write a six pager. I wrote it. Well, that's a really good exercise,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 339.715,
+      "end": 342.215,
+      "transcript": "writing these memos and six pagers."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 342.915,
+      "end": 351.63,
+      "transcript": "It takes a lot out of you to write one, but it's totally worth it for your clarity. And he explains why too, right? He's gonna so I've written it and then"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 352.01,
+      "end": 354.35,
+      "transcript": "had the one on one meeting. It goes for an hour."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 356.09003,
+      "end": 357.31,
+      "transcript": "I thought he's not gonna"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 358.57498,
+      "end": 369.315,
+      "transcript": "he he he certainly wouldn't have had time to read it. Yeah. So he's just gonna use the first thirty minutes to, read it together. But no. Like, he just directly got to the points. He referenced specific sections,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 370.03,
+      "end": 372.37,
+      "transcript": "what he liked and what he was not sure about,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 373.71,
+      "end": 377.73,
+      "transcript": "asked me for things like what I think about, like, the chip space and stuff."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 379.23,
+      "end": 383.785,
+      "transcript": "And no time was wasted. So it was like basically getting to the second meeting, you know?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 384.885,
+      "end": 393.145,
+      "transcript": "And at the end, like, he just said something of, Your your success doesn't rely on Google's failure, which is why, like, you know, I'm pretty optimistic about your chances."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 393.845,
+      "end": 409.43,
+      "transcript": "And, you just gotta keep moving fast. And, of course, the only thing that matters is customer experience. Like, just retain the users. Don't be a leaky bucket. Make sure retention is high. Don't everyone soon, like, just push you for getting as many users as you can, but"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 409.89,
+      "end": 413.39502,
+      "transcript": "maintain your growth rates. Don't try to aim for something crazy."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 414.49503,
+      "end": 418.515,
+      "transcript": "But absolutely make sure that as you grow, your retention is only increasing, not"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 419.295,
+      "end": 420.355,
+      "transcript": "even staying flat."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 421.135,
+      "end": 421.635,
+      "transcript": "So,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 422.33502,
+      "end": 428.97,
+      "transcript": "he had all the right messages. I mean, we knew it, but it was always great to have it reinforced with someone like him."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 429.43,
+      "end": 436.09,
+      "transcript": "And then I met him in person in another event later. So he the three I met him like totally like two or three times. He's pretty awesome."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 436.55,
+      "end": 440.055,
+      "transcript": "A lot of people think he's like not very plugged in anymore, but,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 440.775,
+      "end": 445.675,
+      "transcript": "I would say he's like literally was up to date with everything that when I met him. What do you think is the reason?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 446.055,
+      "end": 458.38,
+      "transcript": "Why did he invest in you? I mean, look, I really don't know. He probably What do you think? I know that you don't know. I mean, he knows it better, but what do you think? Why did he know? I'm guessing he probably tried out the product and, like, you know, it worked as expected."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 459.0,
+      "end": 460.86002,
+      "transcript": "And I thought, like, you know, it's"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 461.72,
+      "end": 467.66,
+      "transcript": "But he must be getting thousand products, which are living up to the expectation and working as"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 468.035,
+      "end": 469.175,
+      "transcript": "described or explained"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 469.79498,
+      "end": 470.455,
+      "transcript": "by you?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 471.07498,
+      "end": 475.57498,
+      "transcript": "Well, we had a lot of visibility already by then. A lot of people using it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 476.595,
+      "end": 477.095,
+      "transcript": "And"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 480.11,
+      "end": 484.61,
+      "transcript": "there were very few products in the market at the time also. Like, ChatGPT was there, but"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 485.07,
+      "end": 486.93,
+      "transcript": "it wasn't even doing browsing reliably."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 487.63,
+      "end": 494.05,
+      "transcript": "And, you know, Google bar it was called Bard back then. It wasn't even called Gemini and wasn't really, really good."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 494.655,
+      "end": 500.275,
+      "transcript": "Microsoft Copilot wasn't good. Bing chat wasn't good. So we actually had a pretty good time to,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 501.535,
+      "end": 504.755,
+      "transcript": "like, attract a lot of users where, like, our service is basically"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 505.775,
+      "end": 506.275,
+      "transcript": "not,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 506.975,
+      "end": 511.85,
+      "transcript": "possible anywhere else. So that that differentiator was clear there. It was not, like, one among another product."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 513.11,
+      "end": 516.07,
+      "transcript": "And the other thing he probably my guess is,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 516.47003,
+      "end": 518.81,
+      "transcript": "the existing set of investors were already pretty incredible."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 519.75,
+      "end": 521.53,
+      "transcript": "The team was shipping really fast."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 521.99,
+      "end": 524.33,
+      "transcript": "I think these are good attributes for a startup."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 524.65497,
+      "end": 530.595,
+      "transcript": "And we were very efficient in the way we got to where we were. Like before we raised that round, we had raised very little money,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 531.45496,
+      "end": 537.63495,
+      "transcript": "and we did not spend it on like, you know, like training our own models, but just continually investing in a good product."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 538.095,
+      "end": 542.78,
+      "transcript": "We had a core thesis that like, your model is not my concern for the user."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 543.48,
+      "end": 549.74,
+      "transcript": "And I think that appealed to him because there's literally a play on his your profitability is not my concern. You"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 550.12,
+      "end": 555.64496,
+      "transcript": "get the package in a day. I don't care what it costs you to do that. So I think like it was"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 556.425,
+      "end": 565.00494,
+      "transcript": "a customer focused AI company. Maybe he wanted to be part of the journey. Got it. And he probably liked the way you were thinking about it way more"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 565.625,
+      "end": 583.925,
+      "transcript": "than the other thing. Probably. I really don't know. I'm also also making a guess. Who knows? Maybe that demo was pretty cool. Like the I'm trying to prompt so that you give me an answer, which is beyond just your product. It's very hard. I've never asked. Maybe next time I'm just gonna ask them like, hey, like why do you invest? Because honestly, it's,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 585.745,
+      "end": 590.72504,
+      "transcript": "like, you could argue, like, it's it's gonna create conflict at some point. Like, you know, Amazon, Alexa"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 591.425,
+      "end": 594.565,
+      "transcript": "is also gonna be in in the operating in the space."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 595.265,
+      "end": 595.745,
+      "transcript": "And,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 597.32,
+      "end": 602.62,
+      "transcript": "so maybe there's some deeper reason or maybe it's not that deep. I don't know. Yeah. Because"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 603.16003,
+      "end": 603.66003,
+      "transcript": "it's"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 604.2,
+      "end": 610.78,
+      "transcript": "usually when someone of that stature actually takes up personal time to a, invest and then meet the founders."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 611.685,
+      "end": 621.525,
+      "transcript": "It has to be something deeper because I hope so. Millions of dollars for him is gonna like it's peanuts. It's not gonna mean anything. Yeah. Yeah. It's not. It's financially It doesn't mean anything to him. And I'm"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 622.645,
+      "end": 625.54504,
+      "transcript": "again, look, like if we become really big,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 628.26,
+      "end": 633.88,
+      "transcript": "you know, even then I think the, the, the evaluation of which he came in and the amount he put in, like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 634.26,
+      "end": 641.615,
+      "transcript": "it'll move the needle for him a bit financially, but it's not, it's not for that reason. That's like a lot of other ways for him to do that. Exactly. Exactly."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 641.995,
+      "end": 648.015,
+      "transcript": "And what, what do you think makes him special? Why is he the number one? Why is he one of the biggest founders in the world?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 648.715,
+      "end": 656.34,
+      "transcript": "Because you met him, did you notice or observe anything different that makes him a star founder? I think he has incredible clarity of thought."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 657.60004,
+      "end": 663.22003,
+      "transcript": "Like the thing I said, like, you know, there are there are some of the wisdom that he gave is timeless."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 664.255,
+      "end": 669.39496,
+      "transcript": "The your margin is my opportunity thing is timeless. Like it keeps on coming. It is"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 669.935,
+      "end": 670.595,
+      "transcript": "the core,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 671.615,
+      "end": 673.95496,
+      "transcript": "truth to like most disruption stories"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 674.255,
+      "end": 680.0,
+      "transcript": "where, someone else has to protect their margin and they're in an innovative dilemma situation and like someone else eats the lunch"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 680.38,
+      "end": 682.0,
+      "transcript": "with a better technology."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 684.69995,
+      "end": 691.44,
+      "transcript": "And and, like, he has all these frameworks, right, like, repeatable frameworks, like one one way door, two way door decisions."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 691.845,
+      "end": 694.665,
+      "transcript": "Where should you spend your mind, mental compute on?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 696.40497,
+      "end": 699.545,
+      "transcript": "And a shareholder there is like a masterclass in good writing."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 700.08496,
+      "end": 701.365,
+      "transcript": "So my,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 701.845,
+      "end": 703.785,
+      "transcript": "the reason I really respect him is"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 704.37,
+      "end": 707.75,
+      "transcript": "when you try to scale a company, you have to kind of have,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 708.37,
+      "end": 711.43,
+      "transcript": "some version of you or your thought process in every meeting."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 713.65,
+      "end": 721.245,
+      "transcript": "Otherwise because it's physically and, like, impossible for you to be in every meeting and, like, driving decisions everywhere."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 721.865,
+      "end": 723.885,
+      "transcript": "So you have to be able to write down"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 724.265,
+      "end": 726.52496,
+      "transcript": "how you think and how you make decisions,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 727.305,
+      "end": 732.605,
+      "transcript": "which is very going a step further. It's not just about making good decisions. It's about"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 733.76996,
+      "end": 741.94995,
+      "transcript": "writing down your decision making framework so that others can think in a way as clear as you. That requires even higher order clarity."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 742.32996,
+      "end": 743.79,
+      "transcript": "And he did it at Amazon"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 744.32996,
+      "end": 744.82996,
+      "transcript": "and"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 746.185,
+      "end": 749.88495,
+      "transcript": "and I scaled the company a lot and built like many businesses simultaneously."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 751.225,
+      "end": 752.285,
+      "transcript": "And I think that"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 753.305,
+      "end": 757.165,
+      "transcript": "I'm definitely not at that level. I cannot do that right now."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 757.625,
+      "end": 761.62006,
+      "transcript": "And I don't think many CEOs are like that good either. True."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 762.80005,
+      "end": 763.04004,
+      "transcript": "So,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 764.4,
+      "end": 767.22003,
+      "transcript": "that is a very unique Bezos thing. Like he"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 767.84,
+      "end": 774.74005,
+      "transcript": "totally nailed the, like shareholder letters and, like, decision making frameworks and, like, how to understand the market. Even recently,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 775.355,
+      "end": 779.615,
+      "transcript": "in an interview with Sorkin, he said this thing that was like very profound, which is like, you know,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 780.315,
+      "end": 780.795,
+      "transcript": "we are,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 781.595,
+      "end": 782.815,
+      "transcript": "we usually overestimate"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 783.19495,
+      "end": 784.815,
+      "transcript": "risk and underestimate opportunity,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 785.83496,
+      "end": 787.13495,
+      "transcript": "almost all of us."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 787.70996,
+      "end": 792.37,
+      "transcript": "And a corollary of that is like, we don't take enough risk. Like we are all like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 793.63,
+      "end": 798.05,
+      "transcript": "we don't we're like there's a reason why most humans are not risk seeking animals."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 798.43,
+      "end": 802.37,
+      "transcript": "And another thing he said in the Lex Fridman interview was very cool. Like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 802.745,
+      "end": 807.485,
+      "transcript": "you know, we all talk about truth seeking, but there's a reason that it's not easy"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 808.02496,
+      "end": 809.08496,
+      "transcript": "is because by nature,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 810.985,
+      "end": 813.88495,
+      "transcript": "human beings are not truth seeking animals. We are social animals."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 814.345,
+      "end": 828.81,
+      "transcript": "We like validation. We like, like, other people saying we're good or what we're saying is correct. We don't care if what we're saying is actually correct. By nature, you actually have to rewire yourself for that. And any rewiring process is painful."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 829.445,
+      "end": 833.865,
+      "transcript": "So I I think like that clarity of thought is what is making makes him pretty singular."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 834.245,
+      "end": 838.02496,
+      "transcript": "I am a big Jeff Bezos fan. Like it's in my list"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 838.485,
+      "end": 852.36005,
+      "transcript": "of entrepreneurs in the world. He comes at the top. Like he's the number one because obviously all of these frameworks and the things that he has done. Yeah. I think it makes ton of sense and I can go on and on with him. Yeah. Because I've read so many things and I've"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 852.82,
+      "end": 856.76,
+      "transcript": "like used so many of his frameworks to make decisions in my day to day life."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 857.765,
+      "end": 862.905,
+      "transcript": "All the dumb decisions that I've made in my life Mhmm. Which have actually turned out to be good,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 863.445,
+      "end": 882.44995,
+      "transcript": "was because of this one regret minimization framework that I've worked out for him. It's so good. Like, regret minimization framework. Oh my god. Yeah. And that has made me do dumb things in my life. But in most cases, it has been a pretty lovely one. Yeah. I mean, that's one of the main reasons I was so,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 885.02496,
+      "end": 889.52496,
+      "transcript": "I was having a lot of urgency to start the company because I knew that,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 890.385,
+      "end": 891.365,
+      "transcript": "well, I had"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 891.745,
+      "end": 895.205,
+      "transcript": "some of my own reasoning too, which is I knew that my"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 896.065,
+      "end": 899.365,
+      "transcript": "cognitive abilities are on a decline. You have to accept that. Yeah."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 900.54,
+      "end": 902.39996,
+      "transcript": "How old are you? I'm 30,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 903.01996,
+      "end": 903.51996,
+      "transcript": "but"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 903.89996,
+      "end": 906.07996,
+      "transcript": "I I I know that I'm on a decline."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 906.54,
+      "end": 915.83997,
+      "transcript": "I I can try to fight it, but I I can clearly see the kind of insane things I could do when I studied for JEE or, when I was at IIT,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 916.265,
+      "end": 919.725,
+      "transcript": "you know, cramming last minute before the exam, I could download, like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 920.185,
+      "end": 923.885,
+      "transcript": "10 lectures in my head in the last three hours. I can't do all those things anymore."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 926.265,
+      "end": 932.8,
+      "transcript": "So I wanted to do it as soon as I can. And the regret minimization framework was also clearly there, which is,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 933.82,
+      "end": 941.27997,
+      "transcript": "look, it's only going to get harder to start a company because of both abilities and other constraints in your life that come."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 941.89996,
+      "end": 942.39996,
+      "transcript": "So"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 943.345,
+      "end": 943.665,
+      "transcript": "your"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 944.305,
+      "end": 945.685,
+      "transcript": "the the regret's gonna"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 946.225,
+      "end": 956.325,
+      "transcript": "go up and your abilities are gonna go down. So you better, like, do it. Start now. Yeah. Wait. Okay. Explain me how does the answer comes in. So the moment I talk, I type something in perplexity."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 956.865,
+      "end": 961.94,
+      "transcript": "Yeah. And I type the question. Yeah. Does it show answer based on my interest"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 962.39996,
+      "end": 969.94,
+      "transcript": "and what I would be interested in? Or does it show based on some level of merit? Like what is the way that you show me? Because as far as I understand about Google,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 970.72,
+      "end": 973.22,
+      "transcript": "it depends a lot on the location I'm in, my"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 973.815,
+      "end": 984.075,
+      "transcript": "past history, what kind of things I'm interested in. Then Google shows me some lot set of those things. And maybe like keywords and stuff like that. But a lot depends on"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 984.695,
+      "end": 987.195,
+      "transcript": "two individual people. We have tried this multiple times."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 987.74,
+      "end": 996.8,
+      "transcript": "Two people from the same location searching the same thing probably shows, like, three, four top version things. Right? So I think in in the case of Google, the reason you see different results,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 997.74,
+      "end": 999.51996,
+      "transcript": "might not even be personalization."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1000.37994,
+      "end": 1000.87994,
+      "transcript": "Mhmm."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1001.81995,
+      "end": 1003.635,
+      "transcript": "Google runs AB tests a lot."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1004.515,
+      "end": 1006.135,
+      "transcript": "Ranking algorithm AB tests,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1006.91504,
+      "end": 1008.055,
+      "transcript": "UI AB tests,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1008.91504,
+      "end": 1017.895,
+      "transcript": "a number of ads on the query. There's a lot of other things that end up making the result pretty different per user. The biggest level of personalization you can make is"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1020.25,
+      "end": 1024.51,
+      "transcript": "location actually. That gives you most of the heavy lifting in terms of personalization."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1025.29,
+      "end": 1029.23,
+      "transcript": "So what we do when you ask a query is we pull up relevant results,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1030.09,
+      "end": 1040.0449,
+      "transcript": "from an index we have. We look at ranking signals that we can get from many different search engines. We pull them all together with a proprietary algorithm. And then we let the model"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1040.745,
+      "end": 1042.525,
+      "transcript": "read all those retrieved links,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1043.3049,
+      "end": 1044.445,
+      "transcript": "pull relevant paragraphs,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1045.05,
+      "end": 1048.91,
+      "transcript": "use that to write a synthesize and answer and pull the final citations"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1049.4501,
+      "end": 1055.31,
+      "transcript": "and allow you to keep conversing by keeping things in context, keeping the past sources, past answer, past query in context."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1055.6101,
+      "end": 1057.31,
+      "transcript": "As it grows, it gets more challenging."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1058.0549,
+      "end": 1059.2749,
+      "transcript": "And we do all this"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1059.735,
+      "end": 1066.235,
+      "transcript": "at pretty minimal latency that makes the product feel fast yet pretty useful. So, the hard part is actually the orchestration."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1067.095,
+      "end": 1073.55,
+      "transcript": "You can do a lot in what links you've retrieved with the first stage that can make the answer quality really, really good without"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1076.99,
+      "end": 1078.8501,
+      "transcript": "a lot of it just has to do with"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1079.4701,
+      "end": 1082.93,
+      "transcript": "filtering out really low quality domains that gives you"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1083.39,
+      "end": 1085.9701,
+      "transcript": "a lot of heavy lifting to quality improvements."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1087.535,
+      "end": 1090.755,
+      "transcript": "And then, like, there are subtle things you can do based on the region,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1091.695,
+      "end": 1097.715,
+      "transcript": "based on the user's past queries, based on the current query itself. You can rerank the final set of, like, links,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1098.815,
+      "end": 1100.195,
+      "transcript": "and we do all that."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1100.97,
+      "end": 1108.59,
+      "transcript": "But we've generally seen that, like, location, gender, like, are are, like, big predictors of what final set of links that you need to retrieve."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1109.29,
+      "end": 1110.75,
+      "transcript": "And any more personalization"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1111.21,
+      "end": 1114.085,
+      "transcript": "can improve the quality a bit, but,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1114.625,
+      "end": 1117.765,
+      "transcript": "most users or most queries are not gonna see the"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1118.145,
+      "end": 1118.645,
+      "transcript": "differences."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1119.4249,
+      "end": 1122.565,
+      "transcript": "So if you and me type the same problem here together,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1123.905,
+      "end": 1130.07,
+      "transcript": "are there chances that we'll see the same answer? Most likely you will unless by the way, as products and companies get bigger,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1130.77,
+      "end": 1132.37,
+      "transcript": "a lot of AB tests are run,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1132.77,
+      "end": 1133.99,
+      "transcript": "pretty much every day,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1134.53,
+      "end": 1136.47,
+      "transcript": "because that's the only way to improve the product."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1136.9299,
+      "end": 1141.03,
+      "transcript": "So if you see different answers, it either means different models we use for that or"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1143.155,
+      "end": 1143.8151,
+      "transcript": "the query"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1144.595,
+      "end": 1145.095,
+      "transcript": "reformulators,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1145.795,
+      "end": 1148.6951,
+      "transcript": "the ones that are taking your original query and changing it a bit."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1149.3151,
+      "end": 1150.6951,
+      "transcript": "Those models were different,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1152.115,
+      "end": 1154.2151,
+      "transcript": "or the ranking algorithms were different."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1156.06,
+      "end": 1161.04,
+      "transcript": "Literally verbatim query, if you get different answers, the only reason has to be, like, AB tests."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1161.42,
+      "end": 1163.68,
+      "transcript": "And you cannot do anything about it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1164.06,
+      "end": 1167.52,
+      "transcript": "Like, every product has to do this because the only way to iterate and improve"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1167.8201,
+      "end": 1169.8401,
+      "transcript": "is run AB tests on holdoutsets"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1170.5149,
+      "end": 1174.455,
+      "transcript": "and and see if, like, the retention was higher or, like, number of queries so that user"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1174.835,
+      "end": 1184.31,
+      "transcript": "ended up going up or there were more follow ups to that question that were, like, relevant but not, like, reclarifying the original query. So that means the original answer was correct."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1184.79,
+      "end": 1186.7301,
+      "transcript": "We collect a lot of signals like this."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1187.67,
+      "end": 1188.4901,
+      "transcript": "And so,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1191.3501,
+      "end": 1193.6901,
+      "transcript": "my hope is that even if you see a different answer,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1194.0701,
+      "end": 1197.53,
+      "transcript": "it ends up conveying the same thing rather than"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1198.525,
+      "end": 1210.625,
+      "transcript": "one answer is, like, completely contradictory to the other. Got it. So now do you get in investor meetings now that you have some such start investors? You have a bunch of capital now. Capital is never enough, though, but you have capital"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1211.0599,
+      "end": 1226.985,
+      "transcript": "and you have good investors. Yeah. Right. You have SoftBank as well. You have SoftBank, Stanley Druckenmiller, a bunch of really great people. Like bunch of great people. Right. Now do you go into a board meetings or investor meetings and be like, hey, you know what? I'm going to beat Google. No. We don't talk about how to beat Google."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1227.845,
+      "end": 1228.505,
+      "transcript": "I think"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1229.205,
+      "end": 1231.1449,
+      "transcript": "we just talk about how to grow perplexity."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1232.005,
+      "end": 1234.2649,
+      "transcript": "Just very being very honest with you, like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1235.8301,
+      "end": 1238.3301,
+      "transcript": "I think the Google positioning is very interesting"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1238.87,
+      "end": 1243.37,
+      "transcript": "mainly because there's a reason they cannot ship the same product to a billion users yet,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1243.8301,
+      "end": 1245.29,
+      "transcript": "because of the NVIDIA Diamond"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1245.5901,
+      "end": 1246.0901,
+      "transcript": "situation."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1246.63,
+      "end": 1247.8501,
+      "transcript": "So it's very interesting."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1248.63,
+      "end": 1254.6849,
+      "transcript": "But they're also very clear, right, about that and they're building Gemini and they're trying to, like, make it as,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1255.225,
+      "end": 1268.26,
+      "transcript": "you know, at least like, oh, if there is an app that truly kills Google, it's better we also own one of it. Right? My hope is that in the next generational search where we're all gonna converse and ask questions on voice and"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1268.56,
+      "end": 1269.62,
+      "transcript": "get tasks done,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1269.92,
+      "end": 1272.1001,
+      "transcript": "I hope there are multiple players there."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1272.64,
+      "end": 1279.78,
+      "transcript": "And Google will certainly be one of them. There's no question about it. And OpenAI will be one of them. We hope to be one of them."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1280.175,
+      "end": 1282.3551,
+      "transcript": "Meta is likely to be one of them, XAI."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1283.4551,
+      "end": 1286.5951,
+      "transcript": "So I'm hoping like there are a lot of players here and,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1287.775,
+      "end": 1288.655,
+      "transcript": "it's a much more"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1290.5751,
+      "end": 1293.875,
+      "transcript": "I still think there'll be a winner for the dominant market share,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1294.52,
+      "end": 1297.58,
+      "transcript": "but I hope it's like, it's not like a 90%"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1298.52,
+      "end": 1300.14,
+      "transcript": "winner and like 10%"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1300.2799,
+      "end": 1300.7799,
+      "transcript": "rest."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1301.32,
+      "end": 1303.4199,
+      "transcript": "And that can be avoided if you're"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1303.96,
+      "end": 1307.5,
+      "transcript": "having enough capital to compete and like innovative on like features you're shipping"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1308.055,
+      "end": 1310.875,
+      "transcript": "and figure out new business models outside subscriptions,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1312.295,
+      "end": 1317.595,
+      "transcript": "new ways for commerce to happen here. You have to do all that work. There's a lot of non AI work to be done here."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1317.975,
+      "end": 1324.41,
+      "transcript": "And, so we talk a lot about those kinds of things in board meetings rather than like, oh, how can I get everyone's"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1326.87,
+      "end": 1335.77,
+      "transcript": "single word searches that are happening on Google on perplexity? That's impossible. I'm not going to get it unless it literally displays your browser, your operating system, everything."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1336.745,
+      "end": 1344.4451,
+      "transcript": "That's not worth thinking about. Rather, it's worth thinking about like, okay, there are some kind of searches that clearly people are coming to perplexity for not going to Google,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1345.305,
+      "end": 1349.9651,
+      "transcript": "how to grow that, those kind of searches, which is actually new, right? We were not Earlier,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1350.665,
+      "end": 1351.7251,
+      "transcript": "at least me,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1352.0801,
+      "end": 1355.9401,
+      "transcript": "we were I was not going to Google to type in a full quest than ever."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1356.7201,
+      "end": 1358.18,
+      "transcript": "So that's a new ability"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1358.4801,
+      "end": 1358.9801,
+      "transcript": "that"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1359.36,
+      "end": 1361.7001,
+      "transcript": "some people are not even aware they can do and"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1362.4,
+      "end": 1363.2201,
+      "transcript": "that'll grow."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1363.76,
+      "end": 1364.26,
+      "transcript": "And"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1365.525,
+      "end": 1369.9451,
+      "transcript": "I think that market, how to monetize that, how to grow that, how to like bring it to more verticals,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1370.3251,
+      "end": 1382.7,
+      "transcript": "how to get in front of more users, that's where it's really worth focusing the energy on. Okay. Compare for a layman like me and for all the viewers who are watching, compare Google with Perpacity for me. What are the weaknesses"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1383.0,
+      "end": 1391.34,
+      "transcript": "which Google has? Yeah. And those are the weaknesses or the gaps that you guys have seen and you are solving it for it. Yeah. So the median number of words"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1391.72,
+      "end": 1395.785,
+      "transcript": "on a Google search is like two to three words, I think 2.3"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1395.785,
+      "end": 1396.605,
+      "transcript": "words maybe."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1396.985,
+      "end": 1400.285,
+      "transcript": "The median number of words on a perplexity search is like 10 words."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1400.905,
+      "end": 1405.245,
+      "transcript": "So, people on Google, like if you actually go to trends.google.com"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1406.265,
+      "end": 1410.5599,
+      "transcript": "and look at the top one, not the rising ones, the top ones are always like single"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1410.94,
+      "end": 1413.6,
+      "transcript": "word searches, Amazon, Instagram, Reddit, TikTok,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1414.94,
+      "end": 1415.44,
+      "transcript": "weather,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1415.98,
+      "end": 1419.6799,
+      "transcript": "score, cricket. You know, it's like single word searches."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1421.58,
+      "end": 1429.0549,
+      "transcript": "And that tells you what people are mostly doing. They're just navigating the web, you know. Sometimes they ask like very quick"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1429.4349,
+      "end": 1436.895,
+      "transcript": "fast facts like search and Tenufer age or something. You know, you just quickly get it right there. But you're not asking questions like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1437.4701,
+      "end": 1438.03,
+      "transcript": "oh, like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1438.8301,
+      "end": 1440.2101,
+      "transcript": "how many times has Tendulkar,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1440.99,
+      "end": 1441.9701,
+      "transcript": "scored a"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1442.75,
+      "end": 1444.77,
+      "transcript": "100 and India has lost a match?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1445.31,
+      "end": 1453.675,
+      "transcript": "You're probably not going to get it quickly on Google. It'll give you a bunch of links. You'll have to open them. You'll have to read and parse and figure out. You You can ask those kind of questions on perplexity."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1454.2151,
+      "end": 1466.0751,
+      "transcript": "You can ask Sachin Tendulkar H also on perplexity, but there's going to be some overlap in the searches that we can share. But there are just going to be some searches that are clearly better than on Google, which is a quick fast navigation."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1466.6599,
+      "end": 1475.64,
+      "transcript": "And there are going to be some searches that are better than on perplexity, which is actual answers to questions. So you can ask me how many people are really asking these kind of complicated questions."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1476.4199,
+      "end": 1477.88,
+      "transcript": "Today, not so much."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1478.26,
+      "end": 1483.485,
+      "transcript": "We get 20,000,000 queries a day and, you know, maybe like 80% of them are like pretty deep questions."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1483.785,
+      "end": 1502.72,
+      "transcript": "But over time, it's going to grow. You're not just going to ask those kind of weird esoteric questions. You're going to ask things like, Oh, like, how do I fix my how do I renew my other card? I'm actually outside The US. Or like my passport door and like, I I'm I'm stuck stuck in this country. What what do I do? Like, these are the kind of questions that are going to like grow."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1503.02,
+      "end": 1504.32,
+      "transcript": "Yeah. And I think,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1505.26,
+      "end": 1511.2,
+      "transcript": "you're not going to go to Google to that for two reasons. One is Google, was never like meant for that."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1511.6951,
+      "end": 1515.795,
+      "transcript": "It's ingrained in you is not that user habit yet. So that"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1516.0951,
+      "end": 1528.25,
+      "transcript": "muscle memory is not something that we're competing with. So we can actually, like, be the product go to product for that. Number two is even if they ship things like AI review or, like, answers right there, it they don't actually"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1528.55,
+      "end": 1529.77,
+      "transcript": "know when to, like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1530.15,
+      "end": 1533.37,
+      "transcript": "do that and when not to. And it becomes a,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1534.9501,
+      "end": 1541.29,
+      "transcript": "you know, like a kitchen sink of so many different UIs in one search page, which really frustrates the user. And"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1541.75,
+      "end": 1544.105,
+      "transcript": "it actually competes with their ad business,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1544.645,
+      "end": 1547.2051,
+      "transcript": "and, like, revenue traffic. Right? So,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1548.0851,
+      "end": 1549.9451,
+      "transcript": "that's where I think we have a clear opportunity."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1550.405,
+      "end": 1553.4451,
+      "transcript": "And this category of searches is gonna grow,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1553.925,
+      "end": 1566.5,
+      "transcript": "exponentially in the next five to ten years. And we won't be the only person to capture that market. I think ChatGPT will also compete. Even though ChatGPT started off as a writing tool, they're also going more towards these kind of prompts."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1567.04,
+      "end": 1571.345,
+      "transcript": "And Gemini will also be a player in this, but it's going to be a pretty interesting,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1572.765,
+      "end": 1577.345,
+      "transcript": "new market that's emerging. Yeah. So without even knowing about this,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1578.045,
+      "end": 1580.545,
+      "transcript": "you're right. I use perplexity for this only."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1581.405,
+      "end": 1582.545,
+      "transcript": "And it's so subconscious"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1583.6,
+      "end": 1586.5,
+      "transcript": "that I use it for x y z reason because probably"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1586.8,
+      "end": 1590.02,
+      "transcript": "the first time I asked question, it showed me the kind of answers which"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1590.8,
+      "end": 1598.98,
+      "transcript": "made me ask more deeper questions. Yeah. So I would really go on Google and be like, hey, Sachin Tendulkar's age or"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1600.115,
+      "end": 1610.5349,
+      "transcript": "how much this person's spending, or whatever. Like some random Yeah. Very easy one word kind of answer. Yeah. And then I would go on perplexity and be like, okay, what's a specific core message"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1611.1549,
+      "end": 1618.68,
+      "transcript": "of this person in this speech in this year? Right. And then this is the specificity I go to. Yeah. And then I get an answer. Yeah. By the way,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1619.48,
+      "end": 1621.98,
+      "transcript": "I would say just, you know, like for"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1623.24,
+      "end": 1624.54,
+      "transcript": "the correctness of it,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1625.24,
+      "end": 1631.155,
+      "transcript": "both sides will do what the other side is doing. Like, we'll be we we'll try to get even faster"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1631.8551,
+      "end": 1635.4751,
+      "transcript": "at, like, quick fast facts, like, such a tender look at the age"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1635.8551,
+      "end": 1638.915,
+      "transcript": "or, how much did India spend on transportation,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1639.8551,
+      "end": 1641.0751,
+      "transcript": "those kind of, like, things."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1641.9801,
+      "end": 1649.66,
+      "transcript": "And make the experience better for you so that you don't have to go somewhere else with those questions. Like, why even the user burden of deciding when to use what tool? Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1650.54,
+      "end": 1653.12,
+      "transcript": "And at the same time, Google will also try to get better"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1654.095,
+      "end": 1655.5549,
+      "transcript": "at, like, you know, like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1657.215,
+      "end": 1664.355,
+      "transcript": "pull ups that require multiple hops of reasoning. So both things are gonna happen. And that's why it's interesting moment for the user,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1664.655,
+      "end": 1665.155,
+      "transcript": "like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1666.095,
+      "end": 1669.475,
+      "transcript": "of, like, who's gonna deliver the best orchestrated product."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1669.9601,
+      "end": 1675.5,
+      "transcript": "Is it the one that's starting from answers? Is it the one that already has links and these one box answers?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1675.9601,
+      "end": 1677.42,
+      "transcript": "Nobody knows, right? Because"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1677.7201,
+      "end": 1679.5801,
+      "transcript": "you can argue in bold favor,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1680.2001,
+      "end": 1692.9651,
+      "transcript": "the more general system can build the final solution faster versus the legacy system that's trying to, like, layer in things together. What would beating Google be like? It feels amazing. Like and I was definitely inspired by"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1693.3451,
+      "end": 1708.995,
+      "transcript": "Larry and Sergei a lot and the founding story of Google, the academic roots that deeply I mean, I've worked as an intern there, both DeepMind and Brain, and, a lot of the Google culture engineering focus, I'm a big fan of that. So it would feel great to have a product that,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1709.955,
+      "end": 1712.215,
+      "transcript": "look, I think the true test is"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1712.675,
+      "end": 1720.055,
+      "transcript": "if even people within Google, like Google employees and their kids, they all use perplexity and so Google because it's a better product, not because"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1720.675,
+      "end": 1727.91,
+      "transcript": "they want to like They stop liking Google and they move for it, But, like, they truly there's no other choice. They get to use it because it's a better product."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1728.29,
+      "end": 1730.13,
+      "transcript": "I think that is the true true,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1730.53,
+      "end": 1738.785,
+      "transcript": "benchmark, and that's gonna take a while. But what would it look like? Like, okay. So you said it'll be feel amazing, but what would it look like? Like,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1739.3451,
+      "end": 1742.9651,
+      "transcript": "at what point will you know that, okay, we have done better job?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1744.145,
+      "end": 1751.925,
+      "transcript": "I I'll tell you. Three markers. Yeah. Like, so today we do, like, 20,000,000 daily queries. Right? It has to get to, like, two hours of magnitude more,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1752.7051,
+      "end": 1753.525,
+      "transcript": "like 2,000,000,000."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1754.24,
+      "end": 1766.3401,
+      "transcript": "Now you can say it's even that's lower than what Google does. Like, I think Google does like around six to eight, something like that. But, because of the query length here, I would say that we've done the job."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1767.5449,
+      "end": 1768.0449,
+      "transcript": "And,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1768.825,
+      "end": 1773.8049,
+      "transcript": "you can see it, right? Like, look, the younger generation has less loyalty to Google"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1774.1849,
+      "end": 1779.4049,
+      "transcript": "as we do. So, they're actually the older generation allows these voice to voice systems."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1779.7849,
+      "end": 1782.205,
+      "transcript": "The younger generation also allows using these"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1783.35,
+      "end": 1784.5701,
+      "transcript": "conversational systems."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1785.35,
+      "end": 1789.93,
+      "transcript": "So, I think it's going to be very interesting to see how the behaviour of the new generation changes."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1791.75,
+      "end": 1797.6901,
+      "transcript": "So one way to mark like a marker is like what product do they use when they grow up?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1798.965,
+      "end": 1805.705,
+      "transcript": "And my prediction is it won't be all Google. Let's play the long game here. Like it's not necessary to win every single user. Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1806.965,
+      "end": 1812.025,
+      "transcript": "And I think that mentality of like, oh, I'm the next Google means I need to have 90% market share"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1812.4099,
+      "end": 1818.83,
+      "transcript": "should go away. I think no one's gonna be that next Google. So when I say we are competing with Google, I'm only saying about the core search experience."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1819.13,
+      "end": 1839.255,
+      "transcript": "Yeah. Not the alphabet unit or the Google stock. So a lot of people like use this, you know, criticism for us saying like, oh, like, look at this competitor, but then Google stock keeps going up. Okay. Listen. Like, they have, like, so many other businesses, and I'm not saying the stock's gonna go down ever. Like, it's a safe investment to make. They have Waymo. They have, like, so many new businesses that are coming up, DeepMind,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1840.0349,
+      "end": 1842.9349,
+      "transcript": "AlphaFold, like Quantum Chips. So it's it's a great"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1843.4501,
+      "end": 1843.9501,
+      "transcript": "company,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1844.3301,
+      "end": 1847.63,
+      "transcript": "but the core search product for the first time ever in like two decades,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1848.3301,
+      "end": 1851.9501,
+      "transcript": "is clearly under threat. If if it was not under threat, they wouldn't be doing like"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1852.41,
+      "end": 1854.8301,
+      "transcript": "Gemini AI overview. Right? Yeah."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1855.485,
+      "end": 1855.985,
+      "transcript": "Interesting."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1856.445,
+      "end": 1861.425,
+      "transcript": "Okay. So is it fair to say that the success would look like"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1861.805,
+      "end": 1863.585,
+      "transcript": "when an entire generation"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1864.205,
+      "end": 1864.705,
+      "transcript": "would"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1865.005,
+      "end": 1867.025,
+      "transcript": "use your product as a default?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1867.405,
+      "end": 1873.24,
+      "transcript": "The way one generation uses Google as a default. That would, like, that would beating Google mean like."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1873.7,
+      "end": 1876.12,
+      "transcript": "Yeah. Or or having a higher market share there."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1877.22,
+      "end": 1884.84,
+      "transcript": "Like like That's why, like, entire generation, like, a majority of the generation using one thing. Yeah. Exactly. Mhmm. Let's say, like, it's split, like, you know, forty, thirty,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1885.2999,
+      "end": 1885.7999,
+      "transcript": "20,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1888.3949,
+      "end": 1891.9349,
+      "transcript": "10 with among four tools. I don't know what they are. Maybe us like"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1892.5549,
+      "end": 1893.5349,
+      "transcript": "Microsoft, Google,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1894.075,
+      "end": 1898.815,
+      "transcript": "Mero, like something like that. Right? I think that will be a pretty big win."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1899.355,
+      "end": 1899.855,
+      "transcript": "And"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1900.48,
+      "end": 1905.94,
+      "transcript": "I hope, like, unanimously that the global aggregate is that, and that will be an even massive win."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1906.5599,
+      "end": 1907.0599,
+      "transcript": "But,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1907.5199,
+      "end": 1914.945,
+      "transcript": "even, like, one generation would be a great win. Where do you stand today? Give me give me some comparison. I'm interested in this. Let's say Right now the"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1915.4049,
+      "end": 1921.1849,
+      "transcript": "AI usage is like, I think chat should be at 80% market share right now as far as I'm aware. And you?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1922.6849,
+      "end": 1923.4249,
+      "transcript": "It depends"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1923.725,
+      "end": 1926.385,
+      "transcript": "on the web and the mobile. I believe on the web we are"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1927.1599,
+      "end": 1927.6599,
+      "transcript": "third"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1927.96,
+      "end": 1929.1,
+      "transcript": "and Gemini second."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1929.64,
+      "end": 1938.62,
+      "transcript": "On mobile, I think Gemini has more installs, but extremely poor retention. So in terms of actual usage on mobile, I wouldn't be surprised if we're number two."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1940.195,
+      "end": 1945.255,
+      "transcript": "And I think like Copilot has a lot of installs too, but lower retention than us. But"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1946.595,
+      "end": 1949.815,
+      "transcript": "clear winner right now with web and mobile is Chargebee. Chargebee."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1950.275,
+      "end": 1955.06,
+      "transcript": "And but that doesn't need to remain the case. Yeah. And that's why it's really interesting. And,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1955.76,
+      "end": 1958.02,
+      "transcript": "in terms of funding, if you want to compare yourself"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1958.88,
+      "end": 1960.26,
+      "transcript": "with, let's say, ChatGPT,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1961.4401,
+      "end": 1963.38,
+      "transcript": "Google and you, where do you stand?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1963.76,
+      "end": 1964.66,
+      "transcript": "Oh, come on."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1965.8401,
+      "end": 1967.6001,
+      "transcript": "Google has like a $100,000,000,000"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1967.6001,
+      "end": 1968.18,
+      "transcript": "in cash."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1969.625,
+      "end": 1973.805,
+      "transcript": "And chat GBT has raised, I mean, as an open AI. Yeah. They've raised,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1975.545,
+      "end": 1978.285,
+      "transcript": "the last round was probably like 10,000,000,000"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1978.905,
+      "end": 1981.805,
+      "transcript": "and I think they're going to raise more and they've already raised"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1982.3451,
+      "end": 1983.385,
+      "transcript": "like 13,000,000,000."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1983.385,
+      "end": 1986.5,
+      "transcript": "So in total they raised 20,000,000,000 or 25,000,000,000."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1986.8,
+      "end": 1989.38,
+      "transcript": "Right. And they can definitely have they have the brand"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1989.92,
+      "end": 1995.62,
+      "transcript": "to raise more. Yeah. So we have not even raised a billion so far in total. How much have you raised total?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1995.92,
+      "end": 1998.18,
+      "transcript": "I mean, in total we've raised around like"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1998.64,
+      "end": 2000.18,
+      "transcript": "800 or 900,000,000."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2000.6449,
+      "end": 2005.225,
+      "transcript": "Right? So And the last round was around? Yeah, we raised 500 in the last round. So"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2005.605,
+      "end": 2006.105,
+      "transcript": "clearly,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2006.965,
+      "end": 2010.2649,
+      "transcript": "like from one end, if you look at our funding rounds, it looks massive."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2011.125,
+      "end": 2012.6649,
+      "transcript": "But on the other hand,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2013.43,
+      "end": 2016.9099,
+      "transcript": "these are like three like one has 100, another has"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2017.35,
+      "end": 2026.49,
+      "transcript": "like raised 20 but burning 5 like losing 5,000,000,000 a year. So, it's not exactly the same. And us, it's like we raised not even a billion. So, clearly there's three different"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2027.965,
+      "end": 2029.5049,
+      "transcript": "orders of management on the spectrum."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2032.365,
+      "end": 2036.3849,
+      "transcript": "But the nice thing is just because you have the money doesn't mean you win."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2038.7649,
+      "end": 2041.745,
+      "transcript": "Like I said, if that was true, then we would never have been even"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2042.5,
+      "end": 2043.5599,
+      "transcript": "being in the conversation."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2044.98,
+      "end": 2048.44,
+      "transcript": "So the one who can ship the best product has a good chance."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2049.6199,
+      "end": 2051.72,
+      "transcript": "Lower bureaucracy, faster movement,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2052.1,
+      "end": 2052.92,
+      "transcript": "lower distractions,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2053.3,
+      "end": 2055.32,
+      "transcript": "clear focus on just the product."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2056.065,
+      "end": 2058.2449,
+      "transcript": "Definitely has a lot of advantages here."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2058.7048,
+      "end": 2060.4849,
+      "transcript": "So what we need to ensure is"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2061.105,
+      "end": 2064.7249,
+      "transcript": "keep growing our usage, keep growing our brand and mind share,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2066.145,
+      "end": 2070.005,
+      "transcript": "figure out ways to monetize well too, so that we don't just end up with"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2070.6,
+      "end": 2078.2202,
+      "transcript": "a big pile of cash and a lot of users, but don't know how to turn that into real business. We don't want to be in that sort of spot either."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2079.0,
+      "end": 2080.3801,
+      "transcript": "So but don't like"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2082.455,
+      "end": 2082.955,
+      "transcript": "overemphasize"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2083.335,
+      "end": 2085.175,
+      "transcript": "revenue over growth. So there are"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2085.975,
+      "end": 2091.115,
+      "transcript": "if we can ensure we get these basics right over the next two years and keep shipping cool things"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2091.415,
+      "end": 2096.795,
+      "transcript": "and staying ahead of the rest and core user experience, then we have a good shot at playing this game."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2097.27,
+      "end": 2102.8901,
+      "transcript": "But if we don't, like, there's nothing we ship that others don't ship in, like, a matter of weeks or months. Mhmm."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2103.75,
+      "end": 2106.17,
+      "transcript": "And if we are not growing our user base,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2106.87,
+      "end": 2114.225,
+      "transcript": "and if we don't know how to monetize the existing user base well, we're definitely gonna be in a difficult spot. And your current focus is revenue or growth? Growth."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2114.685,
+      "end": 2117.2651,
+      "transcript": "So you're not gonna focus on revenue for a while."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2117.645,
+      "end": 2118.865,
+      "transcript": "We'll make good revenue"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2119.165,
+      "end": 2120.545,
+      "transcript": "to the extent that, like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2120.925,
+      "end": 2123.2651,
+      "transcript": "at least on the paying users, we have good margins."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2123.9001,
+      "end": 2131.04,
+      "transcript": "And the free users, the cost of running the service keeps going down because these models get cheaper and we'll figure out ways to make it cheaper algorithmically too."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2131.34,
+      "end": 2133.6,
+      "transcript": "But we're not going to obsess about like making"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2133.98,
+      "end": 2138.56,
+      "transcript": "revenue and turning the company profitable next year. Yeah. Okay. And then"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2139.015,
+      "end": 2142.2349,
+      "transcript": "what about XAI? You read the news yesterday. They just circulated."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2142.855,
+      "end": 2145.095,
+      "transcript": "I think Elon raised $6,000,000,000"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2145.095,
+      "end": 2146.315,
+      "transcript": "for XAI. Yeah."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2146.9348,
+      "end": 2148.315,
+      "transcript": "Are are you scared of Elon?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2148.9348,
+      "end": 2150.1548,
+      "transcript": "I mean, come on. Like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2151.19,
+      "end": 2157.05,
+      "transcript": "what? It's not a scare. I'm a fan. Like, he's a, you know, inspirational entrepreneur for me."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2158.71,
+      "end": 2167.965,
+      "transcript": "And I think it's cool that he's also building something here in the space, and I would never underestimate him. It's the quote is like never bet against Elon Musk."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2169.225,
+      "end": 2171.865,
+      "transcript": "My hope is like there's a lot of people who, you know,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2172.5051,
+      "end": 2181.5,
+      "transcript": "there's not like one product everybody uses here. You know, there's a lot of people use different apps and he's also gonna work in the search space. Clearly, like Grok's doing some"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2182.12,
+      "end": 2182.62,
+      "transcript": "web"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2183.24,
+      "end": 2183.74,
+      "transcript": "sources"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2184.3599,
+      "end": 2184.8599,
+      "transcript": "too."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2185.48,
+      "end": 2188.14,
+      "transcript": "My sense is there are a lot of verticals to build here."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2189.8,
+      "end": 2192.3801,
+      "transcript": "There is finance, shopping, travel, local,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2192.92,
+      "end": 2193.9,
+      "transcript": "weather, news,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2194.92,
+      "end": 2195.42,
+      "transcript": "sports."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2196.855,
+      "end": 2199.675,
+      "transcript": "Like, so even within each of these, there's so many subverticals,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2201.175,
+      "end": 2203.195,
+      "transcript": "and, like, entertainment is there, shows."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2203.655,
+      "end": 2206.155,
+      "transcript": "So there's a lot of things to do here that, like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2209.1199,
+      "end": 2212.5,
+      "transcript": "some products will be amazing at some things, some products will be worse at other things."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2212.8,
+      "end": 2213.6199,
+      "transcript": "And I feel,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2214.88,
+      "end": 2218.16,
+      "transcript": "Elon's entry just makes the whole market even bigger. The"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2218.72,
+      "end": 2223.165,
+      "transcript": "if it takes if some if something is worth its time, then it just means, like, the market's huge."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2223.725,
+      "end": 2224.625,
+      "transcript": "And then, but"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2224.925,
+      "end": 2236.65,
+      "transcript": "does it bother you? Does it scare you in some say? No. Because there are already like a lot of star players and the big players with big deep pockets. Mhmm. And then there's Elon as well. Now he's entering into this"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2237.45,
+      "end": 2239.8699,
+      "transcript": "this space where you are operating and you"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2240.3298,
+      "end": 2241.15,
+      "transcript": "are three."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2241.45,
+      "end": 2242.99,
+      "transcript": "They are number third right now."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2243.45,
+      "end": 2246.91,
+      "transcript": "You want to escalate to number two and then eventually number one, but then"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2247.21,
+      "end": 2248.75,
+      "transcript": "there's this guy. And you said"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2249.475,
+      "end": 2251.655,
+      "transcript": "the world says that don't bet against Elon."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2251.955,
+      "end": 2262.375,
+      "transcript": "Right? Yeah. I mean, by that, I mean, like, he's not gonna lose. Like, he's definitely gonna have a good market share and he's gonna win in in some manner. So what what does it mean? Like, if someone like him raises the money,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2262.8699,
+      "end": 2265.2898,
+      "transcript": "does it mean raising money for you gets difficult?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2267.19,
+      "end": 2270.0898,
+      "transcript": "So it's, it's, it's complicated. Like, obviously,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2270.39,
+      "end": 2270.95,
+      "transcript": "you know,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2271.5898,
+      "end": 2274.0098,
+      "transcript": "money is not infinite sum. Right?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2275.765,
+      "end": 2278.105,
+      "transcript": "Similarly, GPUs are not infinite sum."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2279.525,
+      "end": 2280.9849,
+      "transcript": "There are some zero sum games"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2281.445,
+      "end": 2281.945,
+      "transcript": "there"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2282.4849,
+      "end": 2288.9502,
+      "transcript": "because just constraints in the world, how much capital there is and how many GPUs you can make. Yeah. So,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2289.4902,
+      "end": 2295.4302,
+      "transcript": "yeah, definitely, like, there are some advantages having a lot of capital, but at the same time, it's also how you spend it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2295.8901,
+      "end": 2298.77,
+      "transcript": "So XAI, for example, has raised $6,000,000,000,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2299.01,
+      "end": 2303.75,
+      "transcript": "out of which they intend to spend 5,000,000,000 on just building a data center with a million GPUs."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2304.875,
+      "end": 2306.815,
+      "transcript": "At least that's what I read. Maybe it's wrong."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2307.435,
+      "end": 2314.095,
+      "transcript": "Maybe it's an overestimate, but let's just assume that they spend 60 to 70% of the cash on just building data centers."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2314.4749,
+      "end": 2317.615,
+      "transcript": "So, that's not how we are spending our money. So"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2317.95,
+      "end": 2321.41,
+      "transcript": "the amount they're actually spending on the core product and making it better,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2321.79,
+      "end": 2324.6099,
+      "transcript": "will be probably comparable on a yearly basis."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2325.95,
+      "end": 2330.8499,
+      "transcript": "And I think that gives you a pretty good shot if you're not training your own models."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2332.0251,
+      "end": 2336.125,
+      "transcript": "And now you can ask like, Oh, what if they train an insanely better model than the rest?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2336.5852,
+      "end": 2338.0452,
+      "transcript": "That just makes their product"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2338.5051,
+      "end": 2342.6052,
+      "transcript": "way better, that no matter if you use other people's models, you're not going to be as good as them."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2343.225,
+      "end": 2345.3252,
+      "transcript": "Again, like, it's possible,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2346.42,
+      "end": 2348.68,
+      "transcript": "but I wouldn't give it a very high probability"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2349.0598,
+      "end": 2349.5598,
+      "transcript": "because,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2350.8198,
+      "end": 2353.5598,
+      "transcript": "so far the trends are that models are"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2353.94,
+      "end": 2359.0,
+      "transcript": "like, there are, like, too many players and they're all, like, playing ping pong and, like, it's very evenly contested."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2359.485,
+      "end": 2364.3652,
+      "transcript": "Like anthropics there, Google is there, Meta is there, OpenAI is there. So,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2364.925,
+      "end": 2366.0652,
+      "transcript": "I think there's good,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2367.245,
+      "end": 2375.2698,
+      "transcript": "thesis for a company like us, which can use all of them and just focus on the user. So now that he's a part of the government as well, does it give him any edge?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2376.21,
+      "end": 2382.39,
+      "transcript": "I mean, my, my sense is like he's never really taken any advantage of that. And then like, for example Not yet."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2382.7698,
+      "end": 2386.5498,
+      "transcript": "Okay. Like I, I would just go over past actions are a good predictor of future"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2387.0151,
+      "end": 2387.5151,
+      "transcript": "And"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2387.975,
+      "end": 2388.475,
+      "transcript": "he,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2389.335,
+      "end": 2391.0352,
+      "transcript": "owns X. Yeah. Right?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2391.495,
+      "end": 2392.875,
+      "transcript": "But it's not like he,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2395.175,
+      "end": 2395.915,
+      "transcript": "de amplified"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2396.7751,
+      "end": 2398.875,
+      "transcript": "any of his rivals' tweets or"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2399.69,
+      "end": 2407.15,
+      "transcript": "company rivals' tweets. He could have done that, like, just gone to the algorithm, like, tweak the knobs to, like, lower the engagement score for those tweets."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2407.45,
+      "end": 2410.5298,
+      "transcript": "He could have done that and, like, hurt the marketing efforts of everybody"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2410.97,
+      "end": 2415.2852,
+      "transcript": "Mhmm. Except he himself. He hasn't he's never done as far as I know, OpenAI always"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2415.905,
+      "end": 2416.965,
+      "transcript": "dominates the Twitter"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2417.5051,
+      "end": 2418.0051,
+      "transcript": "discussions,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2419.5051,
+      "end": 2423.925,
+      "transcript": "and he owns the platform. He lets them thrive on it Yeah. Despite his rivalry."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2425.4001,
+      "end": 2433.58,
+      "transcript": "So I think he that that already shows, like, he doesn't combine, like, his power or ownership of something that's very powerful with, like, his business interests."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2434.04,
+      "end": 2437.8801,
+      "transcript": "So I think, like, whatever work he's gonna do in the government, I would just assume that,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2438.5552,
+      "end": 2440.415,
+      "transcript": "he truly cares about the country,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2441.0352,
+      "end": 2447.615,
+      "transcript": "and he's not, like, combining his business interests with that. You also said in Lex Fridman's podcast that perplexity"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2447.995,
+      "end": 2450.85,
+      "transcript": "is not succumb to political power the way Google is."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2451.33,
+      "end": 2454.9502,
+      "transcript": "What do you mean by that? Like, you know, Google in the past has been, like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2455.4102,
+      "end": 2456.31,
+      "transcript": "accused of,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2457.73,
+      "end": 2459.03,
+      "transcript": "like, at least, like, ranking,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2460.37,
+      "end": 2461.9102,
+      "transcript": "bias Mhmm. Where"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2462.4502,
+      "end": 2463.27,
+      "transcript": "if you tried"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2463.6848,
+      "end": 2468.585,
+      "transcript": "Trump News, you would get both it it would kind of reformulate your query to, like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2468.885,
+      "end": 2471.2249,
+      "transcript": "Harris, Trump and give you, like, both articles,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2472.885,
+      "end": 2473.765,
+      "transcript": "whereas for,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2474.2449,
+      "end": 2478.105,
+      "transcript": "if you just type Harris News, you will just get her news. Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2478.5,
+      "end": 2479.0,
+      "transcript": "Or,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2479.54,
+      "end": 2480.04,
+      "transcript": "autocomplete,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2480.42,
+      "end": 2484.5999,
+      "transcript": "when you type in Google, your queries are auto suggested, right? If you type Donald,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2485.7,
+      "end": 2487.4,
+      "transcript": "their next suggestion is duck"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2488.0999,
+      "end": 2494.065,
+      "transcript": "and not Trump and Trump doesn't even show up in the other list of suggestions. At least three or four instances like these, like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2495.5051,
+      "end": 2497.925,
+      "transcript": "where Google clearly had some ranking bias."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2499.425,
+      "end": 2502.0051,
+      "transcript": "I think, like, for example, the Joe Rogan Trump"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2502.945,
+      "end": 2506.485,
+      "transcript": "podcast, when people were going to search for it on YouTube, you couldn't even find it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2508.5,
+      "end": 2515.4,
+      "transcript": "So we don't have these issues as far I mean, as far as I'm aware, like we've tried to be pretty politically neutral."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2517.14,
+      "end": 2517.64,
+      "transcript": "And"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2518.82,
+      "end": 2522.655,
+      "transcript": "again, it's easy to build from a clean slate than having something and trying to correct it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2524.575,
+      "end": 2526.115,
+      "transcript": "But at the same time,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2526.575,
+      "end": 2531.955,
+      "transcript": "I'm also reading news of Sundar meeting Trump a lot and, like, Sergey went and met Trump."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2532.2551,
+      "end": 2539.19,
+      "transcript": "And Sundar clearly sent out an email saying gone are the days where we had, like, political opinions, and the only thing we care about is our mission"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2539.81,
+      "end": 2543.19,
+      "transcript": "delivering correct information. So clearly, like, they're changing."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2543.57,
+      "end": 2549.59,
+      "transcript": "And so maybe what I said, you know, in the next podcast one year ago may not be relevant now. Do you see"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2550.135,
+      "end": 2550.635,
+      "transcript": "any"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2550.935,
+      "end": 2551.435,
+      "transcript": "potential"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2551.815,
+      "end": 2553.675,
+      "transcript": "political threats coming on Perplexity"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2554.775,
+      "end": 2556.315,
+      "transcript": "at some point? I see."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2557.0151,
+      "end": 2563.355,
+      "transcript": "Look, you you don't know. Like, there are always unknown unknowns. If there is some article that said something negative about somebody"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2563.95,
+      "end": 2568.53,
+      "transcript": "and that surfaced in an answer and someone's upset about it and"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2568.91,
+      "end": 2570.8499,
+      "transcript": "even though the answer gives all perspectives,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2572.83,
+      "end": 2584.825,
+      "transcript": "there are chances that some group of people could get upset about it, right? So, anytime when a group of people are involved and their sentiments are heard, there's like room for politics to become part of it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2585.5251,
+      "end": 2594.2651,
+      "transcript": "And and it may not even happen in America, it might happen in some other country. And censorship and free speech have like different levels of relevance in each country."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2594.65,
+      "end": 2595.15,
+      "transcript": "So,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2595.69,
+      "end": 2596.99,
+      "transcript": "we are open to, like, you"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2597.53,
+      "end": 2604.11,
+      "transcript": "know, working with each government look like, individual government, like, what they think is reasonable for their country. We have to abide by their rules. Right?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2604.81,
+      "end": 2611.385,
+      "transcript": "I've been very clear about this. I'm, like, Google in the beginning, I think they had all these opinions of, like, them being about governments and"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2612.085,
+      "end": 2613.625,
+      "transcript": "what they really care about is"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2614.8052,
+      "end": 2615.625,
+      "transcript": "true freedom."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2619.605,
+      "end": 2621.5452,
+      "transcript": "You can read their culture, don't be evil,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2621.925,
+      "end": 2622.825,
+      "transcript": "just be free."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2623.125,
+      "end": 2627.28,
+      "transcript": "And they refused to operate in China and China wanted to censor them."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2627.66,
+      "end": 2628.16,
+      "transcript": "So,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2629.0999,
+      "end": 2631.5999,
+      "transcript": "reality is, like, everyone's a capitalistic"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2631.9,
+      "end": 2633.5999,
+      "transcript": "business at the end of the day. Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2633.9,
+      "end": 2636.5598,
+      "transcript": "You know, they're all competing to win government contracts."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2637.0999,
+      "end": 2638.96,
+      "transcript": "At one point, Google Cloud employees"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2640.955,
+      "end": 2643.535,
+      "transcript": "protested that Google's working with the Pentagon."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2644.155,
+      "end": 2645.2148,
+      "transcript": "And now, like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2645.755,
+      "end": 2647.855,
+      "transcript": "they just fired those people"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2648.155,
+      "end": 2652.895,
+      "transcript": "who did it again, and they're competing with Amazon and Microsoft to win those contracts because"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2653.53,
+      "end": 2655.71,
+      "transcript": "clearly that moves their revenue up and"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2656.09,
+      "end": 2658.83,
+      "transcript": "moves the stock up and that's what the shareholders want."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2659.29,
+      "end": 2659.79,
+      "transcript": "So,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2660.8901,
+      "end": 2661.55,
+      "transcript": "I think"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2662.01,
+      "end": 2665.87,
+      "transcript": "we're not going to repeat those mistakes of what they've been through,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2666.33,
+      "end": 2667.1501,
+      "transcript": "where they"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2668.385,
+      "end": 2670.4849,
+      "transcript": "forgot that they were actually a company"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2671.665,
+      "end": 2680.7249,
+      "transcript": "and like trying to like have political opinions and things like that. Like we're going to be like a proper well run business at the end. Great product. Like we want to be a great product"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2681.17,
+      "end": 2683.83,
+      "transcript": "where we have clear responsibility to our shareholders."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2684.37,
+      "end": 2687.03,
+      "transcript": "And we're not going to confuse that with"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2688.37,
+      "end": 2690.47,
+      "transcript": "my agenda or someone's agenda."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2691.73,
+      "end": 2693.43,
+      "transcript": "All that stays outside the company."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2694.335,
+      "end": 2699.795,
+      "transcript": "But would you lose out on these opportunities even if it means sacrificing revenues for your company?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2700.335,
+      "end": 2706.9148,
+      "transcript": "What what do you mean by lose out on the option? Lose out on opportunities of trying to maybe partner with some person, some government, somebody"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2707.45,
+      "end": 2710.27,
+      "transcript": "who wants little bend in your rules and in your platform"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2710.81,
+      "end": 2721.3901,
+      "transcript": "so that it shows searches in their favor. Mhmm. But that means you winning a lot of government contracts, you winning a lot of revenues, and eventually that maximizing your company's value."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2722.4949,
+      "end": 2728.275,
+      "transcript": "Complicated question. Right? Like, what I I don't wanna say something that'll be held to, like, obviously."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2730.015,
+      "end": 2734.915,
+      "transcript": "We'll try to do what's, like, right as as to the best of our abilities as possible."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2737.27,
+      "end": 2743.9302,
+      "transcript": "But if a certain government has rules, so you have to obey a if you wanna, like, just think about it, leave us,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2744.2302,
+      "end": 2747.77,
+      "transcript": "even you as an individual. If a certain government has rules"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2749.845,
+      "end": 2762.105,
+      "transcript": "of what you can do and not do, and you want to continue there and, like, run your business there, you will follow it, right? Or you have to move out. Yeah. The same thing applies to a business like us. But sometimes it's not rules. It's just"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2762.75,
+      "end": 2789.265,
+      "transcript": "few influencers calling you. Mhmm. That's it. It's not about the rules. Like, rules are pretty much black and white, and you can be freedom of speech. You can show whatever you wanna show. Mhmm. But maybe the ruling party wants something else. Because these are the political pressures which probably a Google faces or like a meta faces or maybe Twitter says it. Like x now. Yeah. Jack Dorsey has been very vocal about it that specifically about Indian government, a lot of other governments in the world,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2789.8298,
+      "end": 2792.49,
+      "transcript": "that there are some pressures that they have to actually"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2793.03,
+      "end": 2793.8499,
+      "transcript": "listen to."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2794.63,
+      "end": 2798.25,
+      "transcript": "I mean, like, I I just look at the fact that even, someone"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2798.63,
+      "end": 2799.3699,
+      "transcript": "like Elon,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2799.75,
+      "end": 2800.65,
+      "transcript": "way more"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2801.03,
+      "end": 2804.5698,
+      "transcript": "influential than me and way more opinionated than me,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2805.815,
+      "end": 2816.9548,
+      "transcript": "like, like how he's handled, like conflict with countries in different ways. Like with I think there was conflict with India at some point. There was conflict with Brazil at some point. And I think the way he went about it was different."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2817.575,
+      "end": 2818.075,
+      "transcript": "So,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2819.5,
+      "end": 2829.6802,
+      "transcript": "so long answer shots, very complicated. Because you are in India, I wanna talk about challenges of India. Yeah. Okay. What do you see like, where is India today in terms of in the world of AI,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2830.2202,
+      "end": 2831.6,
+      "transcript": "how far are we from"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2831.98,
+      "end": 2832.48,
+      "transcript": "becoming"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2833.255,
+      "end": 2839.115,
+      "transcript": "even a contender in the AI world? Yeah, like, I mean, I'm sorry if I'm repeating what I said earlier, but"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2839.4949,
+      "end": 2843.035,
+      "transcript": "I think we are very well positioned in terms of adoption."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2843.415,
+      "end": 2850.53,
+      "transcript": "Like we've already adopted a lot, like 92% of knowledge workers have adopted AI here compared to 65% is the global average elsewhere."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2852.11,
+      "end": 2855.8901,
+      "transcript": "So the amount of people who already know how to use these tools and like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2857.23,
+      "end": 2859.57,
+      "transcript": "can keep themselves updated with it"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2859.9502,
+      "end": 2864.145,
+      "transcript": "is pretty awesome. You don't need to like train them or something."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2864.525,
+      "end": 2869.905,
+      "transcript": "Like when I went to Japan, I saw like, there were like actual courses on how to learn"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2870.285,
+      "end": 2874.4648,
+      "transcript": "chat GPT or like all these different tools that people writing books on how to use perplexity."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2874.9248,
+      "end": 2877.9849,
+      "transcript": "I don't think you even need these things here. People are already like pretty"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2878.58,
+      "end": 2880.52,
+      "transcript": "acclimatized to these things."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2881.94,
+      "end": 2888.52,
+      "transcript": "What are the challenges that you see here? I think the challenges are how can people using these tools earn more?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2890.34,
+      "end": 2891.08,
+      "transcript": "They should."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2891.46,
+      "end": 2892.44,
+      "transcript": "They should ideally"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2892.9,
+      "end": 2893.4,
+      "transcript": "because,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2894.685,
+      "end": 2896.7852,
+      "transcript": "they should be able to do more work now,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2898.205,
+      "end": 2898.705,
+      "transcript": "faster"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2899.3252,
+      "end": 2899.8252,
+      "transcript": "throughput."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2900.5251,
+      "end": 2902.865,
+      "transcript": "So I hope the usage goes beyond just"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2903.165,
+      "end": 2908.6,
+      "transcript": "identifying hacks and cheat codes to get work done faster to like, okay, this thing is actually"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2909.06,
+      "end": 2913.4001,
+      "transcript": "making my life so much easier. So I'm going to figure out side gigs that I can do"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2913.78,
+      "end": 2914.76,
+      "transcript": "and earn more."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2915.06,
+      "end": 2915.56,
+      "transcript": "And"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2915.86,
+      "end": 2918.04,
+      "transcript": "if a bunch of people start doing that,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2919.525,
+      "end": 2926.1848,
+      "transcript": "the average income goes up and GDP goes up. So that needs to happen. I hope it's already happening too, at least at a small scale,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2926.4849,
+      "end": 2928.265,
+      "transcript": "but that really needs to happen."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2928.885,
+      "end": 2935.9402,
+      "transcript": "The second thing, a challenge I would say is, okay, now that you guys really know how to use these tools and you get a sense of it,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2937.12,
+      "end": 2937.86,
+      "transcript": "can you"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2938.48,
+      "end": 2939.2202,
+      "transcript": "start building"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2940.08,
+      "end": 2942.1,
+      "transcript": "apps and businesses that can let,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2942.6401,
+      "end": 2947.085,
+      "transcript": "other people use things in a way that are not possible with the existing tools."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2947.545,
+      "end": 2953.0051,
+      "transcript": "Whether you build it for the Indian market or the international market, doesn't matter. But build something that doesn't exist yet"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2953.465,
+      "end": 2953.965,
+      "transcript": "and,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2954.985,
+      "end": 2956.985,
+      "transcript": "get it in the hands of, like, 100,000,000"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2956.985,
+      "end": 2957.805,
+      "transcript": "people here"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2960.3098,
+      "end": 2960.89,
+      "transcript": "and create"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2961.3499,
+      "end": 2961.8499,
+      "transcript": "new"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2962.8699,
+      "end": 2964.3298,
+      "transcript": "market caps from nothing,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2965.0298,
+      "end": 2967.69,
+      "transcript": "employ new people here and then give them opportunities."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2968.5498,
+      "end": 2969.21,
+      "transcript": "So that's,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2970.0698,
+      "end": 2973.21,
+      "transcript": "again, creation of value that needs to happen. So,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2974.455,
+      "end": 2976.715,
+      "transcript": "the bright side is we know how to use these tools."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2977.655,
+      "end": 2980.235,
+      "transcript": "The flip side is, like, we have to figure out how to"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2981.8152,
+      "end": 2985.195,
+      "transcript": "increase the GDP of our country. Per capita GDP is more important"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2985.495,
+      "end": 2989.6902,
+      "transcript": "of our country through these things. And I really hope, like, one,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2990.1501,
+      "end": 2992.1501,
+      "transcript": "advantage that we have, healthcare is,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2992.55,
+      "end": 3000.4902,
+      "transcript": "looked upon more seriously as an opportunity space. So you said people should start earning more. Yeah. Give me three examples of businesses"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3001.275,
+      "end": 3004.895,
+      "transcript": "which are going to benefit from the rapid adoption of AI. I would say healthcare."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3005.275,
+      "end": 3009.055,
+      "transcript": "Okay. I would say like a lot of debt, like software development"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3009.835,
+      "end": 3010.815,
+      "transcript": "easily, like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3011.4348,
+      "end": 3019.11,
+      "transcript": "you know, a lot of other companies, I think like there are a lot of independent consultants here who like do coding gigs for others."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3019.49,
+      "end": 3022.1501,
+      "transcript": "I think they can do a lot more now per unit time."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3023.41,
+      "end": 3025.27,
+      "transcript": "So software development, healthcare,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3025.81,
+      "end": 3027.03,
+      "transcript": "I think just financial"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3027.41,
+      "end": 3027.91,
+      "transcript": "consulting."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3029.4248,
+      "end": 3032.7449,
+      "transcript": "How a financial consultant can use AI to give better"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3033.1848,
+      "end": 3034.085,
+      "transcript": "Yeah. So take"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3034.625,
+      "end": 3036.2449,
+      "transcript": "Have the AI look at your portfolio"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3036.785,
+      "end": 3041.6848,
+      "transcript": "and have the AI go and research the web on like latest news related to each of these stocks,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3042.83,
+      "end": 3048.61,
+      "transcript": "read analysis reports, private reports prepared by all these banks like Goldman Sachs or Barclays,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3049.71,
+      "end": 3050.85,
+      "transcript": "sell side reports,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3051.1501,
+      "end": 3056.45,
+      "transcript": "and then come back with investment advice of like what you should be changing to adjust it"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3056.7952,
+      "end": 3057.2952,
+      "transcript": "or,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3058.395,
+      "end": 3058.7952,
+      "transcript": "new,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3059.355,
+      "end": 3061.7751,
+      "transcript": "stocks that you should be looking into, new changes."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3062.5552,
+      "end": 3064.0151,
+      "transcript": "Equivalent of, like, several"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3064.475,
+      "end": 3075.2798,
+      "transcript": "hours of actual research that analysis doesn't charge us for. If you can have an AI do it, arbitrage that and give it to more people who usually don't get access to these kind of consultants"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3076.5398,
+      "end": 3078.72,
+      "transcript": "and allow everybody wants to make money"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3079.0999,
+      "end": 3080.64,
+      "transcript": "and you take some cut off that"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3080.94,
+      "end": 3088.105,
+      "transcript": "and create mark value from nothing, right? So AI based financial advisors, AI based healthcare"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3088.405,
+      "end": 3094.105,
+      "transcript": "advisors, or maybe agents who are connecting you to multiple doctors. Correct. Or just allowing you to get quick"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3094.485,
+      "end": 3101.89,
+      "transcript": "checks on what's happening to you, uploading your reports, having it be audited by an AI, and then using that and going to a doctor."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3102.99,
+      "end": 3104.77,
+      "transcript": "All these things are, like, clear opportunities."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3105.39,
+      "end": 3113.205,
+      "transcript": "Okay. And what are the businesses that are gonna feel the maximum tension because of AI? They're gonna fail because of adoption of"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3113.585,
+      "end": 3120.165,
+      "transcript": "AI. Software consulting. Right? Like, if you can get work done with the help of an AI co pilot, coding co pilot, like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3120.465,
+      "end": 3121.925,
+      "transcript": "you're no longer, like, gonna"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3122.625,
+      "end": 3126.165,
+      "transcript": "rely on, like, on like a huge form of dev shops."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3126.95,
+      "end": 3129.5298,
+      "transcript": "Customer support, like, you know, call centers,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3130.0698,
+      "end": 3143.515,
+      "transcript": "I think wise agents are gonna be able to do a lot of these things pretty well. We should try to disrupt it ourselves, like whoever's going to these call centers and doing these calls. And like we should try to like do it with the AIs as much as we can."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3144.215,
+      "end": 3147.675,
+      "transcript": "So obviously some people who are going there are going to lose their jobs, but,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3148.135,
+      "end": 3148.635,
+      "transcript": "whoever's"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3148.935,
+      "end": 3151.355,
+      "transcript": "like running these businesses can potentially"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3151.655,
+      "end": 3153.195,
+      "transcript": "have higher margins too."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3153.53,
+      "end": 3155.39,
+      "transcript": "And those margins can be used to"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3155.69,
+      "end": 3166.27,
+      "transcript": "give those people that are potentially going to lay off like different kind of jobs. Right? I think we got to do some restructuring there. Okay. These are the two places where you see the most. I have two, three like fun questions."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3166.73,
+      "end": 3177.215,
+      "transcript": "One is what is the most ridiculous and bizarre search query you have read? I think someone, like, ended up asking something very particular for like, oh, like, I want my"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3178.875,
+      "end": 3184.6099,
+      "transcript": "face protected. I I still want to be able to breathe, but it should cover my nose. And like, it should just have the,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3185.01,
+      "end": 3187.51,
+      "transcript": "holes for my eyes. And I want to, like, bike,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3188.21,
+      "end": 3189.1099,
+      "transcript": "in the winter"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3189.65,
+      "end": 3197.655,
+      "transcript": "for Thanksgiving, like, help me figure out, like, which city I can go to and, like, what I should buy. Like, And we ended up giving him a really nice"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3198.035,
+      "end": 3199.255,
+      "transcript": "product recommendation."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3199.795,
+      "end": 3200.295,
+      "transcript": "Okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3200.755,
+      "end": 3201.255,
+      "transcript": "And"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3201.635,
+      "end": 3205.415,
+      "transcript": "when we actually saw we saw that product getting purchased,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3205.795,
+      "end": 3207.4949,
+      "transcript": "either this person's trying to"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3209.06,
+      "end": 3210.12,
+      "transcript": "rob a bank"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3211.06,
+      "end": 3213.72,
+      "transcript": "or or they're really, like, in a cold place."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3214.5,
+      "end": 3221.0,
+      "transcript": "So we went and actually, like, checked the query and the query was so long. And again, like, this is the kind of thing that"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3221.38,
+      "end": 3223.96,
+      "transcript": "people are very creative in, like, using these products"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3224.405,
+      "end": 3224.905,
+      "transcript": "that,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3225.205,
+      "end": 3226.025,
+      "transcript": "you know Interesting."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3226.405,
+      "end": 3232.185,
+      "transcript": "And what's the craziest conspiracy you've heard about AI? Well, there's always this conspiracy theory of"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3232.805,
+      "end": 3234.665,
+      "transcript": "like, AI, this AGI"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3235.685,
+      "end": 3236.505,
+      "transcript": "is this"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3237.3398,
+      "end": 3238.64,
+      "transcript": "God like thing"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3239.02,
+      "end": 3240.96,
+      "transcript": "that you can use to control the whole"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3241.5798,
+      "end": 3242.0798,
+      "transcript": "universe"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3243.18,
+      "end": 3243.68,
+      "transcript": "by,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3244.8599,
+      "end": 3246.16,
+      "transcript": "building super intelligent"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3246.8599,
+      "end": 3247.3599,
+      "transcript": "entity."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3248.3,
+      "end": 3251.385,
+      "transcript": "And whoever has access to that will be the"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3251.725,
+      "end": 3252.225,
+      "transcript": "mastermind."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3252.5652,
+      "end": 3253.0652,
+      "transcript": "And,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3254.3252,
+      "end": 3257.145,
+      "transcript": "some people think Sam Altman ultimately wants that, but"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3258.0051,
+      "end": 3260.185,
+      "transcript": "I don't think it's that level of"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3261.8452,
+      "end": 3264.3452,
+      "transcript": "power crazed. By the way, there is true power"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3264.885,
+      "end": 3266.1052,
+      "transcript": "in being the"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3267.6702,
+      "end": 3268.1702,
+      "transcript": "CEO"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3268.87,
+      "end": 3270.81,
+      "transcript": "or the chief decision maker"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3271.19,
+      "end": 3274.1702,
+      "transcript": "of a company that's building the most intelligent model."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3275.03,
+      "end": 3277.69,
+      "transcript": "But I don't think it's being built with the intention of"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3277.99,
+      "end": 3279.1301,
+      "transcript": "controlling the universe."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3281.0452,
+      "end": 3283.205,
+      "transcript": "But do you think that's possible? I think it's,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3283.685,
+      "end": 3289.5452,
+      "transcript": "going to be like, you know, it's not going to fool people in doing things. It's possible by the way that"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3290.405,
+      "end": 3291.3052,
+      "transcript": "a very intelligent"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3291.925,
+      "end": 3298.4302,
+      "transcript": "AI can manipulate people. Yeah. But I think the power games are not going to come from those things. Like it's not like, Oh, a politician"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3298.81,
+      "end": 3301.6301,
+      "transcript": "wants to have access to win the next election or something."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3302.09,
+      "end": 3303.1501,
+      "transcript": "They can do it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3303.53,
+      "end": 3305.9502,
+      "transcript": "But the real danger is going to be more from,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3308.165,
+      "end": 3311.065,
+      "transcript": "if you can throw like the equivalent of 100"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3311.925,
+      "end": 3313.305,
+      "transcript": "most intelligent scientists,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3314.405,
+      "end": 3315.865,
+      "transcript": "but working 20 fourseven,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3318.405,
+      "end": 3319.945,
+      "transcript": "on like a very hard"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3320.75,
+      "end": 3321.73,
+      "transcript": "pharma problem,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3322.1099,
+      "end": 3323.89,
+      "transcript": "figure out a new drug"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3325.47,
+      "end": 3327.5698,
+      "transcript": "and like the next Ozempic or something"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3328.27,
+      "end": 3330.53,
+      "transcript": "and sell it for a crazy premium."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3333.4148,
+      "end": 3340.555,
+      "transcript": "And you completely own the solution. The only way you even got the solution is you had the ability to spend that much inference compute."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3342.855,
+      "end": 3346.2349,
+      "transcript": "So those kind of situations are we are like one country getting,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3347.28,
+      "end": 3350.02,
+      "transcript": "the end output of a very super indulgent AI"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3350.56,
+      "end": 3353.1401,
+      "transcript": "that they can use to their advantage in the market."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3353.84,
+      "end": 3355.78,
+      "transcript": "And then, because of that,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3356.24,
+      "end": 3361.06,
+      "transcript": "the next stutter effects are another country trying to steal it in some manner"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3361.605,
+      "end": 3364.025,
+      "transcript": "and that leading to like defense"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3365.685,
+      "end": 3366.825,
+      "transcript": "problems and warfare."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3368.005,
+      "end": 3371.385,
+      "transcript": "You know, those kind of situations are possible. Those are the big and real worries."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3371.685,
+      "end": 3373.065,
+      "transcript": "That's what I think will"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3373.6199,
+      "end": 3374.1199,
+      "transcript": "happen"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3374.42,
+      "end": 3375.16,
+      "transcript": "if we"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3375.46,
+      "end": 3378.68,
+      "transcript": "have super intelligence. I'm not talking about general intelligence."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3379.38,
+      "end": 3381.48,
+      "transcript": "Super intelligence is a weird thing."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3382.5798,
+      "end": 3383.5598,
+      "transcript": "It's not a thing"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3383.8599,
+      "end": 3390.395,
+      "transcript": "we understand today because we are not used to super intelligence. It doesn't really exist. There are people that have been extraordinarily"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3390.935,
+      "end": 3392.0752,
+      "transcript": "intelligent like Einstein,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3393.0952,
+      "end": 3395.675,
+      "transcript": "but you wouldn't call even Einstein super intelligent."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3395.975,
+      "end": 3406.7002,
+      "transcript": "He cracked like three or four very important problems. Yeah. But it's not like he there was an equivalent of a computer Einstein that just, Oh, I could throw any domain, any problem at that computer,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3407.32,
+      "end": 3411.82,
+      "transcript": "and they would come up with the equivalent of theory of relativity for that problem that has massive"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3412.28,
+      "end": 3417.1,
+      "transcript": "economic impact too. That doesn't exist. But once it exists, whichever country has it,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3417.425,
+      "end": 3420.565,
+      "transcript": "the next country that's trying to compete for being the world superpower"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3421.345,
+      "end": 3425.125,
+      "transcript": "will also want it. Yeah. If you happen to be that person"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3426.065,
+      "end": 3427.045,
+      "transcript": "when you get"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3427.425,
+      "end": 3429.285,
+      "transcript": "and you are at the top of the pedestal,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3429.93,
+      "end": 3433.23,
+      "transcript": "you become the most powerful person in the world of supercomputers"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3433.6099,
+      "end": 3434.1099,
+      "transcript": "and"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3434.41,
+      "end": 3437.71,
+      "transcript": "AI, what would you do? I'm happy I'm not even in that race."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3438.25,
+      "end": 3439.8699,
+      "transcript": "I think it's a very weird"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3440.89,
+      "end": 3444.8298,
+      "transcript": "position to be. I've been wanting to ask this from the point we started."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3445.255,
+      "end": 3445.755,
+      "transcript": "Right?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3446.215,
+      "end": 3453.355,
+      "transcript": "You're in a sort of competition in the race with all these large companies and incredibly successful founders."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3453.655,
+      "end": 3454.155,
+      "transcript": "Right?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3454.615,
+      "end": 3462.84,
+      "transcript": "Who loses the most if you win? I think, like, I mean, I've never thought about it in a zero sum way. There are clearly some zero sum games with some other companies."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3463.86,
+      "end": 3464.44,
+      "transcript": "Yeah. Undoubtedly."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3466.74,
+      "end": 3468.6,
+      "transcript": "I think it's not about whether we win."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3469.62,
+      "end": 3471.16,
+      "transcript": "Whoever is gonna crack"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3471.78,
+      "end": 3472.28,
+      "transcript": "this"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3473.0151,
+      "end": 3474.635,
+      "transcript": "AI native answer engine"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3474.935,
+      "end": 3478.7952,
+      "transcript": "assistant, let's say you cracked it. Okay. Whoever cracks it,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3479.8152,
+      "end": 3482.155,
+      "transcript": "the one with the most to lose is Google."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3483.975,
+      "end": 3487.355,
+      "transcript": "And that's simply because of the current business model."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3489.3298,
+      "end": 3489.8298,
+      "transcript": "Now,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3490.13,
+      "end": 3496.63,
+      "transcript": "by the time someone cracks it, if there are other bets, YouTube cloud and all that, they increase the margins there"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3497.17,
+      "end": 3503.3499,
+      "transcript": "and they figure out a way to make Waymo even more successful meanwhile, and get some new cash flow there"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3503.865,
+      "end": 3510.605,
+      "transcript": "and explain to the shareholders that like, Look, this is clearly an inflection moment, but like we have other things and we'll be fine and we'll go for the new thing too."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3511.225,
+      "end": 3516.605,
+      "transcript": "It's not like they're going to get destroyed, but they definitely are going to have a difficult turbulent period."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3517.23,
+      "end": 3520.77,
+      "transcript": "So, yeah, they they have the big most to lose in this game,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3521.07,
+      "end": 3525.33,
+      "transcript": "and they're aware of it, and I think they're working on it. Got it. You know, my one worry is"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3526.1099,
+      "end": 3526.6099,
+      "transcript": "with"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3527.47,
+      "end": 3529.57,
+      "transcript": "the rapid adoption of AI,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3530.175,
+      "end": 3544.0352,
+      "transcript": "this happened with all the technologies which are coming, is increase of digital amnesia. So it's like a phenomena where people forget information on day to day basis a lot because they rely on technology. Oh, right. Right. Right. Right. That's right. Right."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3545.12,
+      "end": 3547.1401,
+      "transcript": "So compared to, like, our parents' generations,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3547.76,
+      "end": 3554.74,
+      "transcript": "the way we calculate things is our ability to calculate simple Yeah. Math problem is gone because we use calculators. Yeah."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3555.6802,
+      "end": 3559.06,
+      "transcript": "Similarly, when I see my younger cousins Yeah. They do. Their"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3559.595,
+      "end": 3562.015,
+      "transcript": "ability to just remember information"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3562.315,
+      "end": 3576.79,
+      "transcript": "Yeah. Is solo because they are like Google first, chat, GPD, perplexity kind of people who are just constantly using these. Yeah. So increase of technology is gonna just increase their digital amnesia where people are forgetful left, right, center. Yeah. Okay. Let let me put it this way."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3579.41,
+      "end": 3583.35,
+      "transcript": "Are are you good at like driving with a physical map versus using Google Maps?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3583.81,
+      "end": 3600.245,
+      "transcript": "Correct. Google Maps, of course. But but I think the previous generation, like our our previous generation wouldn't have needed Google Maps. They would have taken a physical printout and, like, figure out Yeah. Yeah. Like like, they would have mapped what they see in front of them to the two d layout and figure it out. They wouldn't need, like, accurate science. Dynamic."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3601.2651,
+      "end": 3602.0051,
+      "transcript": "Right? But"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3602.3699,
+      "end": 3610.95,
+      "transcript": "so little things like how do your brain functions because if you if you remember a little thing, then it gives you confidence to remember, like, the bigger things as well. So today,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3611.5698,
+      "end": 3618.9849,
+      "transcript": "it could be as small as something like, let's say, remembering a phone number. We don't. Nobody even cares about it. Exactly. But that habit of"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3619.365,
+      "end": 3625.7048,
+      "transcript": "telling or signaling our brain that, hey, you need to remember this little thing Yeah. Is getting down, down, down. Yeah. So"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3626.085,
+      "end": 3641.565,
+      "transcript": "that's why that's Which which I think is totally okay. Which is okay. I'm I'm saying like a lot of things a lot of times what is happening. I'll tell because I was reading some survey which is going on. It's not proven yet. Mhmm. I think some university in Australia is doing it where they're they're testing that"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3641.9648,
+      "end": 3650.4448,
+      "transcript": "we more and more young people are forgetting to take medicines on time. I see. But they don't remember. Like this is a small thing. You could argue that like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3651.325,
+      "end": 3656.84,
+      "transcript": "that's the job with AI. Like the AI should just tell them and take the medicine and they should take it. And,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3658.02,
+      "end": 3659.08,
+      "transcript": "you know, like,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3659.7002,
+      "end": 3662.84,
+      "transcript": "by the way, forgetful people exist already."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3663.3,
+      "end": 3663.8,
+      "transcript": "Even"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3664.26,
+      "end": 3666.84,
+      "transcript": "I'm pretty forgetful myself. I'm not"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3668.34,
+      "end": 3669.48,
+      "transcript": "on top of everything."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3670.0251,
+      "end": 3670.605,
+      "transcript": "Same. It's"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3671.145,
+      "end": 3672.605,
+      "transcript": "because your RAM is limited."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3673.865,
+      "end": 3675.965,
+      "transcript": "Now, I guess what you're trying to say is"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3676.665,
+      "end": 3682.02,
+      "transcript": "what the next generation is going to load their RAM with is going to look very different from us."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3682.98,
+      "end": 3686.52,
+      "transcript": "And it's going to be interesting to see how they spend their mental compute."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3687.06,
+      "end": 3687.56,
+      "transcript": "If"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3687.86,
+      "end": 3689.8801,
+      "transcript": "they don't spend it at all and it's all just"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3691.3,
+      "end": 3691.8,
+      "transcript": "unutilized,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3692.82,
+      "end": 3696.44,
+      "transcript": "that's sad. Yeah. That's what I'm telling. I hope that's not going to happen."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3696.935,
+      "end": 3698.875,
+      "transcript": "If they have all that"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3699.335,
+      "end": 3702.635,
+      "transcript": "free capacity and they can spend it on more creative things,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3702.935,
+      "end": 3703.9949,
+      "transcript": "that would be amazing."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3705.415,
+      "end": 3705.915,
+      "transcript": "And"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3706.535,
+      "end": 3707.195,
+      "transcript": "it's still"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3707.655,
+      "end": 3731.865,
+      "transcript": "jury's still out of what's going to happen, but I'm hoping it's going to be the second. Yeah. If it happens like that, like all of it, all the free mental capacity that they have, they increase their ability to work on more complex problems. Yeah. It's going to be great. Yeah. That'll be great. But if it happens the other way around, which is which a lot of people are worried about Yeah. That's something I feel is I don't know what's gonna happen then. Yeah. I mean, it'll be bad. Yeah. Because because our,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3732.265,
+      "end": 3732.925,
+      "transcript": "if you"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3734.505,
+      "end": 3741.48,
+      "transcript": "if you, like, roll out multiple generations after that, like, it's only gonna get worse. Mhmm. So we really need to make sure, like, they are"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3742.3599,
+      "end": 3748.06,
+      "transcript": "being thrown they're thrown out like hard problems and like, you know, given all these tools and like, Hey, go figure it out."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3748.92,
+      "end": 3754.22,
+      "transcript": "Got it. Well, perfect. Thank you so much for coming here. This is awesome. By the way, I heard you are the"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3754.575,
+      "end": 3762.515,
+      "transcript": "Joe Rogan of India. That's what someone told me. Is that true? No. I am the Raj Shimani of India. Let's just put it this way. Oh, awesome."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3762.9749,
+      "end": 3768.675,
+      "transcript": "Perfect. Thank you so much for coming here. I really enjoyed our chat. I have a bunch of questions"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3769.5,
+      "end": 3779.28,
+      "transcript": "for you but maybe we'll, at the time, do it again. Yep. And try to figure out what's the best for your India trip. Thank you. Thank you. Thank you so much. I read your one,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3780.1401,
+      "end": 3787.195,
+      "transcript": "I think it was some interviews and podcast or some like an outcome of this. Uh-huh. And the thumbnail was like I'm going to beat Google."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3787.895,
+      "end": 3789.115,
+      "transcript": "Oh, yeah. People"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3789.895,
+      "end": 3791.7551,
+      "transcript": "people make these thumbnails."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3792.215,
+      "end": 3802.11,
+      "transcript": "That's why I asked you this question. Do you go to these meetings and be like, hey. I'm gonna be like I mean, you're a YouTuber. You understand what you do? I do. Yeah. Thank you so much for watching this podcast till the end."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3806.01,
+      "end": 3806.51,
+      "transcript": "Subscribe."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3806.81,
+      "end": 3808.11,
+      "transcript": "Number two. Comments"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3809.05,
+      "end": 3809.55,
+      "transcript": "or"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3809.85,
+      "end": 3812.11,
+      "transcript": "guest and or as a content topics"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3813.05,
+      "end": 3813.95,
+      "transcript": "podcast or"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3814.9148,
+      "end": 3818.135,
+      "transcript": "you will be able to better help and you will be able to value."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3818.595,
+      "end": 3821.255,
+      "transcript": "And number three. This episode is a good time"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3821.555,
+      "end": 3822.615,
+      "transcript": "to share life."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3823.7148,
+      "end": 3824.9348,
+      "transcript": "A positive change"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3825.555,
+      "end": 3829.9048,
+      "transcript": "is a good podcast conversation. So this podcast conversation is a good life. A conversation"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3830.51,
+      "end": 3832.53,
+      "transcript": "is enough to change someone's life."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3833.15,
+      "end": 3835.97,
+      "transcript": "I'll see you next time until then keep figuring out."
+    }
+  ]
+}

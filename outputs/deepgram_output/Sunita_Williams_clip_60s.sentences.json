@@ -1,0 +1,69 @@
+{
+  "unit": "utterance (sentence-like)",
+  "num_segments": 9,
+  "segments": [
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 0.16,
+      "end": 2.58,
+      "transcript": "Kid, you know, it's just it's life. It's how it is."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3.36,
+      "end": 4.34,
+      "transcript": "But I think,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4.7999997,
+      "end": 12.075,
+      "transcript": "just appreciation for different cultures at a young age, not even realizing it, I think, was really beneficial and set me up"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 13.035,
+      "end": 17.615,
+      "transcript": "for success, I would say, just because I I feel like I can,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 18.314999,
+      "end": 26.654999,
+      "transcript": "relate to a lot of different people or at least have the patience to listen for a moment. At what point in your childhood you felt like this is a strength?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 27.19,
+      "end": 35.45,
+      "transcript": "Like, mal being multicultural is a strength. Oh, gosh. I don't think I realized it for a long time, for a while. Like, it it was a little bit, I think, more so,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 37.59,
+      "end": 45.995,
+      "transcript": "we were different. We are a different family, and we all knew that. But I don't know I didn't know if it was a strength until later on in life where,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 47.515,
+      "end": 50.815,
+      "transcript": "just easy to deal with people. I think that was What do you mean by different?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 51.707,
+      "end": 60.032,
+      "transcript": "Well, we were the only Indian family in our town Okay. Or partially Indian family. So I think we stuck out pretty much. My sister and I had long"
+    }
+  ]
+}

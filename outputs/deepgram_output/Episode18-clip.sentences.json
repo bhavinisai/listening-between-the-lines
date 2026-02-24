@@ -1,0 +1,90 @@
+{
+  "unit": "utterance (sentence-like)",
+  "num_segments": 12,
+  "segments": [
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 0.08,
+      "end": 3.54,
+      "transcript": "Do wanna ask you about Disney. It was a big deal. So was it"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3.9199998,
+      "end": 7.14,
+      "transcript": "difficult, hard, okay to let go because you had built something?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 8.16,
+      "end": 10.179999,
+      "transcript": "It yeah. I mean, the the emotional"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 10.48,
+      "end": 11.54,
+      "transcript": "part would be,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 12.015,
+      "end": 13.695001,
+      "transcript": "you know, that constant sense of,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 14.095,
+      "end": 20.675,
+      "transcript": "whatever, but not regret. I don't think the word regret would come in. Everything you do in the creative field gets a lot of limelight and"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 21.055,
+      "end": 33.28,
+      "transcript": "a big thumbs up or a big thumbs down. So it can be quite cathartic. Could you share what your formula is to wake up the next morning after failure and start again or keep going? Formula, I think, for you is really self confidence."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 33.82,
+      "end": 35.52,
+      "transcript": "So you do believe that we're lacking"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 36.940002,
+      "end": 38.239998,
+      "transcript": "in ambition, gumption,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 38.94,
+      "end": 39.44,
+      "transcript": "discipline,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 39.82,
+      "end": 42.56,
+      "transcript": "raw ambition? Raw ambition is different from ambition."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 43.355,
+      "end": 59.8185,
+      "transcript": "2% top of the pyramid that's going looking around for funding. Most people are not picking up every morning and saying I'm looking around for funding. Trust me. Specifically to talk about the future of India and AI, what are you looking at right now down that runway? That is not a good word if you ask me. Yeah. Okay."
+    }
+  ]
+}

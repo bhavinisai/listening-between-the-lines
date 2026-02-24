@@ -1,0 +1,55 @@
+{
+  "unit": "utterance (sentence-like)",
+  "num_segments": 7,
+  "segments": [
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 0.39999998,
+      "end": 5.38,
+      "transcript": "I mean, there's something like the Austro Hungarian empire where there was just a lot of, sort of clever marriages."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 6.64,
+      "end": 11.059999,
+      "transcript": "But, fundamentally, there's an engine of conquest, and they celebrate Always always. Excellence."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 11.92,
+      "end": 12.66,
+      "transcript": "In warfare,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 13.555,
+      "end": 15.975,
+      "transcript": "Many of the leaders were excellent generals"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 16.435001,
+      "end": 19.255001,
+      "transcript": "Yeah. That kind of thing. So big picture question,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 20.174936,
+      "end": 24.114937,
+      "transcript": "Grok approved. I asked this is a good question to ask. Get tested. Grok approved."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 25.934937,
+      "end": 27.234936,
+      "transcript": "At least on fun mode."
+    }
+  ]
+}

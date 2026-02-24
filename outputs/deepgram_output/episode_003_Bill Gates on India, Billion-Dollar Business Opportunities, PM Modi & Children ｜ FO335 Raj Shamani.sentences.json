@@ -1,0 +1,5025 @@
+{
+  "unit": "utterance (sentence-like)",
+  "num_segments": 717,
+  "segments": [
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 0.08,
+      "end": 1.54,
+      "transcript": "What's the biggest misunderstanding"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2.08,
+      "end": 29.539999,
+      "transcript": "about you? Whenever you hear about somebody who's got, you know, ridiculous amounts of money, their values are different than your values. You should be concerned about their agenda. What's your biggest fear? I'll be sad as my brain gets less capable. That disappoints me. Tell me one behavior we all should adopt. Reading a lot, being a student, that's a big part of my success. Richest and most powerful men in the world. Bill Gates has unleashed a technological revolution"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 30.32,
+      "end": 38.34,
+      "transcript": "that has changed our lives. Bill Gates are 25 and Bill Gates are 70. Any change that you feel personally? In my twenties, being a maniac"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 38.72,
+      "end": 50.114998,
+      "transcript": "was the right thing. My competitors would say, oh, no. You work too hard. And I'd say, yes. I do. If you're in a race, your twenties when you have no wife and no children, that's the time to do it."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 52.175,
+      "end": 58.14,
+      "transcript": "If you get an opportunity to invite three Indians for dinner, who would that be? There was a mathematician,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 58.92,
+      "end": 59.42,
+      "transcript": "Ramanujan."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 59.879997,
+      "end": 63.34,
+      "transcript": "I would have loved to have met him. Why do you think India is becoming"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 63.719997,
+      "end": 78.505,
+      "transcript": "a global talent capital for the world? Would hire people from India and bring them to The United States. You know, both The United States and India were kind of mad at us because we were taking, you know, the smart people and moving them. In India, a lot of kids also fight with their parents on inheritance."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 78.805,
+      "end": 81.065,
+      "transcript": "Have your kids ever spoken to you?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 87.689995,
+      "end": 89.549995,
+      "transcript": "Before we start today's episode,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 90.009995,
+      "end": 95.229996,
+      "transcript": "all I want to say is thank you to each and every one of you. I'm really grateful"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 95.85,
+      "end": 96.35,
+      "transcript": "that"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 97.005,
+      "end": 100.625,
+      "transcript": "we were able to sit down with one of the most influential"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 101.005,
+      "end": 101.505,
+      "transcript": "men"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 101.885,
+      "end": 102.784996,
+      "transcript": "in the world"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 103.245,
+      "end": 104.305,
+      "transcript": "the Bill Gates."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 105.485,
+      "end": 113.649994,
+      "transcript": "I have been this young boy who always used to hear stories about this man about the kind of money he has made, the kind of lives he's impacting,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 113.95,
+      "end": 116.13,
+      "transcript": "the kind of things he's building through Microsoft."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 116.99,
+      "end": 117.649994,
+      "transcript": "From there"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 118.42999,
+      "end": 121.329994,
+      "transcript": "to be sitting in front of him, it was surreal."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 121.78999,
+      "end": 127.755,
+      "transcript": "When I started the conversation you could see it on my face that I was really nervous really scared. I didn't know what to talk about but"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 128.135,
+      "end": 129.995,
+      "transcript": "as we went in the conversation"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 130.855,
+      "end": 135.11499,
+      "transcript": "the podcaster in me took over and we spoke about his fears,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 135.49,
+      "end": 136.31,
+      "transcript": "his misunderstandings,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 137.17,
+      "end": 143.27,
+      "transcript": "the mission, and what is he doing today. Today, I want you to see this episode from a lens of"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 143.57,
+      "end": 145.99,
+      "transcript": "a 20 year old sitting with"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 146.37,
+      "end": 147.11,
+      "transcript": "Bill Gates"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 147.49,
+      "end": 150.39,
+      "transcript": "and figuring out what goes on in his brain."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 150.94499,
+      "end": 152.805,
+      "transcript": "This episode is truly special"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 153.265,
+      "end": 153.765,
+      "transcript": "because"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 154.305,
+      "end": 156.72499,
+      "transcript": "I could have never thought that"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 157.185,
+      "end": 159.44499,
+      "transcript": "Bill Gates will be on our podcast"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 159.825,
+      "end": 163.525,
+      "transcript": "this soon in our journey. I always had a belief that"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 163.985,
+      "end": 167.48001,
+      "transcript": "we will be able to sit down with the smartest people"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 168.1,
+      "end": 170.68001,
+      "transcript": "around the world. Will it happen this soon?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 172.02,
+      "end": 174.44,
+      "transcript": "I can't believe this right now."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 174.98001,
+      "end": 182.295,
+      "transcript": "I just want you to enjoy this episode the way I did. I want you to sink in that this is happening because it's not sinking in with"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 182.675,
+      "end": 184.935,
+      "transcript": "me. And I just wanna tell you that"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 185.315,
+      "end": 190.775,
+      "transcript": "there are more episodes coming, so keep supporting us and hit the subscribe button right now."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 195.65001,
+      "end": 200.31,
+      "transcript": "Welcome on Figuring Out, sir. I'll tell you a little story. So during the pandemic,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 200.93001,
+      "end": 203.99,
+      "transcript": "me and my sister, we were watching the Netflix documentary"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 204.29001,
+      "end": 205.51001,
+      "transcript": "inside Bill's brain"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 205.97,
+      "end": 206.47,
+      "transcript": "and"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 206.77,
+      "end": 209.195,
+      "transcript": "halfway through it, I told my sister"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 209.735,
+      "end": 213.195,
+      "transcript": "that, hey, you know what? Like, one day I'll sit with Bill Gates and"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 214.05501,
+      "end": 219.43501,
+      "transcript": "I'll directly speak to him and get inside his brain. And she's randomly and she was laughing."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 219.895,
+      "end": 221.195,
+      "transcript": "So this one's for you."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 222.56999,
+      "end": 232.83,
+      "transcript": "You did it. Yeah. So it's it's an opportunity. I don't know how it just came out of my mouth and it's happening today. So thank you so much for doing this. Well,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 233.20999,
+      "end": 235.15,
+      "transcript": "you've come to India quite often."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 236.145,
+      "end": 237.125,
+      "transcript": "Tell me something"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 237.505,
+      "end": 239.765,
+      "transcript": "that you've observed about India, which"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 240.065,
+      "end": 242.725,
+      "transcript": "a lot of people don't know about. Well, people probably,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 244.38501,
+      "end": 246.325,
+      "transcript": "you know, because they're here all the time."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 246.785,
+      "end": 252.87,
+      "transcript": "You know, they probably don't recognize how much things have changed. And if you go away and come back, then you see, wow,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 253.17,
+      "end": 253.83,
+      "transcript": "you know,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 254.37,
+      "end": 255.75,
+      "transcript": "the level of entrepreneurship"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 256.29,
+      "end": 257.03,
+      "transcript": "and the,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 258.37,
+      "end": 262.39,
+      "transcript": "you know, the amount of innovation that's actually taking place here,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 263.25,
+      "end": 264.755,
+      "transcript": "it's pretty fantastic."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 265.615,
+      "end": 266.115,
+      "transcript": "And,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 266.415,
+      "end": 269.315,
+      "transcript": "you know, for the foundation, we've been here originally,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 270.57498,
+      "end": 273.63498,
+      "transcript": "because a lot of the health challenges were here,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 274.01498,
+      "end": 276.595,
+      "transcript": "and we still care a lot about that. But,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 277.13498,
+      "end": 278.35498,
+      "transcript": "now a lot of our"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 278.97,
+      "end": 279.47,
+      "transcript": "invention"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 279.84998,
+      "end": 281.78998,
+      "transcript": "is being done here, whether it's,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 282.49,
+      "end": 283.31,
+      "transcript": "well, vaccines,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 283.77,
+      "end": 284.27,
+      "transcript": "obviously,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 285.28998,
+      "end": 290.11,
+      "transcript": "we have some incredible partnerships, but it's broadening to, you know,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 290.41,
+      "end": 292.34998,
+      "transcript": "better seeds, better diagnostics,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 293.88498,
+      "end": 296.145,
+      "transcript": "you know, the ways that we can use AI,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 296.845,
+      "end": 298.145,
+      "transcript": "for health or education."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 299.16498,
+      "end": 299.82498,
+      "transcript": "So the,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 300.925,
+      "end": 301.425,
+      "transcript": "innovation"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 302.04498,
+      "end": 304.54498,
+      "transcript": "ecosystem has really exploded, and that's"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 304.845,
+      "end": 315.03,
+      "transcript": "gonna be great for India. It's gonna be great for the world. So when you meet other leaders around the world or when you meet your your billionaire friends, what's the first thing you tell them about India?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 315.65,
+      "end": 317.66998,
+      "transcript": "Is it the same thing that what you just told me?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 319.09,
+      "end": 319.59,
+      "transcript": "Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 321.33,
+      "end": 323.625,
+      "transcript": "It's, you know, we've had such a great"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 324.505,
+      "end": 325.005,
+      "transcript": "experience,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 325.505,
+      "end": 327.005,
+      "transcript": "in our work in India."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 328.425,
+      "end": 332.045,
+      "transcript": "You know, I encourage people to come and tap into,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 332.905,
+      "end": 333.865,
+      "transcript": "the great things,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 334.265,
+      "end": 335.085,
+      "transcript": "going on."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 336.05,
+      "end": 339.35,
+      "transcript": "Is there anything specific you tell them? Well, you know, my"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 339.73,
+      "end": 345.35,
+      "transcript": "connection with India goes all the way back to the Microsoft days Yeah. When, you know, we, at first,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 345.73,
+      "end": 356.375,
+      "transcript": "would hire people from India and bring them to The United States. And, you know, both The United States and India were kinda mad at us because we were taking, you know, the smart people and moving them. And,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 357.235,
+      "end": 360.755,
+      "transcript": "you know, then they came back here to India and created the Microsoft India,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 362.3,
+      "end": 365.12,
+      "transcript": "work, which is, you know, been absolutely fantastic."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 365.98,
+      "end": 370.96,
+      "transcript": "So, you know, up until the year 2000, I mainly knew the tech,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 372.14,
+      "end": 374.08,
+      "transcript": "scene. So, you know, a lot of"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 374.46,
+      "end": 375.68,
+      "transcript": "Bangalore, Hyderabad,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 377.32498,
+      "end": 383.82498,
+      "transcript": "Seeing the country more broadly, you know, that's in my foundation work. So, you know, Bihar, UP,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 385.805,
+      "end": 386.785,
+      "transcript": "you know, seeing,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 387.16498,
+      "end": 390.54498,
+      "transcript": "you know, where we could partner and and help with things."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 391.87997,
+      "end": 396.13998,
+      "transcript": "You know, I still wanna take more vacation here. I've done it a little bit, but,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 396.68,
+      "end": 403.74,
+      "transcript": "you know, there's a lot of great places in India that I haven't been to. Talking about Microsoft and taking people from here to US,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 404.925,
+      "end": 406.625,
+      "transcript": "people like Satya Della,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 407.485,
+      "end": 408.305,
+      "transcript": "Sundar Pichai,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 408.845,
+      "end": 411.905,
+      "transcript": "there have been incredible CEOs around the world."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 412.44498,
+      "end": 414.38498,
+      "transcript": "Why do you think India is becoming"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 414.925,
+      "end": 421.15002,
+      "transcript": "a global talent capital for the world? Do you think anything special here of which is out there?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 422.17,
+      "end": 423.79,
+      "transcript": "Well, you know, 20%"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 424.73,
+      "end": 429.95,
+      "transcript": "of the world's people live here in India. And India's had a particular emphasis on,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 430.44498,
+      "end": 431.26498,
+      "transcript": "you know, engineering,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 432.205,
+      "end": 432.705,
+      "transcript": "software,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 433.005,
+      "end": 436.22498,
+      "transcript": "you know, and turned out a lot of top people."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 436.685,
+      "end": 438.625,
+      "transcript": "And so when you get people like"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 439.005,
+      "end": 443.025,
+      "transcript": "Sundar Satya, who are both great at engineering and management,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 443.98,
+      "end": 445.84,
+      "transcript": "you know, that's a a magic,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 446.86002,
+      "end": 447.36002,
+      "transcript": "combination."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 448.38,
+      "end": 448.88,
+      "transcript": "And,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 449.58002,
+      "end": 452.24002,
+      "transcript": "you know, so they you know, these companies,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 452.86002,
+      "end": 455.52002,
+      "transcript": "you know, are looking anywhere in the world to find,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 456.94,
+      "end": 459.92502,
+      "transcript": "that mix. And, you know, so India's getting"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 460.465,
+      "end": 463.685,
+      "transcript": "about its fair share of those top leadership positions."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 464.30502,
+      "end": 466.245,
+      "transcript": "And, you know, it partly comes from having"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 466.545,
+      "end": 467.445,
+      "transcript": "great universities,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 469.02502,
+      "end": 472.48502,
+      "transcript": "you know, not just the IITs, but starting with them,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 474.37,
+      "end": 475.19,
+      "transcript": "you know, that's"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 475.65,
+      "end": 478.55,
+      "transcript": "using the incredible talent that's here."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 479.57,
+      "end": 481.51,
+      "transcript": "So talking about Indian talent,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 482.45,
+      "end": 488.31,
+      "transcript": "you do a lot of philanthropy work here, and you've met a lot of talented people here, a lot of"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 488.625,
+      "end": 490.165,
+      "transcript": "rich people here as well."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 491.345,
+      "end": 507.81,
+      "transcript": "Do you and you believe that all the money that rich people have or, like, people who have made well for themselves, they should use it for charity work. They should pledge it. In India, there's a usually lot of people believe that as parents is their duty to save everything for their kids"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 508.11002,
+      "end": 514.45,
+      "transcript": "for the inheritance, right? Like the kids will get everything. What do you think is the right mindset using all the money for"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 515.09503,
+      "end": 518.795,
+      "transcript": "pledging and giving it back to the society or giving it to the children?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 520.135,
+      "end": 521.115,
+      "transcript": "Well, I think,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 521.575,
+      "end": 525.195,
+      "transcript": "you know, everybody gets to decide on that. You know, in my case,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 525.575,
+      "end": 526.635,
+      "transcript": "you know, my kids"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 527.495,
+      "end": 527.97,
+      "transcript": "got"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 529.81,
+      "end": 530.55,
+      "transcript": "a great"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 531.32996,
+      "end": 533.58997,
+      "transcript": "upbringing in education, but, you know,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 533.97,
+      "end": 535.35,
+      "transcript": "less than 1%"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 535.41,
+      "end": 536.06995,
+      "transcript": "of the,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 537.64996,
+      "end": 538.79,
+      "transcript": "the total wealth,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 539.73,
+      "end": 551.46497,
+      "transcript": "because I decided it wouldn't be a favor to them. You You know, it's not a dynasty. You know, I'm not asking them to run Microsoft. I wanna give them a chance to have their own earnings and success,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 552.005,
+      "end": 555.14496,
+      "transcript": "you know, be significant and not overshadowed by"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 555.445,
+      "end": 556.98,
+      "transcript": "the incredible luck"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 557.54,
+      "end": 561.88,
+      "transcript": "and good fortune I had. And different families see that differently. I think the"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 562.33997,
+      "end": 563.48,
+      "transcript": "people who've made,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 564.26,
+      "end": 565.48,
+      "transcript": "fortunes from technology"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 566.5,
+      "end": 567.72,
+      "transcript": "are less dynastic,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 569.54,
+      "end": 571.39996,
+      "transcript": "and, you know, so they"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 571.945,
+      "end": 575.005,
+      "transcript": "they'll even, you know, take their capital"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 575.625,
+      "end": 581.165,
+      "transcript": "and give a lot of that away. You can have the view of giving away your capital or just giving away your earnings."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 582.425,
+      "end": 584.445,
+      "transcript": "And and, of course, I love all philanthropy,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 585.69,
+      "end": 588.91003,
+      "transcript": "but the tech sector is the probably the most aggressive"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 589.29004,
+      "end": 589.79004,
+      "transcript": "about,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 591.29004,
+      "end": 593.55005,
+      "transcript": "you know, giving most of it away."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 594.01,
+      "end": 602.145,
+      "transcript": "And are there other sectors you have not seen that in any other kind of industry where people try to give Not not to the same degree. It tends to be,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 602.925,
+      "end": 606.865,
+      "transcript": "giving more, you know, of the giving some portion of the profit"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 607.725,
+      "end": 608.945,
+      "transcript": "as opposed to,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 610.125,
+      "end": 611.985,
+      "transcript": "the the actual base capital."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 612.445,
+      "end": 614.0,
+      "transcript": "You know, in India,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 614.7,
+      "end": 618.24,
+      "transcript": "a lot of kids also fight their with their parents on the inheritance."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 618.54004,
+      "end": 624.96,
+      "transcript": "Have your kids ever spoken to you and be like, hey, why are you not giving us everything or anything? Has it ever happened?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 626.785,
+      "end": 629.605,
+      "transcript": "You know, you don't want your kids to ever be confused"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 630.785,
+      "end": 636.08496,
+      "transcript": "about your support for them and your love for them. And so I do think explaining early on"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 637.02496,
+      "end": 637.845,
+      "transcript": "your philosophy,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 639.6,
+      "end": 641.54,
+      "transcript": "that you're gonna treat them all equally,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 642.48,
+      "end": 644.82,
+      "transcript": "and that you're gonna give them incredible opportunities,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 646.24,
+      "end": 648.57996,
+      "transcript": "but that, you know, the highest calling,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 649.44,
+      "end": 650.5,
+      "transcript": "for these resources"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 650.88,
+      "end": 651.38,
+      "transcript": "is,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 652.24,
+      "end": 653.14,
+      "transcript": "to go back,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 654.54504,
+      "end": 655.36505,
+      "transcript": "to the neediest"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 656.065,
+      "end": 657.125,
+      "transcript": "through the foundation."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 657.66504,
+      "end": 662.72504,
+      "transcript": "And, you know, they've seen the success of the foundation. I hope they're very proud"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 663.42505,
+      "end": 665.42505,
+      "transcript": "of of the foundation. And,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 667.585,
+      "end": 668.085,
+      "transcript": "so,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 668.86,
+      "end": 672.4,
+      "transcript": "you know, I I've seen cases where kids actually tell their parents"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 672.78,
+      "end": 673.84,
+      "transcript": "to be more philanthropic."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 674.22003,
+      "end": 676.88,
+      "transcript": "You know, I think the younger generation sometimes actually,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 678.38,
+      "end": 681.28,
+      "transcript": "is pushing against this idea of of,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 683.02,
+      "end": 685.92505,
+      "transcript": "you know, the wealth just being passed down,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 687.025,
+      "end": 687.525,
+      "transcript": "mostly."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 689.825,
+      "end": 699.84503,
+      "transcript": "And So that's So to, you know, every family is a a bit different. I have last question on India, and then we'll get to the foundation work and try to understand you as well."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 700.98004,
+      "end": 702.36005,
+      "transcript": "If you get an opportunity"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 703.94,
+      "end": 705.64,
+      "transcript": "to invite three Indians"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 706.26,
+      "end": 707.08,
+      "transcript": "for dinner,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 707.7,
+      "end": 709.96,
+      "transcript": "dead or alive, who would that be?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 711.78,
+      "end": 714.68,
+      "transcript": "Well, I get to spend time with, you know, some incredible,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 715.995,
+      "end": 720.815,
+      "transcript": "people in India and, you know, I get time with the prime minister and understand his vision,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 722.15497,
+      "end": 725.695,
+      "transcript": "and how we fit into that. This, you know, 2047,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 727.595,
+      "end": 732.86005,
+      "transcript": "thing that, you know, everything is lining up to try to achieve that. You know, I get to meet,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 733.9,
+      "end": 739.60004,
+      "transcript": "there was a great scientist, Raj Baughn, who created the, Department of Biotechnology."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 741.34,
+      "end": 742.32,
+      "transcript": "There was a mathematician,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 743.10004,
+      "end": 743.60004,
+      "transcript": "Ramanujan,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 745.15497,
+      "end": 747.975,
+      "transcript": "who I would have loved to have met him because he was,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 748.995,
+      "end": 750.615,
+      "transcript": "you know, almost mysterious"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 750.995,
+      "end": 752.13495,
+      "transcript": "how he was so"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 752.675,
+      "end": 755.475,
+      "transcript": "genius at what he was able to do."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 757.15497,
+      "end": 758.21497,
+      "transcript": "You know, the,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 758.74,
+      "end": 762.68,
+      "transcript": "I got to work with Rotten Todd. I'm getting to work with all of the,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 763.94,
+      "end": 765.16003,
+      "transcript": "amazing philanthropists"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 765.54004,
+      "end": 766.04004,
+      "transcript": "and,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 766.82,
+      "end": 770.12,
+      "transcript": "a lot of the innovators here. You know, I get to see small companies"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 770.5,
+      "end": 772.12,
+      "transcript": "early on. I just went through,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 772.935,
+      "end": 773.895,
+      "transcript": "some of these,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 774.29504,
+      "end": 775.675,
+      "transcript": "companies using AI"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 775.97504,
+      "end": 776.715,
+      "transcript": "in health."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 777.41504,
+      "end": 779.515,
+      "transcript": "Some prop for profit, a few,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 780.615,
+      "end": 781.115,
+      "transcript": "nonprofit."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 783.09503,
+      "end": 784.955,
+      "transcript": "You know, we had a great twenty fifth,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 787.64,
+      "end": 791.42,
+      "transcript": "twenty five year celebration and this great, sitar artist,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 791.88,
+      "end": 795.58,
+      "transcript": "you know, came and, that was a pretty special thing."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 796.12,
+      "end": 799.74,
+      "transcript": "So it'd be hard for me to pick. There's there's, so many"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 800.115,
+      "end": 802.695,
+      "transcript": "incredible talents. You can't pick three."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 803.875,
+      "end": 805.415,
+      "transcript": "I I I think I defend,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 805.955,
+      "end": 806.615,
+      "transcript": "some people"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 808.835,
+      "end": 810.135,
+      "transcript": "by not including them."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 810.675,
+      "end": 811.655,
+      "transcript": "Fair. Fair."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 812.915,
+      "end": 815.1,
+      "transcript": "You were talking about small companies. If"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 815.74,
+      "end": 817.92,
+      "transcript": "you were to start something from zero"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 818.45996,
+      "end": 819.83997,
+      "transcript": "in India today, where"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 821.1,
+      "end": 821.75995,
+      "transcript": "would you"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 822.13995,
+      "end": 827.6,
+      "transcript": "put most of your time? And what the first step you'll take? Well, you'd mostly start a company because you think"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 828.065,
+      "end": 834.245,
+      "transcript": "you enjoy working on something and you think you have a world class understanding of, you know, a unique contribution."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 835.105,
+      "end": 836.885,
+      "transcript": "You know, for me, that was software."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 837.665,
+      "end": 840.40497,
+      "transcript": "For this day and age, you know, if you think you understand,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 840.84,
+      "end": 841.82,
+      "transcript": "you know, fusion,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 843.0,
+      "end": 845.66003,
+      "transcript": "you know, that's great. If you're successful, which,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 846.2,
+      "end": 847.10004,
+      "transcript": "that's risky,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 848.60004,
+      "end": 853.18005,
+      "transcript": "you know, you could really improve the world. You know, AI is sort of the"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 854.275,
+      "end": 858.135,
+      "transcript": "today's equivalent of what I did when I was young to see,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 858.515,
+      "end": 861.095,
+      "transcript": "you know, wow, the possibilities"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 861.555,
+      "end": 862.055,
+      "transcript": "are"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 862.435,
+      "end": 862.935,
+      "transcript": "unlimited."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 864.435,
+      "end": 866.775,
+      "transcript": "And so, you know, I'd probably be doing,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 867.75,
+      "end": 874.49005,
+      "transcript": "one of these new AI companies if I was starting out today. Is it do you still feel there's opportunity,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 874.87006,
+      "end": 878.89,
+      "transcript": "a lot of opportunities in AI to build something as significant as what you have built"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 879.285,
+      "end": 881.46497,
+      "transcript": "or it's pretty late? Well,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 882.005,
+      "end": 883.225,
+      "transcript": "you know, the big companies"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 883.685,
+      "end": 884.185,
+      "transcript": "are,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 885.52496,
+      "end": 887.46497,
+      "transcript": "putting a lot of money into it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 888.885,
+      "end": 890.745,
+      "transcript": "And the number of companies globally"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 891.845,
+      "end": 905.29,
+      "transcript": "is is, you know, huge. I mean, you know, many people didn't even know these Chinese companies who were doing all this work and yet Yeah. You know, some of the best results over the last six months have come from three or four of the models there."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 905.67,
+      "end": 906.645,
+      "transcript": "So it's not,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 907.205,
+      "end": 918.905,
+      "transcript": "when I got going in computing, it was a very small set of people. And, you know, people thought we were crazy that there we set a computer on every desk and a computer in every home."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 919.41,
+      "end": 925.82996,
+      "transcript": "And that just seemed strange to people because they couldn't see the they didn't get software and they didn't get the,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 926.76996,
+      "end": 927.26996,
+      "transcript": "exponential"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 927.57,
+      "end": 928.07,
+      "transcript": "improvement"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 928.76996,
+      "end": 932.14996,
+      "transcript": "of the chips was making computing, you know, basically"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 932.52997,
+      "end": 933.02997,
+      "transcript": "free."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 933.88995,
+      "end": 936.255,
+      "transcript": "So it's I'd say it's tougher,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 939.035,
+      "end": 940.415,
+      "transcript": "to get out in front."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 940.875,
+      "end": 941.195,
+      "transcript": "Mhmm."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 941.915,
+      "end": 944.495,
+      "transcript": "There will be new companies. I mean, Nvidia,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 944.875,
+      "end": 947.455,
+      "transcript": "you know, is almost as valuable as,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 948.075,
+      "end": 949.21497,
+      "transcript": "Apple and Microsoft."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 950.15497,
+      "end": 950.975,
+      "transcript": "And yet,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 952.37006,
+      "end": 953.11005,
+      "transcript": "you know, they,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 953.57,
+      "end": 954.07,
+      "transcript": "they,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 954.45,
+      "end": 959.11005,
+      "transcript": "you know, came into prominence only really in the last five or six years, although they're about"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 959.57,
+      "end": 962.23004,
+      "transcript": "15 years old. So there are opportunities"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 962.61005,
+      "end": 966.39,
+      "transcript": "and there will be some new companies that use AI,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 967.595,
+      "end": 972.255,
+      "transcript": "to achieve unbelievable success, but it'll be, you know, two or three out of 10,000."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 972.875,
+      "end": 975.375,
+      "transcript": "And, you know, would I be able to do that again?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 975.83496,
+      "end": 978.33496,
+      "transcript": "Hard to say. You talked about,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 978.795,
+      "end": 993.08,
+      "transcript": "like, when you started, a lot of people thought that, oh, what are you doing? This is some random thing these guys are trying to do. They may be stupid. They may be thinking too big. Whatever. Right? And over the time, every time you do something big, usually"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 993.7,
+      "end": 994.2,
+      "transcript": "people"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 995.075,
+      "end": 1000.775,
+      "transcript": "do not understand you or anyone, like, not just you, like, whoever wants to start something new and big."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1001.475,
+      "end": 1005.495,
+      "transcript": "In today's world, or as of today, what's the biggest misunderstanding"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1006.195,
+      "end": 1007.01,
+      "transcript": "about you?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1008.05,
+      "end": 1011.27,
+      "transcript": "What do you think? What do people misunderstand about Bill Gates?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1011.89,
+      "end": 1014.15,
+      "transcript": "Well, whenever you hear about somebody who's got,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1014.69,
+      "end": 1017.27,
+      "transcript": "you know, some degree of power or,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1017.89,
+      "end": 1020.07,
+      "transcript": "you know, ridiculous amounts of money,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1020.975,
+      "end": 1023.875,
+      "transcript": "you know, might you might think they have grand schemes,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1024.735,
+      "end": 1025.875,
+      "transcript": "you know, and they're,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1027.2949,
+      "end": 1032.355,
+      "transcript": "you know, there's almost a sense that, you know, their their values are different"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1032.895,
+      "end": 1037.63,
+      "transcript": "than your values and, you know, that you should be concerned about their agenda."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1039.29,
+      "end": 1040.1901,
+      "transcript": "You know, hopefully,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1040.65,
+      "end": 1042.67,
+      "transcript": "for the people who actually do know me,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1043.6901,
+      "end": 1045.31,
+      "transcript": "you know, and how much I love,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1046.01,
+      "end": 1046.75,
+      "transcript": "the foundation"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1047.05,
+      "end": 1050.885,
+      "transcript": "work and, you know, how I work with my friends or my kids,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1051.8251,
+      "end": 1053.2051,
+      "transcript": "you know, it's very different"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1053.665,
+      "end": 1059.685,
+      "transcript": "from the people who just think, oh, wow. You know, he's one of these guys who's, you know, pushing levers and,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1060.7051,
+      "end": 1063.23,
+      "transcript": "has has too much money and and too much,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1064.03,
+      "end": 1064.53,
+      "transcript": "authority."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1065.39,
+      "end": 1066.61,
+      "transcript": "So that people misunderstand"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1066.99,
+      "end": 1067.73,
+      "transcript": "about you."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1069.23,
+      "end": 1074.77,
+      "transcript": "And tell you on misunderstanding, do you have you made any major mistake that people don't know about?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1075.8949,
+      "end": 1078.5549,
+      "transcript": "Well, some of my mistakes are very public. I mean, Microsoft,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1079.815,
+      "end": 1085.115,
+      "transcript": "you know, we had lots of products that didn't work. You know, we did a a phone operating system, and now,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1085.8949,
+      "end": 1086.955,
+      "transcript": "you know, Android,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1087.335,
+      "end": 1089.9149,
+      "transcript": "you know, took that position. So I certainly,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1090.46,
+      "end": 1092.24,
+      "transcript": "you know, messed that up,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1094.86,
+      "end": 1096.64,
+      "transcript": "in a huge way."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1097.26,
+      "end": 1098.08,
+      "transcript": "For the foundation,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1098.7,
+      "end": 1101.84,
+      "transcript": "you know, we often have multiple plans. You know, we"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1102.22,
+      "end": 1104.0,
+      "transcript": "wanted to have an HIV vaccine."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1105.145,
+      "end": 1108.6849,
+      "transcript": "We don't have that yet. You know, we're working on a very cheap"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1109.065,
+      "end": 1111.645,
+      "transcript": "toilet, but it's still too expensive."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1112.265,
+      "end": 1114.6849,
+      "transcript": "So that's taking a lot longer. We don't have polio"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1115.225,
+      "end": 1116.845,
+      "transcript": "eradication done. I'm still,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1117.865,
+      "end": 1121.19,
+      "transcript": "very committed to that, but it's taking a lot longer,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1122.0499,
+      "end": 1123.83,
+      "transcript": "than than we thought it would."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1124.13,
+      "end": 1127.0299,
+      "transcript": "So do you talking about Foundation work, you've"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1127.49,
+      "end": 1129.51,
+      "transcript": "impacted millions of life"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1129.89,
+      "end": 1134.07,
+      "transcript": "and you spend a lot in making people's life better."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1134.985,
+      "end": 1136.6849,
+      "transcript": "What's your biggest challenge today?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1137.625,
+      "end": 1138.125,
+      "transcript": "Because"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1138.585,
+      "end": 1139.085,
+      "transcript": "somebody"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1139.865,
+      "end": 1145.085,
+      "transcript": "on somebody who's watching this might think that at your level with so much"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1145.785,
+      "end": 1149.245,
+      "transcript": "power influence money. You can actually fix a lot of problems."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1149.62,
+      "end": 1153.0,
+      "transcript": "What do you think is your problem? Like, what challenges do you see here?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1153.9401,
+      "end": 1155.4,
+      "transcript": "Well, I'm I love the"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1155.9401,
+      "end": 1158.36,
+      "transcript": "scientific challenges. I mean, we still don't"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1158.8201,
+      "end": 1159.64,
+      "transcript": "fully understand"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1160.26,
+      "end": 1160.76,
+      "transcript": "malnutrition."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1162.115,
+      "end": 1165.735,
+      "transcript": "We have some tools to reduce it that it's super exciting."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1166.755,
+      "end": 1168.6951,
+      "transcript": "But, you know, I'm really pushing our"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1169.235,
+      "end": 1169.735,
+      "transcript": "research"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1170.035,
+      "end": 1170.535,
+      "transcript": "workers,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1171.875,
+      "end": 1172.855,
+      "transcript": "hard that,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1173.155,
+      "end": 1177.255,
+      "transcript": "okay, you know, we need we need to know more about that."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1178.17,
+      "end": 1179.39,
+      "transcript": "You know, I do think"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1179.6901,
+      "end": 1183.63,
+      "transcript": "getting money to help the very poorest countries, a lot of which are in Africa."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1183.93,
+      "end": 1184.91,
+      "transcript": "You know, Asia,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1185.45,
+      "end": 1186.03,
+      "transcript": "you know,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1187.53,
+      "end": 1190.75,
+      "transcript": "many of the countries are having good economic"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1191.05,
+      "end": 1192.67,
+      "transcript": "growth. And and Africa"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1193.645,
+      "end": 1194.445,
+      "transcript": "has a lot of unique,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1196.5249,
+      "end": 1197.0249,
+      "transcript": "governments"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1197.325,
+      "end": 1198.385,
+      "transcript": "or instability"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1199.4049,
+      "end": 1201.585,
+      "transcript": "or disease challenges. And so"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1202.9249,
+      "end": 1205.825,
+      "transcript": "telling people they should, you know, help out,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1206.9249,
+      "end": 1210.89,
+      "transcript": "other humans even though they're they're far away and speak a different language."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1212.31,
+      "end": 1214.55,
+      "transcript": "That's not as easy as I thought it would be."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1215.3501,
+      "end": 1219.6101,
+      "transcript": "You know, right now, some of the rich countries, including my country, are cutting their aid budgets."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1220.0701,
+      "end": 1221.8501,
+      "transcript": "And I'm I'm very disappointed"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1222.31,
+      "end": 1224.485,
+      "transcript": "that, you know, to me, that's not,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1224.9451,
+      "end": 1226.725,
+      "transcript": "you know, the golden rule of"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1227.025,
+      "end": 1230.805,
+      "transcript": "treating people like you'd like to be treated. So what do you think"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1231.185,
+      "end": 1233.525,
+      "transcript": "all the people who are watching this, including me,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1234.305,
+      "end": 1238.94,
+      "transcript": "young people should do so that we could convince more people to help other people."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1239.32,
+      "end": 1240.86,
+      "transcript": "Well, when you're young,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1242.44,
+      "end": 1245.26,
+      "transcript": "if you're here in India, you know, you can probably travel,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1246.12,
+      "end": 1248.78,
+      "transcript": "you know, some modest distance an hour or two"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1249.125,
+      "end": 1252.265,
+      "transcript": "and see people, you know, who don't have the same"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1252.645,
+      "end": 1257.785,
+      "transcript": "opportunities you do. That, you know, they're smart, but their school's not good or, you know, they get,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1258.805,
+      "end": 1261.465,
+      "transcript": "some health problem and they're not able to access"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1262.005,
+      "end": 1267.57,
+      "transcript": "things. I would say in India, you know, programs like the aspirational district program,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1268.1901,
+      "end": 1269.09,
+      "transcript": "India does,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1270.11,
+      "end": 1271.01,
+      "transcript": "talk openly"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1271.71,
+      "end": 1276.05,
+      "transcript": "about the places that are the worst off. And that's, you know, that's pretty impressive."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1277.015,
+      "end": 1279.675,
+      "transcript": "You know, even issues like sanitation that governments"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1280.2151,
+      "end": 1284.775,
+      "transcript": "most governments, you know, you wouldn't catch them talking about toilets. Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1285.3351,
+      "end": 1286.3151,
+      "transcript": "You know, this"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1286.6951,
+      "end": 1289.675,
+      "transcript": "country, you know, took on a pretty aggressive"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1290.2151,
+      "end": 1291.1951,
+      "transcript": "plan and made"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1291.5751,
+      "end": 1295.41,
+      "transcript": "a lot of progress on that. So you can go out and see,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1296.91,
+      "end": 1298.61,
+      "transcript": "people and develop empathy,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1299.15,
+      "end": 1300.77,
+      "transcript": "without going too far."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1302.1901,
+      "end": 1302.6901,
+      "transcript": "And"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1303.2301,
+      "end": 1304.05,
+      "transcript": "you spent"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1305.705,
+      "end": 1308.605,
+      "transcript": "hours and hours and days in this country."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1308.985,
+      "end": 1309.645,
+      "transcript": "You spent"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1310.505,
+      "end": 1314.445,
+      "transcript": "millions on vaccines and trying to take care of health care challenges."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1315.385,
+      "end": 1319.325,
+      "transcript": "What's one problem you feel that money cannot fix?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1322.6599,
+      "end": 1324.26,
+      "transcript": "You know, there's a lot of talk about,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1325.94,
+      "end": 1326.44,
+      "transcript": "obesity"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1327.2999,
+      "end": 1327.7999,
+      "transcript": "and,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1329.14,
+      "end": 1338.6151,
+      "transcript": "you know, when I saw the prime minister, he was talking about various yoga type things that, you know, people would adopt those. But it's been hard, you know, not many countries"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1339.3151,
+      "end": 1344.8551,
+      "transcript": "have gotten the behavior change. Yeah. You know, maybe India can pioneer some approaches there,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1345.2351,
+      "end": 1346.52,
+      "transcript": "but, you know, frankly,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1346.98,
+      "end": 1351.08,
+      "transcript": "and I'll sound like a technologist, the most promising thing is actually,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1353.3,
+      "end": 1354.52,
+      "transcript": "you know, a drug,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1354.9,
+      "end": 1366.855,
+      "transcript": "a class of drugs called these GLP one drugs that, you know, are going to go off patent and become cheap and, you know, so I always like, you know, I'm a little over focused on a scientific solution."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1367.235,
+      "end": 1373.22,
+      "transcript": "So maybe a combination of that behavior change and, and the new tools, but behavior change is hard."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1374.5,
+      "end": 1376.2,
+      "transcript": "We we haven't,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1377.7,
+      "end": 1382.9199,
+      "transcript": "succeeded in that as as much as we'd like to. Tell me one behavior we all should adopt."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1383.94,
+      "end": 1384.44,
+      "transcript": "Well,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1384.74,
+      "end": 1389.275,
+      "transcript": "you know, the behavior that's helped me is is basically being a student"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1389.815,
+      "end": 1392.395,
+      "transcript": "all the time, wanting to learn things and being pretty"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1393.255,
+      "end": 1395.675,
+      "transcript": "brutal with myself of, do I really understand,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1396.215,
+      "end": 1399.435,
+      "transcript": "you know, what's going on? You know, do I understand"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1400.05,
+      "end": 1401.65,
+      "transcript": "some AI thing or,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1403.17,
+      "end": 1405.91,
+      "transcript": "some disease thing? And, you know, fortunately,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1407.5701,
+      "end": 1409.27,
+      "transcript": "I can meet with people who"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1409.65,
+      "end": 1419.105,
+      "transcript": "in many cases can help me understand. And then, you know, knowledge, if you're careful about building your your knowledge, it all kind of connects together. But,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1419.885,
+      "end": 1424.705,
+      "transcript": "you know, reading a lot, being a student, you know, having people who can teach me,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1426.285,
+      "end": 1426.785,
+      "transcript": "that's,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1427.405,
+      "end": 1428.145,
+      "transcript": "you know,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1428.57,
+      "end": 1430.99,
+      "transcript": "been not only fun for me, but also"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1431.37,
+      "end": 1432.9099,
+      "transcript": "a big part of my success."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1434.1699,
+      "end": 1436.6699,
+      "transcript": "So all of people who are watching this"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1437.0499,
+      "end": 1439.5499,
+      "transcript": "actually feels pretty validated at this point."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1440.01,
+      "end": 1440.51,
+      "transcript": "Good."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1440.97,
+      "end": 1444.1849,
+      "transcript": "Because this whole pod cause is about learning"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1444.565,
+      "end": 1447.3049,
+      "transcript": "from really really incredible people like you."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1447.605,
+      "end": 1448.5049,
+      "transcript": "And we have"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1448.8049,
+      "end": 1455.5449,
+      "transcript": "so many questions that we just keep asking to learn more to learn more to get inside brain. So thanks for validation."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1456.565,
+      "end": 1457.065,
+      "transcript": "Perfect."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1458.6,
+      "end": 1463.34,
+      "transcript": "What's fascinating for me, this time in your journey, like, this time you visit to India,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1464.28,
+      "end": 1469.9,
+      "transcript": "the full Gates Foundation board is here. Right? And that's pretty unique, and they get to experience India."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1471.465,
+      "end": 1473.4049,
+      "transcript": "What what do you think? What are your priorities"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1474.585,
+      "end": 1476.205,
+      "transcript": "with regards to this nation?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1476.745,
+      "end": 1482.5249,
+      "transcript": "Why the whole board is here? What do you guys are trying to figure out? What are the things that you're doing?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1483.065,
+      "end": 1484.365,
+      "transcript": "Well, as much progress"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1484.8999,
+      "end": 1486.2799,
+      "transcript": "as we've been part"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1487.2999,
+      "end": 1490.2,
+      "transcript": "of achieving here in India, there's still a lot to do."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1491.38,
+      "end": 1496.6799,
+      "transcript": "You know, the the child to death rate is about a third of what it was,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1497.705,
+      "end": 1498.605,
+      "transcript": "but it's still"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1498.985,
+      "end": 1500.605,
+      "transcript": "almost three times higher"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1501.065,
+      "end": 1502.445,
+      "transcript": "than in a rich country."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1503.065,
+      "end": 1506.6849,
+      "transcript": "So we, you know, we should all want to close that gap. That's,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1508.025,
+      "end": 1508.525,
+      "transcript": "equity."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1509.3049,
+      "end": 1510.365,
+      "transcript": "I mentioned malnutrition."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1511.89,
+      "end": 1515.33,
+      "transcript": "You know, the country is very serious about that and yet,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1516.29,
+      "end": 1520.3099,
+      "transcript": "you know, it means that your brain never develops. And sadly,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1521.1699,
+      "end": 1522.3099,
+      "transcript": "if whatever"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1523.09,
+      "end": 1525.27,
+      "transcript": "dietary or disease things"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1525.73,
+      "end": 1526.63,
+      "transcript": "affect you,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1527.765,
+      "end": 1529.865,
+      "transcript": "during pregnancy in your first year,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1530.3251,
+      "end": 1531.305,
+      "transcript": "even if later"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1531.685,
+      "end": 1534.745,
+      "transcript": "you get a fantastic diet, your brain"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1535.045,
+      "end": 1536.265,
+      "transcript": "and your physical,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1537.525,
+      "end": 1538.025,
+      "transcript": "capabilities,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1538.3251,
+      "end": 1539.0651,
+      "transcript": "they don't"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1539.4451,
+      "end": 1542.96,
+      "transcript": "adjust. You're, you know, sort of permanently affected. And so,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1544.64,
+      "end": 1550.8999,
+      "transcript": "you know, we're working with some great scientists here. We have a lot of the tools of biology have gotten a lot better. So I do think,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1552.5599,
+      "end": 1556.26,
+      "transcript": "you know, in the next decade we'll totally get to the bottom of that."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1557.795,
+      "end": 1560.8551,
+      "transcript": "And, you know, I'm I'm thrilled to do that. And a lot of"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1561.9551,
+      "end": 1565.5751,
+      "transcript": "the scientists we partner with, you know, including some at ICMR,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1565.9551,
+      "end": 1568.535,
+      "transcript": "but, you know, lots of institutions around the country,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1569.7151,
+      "end": 1570.535,
+      "transcript": "they're also,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1571.2351,
+      "end": 1572.21,
+      "transcript": "committed to that."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1572.9299,
+      "end": 1573.83,
+      "transcript": "So you"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1574.21,
+      "end": 1577.59,
+      "transcript": "work here a lot and with the foundation you work around the world,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1577.89,
+      "end": 1581.19,
+      "transcript": "a lot of things. And because of all of this"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1581.73,
+      "end": 1586.63,
+      "transcript": "passion and data and this intention to try to help people,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1587.3351,
+      "end": 1590.9551,
+      "transcript": "you've been pretty accurate in trying to understand trends"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1591.5751,
+      "end": 1592.635,
+      "transcript": "way before people,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1592.935,
+      "end": 1597.755,
+      "transcript": "like, normal people. Let's say, you're pretty accurate in so many things in predicting"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1598.775,
+      "end": 1603.29,
+      "transcript": "so many epidemics as well. Is there something that you'd know which we don't?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1605.03,
+      "end": 1608.09,
+      "transcript": "Like, how do you spot these things way faster?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1608.47,
+      "end": 1610.65,
+      "transcript": "Well, the biggest change agent"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1611.43,
+      "end": 1612.49,
+      "transcript": "in my lifetime"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1613.27,
+      "end": 1615.53,
+      "transcript": "has been the the miracle of digital."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1615.91,
+      "end": 1616.89,
+      "transcript": "You know, now,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1618.1849,
+      "end": 1624.205,
+      "transcript": "moving into the AI phase of of that digital revolution. So the fact that as a young person,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1624.825,
+      "end": 1625.725,
+      "transcript": "you know, I was"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1626.025,
+      "end": 1628.845,
+      "transcript": "programming at age 13 and by,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1629.2,
+      "end": 1633.3,
+      "transcript": "you know, 18, I had my, you know, thousands of hours of,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1634.4,
+      "end": 1637.86,
+      "transcript": "really strong feedback about, you know, getting better and,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1638.88,
+      "end": 1639.7,
+      "transcript": "being pushed."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1641.2,
+      "end": 1644.8049,
+      "transcript": "And so to, it's a really lucky thing"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1645.505,
+      "end": 1647.205,
+      "transcript": "to have such a"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1648.225,
+      "end": 1648.725,
+      "transcript": "familiarity"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1649.6649,
+      "end": 1656.6449,
+      "transcript": "with the thing that's going to change the world. And so, you know, I wrote a book called The Road Ahead a long time ago,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1657.07,
+      "end": 1658.53,
+      "transcript": "you know, that talked about,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1659.15,
+      "end": 1662.29,
+      "transcript": "you know, the internet and digital money and,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1663.07,
+      "end": 1664.13,
+      "transcript": "video conferencing."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1665.39,
+      "end": 1674.005,
+      "transcript": "And then when I moved into the foundation work, the health work, you know, people in that community understand pandemics and, you know, so my saying,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1674.305,
+      "end": 1677.685,
+      "transcript": "hey, you know, there's a big risk and the thing that's gonna"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1678.145,
+      "end": 1678.645,
+      "transcript": "kill,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1678.9451,
+      "end": 1682.7251,
+      "transcript": "you know, ten million additional people is likely to be a pandemic."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1684.385,
+      "end": 1689.5,
+      "transcript": "You know, that's common place knowledge if you're in the global health community. It's a very small community."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1690.52,
+      "end": 1693.5801,
+      "transcript": "But I was just somebody who was listened to,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1695.7201,
+      "end": 1696.2201,
+      "transcript": "stating,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1697.4,
+      "end": 1698.7001,
+      "transcript": "this. And sadly,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1699.375,
+      "end": 1701.875,
+      "transcript": "you know, most of the people who listen to that prediction,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1702.815,
+      "end": 1704.755,
+      "transcript": "listen to it after it came true."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1705.2949,
+      "end": 1708.995,
+      "transcript": "Then, you know, what my goal was was people to hear that and actually,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1710.4149,
+      "end": 1714.995,
+      "transcript": "stop it from happening. That's usually the case. Right? Like, people listen to"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1716.12,
+      "end": 1716.62,
+      "transcript": "pieces,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1716.92,
+      "end": 1721.3401,
+      "transcript": "golden eduise pieces and pieces of nuggets way after the time has been passed."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1722.68,
+      "end": 1723.8201,
+      "transcript": "Right? Because of this,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1724.36,
+      "end": 1727.02,
+      "transcript": "do you fear anything today? I definitely"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1727.6749,
+      "end": 1729.775,
+      "transcript": "hope that we shape AI"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1730.875,
+      "end": 1733.2949,
+      "transcript": "in a positive way. It's such a"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1733.835,
+      "end": 1734.335,
+      "transcript": "big,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1735.595,
+      "end": 1736.095,
+      "transcript": "impact"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1736.5549,
+      "end": 1737.0549,
+      "transcript": "on,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1737.6749,
+      "end": 1738.255,
+      "transcript": "you know,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1738.955,
+      "end": 1740.575,
+      "transcript": "being smarter than humans,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1741.6749,
+      "end": 1742.895,
+      "transcript": "that it will change"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1743.52,
+      "end": 1744.74,
+      "transcript": "our world a lot."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1746.24,
+      "end": 1753.0599,
+      "transcript": "And it's, you know, it's it's definitely new territory. So I have a list of about five things, you know, AI, shaping AI properly"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1753.6,
+      "end": 1756.26,
+      "transcript": "is at the top of that list. But, you know, avoiding"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1756.755,
+      "end": 1759.255,
+      "transcript": "the next pandemic, avoiding nuclear war,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1760.115,
+      "end": 1760.615,
+      "transcript": "bioterrorism,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1761.3151,
+      "end": 1765.575,
+      "transcript": "climate change. It's only about five or six things that we need to,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1767.475,
+      "end": 1767.975,
+      "transcript": "minimize"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1768.835,
+      "end": 1770.055,
+      "transcript": "the chance of,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1771.11,
+      "end": 1772.5701,
+      "transcript": "you know, and use our"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1772.9501,
+      "end": 1774.81,
+      "transcript": "additional wealth and insights,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1775.27,
+      "end": 1785.995,
+      "transcript": "you know, against those things. Do you have any personal fear? What's your biggest fear? You know, it's not like I'm afraid of heights or planes or fire or anything like that. You know, I hope I'm"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1786.615,
+      "end": 1788.315,
+      "transcript": "I'll be sad as my brain,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1790.055,
+      "end": 1791.275,
+      "transcript": "gets less capable,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1791.655,
+      "end": 1797.915,
+      "transcript": "you know, which, you know, as I turn 70 this year, you know, I'd be lucky to have twenty"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1798.5599,
+      "end": 1801.22,
+      "transcript": "years of, you know, being able to learn,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1801.84,
+      "end": 1807.46,
+      "transcript": "you know, maybe I'll get lucky and get a little bit more. But, you know, that disappoints me because I've"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1807.84,
+      "end": 1808.6599,
+      "transcript": "had such"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1809.44,
+      "end": 1811.0599,
+      "transcript": "a amazing time learning,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1812.3999,
+      "end": 1816.195,
+      "transcript": "things. And I I used to think of old people as not,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1816.495,
+      "end": 1823.3949,
+      "transcript": "you know, contributing all that much. And now I've had to change my mind about how, how important old people are."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1824.335,
+      "end": 1828.495,
+      "transcript": "Do you, do you feel difference? I don't, I don't at all."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1829.21,
+      "end": 1834.11,
+      "transcript": "You know, probably if I I took an IQ test, I I would do a little bit worse"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1834.41,
+      "end": 1836.11,
+      "transcript": "than when I was 25."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1837.05,
+      "end": 1840.1901,
+      "transcript": "But, you know, I've accumulated enough knowledge, you know, so wisdom,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1841.61,
+      "end": 1844.99,
+      "transcript": "you know, can compensate a little bit for a slight,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1845.5549,
+      "end": 1851.1749,
+      "transcript": "reduction intelligence. And I do think it's like a muscle that if you're pushing yourself to think and learn"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1851.635,
+      "end": 1853.495,
+      "transcript": "that, you know, you stay,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1856.195,
+      "end": 1857.735,
+      "transcript": "it really helps your capabilities"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1858.2749,
+      "end": 1858.9349,
+      "transcript": "a lot."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1860.99,
+      "end": 1869.65,
+      "transcript": "But, yeah, I have a fear that, you know, I eventually I'll lose you know, I won't wanna pick up a 500 page book. I'll look at it and go, are you kidding?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1870.35,
+      "end": 1871.49,
+      "transcript": "I'm done with that."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1872.75,
+      "end": 1876.13,
+      "transcript": "So with age, you have not felt any changes in your brain?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1876.615,
+      "end": 1877.975,
+      "transcript": "Not really. In terms of slowing."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1880.0549,
+      "end": 1881.835,
+      "transcript": "Wow. No. I don't think so."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1882.855,
+      "end": 1886.375,
+      "transcript": "You know, whenever you can't remember something, you're like, oh, no. Now"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1887.015,
+      "end": 1887.515,
+      "transcript": "but,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1889.48,
+      "end": 1895.34,
+      "transcript": "you know, so maybe a tiny bit of that, but then, you know, it's just a little bit because you're you're"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1896.36,
+      "end": 1902.0599,
+      "transcript": "looking for it. You know, when I was in my twenties, if I can't remember something, I didn't even know. And I was like, so what?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1903.24,
+      "end": 1906.265,
+      "transcript": "So Is there any change you feel? Because"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1906.8049,
+      "end": 1909.465,
+      "transcript": "so Bill Gates of 25 and Bill Gates of 70,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1910.085,
+      "end": 1919.49,
+      "transcript": "is there any change that you feel personally? Well, in my twenties, I was I chose to focus on one topic from, you know, age 20 to about"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1920.45,
+      "end": 1921.89,
+      "transcript": "31"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1921.89,
+      "end": 1922.55,
+      "transcript": "or two."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1924.45,
+      "end": 1924.95,
+      "transcript": "I"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1925.25,
+      "end": 1927.4299,
+      "transcript": "told myself, hey, I love biology"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1927.73,
+      "end": 1930.87,
+      "transcript": "and math and all these things, but I want to be"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1931.41,
+      "end": 1931.91,
+      "transcript": "the"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1932.29,
+      "end": 1933.35,
+      "transcript": "person who's"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1933.845,
+      "end": 1935.065,
+      "transcript": "advancing software"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1935.605,
+      "end": 1936.105,
+      "transcript": "faster"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1936.485,
+      "end": 1938.985,
+      "transcript": "than anyone else. And so I really did"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1939.525,
+      "end": 1940.025,
+      "transcript": "narrow"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1940.405,
+      "end": 1942.4249,
+      "transcript": "my focus and I I didn't,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1942.725,
+      "end": 1943.625,
+      "transcript": "you know, take"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1944.005,
+      "end": 1947.33,
+      "transcript": "much time off. And I could stay in the office, you know,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1948.2899,
+      "end": 1949.35,
+      "transcript": "seventy two hours"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1949.73,
+      "end": 1950.7899,
+      "transcript": "and then crash."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1952.2899,
+      "end": 1953.75,
+      "transcript": "And so my adrenaline"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1954.85,
+      "end": 1955.35,
+      "transcript": "and"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1955.89,
+      "end": 1957.0299,
+      "transcript": "was really"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1957.73,
+      "end": 1958.23,
+      "transcript": "unique."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1958.61,
+      "end": 1960.85,
+      "transcript": "Now my understanding of how to manage people,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1962.355,
+      "end": 1965.735,
+      "transcript": "other than myself wasn't that, that could, you know, I've,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1966.115,
+      "end": 1967.495,
+      "transcript": "I, I look back and,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1968.595,
+      "end": 1971.4149,
+      "transcript": "you know, I've, I've learned a lot since then, but just my"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1971.7949,
+      "end": 1972.2949,
+      "transcript": "stamina,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1973.7949,
+      "end": 1974.695,
+      "transcript": "and focus"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1975.08,
+      "end": 1979.0199,
+      "transcript": "for that period of my life, you know, being kind of a a maniac,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1980.12,
+      "end": 1980.62,
+      "transcript": "was"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1981.0,
+      "end": 1988.255,
+      "transcript": "was the right thing. And, you know, I I, you know, my competitors would say, oh, no, you work too hard. And I'd say, yes, I do."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1989.115,
+      "end": 1995.775,
+      "transcript": "Do you think that's a great advice for every young person who's watching? Well A maniac in your twenties. It's not it's not for everyone."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1997.1951,
+      "end": 1998.255,
+      "transcript": "But if you're"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1998.635,
+      "end": 1999.935,
+      "transcript": "if you're in a race,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2001.73,
+      "end": 2002.23,
+      "transcript": "and,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2003.89,
+      "end": 2004.45,
+      "transcript": "you know, the"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2005.73,
+      "end": 2008.39,
+      "transcript": "a little bit moving a little bit faster"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2009.09,
+      "end": 2010.63,
+      "transcript": "can make a a difference,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2011.89,
+      "end": 2014.87,
+      "transcript": "then, yes, your your twenties when you have no"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2015.735,
+      "end": 2017.035,
+      "transcript": "wife and no children,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2018.055,
+      "end": 2019.495,
+      "transcript": "that's the time to do it."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2020.295,
+      "end": 2027.435,
+      "transcript": "That's the time to be little maniac about certain things. Right? You also just mentioned that you love learning, which"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2027.7799,
+      "end": 2031.32,
+      "transcript": "obviously, the world knows. But during this conversation also, you just"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2031.7799,
+      "end": 2038.0399,
+      "transcript": "talked about it, like, a little bit again and again. What are you currently learning? Or what do you wanna learn now? Well, there's a lot"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2039.5399,
+      "end": 2040.2799,
+      "transcript": "going on."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2042.535,
+      "end": 2046.395,
+      "transcript": "You know, AI just staying on top of that Mhmm. Is,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2046.6951,
+      "end": 2047.675,
+      "transcript": "you know, I"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2048.215,
+      "end": 2058.5898,
+      "transcript": "I very much enjoy that. And I get to sit and talk with the top people at OpenAI, and I get to play around with things. But then when you think, okay, now about what about AI"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2059.3699,
+      "end": 2061.15,
+      "transcript": "applied to mental health care?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2061.93,
+      "end": 2068.3499,
+      "transcript": "You know, isn't that one of the most exciting things? Because, you know, we can never have enough therapists,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2069.685,
+      "end": 2071.145,
+      "transcript": "and even people who aren't,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2072.965,
+      "end": 2074.5852,
+      "transcript": "you know, suffering massively,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2075.365,
+      "end": 2077.225,
+      "transcript": "you know, maybe we could help,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2078.245,
+      "end": 2078.745,
+      "transcript": "even"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2079.7651,
+      "end": 2080.905,
+      "transcript": "people with mild,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2081.845,
+      "end": 2083.865,
+      "transcript": "symptoms. So, you know, what does this"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2084.3901,
+      "end": 2085.21,
+      "transcript": "AI companion"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2086.23,
+      "end": 2088.81,
+      "transcript": "look like and, you know, how can that"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2090.31,
+      "end": 2091.1301,
+      "transcript": "help us?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2091.99,
+      "end": 2093.21,
+      "transcript": "My friend Reid Hoffman,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2093.75,
+      "end": 2099.05,
+      "transcript": "just wrote a book called Super Agency that he's got a really good chapter about this. So"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2099.605,
+      "end": 2102.0251,
+      "transcript": "I'm pushing myself to try and understand,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2104.165,
+      "end": 2109.865,
+      "transcript": "you know, what can we do there and meet the people who are, you know, pushing the the boundaries,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2110.485,
+      "end": 2112.2651,
+      "transcript": "because I see such potential."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2113.0,
+      "end": 2115.4202,
+      "transcript": "So what would you advise young people"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2115.9602,
+      "end": 2116.78,
+      "transcript": "to start"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2117.08,
+      "end": 2118.86,
+      "transcript": "learning today and from where?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2119.6401,
+      "end": 2122.22,
+      "transcript": "AI itself? Well, if you have a mathematical"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2123.08,
+      "end": 2123.58,
+      "transcript": "mind,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2124.2002,
+      "end": 2129.4648,
+      "transcript": "you know, not everyone should learn AI. Okay. You know, these tools are going to be available,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2130.805,
+      "end": 2134.025,
+      "transcript": "to everyone. And so you ought to be a user of AI,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2134.325,
+      "end": 2135.3848,
+      "transcript": "but the underlying"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2136.7249,
+      "end": 2140.825,
+      "transcript": "stuff, you know, that's a pretty narrow set of people who will have an opportunity"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2142.9,
+      "end": 2145.56,
+      "transcript": "to, you know, push on a new training method."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2147.22,
+      "end": 2149.16,
+      "transcript": "And even people who grew up with software,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2149.6199,
+      "end": 2150.52,
+      "transcript": "some of them"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2150.82,
+      "end": 2157.755,
+      "transcript": "don't really get this because it's it's a bit more mathematical than it is just a a programming type thing."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2159.015,
+      "end": 2159.515,
+      "transcript": "So"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2159.815,
+      "end": 2160.9548,
+      "transcript": "it says a user"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2161.7349,
+      "end": 2165.115,
+      "transcript": "that, okay, if you're you like doing creative work, yes,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2166.295,
+      "end": 2169.595,
+      "transcript": "AI is gonna change your world and AI hopefully can help you,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2171.4,
+      "end": 2172.6199,
+      "transcript": "do things faster"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2173.0,
+      "end": 2174.5398,
+      "transcript": "and better. So"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2174.8398,
+      "end": 2180.46,
+      "transcript": "my prescription would be yes to use it for the areas that you're excited about."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2180.92,
+      "end": 2188.8052,
+      "transcript": "Any area that excited about, learn from learn about that and try to make a bridge between AI and that industry. Right. I mean,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2189.5051,
+      "end": 2191.205,
+      "transcript": "the Internet has so much"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2191.905,
+      "end": 2195.7651,
+      "transcript": "educational material on it. So between all that material,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2196.705,
+      "end": 2203.29,
+      "transcript": "and then an AI that can help, you know, take long documents and you can have a dialogue with it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2204.39,
+      "end": 2209.91,
+      "transcript": "You know, you can do it in text or you can, you know, now do these generate podcasts about things. It's,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2210.55,
+      "end": 2217.4248,
+      "transcript": "it's a great time to be a learner. Right? You know, when I was young, I had to go to the library and, you know, read the encyclopedia"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2217.805,
+      "end": 2218.305,
+      "transcript": "alphabetically."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2219.1648,
+      "end": 2219.905,
+      "transcript": "No multimedia."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2220.4448,
+      "end": 2220.9448,
+      "transcript": "Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2221.645,
+      "end": 2222.545,
+      "transcript": "This is a"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2223.325,
+      "end": 2223.825,
+      "transcript": "paradise."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2224.525,
+      "end": 2231.83,
+      "transcript": "Yeah. Thanks to you guys because The digital world. Yeah. Digital world. You made it easy for us. We don't know the world,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2232.1301,
+      "end": 2238.23,
+      "transcript": "what it look like to go to a library and read about something. We get fidgety if we don't get an answer in three seconds."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2240.2102,
+      "end": 2242.23,
+      "transcript": "We have lost two questions for you."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2242.53,
+      "end": 2245.7551,
+      "transcript": "One is, in your philanthropy work with the foundation,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2246.5352,
+      "end": 2247.915,
+      "transcript": "how is India"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2248.455,
+      "end": 2250.395,
+      "transcript": "contributing to your global strategies?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2250.935,
+      "end": 2251.435,
+      "transcript": "Well,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2251.975,
+      "end": 2253.355,
+      "transcript": "more and more of the innovation,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2255.095,
+      "end": 2256.555,
+      "transcript": "is being done in India."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2257.495,
+      "end": 2257.995,
+      "transcript": "India's,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2258.58,
+      "end": 2259.32,
+      "transcript": "you know,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2259.7002,
+      "end": 2261.8801,
+      "transcript": "got a depth of talent and a desire"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2262.6602,
+      "end": 2264.12,
+      "transcript": "for frugal solutions."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2264.74,
+      "end": 2266.52,
+      "transcript": "And so even though the rich world,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2267.4602,
+      "end": 2271.8,
+      "transcript": "US, Europe, you know, we have a lot of talent. And for some basic science thing like immunology,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2272.755,
+      "end": 2277.7349,
+      "transcript": "a lot of the new insights will keep coming Yeah. From those institutions."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2278.1948,
+      "end": 2278.9348,
+      "transcript": "But when"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2279.315,
+      "end": 2290.38,
+      "transcript": "it comes to actually putting the pieces together, including something like AI for healthcare, you know, I was just meeting with a number of companies working on on very piece various piece of that in India."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2291.88,
+      "end": 2292.38,
+      "transcript": "And"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2292.8398,
+      "end": 2294.5398,
+      "transcript": "so the, you know, we need"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2295.16,
+      "end": 2298.38,
+      "transcript": "better seeds and we need better weather advice for farmers."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2298.92,
+      "end": 2299.74,
+      "transcript": "And so,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2300.2449,
+      "end": 2305.705,
+      "transcript": "although we're going to continue to do a lot of implementation here in India, help, you know, get things rolled out,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2306.9648,
+      "end": 2309.705,
+      "transcript": "more and more of our sort of product research,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2310.805,
+      "end": 2314.265,
+      "transcript": "work will be done here. Okay. Both because,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2315.3198,
+      "end": 2316.6199,
+      "transcript": "it benefits India."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2317.0,
+      "end": 2319.26,
+      "transcript": "But, you know, we're also very good if"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2319.72,
+      "end": 2320.7,
+      "transcript": "if it's saving"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2321.24,
+      "end": 2322.94,
+      "transcript": "Indian children, really working"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2323.48,
+      "end": 2325.0999,
+      "transcript": "well. You know, our foundation"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2325.8,
+      "end": 2326.3,
+      "transcript": "has"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2326.815,
+      "end": 2327.875,
+      "transcript": "a lot of presence"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2328.175,
+      "end": 2339.4749,
+      "transcript": "in Africa. Mhmm. So even take, you know, the classic example where India was totally the leader on this digital public infrastructure, the the digital money and identity adhaar thing,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2340.3801,
+      "end": 2344.0,
+      "transcript": "you know, funding the Africans to come here and learn and,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2344.46,
+      "end": 2355.365,
+      "transcript": "for their budgets and create helping to create the open source software that makes it easy for them, you know, that's now a huge agenda item, which is kind of a South South thing with a little bit of facilitation"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2355.665,
+      "end": 2356.405,
+      "transcript": "from us."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2357.345,
+      "end": 2359.665,
+      "transcript": "Got it. And here's the last question."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2362.225,
+      "end": 2362.725,
+      "transcript": "If"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2363.825,
+      "end": 2367.205,
+      "transcript": "you had if the world had to write one sentence"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2367.91,
+      "end": 2369.53,
+      "transcript": "next to the name Bill Gates,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2370.07,
+      "end": 2375.53,
+      "transcript": "what would you want them to write? You know, I don't do my work, you know, based on some epitaph."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2376.55,
+      "end": 2377.45,
+      "transcript": "You know, ideally,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2378.39,
+      "end": 2380.97,
+      "transcript": "you know, they'd say that, wow, there were these diseases"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2382.0051,
+      "end": 2384.425,
+      "transcript": "around, you know, polio and malaria"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2384.725,
+      "end": 2385.225,
+      "transcript": "and,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2386.0051,
+      "end": 2386.5051,
+      "transcript": "malnutrition."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2386.965,
+      "end": 2391.465,
+      "transcript": "And, you know, now we don't have to think about that, you know, partly because,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2393.2852,
+      "end": 2394.105,
+      "transcript": "he championed,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2394.88,
+      "end": 2396.58,
+      "transcript": "you know, putting more,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2398.56,
+      "end": 2400.0999,
+      "transcript": "great thinking and resources"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2400.56,
+      "end": 2404.74,
+      "transcript": "into ending those problems. And so, you know, I hope people"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2405.28,
+      "end": 2407.78,
+      "transcript": "look at the word polio and go, what was that?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2408.48,
+      "end": 2409.615,
+      "transcript": "You know, when you read"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2409.935,
+      "end": 2418.515,
+      "transcript": "Dickens' novels and they talk about somebody had consumption, it's like, what is that? Well, that's actually TB. So we still not in The UK, we don't have much, but,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2418.815,
+      "end": 2421.075,
+      "transcript": "we we we still do. They just"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2421.98,
+      "end": 2424.0798,
+      "transcript": "changed the word. So, you know, hopefully,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2425.02,
+      "end": 2427.52,
+      "transcript": "some problems that that we can actually"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2428.0598,
+      "end": 2428.5598,
+      "transcript": "finish,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2429.9,
+      "end": 2434.5598,
+      "transcript": "and and then move on. Which problem do you think we'll be finishing first? Well, polio,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2436.22,
+      "end": 2438.675,
+      "transcript": "you know, I I expect even in five years,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2439.455,
+      "end": 2440.7551,
+      "transcript": "and that'll give us,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2441.375,
+      "end": 2442.0352,
+      "transcript": "the credibility"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2442.895,
+      "end": 2445.235,
+      "transcript": "to go after things like malaria and measles."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2446.0952,
+      "end": 2448.7551,
+      "transcript": "That's amazing. No. It is. It's gonna be fun."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2449.0552,
+      "end": 2450.195,
+      "transcript": "It's it's amazing."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2450.735,
+      "end": 2453.27,
+      "transcript": "In five years, we can make that a reality."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2453.73,
+      "end": 2455.67,
+      "transcript": "It's gonna be incredible for"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2456.05,
+      "end": 2463.83,
+      "transcript": "the human kind. It's wow. Yeah. It's only to happen only once. Smallpox was eliminated back in 1980. So, you know, polio,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2464.21,
+      "end": 2466.47,
+      "transcript": "a serious disease, it's gonna be the second."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2467.545,
+      "end": 2468.765,
+      "transcript": "Wow. I"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2469.4648,
+      "end": 2475.805,
+      "transcript": "really truly wish that it happens faster than what we've just talked about. And I hope, like, more than"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2476.185,
+      "end": 2477.085,
+      "transcript": "by the time"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2477.625,
+      "end": 2493.56,
+      "transcript": "the foundation gets in full fledged in the work, I I believe instead of not two three that could be month multiple of them so that you you lost counting. That should be the goal and I'm expecting for it. Well, thank you so much for doing this, sir. It was a pleasure having you."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2494.1802,
+      "end": 2495.32,
+      "transcript": "When I was"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2495.635,
+      "end": 2497.655,
+      "transcript": "a kid, I was growing up in school."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2499.0752,
+      "end": 2500.455,
+      "transcript": "Just you were the richest"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2500.8352,
+      "end": 2501.895,
+      "transcript": "person in the world."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2502.435,
+      "end": 2503.8152,
+      "transcript": "Before I gave it away."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2504.995,
+      "end": 2514.93,
+      "transcript": "So your name would pop up. So just to talk about you and how you made your money was a proud feeling in school. And in friend circle, everybody would respect you that, oh, you know so much about"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2515.31,
+      "end": 2516.69,
+      "transcript": "this person and that."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2517.31,
+      "end": 2526.775,
+      "transcript": "From there, that kid sitting right in front of you and trying to, you know, being in a situation where I'm sitting with you and figuring out what going on in your brain."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2527.075,
+      "end": 2529.9749,
+      "transcript": "It's an incredible opportunity. I'm so grateful."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2530.355,
+      "end": 2537.9749,
+      "transcript": "Thank you so much for doing this. It's a dream come true. Great. We'll have to do it again. Yes. We need to. I've got you on camera now."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2538.275,
+      "end": 2540.23,
+      "transcript": "Thank you. Thank you. Pleasure."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2540.69,
+      "end": 2543.8298,
+      "transcript": "I'm definitely a little nervous because it's a big, big, big, big vodka."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2546.93,
+      "end": 2551.27,
+      "transcript": "It's time. It's time. It's time. It's time. Good job. I'm excited."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2552.8499,
+      "end": 2553.91,
+      "transcript": "Hi. Hi,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2554.865,
+      "end": 2559.285,
+      "transcript": "How are you? Very good. How are you? Pleasure meeting you, Sophie. How are you? Yes."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2559.585,
+      "end": 2562.7249,
+      "transcript": "That's fine. It's it's a pleasure seeing you here, though."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2563.105,
+      "end": 2565.365,
+      "transcript": "I'm pretty nervous at this point. Uh-oh."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2565.825,
+      "end": 2569.525,
+      "transcript": "Just bear with me. I'm pretty busy. Good. Good. I had"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2569.9102,
+      "end": 2570.87,
+      "transcript": "500,000"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2570.87,
+      "end": 2572.73,
+      "transcript": "things to talk to you and now I'm speechless."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2573.11,
+      "end": 2574.3901,
+      "transcript": "I like there's nothing in my"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2575.83,
+      "end": 2580.81,
+      "transcript": "Thank you so much for watching this episode till the end. Please let us know in the comments"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2581.1902,
+      "end": 2583.77,
+      "transcript": "who are the next guest that you wanna see"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2584.425,
+      "end": 2585.485,
+      "transcript": "on this show"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2586.0251,
+      "end": 2586.5251,
+      "transcript": "because"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2587.065,
+      "end": 2593.245,
+      "transcript": "we are determined to get the best of the best minds from the world and provide you the maximum value."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2593.7852,
+      "end": 2599.325,
+      "transcript": "I'll see you next time. Until then, keep figuring out and don't forget to share this episode with at least one person"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2600.16,
+      "end": 2601.14,
+      "transcript": "just keep life positive"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2601.52,
+      "end": 2602.02,
+      "transcript": "change."
+    }
+  ]
+}

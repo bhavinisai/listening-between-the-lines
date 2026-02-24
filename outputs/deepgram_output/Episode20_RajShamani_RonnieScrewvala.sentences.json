@@ -1,0 +1,3219 @@
+{
+  "unit": "utterance (sentence-like)",
+  "num_segments": 459,
+  "segments": [
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 0.0,
+      "end": 16.445,
+      "transcript": "We look at Western cultures. We look at Western world and the start of which I worked there. Right? And we try to copy that here. That's terrible. You know, from the maybe 100 unicorns today, I don't think the out of these 100 more than 25 will be unicorns in the next two to three years. We should really be cautious that they should not become"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 16.904999,
+      "end": 17.725,
+      "transcript": "the inspiration"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 18.265,
+      "end": 27.72,
+      "transcript": "for all your listeners and viewers here also today because actually that's a bad example to follow. But this gold standard that we put on this self acclaimed back thumping"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 28.26,
+      "end": 39.8,
+      "transcript": "chest thumping approach because five people backed you at a certain valuation and you manage that your problems are all starting now. Don't you feel that some people should not be an entrepreneur and they're trying to become entrepreneurs."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 40.935,
+      "end": 44.954998,
+      "transcript": "Today's episode is with the India media mogul"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 45.415,
+      "end": 49.114998,
+      "transcript": "and the education mogul as well at the same time. Today,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 49.735,
+      "end": 51.434998,
+      "transcript": "we spoke to Ronnie Screwvala,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 51.735,
+      "end": 53.195,
+      "transcript": "who started his journey"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 53.575,
+      "end": 54.875,
+      "transcript": "from the scratch"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 55.329998,
+      "end": 57.269997,
+      "transcript": "on the streets in Mumbai"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 57.73,
+      "end": 62.07,
+      "transcript": "and turned around his life into something really really big."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 62.449997,
+      "end": 69.83,
+      "transcript": "He started with building a media house. Then he bought a Kabaddi team and turned that around. Then"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 70.305,
+      "end": 73.125,
+      "transcript": "he started an EdTech company called UpGrad"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 73.505005,
+      "end": 74.805,
+      "transcript": "and now he is"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 75.265,
+      "end": 85.605,
+      "transcript": "actually helping every Indian learn better and get upgraded with their skills so that they can lead better in their life. In today's episode, we've spoken about the media,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 86.09,
+      "end": 87.46999,
+      "transcript": "education sector, entrepreneurship,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 88.09,
+      "end": 93.46999,
+      "transcript": "what young entrepreneurs make mistake, what is the difference between venture funded startups and bootstrap starters"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 93.77,
+      "end": 97.31,
+      "transcript": "and so many more tips which you and I, everybody"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 97.61,
+      "end": 105.965,
+      "transcript": "will be benefited from. And and and if you feel that this podcast is really long, then go subscribe our rachamani clips and rachamani shorts channel"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 106.345,
+      "end": 109.325,
+      "transcript": "to enjoy this into small clips"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 109.625,
+      "end": 113.54,
+      "transcript": "and learn better in just short amount of time. Enjoy us today's"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 118.24,
+      "end": 121.22,
+      "transcript": "show. Tell me, like, were you always like this big dreamer"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 121.6,
+      "end": 124.96,
+      "transcript": "and dream with your feet on the ground or like you started as"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 125.715,
+      "end": 147.06999,
+      "transcript": "I think I started with feet on the ground. Then I started dreaming. I don't think I started with dreaming. You were you're not born into riches. You're not what's your background? Like, give me Yeah. I mean, yeah. Complete lower middle class background in a place in Mumbai called, Grant Road. I do remember we had a large joint family. There was no private bedroom. The toilet was at the end of the door and I spent my first seventeen years."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 147.37,
+      "end": 147.87,
+      "transcript": "Incredible"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 148.17,
+      "end": 148.67,
+      "transcript": "grounding"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 149.20999,
+      "end": 156.245,
+      "transcript": "in those days. The, you know, the there was a lovely cafe seven eight six on the Ground Floor which served the best biryani in Grant Road Road and the best jalebis."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 156.545,
+      "end": 157.045,
+      "transcript": "Okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 157.985,
+      "end": 160.725,
+      "transcript": "My two aunts and my mom used to teach the piano."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 161.185,
+      "end": 174.65,
+      "transcript": "So I think all my first few girlfriends were all, students, piano students that'll come there for whoever Did you did you learn to impress them? Yes. I I learned how to play the piano in the process, but that is compliments to my mom and my aunts. Not not the"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 175.03,
+      "end": 179.85,
+      "transcript": "not the girlfriends, but very, very fond memories. And that's why I meant that you get grounded."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 180.31,
+      "end": 187.44499,
+      "transcript": "You know, then your expectation on life is everything is up there. And I think many of the times when I've been set back,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 188.06499,
+      "end": 201.59,
+      "transcript": "my introspection was now how worse can it get? At worst, look at the first seventeen years of my life. I was very happy then. So even if I get back to even that level, how bad can it get? It allows you and empowers you to take lots of risks"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 202.13,
+      "end": 204.31,
+      "transcript": "and lower your expectations in life."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 205.09,
+      "end": 207.35,
+      "transcript": "Interesting. Okay. Tell tell me one interesting"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 209.09,
+      "end": 210.47,
+      "transcript": "lesson that you learned"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 211.09,
+      "end": 220.485,
+      "transcript": "while you were going through that phase or like from I I wouldn't I don't want to call that adversity, but like in the initial years of your life. Like something that you learned and that still stays with you."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 221.265,
+      "end": 228.16501,
+      "transcript": "Was that I think I well, I mean, I'm coining it now. I don't think it was I was not mature enough to do then, you know, where I learned"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 228.81,
+      "end": 237.63,
+      "transcript": "a couple of things. One is you're on your own. I mean, you're on your own in many ways. I mean, not from a family. Family ecosystem is always there, but you're on your own. And the second one is"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 238.09,
+      "end": 249.66501,
+      "transcript": "when you choose to do something, you have to go about it with you don't have a choice. Right? Because I think when I told my parents that I want to do something on my own, that was a big shock for them. Like it is for most 99% of the parents,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 250.045,
+      "end": 253.105,
+      "transcript": "that want to look at that. But they were, like, good Parsi parents,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 254.045,
+      "end": 254.545,
+      "transcript": "quietly,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 254.925,
+      "end": 255.425,
+      "transcript": "worrisomely"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 255.80501,
+      "end": 256.305,
+      "transcript": "supportive."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 256.765,
+      "end": 257.265,
+      "transcript": "Okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 257.90002,
+      "end": 258.72,
+      "transcript": "And I think"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 259.42,
+      "end": 280.615,
+      "transcript": "one of the things that my parents said is, look, even if you finally want to do this, I just want to tell you you're on your own because we don't have the money for your first mistake. Forget about your second mistake and your third mistake. And I think that rung a bell with me that says, you know, you're on your own and therefore you don't have a choice. And when you have these two non parachutes,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 281.875,
+      "end": 295.85,
+      "transcript": "non parachutes with you in life, it kind of holds you very tightly and makes again your feet on the ground always. Mhmm. Yeah. That's a that's a very interesting take because you are on your own and mostly what you do. Yeah. But,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 296.31,
+      "end": 303.605,
+      "transcript": "I'll tell you a contradictory thing like with I also grew up in like a middle class family and didn't have enough money for the mistakes and stuff."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 304.065,
+      "end": 306.165,
+      "transcript": "But my parents on the contradictory,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 306.545,
+      "end": 315.36502,
+      "transcript": "maybe because now the generation has changed and so much awareness is there, they have always been there. Okay, we know that we don't have enough resources, but even if you fail, don't worry."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 316.14502,
+      "end": 331.91,
+      "transcript": "Correct. Like, they were So I think is is all parents. Like, I mean, all parents would be I think what they were telling me in a very materialistic sense is while our spirit will be willing, our wallet will be heavenly enough. You know, they they always say I'm asking this question because people say this, right, that"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 332.365,
+      "end": 346.385,
+      "transcript": "the money changes you, success changes you. The more you achieve, you kind of become like a different person. So that's why like the belief system and the things that you value, do that change or not? I've seen that happen with people. And I'm not sitting here from the pulpit and trying to lecture."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 347.84998,
+      "end": 356.50998,
+      "transcript": "I, I, I hope, but I have my own report card that it doesn't reflect for me that money has changed anything for me, but I can see that it is quite intoxicating,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 356.88998,
+      "end": 357.71,
+      "transcript": "right? Because"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 358.09,
+      "end": 376.265,
+      "transcript": "it's a thumbs up for you. What is it? It, you know, when you see that, what do you do? Money attracts people thumping your back. It attracts more friends than you want. It attracts a fan club, which can be, which can be disappeared the next day. It makes every glory look a non fleeting, whereas it should be fleeting."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 376.725,
+      "end": 378.63,
+      "transcript": "So it can go to people's head."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 379.11002,
+      "end": 381.37,
+      "transcript": "And it just sounds like you're an invulnerable"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 381.67,
+      "end": 397.195,
+      "transcript": "and actually you are a vulnerable at any given stage. And the world is fragile. It is fragile today in many, many ways. Right? I mean What do you mean by the fragile world? I mean, it's an it not just changes, it is a fragile world. Today, I think the biggest challenge for any person, young"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 397.975,
+      "end": 398.795,
+      "transcript": "or old,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 399.575,
+      "end": 414.35,
+      "transcript": "aren't wanting to do something on their own or in a job, in a career or not, in a profession as a lawyer or a doctor or whatever else, has to deal with fragility because it comes there's so many things that are actually changing in around you. And 50% of them are not in your control."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 414.81,
+      "end": 418.66998,
+      "transcript": "Right? I mean, I'm not talking about the macro things of a war in Ukraine"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 419.125,
+      "end": 425.145,
+      "transcript": "and two banks collapsing or the economy. Those are all I think we have lived that that's going to be a way of life."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 425.76498,
+      "end": 426.585,
+      "transcript": "But fragility"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 426.885,
+      "end": 435.78,
+      "transcript": "today, I think, you know, what troubles me frankly is the fact that almost ten percent, fifteen percent of the people today are have more of a mental crisis. I mean, we're now"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 436.16,
+      "end": 437.62003,
+      "transcript": "vocally talking about"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 438.08002,
+      "end": 440.26,
+      "transcript": "the context of, mental health,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 440.88,
+      "end": 458.195,
+      "transcript": "right, versus health. Most people would have scorned on that. Yeah. Firstly, I'm gonna treat somebody who's genuinely sick. You think I'm gonna wait for you because your mind is not working? How dare your mind is not working? Go fix it. But today that's real. Yeah. So which means there's a so much of fragility in the world that's creating so much conflict in your mind."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 458.85,
+      "end": 476.79498,
+      "transcript": "And there's so much information that comes your way. You know, and I think my brother-in-law told me one fine day last week, he says, I'm going to put that watch on you because I'm going to give you a lot of data. You can do that when you're ex I said, look, I'm dealing with too many data points. I don't want more data right now now in my life. And I don't mean data in that sense. Just any more information to process"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 477.255,
+      "end": 485.735,
+      "transcript": "because frankly, you need to you need to chill, you need to relax, you need to get the thoughts, let come flow into your mind. So to me, fragility is,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 487.46,
+      "end": 492.2,
+      "transcript": "things outside your control will change, things within you will control and change. They will change"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 492.58002,
+      "end": 495.96,
+      "transcript": "more sharply than ever before. If something was bad news,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 496.42,
+      "end": 508.355,
+      "transcript": "you'll have time to process it, maybe even avert it, go back and do it. I think that's becoming less and less. Before you can digest it, it could be fatal. You know, I am asking this to you because I recently read about,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 509.05502,
+      "end": 537.735,
+      "transcript": "like couple of Silicon Valley founders who have all made it multi million dollars in last four to five years. Like from zero to four five years and then there was a study done on there. There's 80 of them. They found out majority of them are data control freaks. Sure. And they track their life, their time, their body, not only their organization and their productivity. They track themselves. Yeah. In fact, so, I was having a conversation with someone about this and they said like, they track the,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 538.935,
+      "end": 540.07495,
+      "transcript": "the steps they do,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 540.535,
+      "end": 543.19495,
+      "transcript": "the food they eat, the calories they intake."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 543.495,
+      "end": 545.51495,
+      "transcript": "Like, every little thing about"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 546.05,
+      "end": 568.055,
+      "transcript": "everything. Like, they just track everything. Do you think that kind of tracking becomes No. And I can tell you Is it good or bad? Like, this is No. Right. There's no judgment call. It's each one to their own. So I would not say I would not say no. I think that's relevant, but for each time. So I will answer that question by saying if there are 80 of them, a, b, in Silicon Valley, c, done multimillion. And if they've done it between 2019"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 568.055,
+      "end": 569.255,
+      "transcript": "and 2022,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 569.255,
+      "end": 574.21497,
+      "transcript": "that's a different era. Mhmm. Will they be able to do it if it started in 2020 to 2025?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 574.21497,
+      "end": 575.07,
+      "transcript": "Probably not."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 575.87,
+      "end": 582.69,
+      "transcript": "And that's the difference between saying I'm a data freak and therefore, I mean, because there were things that are not being controlled. Whatever velocity"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 583.15,
+      "end": 588.13,
+      "transcript": "they thought that got them there, 50% is serendipity and tailwind of some sorts"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 589.075,
+      "end": 591.97504,
+      "transcript": "that that gets you to a certain level, number one."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 592.515,
+      "end": 605.36,
+      "transcript": "Two, the opportunities in each place are also very, very different. Right? And you can do that for a momentary time in four, five years. The question would be, can we track the same 80 people over the next seven years and figure out whether how many of them kept their wealth"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 606.06,
+      "end": 612.08,
+      "transcript": "if wealth is the benchmark? Because that the other unfortunate part is your benchmark of all of this is wealth. Yeah. Why?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 612.78,
+      "end": 616.4,
+      "transcript": "Where's the happiness quotient? Where's the joy quotient? Where's the balance quotient?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 616.735,
+      "end": 622.755,
+      "transcript": "Where's there so many other quotient? And I'm not talking about Nirvana. I'm not talking about Buddhism. I'm not talking about Vipassana. I'm not talking about meditation."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 623.215,
+      "end": 627.075,
+      "transcript": "Just the because at at some stage when you have this kind of acuteness,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 628.175,
+      "end": 630.275,
+      "transcript": "you're gonna need balance at some stage."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 630.8,
+      "end": 636.5,
+      "transcript": "Because do you really wanna test the pulse on your body and the calories that you burn every single day of your life?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 636.87994,
+      "end": 651.555,
+      "transcript": "You know, because at some stage the penny is gonna drop. Did that make me happy that I was so, you know, will power is a very difficult thing for a lot of people and it's great the people who have will power. And I think at leadership, you need that kind of will power. Right? Because you need that will power to get up at 04:30 in the morning and still continue"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 651.935,
+      "end": 662.48,
+      "transcript": "a regimen routine. 99% of the people who say I travel ten days of the month, I can't keep my can't keep myself fit. But the people who have a will power will find themselves. So that's a very strong anchor."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 663.1,
+      "end": 670.8,
+      "transcript": "But I would say to this, you there are two, three things here. One is validate that after five years and see how many people continue to do that. Second,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 671.495,
+      "end": 679.995,
+      "transcript": "wealth is not the only benchmark. And third is if you're so obsessed, I think you need to take a reality check. Can you be obsessed with twenty years at a go? I don't think so."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 680.855,
+      "end": 682.315,
+      "transcript": "Does that make"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 682.77496,
+      "end": 684.795,
+      "transcript": "sense? That makes sense because it's periodically,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 685.99,
+      "end": 696.56995,
+      "transcript": "relevant for some people at some stage. As much as a sprint versus a marathon. Yeah. As much as a 100 meters versus 500 meters and whatever else. Yeah. And you know, we we overestimate"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 697.26996,
+      "end": 698.49,
+      "transcript": "when we achieve something."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 698.79504,
+      "end": 701.375,
+      "transcript": "We tend to look back and try to connect dots and overestimate,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 702.47504,
+      "end": 711.85504,
+      "transcript": "like, you know, we we give more importance to certain things because we are going through that phase. It Well, not only do we give more importance, I think we give more credit to ourselves than let you."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 714.35004,
+      "end": 715.97003,
+      "transcript": "That's true. 99%."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 716.19,
+      "end": 718.21,
+      "transcript": "So I was I just said it yesterday."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 718.99,
+      "end": 724.27,
+      "transcript": "This is a belief. There's no math behind it and there's no science. I just believe that 99%"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 724.27,
+      "end": 725.09,
+      "transcript": "of his serendipity"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 725.47003,
+      "end": 738.295,
+      "transcript": "like luck, 1% is your manufactured luck. Right? Yeah. Yeah. And by manufactured luck, I mean it's like something worse. Strong believer in serendipity. I wouldn't put 99% or 90%. I put it at 50%. Okay. Because if it's 99%"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 738.355,
+      "end": 745.38995,
+      "transcript": "or 90% also, then you are you might as well sit down and chill and let the breeze blow. But it may blow you in different directions. But"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 745.69,
+      "end": 747.38995,
+      "transcript": "if you really want to catch serendipity,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 747.93,
+      "end": 753.62994,
+      "transcript": "then you need to be out there in multiple places so that when the wind catches you, you know when to ride on the sail"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 754.00995,
+      "end": 755.55,
+      "transcript": "and when to walk in the trenches."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 756.125,
+      "end": 766.945,
+      "transcript": "Fair. I know that's what I was saying. There's no math to it. I just believe that it's a combination of manufactured long and but it needs to have a slightly more balanced than saying I'm around now come hit me from the back."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 767.565,
+      "end": 773.01,
+      "transcript": "True. That makes sense. Okay. Quick question. What do you think like, what makes, what's the difference between"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 773.63,
+      "end": 774.77,
+      "transcript": "successful entrepreneurs"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 775.15,
+      "end": 777.89,
+      "transcript": "and versus people who kind of quit on"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 778.43,
+      "end": 782.21,
+      "transcript": "just the entrepreneurship journey after a while. I would not call them unsuccessful entrepreneurs."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 782.75,
+      "end": 783.645,
+      "transcript": "Well, I can"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 784.04504,
+      "end": 786.305,
+      "transcript": "tell you. Make it versus the people don't make it. And"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 787.645,
+      "end": 798.465,
+      "transcript": "the judgment criteria can be wealth, happiness, impact, anything. I'm just saying, like, people who make it is not made. Yeah. I would answer this very directly because I think the question is a very relevant and important one."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 799.46,
+      "end": 809.4,
+      "transcript": "The people who haven't made it, there is no category like that because actually that's not a category. So it's not that I'm comparing it to do, but but the difference between somebody who made it and somebody who"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 809.94,
+      "end": 815.305,
+      "transcript": "called it a day because there's no such thing as I didn't make it. Yeah. It only means you called it a day."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 816.565,
+      "end": 820.425,
+      "transcript": "And therefore, the difference between the two is you didn't stick it out."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 821.045,
+      "end": 829.73,
+      "transcript": "You didn't stick it out because if you stuck it out, you wouldn't be in this category that you have self it's a self claim category. It's not a category that is a category."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 830.43,
+      "end": 832.44995,
+      "transcript": "I didn't make it. There is no such category."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 833.14996,
+      "end": 835.00995,
+      "transcript": "I didn't stick it out. That's a category."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 835.79,
+      "end": 842.98505,
+      "transcript": "I copped out. That's a category. There's no question about the fact. It may not be the success you planned it to be, but the fact"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 843.36505,
+      "end": 847.385,
+      "transcript": "is that the people who got it, because they eventually became successful."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 848.245,
+      "end": 862.42,
+      "transcript": "Okay. So if you ask me which of my journey, whatever else is because it's that's the journey and you're eventually and then eventually becomes a new benchmark. And okay, there's a certain benchmark for which you feel you may not fall but you could. So that is a progressive one. But the people who did not make"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 863.04,
+      "end": 868.26,
+      "transcript": "it opened a category that doesn't exist, but it's a self made category called I didn't make it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 868.655,
+      "end": 872.35504,
+      "transcript": "Because I don't think anyone should sit in that category and say I didn't make it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 872.815,
+      "end": 873.715,
+      "transcript": "Why? Why?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 874.41504,
+      "end": 876.435,
+      "transcript": "Of course, you may have failed. You may have got bankrupt."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 877.615,
+      "end": 891.20996,
+      "transcript": "Shit would have happened to you. Lots of things may have happened. It meant at that particular point, your life is over, your career is over, your reputation maybe I don't mean reputation as in you did something in it, you know, it was crooked. So without ethics,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 891.58997,
+      "end": 897.05,
+      "transcript": "your reputation of a failure, those are those will fly out of the window in one minute."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 897.635,
+      "end": 899.655,
+      "transcript": "So I think that category should"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 900.115,
+      "end": 900.695,
+      "transcript": "be nixed."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 901.315,
+      "end": 906.215,
+      "transcript": "But I don't do do you feel like there are people who are not cut out for certain things?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 906.675,
+      "end": 910.5,
+      "transcript": "And they should not try that. Like, do you think like equity? So they're not cut out for For entrepreneurship."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 912.18,
+      "end": 926.70496,
+      "transcript": "Like, just asking you a question. Like, do you feel that some people should not be an entrepreneur and they're trying to become entrepreneurs? Or some people should not be what So then it's not that they didn't make it. They tried something and they made the wise decision that I need to go back into a cry into my into a zone"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 927.005,
+      "end": 937.185,
+      "transcript": "which I know is gonna be my security zone. Like, I think taking risks or working and taking that responsibility is not my best. I perform better when I'm part of a overall support system."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 937.565,
+      "end": 943.94,
+      "transcript": "That doesn't mean you didn't make it as an entrepreneur. You did that and then you took a good call that says, for good reason,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 944.56,
+      "end": 945.78,
+      "transcript": "not because I failed,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 946.4,
+      "end": 955.51495,
+      "transcript": "not because I didn't make it. So and I'm trying to dissect this here because I think I've lived all of those journeys enough to be able to dissect that and say very clearly,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 956.135,
+      "end": 957.83496,
+      "transcript": "don't go do it because"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 958.21497,
+      "end": 976.45996,
+      "transcript": "if you think I'm gonna I have the option to go back to a job, you will. Mhmm. If you start on your journey, and I think you asked me in the very beginning, whatever one or two things that I started from my early childhood. And I said one is, you know, you're on your own and the second is you don't have a choice. So if you ask me today, given that I had zero opening bank balance"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 976.92,
+      "end": 982.54,
+      "transcript": "and didn't have money like everybody else thinks today is their birthright, that I won't start a business unless somebody funds me."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 983.095,
+      "end": 990.955,
+      "transcript": "Today, at that stage, there was no such thing. It was the reverse of that. So for the next ten years, not having any fiscal support, but still building something,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 991.495,
+      "end": 1003.92,
+      "transcript": "you go with the fact that I don't have a choice. You have worn multiple hats. Okay. There's a media company and then there's EdTech and then there's multiple things. There's a sports franchise. Right? Like everything you've done. And you have you have tasted success in like multiple of them."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1004.38,
+      "end": 1009.36,
+      "transcript": "After lots of failures, but Of course. We will come to failures. I'll come to that. But I want to understand like,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1009.895,
+      "end": 1016.795,
+      "transcript": "you know, there are people who are really good at one thing, but when they try to get out of their zone of like, level of expertise,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1017.09503,
+      "end": 1020.875,
+      "transcript": "they kind of fail in like, other things. Right? So what do you think? Like, what,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1021.99,
+      "end": 1026.25,
+      "transcript": "what makes somebody or what are the fundamentals? What is that one thing or two things"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1026.63,
+      "end": 1038.345,
+      "transcript": "which makes someone successful in like multiple things? Yeah. Because it's difficult to succeed in like somebody. Domain expertise and figuring that out. I mean, the first is the supposition that I was a media expert when I decided to start media, I wasn't."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1038.725,
+      "end": 1040.505,
+      "transcript": "Right? I mean, again, that was serendipity"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1040.965,
+      "end": 1051.8099,
+      "transcript": "Okay. That got me there. The day in which I said I want to start something was not the day I knew I wanted to start start something in media. At the time in which I started it, there was no words and vocabulary like media and entertainment."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1052.2699,
+      "end": 1058.21,
+      "transcript": "But now the world describes you like media expert and all of that. Like it's At that stage, it wasn't the case. Right?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1058.5549,
+      "end": 1062.895,
+      "transcript": "But I used to do a lot of weekend as a hobby, weekend, theater."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1063.755,
+      "end": 1076.56,
+      "transcript": "I used to do front of camera hosting for Dudarshan at that particular point in time. So why and how? Those are all desperate to get pocket money and theater was something I came not having from a lower middle class house, not having,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1077.04,
+      "end": 1104.19,
+      "transcript": "too much of education. So soft skills for me were very important. And theater, debate, elocution helped me there. So I think those were the early years where I felt, wow, I'm having fun and I'm earning pocket money to go out on a date. I mean, that was real pocket money. It was like 250 rupees on a weekend or 500 rupees on a weekend kind of situation. But enough for you to be able to move up in your lifestyle and not go home and ask your parents for even $50 at that particular point in time. So"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1104.8899,
+      "end": 1115.95,
+      "transcript": "it was great fun. And I so my first part of my career was not because I was I had an inkling towards media and entertainment, but because I was exposed to it. And then I said, why don't I make a business of it?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1116.6749,
+      "end": 1122.615,
+      "transcript": "So I think that's that's kinda how it works. I mean, I think if I went forward to so I think domain expertise,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1123.3949,
+      "end": 1126.615,
+      "transcript": "when you're in a job or, you know, when you've taken engineering or technology,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1127.235,
+      "end": 1146.215,
+      "transcript": "that's a good one. But that doesn't mean today you need to be a specialist only. You can be a generalist. Mhmm. So all I'm saying is people can do something great for the entire part of their career. I'm sure if you're a great lawyer, the probability of you switching and saying, I wanna be a doctor for the rest of my life is not gonna is not gonna work. So there'll always be those examples."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1146.835,
+      "end": 1147.6549,
+      "transcript": "Right? But"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1147.955,
+      "end": 1150.2949,
+      "transcript": "a leader in a oil rig company"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1150.9149,
+      "end": 1151.6549,
+      "transcript": "can become"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1152.0349,
+      "end": 1153.735,
+      "transcript": "a CEO of a media company."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1154.995,
+      "end": 1180.275,
+      "transcript": "Why? Because both are equal in terms of their probabilities of success. You'll drill 100 times and at three times when the oil will hit the ground. Right? I'm just saying it as a Yeah. So it's about how you how you build the organization, how you look at your. If you understand consumer, if you understand consumers, you understand trends, you can actually transcend many, many sectors. Okay. We'll come to consumer trends because that's my favorite favorite favorite area."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1180.5751,
+      "end": 1191.2001,
+      "transcript": "But speaking on the topic you said about taking risk on entrepreneurship. Right? In as an entrepreneur or as a job, as an employer, as anyone, you need to take risk in order to go ahead."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1191.8201,
+      "end": 1195.6001,
+      "transcript": "There was a very interesting quote which I heard. It says,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1196.14,
+      "end": 1203.595,
+      "transcript": "getting rich is about taking a lots of risk with small amount of money and staying rich is a lot about taking"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1204.375,
+      "end": 1206.235,
+      "transcript": "small risk with a lots of money."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1206.535,
+      "end": 1209.03,
+      "transcript": "And to me, that was like super interesting. But"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1209.75,
+      "end": 1218.87,
+      "transcript": "when you think about it, what essentially the court is trying to say is take calculated risk at any point of your life. Right? And you believe in that. Like, every entrepreneur should keep taking risk and"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1219.27,
+      "end": 1219.77,
+      "transcript": "but"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1220.0701,
+      "end": 1222.73,
+      "transcript": "what's the right way to take a calculated risk?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1223.27,
+      "end": 1247.94,
+      "transcript": "Yeah. So firstly, I mean, risk is a very subjective word, right? Because it really the most important part of a risk is your own appetite. Your own appetite, not just financially, your own appetite mentally. A lot of people think, you know, because can you have the shock absorbers to take whatever? Because if you're resilient, it doesn't make a difference where the financials will come from. That'll get could get figured out in most spaces. If you have the mental aptitude for it, for risk, it will work very differently."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1248.5599,
+      "end": 1254.665,
+      "transcript": "To the court that you just mentioned, I think my ratio of success to failure is about eight failures to two successes."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1255.525,
+      "end": 1258.345,
+      "transcript": "So let me explain my formula, if not my quote."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1258.645,
+      "end": 1264.185,
+      "transcript": "Because I do believe that in and this is evolved over a period of time. It's not a strategy that I walked into."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1265.17,
+      "end": 1276.31,
+      "transcript": "But at the stage where I walked in with a DNA that says, what have I got to lose in a snakes and ladders game, I'm still in the game even if I go from 97 down to six because it's still six, it's not zero."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1277.0901,
+      "end": 1288.975,
+      "transcript": "Okay? So what's my worst case? I'll go down to six, but I'm still in the game and I don't know. I might still go up there because there's there's ladders to climb and snakes to slip down from. So I think my ratio is that when I take the risks,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1290.555,
+      "end": 1302.5,
+      "transcript": "the outcome or the failure is a one x. It could be I invested 10 crores and it was a write off or I hired somebody and it was a write off or I started a business and it's a write off. But whatever that is, it's a finite zero"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1302.88,
+      "end": 1303.7,
+      "transcript": "sums game."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1304.3999,
+      "end": 1306.82,
+      "transcript": "But when you're taking those kind of risks"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1307.255,
+      "end": 1311.8351,
+      "transcript": "on a sustained basis, and I don't mean risk just for the sake of taking risk, but if you got these opportunities,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1312.4551,
+      "end": 1322.6,
+      "transcript": "the probability of you having a 40 x, 50 x or 60 x gain versus the three x or a four x gain in the things that really work, you're setting yourself up for that."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1323.2201,
+      "end": 1330.8401,
+      "transcript": "And that's what worked for me as a formula. That while there are enough of the minus one x's, but if two of them are 30 x, that's 60."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1331.2201,
+      "end": 1333.3201,
+      "transcript": "And 60 minus eight is 52."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1333.495,
+      "end": 1334.235,
+      "transcript": "Now that"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1334.615,
+      "end": 1338.715,
+      "transcript": "that could be 32, but it still won't be two. Yeah. And I think"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1339.495,
+      "end": 1348.875,
+      "transcript": "now it's not just a mathematical equation and it's not about only money. It could be, as I said, one could be a decision about personal, one could be a decision about people, one could be a decision about"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1349.2699,
+      "end": 1358.8899,
+      "transcript": "exiting something before it's time, giving up on something before it's time. All of those are one x's. But because you're moving your journey along with that"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1359.2699,
+      "end": 1360.33,
+      "transcript": "that in mind,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1361.125,
+      "end": 1364.505,
+      "transcript": "your probability of high success versus good success"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1364.885,
+      "end": 1371.7849,
+      "transcript": "is really where wealth creation happens. Okay. You talked about consumer trends. Alright. And I wanna know that because"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1372.245,
+      "end": 1380.08,
+      "transcript": "you said, like, you can actually win at a lot of things in the business world in different arenas as well if you know how to spot consumer trends."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1380.5399,
+      "end": 1390.875,
+      "transcript": "So give me, like, what do you feel? What's the trend in India right now? Sure. Firstly, to spot it, you need to be in it. Right? You need to be in the you need to walk the talk. You need to be doing that. You need to be open to the fact."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1391.355,
+      "end": 1394.495,
+      "transcript": "Most people are not necessarily open to the fact."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1394.875,
+      "end": 1408.5,
+      "transcript": "They'll take a consumer research or they take a focus group. They wanna do it because it's a tick in their book. But actually they're saying, yeah, yeah, yeah. I think what he wanted to say was this and what no, no, no. He's saying three different things from what you set out to do in that context. So I think you need to be kind of open"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1409.12,
+      "end": 1409.78,
+      "transcript": "to that."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1410.3201,
+      "end": 1416.3401,
+      "transcript": "The second part I think is especially my media days and today even in, in, in UpGrad and what we're doing in, in skilling."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1416.8,
+      "end": 1417.3,
+      "transcript": "Basically,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1418.9249,
+      "end": 1422.3849,
+      "transcript": "my next fifteen years is about preempting careers of tomorrow."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1423.005,
+      "end": 1427.2649,
+      "transcript": "It's about seeing how soft skills can become super skills for people,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1427.725,
+      "end": 1431.105,
+      "transcript": "making them understand that just a formal degree is fantastic,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1431.485,
+      "end": 1441.99,
+      "transcript": "but it's not the be all and end all. And that every single day, every three years, the good news is and the bad news is that when you throw up your graduation cap and you thought you were done, you're not done anymore."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1442.45,
+      "end": 1459.825,
+      "transcript": "So when you're looking at that and you're preempting it, you need to understand what's in people's mind. Right? Because I may say here's a career of tomorrow, but the fact of the matter is that that person may not feel the agility for it. And how do you get them? And therefore understanding what the consumer, what's my messaging to them to pinch them,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1460.14,
+      "end": 1462.4,
+      "transcript": "to make them feel that, hey, hey, you need to upgrade."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1462.86,
+      "end": 1467.74,
+      "transcript": "And one of the examples and we have a, great university here as part of UpGrad which is at,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1468.38,
+      "end": 1468.88,
+      "transcript": "BKC"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1469.34,
+      "end": 1500.12,
+      "transcript": "and we had a class of about 35, 40 of them that were in a room and I came in there and I brought the head of KPMG and the head of, McKinsey there. And they were talking about careers of tomorrow. Like, here's, you know, I mean, as normal consultants, everyone talks about, here's what I think is gonna be there. And the kids there said, wait, wait, wait, wait, wait. Actually, we are here to tell you what the careers of tomorrow are. We don't want to hear from you what you think they are because actually we're going to make the careers of tomorrow. It doesn't make a difference whether you think this is what it is and this is the future."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1500.895,
+      "end": 1508.355,
+      "transcript": "We know what we want to do for the next thirty years of our life, and that's going to be the careers of tomorrow. And when you take that insight, that one insight,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1510.015,
+      "end": 1519.1901,
+      "transcript": "I'm sure those two people walked away from there saying, I better shred half my reports out there because if I don't, if I'm telling people what they need to be prepared for"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1519.4901,
+      "end": 1525.8301,
+      "transcript": "without listening to what they think they want to do for the next thirty years, which is gonna give them maximum joy, excitement to do,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1526.2101,
+      "end": 1527.3501,
+      "transcript": "I'm missing the boat."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1527.855,
+      "end": 1532.835,
+      "transcript": "So that's my best example I can give you of why it is absolutely important how you do it"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1533.375,
+      "end": 1537.715,
+      "transcript": "and you need to. And I think for me, the BECCS mix today is"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1539.215,
+      "end": 1552.25,
+      "transcript": "I'm involved with storytelling by making movies. So you have to understand what audiences are looking for just in every sense of the word. Why they want to go to the cinema? What do they want to tell in stories? What's the genre? What's this? And then in education, what they want to do with their careers"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1552.55,
+      "end": 1561.8151,
+      "transcript": "and work life balance. And if you put all of that together and if I do a a webinar with 5,000 of our alumni on a Sunday, I get more insights with the questions they ask"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1562.355,
+      "end": 1569.015,
+      "transcript": "than having five boardroom or meeting room conversations there. So it just depends on how you're open,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1569.3401,
+      "end": 1577.04,
+      "transcript": "how you process that information. And we know we spoke a little bit about data earlier on. But data without understanding how you're going to"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1577.5801,
+      "end": 1590.485,
+      "transcript": "place it in context is very, very important. A little bit like I had this conversation and, you know, it was so much gold there, but no. It may be gold to them. How am I gonna make it platinum or gold or silver is up to me."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1591.345,
+      "end": 1596.8049,
+      "transcript": "Okay. You Is that too fun now? It's too much. I Yeah. I figured that so I can break it down. Exactly."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1597.19,
+      "end": 1609.935,
+      "transcript": "I'll break it down into three different parts. Okay? So these are three different lives you're talking about and three different things. One is the media and the stories part. I'll come to that. The other was a work life balance. That is a different part. And third was, how do you"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1610.9751,
+      "end": 1612.435,
+      "transcript": "take people's feedback"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1612.9751,
+      "end": 1660.74,
+      "transcript": "and then kind of backward engineer and try to build the kind of skills between But I do wanna say that all are three amalgamate because if I want to figure out the consumer of tomorrow, what is their wallet share? Why you are spending only 20% on entertainment three years back and now you wanna make it 40%? Or why you're spending 3% on education and why you're spending 20% now? All of this you'll need all this information, but we can still break it up. But I'm saying understanding the consumer to understand, because you asked me the first question on this was, what do you think where do you think consumers are at and what are they looking for? So therefore, a lot of that is what is their wallet share? Like, if you had a $100, what would you spend it on? If the if the if the if if my if my, community in the village where we work, for example, if he had a $100 or she had a $100, what would she work? What would the mother do? What would the daughter do? What would the son who migrated to Mumbai from Laika do?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1661.04,
+      "end": 1663.54,
+      "transcript": "All of these are very different questions for different people."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1664.165,
+      "end": 1664.665,
+      "transcript": "Oof."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1665.205,
+      "end": 1667.705,
+      "transcript": "Okay. And alright. We'll we'll come to this."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1668.405,
+      "end": 1673.225,
+      "transcript": "Okay. Interesting take on wallet share because and give me your take on this. Okay. I read a report recently."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1674.085,
+      "end": 1680.51,
+      "transcript": "It was done by, like, obviously consultants and stuff, like, very named. I don't wanna quote them because it might change."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1680.89,
+      "end": 1681.39,
+      "transcript": "So"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1681.93,
+      "end": 1682.93,
+      "transcript": "54%"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1683.2101,
+      "end": 1687.6901,
+      "transcript": "what they said, that our parents' generation used to save 54%"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1687.6901,
+      "end": 1690.51,
+      "transcript": "of their income. Yep. Okay. And our generation"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1690.81,
+      "end": 1696.885,
+      "transcript": "only spent only saved 17% of their income. Yep. So that that's a huge difference. Like, there are like 35%"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1696.885,
+      "end": 1716.0599,
+      "transcript": "which people are spending now more than saving. Yep. So where do do you like, you have read the wallet share and you understand that much better. Where do you feel like the consumers of today or the today's generation is spending on? So the mindset has changed. Right? I mean, the fact of the matter is when you ask your parents and they've got a bank balance, you say, mom, dad, why don't you go to Nainital and have a holiday?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1716.96,
+      "end": 1717.46,
+      "transcript": "You"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1718.36,
+      "end": 1725.165,
+      "transcript": "know, what will happen to me? So they're thinking of that negative tomorrow. They're thinking of the positive tomorrow. You're thinking tomorrow,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1725.945,
+      "end": 1745.35,
+      "transcript": "today I have to live. So that mindset has changed a lot. And that is a that's not wallet share, that's behavior pattern, that's spending pattern, that's everything you want to do. And a lot of that is because of the media, the social media, the interactiveness, and the peer to peer pressure that you get today that they didn't have. So that to me is the is the one where somebody is looking that tomorrow,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1745.8899,
+      "end": 1749.6951,
+      "transcript": "I need to make provide for tomorrow. Mhmm. And you're saying"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1750.795,
+      "end": 1751.295,
+      "transcript": "Yeah."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1752.7151,
+      "end": 1754.8151,
+      "transcript": "That's true. I'm little. I'm still"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1755.1951,
+      "end": 1759.515,
+      "transcript": "in the middle of it. I am sometimes I'm gonna know. Sometimes I'm gonna say 25%"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1759.515,
+      "end": 1763.22,
+      "transcript": "is still spending. By the way, I wanna tell you that slightly better than some nations"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1763.52,
+      "end": 1774.1799,
+      "transcript": "where that 50% is all debt. Yeah. Consumer credit. Yeah. But that's what I'm saying. So you take here, this is the psyche and actually it's a good Indian psyche from that point of view. But if you take a Western country, you take America,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1774.525,
+      "end": 1785.025,
+      "transcript": "their pocket share is not $100, it's for $100. Their pocket share is $3,000 for $100 because you can mortgage your flat, you can do this, you can take on debt, everything is on that basis. Right? So then your your leveraging"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1786.125,
+      "end": 1787.16,
+      "transcript": "is very different."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1787.56,
+      "end": 1789.48,
+      "transcript": "And you're leveraging at 0.25%"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1789.48,
+      "end": 1792.68,
+      "transcript": "interest, where in India, we've grown up on eight to 12.5%"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1792.68,
+      "end": 1798.78,
+      "transcript": "interest. For example, then everyone's mindset, your parents' mindset to whatever else is, there's a value for money. Mhmm."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1799.16,
+      "end": 1804.0549,
+      "transcript": "But and that doesn't mean I'm saying America is a less value for money, but it's just a very different way. So"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1804.4349,
+      "end": 1812.9349,
+      "transcript": "wallet share in each country, when you're looking at a consumer, you'll have to see which consumer. The guy in Vietnam, the person in India, the person in Bangladesh, the person in US, the person in Ukraine,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1813.315,
+      "end": 1814.0549,
+      "transcript": "very different."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1814.37,
+      "end": 1822.39,
+      "transcript": "You know what? And, you know, we tend to Yaron, I'm having so many different questions and I'm not completing the last one, but I'm still gonna ask."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1822.85,
+      "end": 1824.29,
+      "transcript": "So what do you feel like what"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1825.01,
+      "end": 1857.215,
+      "transcript": "everybody, we look at Western cultures, we look at Western world and the start of which I worked there. Right? And we try to copy that here. That's terrible. Right. But I've never done that in my life, and I don't know why people do that. But I wanna just caution you. What you read about in the media is that small minority of people that actually look at that. But if you see the people that are out there and some of the entrepreneurs, the SME sector, the small and middle scale, those are making manufacturing. If somebody's working in climate change, they're working in agriculture, they're working those are all those are all non copy paste. So they're homegrown. They're home. But 90%"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1857.215,
+      "end": 1863.7949,
+      "transcript": "of business ideas today on accumulated basis, not basis on how they're funded by nine crazy VC and private equity investors"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1864.095,
+      "end": 1866.115,
+      "transcript": "who want to just throw money on people."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1866.495,
+      "end": 1871.5801,
+      "transcript": "The other people, they're when you don't have that kind of money, you come up with better business models."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1871.9601,
+      "end": 1877.9801,
+      "transcript": "Some few investors have decided to overvalue you. I mean, anything nothing can go to that level."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1878.3601,
+      "end": 1888.715,
+      "transcript": "No mercury rises in such a sudden manner. So I think that was a phase there was a phase of zero cost of capital. There was a phase in that. That report card changes very, very quickly."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1889.015,
+      "end": 1921.125,
+      "transcript": "I don't think we should use that as the gold standard or is that as the benchmark for anything from that point of view. I mean, I've said it before and I'll say it again, you know, from the maybe a 100 unicorns today, I don't think the out of these 100 more than 25 will be unicorns in the next two to three years. There might be another x number of unicorns. I'm sure we'll have many, many who'll have the right value, but they'll have built a much more business. But today I think a lot of fragility in the, in, in the valuations that have happened there. And for all good reason, we know that. We know the reason why it's happened. So we should not, we should really be cautious that they should not become"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1921.5,
+      "end": 1922.24,
+      "transcript": "the inspiration"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1922.86,
+      "end": 1927.92,
+      "transcript": "for all your listeners and viewers here also today because actually that's a bad example to follow."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1929.02,
+      "end": 1937.595,
+      "transcript": "And look, I mean, I think Abrad is in that category, but I I kind of cringe because I'm just saying we went about what we went about. The first five years, we funded it ourselves."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1937.975,
+      "end": 1939.6749,
+      "transcript": "And then we went through with that process."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1939.975,
+      "end": 1942.1549,
+      "transcript": "But this gold standard that we put"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1942.455,
+      "end": 1944.715,
+      "transcript": "on this self acclaimed back thumping,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1945.255,
+      "end": 1954.43,
+      "transcript": "chest thumping approach because five people backed you at a certain valuation and you manage that, your problems are all starting now. Mhmm. There's a statutory warning."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1955.05,
+      "end": 1956.5901,
+      "transcript": "Your problems start now."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1957.05,
+      "end": 1962.27,
+      "transcript": "After getting that status at your Because now where do you go? Now where do you go? Where do you go from here?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1963.055,
+      "end": 1967.375,
+      "transcript": "Now you've got to build solid. Where do you go from here? Now you know what sales is worth? 25?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1967.375,
+      "end": 1971.635,
+      "transcript": "Sure. Out of the 100? Yeah. I would say the rest. Where do you go from here?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1973.295,
+      "end": 1978.035,
+      "transcript": "Yeah. For the And if that's not a model, then let's keep that out. And then when we talk about"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1978.5499,
+      "end": 1981.21,
+      "transcript": "the real India or the real opportunities,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1981.59,
+      "end": 1987.21,
+      "transcript": "even the real anywhere from that point of view, or the real Vietnam, or the real China, or the real any economy,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1987.6699,
+      "end": 1990.41,
+      "transcript": "or the real Africa. I mean, you know, there's a lot happening."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1990.755,
+      "end": 1995.895,
+      "transcript": "True. That that is I'll come to that India story. Right? And first, I want to complete the last question with,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1997.475,
+      "end": 1998.615,
+      "transcript": "where do you feel like"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1999.0751,
+      "end": 2017.64,
+      "transcript": "the today's customer is spending on? Like, what do you think? Where are we spending the most? The year generation? Is it entertainment? Is it education? Like, where are we spending the most? Yeah. So I mean, my broad and I'm not an economist, so I'm not giving I'm giving I'm I'm giving a very down to earth person to person as as a customer. And I I can see that the self consumption"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2018.1799,
+      "end": 2026.395,
+      "transcript": "has gone up. And I say self consumption, then they can have many roots in that. So for some people, I think the whole element of what I would call for yourself"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2026.6951,
+      "end": 2028.155,
+      "transcript": "is a combination of"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2028.855,
+      "end": 2029.355,
+      "transcript": "entertainment,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2030.135,
+      "end": 2030.635,
+      "transcript": "recreation,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2031.3351,
+      "end": 2032.395,
+      "transcript": "outdoor activities,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2032.935,
+      "end": 2055.7551,
+      "transcript": "something that you want to consume in that thought process, lifestyle approach, what you spend. So there's a whole consumption pattern on self. Whether it could be an expensive phone because it's you're spending six hours a day or three hours a day on it to lifestyle, to how you want to dress and do whatever else, to what you want to consume in every sense of the word. And recreation, I think today more and more people have spent more money on that."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2056.135,
+      "end": 2059.355,
+      "transcript": "The savings part, I think, is the one that has shrunk because"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2059.655,
+      "end": 2060.635,
+      "transcript": "you do believe"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2061.095,
+      "end": 2064.955,
+      "transcript": "rightly so I think, and in India, that tomorrow is gonna be better than yesterday."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2065.46,
+      "end": 2074.5999,
+      "transcript": "And I think when you ask for that generation, maybe your parents at that stage grew up where tomorrow may not be as good as yesterday. Yeah. And then you have a very cautious approach to life."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2074.9,
+      "end": 2083.795,
+      "transcript": "So it's not that they were born pessimists, but it's just that you felt I have to save for a rainy day. Today, I don't think that's the first thing you think of a rainy day."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2084.2551,
+      "end": 2089.555,
+      "transcript": "You know, part of it is also because you have a lot of self confidence today in in in young India."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2089.935,
+      "end": 2091.9,
+      "transcript": "Like, I'll manage. I'll figure it out."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2092.7,
+      "end": 2100.64,
+      "transcript": "At that time, you didn't feel you had to figure it out. That's why my dad said and tell me, but you are on your own. Yeah. Because he didn't think that there would be. But"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2100.94,
+      "end": 2107.605,
+      "transcript": "at that stage in age, I felt I'll figure it out. True. So that's why my ability to take risks. So"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2108.385,
+      "end": 2126.73,
+      "transcript": "my spending part of a 100 b wallet will be on great ideas. It may not be necessarily on my self consumption. The t shirts and the trousers I wear, I buy 10 of each and then wear them for ten years. Okay. So it's the easiest decision for shopping and it's the easiest decision every morning for wearing your clothes. Right. So I think it's each one to their own."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2127.27,
+      "end": 2128.65,
+      "transcript": "But still it's self consumption."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2129.0452,
+      "end": 2149.1301,
+      "transcript": "Is self consumption. It is self consumption. But it is because you believe tomorrow is, yes, better than is going to be better than today. And I think some of the other earlier and, you know, I'm I'm I'm not saying I'm in the I'm in the generation where I feel young, but I'm in a in a older generation. So I I feel I can relate to both where I do believe tomorrow is better than yesterday and I think and spend accordingly."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2150.3901,
+      "end": 2154.01,
+      "transcript": "Yeah. Because I've you know, you you're right because I've seen my father"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2154.7102,
+      "end": 2159.365,
+      "transcript": "from Like, the best thing happened to me was like, I saw my father group building. Okay."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2160.145,
+      "end": 2170.01,
+      "transcript": "I was born at the time when we were not doing very well financially and then, eventually I saw that whole struggle like up and down, up and down and then eventually started doing better. Right? But even today,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2170.3901,
+      "end": 2172.01,
+      "transcript": "his entire life is about,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2177.83,
+      "end": 2186.985,
+      "transcript": "Right? His whole life, I've never heard him saying, okay, let me go take a, take a holiday. Yeah. Let me go spend on myself. Let me buy something because I like it. Yeah."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2187.2852,
+      "end": 2202.03,
+      "transcript": "And whereas we, I make like fresh shit about my dad is made. When it's not in the not from an indulgent or lack of indulgence point of view. He might think it's worth it to take all of you all for a holiday. Yeah. Yeah. Okay. But now you are not willing to go for a holiday, then his mind will change overnight on that."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2203.61,
+      "end": 2204.67,
+      "transcript": "Yeah. That's true."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2205.21,
+      "end": 2206.35,
+      "transcript": "Okay. And"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2206.73,
+      "end": 2210.99,
+      "transcript": "coming to the next topic. Okay. That was about education. Mhmm. And"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2211.465,
+      "end": 2218.605,
+      "transcript": "because I have my own courses as well. I have my small university called Figuring Out University where we teach people a lot of how to become content creators."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2218.905,
+      "end": 2224.7651,
+      "transcript": "How do you expand your businesses through social media and stuff like that. Right? And that's something I came to"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2225.07,
+      "end": 2226.1301,
+      "transcript": "a realization"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2226.59,
+      "end": 2227.81,
+      "transcript": "because I used to,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2228.51,
+      "end": 2233.57,
+      "transcript": "talk about public speaking as well. And I I used to have courses on public speaking and stuff. Right?"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2234.11,
+      "end": 2235.49,
+      "transcript": "And correct me if I'm wrong,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2236.51,
+      "end": 2237.01,
+      "transcript": "India,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2237.3901,
+      "end": 2240.85,
+      "transcript": "specifically, this is what the pattern I've seen. India spends"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2241.4949,
+      "end": 2243.6748,
+      "transcript": "very high when there's a promise"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2245.335,
+      "end": 2257.3398,
+      "transcript": "of Jobs. Of jobs. Yeah. Well, of jobs or the money or something in return. Like, there's a promise of certificate which can get them a better job. Right? They spend very less on soft skills. Yeah. Right? They and then they spend"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2257.7998,
+      "end": 2258.2998,
+      "transcript": "like"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2258.5999,
+      "end": 2268.4849,
+      "transcript": "extremely low on something which is just for passion. Yeah. So the highest is something which is rewarding them instantly. Yeah. Second is passion and third is something which is"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2268.785,
+      "end": 2269.285,
+      "transcript": "just"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2269.9849,
+      "end": 2287.34,
+      "transcript": "like passion meaning. Your second second is soft skill and third is passion. Yeah. So do you feel that that's true? I think that's a very good categorization. But bottom line is, it's not about whether see, firstly, education is a very evolved word because education is a calendar event now in your life, which is school and college. So the minute you say education sounds like I'm going back to a place to"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2287.72,
+      "end": 2308.425,
+      "transcript": "learn. And I think today people are understanding that education is a lot more. It's a lifelong learning process or a learning process or a skilling process or an upgrading process there. You're right that for a lot of people see, in a developing country or even even though we're gonna be one of the three largest economies, we're still in many ways developing even though we're not a category for developing country in India. But in that category,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2308.725,
+      "end": 2314.1199,
+      "transcript": "you are looking at where 90% of the people do want some sense of instant gratification."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2314.9,
+      "end": 2328.9949,
+      "transcript": "There's low ROI on soft skills because it's not an immediate Yeah. You know, in the heart of heart that, yeah, if I could just do this, this, actually, I just finished interviewing for a job. But if I'm I don't think the connection is that if I knew my soft skills,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2329.455,
+      "end": 2346.83,
+      "transcript": "I would be able to get 80% better marks just because I presented myself better rather than I knew everything I needed to do to go into that interview. So today it's a lack of knowledge that you feel because soft skills is the most. I'm a product of soft skills. Yeah. I'm not a product of half skills. I did my BCom and then I moved on to being an entrepreneur."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2347.37,
+      "end": 2360.0352,
+      "transcript": "So everything that I've done since that, not having had funding for ten years, not having had recourse is about my own self confidence, then my ability to communicate and I wasn't born with that. Right? I mean, it was something that I inculcated."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2360.8152,
+      "end": 2363.155,
+      "transcript": "I realized the power of soft skills"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2363.5352,
+      "end": 2374.17,
+      "transcript": "more than anything else and therefore I'm a preacher of that. I'm an evangelist and my second book I did was really about saying how important soft skills is. And I think for a lot of people, they don't see the immediate ROI."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2374.8699,
+      "end": 2405.9102,
+      "transcript": "They feel but actually that is going to be 10 times more critical today in this field of education. And I think what you're doing here around this show, people want to absorb that today. They want to feel okay. So I need that two, three things. They might listen to us for forty five minutes. They just need to get two points out of it. Nobody needs to get 40 points out of it. We've talked about an array of things that I know you might say we've talked about lots of things in this too much. But actually, what I want to do is if two people if one person has two things to take away from it, superb. True."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2406.29,
+      "end": 2429.83,
+      "transcript": "Now that in that context, what they take will be something that will give them that level of clarity and confidence to put into life. So I think soft skills is underrated, but it's very, very, very critical. I started calling it super skills because soft sounds soft. Yeah. But super sounds like Shakti man. Nice. I like that. So I think we should all because we're gonna be a super power and I think we should just call it super skills. Because actually,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2430.2102,
+      "end": 2446.945,
+      "transcript": "it's going to give you super powers and you're going to be a super hero if you can just get your soft skills into some super skills. And look, there are 60 soft skills. You just need to know two. Pick your two. Not everything is about you being able to be a great person or an articulation or English language, Hindi language,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2447.405,
+      "end": 2447.905,
+      "transcript": "Tamil."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2448.285,
+      "end": 2452.92,
+      "transcript": "I think it's about any two things that you think will make you stand out"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2453.3198,
+      "end": 2461.02,
+      "transcript": "is what you need to pick and then just focus on them. Just curious question from an entrepreneur point. What's the difference between UpGrad versus all the other tech companies? No."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2461.64,
+      "end": 2462.78,
+      "transcript": "Yeah. So I mean,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2463.88,
+      "end": 2465.26,
+      "transcript": "the way I see it is"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2466.095,
+      "end": 2492.33,
+      "transcript": "our vision is a much more integrated approach. Right? I mean, I'm saying somebody may just want to give college degrees. Somebody wants to do a bootcamp. Somebody wants to do just job enable. I think what we have, and this is my media upbringing and the way I've started a media company. I'm a firm believer that scale in a country like India or in a, when you want to build a global company, which I think we want to do, is to have something integrated, which means you take everyone plus called K-twelve, which is a college learner all the way till 65"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2492.7102,
+      "end": 2494.33,
+      "transcript": "and look at all their needs."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2494.7102,
+      "end": 2497.155,
+      "transcript": "And I think that's a differentiator today where"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2497.535,
+      "end": 2498.755,
+      "transcript": "some people are doing,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2499.295,
+      "end": 2509.395,
+      "transcript": "study abroad, some people are doing transnational education, some people are doing only boot camps, some people are doing formal degrees, some people are doing undergrad degrees, some people have only offline and online blended."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2509.75,
+      "end": 2512.25,
+      "transcript": "I think our ability is to do all. And I think"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2512.6301,
+      "end": 2513.6902,
+      "transcript": "reflecting back,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2514.87,
+      "end": 2519.29,
+      "transcript": "when I started off and finally made a media business and I think the reason we stood out"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2519.59,
+      "end": 2521.61,
+      "transcript": "and created value was because"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2522.0151,
+      "end": 2536.67,
+      "transcript": "we were not just a content creator. We were not just a production house, but we had 10 broadcast channels yet we understood content and created for many people yet we were a movie studio. We were an animation studio in a production house. So it was all very much part of media. It wasn't some diversified"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2537.05,
+      "end": 2538.03,
+      "transcript": "salt to steal"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2538.33,
+      "end": 2542.43,
+      "transcript": "kind of definition. It was a very connected approach to creativity"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2543.37,
+      "end": 2544.59,
+      "transcript": "and and being a catalyst."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2544.97,
+      "end": 2562.3252,
+      "transcript": "But in an area where when something went down, something would go up. And I think that makes, you you know, more like an aircraft carrier. So I see ourselves more as a flotilla or as a sort of an armada of ships rather than just having one one aircraft carrier because sometimes once that hit, then it's it."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2563.37,
+      "end": 2567.23,
+      "transcript": "And where do you which one is your favorite or where do you see the most traction"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2567.69,
+      "end": 2569.6301,
+      "transcript": "out of all the things that you provide?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2570.25,
+      "end": 2603.77,
+      "transcript": "So at UpGrad, I'm fascinated by the fact that I think the future of learning tomorrow is going to be a lot more about peer to peer learning. And I know that most people said when you build brick and mortar, curriculum is important, follow the rules important, and faculty is important. And faculty is definitely important, but we're not gonna be able to solve the faculty problem in India because it isn't. But peer to peer learning today is becoming today as it's like anything else. Right? When you wanna consume, you don't wanna see a marketing ad anymore. You wanna see what 40 other people who experienced it went through that. Yeah. So that whole element of study groups and peer to peer learning is something that we're cannibalizing."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2604.4148,
+      "end": 2613.3948,
+      "transcript": "And second, I think that the umbrella of the future of learning is coaching and mentoring. And I don't mean one on one coaching or even what we're doing here. It's just the element of"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2613.855,
+      "end": 2615.7148,
+      "transcript": "permanent coaching and mentoring."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2616.1748,
+      "end": 2623.47,
+      "transcript": "If I look at these two umbrellas, I think that's our guiding force for everything that we're building for the next ten years. What do you feel like? How is"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2623.93,
+      "end": 2630.59,
+      "transcript": "what do you understand about Indian consumers? Like, give us some consumer insight that you feel like, oh, Indians are different in this way. If I'm an entrepreneur,"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2630.97,
+      "end": 2635.445,
+      "transcript": "is there something I should know about India very well or something that you've noticed? Diversity"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2635.745,
+      "end": 2649.8599,
+      "transcript": "diversity of culture, diversity of needs, diversity of spending. And I think you can look at that in the largest common denominator. You're gonna look at it in the top of the pinnacle. There's so many different markets that you can play with here, both from a taste point point of view, consumption point of view,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2650.64,
+      "end": 2661.0598,
+      "transcript": "ethnic point of view, habits point of view, family values point of view, or patriotical society versus a matriarchal society versus just a very democratic society, the whole younger generation."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2661.7148,
+      "end": 2664.6948,
+      "transcript": "This to me, this thing of tomorrow is better than yesterday"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2665.2349,
+      "end": 2667.015,
+      "transcript": "psychology is a very, very"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2667.395,
+      "end": 2669.4949,
+      "transcript": "haunting one. To me, it's It's haunting."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2669.795,
+      "end": 2680.3298,
+      "transcript": "Well, I like the word haunting because it's like, you know, it then there's it's in the room. It's omnipresent. And you should it's something you need to take into account because when you have that sentiment and if you can create that sentiment,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2680.71,
+      "end": 2683.3699,
+      "transcript": "it's a it's a mind it's a mindset change moment"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2683.75,
+      "end": 2686.25,
+      "transcript": "if you do believe that. And it's something for you to introspect."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2686.8699,
+      "end": 2691.45,
+      "transcript": "Do I really believe tomorrow is better than yesterday? Everyday tomorrow is going to be better than yesterday?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2691.805,
+      "end": 2692.305,
+      "transcript": "Okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2692.685,
+      "end": 2697.825,
+      "transcript": "And that, if you look at it, it sounds like it's just a nice, simple, firmly optimistic believing sentence."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2698.125,
+      "end": 2702.385,
+      "transcript": "But you need to actually change your mind and believe in that and you'll find behavioral patterns"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2703.085,
+      "end": 2708.18,
+      "transcript": "in a very different manner. Your answer to work life balance will change. Your answer to"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2708.6401,
+      "end": 2732.665,
+      "transcript": "so many other things that you angst angst about may go away. What are you looking to movie before you invest in it? So firstly, I don't think I'd I if I have an investment mindset, I'll I'll crash and burn. What kind of movies you create? Do you feel like, oh, this is gonna work in movie? I think I understand consumers and I keep wanting to understand consumers in a different manner, number one. Number two, I wanna be true to storytelling in the way I want to necessarily do it because I What is that? Like, what do you understand about consumers?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2733.4102,
+      "end": 2747.4302,
+      "transcript": "Yeah. So obviously, today, more than ever before, outside of the fact that this is an entertainment sector, I think people definitely want a certain sense of context and a certain sense of realism. So I think the movies we've made versus see, I came from the outsider. So being an outsider,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2747.855,
+      "end": 2754.835,
+      "transcript": "to me, the song dance family approach and, you know, everything goes and either that or the dishum dishum or just hardcore"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2755.615,
+      "end": 2756.115,
+      "transcript": "nonsensical,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2756.7349,
+      "end": 2759.875,
+      "transcript": "but it works. You know, hardcore leave your brains behind."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2760.72,
+      "end": 2765.86,
+      "transcript": "I did I can't relate with that. I wouldn't be able to make it better. I'd only make it worse so I stayed out of it."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2766.24,
+      "end": 2770.5,
+      "transcript": "So then therefore, from my early days whether it was Swadesa, whether it was Rangde Basanti,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2770.88,
+      "end": 2773.38,
+      "transcript": "those were the breakout stories that appealed to me."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2773.9949,
+      "end": 2785.855,
+      "transcript": "Right? And I guess maybe to that extent in those early days, I do believe that I was part of the formula that allowed it to happen. Maybe if I hadn't backed it, maybe somebody else would not have backed it. And therefore, it may not have happened."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2786.19,
+      "end": 2797.23,
+      "transcript": "But being the outsider gave you the sense that if I stay with my values now I was not doing it saying I want to talk about an audience that I don't know exist. I don't make movies myself because if I did, I would not make 99%"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2797.23,
+      "end": 2808.925,
+      "transcript": "of the movies that I would make because what I want to see if I want relaxing versus what I want to see from what I want to do as a passion are two different things. So to me, I think getting the message across, having a sense of realism,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2809.225,
+      "end": 2819.04,
+      "transcript": "that doesn't mean that's everyone should do that. But I'm seeing there's so many people doing the other stuff in any case that one more person doing that doesn't make any sense. So that's my way of storytelling."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2819.5,
+      "end": 2821.44,
+      "transcript": "Now when I was running it as a business"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2821.9,
+      "end": 2828.615,
+      "transcript": "to what I'm doing today with RSVP as a passion are two different things. And the reason is when you're running a business, 60%"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2828.615,
+      "end": 2834.475,
+      "transcript": "of your decisions are what you have to do. Yeah. And 40% what you want to do. When you're doing it as a passion,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2835.095,
+      "end": 2835.895,
+      "transcript": "100%"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2835.895,
+      "end": 2849.68,
+      "transcript": "better be what you want to do and nothing that you have to do because it's a passion. Yeah. You don't have to do it. You don't have to get up in the morning and play golf. You don't have to go to the squash court. You don't have to play chess or whatever it is you want to do. So that is a very liberating"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2849.98,
+      "end": 2858.345,
+      "transcript": "sense of being able to then do what you want to do because you can say no 99 times. When you're running a business, you can't say no 99 times. A lot of people"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2859.125,
+      "end": 2861.2249,
+      "transcript": "are doing what they used to do in Bollywood."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2861.525,
+      "end": 2864.585,
+      "transcript": "And do you feel that's the reason why it's struggling right now?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2865.285,
+      "end": 2883.405,
+      "transcript": "Or or is it just because of OTT and the South cinema has gotten No. Like super successful? Like No. No. South cinema has always been around and they tell great stories. Yeah. But and they're just They're just looking much better and shining much better because of the simple reason that they're doing exactly what they were doing and staying, focusing on it, innovating, and doing it better."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2883.965,
+      "end": 2893.425,
+      "transcript": "So yes, I think here Because there's you you talked about like sense of realism. Right? Like in So I don't wanna be judgmental, but I think we've taken our audience for granted here. And I think that's the problem."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2893.965,
+      "end": 2905.1401,
+      "transcript": "Right? And we haven't made the change. And even the main problem is when you're an insular industry, and I'm not saying we necessarily are and I don't wanna be critical because I'm very much part of it. I'm very proud of it because the creative industry"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2905.4402,
+      "end": 2906.98,
+      "transcript": "does have a strong impact."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2907.28,
+      "end": 2908.6602,
+      "transcript": "But when you're insular"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2909.04,
+      "end": 2910.1802,
+      "transcript": "and when you're clannish,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2911.285,
+      "end": 2918.025,
+      "transcript": "you just say the same thing again. And when you're you're with people who finish the sentence for you, it's the most dangerous place to be"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2919.205,
+      "end": 2940.955,
+      "transcript": "in. Because of every meeting, somebody can finish the sentence for you going out saying, I don't know what a culture. What are we it's so nice. We're all we're all so hummed, sorry, but where's the diversity? And what's going on outside? And how do you gonna figure this part out? And who's gonna challenge you? And then you're then you're in your own world, and you're in La La Land. Fun, you're in your own world. Then you're in La La Land and then"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2941.2551,
+      "end": 2941.835,
+      "transcript": "you're irrelevant."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2945.095,
+      "end": 2948.715,
+      "transcript": "Mhmm. So it's not because of OTT or the world or it's it's just about"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2949.335,
+      "end": 2950.315,
+      "transcript": "we're not being"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2950.855,
+      "end": 2955.39,
+      "transcript": "Those those changes will be there in any case, but thank God for OTT. Right?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2955.8699,
+      "end": 2958.45,
+      "transcript": "Thank God for OTT because the simple reason that"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2958.75,
+      "end": 2961.97,
+      "transcript": "good creative people are getting an opportunity to write even better scripts"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2962.51,
+      "end": 2963.89,
+      "transcript": "for a much wider audience."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2964.5898,
+      "end": 2970.645,
+      "transcript": "And what you've done is now an audience has actually got used to a different level of of storytelling"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2971.185,
+      "end": 2974.7249,
+      "transcript": "Mhmm. And now finds it very difficult to just be in suspension of reality."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2975.585,
+      "end": 2976.085,
+      "transcript": "Or"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2976.385,
+      "end": 2984.14,
+      "transcript": "look at a star because the context of star and actor and larger than life has also changed for a lot of people. Right? I mean,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2984.44,
+      "end": 2988.14,
+      "transcript": "in the younger generation, complete iconic situations are very different."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2988.5999,
+      "end": 2989.5,
+      "transcript": "A 20,000,000,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2990.2,
+      "end": 2997.0151,
+      "transcript": "you know, TikTok view a viewer is is very different than 20 millions of Twitter with an actor. Coming to the last topic"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2997.795,
+      "end": 3001.815,
+      "transcript": "of the day, why do you feel like giving back is really important?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3002.675,
+      "end": 3008.94,
+      "transcript": "I feel Because And at the young age as well? Like Yeah. I think that was my balance. I think it's a root sometimes."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3011.42,
+      "end": 3012.64,
+      "transcript": "Uncomfortable in their work"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3013.0999,
+      "end": 3032.375,
+      "transcript": "life balance, therefore they're feeling unsatisfied with their life in some form or the other. And I know I'm I'm not trying to be a mockery because there are people who are thinking between the two hours. It's so easy for you to do, but I commute two hours each day each way. Then I come home, I'm fagged out my family, my kids. I don't see them growing up. I'm being made to travel. Those are ground realities. I fully get that."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3032.675,
+      "end": 3033.175,
+      "transcript": "But"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3033.635,
+      "end": 3039.8098,
+      "transcript": "you can manage a fair bit of that is what I think. You can be at least 50% in the control of your destiny."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3040.1099,
+      "end": 3050.2898,
+      "transcript": "Giving back is a very powerful medium and I think it gave me a lot of balance because at that early age, and I don't know why, it's a little bit like I wanted to be an entrepreneur. I didn't know what I wanted to do. I've I became"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3050.5898,
+      "end": 3063.335,
+      "transcript": "something in media and entertainment as I gave you because of serendipity of doing theater and whatever else. The same way, I don't know why, but when you when we started something, my first thing was that, you know, about 10% of what we do, we'll do for giving back."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3063.795,
+      "end": 3066.455,
+      "transcript": "And at that stage, again, with no balance,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3067.155,
+      "end": 3079.95,
+      "transcript": "the for me, we had a 10,000 square foot office that we had rented. And at 1,000 square foot of that, we had started a old age home, a little bit of a creche and an orphanage kind of situation. And that was extremely binding because nobody went home."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3080.25,
+      "end": 3082.19,
+      "transcript": "At 06:37, everyone would"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3082.49,
+      "end": 3087.005,
+      "transcript": "we had 30 people and the people all 30 people gravitated to that till eight, 09:10"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3087.4648,
+      "end": 3095.4849,
+      "transcript": "because suddenly it was a different part of them. And I saw the culture building in an organization at that very early stage, but I wanted to do that."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3095.865,
+      "end": 3122.0552,
+      "transcript": "So I think this thing about I can't make a difference singularly, which I think today the generation feels I think is wrong. And I know that when we did in 2006 Rangde Basanti. And I remember Amed, Rakesh and me going to Delhi University and we they were, you know, in that large quadrangle. There were almost 10,000 students. And after the screening, they said, sir, this is nice. Because, you know, it's a the the heroes die in the end and whatever else. And but the but the cry at that time was,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3122.835,
+      "end": 3123.975,
+      "transcript": "I can't make a difference."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3124.2751,
+      "end": 3125.175,
+      "transcript": "Yeah. It's okay."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3127.18,
+      "end": 3130.32,
+      "transcript": "You can make this statement. What are you saying? Are you saying I can make a difference?"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3130.7,
+      "end": 3136.16,
+      "transcript": "And I think that's changed today where people do feel singularly we can make a difference. And I think"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3136.7,
+      "end": 3138.56,
+      "transcript": "in the giving back, individuality"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3139.02,
+      "end": 3143.975,
+      "transcript": "is very, very important. It's not about money. It's about the mindset of that balance."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3144.5151,
+      "end": 3147.895,
+      "transcript": "And I think you'll get your work life balance because if you're slightly"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3148.3552,
+      "end": 3155.97,
+      "transcript": "more blessed than the next person, you'll let you look at life in a very different perspective. And I've come from a lower middle class household, so I can identify with that"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3156.45,
+      "end": 3165.3499,
+      "transcript": "journey that I've taken that at every stage, if I look back over my shoulder and say, but if I've come here, what about this person? And, you know, what about that person? Or"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3166.29,
+      "end": 3170.79,
+      "transcript": "I was privileged in the last five years of my life to go to a good school like Cathedral."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3171.125,
+      "end": 3174.345,
+      "transcript": "But before that, I went to an even good school called Dunns Institute."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3174.885,
+      "end": 3184.38,
+      "transcript": "Right? Where it was it was a challenging environment. Then today, I still sponsor at least about seven to 10 kids from that institution. But that's just because you're looking over your shoulder."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3184.8599,
+      "end": 3186.24,
+      "transcript": "So I think it's not a categorization"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3186.6199,
+      "end": 3187.5999,
+      "transcript": "and I feel"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3187.9,
+      "end": 3207.835,
+      "transcript": "sure there are enough people who say make a pledge. I think that's all fine and it's nice because maybe Bill Gates and Buffett have at least made philanthropy a little bit more high profile. But I'm not, it's it's a very personal thing. But I would say for everyone in the younger, you can do your balance. It gives you a very strong purpose. Even if it's 10%, it's like your wallet share."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3208.215,
+      "end": 3214.9,
+      "transcript": "In that wallet share, you don't need to spend 1 rupee of it, but take 10% of your mind share and it'll make a big difference."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3215.52,
+      "end": 3216.66,
+      "transcript": "So it's either you"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3216.96,
+      "end": 3227.515,
+      "transcript": "give back via time or you give back via wallet share or like money. My daughter runs a mentor mentee program at about $799,000 the lighthouse project. And I've spoken to a lot of people and the, you know,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3227.9749,
+      "end": 3234.7148,
+      "transcript": "they're young professionals or college going kids who adopt a kid. And you need to spend about a day,"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3235.015,
+      "end": 3240.3948,
+      "transcript": "a month with that. And actually most of them spend much more. But the impact it's had on the mentors"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3240.8198,
+      "end": 3242.44,
+      "transcript": "is more than it's had on the mentees."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3244.18,
+      "end": 3251.7998,
+      "transcript": "So I think it's a strong message for anyone wanting to look at a balance in life. Forget work life balance, mind balance, mind share balance. Very important."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3252.0999,
+      "end": 3274.1702,
+      "transcript": "I see. It's like self help and help others. Both the categories, you should be there. Yeah. And then my mom says, you know, my mom says like, you guys keep reading about self help, self help, self help. You need to have a lesson in your life which says help others. Absolutely. Like start reading books where you're supposed to be. In that early stages, while you may be helping somebody else, you are big time helping yourself"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3274.55,
+      "end": 3275.4502,
+      "transcript": "for the future."
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3276.79,
+      "end": 3279.85,
+      "transcript": "So introspect on the impact it's having on you"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3280.2449,
+      "end": 3303.56,
+      "transcript": "Also, there is an ROI for you, not an ROI for somebody else when you're doing that. So be selfish when you're giving, when you're being selfish. You'll get self you'll get a lot of self conviction on yourself and that you'll be able to you'll just be able to, you'll feel that. Alright. On that note, thank you so much for having like a lovely conversation. Thank you. I think we are I think it floored. Yeah. I think it was very natural and obviously you have a lot of"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3304.1,
+      "end": 3313.495,
+      "transcript": "curiosity that brought about a very diverse set. I didn't see you looking at any notes ever. It was more about speaking out. Didn't ask you about lot of notes now. I don't know like so so many things. But"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3314.0352,
+      "end": 3319.655,
+      "transcript": "best way for something is for the water to flow. Yeah. Yeah. Thank you so much for watching this episode till the end."
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3320.01,
+      "end": 3333.55,
+      "transcript": "Please let us know in the comments if you like this guest. If you didn't like the guest, what question do you want us to ask from the next guest which is coming? Until the next episode, keep figuring out and don't forget to share it with at least one person"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3333.93,
+      "end": 3334.43,
+      "transcript": "because"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3335.415,
+      "end": 3343.7551,
+      "transcript": "one conversation can give 100 ideas and out of those 100 ideas, if one can Implement even one in their lives, then their Indian dream will come true."
+    }
+  ]
+}
