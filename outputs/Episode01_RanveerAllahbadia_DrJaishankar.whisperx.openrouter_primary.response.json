@@ -1,0 +1,50 @@
+{
+  "id": "gen-1771991771-YHdmgXlpKAlMyFcxigsY",
+  "provider": "Upstage",
+  "model": "upstage/solar-pro-3:free",
+  "object": "chat.completion",
+  "created": 1771991771,
+  "choices": [
+    {
+      "logprobs": null,
+      "finish_reason": "length",
+      "native_finish_reason": "length",
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "",
+        "refusal": null,
+        "reasoning": "We are given a task: label speakers in a podcast transcript. We must decide which diarization speaker is the HOST (interviewer / show runner). All other speakers are GUEST. Exactly one HOST.\n\nWe have transcript snippets for two speakers: SPEAKER_00 and SPEAKER_01.\n\nWe need to analyze the content to determine who is the host.\n\nLooking at the snippets:\n\nSPEAKER_00 examples:\n- [00:00:09–00:00:11] You know, I'm so glad you used the second name.\n- [00:00:12–00:00:18] I think when I watch the women's league, like watching a new emerging kind of activity.\n- [00:00:23–00:00:25] You notice I'm not disputing it?\n- [00:02:46–00:02:47] Well, I'm good.\n- [00:02:47–00:02:50] I've been busy for a few weeks.\n- [00:02:51–00:02:57] But I would say probably people are more interested in foreign policy.\n- [00:02:58–00:02:58] Nowadays?\n- [00:02:58–00:02:59] Nowadays.\n- [00:02:59–00:03:04] And maybe they'll come to watch you.\n- [00:03:16–00:03:18] Okay, that's good to know.\n- [00:03:18–00:03:23] But, you know, in a way, it's natural.\n- [00:03:23–00:03:25] Look, what do we do most of the time?\n- [00:03:26–00:03:29] You get up in the morning, first thing you do is reach out for your phone, right?\n- [00:03:30–00:03:32] And see what is it you missed when you're sleeping.\n\nThese seem like conversational, possibly the host asking questions or making observations. The phrases \"You know\", \"I think\", \"You notice\", \"And maybe they'll come to watch you\" sound like the host is speaking to the guest.\n\nSPEAKER_01 examples:\n- [00:00:00–00:00:09] What's your message to all the young Virat Kohli's watching this and young Jemima Rodricks is watching this who will take the country further?\n- [00:00:19–00:00:21] You know Vikings would always invade",
+        "reasoning_details": [
+          {
+            "format": "unknown",
+            "index": 0,
+            "type": "reasoning.text",
+            "text": "We are given a task: label speakers in a podcast transcript. We must decide which diarization speaker is the HOST (interviewer / show runner). All other speakers are GUEST. Exactly one HOST.\n\nWe have transcript snippets for two speakers: SPEAKER_00 and SPEAKER_01.\n\nWe need to analyze the content to determine who is the host.\n\nLooking at the snippets:\n\nSPEAKER_00 examples:\n- [00:00:09–00:00:11] You know, I'm so glad you used the second name.\n- [00:00:12–00:00:18] I think when I watch the women's league, like watching a new emerging kind of activity.\n- [00:00:23–00:00:25] You notice I'm not disputing it?\n- [00:02:46–00:02:47] Well, I'm good.\n- [00:02:47–00:02:50] I've been busy for a few weeks.\n- [00:02:51–00:02:57] But I would say probably people are more interested in foreign policy.\n- [00:02:58–00:02:58] Nowadays?\n- [00:02:58–00:02:59] Nowadays.\n- [00:02:59–00:03:04] And maybe they'll come to watch you.\n- [00:03:16–00:03:18] Okay, that's good to know.\n- [00:03:18–00:03:23] But, you know, in a way, it's natural.\n- [00:03:23–00:03:25] Look, what do we do most of the time?\n- [00:03:26–00:03:29] You get up in the morning, first thing you do is reach out for your phone, right?\n- [00:03:30–00:03:32] And see what is it you missed when you're sleeping.\n\nThese seem like conversational, possibly the host asking questions or making observations. The phrases \"You know\", \"I think\", \"You notice\", \"And maybe they'll come to watch you\" sound like the host is speaking to the guest.\n\nSPEAKER_01 examples:\n- [00:00:00–00:00:09] What's your message to all the young Virat Kohli's watching this and young Jemima Rodricks is watching this who will take the country further?\n- [00:00:19–00:00:21] You know Vikings would always invade"
+          }
+        ]
+      }
+    }
+  ],
+  "system_fingerprint": null,
+  "usage": {
+    "prompt_tokens": 1274,
+    "completion_tokens": 650,
+    "total_tokens": 1924,
+    "cost": 0,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 48,
+      "audio_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0,
+      "upstream_inference_prompt_cost": 0,
+      "upstream_inference_completions_cost": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 649,
+      "audio_tokens": 0
+    }
+  }
+}
