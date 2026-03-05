@@ -1,0 +1,5119 @@
+{
+  "total_segments": 638,
+  "speakers": [
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2"
+    }
+  ],
+  "segments": [
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 24.765,
+      "end": 28.82,
+      "text": "You told him five minutes? Like, he has two minutes. Yeah. Two minutes.",
+      "confidence": 0.8895093
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 29.36,
+      "end": 32.260002,
+      "text": "Everything looks good. Just the monitor the main monitor,",
+      "confidence": 0.94186664
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 33.44,
+      "end": 35.3,
+      "text": "went off. Everyone who's",
+      "confidence": 0.9727409
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 36.08,
+      "end": 37.14,
+      "text": "done can leave.",
+      "confidence": 0.9900315
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 43.715,
+      "end": 45.495003,
+      "text": "Hi, Sam. Hey, Nikhil.",
+      "confidence": 0.97897327
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 45.875,
+      "end": 57.789997,
+      "text": "How are you? I'm good. Sorry I'm late. I got caught up in getting ready for the launch tomorrow and lost track of time and excitement with the final results. But No worries. I'm guessing it must be really hectic. Right? It is a very hectic day.",
+      "confidence": 0.985566
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 73.375,
+      "end": 77.075005,
+      "text": "I have the model, and I've been playing with it a little bit.",
+      "confidence": 0.9889583
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 77.535,
+      "end": 79.075005,
+      "text": "How is it different, Sam?",
+      "confidence": 0.9965059
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 79.775,
+      "end": 82.355,
+      "text": "I'm not an expert at this, so yeah.",
+      "confidence": 0.9571195
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 83.615005,
+      "end": 94.35,
+      "text": "There's all these ways we can talk about, you know, it's better at this metric or it's, you know, can do this amazing coding demo that, you know, GPT-four couldn't. But the thing that has been most striking for me",
+      "confidence": 0.9690157
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 94.81,
+      "end": 95.31,
+      "text": "is",
+      "confidence": 0.73443025
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 95.61,
+      "end": 100.67,
+      "text": "in ways that are both big and small, going back from GPT-five to our previous generation model,",
+      "confidence": 0.9640156
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 101.365005,
+      "end": 108.105,
+      "text": "is just so painful. It's just like worse at everything. And I've taken for granted that there's a fluency and a depth of intelligence",
+      "confidence": 0.935888
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 109.045,
+      "end": 112.425,
+      "text": "with GPT five that we haven't had in any previous model.",
+      "confidence": 0.98849016
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 113.205,
+      "end": 123.22,
+      "text": "It's an integrated model so you don't have to like pick in our model switcher and know if you should use GPT four point zero or point zero three or point zero four Mini or any of the complicated things. It's just one thing that works",
+      "confidence": 0.90980333
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 124.4,
+      "end": 125.619995,
+      "text": "and it is like",
+      "confidence": 0.8388812
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 125.92,
+      "end": 126.42,
+      "text": "having",
+      "confidence": 0.9968258
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 127.235,
+      "end": 128.535,
+      "text": "PhD level experts",
+      "confidence": 0.9830165
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 128.91501,
+      "end": 132.535,
+      "text": "in every field available to you 20 fourseven for whatever you need.",
+      "confidence": 0.89906454
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 133.235,
+      "end": 141.315,
+      "text": "Not only to ask anything, but also to do anything for you. So if you, you know, need a piece of software created, you can kind of do it from scratch all at once. If you need a,",
+      "confidence": 0.9507383
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 142.53,
+      "end": 148.95,
+      "text": "if you need a research report on some complicated topic, it can do that for you. If you needed to, you know, plan an event for you, it could do that too.",
+      "confidence": 0.98421776
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 150.12999,
+      "end": 151.10999,
+      "text": "Is it more",
+      "confidence": 0.9985523
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 151.40999,
+      "end": 154.23,
+      "text": "agentic in nature in the sense that",
+      "confidence": 0.9564065
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 154.53,
+      "end": 155.82999,
+      "text": "sequential tasking,",
+      "confidence": 0.9412664
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 156.715,
+      "end": 160.09499,
+      "text": "you're one one step closer to it? Because I was trying that.",
+      "confidence": 0.96655965
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 160.635,
+      "end": 164.415,
+      "text": "It's much better at things like that. The the sort of the robustness and reliability,",
+      "confidence": 0.9718615
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 165.275,
+      "end": 168.575,
+      "text": "has greatly increased, and that that's very helpful for agentic workflows.",
+      "confidence": 0.97109604
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 169.24,
+      "end": 171.5,
+      "text": "So I I'm, like, very impressed by how,",
+      "confidence": 0.99094945
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 172.04001,
+      "end": 178.14,
+      "text": "long and complex of a task it can carry out. So we did a call a couple of weeks ago when I was bugging you about",
+      "confidence": 0.9933602
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 178.52,
+      "end": 182.14,
+      "text": "what sectors and teams to invest in for the next decade.",
+      "confidence": 0.93080944
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 184.08499,
+      "end": 188.025,
+      "text": "So I don't want to talk about that too much. I thought we'll keep today about",
+      "confidence": 0.93921864
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 188.965,
+      "end": 190.185,
+      "text": "first principles",
+      "confidence": 0.9673959
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 190.56499,
+      "end": 193.305,
+      "text": "and how the world is changing by virtue",
+      "confidence": 0.9890499
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 194.165,
+      "end": 202.48001,
+      "text": "of all that is changing in the world that you dominate. So the very first thing I want to start with is if I were a 25 year old",
+      "confidence": 0.97920156
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 203.1,
+      "end": 207.04001,
+      "text": "boy or girl living in Mumbai or Bangalore in India,",
+      "confidence": 0.9688962
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 208.70001,
+      "end": 211.28,
+      "text": "I know you've said a bunch of times that colleges",
+      "confidence": 0.9953162
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 211.74,
+      "end": 212.48001,
+      "text": "are not",
+      "confidence": 0.98210263
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 213.80501,
+      "end": 218.30501,
+      "text": "are not holding on to the place of relevance they might have had when I was growing up.",
+      "confidence": 0.9654894
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 218.845,
+      "end": 225.105,
+      "text": "But what do I do now? A, what do I study? If I'm starting a company, what kind of company do I start?",
+      "confidence": 0.9748878
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 226.36,
+      "end": 232.7,
+      "text": "Or if I were to even find a job, what industry do you think has some kind of tailwind?",
+      "confidence": 0.9903996
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 233.4,
+      "end": 234.22,
+      "text": "I'm not talking",
+      "confidence": 0.99777055
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 234.92,
+      "end": 244.095,
+      "text": "ten years down the line, but even as close as three to five years down the line. First of all, I think this is probably the most exciting time to be starting out one's career,",
+      "confidence": 0.9849121
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 244.875,
+      "end": 246.815,
+      "text": "maybe ever. I think like,",
+      "confidence": 0.8848964
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 247.27501,
+      "end": 250.41501,
+      "text": "that 25 year old in Mumbai can probably do",
+      "confidence": 0.9966485
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 250.71501,
+      "end": 264.76,
+      "text": "more than any previous 25 year old in history could. It's really amazing what you can do with a tool like this. I felt the same way when I was 25 and, you know, the tools then were not as amazing as tools we have now, but we had the computer revolution",
+      "confidence": 0.98318696
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 265.46,
+      "end": 265.96,
+      "text": "and",
+      "confidence": 0.7083019
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 266.26,
+      "end": 267.4,
+      "text": "we could do things,",
+      "confidence": 0.96203804
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 267.835,
+      "end": 273.375,
+      "text": "you know, a 25 year old then could do things that no 25 year old in history before would have been able to.",
+      "confidence": 0.9764476
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 273.995,
+      "end": 279.85498,
+      "text": "And now that's happening in a huge way. So whether you want to start a company or be a programmer",
+      "confidence": 0.9832245
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 280.64,
+      "end": 286.18,
+      "text": "or go work in kind of any other industry, you know, create new media, whatever it is,",
+      "confidence": 0.98880666
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 287.44,
+      "end": 290.18,
+      "text": "the ability for one person to use these tools",
+      "confidence": 0.999691
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 290.80002,
+      "end": 299.165,
+      "text": "and have great ideas and implement them with what would have taken, you know, decades of experience or teams of people is really quite remarkable.",
+      "confidence": 0.9747802
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 300.26498,
+      "end": 302.285,
+      "text": "In terms of particular industries,",
+      "confidence": 0.9949191
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 303.145,
+      "end": 311.73,
+      "text": "I am very excited about what AI is going to mean for science and the amount of science that one person will be able to discover and the rate at which they can do that. Clearly, it's transforming",
+      "confidence": 0.9806876
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 312.27,
+      "end": 320.61,
+      "text": "what it means to program computers in a huge way, and people will be able to create completely new kinds of software in a huge new scale.",
+      "confidence": 0.9516158
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 321.585,
+      "end": 324.485,
+      "text": "Definitely for start ups, you know, if you have that idea for",
+      "confidence": 0.88542897
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 324.94498,
+      "end": 329.925,
+      "text": "a new business, the ability for a very tiny team to do a huge amount of work is great.",
+      "confidence": 0.9842474
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 332.38498,
+      "end": 336.08002,
+      "text": "But it feels like this is just now a very open canvas.",
+      "confidence": 0.9626324
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 337.2,
+      "end": 338.02002,
+      "text": "You know, people,",
+      "confidence": 0.83260393
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 338.56,
+      "end": 351.795,
+      "text": "people are limited to a degree that they've never been before, only by the quality and creativity of their ideas. And you have these incredible tools to help you realize them. Is there anything in particular you want to say about GPT five? Then I can ask you questions around that.",
+      "confidence": 0.96446246
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 352.17502,
+      "end": 353.395,
+      "text": "GPT five does",
+      "confidence": 0.92790556
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 354.655,
+      "end": 358.275,
+      "text": "does feel to us like it's going to be another big step forward in how people,",
+      "confidence": 0.9374093
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 358.895,
+      "end": 360.515,
+      "text": "use these systems.",
+      "confidence": 0.9979341
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 361.855,
+      "end": 362.355,
+      "text": "The",
+      "confidence": 0.6169175
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 362.98,
+      "end": 363.80002,
+      "text": "the level",
+      "confidence": 0.91195816
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 364.9,
+      "end": 365.56,
+      "text": "of capability,",
+      "confidence": 0.9980447
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 366.02002,
+      "end": 369.72,
+      "text": "the level of robustness, the reliability, and the ability to use this just for",
+      "confidence": 0.9830204
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 370.02002,
+      "end": 372.68,
+      "text": "a lot of tasks in life to create",
+      "confidence": 0.9707326
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 373.86002,
+      "end": 380.575,
+      "text": "software, to answer questions, to learn, to work more efficiently, like, this is a you know, pretty significant step",
+      "confidence": 0.96444684
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 380.95502,
+      "end": 385.45502,
+      "text": "forward. Each time we've had one of these, we have been amazed by the potential it unlocks.",
+      "confidence": 0.9681107
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 387.195,
+      "end": 392.17502,
+      "text": "And in particular, India is, India is now our second largest market in the world.",
+      "confidence": 0.9275124
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 392.875,
+      "end": 394.255,
+      "text": "It may become our",
+      "confidence": 0.99337375
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 394.93,
+      "end": 395.43,
+      "text": "largest.",
+      "confidence": 0.99416566
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 395.81,
+      "end": 400.22998,
+      "text": "We've taken a lot of feedback from users in India about what they'd like from us,",
+      "confidence": 0.9796804
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 400.61,
+      "end": 403.43,
+      "text": "better support for languages, more affordable access,",
+      "confidence": 0.99577194
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 404.37,
+      "end": 407.90997,
+      "text": "much more and we've been able to put that into this model and upgrades to ChatChippity.",
+      "confidence": 0.89552575
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 409.105,
+      "end": 411.76498,
+      "text": "So we're committed to continuing to work on that, but",
+      "confidence": 0.97599727
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 412.945,
+      "end": 418.085,
+      "text": "the, you know, every time we've had a major leap forward in how the capability we can bring to users,",
+      "confidence": 0.97758615
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 418.785,
+      "end": 424.085,
+      "text": "we've been amazed by what those 25 year olds go off and do in terms of creating new companies or",
+      "confidence": 0.9911544
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 425.24,
+      "end": 428.86002,
+      "text": "you know, learning better, getting better medical advice, or whatever else.",
+      "confidence": 0.895732
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 429.64,
+      "end": 431.1,
+      "text": "Is there anything that",
+      "confidence": 0.999236
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 432.2,
+      "end": 437.82,
+      "text": "I could build on top of g p t five today as a 25 year old in India that you think are",
+      "confidence": 0.96769243
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 438.76498,
+      "end": 443.425,
+      "text": "low hanging fruits per se, that I should definitely look at? I think you could build an entire startup",
+      "confidence": 0.93684787
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 443.965,
+      "end": 446.76498,
+      "text": "way more efficiently than you ever could before. Now, this is obviously",
+      "confidence": 0.96129817
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 447.405,
+      "end": 455.66998,
+      "text": "I'm biased because this is like near and dear to my heart. But the fact that as a 25 year old in India or anywhere else,",
+      "confidence": 0.94401485
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 456.13,
+      "end": 460.63,
+      "text": "maybe with a couple of friends, maybe just by yourself, you could use GPT five to,",
+      "confidence": 0.9565519
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 461.33,
+      "end": 465.35,
+      "text": "help you write the software for a product much more efficiently, help you",
+      "confidence": 0.99015874
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 466.66498,
+      "end": 469.485,
+      "text": "handle customer support, help you write marketing",
+      "confidence": 0.99851197
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 470.025,
+      "end": 471.645,
+      "text": "and communications plans,",
+      "confidence": 0.9834556
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 472.585,
+      "end": 474.205,
+      "text": "help you review legal documents.",
+      "confidence": 0.96756554
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 475.305,
+      "end": 476.44498,
+      "text": "All of these things",
+      "confidence": 0.9989408
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 476.745,
+      "end": 479.645,
+      "text": "that would have taken a lot of people and a lot of expertise,",
+      "confidence": 0.96847373
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 480.1,
+      "end": 485.24,
+      "text": "and you now have g p t five to help you do all all of this, that that's pretty amazing.",
+      "confidence": 0.9556053
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 485.7,
+      "end": 487.48,
+      "text": "If I could push you to be, like,",
+      "confidence": 0.9833994
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 488.26,
+      "end": 489.64,
+      "text": "a bit more specific",
+      "confidence": 0.999666
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 490.42,
+      "end": 491.32,
+      "text": "and say,",
+      "confidence": 0.78481996
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 492.345,
+      "end": 493.80502,
+      "text": "I get science, but,",
+      "confidence": 0.95251924
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 495.14502,
+      "end": 500.52502,
+      "text": "what do I study? Say I've been studying engineering or commerce or arts or something like that.",
+      "confidence": 0.9623745
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 501.225,
+      "end": 506.92502,
+      "text": "Is there any specific thing I study in order to use AI to develop something in science?",
+      "confidence": 0.9985523
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 508.47,
+      "end": 510.00998,
+      "text": "I think the most important",
+      "confidence": 0.95530623
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 511.34998,
+      "end": 515.69,
+      "text": "specific thing to study is just getting really good at using the new AI tools.",
+      "confidence": 0.99274236
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 517.43,
+      "end": 523.20996,
+      "text": "I think learning is valuable for its own sake and learning to learn is this like meta skill that will serve you throughout",
+      "confidence": 0.94780964
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 523.805,
+      "end": 525.345,
+      "text": "life. And whether you're learning",
+      "confidence": 0.93909967
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 526.125,
+      "end": 529.105,
+      "text": "engineering, like computer engineering or biology or",
+      "confidence": 0.91317284
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 529.645,
+      "end": 531.185,
+      "text": "any other field, like that,",
+      "confidence": 0.89954054
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 531.885,
+      "end": 536.145,
+      "text": "if you get good at learning things, you can learn new things quickly. But fluency with the tools,",
+      "confidence": 0.9821254
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 536.925,
+      "end": 537.425,
+      "text": "is,",
+      "confidence": 0.7206782
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 538.55,
+      "end": 542.49,
+      "text": "you know, is really important. When I was in college or in high school,",
+      "confidence": 0.9550067
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 543.18994,
+      "end": 550.41,
+      "text": "it seemed to me that the obvious thing to do was learn to program. And I didn't know exactly what I was going to use that for, but there was this new",
+      "confidence": 0.9853583
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 551.02496,
+      "end": 555.685,
+      "text": "frontier that seemed very high leverage and important to get good at. And right now,",
+      "confidence": 0.98354405
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 556.305,
+      "end": 559.685,
+      "text": "learning how to use AI tools is probably the most important",
+      "confidence": 0.9994532
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 560.14496,
+      "end": 560.64496,
+      "text": "specific",
+      "confidence": 0.6053788
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 561.105,
+      "end": 568.01996,
+      "text": "hard skill to learn and the difference between people who are really good at it, really AI native and think of everything in terms of those tools and don't is huge.",
+      "confidence": 0.94691193
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 568.39996,
+      "end": 569.94,
+      "text": "There's other general skills,",
+      "confidence": 0.9624959
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 571.68,
+      "end": 575.86,
+      "text": "learning kind of like to be adaptable and resilient, which I think is something really learnable.",
+      "confidence": 0.9768707
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 577.025,
+      "end": 580.005,
+      "text": "That's like quite valuable in a world that's changing so fast.",
+      "confidence": 0.94977665
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 580.705,
+      "end": 582.72504,
+      "text": "Learning how to figure out what people want,",
+      "confidence": 0.9902864
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 584.305,
+      "end": 585.445,
+      "text": "is really quite important.",
+      "confidence": 0.9842274
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 586.865,
+      "end": 588.885,
+      "text": "Before this, I used to be a start up investor,",
+      "confidence": 0.8808715
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 589.31,
+      "end": 594.37,
+      "text": "and people would ask me what the most important thing for start up founders to figure out was, and,",
+      "confidence": 0.96961975
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 595.94995,
+      "end": 599.49,
+      "text": "my predecessor, Paul Graham, had this answer that has always stuck with me for people,",
+      "confidence": 0.95489246
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 600.02997,
+      "end": 605.01,
+      "text": "to give to founders, and it became the motto for Y Combinator, which is make something people want.",
+      "confidence": 0.94326687
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 606.205,
+      "end": 612.385,
+      "text": "And that sounds like such an easy instruction. I have watched so many people try so hard to learn how to figure that out,",
+      "confidence": 0.98688006
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 613.885,
+      "end": 620.28,
+      "text": "and fail. And then I've watched many people work really hard to learn how to do that and get great at it over a career. So,",
+      "confidence": 0.9742852
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 620.68005,
+      "end": 631.82,
+      "text": "that's something as well. But, you know, in terms of the specifics, like, are you supposed to take the biology class or the physics class? I don't think it matters right now. And if I were to build on top of that, and when you say",
+      "confidence": 0.9782246
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 632.28,
+      "end": 636.19495,
+      "text": "learn to adapt and change and learn AI tools faster.",
+      "confidence": 0.97270185
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 636.735,
+      "end": 645.795,
+      "text": "Is there a path? I'm just looking for a light that somebody could begin walking towards. How does one get better at the AI tools that are available out there?",
+      "confidence": 0.99410915
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 646.495,
+      "end": 648.355,
+      "text": "Well, one great thing to do,",
+      "confidence": 0.9804999
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 649.35,
+      "end": 654.64996,
+      "text": "GPT-five is quite good at helping to create small pieces of software very quickly,",
+      "confidence": 0.9702957
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 655.39,
+      "end": 655.89,
+      "text": "and,",
+      "confidence": 0.8147385
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 657.11,
+      "end": 659.13,
+      "text": "much better than any model that I've used.",
+      "confidence": 0.991006
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 659.91,
+      "end": 661.37,
+      "text": "And in the last",
+      "confidence": 0.9796129
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 662.415,
+      "end": 666.355,
+      "text": "few weeks, I have surprised myself how much I've used it to",
+      "confidence": 0.98909694
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 666.735,
+      "end": 668.595,
+      "text": "create a piece of software to",
+      "confidence": 0.9979957
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 668.975,
+      "end": 682.25,
+      "text": "solve some little problem that I have in my life. And you know, it's been an interesting creative process because I'll ask it for a first draft, I'll start using that, and then I'll say, Hey, with this feature, it would be better, or, With this other thing, I'd be able to do something differently.",
+      "confidence": 0.9492765
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 683.19,
+      "end": 691.61005,
+      "text": "Or, you know, I have started using it and realized that with my workflow, I really needed this. And by putting more and more of the things that I have to do in this kind of a workflow,",
+      "confidence": 0.97743285
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 693.245,
+      "end": 696.225,
+      "text": "that's been a very interesting way for me to learn how to use this.",
+      "confidence": 0.9961804
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 697.40497,
+      "end": 701.105,
+      "text": "You mentioned Paul Graham, and I I was reading this",
+      "confidence": 0.95527095
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 702.045,
+      "end": 705.025,
+      "text": "letter or report he wrote in 2009",
+      "confidence": 0.99223715
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 705.63995,
+      "end": 709.89996,
+      "text": "where he spoke about five founders to watch out for.",
+      "confidence": 0.9858157
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 710.51996,
+      "end": 714.22,
+      "text": "And I think you were 19 at the time, and he mentioned you",
+      "confidence": 0.9834862
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 714.83997,
+      "end": 718.77997,
+      "text": "along with people like Steve Jobs and Larry and Sergei.",
+      "confidence": 0.94150746
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 720.935,
+      "end": 723.355,
+      "text": "Why was that? You hadn't accomplished",
+      "confidence": 0.99201435
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 723.895,
+      "end": 732.235,
+      "text": "anything of note like they had. What did Paul see you see in you, and what do you think is the innate skill set that sets you apart from your peers?",
+      "confidence": 0.98150563
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 733.43,
+      "end": 735.35004,
+      "text": "That was very nice of him. I remember that.",
+      "confidence": 0.9366736
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 736.07,
+      "end": 736.89,
+      "text": "I certainly",
+      "confidence": 0.82055396
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 737.67004,
+      "end": 742.89,
+      "text": "I remember the time feeling that it was very deeply undeserved, but, grateful that he said that.",
+      "confidence": 0.9272371
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 745.28503,
+      "end": 749.945,
+      "text": "I mean, there's like a lot of people who are starting great companies. We we got",
+      "confidence": 0.9415501
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 750.965,
+      "end": 754.265,
+      "text": "lucky here in many ways. We've also worked super hard.",
+      "confidence": 0.9790739
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 758.16,
+      "end": 759.94,
+      "text": "Maybe the one thing that I would,",
+      "confidence": 0.9522139
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 761.6,
+      "end": 767.94,
+      "text": "that I think we have done here well is to take a very long time horizon and think very independently.",
+      "confidence": 0.9704863
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 768.32,
+      "end": 773.865,
+      "text": "You know, when we started, it was like four and a half years before we had our first product and it was very uncertain.",
+      "confidence": 0.9376907
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 774.485,
+      "end": 782.345,
+      "text": "We were just doing research, trying to figure out how to get AI to work, and we had very different ideas than the rest of the world.",
+      "confidence": 0.97330207
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 784.725,
+      "end": 786.82495,
+      "text": "But I think that ability to sort of",
+      "confidence": 0.9811412
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 787.48,
+      "end": 791.42,
+      "text": "trust our own conviction over a long time horizon without a lot of external",
+      "confidence": 0.994277
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 791.72003,
+      "end": 793.18,
+      "text": "feedback was very helpful.",
+      "confidence": 0.87067413
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 793.8,
+      "end": 797.9,
+      "text": "Is that a V or a I thing? Because I'm speaking about when you were 19.",
+      "confidence": 0.9087017
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 798.68,
+      "end": 799.18,
+      "text": "Oh,",
+      "confidence": 0.747124
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 799.56,
+      "end": 801.34,
+      "text": "sorry, I thought you were asking about OpenAI.",
+      "confidence": 0.94565994
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 802.165,
+      "end": 806.185,
+      "text": "Me when I was 19, I barely remember that. I don't know. I was like a",
+      "confidence": 0.9387671
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 806.565,
+      "end": 808.105,
+      "text": "naive 19 year old",
+      "confidence": 0.90514404
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 808.485,
+      "end": 810.425,
+      "text": "that didn't really know what he was doing and,",
+      "confidence": 0.953334
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 812.325,
+      "end": 818.95996,
+      "text": "this is not false modesty. My own self, I think I've done impressive things now, but my own self conception in 19 was like deeply",
+      "confidence": 0.9386616
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 819.57996,
+      "end": 821.36,
+      "text": "unsure of myself and very unimpressive.",
+      "confidence": 0.9940683
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 821.82,
+      "end": 823.6,
+      "text": "If the world were to be",
+      "confidence": 0.99615
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 824.86,
+      "end": 827.76,
+      "text": "the world of tomorrow were to be a AI kingdom",
+      "confidence": 0.9575329
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 828.13995,
+      "end": 828.88,
+      "text": "of sorts,",
+      "confidence": 0.98601663
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 829.26,
+      "end": 831.27997,
+      "text": "you're definitely some kind of prince.",
+      "confidence": 0.9760615
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 832.3,
+      "end": 832.8,
+      "text": "And,",
+      "confidence": 0.87380594
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 834.195,
+      "end": 835.815,
+      "text": "I don't know if you follow Markievalli,",
+      "confidence": 0.9378743
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 836.435,
+      "end": 838.77496,
+      "text": "but he used to say a very interesting thing.",
+      "confidence": 0.96566486
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 839.635,
+      "end": 842.77496,
+      "text": "He said that a prince should always appear",
+      "confidence": 0.9767287
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 843.315,
+      "end": 844.935,
+      "text": "appear but not be",
+      "confidence": 0.7728349
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 847.16003,
+      "end": 847.66003,
+      "text": "religious,",
+      "confidence": 0.9992211
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 848.28,
+      "end": 848.78,
+      "text": "compassionate,",
+      "confidence": 0.9992805
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 849.88,
+      "end": 850.38,
+      "text": "trustworthy,",
+      "confidence": 0.9992768
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 851.16003,
+      "end": 852.7,
+      "text": "humane, and honest.",
+      "confidence": 0.9757107
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 854.92,
+      "end": 855.82,
+      "text": "Do you think",
+      "confidence": 0.9849518
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 856.6,
+      "end": 857.42,
+      "text": "this particular",
+      "confidence": 0.9992159
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 857.72003,
+      "end": 858.22003,
+      "text": "projection",
+      "confidence": 0.9980432
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 858.68,
+      "end": 864.215,
+      "text": "of I've heard you I've watched a lot of your interviews of late, and I've heard you say repeatedly",
+      "confidence": 0.9844778
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 865.315,
+      "end": 869.09503,
+      "text": "that you're not formidable and use words like that.",
+      "confidence": 0.9716331
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 870.195,
+      "end": 871.73505,
+      "text": "This projection of humility,",
+      "confidence": 0.9936986
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 872.275,
+      "end": 876.93,
+      "text": "is it apt for the world we live in or the world you're walking into?",
+      "confidence": 0.96494216
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 881.47,
+      "end": 883.97,
+      "text": "I'm not sure it's apt for either",
+      "confidence": 0.9986872
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 885.55,
+      "end": 886.45,
+      "text": "one, but,",
+      "confidence": 0.88880455
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 888.325,
+      "end": 889.385,
+      "text": "when I was",
+      "confidence": 0.9512885
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 889.925,
+      "end": 890.425,
+      "text": "19,",
+      "confidence": 0.97848713
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 891.125,
+      "end": 892.90497,
+      "text": "to go back to what you said, I assumed",
+      "confidence": 0.98234314
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 893.765,
+      "end": 913.27,
+      "text": "that the people running these big tech companies really had it all figured out and there were, you know, adults in the room and somebody had a plan and there were these people that were like way different than me that understood how to do things and, you know, had this like, the companies were like running very well and there was like not much drama and everything was like, you know, just everything",
+      "confidence": 0.9435628
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 913.97003,
+      "end": 915.59,
+      "text": "was being handled by the adults.",
+      "confidence": 0.915482
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 917.265,
+      "end": 927.205,
+      "text": "And now that I'm supposed to be the adult in the room, I will tell you, I think no one has a plan, no one really has it all working smoothly, everyone, or at least I, am figuring out as they go.",
+      "confidence": 0.9678912
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 927.745,
+      "end": 928.245,
+      "text": "And,",
+      "confidence": 0.91671973
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 930.27,
+      "end": 935.97,
+      "text": "you know, you have things you want to build and then things go wrong and you bet on the wrong people or the right people, and",
+      "confidence": 0.93902117
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 936.35,
+      "end": 944.21,
+      "text": "you get a technological breakthrough here or you don't there, and you just keep putting one foot in front of another and you put your head down and work and you,",
+      "confidence": 0.8995489
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 944.72504,
+      "end": 949.28503,
+      "text": "you know, you have these like tactics that some of them become great strategies, some of them don't.",
+      "confidence": 0.94676673
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 950.16504,
+      "end": 950.66504,
+      "text": "You",
+      "confidence": 0.99351573
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 951.525,
+      "end": 956.185,
+      "text": "try something and the market reacts in some way, or your competitors react in some way, and you do something else.",
+      "confidence": 0.9618256
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 959.29004,
+      "end": 965.79004,
+      "text": "And now my conception is everybody is kind of figuring it out as they go. Everybody is like learning on the job, and",
+      "confidence": 0.96253353
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 968.01,
+      "end": 972.27,
+      "text": "I don't think that's like false humility. I think that's just the way the world works, and",
+      "confidence": 0.9416294
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 973.395,
+      "end": 974.135,
+      "text": "it's like a",
+      "confidence": 0.90449494
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 975.31506,
+      "end": 975.81506,
+      "text": "little",
+      "confidence": 0.999757
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 977.155,
+      "end": 980.53503,
+      "text": "it's a little strange to be on this side of it, but that is what it seems like.",
+      "confidence": 0.9878911
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 981.075,
+      "end": 984.215,
+      "text": "I'm not even speaking so much about the authenticity",
+      "confidence": 0.98153275
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 984.67505,
+      "end": 986.29504,
+      "text": "of the humility or not,",
+      "confidence": 0.96795243
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 986.755,
+      "end": 987.255,
+      "text": "but",
+      "confidence": 0.99870706
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 988.19,
+      "end": 994.13,
+      "text": "more again from the lens of somebody starting to build for tomorrow because that's who we speak to.",
+      "confidence": 0.96410304
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 994.75,
+      "end": 997.71,
+      "text": "Is that a good image to project into the world? Does it",
+      "confidence": 0.9976373
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1000.72504,
+      "end": 1005.865,
+      "text": "the image of humility really work today? You mean, should someone project that image? Yeah.",
+      "confidence": 0.9053776
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1007.085,
+      "end": 1007.585,
+      "text": "I",
+      "confidence": 0.9987344
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1008.085,
+      "end": 1011.465,
+      "text": "mean, I certainly have a very negative",
+      "confidence": 0.9715695
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1012.245,
+      "end": 1012.745,
+      "text": "reaction",
+      "confidence": 0.9989606
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1013.125,
+      "end": 1013.625,
+      "text": "to",
+      "confidence": 0.99753016
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1015.87,
+      "end": 1016.69,
+      "text": "people who",
+      "confidence": 0.9994136
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1017.83,
+      "end": 1018.33,
+      "text": "are",
+      "confidence": 0.99992657
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1019.47003,
+      "end": 1022.21,
+      "text": "projecting certainty and confidence when,",
+      "confidence": 0.97865963
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1023.47003,
+      "end": 1032.145,
+      "text": "they don't really know what's going to happen. And the reason is not just because it's annoying, which it is, but also because I think if you have that kind of a mindset,",
+      "confidence": 0.9872215
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1032.525,
+      "end": 1035.1051,
+      "text": "it is harder to have the culture of",
+      "confidence": 0.9994572
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1036.045,
+      "end": 1037.185,
+      "text": "intellectual openness",
+      "confidence": 0.99930155
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1038.045,
+      "end": 1038.545,
+      "text": "and",
+      "confidence": 0.9695823
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1039.5651,
+      "end": 1040.625,
+      "text": "to sort of like",
+      "confidence": 0.98647213
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1041.0851,
+      "end": 1043.3451,
+      "text": "listen to other viewpoints and make good decisions.",
+      "confidence": 0.9935083
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1044.36,
+      "end": 1048.22,
+      "text": "A thing I say all the time to people is no one knows what happens next.",
+      "confidence": 0.9781045
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1048.76,
+      "end": 1064.555,
+      "text": "And the more you forget that and the more you're like I am smarter than everybody else, I have a master plan, I'm not going to pay attention to like what my users are saying or where the technology takes us or how the world is reacting, but you know, I know better and the world doesn't know as much, I think you just make worse decisions.",
+      "confidence": 0.96813613
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1065.415,
+      "end": 1067.435,
+      "text": "So, having that kind of open mindset,",
+      "confidence": 0.9514247
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1068.935,
+      "end": 1070.075,
+      "text": "and the sort of",
+      "confidence": 0.8792499
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1070.775,
+      "end": 1072.235,
+      "text": "like curiosity and",
+      "confidence": 0.9456809
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1073.85,
+      "end": 1078.03,
+      "text": "willingness to adapt to new data and change your mind, I think that's super important.",
+      "confidence": 0.97947514
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1079.53,
+      "end": 1085.87,
+      "text": "Like the number of times we have thought we knew something to get smacked in the face by reality here",
+      "confidence": 0.97122496
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1086.17,
+      "end": 1086.83,
+      "text": "has been",
+      "confidence": 0.7556056
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1087.565,
+      "end": 1091.1849,
+      "text": "a lot. And one of our strengths as a company is",
+      "confidence": 0.97456723
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1091.485,
+      "end": 1094.385,
+      "text": "when that happens, we change what we're going to do. That's",
+      "confidence": 0.9264079
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1095.085,
+      "end": 1095.585,
+      "text": "been,",
+      "confidence": 0.96218944
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1095.885,
+      "end": 1099.105,
+      "text": "I think that's been really great and a big part of what's helped us succeed.",
+      "confidence": 0.9863555
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1101.6,
+      "end": 1107.38,
+      "text": "So, maybe there are other ways to succeed and maybe, you know, projecting a ton of bravado into the world works,",
+      "confidence": 0.9625048
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1107.68,
+      "end": 1108.18,
+      "text": "but",
+      "confidence": 0.99785596
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1110.48,
+      "end": 1115.78,
+      "text": "the best founders that I have watched up close throughout my career, have all been more like the",
+      "confidence": 0.959124
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1118.585,
+      "end": 1127.885,
+      "text": "sort of quick learning and adapting style. And you probably know more about this than most because of your role at y combinator. I have a lot of data points on it at least. Yeah. Yeah.",
+      "confidence": 0.9289554
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1131.09,
+      "end": 1139.03,
+      "text": "When we met in Washington a couple of years a couple of years ago at the White House, I remember when we were speaking and you went somewhere, I was speaking to your partner.",
+      "confidence": 0.962766
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1139.57,
+      "end": 1141.03,
+      "text": "And you guys had a kid.",
+      "confidence": 0.97722656
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1141.49,
+      "end": 1142.23,
+      "text": "We did.",
+      "confidence": 0.99984
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1142.985,
+      "end": 1144.525,
+      "text": "And how is that?",
+      "confidence": 0.93440044
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1145.625,
+      "end": 1150.205,
+      "text": "It is my favorite thing ever. But, I mean, I know that, like, I have nothing that is not a cliche to say here.",
+      "confidence": 0.9429259
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1150.505,
+      "end": 1151.005,
+      "text": "Mhmm.",
+      "confidence": 0.8922107
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1151.625,
+      "end": 1155.005,
+      "text": "But it is the coolest, most amazing, most, like,",
+      "confidence": 0.9342364
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1156.5599,
+      "end": 1160.1,
+      "text": "emotionally overwhelming in the best ways, and hard ways to,",
+      "confidence": 0.9137794
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1160.64,
+      "end": 1161.78,
+      "text": "experience everything",
+      "confidence": 0.9114337
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1163.28,
+      "end": 1170.66,
+      "text": "everyone said about how great it is, how intense it is, how it's like a kind of love you didn't know you could feel. It's all true. I have nothing",
+      "confidence": 0.97429454
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1171.2949,
+      "end": 1173.615,
+      "text": "to add other than I strongly recommend it, and I think,",
+      "confidence": 0.94905317
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1174.6549,
+      "end": 1176.275,
+      "text": "it's been really wonderful. It's amazing.",
+      "confidence": 0.99651384
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1177.375,
+      "end": 1180.0349,
+      "text": "So I ponder on this a lot, Sam.",
+      "confidence": 0.98174495
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1181.135,
+      "end": 1181.635,
+      "text": "Kids.",
+      "confidence": 0.783185
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1182.095,
+      "end": 1183.5549,
+      "text": "Why people have kids.",
+      "confidence": 0.9489503
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1184.37,
+      "end": 1186.15,
+      "text": "And also questions like,",
+      "confidence": 0.87981474
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1186.77,
+      "end": 1189.27,
+      "text": "what happens to religion and marriage tomorrow?",
+      "confidence": 0.92750305
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1189.65,
+      "end": 1197.99,
+      "text": "Can I ask you why you had a kid? Like, family has always been an incredibly important thing to me, and going like, it just it felt like",
+      "confidence": 0.98850876
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1202.0349,
+      "end": 1203.495,
+      "text": "it felt like the most,",
+      "confidence": 0.95056057
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1204.4349,
+      "end": 1206.0549,
+      "text": "and I didn't even know how",
+      "confidence": 0.9972406
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1206.4349,
+      "end": 1216.03,
+      "text": "much I underestimated what it was actually going to be like, but it felt like the most important and meaningful and fulfilling thing I could imagine doing and it has so far, so early,",
+      "confidence": 0.9593305
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1216.65,
+      "end": 1217.63,
+      "text": "exceeded all expectations.",
+      "confidence": 0.9562402
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1219.13,
+      "end": 1220.51,
+      "text": "Do you think it's the biological",
+      "confidence": 0.9986871
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1221.21,
+      "end": 1222.59,
+      "text": "need to procreate?",
+      "confidence": 0.9989161
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1223.29,
+      "end": 1225.39,
+      "text": "I don't know. There's like it this seems like",
+      "confidence": 0.92704654
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1226.33,
+      "end": 1227.39,
+      "text": "a thing that is",
+      "confidence": 0.99479055
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1227.77,
+      "end": 1229.55,
+      "text": "so deep, it's difficult to put",
+      "confidence": 0.95918655
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1230.275,
+      "end": 1231.495,
+      "text": "into words, but",
+      "confidence": 0.99331504
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1233.1549,
+      "end": 1234.855,
+      "text": "I feel confident, like",
+      "confidence": 0.91686344
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1235.875,
+      "end": 1236.9349,
+      "text": "everyone I know,",
+      "confidence": 0.92581695
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1238.595,
+      "end": 1242.5349,
+      "text": "looking back on their life who has had a great career and had a family,",
+      "confidence": 0.95143294
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1243.315,
+      "end": 1244.615,
+      "text": "has either said,",
+      "confidence": 0.9732612
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1245.28,
+      "end": 1256.02,
+      "text": "you know, I'm so glad I took the time to have kids. That was one of the most important things I've ever done, the best things I've ever done, or they've said that was by far the best thing I've ever done. That was way more important than any of the work I ever did.",
+      "confidence": 0.9735668
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1256.88,
+      "end": 1257.38,
+      "text": "And",
+      "confidence": 0.9950257
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1257.735,
+      "end": 1263.195,
+      "text": "I was like willing to take the leap of faith that that would be true for me too, and it certainly seems like it will be. It's like,",
+      "confidence": 0.9556818
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1263.495,
+      "end": 1267.595,
+      "text": "yeah, it is, and if it is just a biological hack, I don't care. I'm so happy.",
+      "confidence": 0.9544089
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1268.455,
+      "end": 1271.515,
+      "text": "But it, you know, like there's a sense of",
+      "confidence": 0.9144249
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1272.8,
+      "end": 1273.3,
+      "text": "responsibility",
+      "confidence": 0.99936897
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1273.84,
+      "end": 1274.98,
+      "text": "and kind of like",
+      "confidence": 0.85634285
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1275.84,
+      "end": 1278.98,
+      "text": "family is the word that keeps coming to mind that, is just really great.",
+      "confidence": 0.92726624
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1279.52,
+      "end": 1282.26,
+      "text": "The world seems to be having lesser kids, and",
+      "confidence": 0.9732903
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1283.52,
+      "end": 1286.26,
+      "text": "do you have an insight into the future of",
+      "confidence": 0.9890555
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1287.795,
+      "end": 1289.415,
+      "text": "marriage, religion, and kids?",
+      "confidence": 0.9568328
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1289.875,
+      "end": 1292.8551,
+      "text": "Yeah. I hope that creating family, creating community,",
+      "confidence": 0.9954269
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1293.555,
+      "end": 1295.015,
+      "text": "whatever you want to call it,",
+      "confidence": 0.9145567
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1296.675,
+      "end": 1297.175,
+      "text": "will",
+      "confidence": 0.9992538
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1297.875,
+      "end": 1301.655,
+      "text": "become far more important in a sort of post AGI world.",
+      "confidence": 0.978957
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1302.28,
+      "end": 1306.62,
+      "text": "I think it's a real problem for society that those things have been in retreat.",
+      "confidence": 0.99628043
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1307.48,
+      "end": 1308.54,
+      "text": "I think that",
+      "confidence": 0.9982237
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1310.4401,
+      "end": 1313.42,
+      "text": "that just feels strictly bad to me. I have, I don't,",
+      "confidence": 0.91140074
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1314.055,
+      "end": 1317.515,
+      "text": "I'm obviously not sure why that's been happening, but I hope we'll really",
+      "confidence": 0.9912437
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1317.8151,
+      "end": 1322.715,
+      "text": "reverse course on that. And in a world where people have more abundance, more time,",
+      "confidence": 0.99271834
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1323.095,
+      "end": 1323.995,
+      "text": "more sort of",
+      "confidence": 0.9916568
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1325.8151,
+      "end": 1326.3151,
+      "text": "resources",
+      "confidence": 0.9860481
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1326.855,
+      "end": 1327.355,
+      "text": "and",
+      "confidence": 0.7634953
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1327.735,
+      "end": 1329.115,
+      "text": "potential and ability,",
+      "confidence": 0.989865
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1330.62,
+      "end": 1335.4401,
+      "text": "I think it's, like, pretty clear that family and community are two of the things that make us the happiest,",
+      "confidence": 0.96547526
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1336.14,
+      "end": 1338.7201,
+      "text": "and I hope we will turn back to that.",
+      "confidence": 0.99832535
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1340.06,
+      "end": 1342.4801,
+      "text": "As societies get more affluent,",
+      "confidence": 0.9966073
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1343.5751,
+      "end": 1345.8351,
+      "text": "if one were to buy into the mimetic",
+      "confidence": 0.9394635
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1346.535,
+      "end": 1347.755,
+      "text": "desires of people,",
+      "confidence": 0.9892157
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1348.535,
+      "end": 1350.0751,
+      "text": "we all tend to want",
+      "confidence": 0.99759257
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1350.615,
+      "end": 1352.9551,
+      "text": "what other people want, not necessarily",
+      "confidence": 0.97569925
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1353.495,
+      "end": 1354.9551,
+      "text": "what other people have.",
+      "confidence": 0.9963118
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1355.9901,
+      "end": 1357.6101,
+      "text": "If we all had more,",
+      "confidence": 0.98601896
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1358.79,
+      "end": 1362.01,
+      "text": "do you think we would still want more if we all had enough?",
+      "confidence": 0.978549
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1363.43,
+      "end": 1365.4501,
+      "text": "I I do sort of think that human",
+      "confidence": 0.9799416
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1366.87,
+      "end": 1367.37,
+      "text": "demand,",
+      "confidence": 0.81853336
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1368.6749,
+      "end": 1369.1749,
+      "text": "desire,",
+      "confidence": 0.987114
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1369.875,
+      "end": 1371.8949,
+      "text": "ability to play status games, whatever,",
+      "confidence": 0.96041566
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1373.075,
+      "end": 1374.215,
+      "text": "it seems pretty limitless,",
+      "confidence": 0.80478245
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1375.1549,
+      "end": 1377.0149,
+      "text": "and I don't think that's necessarily bad,",
+      "confidence": 0.92381984
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1378.995,
+      "end": 1380.1349,
+      "text": "or not all bad.",
+      "confidence": 0.86717296
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1380.99,
+      "end": 1384.69,
+      "text": "But, yeah, I think we will figure out new things to want and new things to compete over.",
+      "confidence": 0.96541476
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1386.03,
+      "end": 1387.8099,
+      "text": "Do you think the world retains,",
+      "confidence": 0.94409436
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1389.07,
+      "end": 1394.77,
+      "text": "largely the world retains the current model of capitalism and democracy in a way?",
+      "confidence": 0.94485193
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1395.515,
+      "end": 1398.175,
+      "text": "Let me give you a scenario. What happens if",
+      "confidence": 0.9930457
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1398.4751,
+      "end": 1399.6151,
+      "text": "a company x,",
+      "confidence": 0.9411935
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1400.9551,
+      "end": 1401.935,
+      "text": "let's say OpenAI,",
+      "confidence": 0.9532339
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1403.035,
+      "end": 1405.675,
+      "text": "gets to the point where it is 50%",
+      "confidence": 0.99490356
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1405.675,
+      "end": 1406.655,
+      "text": "of world GDP?",
+      "confidence": 0.9051149
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1407.78,
+      "end": 1408.52,
+      "text": "Does society",
+      "confidence": 0.993497
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1409.38,
+      "end": 1410.4401,
+      "text": "allow for that?",
+      "confidence": 0.91934747
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1410.98,
+      "end": 1411.3,
+      "text": "Or",
+      "confidence": 0.88450485
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1412.02,
+      "end": 1422.2001,
+      "text": "I would bet not. I don't think that will happen. I think this will be a much more distributed thing, but if for some reason that did happen, I think society would say, we don't think so, like let's figure out",
+      "confidence": 0.93006897
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1423.395,
+      "end": 1424.1951,
+      "text": "something to do here.",
+      "confidence": 0.9970225
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1426.275,
+      "end": 1428.4551,
+      "text": "The analogy I like most for",
+      "confidence": 0.95217586
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1428.8351,
+      "end": 1430.055,
+      "text": "AI is the transistor,",
+      "confidence": 0.98621684
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1430.755,
+      "end": 1448.07,
+      "text": "which was this really important scientific discovery that for a while looked like it was going to capture a ton of the value, and then turned out to be something that just gets built into like tons of products and services and you don't really think about, you know, the fact that you're using transistors all day long. It's just kind of in everything and all these companies",
+      "confidence": 0.97329867
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1448.77,
+      "end": 1452.735,
+      "text": "make incredible products and profits from it in this very distributed way.",
+      "confidence": 0.997832
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1453.215,
+      "end": 1458.115,
+      "text": "So I would guess that's what happens and it's not like one company is ever half of global GDP.",
+      "confidence": 0.90979385
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1458.415,
+      "end": 1462.4349,
+      "text": "At one point, I did worry that that might happen, but I think that was a naive take.",
+      "confidence": 0.94448715
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1463.775,
+      "end": 1465.075,
+      "text": "Right. But",
+      "confidence": 0.98323953
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1465.5701,
+      "end": 1469.43,
+      "text": "do you think the odds of the world moving towards socialism go up?",
+      "confidence": 0.96435857
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1469.81,
+      "end": 1474.23,
+      "text": "Or if something gets that large, will it get nationalized and we become more socialist?",
+      "confidence": 0.9420243
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1475.49,
+      "end": 1482.375,
+      "text": "I don't know if something will get nationalized, I don't know if the world will, like, officially turn towards socialism, but I expect",
+      "confidence": 0.95934683
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1483.475,
+      "end": 1483.975,
+      "text": "that,",
+      "confidence": 0.7893356
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1485.075,
+      "end": 1495.4299,
+      "text": "I expect that like, social support or redistribution or whatever you want to call it, will increase over time. As society gets richer and as sort of the technological landscape shifts,",
+      "confidence": 0.93313646
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1495.8099,
+      "end": 1500.3099,
+      "text": "I don't know what way it's going to happen and I expect in different countries it will happen in different ways. Like,",
+      "confidence": 0.94238853
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1501.09,
+      "end": 1513.675,
+      "text": "I think you'll see experimentation of like new kinds of sovereign wealth funds, new kinds of like universal basic income ideas, redistribution of AI compute, I don't know exactly what. But I suspect we'll see a lot of experimentation in society here.",
+      "confidence": 0.9439065
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1514.935,
+      "end": 1519.035,
+      "text": "On universal basic income, I think Worldcoin was a very interesting",
+      "confidence": 0.9485993
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1519.51,
+      "end": 1522.25,
+      "text": "experiment. Can you tell us a bit about what's happening there?",
+      "confidence": 0.99441755
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1522.95,
+      "end": 1524.57,
+      "text": "The idea was could we",
+      "confidence": 0.954045
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1524.95,
+      "end": 1529.9299,
+      "text": "you know, we have all this AI coming, we really want to like care about humans as special.",
+      "confidence": 0.8830141
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1530.23,
+      "end": 1538.0549,
+      "text": "Can we find a way to a privacy preserving way to identify unique humans and then create a new network and a new currency around that?",
+      "confidence": 0.989661
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1538.595,
+      "end": 1542.215,
+      "text": "So it's a very interesting experiment, still early but growing quite fast.",
+      "confidence": 0.92920655
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1543.1549,
+      "end": 1544.855,
+      "text": "If AGI eliminates",
+      "confidence": 0.9967923
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1546.47,
+      "end": 1549.61,
+      "text": "scarcity, a scarcity by virtue of increasing productivity,",
+      "confidence": 0.83769155
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1552.79,
+      "end": 1555.9299,
+      "text": "could one also assume that it would be deflationary",
+      "confidence": 0.9898654
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1556.3099,
+      "end": 1556.97,
+      "text": "in nature?",
+      "confidence": 0.93153274
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1558.39,
+      "end": 1560.57,
+      "text": "Capital or money loses",
+      "confidence": 0.97976524
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1561.1449,
+      "end": 1562.6849,
+      "text": "its ability to return",
+      "confidence": 0.9963267
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1564.105,
+      "end": 1565.1649,
+      "text": "a rate of return,",
+      "confidence": 0.94244146
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1565.7849,
+      "end": 1566.2849,
+      "text": "and",
+      "confidence": 0.9991997
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1566.9049,
+      "end": 1570.5249,
+      "text": "capital no longer remains a moat in the world of tomorrow?",
+      "confidence": 0.9841005
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1571.705,
+      "end": 1573.325,
+      "text": "I feel confused about this.",
+      "confidence": 0.9946243
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1574.105,
+      "end": 1574.7649,
+      "text": "I think",
+      "confidence": 0.99973816
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1576.5599,
+      "end": 1580.82,
+      "text": "if you like look at the basic economic principles, it's supposed to be hugely deflationary.",
+      "confidence": 0.9360689
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1583.6,
+      "end": 1584.4199,
+      "text": "And yet,",
+      "confidence": 0.96613896
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1586.08,
+      "end": 1592.355,
+      "text": "if the world decides that, you know, building out AI compute today is super important to things tomorrow,",
+      "confidence": 0.9723553
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1594.895,
+      "end": 1601.395,
+      "text": "maybe something very strange happens with the economy and maybe capital is really, really important because every piece of compute",
+      "confidence": 0.9625368
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1601.6951,
+      "end": 1602.5951,
+      "text": "is so valuable.",
+      "confidence": 0.9884989
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1606.87,
+      "end": 1609.45,
+      "text": "I was asking someone at dinner the other night if they thought",
+      "confidence": 0.97422004
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1609.91,
+      "end": 1613.45,
+      "text": "that interest rates should be minus 2% or 25%.",
+      "confidence": 0.9389587
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1613.91,
+      "end": 1621.905,
+      "text": "And he kind of laughed. He's like, well, that's a ridiculous question. It has to be, and then he stopped and said, actually I'm not sure. So I think it's like,",
+      "confidence": 0.9379618
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1622.525,
+      "end": 1624.145,
+      "text": "yeah, it should be deflationary",
+      "confidence": 0.9822774
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1624.765,
+      "end": 1627.905,
+      "text": "eventually, but I could see it being weird in the short term.",
+      "confidence": 0.9895454
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1628.525,
+      "end": 1633.265,
+      "text": "That's actually a very interesting thing to say. Do you suspect it would be minus 2%?",
+      "confidence": 0.9872805
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1635.81,
+      "end": 1636.31,
+      "text": "Eventually.",
+      "confidence": 0.9772602
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1637.73,
+      "end": 1651.585,
+      "text": "Right. But I'm not sure. And maybe it's just like we're in this massive expansionary time where you're trying to like build the Dyson sphere in the solar system, and you're borrowing money at crazy rates to do that, and then there's more expansion beyond it, more and more, and I don't know. Like,",
+      "confidence": 0.9229163
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1653.645,
+      "end": 1657.8251,
+      "text": "I find it very hard to see more than a few years in the future at this point.",
+      "confidence": 0.9920113
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1658.365,
+      "end": 1661.185,
+      "text": "The conversation we were having a couple of weeks ago,",
+      "confidence": 0.9516667
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1661.55,
+      "end": 1664.6901,
+      "text": "I was doing more research on the sectors you had suggested.",
+      "confidence": 0.9944532
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1666.1901,
+      "end": 1668.77,
+      "text": "I think we agreed on older and sicker world.",
+      "confidence": 0.9318263
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1670.1901,
+      "end": 1671.9701,
+      "text": "You also made a case for",
+      "confidence": 0.9915325
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1672.3501,
+      "end": 1673.5701,
+      "text": "as discretionary",
+      "confidence": 0.86147
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1674.1101,
+      "end": 1675.25,
+      "text": "spend goes up,",
+      "confidence": 0.98981076
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1675.875,
+      "end": 1681.415,
+      "text": "gateway luxury brands might do well. Yeah. What happens to them in a deflationary world?",
+      "confidence": 0.9801533
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1682.035,
+      "end": 1685.415,
+      "text": "Because the value of these purchases go down.",
+      "confidence": 0.9752736
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1685.795,
+      "end": 1693.82,
+      "text": "Maybe not. I mean, deflate in a deflationary world, some things can face huge deflationary pressure and others can be the sink for all of the extra capital.",
+      "confidence": 0.9601358
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1694.12,
+      "end": 1699.82,
+      "text": "So I'm actually not sure they do go down in a deflationary world. You know, I would bet they go up, actually.",
+      "confidence": 0.9713056
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1700.28,
+      "end": 1701.765,
+      "text": "Yep. I think so.",
+      "confidence": 0.9317306
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1702.405,
+      "end": 1706.185,
+      "text": "Because the extra the excess capital has to flow somewhere. When you look at classical",
+      "confidence": 0.9750383
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1707.045,
+      "end": 1710.585,
+      "text": "economic theory like Adam Smith and stuff like that,",
+      "confidence": 0.92662174
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1711.365,
+      "end": 1714.265,
+      "text": "the Austrian school always spoke about the marginal",
+      "confidence": 0.98318976
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1714.725,
+      "end": 1716.025,
+      "text": "utility of things.",
+      "confidence": 0.9979965
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1716.78,
+      "end": 1719.92,
+      "text": "If you have one kettle at home to make tea,",
+      "confidence": 0.997023
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1720.38,
+      "end": 1721.92,
+      "text": "it has x in value.",
+      "confidence": 0.9905809
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1722.4601,
+      "end": 1726.88,
+      "text": "When you have two kettles, it still has some value. But when you have 20 kettles,",
+      "confidence": 0.99357986
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1727.42,
+      "end": 1730.7949,
+      "text": "it has no value. Do Do you think the world goes in that direction?",
+      "confidence": 0.9669558
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1731.495,
+      "end": 1734.075,
+      "text": "Yeah, so 20 kettles doesn't help you.",
+      "confidence": 0.885858
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1734.695,
+      "end": 1737.6749,
+      "text": "But even if you're only going to, you know, spend",
+      "confidence": 0.93746537
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1739.975,
+      "end": 1743.915,
+      "text": "two hours a day playing video games or whatever, and that amount of time is fixed,",
+      "confidence": 0.9714972
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1744.695,
+      "end": 1754.92,
+      "text": "and and so you don't need twenty hours worth of video games, if that two hours of games gets better and more entertaining forever and ever and ever and just keeps getting more and more compelling, that still has value to you.",
+      "confidence": 0.9620463
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1755.78,
+      "end": 1758.28,
+      "text": "And I think there are a lot of categories where",
+      "confidence": 0.99341327
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1760.015,
+      "end": 1762.6749,
+      "text": "we will find that people can just",
+      "confidence": 0.9991509
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1762.975,
+      "end": 1764.755,
+      "text": "get much better stuff,",
+      "confidence": 0.97234666
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1765.375,
+      "end": 1766.4349,
+      "text": "even if they don't",
+      "confidence": 0.9997575
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1766.815,
+      "end": 1768.9149,
+      "text": "necessarily get more of them.",
+      "confidence": 0.99849796
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1769.855,
+      "end": 1780.9801,
+      "text": "I think we'll see this in a really big way. Do you think there's a use case for the rappers that are getting built on these large models right now? Like, I was in, The US recently, and I met Harvey, for example.",
+      "confidence": 0.9858132
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1782.0801,
+      "end": 1784.66,
+      "text": "What happens to a rapper like that?",
+      "confidence": 0.9531117
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1785.825,
+      "end": 1786.8049,
+      "text": "Does it get",
+      "confidence": 0.9994263
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1788.865,
+      "end": 1792.1649,
+      "text": "innovated out by the model itself at some point of time?",
+      "confidence": 0.99426025
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1793.1849,
+      "end": 1801.95,
+      "text": "Some of them, yes, and some of them, no. And it's, you know, it's like sometimes you can obviously predict when one is going to go one way or the other, and sometimes it really depends on the choices",
+      "confidence": 0.94666857
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1802.57,
+      "end": 1803.95,
+      "text": "the company makes down,",
+      "confidence": 0.92031544
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1805.0499,
+      "end": 1805.95,
+      "text": "down the line.",
+      "confidence": 0.9930272
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1806.4099,
+      "end": 1808.11,
+      "text": "The main thing I would say is,",
+      "confidence": 0.9578419
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1810.3049,
+      "end": 1813.605,
+      "text": "using AI itself does not create a defensible business.",
+      "confidence": 0.9985343
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1814.225,
+      "end": 1820.4049,
+      "text": "You see this with every technology boom where people are like, well, I'm a start up doing X and because I'm using the latest",
+      "confidence": 0.9126008
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1820.865,
+      "end": 1824.485,
+      "text": "technology trend, the normal rules of business don't apply to me.",
+      "confidence": 0.98020995
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1824.91,
+      "end": 1826.13,
+      "text": "And that's never true.",
+      "confidence": 0.9936017
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1826.51,
+      "end": 1827.01,
+      "text": "You've",
+      "confidence": 0.997475
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1829.87,
+      "end": 1830.77,
+      "text": "always got to",
+      "confidence": 0.9768036
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1831.15,
+      "end": 1834.85,
+      "text": "like parlay that advantage that comes from using the new technology into",
+      "confidence": 0.96053904
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1835.23,
+      "end": 1837.73,
+      "text": "a durable business with real value that gets created,",
+      "confidence": 0.96600777
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1838.155,
+      "end": 1841.375,
+      "text": "And it's kind of a race against the clock to do that. So,",
+      "confidence": 0.9861278
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1843.275,
+      "end": 1843.755,
+      "text": "you know,",
+      "confidence": 0.97841096
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1844.555,
+      "end": 1850.335,
+      "text": "you can definitely build an amazing thing with AI, but then you have to go build a real defensible layer around it.",
+      "confidence": 0.9786295
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1850.8099,
+      "end": 1856.51,
+      "text": "If I were to build a business on top of your model, let me give you the example of Amazon, for example.",
+      "confidence": 0.98693746
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1857.0499,
+      "end": 1862.99,
+      "text": "If I sold a certain kind of t shirt, and I sold a lot, and Amazon had all the data,",
+      "confidence": 0.96111614
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1863.885,
+      "end": 1865.105,
+      "text": "Eventually, Amazon",
+      "confidence": 0.99670255
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1865.725,
+      "end": 1870.225,
+      "text": "probably started a white labeled brand, which was very similar to mine",
+      "confidence": 0.9591091
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1870.685,
+      "end": 1871.585,
+      "text": "and cannibalized",
+      "confidence": 0.84260714
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1871.885,
+      "end": 1873.105,
+      "text": "my business almost.",
+      "confidence": 0.9833453
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1874.125,
+      "end": 1880.45,
+      "text": "Should one worry that will happen here as well because you're no longer just a model, but you're foraying into so many different businesses?",
+      "confidence": 0.9337608
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1882.27,
+      "end": 1884.61,
+      "text": "I'd come back to that example of the transistor.",
+      "confidence": 0.932245
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1888.6699,
+      "end": 1889.57,
+      "text": "The, you know,",
+      "confidence": 0.85266525
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1889.87,
+      "end": 1891.25,
+      "text": "we are building this",
+      "confidence": 0.96727276
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1891.9249,
+      "end": 1894.665,
+      "text": "general purpose technology that you can integrate into",
+      "confidence": 0.99420303
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1895.0449,
+      "end": 1895.5449,
+      "text": "something",
+      "confidence": 0.9996395
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1896.005,
+      "end": 1897.3049,
+      "text": "in a lot of ways,",
+      "confidence": 0.95912135
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1899.765,
+      "end": 1911.19,
+      "text": "but we keep following our equivalent of Moore's Law, and the general capability keeps going up. If you build a business that gets better, the business gets better when the model gets better,",
+      "confidence": 0.9722626
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1911.6499,
+      "end": 1913.2699,
+      "text": "then you should keep",
+      "confidence": 0.9942565
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1915.33,
+      "end": 1918.23,
+      "text": "doing, you should keep doing well if we continue to make progress.",
+      "confidence": 0.970133
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1918.61,
+      "end": 1920.1499,
+      "text": "If you build a business where",
+      "confidence": 0.99711514
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1920.485,
+      "end": 1925.4651,
+      "text": "when the model gets better, your business gets worse because the wrapper was too thin or whatever,",
+      "confidence": 0.99036723
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1926.725,
+      "end": 1928.505,
+      "text": "then that's probably bad",
+      "confidence": 0.99901646
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1928.805,
+      "end": 1931.625,
+      "text": "in the same way that it's been bad in other technology revolutions.",
+      "confidence": 0.98491174
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1932.66,
+      "end": 1934.8401,
+      "text": "So, there are clearly companies",
+      "confidence": 0.99397975
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1935.2201,
+      "end": 1942.12,
+      "text": "building on top of AI models that are creating huge value and very deep relationships with their customers for themselves.",
+      "confidence": 0.993285
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1944.515,
+      "end": 1949.175,
+      "text": "Cursor is like a recent example of a company that is just exploding in popularity and",
+      "confidence": 0.97384614
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1949.4751,
+      "end": 1950.775,
+      "text": "I think really durable",
+      "confidence": 0.8848103
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1951.635,
+      "end": 1953.655,
+      "text": "relationships with their customers.",
+      "confidence": 0.97337663
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1954.275,
+      "end": 1958.6151,
+      "text": "And then there's many others that don't, and that's kind of, that's always the case.",
+      "confidence": 0.97813296
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1959.34,
+      "end": 1961.12,
+      "text": "It does seem to me like",
+      "confidence": 0.98060465
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1963.58,
+      "end": 1970.3999,
+      "text": "there are more companies getting created now than in previous technological revolutions that feel like they have a chance at real durability.",
+      "confidence": 0.9881571
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1973.7351,
+      "end": 1976.2351,
+      "text": "Maybe an example we could use to ground this is when",
+      "confidence": 0.948616
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1977.7351,
+      "end": 1981.5951,
+      "text": "the iPhone first came out and the app store first came out, the first set of apps",
+      "confidence": 0.9158343
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1981.9751,
+      "end": 1987.45,
+      "text": "were pretty light and a lot of them ended up being features that kind of made it into future versions of iOS.",
+      "confidence": 0.972859
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1987.75,
+      "end": 1993.61,
+      "text": "You know, you could like sell a flashlight for a dollar that turned on the flash on your phone and",
+      "confidence": 0.9471091
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1994.6299,
+      "end": 2001.165,
+      "text": "you made a lot of dollars doing that, but it wasn't sticky because eventually Apple just added that into the operating system where it belonged. But,",
+      "confidence": 0.96639735
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2001.785,
+      "end": 2006.285,
+      "text": "if you started something that was like complicated and the iPhone was just an enabler for it, like Uber,",
+      "confidence": 0.9415552
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2006.825,
+      "end": 2014.605,
+      "text": "that was a very valuable long term thing to do. And in the early days, like the GPT-three days, I think you had a lot of kind of toy applications, as you should,",
+      "confidence": 0.9681705
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2015.13,
+      "end": 2022.67,
+      "text": "many of which didn't need to be stand alone companies or products. But now, as the market's matured, you're really seeing some of these more durable businesses form.",
+      "confidence": 0.96224874
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2023.29,
+      "end": 2023.79,
+      "text": "So",
+      "confidence": 0.9936162
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2024.25,
+      "end": 2025.7101,
+      "text": "if you lay emphasis",
+      "confidence": 0.93217534
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2026.09,
+      "end": 2030.03,
+      "text": "on owning the customer almost, like the interface with the customer,",
+      "confidence": 0.9504406
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2031.185,
+      "end": 2032.485,
+      "text": "Would you say the relationship",
+      "confidence": 0.9812175
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2032.865,
+      "end": 2033.845,
+      "text": "gets deeper",
+      "confidence": 0.9931025
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2034.945,
+      "end": 2040.165,
+      "text": "when I sell a service on top of your model versus a product? Because if it's a product company,",
+      "confidence": 0.99642926
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2040.945,
+      "end": 2041.445,
+      "text": "the",
+      "confidence": 0.9991793
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2041.825,
+      "end": 2046.085,
+      "text": "the exchange happens once. But if it's a service company, it happens repeatedly,",
+      "confidence": 0.978691
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2046.76,
+      "end": 2049.18,
+      "text": "and there is room for me to build and taste",
+      "confidence": 0.9496666
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2049.48,
+      "end": 2054.14,
+      "text": "in that transaction, which is repetitive in nature. Yeah. Gen generally, I agree with that.",
+      "confidence": 0.9632243
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2054.84,
+      "end": 2059.98,
+      "text": "A small part of my world or a part of my world is creating content, which I do once a month.",
+      "confidence": 0.97970045
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2061.245,
+      "end": 2062.145,
+      "text": "If a model",
+      "confidence": 0.9993677
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2063.085,
+      "end": 2063.905,
+      "text": "to a large",
+      "confidence": 0.8405811
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2064.205,
+      "end": 2064.705,
+      "text": "extent",
+      "confidence": 0.9938479
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2065.085,
+      "end": 2065.585,
+      "text": "is",
+      "confidence": 0.9835774
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2066.125,
+      "end": 2069.825,
+      "text": "able to factor in my vintage, my tenure, and my evolution,",
+      "confidence": 0.97549254
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2070.2852,
+      "end": 2070.7852,
+      "text": "and,",
+      "confidence": 0.98416024
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2072.125,
+      "end": 2074.865,
+      "text": "throughout an output which is predictive in nature",
+      "confidence": 0.8869766
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2075.3901,
+      "end": 2076.29,
+      "text": "with a fair",
+      "confidence": 0.9621838
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2078.11,
+      "end": 2080.03,
+      "text": "degree of fair fair degree of,",
+      "confidence": 0.9210245
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2080.6702,
+      "end": 2081.1702,
+      "text": "efficiency.",
+      "confidence": 0.8269456
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2082.59,
+      "end": 2084.61,
+      "text": "Now if I behave in the same predictable",
+      "confidence": 0.9942655
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2085.1501,
+      "end": 2086.05,
+      "text": "manner tomorrow,",
+      "confidence": 0.91613275
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2086.59,
+      "end": 2089.33,
+      "text": "will be less valuable than me being contrarian?",
+      "confidence": 0.9140533
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2089.9148,
+      "end": 2093.1348,
+      "text": "Contradian not to the world, but contrarian to my own",
+      "confidence": 0.95028526
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2093.595,
+      "end": 2095.615,
+      "text": "behavior almost? So do you think",
+      "confidence": 0.9423265
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2096.315,
+      "end": 2097.055,
+      "text": "the world",
+      "confidence": 0.99860895
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2098.4749,
+      "end": 2098.9749,
+      "text": "inordinately",
+      "confidence": 0.99230033
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2099.4348,
+      "end": 2101.9348,
+      "text": "favors contrarian behavior tomorrow?",
+      "confidence": 0.993536
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2103.03,
+      "end": 2103.53,
+      "text": "Yeah,",
+      "confidence": 0.68757355
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2103.9102,
+      "end": 2106.49,
+      "text": "that's a good point. I think so.",
+      "confidence": 0.9495023
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2107.03,
+      "end": 2107.43,
+      "text": "I think,",
+      "confidence": 0.97609437
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2109.43,
+      "end": 2118.335,
+      "text": "the thing I'm thinking is how much will the models learn to do that. You know, you want to be contrarian and right. Most of the time you're contrarian, you're contrarian and wrong, and that's not that helpful.",
+      "confidence": 0.9394182
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2118.635,
+      "end": 2121.135,
+      "text": "But, but yeah, I bet the ability to come up with",
+      "confidence": 0.924272
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2122.475,
+      "end": 2125.0552,
+      "text": "the kind of contrarian and right idea that the models",
+      "confidence": 0.9505995
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2125.5151,
+      "end": 2128.975,
+      "text": "today just can't do at all, and maybe they'll get better at at some point,",
+      "confidence": 0.9229217
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2130.93,
+      "end": 2132.79,
+      "text": "That value of that should go up over",
+      "confidence": 0.94904786
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2133.97,
+      "end": 2136.8699,
+      "text": "time. Getting good at doing things models can't do",
+      "confidence": 0.99005383
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2137.49,
+      "end": 2139.03,
+      "text": "seems like an obvious",
+      "confidence": 0.9738092
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2139.49,
+      "end": 2150.115,
+      "text": "increase in value. Outside of being contrarian, is there anything else that I could do that a model will take longer to learn? Look, the models are going to be much smarter than we are, but there's a lot of things that people care about",
+      "confidence": 0.9827411
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2150.415,
+      "end": 2152.275,
+      "text": "that have nothing to do with intelligence.",
+      "confidence": 0.98708147
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2154.575,
+      "end": 2157.315,
+      "text": "Maybe there can be like an AI podcast host",
+      "confidence": 0.93256676
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2157.83,
+      "end": 2164.25,
+      "text": "that is much better than you at asking interesting questions and you know, kind of engaging whatever, and",
+      "confidence": 0.9157218
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2164.71,
+      "end": 2166.17,
+      "text": "I personally don't",
+      "confidence": 0.9973397
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2166.47,
+      "end": 2166.97,
+      "text": "think",
+      "confidence": 0.99860495
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2167.27,
+      "end": 2168.57,
+      "text": "that podcast host,",
+      "confidence": 0.98706675
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2169.03,
+      "end": 2181.165,
+      "text": "that AI podcast host is likely to be more popular than you. People really care about other humans. This is like very deep. People want to know a little bit about your life story, what got you here. They want to be able to like talk to other people about this",
+      "confidence": 0.9697283
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2181.545,
+      "end": 2185.645,
+      "text": "shared sense of who you are and there's like some cultural and social value in that.",
+      "confidence": 0.909791
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2186.025,
+      "end": 2187.805,
+      "text": "We are obsessed with other people.",
+      "confidence": 0.9863243
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2189.9202,
+      "end": 2192.26,
+      "text": "And Why is that, Sam? Why do you think that is?",
+      "confidence": 0.9600157
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2193.04,
+      "end": 2196.58,
+      "text": "That, you know, like, I think that's also like deepened in our biology.",
+      "confidence": 0.8851241
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2198.0,
+      "end": 2198.5,
+      "text": "And,",
+      "confidence": 0.86568904
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2199.6,
+      "end": 2203.1401,
+      "text": "you know, again, the earlier comment, you don't fight things that are deep in biology.",
+      "confidence": 0.90630406
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2205.515,
+      "end": 2219.3,
+      "text": "I think I make a ton of sense of why we would evolve that way, but, you know, here we are. So, you know, we're going to keep caring about real people, and even if the AI podcast host is much smarter than you, I think it's very unlikely he'll be more popular than you. So in a perverse",
+      "confidence": 0.9295192
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2219.84,
+      "end": 2220.34,
+      "text": "way,",
+      "confidence": 0.9741938
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2221.4402,
+      "end": 2224.4202,
+      "text": "being stupider will be more novel than being smart?",
+      "confidence": 0.96290165
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2224.8801,
+      "end": 2226.26,
+      "text": "I don't know if it's like,",
+      "confidence": 0.930182
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2227.36,
+      "end": 2227.86,
+      "text": "stupider",
+      "confidence": 0.9923386
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2228.48,
+      "end": 2232.1802,
+      "text": "or smarter that has the novelty, but I think being a real person",
+      "confidence": 0.9856912
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2232.675,
+      "end": 2234.855,
+      "text": "in a world of unlimited AI content",
+      "confidence": 0.9987685
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2235.315,
+      "end": 2236.615,
+      "text": "will increase in value.",
+      "confidence": 0.9741601
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2237.395,
+      "end": 2240.5352,
+      "text": "Is a real person somebody who screws up, unlike a model?",
+      "confidence": 0.9791143
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2241.155,
+      "end": 2251.33,
+      "text": "I mean, certainly real people do screw up, so maybe that's part of what we associate with a real person, I'm not sure. But I do think we just, knowing that it's a real person or not, we really extremely care about.",
+      "confidence": 0.96980804
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2252.9102,
+      "end": 2254.53,
+      "text": "What is the difference between",
+      "confidence": 0.9561278
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2254.83,
+      "end": 2256.53,
+      "text": "AGI and human intelligence?",
+      "confidence": 0.9021236
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2256.99,
+      "end": 2257.9702,
+      "text": "Today and tomorrow?",
+      "confidence": 0.92994624
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2259.87,
+      "end": 2263.1702,
+      "text": "So so, like with GPT five, you have something that is",
+      "confidence": 0.88864845
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2264.1848,
+      "end": 2265.2449,
+      "text": "incredibly smart",
+      "confidence": 0.9990669
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2265.7048,
+      "end": 2266.2048,
+      "text": "in",
+      "confidence": 0.94575185
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2266.665,
+      "end": 2269.2449,
+      "text": "a lot of domains at tasks that take,",
+      "confidence": 0.9467521
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2270.505,
+      "end": 2273.9648,
+      "text": "you know, seconds to a few minutes. It's very superhuman",
+      "confidence": 0.9818881
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2274.265,
+      "end": 2275.005,
+      "text": "at knowledge,",
+      "confidence": 0.99154997
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2275.545,
+      "end": 2276.6848,
+      "text": "at pattern recognition,",
+      "confidence": 0.9980488
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2277.2249,
+      "end": 2280.5598,
+      "text": "at recall on these shorter term tasks.",
+      "confidence": 0.9791174
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2280.94,
+      "end": 2286.48,
+      "text": "But in terms of figuring out what questions to ask or to work on something over a very long period of time,",
+      "confidence": 0.97912997
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2287.3398,
+      "end": 2288.72,
+      "text": "we are definitely not",
+      "confidence": 0.99699557
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2289.5,
+      "end": 2290.7998,
+      "text": "close to human performance.",
+      "confidence": 0.9615327
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2293.575,
+      "end": 2295.5151,
+      "text": "And an interesting example",
+      "confidence": 0.9532014
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2296.135,
+      "end": 2299.7551,
+      "text": "that one of our researchers gave me recently is if you look at our performance in math,",
+      "confidence": 0.9698916
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2302.455,
+      "end": 2308.6099,
+      "text": "you know, a couple of years ago, we could solve math problems that would take like an expert human a few minutes to solve.",
+      "confidence": 0.9724445
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2308.91,
+      "end": 2312.21,
+      "text": "Recently, we got gold level performance on the International Math Olympiad.",
+      "confidence": 0.9640705
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2312.51,
+      "end": 2319.8198,
+      "text": "Each of those problems takes about an hour and a half. So we've gone from a problem, a thinking horizon of a few minutes to an hour and a half.",
+      "confidence": 0.9692258
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2320.4949,
+      "end": 2324.9949,
+      "text": "To prove a new, an important new mathematical theorem maybe takes like a thousand hours.",
+      "confidence": 0.9063965
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2325.375,
+      "end": 2330.515,
+      "text": "And you can predict when we can do a thousand hour problem, but certainly in the world today, we cannot at all.",
+      "confidence": 0.96751904
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2330.9749,
+      "end": 2333.635,
+      "text": "And so that's like another dimension where",
+      "confidence": 0.87894547
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2334.42,
+      "end": 2335.16,
+      "text": "AI can't",
+      "confidence": 0.9974343
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2335.54,
+      "end": 2337.24,
+      "text": "do it. So I was in The US",
+      "confidence": 0.99819916
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2337.6199,
+      "end": 2338.1199,
+      "text": "between",
+      "confidence": 0.9610538
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2338.42,
+      "end": 2343.24,
+      "text": "SF between San Francisco and New York the last couple of months, and I met",
+      "confidence": 0.98865056
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2343.54,
+      "end": 2345.48,
+      "text": "a whole bunch of AI founders.",
+      "confidence": 0.9844057
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2347.875,
+      "end": 2350.535,
+      "text": "The one thing everybody seemed to agree on",
+      "confidence": 0.9649426
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2350.995,
+      "end": 2351.495,
+      "text": "is,",
+      "confidence": 0.7709664
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2352.5151,
+      "end": 2353.0151,
+      "text": "like",
+      "confidence": 0.9980558
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2353.555,
+      "end": 2357.095,
+      "text": "for AI, The US is a few years ahead",
+      "confidence": 0.9810577
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2357.635,
+      "end": 2358.775,
+      "text": "of most others.",
+      "confidence": 0.99082166
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2360.2,
+      "end": 2363.82,
+      "text": "They also thought that for robotics, China seems to be ahead.",
+      "confidence": 0.98448014
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2365.0,
+      "end": 2368.54,
+      "text": "Do you have a view on robotics and what happens there, like humanoid",
+      "confidence": 0.9708717
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2369.0,
+      "end": 2370.46,
+      "text": "or other form of robotics?",
+      "confidence": 0.906544
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2371.56,
+      "end": 2377.155,
+      "text": "I think it will be incredibly important in couple of years. I think, one of the things that is going to feel most",
+      "confidence": 0.97430044
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2377.935,
+      "end": 2383.955,
+      "text": "AGI like is seeing robots just walk by you on the street doing kind of normal day to day tasks.",
+      "confidence": 0.965686
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2386.175,
+      "end": 2388.9949,
+      "text": "Is there a reason why they need to have human like form?",
+      "confidence": 0.93177295
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2389.71,
+      "end": 2391.97,
+      "text": "Well, you can certainly have non humanoid",
+      "confidence": 0.9761524
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2392.27,
+      "end": 2394.85,
+      "text": "forms, but the world is really built for humans.",
+      "confidence": 0.9787915
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2395.31,
+      "end": 2396.69,
+      "text": "You know, like door handles,",
+      "confidence": 0.9386786
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2397.8699,
+      "end": 2399.09,
+      "text": "steering wheels in cars,",
+      "confidence": 0.9713527
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2399.55,
+      "end": 2401.89,
+      "text": "factories, like a lot of this is built for,",
+      "confidence": 0.92907184
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2403.245,
+      "end": 2405.905,
+      "text": "we built it for our own kind of morphology.",
+      "confidence": 0.9636228
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2406.365,
+      "end": 2409.585,
+      "text": "So there will of course be other specialized robots too, but,",
+      "confidence": 0.9009351
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2411.885,
+      "end": 2414.465,
+      "text": "the world like is built and I hope stays built",
+      "confidence": 0.8938659
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2414.7651,
+      "end": 2415.345,
+      "text": "for us.",
+      "confidence": 0.89398134
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2415.99,
+      "end": 2418.89,
+      "text": "You know, robots that match that form factor, it seems like a good idea.",
+      "confidence": 0.982457
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2419.43,
+      "end": 2422.25,
+      "text": "If I'm a young guy looking to start a robotics company,",
+      "confidence": 0.9814814
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2422.79,
+      "end": 2424.97,
+      "text": "but somebody else has manufacturing",
+      "confidence": 0.9989275
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2425.43,
+      "end": 2432.455,
+      "text": "scale, and I really want, as a Indian guy, to be able to build and compete there, How do I make up for manufacturing",
+      "confidence": 0.96103615
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2432.995,
+      "end": 2433.495,
+      "text": "scale",
+      "confidence": 0.9592699
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2434.0352,
+      "end": 2435.575,
+      "text": "as someone starting up?",
+      "confidence": 0.9875365
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2437.875,
+      "end": 2446.8098,
+      "text": "Well, eventually, once you build enough robots, they can make more copies of themselves. And, but in the short term, I think you probably have to find some really good partners that know a lot about manufacturing.",
+      "confidence": 0.97985995
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2447.3499,
+      "end": 2451.13,
+      "text": "And, you know, we're interested in robots, so we're thinking about this.",
+      "confidence": 0.92124265
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2451.51,
+      "end": 2452.3298,
+      "text": "It's definitely",
+      "confidence": 0.89045644
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2452.8699,
+      "end": 2454.25,
+      "text": "a new skill for us to learn.",
+      "confidence": 0.98635787
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2455.045,
+      "end": 2460.585,
+      "text": "Sam, what happens to the form factor? I've been using the cell phone for a long time. I know",
+      "confidence": 0.9809183
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2461.205,
+      "end": 2466.905,
+      "text": "you will not likely speak about what you're doing with Jony Ive and what happens there, or maybe you will.",
+      "confidence": 0.96820754
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2467.285,
+      "end": 2469.865,
+      "text": "But what happens to form factor overall?",
+      "confidence": 0.95548874
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2471.99,
+      "end": 2474.65,
+      "text": "One of the things that I think will be defining about",
+      "confidence": 0.90867484
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2475.1099,
+      "end": 2476.49,
+      "text": "the difference of",
+      "confidence": 0.99928075
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2477.27,
+      "end": 2479.6099,
+      "text": "AI versus the sort of previous",
+      "confidence": 0.9562641
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2480.71,
+      "end": 2482.89,
+      "text": "way we've been using computers and technology",
+      "confidence": 0.99607307
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2483.51,
+      "end": 2486.01,
+      "text": "is you really want AI to be,",
+      "confidence": 0.8846482
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2487.085,
+      "end": 2488.7852,
+      "text": "have as much context as possible,",
+      "confidence": 0.9967858
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2489.165,
+      "end": 2490.865,
+      "text": "do stuff for you and be proactive.",
+      "confidence": 0.9403929
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2491.3252,
+      "end": 2492.225,
+      "text": "So a computer",
+      "confidence": 0.9702802
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2492.5251,
+      "end": 2500.385,
+      "text": "or a phone, you know, it's kind of either on or off, it's in your pocket or it's in your hand and you're using it, but you might want AI to just be",
+      "confidence": 0.9557589
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2501.94,
+      "end": 2502.92,
+      "text": "you know, like a companion",
+      "confidence": 0.9978882
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2503.3,
+      "end": 2504.1199,
+      "text": "with you",
+      "confidence": 0.9996087
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2504.5798,
+      "end": 2505.56,
+      "text": "throughout your day",
+      "confidence": 0.9944895
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2506.74,
+      "end": 2517.72,
+      "text": "and alerting you in different ways when it can do something to help you or when it's, you know, there's something really important you need to know or reminding you of something that you said you needed to do earlier in the day.",
+      "confidence": 0.96403325
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2518.795,
+      "end": 2519.695,
+      "text": "And the current",
+      "confidence": 0.99090004
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2520.395,
+      "end": 2526.335,
+      "text": "form factors of computers are, I think, not quite right for that. They do have this either on or off binary,",
+      "confidence": 0.9777703
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2527.835,
+      "end": 2532.735,
+      "text": "that I think isn't quite what we want for like a, the sort of sci fi dream of the AI companion.",
+      "confidence": 0.94460857
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2533.14,
+      "end": 2536.2,
+      "text": "So the form factor that enables that, you could imagine a lot of things.",
+      "confidence": 0.94800335
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2536.8198,
+      "end": 2539.96,
+      "text": "There's people talking about glasses and wearables and little",
+      "confidence": 0.9190042
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2540.26,
+      "end": 2542.1199,
+      "text": "things that sit on your table, and",
+      "confidence": 0.9227676
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2544.5,
+      "end": 2548.805,
+      "text": "I think the world will experiment with a lot of those, but this idea of sort of ambiently",
+      "confidence": 0.9492892
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2550.145,
+      "end": 2550.645,
+      "text": "aware",
+      "confidence": 0.99685115
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2552.065,
+      "end": 2554.805,
+      "text": "physical hardware, that feels like it's going to be important.",
+      "confidence": 0.9583238
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2555.585,
+      "end": 2558.7249,
+      "text": "Is that the form factor with Johnny Ive, like a sensor?",
+      "confidence": 0.9125502
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2560.625,
+      "end": 2562.645,
+      "text": "So we'll try multiple products,",
+      "confidence": 0.9695749
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2563.27,
+      "end": 2565.4502,
+      "text": "but but I think this idea of",
+      "confidence": 0.95211345
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2566.87,
+      "end": 2568.6501,
+      "text": "trying to build hardware that",
+      "confidence": 0.9928225
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2569.03,
+      "end": 2572.9702,
+      "text": "an AI companion can sort of embody itself in will be an important thread.",
+      "confidence": 0.97964966
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2573.83,
+      "end": 2574.33,
+      "text": "Right.",
+      "confidence": 0.8847122
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2574.7102,
+      "end": 2578.4902,
+      "text": "The the last two things I want to ask you, Sam, is one about",
+      "confidence": 0.93122345
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2579.645,
+      "end": 2586.305,
+      "text": "fusion because I know you've invested in Helion and you're a big proponent of it. Does that solve the climate change problem?",
+      "confidence": 0.94833565
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2587.405,
+      "end": 2588.865,
+      "text": "Would you put money on that?",
+      "confidence": 0.99509627
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2590.285,
+      "end": 2594.065,
+      "text": "Well, it certainly helps a lot. I suspect that we've already done",
+      "confidence": 0.9647631
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2594.9001,
+      "end": 2602.4402,
+      "text": "sufficient damage to the climate. We're gonna have to undo some damage too, even if we got to switch to fusion right away. But it would certainly be a great step forward.",
+      "confidence": 0.96485656
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2603.7002,
+      "end": 2608.52,
+      "text": "And the last question I have for you, Sam, is the question I care most about.",
+      "confidence": 0.996338
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2609.835,
+      "end": 2610.335,
+      "text": "What's",
+      "confidence": 0.95913184
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2610.875,
+      "end": 2623.695,
+      "text": "in this AI realm for India as a country? What's the opportunity for us? As I mentioned earlier, I think India may be our largest market in the world, at some point in the not very distant future. The excitement,",
+      "confidence": 0.9834813
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2625.1199,
+      "end": 2628.18,
+      "text": "the embrace of AI in India, and the ability",
+      "confidence": 0.97594357
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2629.2,
+      "end": 2632.3398,
+      "text": "to, for Indian people to use AI to just sort of",
+      "confidence": 0.9578585
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2632.96,
+      "end": 2634.64,
+      "text": "leapfrog into the future and,",
+      "confidence": 0.94379866
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2635.68,
+      "end": 2641.425,
+      "text": "invent a totally new and better way of doing things and the sort of economic benefits that come from that, the societal benefits.",
+      "confidence": 0.9565633
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2642.045,
+      "end": 2645.345,
+      "text": "If there is one large society in the world that seems",
+      "confidence": 0.99267447
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2645.7249,
+      "end": 2646.2249,
+      "text": "most",
+      "confidence": 0.99065053
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2646.765,
+      "end": 2652.145,
+      "text": "enthusiastic to transform with AI right now, it's India, and the energy is incredible. I'm looking forward to it coming soon.",
+      "confidence": 0.9545423
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2653.72,
+      "end": 2654.22,
+      "text": "And",
+      "confidence": 0.8886536
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2655.0,
+      "end": 2657.02,
+      "text": "it's really, like, quite amazing to watch,",
+      "confidence": 0.922372
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2657.48,
+      "end": 2658.78,
+      "text": "and I I think the",
+      "confidence": 0.9723317
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2659.08,
+      "end": 2660.22,
+      "text": "it's sort of",
+      "confidence": 0.9687386
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2660.84,
+      "end": 2663.1802,
+      "text": "the momentum is unmatched anywhere in the world.",
+      "confidence": 0.93722576
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2664.04,
+      "end": 2665.26,
+      "text": "I I feel like",
+      "confidence": 0.9338013
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2665.885,
+      "end": 2669.2651,
+      "text": "the question really is how do we transition from being",
+      "confidence": 0.8797968
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2669.645,
+      "end": 2671.5051,
+      "text": "a consumer to be a producer",
+      "confidence": 0.93856066
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2672.125,
+      "end": 2672.625,
+      "text": "where",
+      "confidence": 0.5945484
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2673.0051,
+      "end": 2682.54,
+      "text": "we can build something that other people use outside of India? That that was what I'm I mean, there's lots of things happening there, but that that was the thing I meant. I think that's really happening already in a big way.",
+      "confidence": 0.97043955
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2682.86,
+      "end": 2683.36,
+      "text": "The",
+      "confidence": 0.99470514
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2684.3801,
+      "end": 2686.08,
+      "text": "the entrepreneurial energy around",
+      "confidence": 0.9506819
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2686.9402,
+      "end": 2688.6401,
+      "text": "building with AI in India",
+      "confidence": 0.99595785
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2689.1,
+      "end": 2689.6,
+      "text": "is",
+      "confidence": 0.95137584
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2689.9001,
+      "end": 2693.04,
+      "text": "is quite amazing, and we hope to see much more of it.",
+      "confidence": 0.976186
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2693.58,
+      "end": 2694.08,
+      "text": "Right.",
+      "confidence": 0.9803158
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2694.565,
+      "end": 2695.065,
+      "text": "Yeah.",
+      "confidence": 0.9842683
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2695.605,
+      "end": 2700.676,
+      "text": "Super. Thank you, Sam Great. For doing this. Thank you for having me. Thank you. Appreciate it.",
+      "confidence": 0.96862715
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2701.396,
+      "end": 2702.456,
+      "text": "I'm gonna message you.",
+      "confidence": 0.9845248
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2702.756,
+      "end": 2704.7761,
+      "text": "Okay. Good to see you. Thanks for doing this.",
+      "confidence": 0.9957826
+    }
+  ]
+}

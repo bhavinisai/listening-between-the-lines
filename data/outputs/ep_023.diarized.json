@@ -1,0 +1,4823 @@
+{
+  "total_segments": 601,
+  "speakers": [
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2"
+    }
+  ],
+  "segments": [
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 0.56,
+      "end": 6.8199997,
+      "text": "Following episode will shed light on the recent history of the India Pakistan conflict.",
+      "confidence": 0.96092135
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 7.2799997,
+      "end": 11.78,
+      "text": "The intention is to educate global viewers from both perspectives.",
+      "confidence": 0.9996948
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 12.855,
+      "end": 20.795,
+      "text": "We've recorded this in India, so, of course, it will be the India perspective that you'll get through this podcast, but we've tried",
+      "confidence": 0.9690528
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 21.095001,
+      "end": 23.035,
+      "text": "speaking on behalf of Pakistani",
+      "confidence": 0.99962604
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 23.895,
+      "end": 30.609999,
+      "text": "audiences as well. We've tried speaking on behalf of the Pakistani citizens and their perspectives on operation.",
+      "confidence": 0.9570764
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 31.47,
+      "end": 35.17,
+      "text": "I've tried making this as neutral a piece as was possible,",
+      "confidence": 0.9629749
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 35.55,
+      "end": 39.09,
+      "text": "but the truth is that this is an Indian podcast, and it's important",
+      "confidence": 0.99077755
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 39.755,
+      "end": 40.895,
+      "text": "for the objective",
+      "confidence": 0.9996396
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 41.275,
+      "end": 47.055,
+      "text": "Indian truth to be out there for the global audience. This is a lesson in history. It's a lesson in geopolitics,",
+      "confidence": 0.9852394
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 47.595,
+      "end": 57.41,
+      "text": "and it's a simplified update on operations in the and the ongoing India Pakistan conflict. It features Abhijit Chawla. It's a fast paced episode",
+      "confidence": 0.9220682
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 57.87,
+      "end": 59.97,
+      "text": "about India and Pakistan.",
+      "confidence": 0.99894536
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 74.775,
+      "end": 81.69,
+      "text": "This one's for audiences all over the globe. Of course, it's for Indians and Pakistanis who can converse in English, who can understand English, but,",
+      "confidence": 0.9246817
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 82.170006,
+      "end": 83.950005,
+      "text": "we're trying to give out a perspective",
+      "confidence": 0.9933254
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 84.33,
+      "end": 90.350006,
+      "text": "on operations and do in the ongoing India Pakistan conflict. From the India perspective, obviously, because we are in India,",
+      "confidence": 0.8434659
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 91.21,
+      "end": 93.23,
+      "text": "but I think this kind of",
+      "confidence": 0.9954507
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 93.69,
+      "end": 95.47,
+      "text": "media piece is",
+      "confidence": 0.9838109
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 95.875,
+      "end": 104.134995,
+      "text": "very much required at this point in time. Abhijit Chawla, welcome back to TRS. Thank you. Good to be back. So I think we're going to approach this whole piece",
+      "confidence": 0.9850387
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 104.835,
+      "end": 106.05499,
+      "text": "from a bit of a contextual",
+      "confidence": 0.99831206
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 106.59499,
+      "end": 107.09499,
+      "text": "perspective.",
+      "confidence": 0.99650955
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 107.634995,
+      "end": 108.615,
+      "text": "I'm trying to",
+      "confidence": 0.99775344
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 109.13,
+      "end": 111.79,
+      "text": "divide the whole situation into six",
+      "confidence": 0.99924034
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 112.329994,
+      "end": 113.31,
+      "text": "strong chapters",
+      "confidence": 0.9982927
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 113.85,
+      "end": 115.71,
+      "text": "so that the end listener can understand",
+      "confidence": 0.9667368
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 116.09,
+      "end": 117.47,
+      "text": "the India Pakistan conflict,",
+      "confidence": 0.93226933
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 118.729996,
+      "end": 122.11,
+      "text": "at least from the India perspective. And we will cover the Pakistan",
+      "confidence": 0.9831291
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 122.649994,
+      "end": 130.22499,
+      "text": "narrative on everything that's happening as well in order to give you a more objective outlook. So, sir, we just recorded a Hindi episode,",
+      "confidence": 0.94724584
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 130.525,
+      "end": 141.63,
+      "text": "and that was primarily for the Indian Pakistan audience. And it was important for us to give the Indian narrative there. In this one, because we're talking to the global audience, I'm going to do the job of trying to speak on",
+      "confidence": 0.97530746
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 141.93001,
+      "end": 149.87001,
+      "text": "behalf of the globe Mhmm. And the questions that the globe has with respect to conflict. So should we dive straight in? Let's do it. Chapter number one",
+      "confidence": 0.9891668
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 150.17001,
+      "end": 151.95001,
+      "text": "is about operations Sindoor,",
+      "confidence": 0.7573627
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 152.57,
+      "end": 153.63,
+      "text": "as well as",
+      "confidence": 0.9985907
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 154.155,
+      "end": 158.175,
+      "text": "briefly about the Telgam attack. Mhmm. The angle here is that",
+      "confidence": 0.9303736
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 158.955,
+      "end": 159.77501,
+      "text": "the Pakistani",
+      "confidence": 0.96596944
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 160.795,
+      "end": 161.295,
+      "text": "government,",
+      "confidence": 0.9528476
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 161.755,
+      "end": 166.655,
+      "text": "which is effectively the Pakistani military Yes. As well as the average Pakistani civilian,",
+      "confidence": 0.9868612
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 167.92,
+      "end": 170.9,
+      "text": "doesn't look at the Telgam terrorist attack",
+      "confidence": 0.904644
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 171.59999,
+      "end": 172.9,
+      "text": "as an action,",
+      "confidence": 0.9082992
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 174.56,
+      "end": 176.42,
+      "text": "which was green lighted by the government.",
+      "confidence": 0.98610914
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 177.68,
+      "end": 185.245,
+      "text": "They look at it as a terrorist attack and they blame India and the Indian government for not having provided security for the victims of the terror attack.",
+      "confidence": 0.9850364
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 186.745,
+      "end": 189.405,
+      "text": "But every single Indian is very, very clear",
+      "confidence": 0.9882576
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 189.705,
+      "end": 191.245,
+      "text": "that this was orchestrated",
+      "confidence": 0.9991344
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 191.78499,
+      "end": 192.685,
+      "text": "by the ISI",
+      "confidence": 0.9683234
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 193.14499,
+      "end": 193.885,
+      "text": "in Pakistan.",
+      "confidence": 0.9830949
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 194.665,
+      "end": 197.805,
+      "text": "The the Pakistani military was involved in the attack.",
+      "confidence": 0.99768764
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 198.48,
+      "end": 203.22,
+      "text": "The response to the attack has been what we call Operation Sindoor today. Yes.",
+      "confidence": 0.9395062
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 203.6,
+      "end": 214.825,
+      "text": "I think the world has somewhat of an idea what Operation Sindoor is, sir, but over to you. Right. So Operation Sindoor was this, series of strikes that we carried out, that India carried out on Pakistani terrorist camps and infrastructure,",
+      "confidence": 0.9631424
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 215.605,
+      "end": 230.42,
+      "text": "about twelve, fifteen year hours ago. These were, as far as we understand, thus far, mainly missile strikes. And some strikes were done, using loitering munitions and drones. Right? And this was in response to the to the terrorist attack and massacre that was carried out in Pahalgam",
+      "confidence": 0.9484995
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 230.72,
+      "end": 237.235,
+      "text": "in Jammu and Kashmir in the, yeah. So tourists were targeted. 25 Indian citizens, one Nepalese citizens",
+      "confidence": 0.9420415
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 237.535,
+      "end": 241.075,
+      "text": "were executed point blank using those execution style,",
+      "confidence": 0.9312391
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 241.935,
+      "end": 242.835,
+      "text": "you know, killings.",
+      "confidence": 0.91766065
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 243.375,
+      "end": 244.595,
+      "text": "And we have responded",
+      "confidence": 0.9983485
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 244.895,
+      "end": 249.395,
+      "text": "doing the in this manner using missile strikes and drone strikes. So that's the context.",
+      "confidence": 0.9629281
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 249.84001,
+      "end": 255.94,
+      "text": "Now some Pakistanis will claim the Pakistani narrative is obviously going to be this terrorist attack had nothing to do with Pakistan.",
+      "confidence": 0.95069027
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 256.4,
+      "end": 260.02002,
+      "text": "Look, it should be very clear that Pakistan has had a policy",
+      "confidence": 0.9830353
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 260.48,
+      "end": 263.46,
+      "text": "of state support of terrorism, state sponsored terrorism.",
+      "confidence": 0.92369676
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 264.195,
+      "end": 267.255,
+      "text": "Last the last couple of weeks, the Pakistani defense minister",
+      "confidence": 0.9904543
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 267.715,
+      "end": 271.255,
+      "text": "said this on the record at least a couple of times on Western,",
+      "confidence": 0.95196116
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 271.635,
+      "end": 281.22,
+      "text": "television networks that Pakistan has been doing the dirty work for the West and The US and The UK for decades. Essentially, since 1979 when the USSR invaded Afghanistan,",
+      "confidence": 0.94173837
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 281.68,
+      "end": 284.02,
+      "text": "Pakistan became a proxy of the West. They they,",
+      "confidence": 0.9843889
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 284.47998,
+      "end": 296.705,
+      "text": "got a lot of money from The US, to fight to to essentially serve as as the staging base of the mujahideen war against the occupying Soviet Union. Now once the war ended and the Soviets retreated,",
+      "confidence": 0.9728778
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 297.085,
+      "end": 299.985,
+      "text": "this capacity that that that they had built up, this mujahideen",
+      "confidence": 0.94735163
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 300.285,
+      "end": 305.905,
+      "text": "capacity, was then diverted against India. In the in the nineteen eighties, there was this entire terrorist",
+      "confidence": 0.9424452
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 307.22,
+      "end": 314.28,
+      "text": "outbreak in Punjab in India. So this was all carried out by Pakistan. They had terror training camps and bases",
+      "confidence": 0.9569826
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 314.58002,
+      "end": 324.325,
+      "text": "across the border on their side of the border, and they would push in, terrorists across into India. So Pakistan has had a long history of being a terrorist terror factory.",
+      "confidence": 0.9450932
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 324.70502,
+      "end": 325.20502,
+      "text": "And",
+      "confidence": 0.9982767
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 325.905,
+      "end": 328.805,
+      "text": "as a consequence of this, India has suffered for decades.",
+      "confidence": 0.9880675
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 329.185,
+      "end": 340.59,
+      "text": "We've had an entire population, hundreds of thousands of Kashmiri Hindus who were evicted from Jammu and Kashmir who still haven't been resettled there. And Pakistan has carried out terror attack after terror attack on Indian soil.",
+      "confidence": 0.9767662
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 340.89,
+      "end": 342.89,
+      "text": "The parliament attack in 2001,",
+      "confidence": 0.9729768
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 342.89,
+      "end": 351.85498,
+      "text": "the the the two thousand eight Mumbai attacks, and many other incidents, come to come to mind. So the latest attack was in Pahalgam. This was nothing but a series",
+      "confidence": 0.96027774
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 352.475,
+      "end": 355.055,
+      "text": "continuation of the of the same series. And India,",
+      "confidence": 0.8823919
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 355.835,
+      "end": 361.29498,
+      "text": "has decided to respond in the way it has by attacking by pinpoint targeting",
+      "confidence": 0.97428244
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 361.68,
+      "end": 362.18,
+      "text": "terrorist",
+      "confidence": 0.9950094
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 362.8,
+      "end": 364.9,
+      "text": "infrastructure across the border in Pakistan",
+      "confidence": 0.998987
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 365.36002,
+      "end": 366.98,
+      "text": "occupied Kashmir and in Pakistan",
+      "confidence": 0.9753687
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 367.36002,
+      "end": 392.22998,
+      "text": "proper. So that is what Operation Sundar is. We still don't have all the details of, how this was this was carried out. There are rumors that Pakistani aircraft have been shot down. The Pakistanis are claiming that, I don't know, five Indian fighter planes are shot down and so on. So there are claims and counterclaims, but what we know is, for sure, is the video evidence that was provided by India, to the media today, in which you can see the terror the the strikes being carried out on the terrorist infrastructure.",
+      "confidence": 0.9653489
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 392.61,
+      "end": 396.93,
+      "text": "So that's the that's what, Operation Sindoor is thus far. Okay.",
+      "confidence": 0.9146423
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 397.88998,
+      "end": 403.66998,
+      "text": "To give some context to the global audience, I would like to begin by saying Osama bin Laden was also",
+      "confidence": 0.9918826
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 404.175,
+      "end": 412.835,
+      "text": "found to be hiding in Pakistan. Absolutely. That's why he was neutralized. Yes. Let's begin the narrative there. Because the narrative from the Pakistani media",
+      "confidence": 0.9751391
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 413.135,
+      "end": 414.035,
+      "text": "and honestly,",
+      "confidence": 0.6808106
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 414.735,
+      "end": 421.8,
+      "text": "a lot of the average Pakistani population as well is that, hey, we are actually a country that's completely against terrorism.",
+      "confidence": 0.97642326
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 422.5,
+      "end": 425.63998,
+      "text": "But the truth is we had the defense minister saying what he said publicly.",
+      "confidence": 0.92722243
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 425.94,
+      "end": 429.31998,
+      "text": "It's recorded. Yes. Even Bilal Bilal booked us at the same thing.",
+      "confidence": 0.80613494
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 429.69998,
+      "end": 436.58502,
+      "text": "Yeah. They echoed this truth that Pakistan has been doing the dirty work for the West for decades. Yeah. And if you've grown up in India,",
+      "confidence": 0.91508603
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 438.165,
+      "end": 440.80502,
+      "text": "in the nineties, the February, the February,",
+      "confidence": 0.9871445
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 440.80502,
+      "end": 441.625,
+      "text": "you'd hear",
+      "confidence": 0.9636822
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 441.92502,
+      "end": 443.785,
+      "text": "about terrorist attacks regularly,",
+      "confidence": 0.9407795
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 444.405,
+      "end": 448.665,
+      "text": "especially in Jammu and Kashmir. It was a daily occurrence. Can we briefly try",
+      "confidence": 0.9730406
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 449.28,
+      "end": 451.22,
+      "text": "understanding Jammu and Kashmir's context?",
+      "confidence": 0.96883976
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 451.91998,
+      "end": 453.69998,
+      "text": "Could we explain it for the world",
+      "confidence": 0.97454107
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 454.0,
+      "end": 464.09998,
+      "text": "and why it's actually led to the situation we find ourselves in? Right. So what's the genesis, the origin of this entire matter? Why are Indian fight Pakistan fighting? Look.",
+      "confidence": 0.94867146
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 464.405,
+      "end": 471.785,
+      "text": "We've had something called the Indian civilization that has existed for thousands of years. It's the oldest continuously existing civilization on the planet.",
+      "confidence": 0.9981418
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 472.24503,
+      "end": 473.20502,
+      "text": "Now in the,",
+      "confidence": 0.96230334
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 473.765,
+      "end": 487.86,
+      "text": "last thousand or so years, there were invasions of India, that were carried out by by essentially what what are called Turkic invasions or Islamic invasions, which were preceded by Arabic invasions. And that's how regions like Afghanistan became entirely Islamized.",
+      "confidence": 0.9720602
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 488.24,
+      "end": 490.79498,
+      "text": "And regions like, Punjab and Sindh.",
+      "confidence": 0.8976443
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 491.175,
+      "end": 497.835,
+      "text": "A significant amount of people were converted to Islam. And what happened in 1947 is that the British, through their Indian proxies,",
+      "confidence": 0.96067405
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 498.215,
+      "end": 501.115,
+      "text": "had India partitioned for the sake of the of advancing",
+      "confidence": 0.97907794
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 501.415,
+      "end": 502.235,
+      "text": "their geopolitical",
+      "confidence": 0.99510276
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 502.535,
+      "end": 504.875,
+      "text": "interests. So India was given freedom. India and and Pakistan were created out of what used to be one unified entity.",
+      "confidence": 0.8576369
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 506.07,
+      "end": 506.57,
+      "text": "Created",
+      "confidence": 0.5116975
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 507.03003,
+      "end": 507.53003,
+      "text": "out",
+      "confidence": 0.8656597
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 507.99002,
+      "end": 509.61002,
+      "text": "of what used to be one unified",
+      "confidence": 0.8536396
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 509.99002,
+      "end": 522.095,
+      "text": "entity. So Pakistan is an artificial nation created by The UK and then used by the West to serve their own geopolitical interests. In the twentieth century, there we had the cold war. India essentially took the side of the USSR and Pakistan,",
+      "confidence": 0.93373597
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 522.635,
+      "end": 542.13,
+      "text": "took the side of the West. So which is why the Pakistan got a tremendous amount of Western support and funding and whatnot. And then you had the image of of, and and what happened in nineteen forty seven, forty eight is that the Maharaja of Kashmir had signed the accession paper to to as as was the norm, decide and he had decided that, Jammu and Kashmir would be part of India.",
+      "confidence": 0.91930443
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 542.59,
+      "end": 546.13,
+      "text": "Now, this was accepted by India eventually, but then the Pakistanis,",
+      "confidence": 0.9524904
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 546.51,
+      "end": 547.89,
+      "text": "with British help,",
+      "confidence": 0.9873951
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 548.28503,
+      "end": 561.085,
+      "text": "launched a military invasion of Jammu and Kashmir, and they were able to capture some parts of Kashmir. The Indian army, then pushed them back. But for some reason, India's prime minister, mister Nehru, he then stopped the Indian army from,",
+      "confidence": 0.97059155
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 561.92,
+      "end": 570.74,
+      "text": "liberating the rest of, Jammu and Kashmir, which is why you have parts of Kashmir that are currently under Pakistani occupation, which is what we call Pakistan occupied Kashmir.",
+      "confidence": 0.98925424
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 571.12,
+      "end": 571.86,
+      "text": "So that",
+      "confidence": 0.99772346
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 572.24,
+      "end": 579.57495,
+      "text": "legally is Indian territory. The Pakistanis claim that it's it's Pakistani territory and it's a Muslim majority region and whatnot. All kinds of,",
+      "confidence": 0.94342226
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 580.01495,
+      "end": 584.675,
+      "text": "excuses and and arguments are put forth to, to legitimize their claim.",
+      "confidence": 0.9933701
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 585.21497,
+      "end": 594.71,
+      "text": "So that's been the the the problem. That parts of Indian territory are currently occupied by Pakistan. Now the first thing we have to understand is that Pakistan itself was created undemocratically",
+      "confidence": 0.936816
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 595.09,
+      "end": 595.83,
+      "text": "and illegitimately.",
+      "confidence": 0.9967448
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 596.29,
+      "end": 598.63,
+      "text": "There was never any referendum in India",
+      "confidence": 0.99933016
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 599.01,
+      "end": 609.41504,
+      "text": "for Pakistan. Right? It was it was done it was a top down decision to to bifurcate the country. It was created to serve western geopolitical interest, and they have been, leveraging this position of Pakistan",
+      "confidence": 0.9573152
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 609.79504,
+      "end": 610.615,
+      "text": "ever since.",
+      "confidence": 0.99896204
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 611.315,
+      "end": 616.19,
+      "text": "So that's the genesis of the issue. That's why Kashmir, as the West would say, is disputed territory.",
+      "confidence": 0.9702835
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 617.29004,
+      "end": 618.67,
+      "text": "Look. Jammu and Kashmir,",
+      "confidence": 0.93648225
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 619.05,
+      "end": 631.385,
+      "text": "the only dispute is that Pakistan currently occupies parts of Jammu and Kashmir that belong to India. So that's the only issue at hand from our perspective. But what you are taught in the West is that these are two nations,",
+      "confidence": 0.9825663
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 631.765,
+      "end": 634.08496,
+      "text": "that came into existence in 1947,",
+      "confidence": 0.9841931
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 634.08496,
+      "end": 635.625,
+      "text": "which never existed before.",
+      "confidence": 0.9947218
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 636.005,
+      "end": 636.505,
+      "text": "And,",
+      "confidence": 0.98390156
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 636.885,
+      "end": 640.265,
+      "text": "India is kind of portrayed as the bad guy in the western media,",
+      "confidence": 0.9572312
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 640.885,
+      "end": 644.28,
+      "text": "because of Pakistan's historical role as a vasal or a proxy",
+      "confidence": 0.9154403
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 646.12006,
+      "end": 648.78,
+      "text": "in the nineteen eighties seventies, eighties and onwards.",
+      "confidence": 0.92618114
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 649.24005,
+      "end": 656.86005,
+      "text": "So today, parts of Jammu and Kashmir are under Pakistan occupation, and Pakistan has played this role of being a terror enabler, a terrorist factory.",
+      "confidence": 0.9687282
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 657.38495,
+      "end": 683.97,
+      "text": "And they their their lead their officials have come on the the record now and put it on the record. So they have clearly said that Pakistan has been a nation that has employed terrorism as as a state policy. And this is a self inflicted strategic unmasking. This removes the fig leaf of plausible deniability that they had now. So that's now very clear that you you can no longer question the fact that Pakistan is the world's epicenter of terrorism.",
+      "confidence": 0.9697584
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 684.395,
+      "end": 686.895,
+      "text": "And, India as a sovereign nation",
+      "confidence": 0.92918557
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 687.275,
+      "end": 702.44,
+      "text": "has the right to respond and to put an end to this menace that is is a global menace. And that's what we've done and that's what that's where that's why we are where we are today. Yeah. On social media, if this issue is being spoken about in any post,",
+      "confidence": 0.9828146
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 702.9,
+      "end": 715.845,
+      "text": "you'll often see Indians and Pakistanis debating in the comment section. And debating is a polite word. Lots of fighting that's happening. Yes. It's two extremely different narratives. Mhmm. And both view the other side as a terrorist state.",
+      "confidence": 0.96114963
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 717.105,
+      "end": 718.40497,
+      "text": "Especially after operation,",
+      "confidence": 0.7501051
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 718.945,
+      "end": 722.305,
+      "text": "the average Pakistani is viewing India as a",
+      "confidence": 0.90623575
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 722.945,
+      "end": 732.72,
+      "text": "Aggressive, I would say. Aggressor. They're portraying India as the aggressor in this matter. The narrative that's going out is, hey. Look at the Indian military. They targeted young children. They killed young children. Yeah.",
+      "confidence": 0.9479686
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 733.25995,
+      "end": 737.68,
+      "text": "Let's first begin with giving context on what the narrative about operations in",
+      "confidence": 0.94316167
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 738.155,
+      "end": 749.455,
+      "text": "from the India perspective, especially. We'll address the Pakistani claims as well. Every big celebrity in India has shared this post about operations in talking about it on social media.",
+      "confidence": 0.94925714
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 750.25,
+      "end": 756.08997,
+      "text": "Almost unanimously, the whole country saluting the Indian military. Because most of us above the age of 20 at least,",
+      "confidence": 0.94952285
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 756.64996,
+      "end": 761.06995,
+      "text": "have seen the history of terrorism in our country. We've seen how innocent people have been targeted.",
+      "confidence": 0.9935996
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 761.93,
+      "end": 765.06995,
+      "text": "If not by Pakistan, then by who? That's my question.",
+      "confidence": 0.9861783
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 766.00494,
+      "end": 769.785,
+      "text": "Everything that's happened, Kashmir, over the last twenty years, I believe in 2016",
+      "confidence": 0.9025449
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 769.845,
+      "end": 774.425,
+      "text": "and in 2019, the Indian military was targeted in terrorist attacks.",
+      "confidence": 0.95747507
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 774.805,
+      "end": 778.02496,
+      "text": "And the Indian military responded. This was also near",
+      "confidence": 0.93242276
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 778.93,
+      "end": 781.83,
+      "text": "the beginning of the Modi regime in India.",
+      "confidence": 0.982925
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 782.93,
+      "end": 785.43,
+      "text": "While the Modi government is criticized for multiple,",
+      "confidence": 0.9651489
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 786.20996,
+      "end": 794.765,
+      "text": "policies, the one thing that they unanimously applauded for is their geopolitical stance. Doctor. Jaishankar has gained respect wherever he's gone in the world. And,",
+      "confidence": 0.9422842
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 796.10504,
+      "end": 798.125,
+      "text": "my reading is that the average Indian,",
+      "confidence": 0.98098266
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 798.825,
+      "end": 800.36505,
+      "text": "irrespective of their political beliefs,",
+      "confidence": 0.9584755
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 801.065,
+      "end": 801.565,
+      "text": "supports",
+      "confidence": 0.9969799
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 802.025,
+      "end": 802.525,
+      "text": "the",
+      "confidence": 0.99688244
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 802.98505,
+      "end": 805.645,
+      "text": "geopolitical policies of the Modi government.",
+      "confidence": 0.99444574
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 806.505,
+      "end": 808.84503,
+      "text": "It's given India much stronger",
+      "confidence": 0.93436223
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 809.44,
+      "end": 812.66003,
+      "text": "stance on the world stage, and it also go as far as saying that",
+      "confidence": 0.89431876
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 813.28,
+      "end": 817.94,
+      "text": "we're the fourth largest economy in the world today. On the other side of the border, we have a collapsing economy",
+      "confidence": 0.99301004
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 818.48004,
+      "end": 820.26,
+      "text": "that says a lot in itself.",
+      "confidence": 0.92914647
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 821.76,
+      "end": 829.765,
+      "text": "Over to you, so beginning with the context on operation, Sindhu. And you can elaborate a bit or disagree a bit on everything that I just said.",
+      "confidence": 0.9273377
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 830.865,
+      "end": 831.365,
+      "text": "So,",
+      "confidence": 0.9269593
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 832.705,
+      "end": 849.26,
+      "text": "yeah. The the Indian military has been targeted in the past, ten, twenty years. Before that as well. But more than the Indian military, it's the Indian civilians who have been targeted. That's what terrorism is. The definition of terrorism is that you attack civilians instead of attacking the the other the your other instead of attacking your adversary's military.",
+      "confidence": 0.9643304
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 849.88,
+      "end": 879.23004,
+      "text": "Pakistan has has had this policy of targeting civilians and targeting the ordinary citizen, and that's the issue. That's the issue between the two nations. When it comes to mister Modi and, his policies, I think I personally think, it's my personal opinion, he's the best prime minister we've ever had, and his government is the best we've ever had. And geopolitically, we have risen overall so much in the past eleven years. Our economy is, like you said, like you rightly said, it's now the fourth biggest economy. While Pakistan's economy is collapsing, Pakistan is is forever one step away from annihilation.",
+      "confidence": 0.97317195
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 879.69,
+      "end": 882.975,
+      "text": "It's one step away from complete economic bankruptcy and it's it's,",
+      "confidence": 0.933029
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 883.535,
+      "end": 894.83496,
+      "text": "depending on dole. It's depending on handouts from the World Bank and the IMF and various other masters, the the Chinese and so on for just staying afloat. So that's the comparison between India and Pakistan.",
+      "confidence": 0.9339997
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 895.375,
+      "end": 903.12,
+      "text": "In In India, we have a nation that is looking forward, that's looking to progress. We are, going into space. We are doing all kinds of things and the Pakistanis are creating a terror factories.",
+      "confidence": 0.9352342
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 903.5,
+      "end": 914.445,
+      "text": "That's the difference. So the the bone of contention is that Pakistan is a terrorist nation. They their only real export, their the only thing that you could call if it's if it has any value",
+      "confidence": 0.9367007
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 914.825,
+      "end": 924.365,
+      "text": "to to the to the wrong kind of people, it's terrorism. And it's being directed directed at India. Now when it comes to the entire raison d'etre of Pakistan's being,",
+      "confidence": 0.9469788
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 924.66504,
+      "end": 925.72504,
+      "text": "they they say that",
+      "confidence": 0.8210889
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 926.56,
+      "end": 928.98004,
+      "text": "what is Pakistan? It is that we are not India.",
+      "confidence": 0.9548777
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 929.36005,
+      "end": 932.66003,
+      "text": "We are of Indian origin, but we do we renounce our Indianness.",
+      "confidence": 0.9261909
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 933.2,
+      "end": 945.91504,
+      "text": "And India, they they they seek to portray India as the enemy, to paint India as the enemy. So Pakistan is a dictatorship. They have a prime minister who is essentially a puppet. The nation is run by the military and the ISI, which is essentially the same entity,",
+      "confidence": 0.96923035
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 946.29504,
+      "end": 950.715,
+      "text": "a bunch of generals and a bunch of spooks, spies who run the country. And to legitimize",
+      "confidence": 0.95001155
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 951.09503,
+      "end": 951.835,
+      "text": "their their",
+      "confidence": 0.99909186
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 952.455,
+      "end": 957.515,
+      "text": "hold over the country, they portray India as the as the bad guy and India as an existential threat,",
+      "confidence": 0.9618471
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 958.03,
+      "end": 980.005,
+      "text": "where India essentially would like to be left alone. Look. We have given up this whole bunch of our territory, this huge amount of territory. You and me are both from Northern Western India. This is our ancestral territory. You go back a few hundred years, thousand years, our ancestors all lived in this part of the world. We have given up this territory of ours to create a nation that you currently own. Why don't you leave us alone? That's the only,",
+      "confidence": 0.98219925
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 980.705,
+      "end": 987.365,
+      "text": "perspective that we have. But they won't leave us alone. And to legitimize their existence, they have to paint India as the aggressor",
+      "confidence": 0.98788923
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 987.67,
+      "end": 1002.63,
+      "text": "as an existential threat, and that's what, justifies their terrorism. So we've had enough of this. We have had enough, and we are now so powerful and so large that Pakistan essentially is a nonentity. The only thing that gives it relevance is that the is the fact that they have nuclear weapons, which,",
+      "confidence": 0.96018535
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1003.445,
+      "end": 1007.625,
+      "text": "they have it because of Western and Chinese connivance that happened in the nineteen eighties.",
+      "confidence": 0.95784074
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1008.96497,
+      "end": 1013.145,
+      "text": "That's the only thing that gives them legitimacy, and that's that's the only thing that gives them nuisance value.",
+      "confidence": 0.95674634
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1013.605,
+      "end": 1026.99,
+      "text": "So we know how to deal with Pakistan now. We are no longer going to just sit back and being and be a soft state of punching bag. We're gonna hit back now. And this is just the beginning. If they try to escalate, they're gonna they're gonna face more pain. That's for sure. That's guaranteed.",
+      "confidence": 0.9804362
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1027.37,
+      "end": 1037.5349,
+      "text": "Before we move into chapter two, sir, I would love for you to share some current context with the global audience. As of now, it's about 6PM on the 05/07/2025.",
+      "confidence": 0.99597853
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1039.115,
+      "end": 1046.015,
+      "text": "About twelve to sixteen hours ago, we witnessed operations in the and now both the militaries are at loggerheads.",
+      "confidence": 0.9122065
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1046.9,
+      "end": 1048.9199,
+      "text": "What's the context to be given to global audiences?",
+      "confidence": 0.99777436
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1049.46,
+      "end": 1058.76,
+      "text": "So right now, India has responded to the Pakistani provocation, the Pakistani terror attack by launching what looks like missile and drone strikes on Pakistani terrorist infrastructure, very pinpoint strikes.",
+      "confidence": 0.9727001
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1059.315,
+      "end": 1067.715,
+      "text": "And there are claims and counterclaims on social media, which I would categorize as nothing but rumors that, various fighter planes from either side have been,",
+      "confidence": 0.9779873
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1068.355,
+      "end": 1082.78,
+      "text": "have been targeted and some of them have been shot down. I am not sure how much of this is true. I've seen some images on social media. I'm not sure if they're old images or new ones. But, what I can say for sure is that this happened about sixteen or so hours ago, and it is likely",
+      "confidence": 0.97698164
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1083.24,
+      "end": 1091.255,
+      "text": "I would say that Pakistan will will try to retaliate in some manner. So the question is what kind of retaliation can happen? Let's examine some scenarios. Scenario one,",
+      "confidence": 0.9927067
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1091.875,
+      "end": 1099.015,
+      "text": "they'll try to launch an airstrike on India, which will be dangerous for them because we are more than capable of wipe wiping out half of their,",
+      "confidence": 0.9393356
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1099.395,
+      "end": 1101.335,
+      "text": "air force, especially with the Rafales,",
+      "confidence": 0.9199627
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1101.79,
+      "end": 1109.01,
+      "text": "which can wipe out half of their airflow air force from standoff ranges, and they really can't do a thing about it. Which means that we are flying",
+      "confidence": 0.9618968
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1109.31,
+      "end": 1119.485,
+      "text": "a 100 kilometers within India, and we can still wipe out half of the Pakistani air force. We can do that. So the the first scenario of them trying to launch air strikes on India is not a good scenario from their perspective.",
+      "confidence": 0.9855483
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1119.945,
+      "end": 1120.9249,
+      "text": "The second scenario",
+      "confidence": 0.9995472
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1121.225,
+      "end": 1123.485,
+      "text": "so the first scenario may be a 50% probability.",
+      "confidence": 0.94741416
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1124.0249,
+      "end": 1124.845,
+      "text": "Second scenario,",
+      "confidence": 0.9928176
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1125.3049,
+      "end": 1138.29,
+      "text": "maybe they try to launch missile strikes. Now we don't have any terrorist infrastructure in India because we don't have that. So maybe that they can try and launch missile strikes on Indian army or military installations. Maybe there's a 30% chance of that.",
+      "confidence": 0.98092043
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1138.5901,
+      "end": 1139.4901,
+      "text": "In that case,",
+      "confidence": 0.9993377
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1140.295,
+      "end": 1150.635,
+      "text": "we will have to retaliate because, look, we we can't tolerate that. So then we move a step up the escalation ladder and then, yeah, that that phase, that hot phase could lie could last for a while.",
+      "confidence": 0.9497763
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1151.095,
+      "end": 1153.595,
+      "text": "The third scenario I can I can think of maybe 20% probability is that they will actually try asymmetric means, which will they'll try and, launch",
+      "confidence": 0.83874416
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1157.73,
+      "end": 1158.55,
+      "text": "terrorist strikes",
+      "confidence": 0.6947619
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1159.25,
+      "end": 1159.75,
+      "text": "hypothetically",
+      "confidence": 0.92240214
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1160.13,
+      "end": 1160.63,
+      "text": "on",
+      "confidence": 0.95947295
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1161.25,
+      "end": 1168.55,
+      "text": "on Indian on major Indian population centers? So these are the three scenarios I can think of. And if that happens, then India will have to retaliate very significantly.",
+      "confidence": 0.96540296
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1169.105,
+      "end": 1176.965,
+      "text": "If they launch another strike, another terrorist attack on a big city, that is gonna be an absolute red line that India simply will not tolerate.",
+      "confidence": 0.97738457
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1177.425,
+      "end": 1179.4451,
+      "text": "If that happens, you could see a significant",
+      "confidence": 0.9910501
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1180.0651,
+      "end": 1180.5651,
+      "text": "escalation,",
+      "confidence": 0.9663078
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1180.9451,
+      "end": 1183.125,
+      "text": "a significant response from India this time.",
+      "confidence": 0.97221214
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1183.5499,
+      "end": 1191.25,
+      "text": "It makes sense from the for for from from their Pakistani perspective to to stick to the military angle, not the terrorist angle anymore,",
+      "confidence": 0.9687333
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1191.63,
+      "end": 1196.37,
+      "text": "which means that either they will launch air strikes, they'll try air strikes, or they'll try missile strikes.",
+      "confidence": 0.9748253
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1196.855,
+      "end": 1199.8351,
+      "text": "So that's what could happen, and then it's up to us how to retaliate.",
+      "confidence": 0.97810346
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1200.2151,
+      "end": 1200.7151,
+      "text": "Okay.",
+      "confidence": 0.9970472
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1201.5751,
+      "end": 1202.395,
+      "text": "The LOC",
+      "confidence": 0.8648356
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1202.855,
+      "end": 1206.795,
+      "text": "is an unofficial border between India and Pakistan. Yes.",
+      "confidence": 0.9969279
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1207.0951,
+      "end": 1208.475,
+      "text": "For the last ten days,",
+      "confidence": 0.99669284
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1209.03,
+      "end": 1215.05,
+      "text": "there have been tensions that have escalated on the LOC Mhmm. And there's firing that's been on from both the sides. Mhmm.",
+      "confidence": 0.9534351
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1215.91,
+      "end": 1219.77,
+      "text": "But today, there was artillery firing from the Pakistani side as well.",
+      "confidence": 0.974524
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1220.9501,
+      "end": 1221.6101,
+      "text": "A temple",
+      "confidence": 0.978572
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1222.0701,
+      "end": 1224.42,
+      "text": "for sick people is called a Gurudwara.",
+      "confidence": 0.92409736
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1224.765,
+      "end": 1227.265,
+      "text": "The Gurudwara in Poonj was damaged.",
+      "confidence": 0.93012005
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1228.2051,
+      "end": 1231.3251,
+      "text": "Sikhs were killed. Gurud Sikhs were killed who are,",
+      "confidence": 0.8422738
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1231.965,
+      "end": 1236.225,
+      "text": "who could be understood to be sort of religious figures in the world of Sikhs.",
+      "confidence": 0.97828484
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1236.78,
+      "end": 1239.76,
+      "text": "So this is the truth of what is happening right now.",
+      "confidence": 0.9978695
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1240.06,
+      "end": 1242.88,
+      "text": "This has been Pakistan's response to operations in the.",
+      "confidence": 0.7901381
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1243.26,
+      "end": 1244.56,
+      "text": "But, of course, the response",
+      "confidence": 0.96147346
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1245.1001,
+      "end": 1246.8,
+      "text": "is being decided",
+      "confidence": 0.99948263
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1247.1001,
+      "end": 1250.0801,
+      "text": "by the higher ups, and this brings us to chapter two,",
+      "confidence": 0.9546013
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1250.485,
+      "end": 1251.065,
+      "text": "the ISI.",
+      "confidence": 0.9672898
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1252.885,
+      "end": 1255.465,
+      "text": "Tiny history on the ISI, very much required.",
+      "confidence": 0.9190743
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1256.485,
+      "end": 1259.705,
+      "text": "I would also love for you to begin this chapter",
+      "confidence": 0.99926454
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1260.005,
+      "end": 1263.065,
+      "text": "by giving the Pakistani perspective on what the ISI is.",
+      "confidence": 0.99568224
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1263.64,
+      "end": 1267.1799,
+      "text": "The Pakistani perspective on the ISI is that it is their, intelligence",
+      "confidence": 0.9911209
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1267.48,
+      "end": 1267.98,
+      "text": "establishment,",
+      "confidence": 0.92954755
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1268.44,
+      "end": 1285.8151,
+      "text": "their spy agency. Every nation has a spy agency of some kind. It's you know, intelligence is a good thing. You want to collect information about what's out there in the world. That's called domain awareness, situational awareness. It's so it's it's important for every nation to have that. And there are various ways of doing it. Your diplomats also can collect intelligence in a very,",
+      "confidence": 0.97067654
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1286.6151,
+      "end": 1302.47,
+      "text": "transparent way. So that's what that's one way of doing it. Another way is to do it through candestined means by by by doing it through means that are not entirely legal, etcetera. That's what intelligence agencies typically do. And the inter services intelligence, the ISI, is Pakistan's intelligence branch.",
+      "confidence": 0.95965314
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1302.85,
+      "end": 1318.845,
+      "text": "Now they are so that is the Pakistani perspective. It is it is one of their lines of defense. It is what enables the the nation to know about what's happening outside their country, especially and and from the Pakistani perspective, the only threat that they say is India because, apparently, we are an existential existential",
+      "confidence": 0.97253066
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1319.145,
+      "end": 1320.045,
+      "text": "threat for Pakistan.",
+      "confidence": 0.99820644
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1320.425,
+      "end": 1322.365,
+      "text": "So their I the ISA essentially,",
+      "confidence": 0.8272195
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1322.89,
+      "end": 1338.235,
+      "text": "is is is focused towards India. Its its objective is to collect intelligence through various ways about India, about what's happening in India, and what our plans are and so on. And its other objective is to destabilize us in various ways. It's now this is my perspective. This is the Indian perspective that I'm giving",
+      "confidence": 0.9520379
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1338.535,
+      "end": 1342.0751,
+      "text": "you. So, the ISI is an integral part of Pakistan's terrorist",
+      "confidence": 0.9983618
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1342.4551,
+      "end": 1344.395,
+      "text": "establishment, the terrorist factory.",
+      "confidence": 0.9939459
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1345.9751,
+      "end": 1349.755,
+      "text": "Pakistan has always sought strategic depth in places like Afghanistan.",
+      "confidence": 0.95745957
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1350.14,
+      "end": 1355.2001,
+      "text": "If you look at the map of Pakistan, it's it's a pretty narrow nation. It doesn't have these wide open spaces,",
+      "confidence": 0.98455113
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1355.5801,
+      "end": 1358.56,
+      "text": "like India has tremendous amount of depth in its geography. Pakistan,",
+      "confidence": 0.9415199
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1359.3401,
+      "end": 1371.735,
+      "text": "the furthest part of Pakistan would be a couple of 100 kilometers at most from India. So So Pakistan lacks lacks the depth and that's why they've always sought to have strategic depth in Afghanistan, which is why they call they created a terrorist organization called the Taliban,",
+      "confidence": 0.9630286
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1372.355,
+      "end": 1379.7201,
+      "text": "which then they lost control of. And in the nineteen nineties, it's a it's an organization that terrorized Afghanistan, blew up the Bamiyan Buddhas,",
+      "confidence": 0.949595
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1380.18,
+      "end": 1393.965,
+      "text": "put women in in in in horrible conditions and did all those things. But today, the Taliban is an entirely separate entity that ISI has lost control of them. So Pakistan has always sought to play this game. This game of using terrorism",
+      "confidence": 0.9641698
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1394.585,
+      "end": 1398.6849,
+      "text": "as part of state policy into something that advances their geopolitical",
+      "confidence": 0.9542759
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1398.985,
+      "end": 1402.0449,
+      "text": "interests. So Afghanistan has suffered a lot from that.",
+      "confidence": 0.9967804
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1402.4249,
+      "end": 1409.4099,
+      "text": "The Iranians to some extent have suffered from Pakistani terrorism. Last year, I think there were Iranian missile strikes on Pakistani infrastructure within Pakistan",
+      "confidence": 0.95428586
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1410.03,
+      "end": 1413.4099,
+      "text": "and we in India have been the prime target. So the ISI",
+      "confidence": 0.92058563
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1413.71,
+      "end": 1417.09,
+      "text": "is their main intelligence agency. It is also the",
+      "confidence": 0.9835403
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1417.47,
+      "end": 1418.85,
+      "text": "main enabler of terrorism.",
+      "confidence": 0.9974047
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1419.3049,
+      "end": 1421.965,
+      "text": "Pakistan is a nation that seems to",
+      "confidence": 0.9996924
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1422.265,
+      "end": 1424.605,
+      "text": "be a democracy. It seems to have a parliament",
+      "confidence": 0.99289155
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1424.985,
+      "end": 1429.325,
+      "text": "and a state assemblies and legislators and chief ministers and a prime minister, etcetera.",
+      "confidence": 0.9059496
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1429.705,
+      "end": 1451.4149,
+      "text": "But this is all for show. Its actual power center is the ISI military complex, A bunch of generals who are at the top of the military and the top ISI people who typically are interchangeable, you could say. It's the same entity, but it it shows different faces. So there's a separate ISI and separate military, but actually, it's more or less pretty pretty much the same organization. And the terrorist infrastructure",
+      "confidence": 0.95721906
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1452.115,
+      "end": 1457.575,
+      "text": "is also part of the ISI military combination, but it seems to be it is shown",
+      "confidence": 0.9625849
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1457.875,
+      "end": 1463.735,
+      "text": "as as so the various terrorist organizations, they are typically depicted as charitable organizations",
+      "confidence": 0.98893493
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1464.0499,
+      "end": 1465.11,
+      "text": "and religious organizations",
+      "confidence": 0.9995566
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1465.49,
+      "end": 1475.19,
+      "text": "that do charitable work and and take care of orphans and establish madrasas or schools or whatever. So it looks like they're doing a lot of charitable work and social work, but that's a recruitment",
+      "confidence": 0.96718806
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1475.57,
+      "end": 1479.965,
+      "text": "that's a ploy for recruiting the vulnerable and the weak and the poor into their,",
+      "confidence": 0.98949474
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1480.345,
+      "end": 1486.365,
+      "text": "terrorist machine. And then they are sent across the border to get shot to get mowed down by by Indian,",
+      "confidence": 0.9716651
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1486.985,
+      "end": 1490.845,
+      "text": "armed forces who are who are doing their job of defending the country from terrorists.",
+      "confidence": 0.9551872
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1492.32,
+      "end": 1496.82,
+      "text": "Kind of tiny context pieces that I'm going to list out is very human context.",
+      "confidence": 0.9308516
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1497.6799,
+      "end": 1499.2999,
+      "text": "First human context is that",
+      "confidence": 0.98396695
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1499.76,
+      "end": 1505.1951,
+      "text": "the most dastardly terrorist attack that I have witnessed in my own lifetime is the two thousand eight Mumbai terror attack. Attack. Yes.",
+      "confidence": 0.9633637
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1505.995,
+      "end": 1516.495,
+      "text": "I believe more than 200 people were killed. The official figure is one sixty six. Okay. But, yeah, at that time, it looked like thousands of the of people were on. Yeah. And this happened in the heart of Mumbai. Oh, absolutely.",
+      "confidence": 0.9637805
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1516.795,
+      "end": 1517.295,
+      "text": "Yes.",
+      "confidence": 0.9263235
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1518.42,
+      "end": 1520.2001,
+      "text": "The one terrorist who survived",
+      "confidence": 0.90306675
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1520.66,
+      "end": 1522.04,
+      "text": "the Mumbai terror attack,",
+      "confidence": 0.9679735
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1522.5801,
+      "end": 1524.92,
+      "text": "was Ajmal Kasab. Yes. Ajmal Kasab",
+      "confidence": 0.97625357
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1525.2201,
+      "end": 1525.7201,
+      "text": "was",
+      "confidence": 0.998808
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1526.66,
+      "end": 1527.3201,
+      "text": "a youth",
+      "confidence": 0.98936534
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1527.7001,
+      "end": 1546.415,
+      "text": "from a poor family in Pakistan. He admitted to this in custody. Yes. I've had lots of people on the podcast who have actually met Ajmal Kasab, and everyone said that he was completely brainwashed. Mhmm. That is what the globe knows as the nucleus of terrorism. Mhmm. That is what terrorism is. You brainwash people based on religious radicalism.",
+      "confidence": 0.9793683
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1547.73,
+      "end": 1553.11,
+      "text": "This is the first human context I want to give the audiences. Mhmm. Pakistan is a terror factory.",
+      "confidence": 0.95974934
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1553.73,
+      "end": 1570.245,
+      "text": "And I think the whole globe knows this as well, but it's a Pakistani people who are fed a different kind of narrative. Yes. I wanna speak a little bit about Pakistani people. You end up meeting them when you go to UAE, when you go to Qatar. You meet them all all over the place. Yeah. There's pleasantries exchange because on some level, Indian and Pakistani",
+      "confidence": 0.96201926
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1571.265,
+      "end": 1574.37,
+      "text": "social ethos is very similar. We are the same essentially. Yeah.",
+      "confidence": 0.9086384
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1575.33,
+      "end": 1578.95,
+      "text": "Culturally, we are the same. The religious angle, we are the same. Sense of humor matches.",
+      "confidence": 0.7569156
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1580.21,
+      "end": 1581.99,
+      "text": "It's it's very similar culturally.",
+      "confidence": 0.9912888
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1582.61,
+      "end": 1584.23,
+      "text": "So the conversation invariably",
+      "confidence": 0.98431003
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1584.85,
+      "end": 1589.99,
+      "text": "goes to a point where we say that, hey, you know, you and me want peace, but it's our governments that are at loggerheads.",
+      "confidence": 0.95199615
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1591.4249,
+      "end": 1593.365,
+      "text": "This is the first time in my",
+      "confidence": 0.97157
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1593.905,
+      "end": 1595.0449,
+      "text": "own adult life",
+      "confidence": 0.99942285
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1595.585,
+      "end": 1598.145,
+      "text": "that I'm seeing a situation where 99",
+      "confidence": 0.9853744
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1598.145,
+      "end": 1600.245,
+      "text": "of Indians don't want peace at this point.",
+      "confidence": 0.99409485
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1601.345,
+      "end": 1605.125,
+      "text": "That is the truth of the times that we live in, especially after operations in the world.",
+      "confidence": 0.8520782
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1605.7101,
+      "end": 1612.93,
+      "text": "Because we know that if we don't engage in conflict, there's going to be more terrorist attacks. That's just what pattern recognition has taught us.",
+      "confidence": 0.96651477
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1613.47,
+      "end": 1615.41,
+      "text": "The next thing I'd like to say is",
+      "confidence": 0.9961899
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1616.11,
+      "end": 1618.875,
+      "text": "about Pakistan's opinion on the Pelgam attack.",
+      "confidence": 0.936601
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1619.515,
+      "end": 1626.735,
+      "text": "The first response of most Pakistanis on social media is, here has the proof when it comes to the Pelgam attack. How do you know that these guys came out of Pakistan?",
+      "confidence": 0.9381751
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1627.195,
+      "end": 1634.52,
+      "text": "How do you respond in a situation like this? We we have so much proof about all these terrorist attacks that originated from Pakistan. So I just",
+      "confidence": 0.98222953
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1634.98,
+      "end": 1638.76,
+      "text": "tweeted just now when we were outside. There's this American congressman",
+      "confidence": 0.90584284
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1639.14,
+      "end": 1647.48,
+      "text": "who had said that India has not done enough to prove to the world that the Pahlgam terrorist attack, originated in Pakistan. Right? So these people,",
+      "confidence": 0.9700275
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1648.225,
+      "end": 1651.0449,
+      "text": "whether it's Americans, whether it's the West, whether it's people from Pakistan,",
+      "confidence": 0.9677301
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1651.5049,
+      "end": 1653.6849,
+      "text": "they keep asking for proof.",
+      "confidence": 0.9992672
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1654.3049,
+      "end": 1662.47,
+      "text": "What bigger proof do you need? Like we mentioned well, like we discussed, than Osama bin Laden being found on Pakistani territory. That Ajmal Kasab being a Pakistani",
+      "confidence": 0.90640986
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1662.77,
+      "end": 1667.75,
+      "text": "origin citizen, a terrorist. What bigger proof do you need than Bilawal Bhutto",
+      "confidence": 0.9377485
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1668.13,
+      "end": 1688.215,
+      "text": "coming on, on Western media, on Western TV, and saying that Pakistan has been doing the dirty work for the Americans and the West for decades. What bigger proof do you need than the Pakistani defense minister repeatedly saying on Western media that Pakistan has had this track record of terrorism, and our hands are dirty. If if the West had not made us do this, we we would have been our record would have been spotless.",
+      "confidence": 0.95487523
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1688.7101,
+      "end": 1690.9701,
+      "text": "I think we are way past the stage",
+      "confidence": 0.9973961
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1691.5901,
+      "end": 1693.29,
+      "text": "where we have to furnish proof.",
+      "confidence": 0.977084
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1693.67,
+      "end": 1695.2101,
+      "text": "When the Americans wiped",
+      "confidence": 0.98538375
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1695.67,
+      "end": 1696.17,
+      "text": "wiped",
+      "confidence": 0.97748166
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1696.4701,
+      "end": 1703.37,
+      "text": "Iraq flat, when they flattened entire cities with millions of people, did they first pause to give the world proof",
+      "confidence": 0.9686661
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1703.6951,
+      "end": 1729.7101,
+      "text": "that the that there are WMDs or whatever? When they launched their war on terror, when George Bush launched launched his war on terror on the world, he gave everybody a choice. You're either with us or or against us. And we're gonna hunt you down. We're gonna smoke you out wherever you are. If there's a 1% chance of a nation being a terrorist nation, we're gonna destroy that nation. That's been the Western approach. But when it comes to us, we have to furnish proof. We're not we done. We done furnishing proof. We know where our,",
+      "confidence": 0.93354744
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1730.17,
+      "end": 1731.0701,
+      "text": "enemy is.",
+      "confidence": 0.9866098
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1731.575,
+      "end": 1738.075,
+      "text": "We know where our where the threat threat to our people lies, and we are no longer going to give proof.",
+      "confidence": 0.9680819
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1738.535,
+      "end": 1747.77,
+      "text": "We cannot address these issues, and we're gonna put our national interest first and foremost. And if anybody has an issue with that, they can take a hike. That's as simple as that. Okay.",
+      "confidence": 0.9550088
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1748.79,
+      "end": 1750.97,
+      "text": "Context from the ISI from the India perspective,",
+      "confidence": 0.88759166
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1751.51,
+      "end": 1756.89,
+      "text": "my only input here is I think that the ISI is one of the premier enemies of world peace.",
+      "confidence": 0.9774204
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1757.4349,
+      "end": 1761.215,
+      "text": "And the rest of the world needs to know the Indian perspective on the ISI.",
+      "confidence": 0.99738586
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1761.595,
+      "end": 1764.655,
+      "text": "And I'm and I'm trying to be as objective and neutral as is possible.",
+      "confidence": 0.89984906
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1765.355,
+      "end": 1768.255,
+      "text": "So the ISI look. It needs to be exposed.",
+      "confidence": 0.9677778
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1769.53,
+      "end": 1770.27,
+      "text": "The Pakistani establishment,",
+      "confidence": 0.94405717
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1771.21,
+      "end": 1772.03,
+      "text": "the military",
+      "confidence": 0.99884295
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1772.65,
+      "end": 1773.3099,
+      "text": "ISI terrorist,",
+      "confidence": 0.9688292
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1774.49,
+      "end": 1774.99,
+      "text": "combination,",
+      "confidence": 0.9513668
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1775.53,
+      "end": 1778.59,
+      "text": "it has historically served as a mercenary",
+      "confidence": 0.9984954
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1779.21,
+      "end": 1779.71,
+      "text": "organization.",
+      "confidence": 0.9994676
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1780.17,
+      "end": 1782.11,
+      "text": "It's always served a bigger master.",
+      "confidence": 0.9602563
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1782.49,
+      "end": 1784.75,
+      "text": "Look. These people, they don't serve their people.",
+      "confidence": 0.9933049
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1785.505,
+      "end": 1786.965,
+      "text": "Let's say you are a dictatorship",
+      "confidence": 0.9828631
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1787.265,
+      "end": 1788.5449,
+      "text": "and you have a fake,",
+      "confidence": 0.93185455
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1788.865,
+      "end": 1790.965,
+      "text": "prime minister and legislator legislature",
+      "confidence": 0.9236495
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1791.265,
+      "end": 1802.7999,
+      "text": "and all that, but you are a dictatorship and you are hiding behind that. But as long as you're still serving your nation and your people, you're doing a good job. And I have no issue with with dictators who serve their nations.",
+      "confidence": 0.97330725
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1803.1,
+      "end": 1821.5951,
+      "text": "Lee Kuan Yew was a great example, a man who brought Singapore out of a third third world status into a first world status in just one in just one generation. He he you could call him a dictator, a benevolent dictator, and so on. So a dictatorship is I have no issue with that. But the problem is that these people, these generals, and these ISIA heads and bosses,",
+      "confidence": 0.96689385
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1822.055,
+      "end": 1827.1951,
+      "text": "they don't serve their people. They don't serve their nation. They serve whoever is giving them top dollar.",
+      "confidence": 0.99852604
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1827.55,
+      "end": 1832.53,
+      "text": "That's been their track record. And they are using the Pakistani people as cannon fodder.",
+      "confidence": 0.9700461
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1833.47,
+      "end": 1848.635,
+      "text": "And the Pakistani people are brainwashed through the education system and whatever other indoctrination methods they have. Lot of it involves some kind of religious thing. That's a whole different angle. So the Pakistani people are brainwashed into believing that these people are are our saviors. The ISI military terrorist,",
+      "confidence": 0.9625696
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1849.095,
+      "end": 1859.33,
+      "text": "combination. It's it's our they are our saviors who are keeping who are safeguarding us from the evil neighbor next door. Yeah. There's another objective human perspective here. Every time you go",
+      "confidence": 0.95538247
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1859.71,
+      "end": 1861.49,
+      "text": "to a Gulf country, you meet a Pakistani",
+      "confidence": 0.89533466
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1861.79,
+      "end": 1864.53,
+      "text": "who's working there. They all say that, hey.",
+      "confidence": 0.9388173
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1867.55,
+      "end": 1879.085,
+      "text": "That translates to the situation back home is terrible. Yes. They're talking about the financial situation. Yes. The military which is actually running the country doesn't know how to run the country, and they're running it into the ground.",
+      "confidence": 0.9738278
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1879.465,
+      "end": 1886.0449,
+      "text": "And their children all live in the West. Their families live in the West. And the average Pakistani citizen doesn't have that luxury",
+      "confidence": 0.9725986
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1886.4701,
+      "end": 1892.41,
+      "text": "or or that privilege of having of of being able to escape the country's situation. Yeah. The wealth disparity there",
+      "confidence": 0.954109
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1892.9501,
+      "end": 1894.17,
+      "text": "Yeah. Is insane.",
+      "confidence": 0.9864345
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1894.9501,
+      "end": 1899.8501,
+      "text": "That is what is causing the rich Pakistanis to settle in The UK, in Europe,",
+      "confidence": 0.9918498
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1900.4701,
+      "end": 1901.2101,
+      "text": "in Dubai.",
+      "confidence": 0.9943558
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1902.145,
+      "end": 1903.205,
+      "text": "The poor Pakistanis",
+      "confidence": 0.97900456
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1903.665,
+      "end": 1910.965,
+      "text": "have to leave the country for the sake of their families to provide. And they're not they're unhappy wherever they are. They miss being back home.",
+      "confidence": 0.94716007
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1911.425,
+      "end": 1922.0599,
+      "text": "And this is the outcome of letting the military run the country. Because in our country, the military does the military's job. Absolutely. And they do a damn good job. Mhmm. Does it matter who's in power in Pakistan?",
+      "confidence": 0.98009765
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1922.9199,
+      "end": 1940.2151,
+      "text": "It doesn't matter who's in power. It doesn't matter who's the prime minister. Because at the end of the day, it's the military ISI combination and the terrorist extension of theirs who are genu who are actually in power. Yeah. Another human context here. I once met a Pakistani journalist in UAE. Mhmm. We were at a content creator conference together.",
+      "confidence": 0.9629666
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1940.675,
+      "end": 1951.38,
+      "text": "And, he had told me this. I was much younger at the time. This was around four, five years ago. He said that, you know, one stark difference between India and Pakistan is in your country, the military doesn't own anything.",
+      "confidence": 0.9580219
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1951.68,
+      "end": 1957.38,
+      "text": "In our country, you walk around and you'll see restaurants owned by the military Yes. And businesses owned by the military.",
+      "confidence": 0.96235514
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1957.9851,
+      "end": 1964.245,
+      "text": "No one knows this until they actually visit Pakistan. Mhmm. This is what the globe doesn't know. That is not how",
+      "confidence": 0.9451976
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1964.9451,
+      "end": 1966.005,
+      "text": "flourishing countries",
+      "confidence": 0.9917916
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1966.9451,
+      "end": 1973.9199,
+      "text": "operate. That's right. The military is supposed to do the military's job. Mhmm. And almost any leader that we see in power in Pakistan for a sustained period of",
+      "confidence": 0.9738187
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1974.22,
+      "end": 1984.08,
+      "text": "time is likely just a puppet of the military. Well, that's typically how you fall out of power in Pakistan. Look. If you're a Pakistani politician, you have to pull the line of the ISI military terrorist,",
+      "confidence": 0.9721064
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1985.34,
+      "end": 1985.84,
+      "text": "entity.",
+      "confidence": 0.824728
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1986.195,
+      "end": 1991.495,
+      "text": "As long as you do that, you're allowed to amass as much wealth as you want. As long as you give a certain percentage,",
+      "confidence": 0.9837938
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1992.0349,
+      "end": 1999.015,
+      "text": "to the to the bosses. But you can amass as much wealth as you want as long as you don't try to grab too much power. You have to remember",
+      "confidence": 0.9669555
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1999.3949,
+      "end": 2008.9401,
+      "text": "where the real power lies. That's a difference between power and wealth. I did this one episode with Sushant Serene, who's a geopolitical analyst, studied Pakistan his whole life. What he basically said is that",
+      "confidence": 0.93115944
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2009.4,
+      "end": 2013.26,
+      "text": "the people in power are in charge of policies, but if any of the policies",
+      "confidence": 0.9634654
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2013.965,
+      "end": 2033.94,
+      "text": "are not in accordance with what the army wants, that's when you're in trouble. Yeah. So you're given a warning, I suppose, and you can rectify the the errors. But if you persist in having policies that go against what the army ISI entity wants, then you are in trouble. And yeah. I wonder how this kind of content doesn't reach educated Pakistanis.",
+      "confidence": 0.9620458
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2034.24,
+      "end": 2035.86,
+      "text": "Or it does and they just choose",
+      "confidence": 0.9032747
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2036.16,
+      "end": 2041.3,
+      "text": "to look past it. I suppose. They choose to look past it, I suppose. Okay. I think we should move on to the next chapter.",
+      "confidence": 0.96890455
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2042.1051,
+      "end": 2044.765,
+      "text": "Let's kind of put a global lens on this situation.",
+      "confidence": 0.9462471
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2045.2251,
+      "end": 2047.005,
+      "text": "Considering the possibility that",
+      "confidence": 0.99821067
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2048.825,
+      "end": 2050.205,
+      "text": "this conflict escalates,",
+      "confidence": 0.85588
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2051.145,
+      "end": 2053.725,
+      "text": "what impact will it have on global economies?",
+      "confidence": 0.98686695
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2054.98,
+      "end": 2057.8,
+      "text": "Perhaps beginning with both the Indian and Pakistani economy.",
+      "confidence": 0.97135997
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2058.1,
+      "end": 2064.36,
+      "text": "Look. The Pakistani economy doesn't really matter as a as a as an as as a it's it's not big enough to matter globally.",
+      "confidence": 0.9120607
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2064.74,
+      "end": 2069.4001,
+      "text": "The Indian economy, on the other hand, is the world's fourth fourth largest economy. It really matters.",
+      "confidence": 0.9572636
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2070.525,
+      "end": 2072.4648,
+      "text": "And there has been this concerted",
+      "confidence": 0.99716574
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2072.765,
+      "end": 2075.825,
+      "text": "push in the past few months and even years",
+      "confidence": 0.99752647
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2076.285,
+      "end": 2077.665,
+      "text": "to, from the West",
+      "confidence": 0.92301536
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2078.125,
+      "end": 2081.265,
+      "text": "to, have a China plus one policy when it comes to manufacturing",
+      "confidence": 0.99372435
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2081.565,
+      "end": 2095.08,
+      "text": "because it was very clear that from the time that Trump was the forty fifth president, The US and China are moving in different directions. So there was this necessity that western companies saw that we need to start looking beyond China for our manufacturing",
+      "confidence": 0.9721939
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2095.3801,
+      "end": 2101.885,
+      "text": "base. And the only nation that is comparable in size and that's the only viable candidate is India because of its enormous",
+      "confidence": 0.9758217
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2102.185,
+      "end": 2103.565,
+      "text": "size and capacity.",
+      "confidence": 0.9994261
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2104.185,
+      "end": 2120.72,
+      "text": "So it makes sense for Western companies now that the complete bifurcation has happened, the complete decoupling has happened because of Trump's, Trump's tariffs. It's it makes sense for Western companies to move their manufacturing base to India because we, in India, can give them, the rates that they want and we have the",
+      "confidence": 0.95258456
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2121.28,
+      "end": 2122.02,
+      "text": "all the ingredients",
+      "confidence": 0.92459446
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2122.48,
+      "end": 2123.22,
+      "text": "that you need.",
+      "confidence": 0.9080994
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2123.52,
+      "end": 2124.02,
+      "text": "So",
+      "confidence": 0.99971706
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2124.4,
+      "end": 2125.78,
+      "text": "for that to happen,",
+      "confidence": 0.9970236
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2126.2449,
+      "end": 2144.79,
+      "text": "Western companies need to see India as a stable nation. Now if India is a nation that starts engaging in war or gets dragged into gets enrolled in a war with some other nation, especially a terrorist nation like Pakistan, then it makes India look unstable. And then if you are an investor, you'll be wondering, should I invest in this nation, or will I lose my money if if I do that?",
+      "confidence": 0.960208
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2145.33,
+      "end": 2146.07,
+      "text": "So if",
+      "confidence": 0.99737763
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2146.37,
+      "end": 2147.75,
+      "text": "this situation escalates",
+      "confidence": 0.99945277
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2148.29,
+      "end": 2176.7102,
+      "text": "and it becomes a full fledged war, then it's gonna be bad for the Indian economy. And as an extension, it's gonna be a destabilizing factor for the global economy. Because India is so large, it can simply not be ignored. India is a major component now of the global economy. So it could be a significant destabilizing factor. Look. If India stays remains at peace for the next twenty years, there is no there is statistically 0% chance of India going into a recession. It's the only major economy that is projected",
+      "confidence": 0.977419
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2177.09,
+      "end": 2180.625,
+      "text": "to keep on growing at a really healthy rate, possibly very good.",
+      "confidence": 0.971674
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2181.105,
+      "end": 2197.34,
+      "text": "7% 8% plus possibly if we can pull it off. But India has no chance of going into a recession. But if there's a war like situation that persists and drags on for months or years, then that could be a big dampener on India's economic growth and that's bad for us. It's bad for the world.",
+      "confidence": 0.961935
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2198.12,
+      "end": 2199.9001,
+      "text": "So it's not in India's interest",
+      "confidence": 0.99009615
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2200.2002,
+      "end": 2202.3801,
+      "text": "to get embroiled in a Ukraine like situation",
+      "confidence": 0.9964711
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2202.76,
+      "end": 2203.58,
+      "text": "with the Pakistanis.",
+      "confidence": 0.99899817
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2204.04,
+      "end": 2205.5,
+      "text": "If the situation escalates,",
+      "confidence": 0.99047697
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2205.8,
+      "end": 2216.9048,
+      "text": "what needs to happen is India needs to very quickly have a war that lasts seventy two hours at most and do a pulse pause kind of thing. You you pulse and grab some territory twenty, thirty kilometers",
+      "confidence": 0.9632737
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2217.285,
+      "end": 2222.345,
+      "text": "inside, you know, inside Pakistani occupied territory, grab that, stop there and declare unilateral",
+      "confidence": 0.8880553
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2222.7249,
+      "end": 2237.12,
+      "text": "pause and inflict a proper military and political defeat in Pakistan. And then you ensure that they don't repeat that again. Yeah. So that's the kind of policy India will need to have. I'm sure it's all been war gamed out. I mean, that's what you do as as a as military generals and as as a professional,",
+      "confidence": 0.96447057
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2237.74,
+      "end": 2239.34,
+      "text": "armed force. So I think,",
+      "confidence": 0.985031
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2239.82,
+      "end": 2240.96,
+      "text": "if this situation",
+      "confidence": 0.99947613
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2241.525,
+      "end": 2254.28,
+      "text": "persists, it's gonna be bad for the global economy. Right now, India is not the origin at at any of the ends of a global supply chain network, but it it makes sense for India to become like that in the next five, ten years. So,",
+      "confidence": 0.97477025
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2254.6602,
+      "end": 2263.96,
+      "text": "I would want this situation to calm down as soon as possible, and I think it's up to us. I think it's in the ball is in India's India's corner. It's in India's court to ensure",
+      "confidence": 0.9648147
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2264.5,
+      "end": 2265.32,
+      "text": "that the Pakistanis",
+      "confidence": 0.9944307
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2265.7,
+      "end": 2278.855,
+      "text": "understand that this cannot this is not a sustainable situation. If you try to escalate, you're gonna be met with more pain, disproportionate pain, and we're gonna end this as soon as possible. It's looking like they're going to escalate. Well, look, if they don't escalate,",
+      "confidence": 0.9616284
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2279.155,
+      "end": 2280.455,
+      "text": "then the ISI military",
+      "confidence": 0.988847
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2281.155,
+      "end": 2281.655,
+      "text": "entity",
+      "confidence": 0.9986457
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2282.01,
+      "end": 2282.51,
+      "text": "loses",
+      "confidence": 0.98471075
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2282.8901,
+      "end": 2286.35,
+      "text": "face. They lose their legitimacy in the eyes of the people,",
+      "confidence": 0.994976
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2286.81,
+      "end": 2287.55,
+      "text": "of Pakistan.",
+      "confidence": 0.96210325
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2287.85,
+      "end": 2295.95,
+      "text": "And then there's gonna be riots in the streets. Because people will say that, what are you doing? You you're not doing what you're supposed to do. So if they don't escalate, they",
+      "confidence": 0.94586456
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2296.405,
+      "end": 2302.0251,
+      "text": "they'll they'll face the wrath of their people. So it looks like they will be forced to escalate in some way. Let's see how they escalate.",
+      "confidence": 0.98847586
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2303.125,
+      "end": 2304.5051,
+      "text": "I think they could escalate,",
+      "confidence": 0.9223383
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2305.5251,
+      "end": 2306.0251,
+      "text": "asymmetrically.",
+      "confidence": 0.9979316
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2306.645,
+      "end": 2311.465,
+      "text": "I hope it doesn't happen, but we need to be on, careful in India that there are no major",
+      "confidence": 0.96678877
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2311.79,
+      "end": 2314.13,
+      "text": "or or minor terrorist incidents in",
+      "confidence": 0.9608305
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2314.67,
+      "end": 2318.67,
+      "text": "big cities. That's one method that is very favored of",
+      "confidence": 0.96501815
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2319.31,
+      "end": 2323.0898,
+      "text": "that has historically been favored by the Pakistanis of escalating against India.",
+      "confidence": 0.93560416
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2323.47,
+      "end": 2325.73,
+      "text": "If the conflict escalates, who does it benefit?",
+      "confidence": 0.99768364
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2326.2952,
+      "end": 2336.7751,
+      "text": "There is one entity that that that does benefit and that is China. Look. Right now, there's this trade and tariff war going on between the Chinese and The US. It's been initiated by president Trump. 145%",
+      "confidence": 0.9577524
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2336.7751,
+      "end": 2340.635,
+      "text": "tariffs, which has essentially effectively decoupled the two economies.",
+      "confidence": 0.92044395
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2340.98,
+      "end": 2348.8398,
+      "text": "China was the major exporter to The US. Now they are not, exporting almost nothing. And they they are being denied Western technology which may be a little bit too late but whatever.",
+      "confidence": 0.9251702
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2349.46,
+      "end": 2349.96,
+      "text": "So",
+      "confidence": 0.9991566
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2350.66,
+      "end": 2352.68,
+      "text": "The US has not only",
+      "confidence": 0.98519915
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2353.475,
+      "end": 2356.615,
+      "text": "dumped a whole bunch of tariffs on the Chinese, but they have",
+      "confidence": 0.9732685
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2356.915,
+      "end": 2362.135,
+      "text": "started a trade war with their own allies. So it looks so it makes The US look like an unpredictable",
+      "confidence": 0.9929303
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2362.595,
+      "end": 2366.855,
+      "text": "and slightly crazy nation. And the Chinese look mature and stable in comparison.",
+      "confidence": 0.9888439
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2367.4402,
+      "end": 2371.06,
+      "text": "If the Americans if Trump had not imposed tariffs on his allies,",
+      "confidence": 0.9909458
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2371.36,
+      "end": 2381.62,
+      "text": "it would have been a whole different situation. But because he has done it to his own allies, that's why the Chinese seem to have the upper hand in that matter. So if this situation escalates,",
+      "confidence": 0.9780376
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2382.265,
+      "end": 2383.565,
+      "text": "then it's good for China.",
+      "confidence": 0.9586504
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2384.025,
+      "end": 2389.085,
+      "text": "Because then that major rival or competitor within the Asian the Asian sphere",
+      "confidence": 0.8948483
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2389.785,
+      "end": 2393.725,
+      "text": "kind of, you know, things don't look very, very good for it. It looks unstable,",
+      "confidence": 0.9447948
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2394.185,
+      "end": 2399.23,
+      "text": "and, investors will be wary of investing in India in that situation if the situation prolongs.",
+      "confidence": 0.982461
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2399.77,
+      "end": 2416.515,
+      "text": "So so the so the only entity that really benefits is China in this situation. The Chinese have been trying to, deescalate things with India. There was this terrible, clash in 2020 or something, the Galwan clash. 20 Indian soldiers died and many more Chinese died, but the the Chinese never released the actual figures.",
+      "confidence": 0.9499568
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2417.775,
+      "end": 2419.875,
+      "text": "And then there's there was this",
+      "confidence": 0.9809041
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2420.335,
+      "end": 2420.815,
+      "text": "this,",
+      "confidence": 0.74171364
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2421.295,
+      "end": 2430.93,
+      "text": "standoff between India and China along the undemarketed India Tibet border that persisted for years. Now last year last year, the Chinese began the process of of, let's say, deescalating.",
+      "confidence": 0.9645358
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2431.55,
+      "end": 2435.8699,
+      "text": "The escalation was done by them. The deescalation was also initiated by them. So now the two,",
+      "confidence": 0.98356324
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2436.43,
+      "end": 2439.01,
+      "text": "sides have kind of stood down to a certain extent.",
+      "confidence": 0.9795726
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2439.465,
+      "end": 2453.0852,
+      "text": "But at the same time, the Chinese are actually, strengthening their positions militarily on their side of of the India Tibet border. So the Chinese have been making sounds and noises like they want to deescalate with India and they want to kind of haposhima with India.",
+      "confidence": 0.94273764
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2453.8499,
+      "end": 2457.15,
+      "text": "But I think that phase is gone now. I think we may be past that now.",
+      "confidence": 0.95631707
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2457.45,
+      "end": 2460.91,
+      "text": "Now, after after the Indian strikes on Pakistan",
+      "confidence": 0.9846145
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2461.2898,
+      "end": 2471.335,
+      "text": "fifteen hours ago, the Chinese strongly condemned India's actions even though these actions are in our national interest and we are not attacking any civilians. So I think we're gonna see a new China Pakistan",
+      "confidence": 0.94419044
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2471.795,
+      "end": 2473.335,
+      "text": "access kind of phase",
+      "confidence": 0.9401679
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2473.635,
+      "end": 2475.7349,
+      "text": "and the India China friendship which may have",
+      "confidence": 0.9145782
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2476.275,
+      "end": 2477.7349,
+      "text": "possibly happened, I think that's",
+      "confidence": 0.9546501
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2478.355,
+      "end": 2480.2148,
+      "text": "passe now. What does it mean for America?",
+      "confidence": 0.9860149
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2480.96,
+      "end": 2484.66,
+      "text": "What it means for America is that, China gets what they have rejected.",
+      "confidence": 0.98821294
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2485.5999,
+      "end": 2493.7,
+      "text": "So that Americans have seem to have washed their hands of Pakistan, which is why Pakistan has been Pakistani leaders have been saying openly that they have been doing terrorism",
+      "confidence": 0.96370757
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2494.0,
+      "end": 2508.145,
+      "text": "for the Americans. So So that only happens when the when your master has served you with divorce papers. So China now gets a new proxy. Just like North Korea, they'll get another nation like Pakistan, and Pakistan will somehow be integrated in into the plants.",
+      "confidence": 0.9466638
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2509.2,
+      "end": 2511.54,
+      "text": "The Americans would want India to be stable.",
+      "confidence": 0.9767341
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2511.84,
+      "end": 2516.1,
+      "text": "The see, India is a major component of their Indo Pacific strategy.",
+      "confidence": 0.9624472
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2516.48,
+      "end": 2519.78,
+      "text": "They want to isolate China. The US wants to isolate China.",
+      "confidence": 0.96250784
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2520.08,
+      "end": 2524.02,
+      "text": "And you and if you want to isolate China, you need to prop somebody up",
+      "confidence": 0.99577326
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2524.355,
+      "end": 2525.9749,
+      "text": "who who could become a counterweight.",
+      "confidence": 0.96717805
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2526.275,
+      "end": 2531.1748,
+      "text": "Now India doesn't want to be used in that way, but sometimes you have no choice when you have,",
+      "confidence": 0.92916155
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2531.7148,
+      "end": 2534.2148,
+      "text": "a neighbor like China right next door.",
+      "confidence": 0.952805
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2534.515,
+      "end": 2560.575,
+      "text": "So we'll have to play a certain kind of game, a kind of balancing game. But if India gets embroiled in in a war like situation which persists with Pakistan over months or years, then it is bad for India. It's bad for the Indian economy. And by extension, it's bad for the Western economy and The US economy. The US would want Apple and whatever other Microsoft, Nvidia, etcetera, whoever it is, to set up manufacturing in India to replace what they have in China. But if India is unstable,",
+      "confidence": 0.9532267
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2561.1948,
+      "end": 2571.76,
+      "text": "then it's not gonna happen, and it's gonna be bad for their economy as well. So for from The US perspective, they would want the situation to stabilize as soon as possible. And that obviously can happen only,",
+      "confidence": 0.9726994
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2572.6199,
+      "end": 2597.31,
+      "text": "on India's terms, not in Pakistan's terms. Because Pakistan doesn't have the heft to inflict any kind of defeat on India. It can only be a nuisance factor or a nuisance as in terrorism. So we're gonna have to find a quick way of ending this. Effectively, it doesn't benefit anyone on a global level other than China? Other than China. That's right. Okay. Moving on. I wanna draw a hypothetical scenario for you and please tell me what do you think about this.",
+      "confidence": 0.9505736
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2598.01,
+      "end": 2600.9102,
+      "text": "In the long drawn trajectory of this conflict,",
+      "confidence": 0.94109774
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2601.61,
+      "end": 2606.485,
+      "text": "I think there will be a day where the Pakistani military is",
+      "confidence": 0.9930523
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2606.865,
+      "end": 2607.365,
+      "text": "nearing",
+      "confidence": 0.99966526
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2608.0652,
+      "end": 2609.7651,
+      "text": "its own extinction. Yeah.",
+      "confidence": 0.96396536
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2610.145,
+      "end": 2613.445,
+      "text": "Would they be tempted to use nukes at that point?",
+      "confidence": 0.9983572
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2613.905,
+      "end": 2616.725,
+      "text": "Does it make sense to lob nukes at your neighbor",
+      "confidence": 0.99665034
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2617.11,
+      "end": 2619.05,
+      "text": "when destruction is guaranteed?",
+      "confidence": 0.9066204
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2619.6702,
+      "end": 2621.53,
+      "text": "They launch one nuke at us,",
+      "confidence": 0.9535337
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2621.9102,
+      "end": 2625.53,
+      "text": "that's gonna be the tripwire which will give us the carte blanche",
+      "confidence": 0.9775626
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2625.83,
+      "end": 2635.085,
+      "text": "for launching a 100 nukes at them. We will not tolerate that. So in from any sane person's perspective, nuclear weapons should never be used. It's simply,",
+      "confidence": 0.96875167
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2636.265,
+      "end": 2637.7249,
+      "text": "you know, it's it's insurance",
+      "confidence": 0.9482771
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2638.265,
+      "end": 2641.1648,
+      "text": "but it's something you never wanna use in in realistically",
+      "confidence": 0.7562176
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2641.4648,
+      "end": 2647.6401,
+      "text": "in real life. So I think that the Pakistani military in in a future in a future date, if it's on its last legs,",
+      "confidence": 0.84981173
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2648.1,
+      "end": 2660.325,
+      "text": "I think the generals and the top brass will just simply choose to, you know, take a flight and and leave the country. But then the question arises that what happens to the nukes because they are still on Pakistani soil And that's where we don't know what happens.",
+      "confidence": 0.95027345
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2660.625,
+      "end": 2661.765,
+      "text": "We don't know what happens.",
+      "confidence": 0.99895877
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2662.385,
+      "end": 2669.6848,
+      "text": "Will the Chinese step in and take them? Will the Americans step in and take them? Or will we be able to step in and and secure the nukes? That is a",
+      "confidence": 0.9576133
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2670.2249,
+      "end": 2675.14,
+      "text": "a rather gray area and that is a point of of major concern. Because when you",
+      "confidence": 0.9747981
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2676.0,
+      "end": 2681.3,
+      "text": "it's like giving a chimpanzee a machine gun. That's sort of thing. You know, nothing anything could happen.",
+      "confidence": 0.8975728
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2682.56,
+      "end": 2688.745,
+      "text": "So that's why Pakistan is so dangerous and that that's the dilemma that we face, as to what happens there. So,",
+      "confidence": 0.95913154
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2689.225,
+      "end": 2702.68,
+      "text": "right now, we look at the short term scenario, but I think long term, like I said, the clock has already started ticking. The the Pahalgam attack was an inflection point in Pakistan history, and that is the day the the the countdown clocks are taken for Pakistan.",
+      "confidence": 0.93177634
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2703.22,
+      "end": 2708.36,
+      "text": "We have already abrogated the Indus Water Treaty, which means that now Pakistan's crops will not,",
+      "confidence": 0.92278844
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2709.14,
+      "end": 2722.765,
+      "text": "you know, do very well. Their their agriculture sector will will not do very well. Basically, the water that's originating in India will not find its way to Pakistan. It will find its way to Pakistan but erratically. It will not flow as expected. We and we are no longer under any obligation",
+      "confidence": 0.9398206
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2723.065,
+      "end": 2732.84,
+      "text": "to give them advance warning of how much water we're gonna withhold or when we're gonna release more water. So it's gonna be problematic for Pakistan. And, you know, they have given us no choice but but to employ",
+      "confidence": 0.9665675
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2733.22,
+      "end": 2733.72,
+      "text": "these,",
+      "confidence": 0.9720276
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2734.1,
+      "end": 2734.92,
+      "text": "these means.",
+      "confidence": 0.99536216
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2736.02,
+      "end": 2745.725,
+      "text": "So, yeah, the clock is ticking for ticking for Pakistan now. Their economy is gonna go downwards. I think India needs to ensure a complete, global boycott of Pakistan, isolation of Pakistan economically,",
+      "confidence": 0.95283896
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2747.145,
+      "end": 2752.445,
+      "text": "diplomatically, etcetera. But they're gonna have new masters, so they're gonna have a network that they can tap into.",
+      "confidence": 0.96681935
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2753.72,
+      "end": 2755.98,
+      "text": "The next chapter, and this is very key for me,",
+      "confidence": 0.9439846
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2756.92,
+      "end": 2759.18,
+      "text": "we gotta speak about the ethics of the situation",
+      "confidence": 0.9358071
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2759.64,
+      "end": 2760.14,
+      "text": "because",
+      "confidence": 0.581593
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2760.92,
+      "end": 2761.66,
+      "text": "in truth,",
+      "confidence": 0.8939427
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2762.2798,
+      "end": 2764.2998,
+      "text": "extremely objectively speaking,",
+      "confidence": 0.9827542
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2765.0,
+      "end": 2766.38,
+      "text": "ethics are always subjective.",
+      "confidence": 0.9312228
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2767.445,
+      "end": 2770.585,
+      "text": "And both sides view the other one as the oppressor, as the aggressor.",
+      "confidence": 0.9888351
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2772.645,
+      "end": 2773.305,
+      "text": "I think",
+      "confidence": 0.9992591
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2773.685,
+      "end": 2776.025,
+      "text": "most of the globe understands what",
+      "confidence": 0.99716973
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2776.325,
+      "end": 2777.945,
+      "text": "is happening in the countries",
+      "confidence": 0.9978905
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2778.645,
+      "end": 2779.145,
+      "text": "because",
+      "confidence": 0.9512553
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2779.525,
+      "end": 2784.67,
+      "text": "of Pakistan's history with respect to terrorism. Yes. At least that's what I sense based on,",
+      "confidence": 0.97443813
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2785.6099,
+      "end": 2787.15,
+      "text": "the coverage that I see,",
+      "confidence": 0.99107
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2787.93,
+      "end": 2796.955,
+      "text": "on some news channels. Like, I think Sky News had a reporter who gave it back to the the information minister of Pakistan. That lady is of of one origin, Yalda Hakim.",
+      "confidence": 0.93412584
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2797.335,
+      "end": 2798.155,
+      "text": "Okay. Yes.",
+      "confidence": 0.9951368
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2798.5352,
+      "end": 2809.0352,
+      "text": "And she gave it back very well and he didn't have the right responses for her. Mhmm. He kind of just deflected the accusations. He said that we categorically categorically denied this. At the end, that's what he said. Yeah. Yes.",
+      "confidence": 0.94759554
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2809.46,
+      "end": 2813.24,
+      "text": "But you can't deny what the world has seen over the last two decades. Yes.",
+      "confidence": 0.99558544
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2813.6199,
+      "end": 2816.0398,
+      "text": "She also said that would you be willing to",
+      "confidence": 0.95090795
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2816.3398,
+      "end": 2819.7998,
+      "text": "take journalists to the side of the attacks and confirm that",
+      "confidence": 0.9277734
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2820.0999,
+      "end": 2828.605,
+      "text": "children and families are actually targeted by the Indian military? He deflected it again. Mhmm. He said, yeah. Of course, we're ready. And she's like, no. But we haven't been given access.",
+      "confidence": 0.92722225
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2828.905,
+      "end": 2830.925,
+      "text": "That's why I'm bringing up the question. Right.",
+      "confidence": 0.9721815
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2831.7852,
+      "end": 2833.965,
+      "text": "The world is witnessing moments like this.",
+      "confidence": 0.992935
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2836.2651,
+      "end": 2837.725,
+      "text": "In your eyes, sir, considering",
+      "confidence": 0.8917011
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2838.5498,
+      "end": 2843.45,
+      "text": "just this one statement that ethics are always subjective based on side that you're on.",
+      "confidence": 0.94021076
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2844.3098,
+      "end": 2855.0552,
+      "text": "That also extends itself to the possibility that some terrorist thinks that they're doing the right thing. Well, I'm sure most terrorist think that they're on the right side. Right? Yes. But here we're talking about two nations at war",
+      "confidence": 0.94203234
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2855.915,
+      "end": 2859.375,
+      "text": "and anything that an Indian social media page",
+      "confidence": 0.9145499
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2860.395,
+      "end": 2862.495,
+      "text": "is uploading about operation Sandoor",
+      "confidence": 0.76400614
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2863.0352,
+      "end": 2866.0952,
+      "text": "is being viewed as a vile act by all Pakistanis.",
+      "confidence": 0.9833062
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2866.59,
+      "end": 2871.01,
+      "text": "And I'm also assuming that Pakistani media this morning was carrying the news,",
+      "confidence": 0.96984863
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2872.1902,
+      "end": 2874.77,
+      "text": "that we targeted women and children. Okay.",
+      "confidence": 0.9841761
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2876.75,
+      "end": 2880.29,
+      "text": "Good point to talk about Azhar Masood also. Okay.",
+      "confidence": 0.92672753
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2881.545,
+      "end": 2882.845,
+      "text": "And the Jasmine Mohammed",
+      "confidence": 0.78398526
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2883.185,
+      "end": 2883.685,
+      "text": "and,",
+      "confidence": 0.9686794
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2885.545,
+      "end": 2886.045,
+      "text": "his",
+      "confidence": 0.98593056
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2886.425,
+      "end": 2886.925,
+      "text": "hideout,",
+      "confidence": 0.9947732
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2887.625,
+      "end": 2889.565,
+      "text": "which was also the home for his family",
+      "confidence": 0.9424622
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2889.865,
+      "end": 2890.6848,
+      "text": "being targeted",
+      "confidence": 0.9889064
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2891.545,
+      "end": 2894.125,
+      "text": "and Pakistani military leaders attending",
+      "confidence": 0.962948
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2894.505,
+      "end": 2895.165,
+      "text": "the funeral",
+      "confidence": 0.9917556
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2897.09,
+      "end": 2899.9102,
+      "text": "It's a visual for the world to see. Yes. Very clear.",
+      "confidence": 0.9366253
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2900.61,
+      "end": 2902.71,
+      "text": "How is the average Pakistani not",
+      "confidence": 0.9849414
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2903.01,
+      "end": 2903.51,
+      "text": "digesting",
+      "confidence": 0.99860096
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2904.37,
+      "end": 2910.23,
+      "text": "the truth about the ethics of what's going on? Right. Good question. Look, first of all, we have to look at it from this perspective.",
+      "confidence": 0.9836769
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2910.855,
+      "end": 2911.355,
+      "text": "Terrorism",
+      "confidence": 0.99910283
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2912.135,
+      "end": 2912.955,
+      "text": "is evil.",
+      "confidence": 0.9988806
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2913.735,
+      "end": 2917.035,
+      "text": "I don't think I have to say this, but maybe I do have to say this.",
+      "confidence": 0.98101294
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2917.575,
+      "end": 2918.475,
+      "text": "Terrorism is evil.",
+      "confidence": 0.96063846
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2919.015,
+      "end": 2920.635,
+      "text": "What is the definition of terrorism?",
+      "confidence": 0.99848723
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2920.935,
+      "end": 2924.075,
+      "text": "The definition of terror is that you have an adversary and you choose to",
+      "confidence": 0.95378864
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2924.375,
+      "end": 2927.5,
+      "text": "target their citizens, the helpless citizens.",
+      "confidence": 0.97563004
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2928.1199,
+      "end": 2932.46,
+      "text": "It is okay in by the rules of warfare to target the adversary's military.",
+      "confidence": 0.97054225
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2933.08,
+      "end": 2937.5,
+      "text": "But you don't target civilians. You don't target women, children, unarmed people, noncombatants.",
+      "confidence": 0.97879833
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2938.235,
+      "end": 2944.175,
+      "text": "And that's the definition of terrorism. And that is exactly what Pakistan has been doing for decades.",
+      "confidence": 0.98442304
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2944.795,
+      "end": 2948.655,
+      "text": "Now I get the feeling that most Pakistanis see this as legitimate",
+      "confidence": 0.9674468
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2949.115,
+      "end": 2952.095,
+      "text": "for whatever perspective. Maybe it's a cultural perspective.",
+      "confidence": 0.8654026
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2952.53,
+      "end": 2957.27,
+      "text": "Maybe it's something else. I don't know. It beats me. I mean, maybe the news doesn't reach them.",
+      "confidence": 0.97894657
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2958.29,
+      "end": 2962.23,
+      "text": "I think the Mumbai attacks reached them. The news of that reached them.",
+      "confidence": 0.96821046
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2962.53,
+      "end": 2968.915,
+      "text": "And I would say most of them would have many of them at least would have celebrated that we inflicted this pain on India.",
+      "confidence": 0.94813615
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2969.615,
+      "end": 2971.555,
+      "text": "They see India as the enemy.",
+      "confidence": 0.9008565
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2971.935,
+      "end": 2973.635,
+      "text": "They are taught, they are indoctrinated",
+      "confidence": 0.89761585
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2974.175,
+      "end": 2980.65,
+      "text": "to see India as the enemy and therefore, it's okay to hurt India, to bleed India. So I think a significant",
+      "confidence": 0.95327276
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2981.19,
+      "end": 2982.49,
+      "text": "majority of the Pakistani",
+      "confidence": 0.9955274
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2983.11,
+      "end": 2983.61,
+      "text": "population",
+      "confidence": 0.996421
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2984.07,
+      "end": 2986.65,
+      "text": "would be okay with terrorism or any other means.",
+      "confidence": 0.99275166
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2987.99,
+      "end": 2990.81,
+      "text": "So my first point is, from an ethics perspective,",
+      "confidence": 0.9554118
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2991.43,
+      "end": 2992.49,
+      "text": "targeting civilians,",
+      "confidence": 0.9919205
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2993.145,
+      "end": 2994.205,
+      "text": "targeting noncombatants",
+      "confidence": 0.9675621
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2994.825,
+      "end": 2995.565,
+      "text": "is evil.",
+      "confidence": 0.94481164
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2995.865,
+      "end": 2996.365,
+      "text": "Terrorism",
+      "confidence": 0.9997135
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2996.665,
+      "end": 2997.405,
+      "text": "is evil.",
+      "confidence": 0.9868028
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2997.785,
+      "end": 2998.285,
+      "text": "And",
+      "confidence": 0.9988675
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2998.745,
+      "end": 3005.405,
+      "text": "I don't think we are in a we are in a situation where we have to prove that Pakistan has been doing this. So Pakistan",
+      "confidence": 0.98280084
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3005.705,
+      "end": 3015.1099,
+      "text": "clearly is a terrorist nation. It's the global epicenter of terrorism. I think most Pakistanis citizens are okay with terrorism as as long as it as it is directed at India.",
+      "confidence": 0.94625646
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3015.8098,
+      "end": 3018.7898,
+      "text": "And from an ethics perspective, when you have an evil nation",
+      "confidence": 0.9931621
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3019.25,
+      "end": 3021.19,
+      "text": "that is constantly bleeding you,",
+      "confidence": 0.9517455
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3021.505,
+      "end": 3029.445,
+      "text": "you have the right to self defense. I don't think I need to say that we have the right to self defense, but maybe we didn't need to state this. So we will do whatever it takes",
+      "confidence": 0.9777456
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3030.2249,
+      "end": 3031.845,
+      "text": "to end this abomination",
+      "confidence": 0.99726474
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3032.705,
+      "end": 3035.925,
+      "text": "that is Pakistan's terror factory. And if civilians",
+      "confidence": 0.9817846
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3036.39,
+      "end": 3037.13,
+      "text": "by chance",
+      "confidence": 0.9994613
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3037.75,
+      "end": 3038.5698,
+      "text": "get affected",
+      "confidence": 0.992116
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3038.95,
+      "end": 3041.3699,
+      "text": "during our retaliation, it is not our responsibility.",
+      "confidence": 0.96125567
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3041.8298,
+      "end": 3044.17,
+      "text": "It is the responsibility of the terror machine",
+      "confidence": 0.9990568
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3044.5498,
+      "end": 3049.21,
+      "text": "that they are putting civilians their own civilians in harm's way by having terror factories all across the place.",
+      "confidence": 0.9861384
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3049.575,
+      "end": 3053.035,
+      "text": "That's what I would say. My perspective is very clear. India",
+      "confidence": 0.9866106
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3053.335,
+      "end": 3055.915,
+      "text": "is the victim. It's not Pakistan that's the victim.",
+      "confidence": 0.9978297
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3056.375,
+      "end": 3059.595,
+      "text": "India is the victim. We have been the victim of this for decades.",
+      "confidence": 0.94940877
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3060.2148,
+      "end": 3070.32,
+      "text": "And now we're gonna stand up for ourselves and we're no no longer gonna be a soft state of punching bag. You hit us, we're gonna hit you back twice twice as hard. And this can go on indefinitely if you want.",
+      "confidence": 0.93184334
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3071.9802,
+      "end": 3073.9202,
+      "text": "I think this is a good point to end the episode.",
+      "confidence": 0.9895057
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3074.2202,
+      "end": 3080.0,
+      "text": "You know, I'd like to tell the world that if you actually study the history of India and Pakistan,",
+      "confidence": 0.9917073
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3080.9949,
+      "end": 3083.575,
+      "text": "the Muslims who chose to stay back in India",
+      "confidence": 0.9869084
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3084.275,
+      "end": 3095.4949,
+      "text": "wanted to stay alongside people of other faiths. You know, that's an interesting point to bring in. See India and Pakistan were created as two nations and Pakistan was was cut out of Indian territory as a homeland for the Muslims.",
+      "confidence": 0.9433323
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3095.94,
+      "end": 3099.48,
+      "text": "But a whole lot of Muslims chose to stay back in India.",
+      "confidence": 0.98925334
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3099.78,
+      "end": 3104.3599,
+      "text": "Were they forced to leave India? Did the Hindus force them to leave India? When Turkey",
+      "confidence": 0.9707005
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3104.66,
+      "end": 3108.1199,
+      "text": "became independent in the nineteen twenties, there was this forced,",
+      "confidence": 0.9887236
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3109.145,
+      "end": 3109.645,
+      "text": "expulsion",
+      "confidence": 0.99437296
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3109.945,
+      "end": 3132.06,
+      "text": "of Christians and and non Muslims out of Turkey. And the same thing happened from Greece. We did not ever do that. We had no issue with Muslims staying back in India. So that that proves that, you know, it is our cultural and civilization ethos to be accepting of everybody. We have no hate for anybody. It's the Pakistanis who hate. If you look at the fate of their non Muslim population since 1947,",
+      "confidence": 0.9800899
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3132.12,
+      "end": 3133.18,
+      "text": "look at what's happened.",
+      "confidence": 0.99233294
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3133.64,
+      "end": 3136.06,
+      "text": "They have been decimated. They have been genocided or converted.",
+      "confidence": 0.9505947
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3136.92,
+      "end": 3138.38,
+      "text": "So we are very different nations.",
+      "confidence": 0.99765944
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3139.385,
+      "end": 3141.645,
+      "text": "We are two very different nations. Pakistan",
+      "confidence": 0.9954974
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3142.265,
+      "end": 3146.125,
+      "text": "is definitely not like India and we don't want to be like them. Yeah.",
+      "confidence": 0.96035516
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3146.425,
+      "end": 3151.405,
+      "text": "I think when you build an entire nation on the concept of religion,",
+      "confidence": 0.9982637
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3151.95,
+      "end": 3153.01,
+      "text": "it does lead",
+      "confidence": 0.9981051
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3153.55,
+      "end": 3155.0898,
+      "text": "to problems in the long term.",
+      "confidence": 0.99819255
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3156.83,
+      "end": 3157.97,
+      "text": "A nation, especially",
+      "confidence": 0.9396467
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3158.3499,
+      "end": 3159.57,
+      "text": "in the modern day,",
+      "confidence": 0.9865695
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3160.03,
+      "end": 3160.53,
+      "text": "that",
+      "confidence": 0.9997267
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3160.91,
+      "end": 3162.77,
+      "text": "wishes to do well globally",
+      "confidence": 0.9955017
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3163.47,
+      "end": 3167.305,
+      "text": "has to have secular flavor, has to have cosmopolitan flavor.",
+      "confidence": 0.95835894
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3167.765,
+      "end": 3170.105,
+      "text": "And that is why we're the fourth largest economy",
+      "confidence": 0.9844031
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3170.4849,
+      "end": 3172.585,
+      "text": "because we're a combination of multiple faiths.",
+      "confidence": 0.89937544
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3173.2048,
+      "end": 3174.9849,
+      "text": "But this narrative is also important",
+      "confidence": 0.9901931
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3175.765,
+      "end": 3177.385,
+      "text": "for the global context.",
+      "confidence": 0.99900335
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3178.74,
+      "end": 3182.68,
+      "text": "The only thing I'd like to point the audience towards now is",
+      "confidence": 0.99677974
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3183.22,
+      "end": 3185.32,
+      "text": "a video about the BLA,",
+      "confidence": 0.97946274
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3185.86,
+      "end": 3187.56,
+      "text": "the Baloch Liberation Army.",
+      "confidence": 0.91273534
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3188.02,
+      "end": 3193.065,
+      "text": "Because this India Pakistan conflict is not the only problem that Pakistan is currently going through.",
+      "confidence": 0.989838
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3194.7449,
+      "end": 3204.925,
+      "text": "It is inching towards civil war as well. Look up the history of Balochistan. Look up everything that's happening there right now and head into any of our old podcast.",
+      "confidence": 0.9610671
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3205.385,
+      "end": 3212.46,
+      "text": "AC, thank you. This was a pleasure once again. Hope we did our job well for the global audience. Thank you. Thank you, sir.",
+      "confidence": 0.9713385
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3213.0,
+      "end": 3216.54,
+      "text": "That was the episode for today. Ladies and gentlemen, I point you towards",
+      "confidence": 0.9448834
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3216.92,
+      "end": 3219.18,
+      "text": "the episode we created with Sushant Serene.",
+      "confidence": 0.9408402
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3219.48,
+      "end": 3219.98,
+      "text": "It's",
+      "confidence": 0.998948
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3220.3599,
+      "end": 3223.3398,
+      "text": "a detailed breakdown of everything that's happening in Pakistan",
+      "confidence": 0.99563766
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3224.0151,
+      "end": 3226.2751,
+      "text": "outside of the India Pakistan conflict.",
+      "confidence": 0.9739683
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3227.7751,
+      "end": 3235.955,
+      "text": "I hope that this particular podcast reaches a lot of Pakistanis out there as well. I repeat, India does not count the average Pakistani",
+      "confidence": 0.99544567
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3236.2551,
+      "end": 3237.075,
+      "text": "as its enemy.",
+      "confidence": 0.9970649
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3237.4102,
+      "end": 3239.9102,
+      "text": "For us, the ISI and the Pakistani military",
+      "confidence": 0.97076446
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3240.85,
+      "end": 3244.87,
+      "text": "are the greatest villains when it comes to the process of",
+      "confidence": 0.99795246
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3245.1702,
+      "end": 3246.47,
+      "text": "peace between our nations.",
+      "confidence": 0.92428875
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3247.09,
+      "end": 3247.83,
+      "text": "And, also,",
+      "confidence": 0.8997147
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3248.4502,
+      "end": 3252.79,
+      "text": "in some way, the biggest villains when it comes to the subject of world peace.",
+      "confidence": 0.9773251
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3254.5752,
+      "end": 3256.595,
+      "text": "This episode was created with",
+      "confidence": 0.9472254
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3257.2952,
+      "end": 3267.8599,
+      "text": "the intention of reaching global audiences. So if you are from another country, I'd love to hear your feedback on this episode. Going to be creating a lot more geopolitical content in the near future. Thank you for",
+      "confidence": 0.9846174
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3272.16,
+      "end": 3272.91,
+      "text": "listening in.",
+      "confidence": 0.8775265
+    }
+  ]
+}

@@ -1,0 +1,3135 @@
+{
+  "total_segments": 390,
+  "speakers": [
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2"
+    }
+  ],
+  "segments": [
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 17.145,
+      "end": 21.305,
+      "text": "Thank you so much for doing this with us. No. Not at all. And giving us your time. Not at all.",
+      "confidence": 0.94327515
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 21.945,
+      "end": 25.725,
+      "text": "I'm I'm most interested about this fact that you actually grew up in this building.",
+      "confidence": 0.9575108
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 26.4,
+      "end": 42.425003,
+      "text": "Yes. Well, I was 11 when my parents moved here. Yeah. On the Top Floor. Right. So since I remember I've been in this place all my life. Yeah. On a different floor? On a different floor. The same building. Yeah. And what kind of a student were you in school? Very average.",
+      "confidence": 0.9276854
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 43.045002,
+      "end": 45.785,
+      "text": "I was actually not so interested in academics.",
+      "confidence": 0.8901745
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 46.565002,
+      "end": 47.285,
+      "text": "And I think that,",
+      "confidence": 0.96144056
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 48.645,
+      "end": 52.105003,
+      "text": "the few times that there was a teacher who was interesting,",
+      "confidence": 0.9787856
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 53.100002,
+      "end": 58.56,
+      "text": "I used to, you know, pay attention that particular year to that particular teacher and score really high in that subject.",
+      "confidence": 0.95974076
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 59.420002,
+      "end": 63.92,
+      "text": "But, otherwise, I was very average and I was my homework was never in time because I was more into,",
+      "confidence": 0.8935588
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 64.78,
+      "end": 69.945,
+      "text": "sports and reading. I love reading. I started reading at the age of six. Wow. So I used to read a lot.",
+      "confidence": 0.97846353
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 70.485,
+      "end": 70.805,
+      "text": "And,",
+      "confidence": 0.80960476
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 71.365005,
+      "end": 84.079994,
+      "text": "in your family your father was a producer. There was a bit of a filming background. Mhmm. So what was that influence like while you were growing up? Is that something you saw? Well, I did. Yes. I saw films being made around me and there would be",
+      "confidence": 0.95598984
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 84.38,
+      "end": 86.38,
+      "text": "what I remember most about it is we never,",
+      "confidence": 0.9619871
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 86.78,
+      "end": 97.725,
+      "text": "like my father, never really took us to film shoots and all that. So I never very rarely would be able to go to a film shoot. And And whenever I went to a film shoot, I felt very shy and awkward. There were so many people. It was so noisy and,",
+      "confidence": 0.93027127
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 98.105,
+      "end": 99.645004,
+      "text": "you know, I felt so,",
+      "confidence": 0.9676204
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 100.025,
+      "end": 100.685,
+      "text": "you know,",
+      "confidence": 0.99188256
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 101.225,
+      "end": 103.005,
+      "text": "like I don't belong there, you know.",
+      "confidence": 0.91551256
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 103.785,
+      "end": 107.61,
+      "text": "So I should not like to go to shoots. But what I used to really love",
+      "confidence": 0.94318223
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 108.39,
+      "end": 109.53,
+      "text": "was listening to stories.",
+      "confidence": 0.95230854
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 110.47,
+      "end": 118.89,
+      "text": "And a lot of writers and directors would come home to pitch stories to my father. Yeah. Sometimes they would be just concepts which took them fifteen minutes to narrate.",
+      "confidence": 0.9754726
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 119.215004,
+      "end": 120.275,
+      "text": "Sometimes it was,",
+      "confidence": 0.97014755
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 120.815,
+      "end": 135.03,
+      "text": "fully developed script. Sometimes it was with dialogues and, you know, like like really totally locked script. So sometimes the narrations would be fifteen minutes, half an hour. Sometimes they would be three hours, four hours. Whenever I was at home and the narration was happening, I would always sit in",
+      "confidence": 0.9478231
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 135.99,
+      "end": 136.73,
+      "text": "and listen",
+      "confidence": 0.9980383
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 137.19,
+      "end": 146.25,
+      "text": "to the story because I just love stories. So I used to listen to so I was to listen to a thousands, I mean, thousands of stories over the years since the age of six to,",
+      "confidence": 0.90134114
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 147.91,
+      "end": 149.45,
+      "text": "till I was 14, 15.",
+      "confidence": 0.88447493
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 150.155,
+      "end": 155.61499,
+      "text": "So while growing up, you know, the the question that we get asked the most is what do you want to be when you grow up? Oh, yeah.",
+      "confidence": 0.9635898
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 156.235,
+      "end": 158.655,
+      "text": "When when I was asked what I want to be as a kid,",
+      "confidence": 0.9330076
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 159.83499,
+      "end": 161.935,
+      "text": "I used to say different things at different times.",
+      "confidence": 0.99152875
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 163.56,
+      "end": 168.54,
+      "text": "I've also said astronaut and scientist and, you know, bizarre things like that. Football player, cricketer.",
+      "confidence": 0.9636731
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 169.48,
+      "end": 172.62,
+      "text": "So anyway, I was in the 10 standard. I was about 14, 15 or something.",
+      "confidence": 0.9057748
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 173.08,
+      "end": 175.9,
+      "text": "And, I had a classmate Aditya Bhattacharya.",
+      "confidence": 0.9433078
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 176.2,
+      "end": 178.62,
+      "text": "Okay. Basudas son. Basudas Bhattacharya son.",
+      "confidence": 0.7552221
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 191.07999,
+      "end": 192.37999,
+      "text": "My dad's got a camera.",
+      "confidence": 0.9649742
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 192.84,
+      "end": 195.34,
+      "text": "I'm gonna get stock free from Manbon Shetty",
+      "confidence": 0.88946235
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 196.68,
+      "end": 197.81999,
+      "text": "or I'll get it cheap.",
+      "confidence": 0.8717475
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 198.35999,
+      "end": 198.76,
+      "text": "And,",
+      "confidence": 0.86814165
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 199.15999,
+      "end": 201.81999,
+      "text": "he'll you know, he won't charge us much at all. He's got a lab.",
+      "confidence": 0.87635124
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 202.51999,
+      "end": 203.23999,
+      "text": "And we'll,",
+      "confidence": 0.8177562
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 203.79999,
+      "end": 204.85999,
+      "text": "we'll make a film.",
+      "confidence": 0.9899415
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 205.455,
+      "end": 209.955,
+      "text": "So it was kind of an very esoteric kind of a film. There were no dialogues. It was all silent. Yeah.",
+      "confidence": 0.8748642
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 210.735,
+      "end": 215.955,
+      "text": "But I have to say it was quite a well mounted film. So Victor Banerjee was my father.",
+      "confidence": 0.9725918
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 218.68,
+      "end": 220.94,
+      "text": "My mother was, I think, Shilbad Deshpande.",
+      "confidence": 0.88865143
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 221.31999,
+      "end": 222.7,
+      "text": "I'm I'm figuring right now.",
+      "confidence": 0.87689865
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 223.56,
+      "end": 225.5,
+      "text": "But very fine artist from Marathi,",
+      "confidence": 0.8859768
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 226.2,
+      "end": 227.66,
+      "text": "theater and cinema. And,",
+      "confidence": 0.90449286
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 228.12,
+      "end": 233.495,
+      "text": "Nina Gupta was playing my girlfriend. Oh. Yeah. And there was Alok Nath, I remember in a scene",
+      "confidence": 0.9388454
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 234.11499,
+      "end": 237.575,
+      "text": "where he's beating up he and some five six people are beating up some",
+      "confidence": 0.9415042
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 237.955,
+      "end": 244.215,
+      "text": "guy. And so I'm seeing that violence in my reaction to that. So there were it was like quite quite well mounted. Ashok Mehta,",
+      "confidence": 0.885334
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 244.595,
+      "end": 250.13,
+      "text": "the very famous DOP was shot the film. Oh, wow. Because he was a close friend of Vasudha and so",
+      "confidence": 0.90398467
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 250.43001,
+      "end": 259.81,
+      "text": "Aditi had a lot of connections. Yeah. He used all of that. And we ended up making a forty minute silent film. And when I'm saying silent, I mean pin drop silence. Wow. There was no dialogue.",
+      "confidence": 0.936128
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 260.205,
+      "end": 266.785,
+      "text": "There was no background score. There were no sound effects. There was no atmospheric sound. It was just you hear the hiss of the projector.",
+      "confidence": 0.9429663
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 268.445,
+      "end": 272.785,
+      "text": "So I hid it from my parents that I was doing this film. But what happened is that the experience",
+      "confidence": 0.9764732
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 273.885,
+      "end": 274.385,
+      "text": "of",
+      "confidence": 0.999206
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 275.09,
+      "end": 277.43,
+      "text": "trying to help Aditya make this film,",
+      "confidence": 0.97082424
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 277.88998,
+      "end": 281.59,
+      "text": "you know, all the various activities that you go through in making a film, that experience",
+      "confidence": 0.9459208
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 282.21,
+      "end": 283.99,
+      "text": "gave me a lot of joy. Mhmm.",
+      "confidence": 0.9569491
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 284.45,
+      "end": 287.66998,
+      "text": "And that one month made me realize that this is where I belong.",
+      "confidence": 0.9908831
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 288.01498,
+      "end": 293.955,
+      "text": "Wow. That's when I realized. And so I was very young. So when you asked me what did you want to be? For the longest time, I had different ideas,",
+      "confidence": 0.9095533
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 295.455,
+      "end": 311.12997,
+      "text": "including born into a tennis player. But that's when I actually zeroed in on what I wanted to do in life because I experienced that life. I have lived it for a month and I was like, you know, this this is what makes me happy. Yeah. Being part of telling a story. Wow. That's what makes me happy.",
+      "confidence": 0.94519705
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 311.43,
+      "end": 315.285,
+      "text": "And so that's when I decided I want to be in the films, which was I think it was about",
+      "confidence": 0.9513405
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 316.245,
+      "end": 324.025,
+      "text": "15 max sixteen hours when I And what were your parents' reaction? So this film, what happened is when it got ready, this forty minutes film, but it's called paranoia.",
+      "confidence": 0.83165175
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 324.48502,
+      "end": 324.98502,
+      "text": "Okay.",
+      "confidence": 0.99016094
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 326.405,
+      "end": 326.905,
+      "text": "And,",
+      "confidence": 0.9684547
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 327.365,
+      "end": 331.56,
+      "text": "Aditya wanted to show it to a few people. So one of the persons he showed it to was Shivan Azmi. Okay.",
+      "confidence": 0.8972124
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 332.02,
+      "end": 334.84,
+      "text": "And his mom was a close friend of Shivanaji and,",
+      "confidence": 0.9452689
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 337.06,
+      "end": 339.62,
+      "text": "so one day at Dimple Theater, Rajendra Kumar's Theater,",
+      "confidence": 0.85372865
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 341.22,
+      "end": 345.8,
+      "text": "it was there was screening and only Shivanaji was called for the screening and she came to watch the film.",
+      "confidence": 0.93513155
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 346.335,
+      "end": 349.315,
+      "text": "And Nikkad, my sister and I were sitting at the back. Mhmm.",
+      "confidence": 0.85757226
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 350.975,
+      "end": 354.275,
+      "text": "And Aditya was in front and the film got over and,",
+      "confidence": 0.9181526
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 355.295,
+      "end": 358.755,
+      "text": "when the film got over she said, well, you know, to be honest I couldn't understand anything.",
+      "confidence": 0.9070076
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 360.015,
+      "end": 364.68,
+      "text": "It was a big tech, you know, high funder other film. Mhmm. So she said I couldn't understand anything but",
+      "confidence": 0.80506
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 365.7,
+      "end": 366.84,
+      "text": "but who's that boy?",
+      "confidence": 0.8947972
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 368.58002,
+      "end": 369.64,
+      "text": "He's really good.",
+      "confidence": 0.97908115
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 370.1,
+      "end": 372.12,
+      "text": "So I kind of sunk lower in my chair.",
+      "confidence": 0.8519892
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 373.22,
+      "end": 376.68,
+      "text": "Dimple is like the high back chair, so now it doesn't exist anymore.",
+      "confidence": 0.8332401
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 377.315,
+      "end": 377.815,
+      "text": "But,",
+      "confidence": 0.96543914
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 378.995,
+      "end": 383.175,
+      "text": "so Rinki aunty said, that's Tahir's son. My father's name is Tahir.",
+      "confidence": 0.908053
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 384.035,
+      "end": 390.535,
+      "text": "So she said, that's Tahir's son. He said, oh, where where is he? He said, he's sitting in the back. So I stood up. She said, what's your name? I said, Amir.",
+      "confidence": 0.95217514
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 391.1,
+      "end": 397.36,
+      "text": "She said, you're Taissa's son. I said, yeah. She said, well, I'm doing a film with your father. So she was shooting for a film at that time with my father.",
+      "confidence": 0.9616984
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 397.74,
+      "end": 402.48,
+      "text": "So I said, yes. I know. She said, I must tell him that you're a very good actor. I said, no. You can't.",
+      "confidence": 0.96754175
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 402.86,
+      "end": 416.79,
+      "text": "He doesn't know you've done this film. And he's a very short-tempered person then. And that, of course, Shivana ji knew because the whole industry knew how short-tempered my father was. So she said, oh, yeah. Yeah. Okay. So, so I said, you can't let him know that I've done this film. He'll, you know, he'll kill me.",
+      "confidence": 0.95550793
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 418.71002,
+      "end": 420.25,
+      "text": "So she understood that very quickly.",
+      "confidence": 0.9334605
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 420.87,
+      "end": 426.09,
+      "text": "And she said, yeah. Yeah. Cool. I won't tell him, but, you know, you should be acting. You're really good.",
+      "confidence": 0.96970475
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 427.27002,
+      "end": 433.655,
+      "text": "Oh my god. That made me feel so nice because I was and still am such a big fan of Shabana ji. She's such a wonderful actor.",
+      "confidence": 0.95189196
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 435.075,
+      "end": 437.73502,
+      "text": "So that made me feel really nice. You know, it was so,",
+      "confidence": 0.9640302
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 438.835,
+      "end": 447.04,
+      "text": "it encouraged me a lot. Yeah. You know, it suddenly made me believe that I'm I can I can act? So is that how your parents found out that this is so So then what happened, I realized that you have been there.",
+      "confidence": 0.8548766
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 448.22,
+      "end": 454.395,
+      "text": "But I'm also quite a person who plays on the front foot and I was, you know, at one point when things kind of came out of the open, I said, listen, I want to be in the films.",
+      "confidence": 0.9349727
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 455.435,
+      "end": 463.935,
+      "text": "At which point all hell broke loose and my father and my uncle and my aunt and Ami and all of them said, listen, this is a bad idea. You should not be in the films. And",
+      "confidence": 0.9318541
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 464.715,
+      "end": 466.655,
+      "text": "we've been in the films for so long,",
+      "confidence": 0.9367175
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 467.56998,
+      "end": 476.06998,
+      "text": "and and we've we know how volatile this business is and one day you're up there the next day you know nobody cares about you. Yeah. It's a very harsh",
+      "confidence": 0.9138352
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 477.00998,
+      "end": 477.50998,
+      "text": "profession.",
+      "confidence": 0.6143998
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 478.28998,
+      "end": 481.19,
+      "text": "So we don't want you to get into this profession. It's very difficult.",
+      "confidence": 0.9740978
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 481.985,
+      "end": 483.845,
+      "text": "So I said, you know, I don't think I have a choice",
+      "confidence": 0.98020124
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 484.705,
+      "end": 488.165,
+      "text": "because I really love it and I've I this is where I want to be.",
+      "confidence": 0.959692
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 488.625,
+      "end": 492.725,
+      "text": "So they said, okay. I mean, after a point, they realized that I'm not going to listen.",
+      "confidence": 0.8606783
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 493.185,
+      "end": 493.685,
+      "text": "So",
+      "confidence": 0.99814844
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 494.4,
+      "end": 497.06,
+      "text": "everything was attempted at me. Anger, you know,",
+      "confidence": 0.9361689
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 497.44,
+      "end": 499.38,
+      "text": "but I just stood firm.",
+      "confidence": 0.9275754
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 499.76,
+      "end": 501.22,
+      "text": "So they said then finally graduation.",
+      "confidence": 0.7394478
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 503.12,
+      "end": 504.02,
+      "text": "Mhmm. Even for graduation.",
+      "confidence": 0.6750009
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 561.505,
+      "end": 564.08496,
+      "text": "And you must be living with a silver spoon in your mouth",
+      "confidence": 0.9105777
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 565.345,
+      "end": 566.005,
+      "text": "but actually,",
+      "confidence": 0.7186165
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 567.665,
+      "end": 569.365,
+      "text": "to average producer in film industry.",
+      "confidence": 0.6435005
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 584.22504,
+      "end": 586.645,
+      "text": "Above average producer. His sensibility was",
+      "confidence": 0.95647377
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 588.385,
+      "end": 588.885,
+      "text": "nice.",
+      "confidence": 0.88234484
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 611.96497,
+      "end": 612.46497,
+      "text": "Life",
+      "confidence": 0.8664086
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 613.005,
+      "end": 613.505,
+      "text": "make",
+      "confidence": 0.61855215
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 614.185,
+      "end": 614.685,
+      "text": "film.",
+      "confidence": 0.3009349
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 615.365,
+      "end": 615.865,
+      "text": "I",
+      "confidence": 0.6018208
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 616.545,
+      "end": 617.045,
+      "text": "think",
+      "confidence": 0.97368973
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 617.725,
+      "end": 618.385,
+      "text": "he's locked it.",
+      "confidence": 0.58351225
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 621.20496,
+      "end": 621.70496,
+      "text": "Yeah.",
+      "confidence": 0.6305484
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 624.52496,
+      "end": 626.705,
+      "text": "He used to write a lot of films. He was very popular",
+      "confidence": 0.9153009
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 627.32,
+      "end": 629.42,
+      "text": "as a comedian and a villain in the South.",
+      "confidence": 0.94216865
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 630.52,
+      "end": 631.98,
+      "text": "Very strong character actor.",
+      "confidence": 0.95970124
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 654.04,
+      "end": 655.02,
+      "text": "Actors actors",
+      "confidence": 0.54267794
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 667.32,
+      "end": 668.07,
+      "text": "actors actors.",
+      "confidence": 0.43022394
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 668.925,
+      "end": 672.145,
+      "text": "To my father, you know, used to get pushed around a bit. Yeah.",
+      "confidence": 0.91863245
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 673.085,
+      "end": 673.585,
+      "text": "Interest",
+      "confidence": 0.31595477
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 677.085,
+      "end": 677.585,
+      "text": "interest",
+      "confidence": 0.7893698
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 700.21497,
+      "end": 700.95496,
+      "text": "The situation",
+      "confidence": 0.56733525
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 702.45496,
+      "end": 704.795,
+      "text": "actually we were on the on the roads almost.",
+      "confidence": 0.79408306
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 706.295,
+      "end": 709.115,
+      "text": "So and how old were you, like your siblings?",
+      "confidence": 0.88915324
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 711.415,
+      "end": 711.89496,
+      "text": "I was,",
+      "confidence": 0.8617839
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 713.815,
+      "end": 715.355,
+      "text": "this is Lockett. So",
+      "confidence": 0.76727927
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 715.88995,
+      "end": 720.06995,
+      "text": "yeah. I was about 12 10, 12, 13, 14. Actually,",
+      "confidence": 0.94954365
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 720.52997,
+      "end": 725.19,
+      "text": "before that. Yeah. I was maybe eight, nine. Around that time, I was let's say 10.",
+      "confidence": 0.8651776
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 726.29,
+      "end": 729.11,
+      "text": "So what was the living situation? You don't have to make compromises.",
+      "confidence": 0.91052705
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 730.115,
+      "end": 730.615,
+      "text": "Actually,",
+      "confidence": 0.65016496
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 758.145,
+      "end": 758.645,
+      "text": "So,",
+      "confidence": 0.7372446
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 769.745,
+      "end": 770.965,
+      "text": "sorry. I got a little",
+      "confidence": 0.95433074
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 771.505,
+      "end": 772.005,
+      "text": "emotional",
+      "confidence": 0.81157887
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 774.8,
+      "end": 775.3,
+      "text": "tension.",
+      "confidence": 0.49863032
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 775.76,
+      "end": 776.08,
+      "text": "So,",
+      "confidence": 0.93507564
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 776.72003,
+      "end": 779.3,
+      "text": "the thing that actually used to trouble us most or",
+      "confidence": 0.8373114
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 826.53,
+      "end": 827.19,
+      "text": "I remember,",
+      "confidence": 0.6103362
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 832.49005,
+      "end": 832.99005,
+      "text": "film",
+      "confidence": 0.43724513
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 834.37006,
+      "end": 834.87006,
+      "text": "problem",
+      "confidence": 0.13648526
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 835.57,
+      "end": 836.47003,
+      "text": "finally release",
+      "confidence": 0.5862329
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 847.995,
+      "end": 848.57495,
+      "text": "So that's",
+      "confidence": 0.32333103
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 848.875,
+      "end": 849.615,
+      "text": "go ahead of",
+      "confidence": 0.67210644
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 850.95496,
+      "end": 855.24,
+      "text": "course. So when the film made money, he went and gave the money to that sub. Yeah. That",
+      "confidence": 0.85117763
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 859.22003,
+      "end": 859.88,
+      "text": "sub said, oh,",
+      "confidence": 0.781518
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 866.58,
+      "end": 868.60004,
+      "text": "producer But he was very happy.",
+      "confidence": 0.75548834
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 869.185,
+      "end": 876.22504,
+      "text": "Thank you so much. And, you know, then he came to a house for dinner. I remember he had he was at a house for dinner, you know, immediately after that. So,",
+      "confidence": 0.9287715
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 876.78503,
+      "end": 878.325,
+      "text": "he was a very straight person.",
+      "confidence": 0.97414225
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 879.185,
+      "end": 881.445,
+      "text": "I learned that from him. You know, he was very honest.",
+      "confidence": 0.89996666
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 885.24,
+      "end": 885.74,
+      "text": "Problem",
+      "confidence": 0.5390062
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 887.56,
+      "end": 888.06,
+      "text": "phone.",
+      "confidence": 0.24295183
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 894.68,
+      "end": 895.66,
+      "text": "And he was a short",
+      "confidence": 0.8070055
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 912.24,
+      "end": 912.74,
+      "text": "Yeah.",
+      "confidence": 0.6952118
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 941.17004,
+      "end": 941.67004,
+      "text": "School",
+      "confidence": 0.382085
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 942.69,
+      "end": 943.51,
+      "text": "up 600",
+      "confidence": 0.4693017
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 943.73004,
+      "end": 944.47003,
+      "text": "to 6 rupees",
+      "confidence": 0.8409932
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 947.25,
+      "end": 948.07,
+      "text": "maximum fees",
+      "confidence": 0.79269606
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 949.97003,
+      "end": 950.47003,
+      "text": "or",
+      "confidence": 0.28048974
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 951.735,
+      "end": 955.515,
+      "text": "in my entire school life from the second to the eighth",
+      "confidence": 0.94975036
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 963.69995,
+      "end": 964.68,
+      "text": "notice board",
+      "confidence": 0.45238274
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 969.38,
+      "end": 969.88,
+      "text": "assembly",
+      "confidence": 0.29660934
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 972.74,
+      "end": 975.24,
+      "text": "parents fees Oh, me. Uh-huh.",
+      "confidence": 0.6272765
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 976.25995,
+      "end": 978.27997,
+      "text": "We knew that, you know, he's struggling. Yeah.",
+      "confidence": 0.9451623
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 978.905,
+      "end": 979.405,
+      "text": "Funny",
+      "confidence": 0.40334284
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 980.10504,
+      "end": 981.325,
+      "text": "party. School",
+      "confidence": 0.40169245
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 982.505,
+      "end": 983.005,
+      "text": "producer",
+      "confidence": 0.82347775
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 992.11,
+      "end": 992.61,
+      "text": "donations",
+      "confidence": 0.2391091
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 994.91,
+      "end": 995.73,
+      "text": "magazines half page",
+      "confidence": 0.80257815
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 998.43,
+      "end": 999.41,
+      "text": "sponsor annual magazine",
+      "confidence": 0.7095003
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 999.87,
+      "end": 1000.37,
+      "text": "school",
+      "confidence": 0.93852043
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1001.14996,
+      "end": 1001.64996,
+      "text": "teacher",
+      "confidence": 0.25829265
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1003.55,
+      "end": 1004.29,
+      "text": "father to producer",
+      "confidence": 0.68150383
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1004.91,
+      "end": 1006.20996,
+      "text": "back page front page",
+      "confidence": 0.80953413
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1037.725,
+      "end": 1038.945,
+      "text": "They yeah. They had",
+      "confidence": 0.8978072
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1040.205,
+      "end": 1043.985,
+      "text": "strange hopes. They thought I'll be an engineer and all that. Mhmm. No chance.",
+      "confidence": 0.9771165
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1045.325,
+      "end": 1048.625,
+      "text": "You should become an engineer. You should become a doctor. You should become a chartered accountant.",
+      "confidence": 0.9395134
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1050.125,
+      "end": 1052.225,
+      "text": "There's no chance I can become any of these things.",
+      "confidence": 0.91350114
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1052.56,
+      "end": 1053.06,
+      "text": "But,",
+      "confidence": 0.85735583
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1054.0801,
+      "end": 1054.5801,
+      "text": "dreams",
+      "confidence": 0.48736674
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1056.16,
+      "end": 1058.18,
+      "text": "set a job professional job",
+      "confidence": 0.92695
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1059.84,
+      "end": 1062.4,
+      "text": "successful life. Mhmm. That's what their,",
+      "confidence": 0.92704934
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1063.12,
+      "end": 1064.415,
+      "text": "dream was for all of us.",
+      "confidence": 0.99673915
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1065.375,
+      "end": 1065.775,
+      "text": "But,",
+      "confidence": 0.8200676
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1066.175,
+      "end": 1068.115,
+      "text": "so and it was because of this, you know,",
+      "confidence": 0.98004925
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1069.295,
+      "end": 1070.435,
+      "text": "I suppose their",
+      "confidence": 0.9599795
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1072.735,
+      "end": 1073.9551,
+      "text": "experiences, they failed",
+      "confidence": 0.580449
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1075.375,
+      "end": 1075.875,
+      "text": "financially.",
+      "confidence": 0.7036915
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1081.48,
+      "end": 1081.98,
+      "text": "Life.",
+      "confidence": 0.3538912
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1084.48,
+      "end": 1084.98,
+      "text": "Mhmm.",
+      "confidence": 0.8411722
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1087.48,
+      "end": 1091.7051,
+      "text": "With all the problems and everything. Right. And they looked after us very well.",
+      "confidence": 0.94617546
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1092.725,
+      "end": 1093.225,
+      "text": "Tissue?",
+      "confidence": 0.729165
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1095.685,
+      "end": 1096.185,
+      "text": "So,",
+      "confidence": 0.42880267
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1097.285,
+      "end": 1099.145,
+      "text": "so we financial difficulties",
+      "confidence": 0.9025408
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1100.645,
+      "end": 1102.505,
+      "text": "as kids and as a family, we were,",
+      "confidence": 0.8619697
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1103.285,
+      "end": 1106.96,
+      "text": "very sensitive to that. Yeah. And we didn't want to load",
+      "confidence": 0.9768455
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1107.42,
+      "end": 1107.92,
+      "text": "parents.",
+      "confidence": 0.58587193
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1109.65,
+      "end": 1110.65,
+      "text": "Or face. But",
+      "confidence": 0.5408009
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1254.275,
+      "end": 1254.775,
+      "text": "eleventh",
+      "confidence": 0.8152013
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1255.795,
+      "end": 1256.295,
+      "text": "eleventh",
+      "confidence": 0.70674163
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1256.755,
+      "end": 1258.055,
+      "text": "young freshers students.",
+      "confidence": 0.73554015
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1295.2699,
+      "end": 1296.97,
+      "text": "So he was a very fine director.",
+      "confidence": 0.9637375
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1335.9049,
+      "end": 1336.8049,
+      "text": "Actually, play",
+      "confidence": 0.6149858
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1339.585,
+      "end": 1340.325,
+      "text": "actors scaffolding",
+      "confidence": 0.4909842
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1343.345,
+      "end": 1343.845,
+      "text": "scaffolding",
+      "confidence": 0.79168844
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1348.625,
+      "end": 1349.125,
+      "text": "scaffolding",
+      "confidence": 0.70501864
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1367.145,
+      "end": 1368.765,
+      "text": "So I didn't go.",
+      "confidence": 0.7914221
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1529.09,
+      "end": 1532.07,
+      "text": "And how did you tell your family, especially parents?",
+      "confidence": 0.8474439
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1532.45,
+      "end": 1532.95,
+      "text": "Yeah.",
+      "confidence": 0.81049573
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1533.33,
+      "end": 1537.385,
+      "text": "I've got the role. Jejran called me and said we're planning to make a film with you.",
+      "confidence": 0.9320132
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1538.2451,
+      "end": 1544.7651,
+      "text": "Then he also actually told my dad and my mom and they all were very happy that if he's gonna be in the films and",
+      "confidence": 0.9071873
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1545.2051,
+      "end": 1549.4651,
+      "text": "actually, I'll tell you what happened. When I started working with Nasir Sabna, they were very against it.",
+      "confidence": 0.9371
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1550.1499,
+      "end": 1552.01,
+      "text": "Nasir Sab also was against it.",
+      "confidence": 0.8912068
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1552.87,
+      "end": 1558.73,
+      "text": "And I but I was very clear and I had already gone and met Shekhar Kapoor because he was one of my favorite directors.",
+      "confidence": 0.936323
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1560.23,
+      "end": 1561.9299,
+      "text": "Shekhar, I want to work with you as an assistant.",
+      "confidence": 0.95558774
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1562.615,
+      "end": 1564.9551,
+      "text": "Satish Kaushik was his assistant, his chief assistant.",
+      "confidence": 0.93537
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1580.37,
+      "end": 1586.15,
+      "text": "Because I was very meticulous about my paperwork. So and no one had taught me. I'm a self taught person.",
+      "confidence": 0.9373485
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1587.49,
+      "end": 1588.15,
+      "text": "So I",
+      "confidence": 0.65300417
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1588.7051,
+      "end": 1593.6051,
+      "text": "think I must be one of the best first AD in the country even now.",
+      "confidence": 0.94241905
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1594.145,
+      "end": 1597.525,
+      "text": "Wow. Yeah. I'm a very good first AD. Much better than an actor.",
+      "confidence": 0.98343
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1598.385,
+      "end": 1600.5651,
+      "text": "I'm fantastic at controlling set.",
+      "confidence": 0.9684254
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1601.19,
+      "end": 1603.69,
+      "text": "Wow. And and, you know, planning ahead.",
+      "confidence": 0.95129627
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1610.47,
+      "end": 1610.97,
+      "text": "Satish",
+      "confidence": 0.72202945
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1656.23,
+      "end": 1658.01,
+      "text": "So he called me and said you be my assistant.",
+      "confidence": 0.87841016
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1659.19,
+      "end": 1660.01,
+      "text": "I said okay.",
+      "confidence": 0.7532986
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1662.47,
+      "end": 1664.33,
+      "text": "Then I started working as his assistant.",
+      "confidence": 0.84467685
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1668.495,
+      "end": 1668.995,
+      "text": "As",
+      "confidence": 0.3972315
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1670.335,
+      "end": 1670.915,
+      "text": "an assistant.",
+      "confidence": 0.8936857
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1672.415,
+      "end": 1675.155,
+      "text": "As an assistant. So I think within two months,",
+      "confidence": 0.78527886
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1675.775,
+      "end": 1676.515,
+      "text": "my uncle",
+      "confidence": 0.9948374
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1677.135,
+      "end": 1679.635,
+      "text": "and my parents and my aunt and all of them realized",
+      "confidence": 0.90204465
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1680.175,
+      "end": 1680.675,
+      "text": "correct.",
+      "confidence": 0.63191366
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1681.6,
+      "end": 1682.8999,
+      "text": "Right part",
+      "confidence": 0.6872821
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1698.2251,
+      "end": 1700.005,
+      "text": "adapt a short story, adapt",
+      "confidence": 0.56352603
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1700.545,
+      "end": 1701.045,
+      "text": "dialogue,",
+      "confidence": 0.49577177
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1703.1051,
+      "end": 1703.765,
+      "text": "edit background.",
+      "confidence": 0.5438425
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1705.5851,
+      "end": 1708.645,
+      "text": "Mhmm. To make film. Mhmm. But as an assistant, I",
+      "confidence": 0.6649518
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1709.665,
+      "end": 1710.405,
+      "text": "was very",
+      "confidence": 0.8431517
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1711.14,
+      "end": 1716.28,
+      "text": "hardworking and very sharp as an assistant. Mhmm. So they realized in February that you This is right.",
+      "confidence": 0.8316629
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1716.9,
+      "end": 1717.4,
+      "text": "At",
+      "confidence": 0.21848278
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1718.42,
+      "end": 1718.92,
+      "text": "least",
+      "confidence": 0.9898902
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1719.78,
+      "end": 1720.28,
+      "text": "confidence.",
+      "confidence": 0.35343677
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1726.165,
+      "end": 1727.225,
+      "text": "You know, they started,",
+      "confidence": 0.90632224
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1727.685,
+      "end": 1732.025,
+      "text": "depending on me more. My uncle started depending on me more because I took over his whole life.",
+      "confidence": 0.9711786
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1735.365,
+      "end": 1735.865,
+      "text": "Editing,",
+      "confidence": 0.3894344
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1738.005,
+      "end": 1738.905,
+      "text": "mixing, everything.",
+      "confidence": 0.9005225
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1739.37,
+      "end": 1739.87,
+      "text": "And",
+      "confidence": 0.7962851
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1740.77,
+      "end": 1741.27,
+      "text": "he",
+      "confidence": 0.94132996
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1742.17,
+      "end": 1743.23,
+      "text": "knew 101%.",
+      "confidence": 0.89085543
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1743.61,
+      "end": 1744.83,
+      "text": "Mhmm. So if you're mixing",
+      "confidence": 0.6573041
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1745.29,
+      "end": 1748.83,
+      "text": "reels check on check. I should check all the reels, all the tracks.",
+      "confidence": 0.8074528
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1749.45,
+      "end": 1749.95,
+      "text": "Mhmm.",
+      "confidence": 0.9492485
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1752.97,
+      "end": 1753.47,
+      "text": "Mixing.",
+      "confidence": 0.47550875
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1753.77,
+      "end": 1754.27,
+      "text": "Mhmm.",
+      "confidence": 0.9820677
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1754.725,
+      "end": 1762.345,
+      "text": "So he knew he could depend on me. So they realized that he's working well. And so all that slowly slowly added up. I think he realized then he realized",
+      "confidence": 0.88598657
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1797.5901,
+      "end": 1798.3301,
+      "text": "Wow. But confidence",
+      "confidence": 0.69118375
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1799.03,
+      "end": 1799.53,
+      "text": "tennis",
+      "confidence": 0.4034471
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1799.99,
+      "end": 1800.49,
+      "text": "skill",
+      "confidence": 0.4783737
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1806.55,
+      "end": 1807.05,
+      "text": "tennis",
+      "confidence": 0.5313339
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1840.805,
+      "end": 1841.305,
+      "text": "test",
+      "confidence": 0.16392475
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1845.045,
+      "end": 1845.545,
+      "text": "marks",
+      "confidence": 0.5228353
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1882.91,
+      "end": 1883.73,
+      "text": "when I was 14.",
+      "confidence": 0.8227943
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1884.75,
+      "end": 1885.65,
+      "text": "College admission.",
+      "confidence": 0.55892414
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1892.11,
+      "end": 1894.37,
+      "text": "So I'll ask a question. One-sided interview.",
+      "confidence": 0.6727657
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1895.79,
+      "end": 1896.29,
+      "text": "So,",
+      "confidence": 0.5449654
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1912.05,
+      "end": 1912.55,
+      "text": "Actually,",
+      "confidence": 0.39274055
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1912.93,
+      "end": 1913.43,
+      "text": "awards.",
+      "confidence": 0.3736869
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1914.05,
+      "end": 1915.27,
+      "text": "Even in my first film.",
+      "confidence": 0.92035353
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1915.81,
+      "end": 1917.1901,
+      "text": "Because what I'm",
+      "confidence": 0.6397998
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1919.49,
+      "end": 1919.99,
+      "text": "sorry",
+      "confidence": 0.77016574
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1921.01,
+      "end": 1923.51,
+      "text": "value let me put it that way for the rewards.",
+      "confidence": 0.8279031
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1925.205,
+      "end": 1925.705,
+      "text": "Mhmm.",
+      "confidence": 0.9343665
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1927.2849,
+      "end": 1927.7849,
+      "text": "Actually,",
+      "confidence": 0.4638592
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1932.1649,
+      "end": 1932.9049,
+      "text": "First time",
+      "confidence": 0.6688142
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1934.325,
+      "end": 1937.065,
+      "text": "Mansoor is a very fine director. He's a very fine minder.",
+      "confidence": 0.9055574
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1941.0599,
+      "end": 1941.7999,
+      "text": "Growth fast.",
+      "confidence": 0.42621034
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1946.02,
+      "end": 1946.6799,
+      "text": "So nurses",
+      "confidence": 0.1399732
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1947.62,
+      "end": 1948.36,
+      "text": "first day.",
+      "confidence": 0.5126536
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1949.0599,
+      "end": 1950.44,
+      "text": "Credit first day",
+      "confidence": 0.59331816
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1950.98,
+      "end": 1951.88,
+      "text": "planning scheduling",
+      "confidence": 0.85135025
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1954.1,
+      "end": 1955.655,
+      "text": "thousand rupees per month.",
+      "confidence": 0.87241316
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1957.175,
+      "end": 1958.3151,
+      "text": "Wow. For working",
+      "confidence": 0.9460461
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1961.415,
+      "end": 1965.755,
+      "text": "in. Thousand rupees a month. Mhmm. What like regular income",
+      "confidence": 0.7188064
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1966.775,
+      "end": 1967.275,
+      "text": "actually",
+      "confidence": 0.29172575
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1968.535,
+      "end": 1969.275,
+      "text": "regular income",
+      "confidence": 0.5967502
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1985.125,
+      "end": 1985.625,
+      "text": "but",
+      "confidence": 0.36421698
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1986.485,
+      "end": 1988.4249,
+      "text": "I to be honest, I don't remember because",
+      "confidence": 0.9523181
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2016.0951,
+      "end": 2016.5951,
+      "text": "Mhmm.",
+      "confidence": 0.8402746
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2017.295,
+      "end": 2017.795,
+      "text": "Realistically",
+      "confidence": 0.64452577
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2102.0352,
+      "end": 2102.5352,
+      "text": "audience",
+      "confidence": 0.74103767
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2102.955,
+      "end": 2103.455,
+      "text": "theater",
+      "confidence": 0.30606875
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2103.875,
+      "end": 2104.375,
+      "text": "what",
+      "confidence": 0.2629092
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2104.7551,
+      "end": 2106.0552,
+      "text": "male centric audience",
+      "confidence": 0.9550465
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2106.595,
+      "end": 2107.095,
+      "text": "families.",
+      "confidence": 0.27968997
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2111.7952,
+      "end": 2113.495,
+      "text": "Families had stopped going to theaters.",
+      "confidence": 0.73251563
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2114.34,
+      "end": 2114.84,
+      "text": "Single",
+      "confidence": 0.3787002
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2125.1401,
+      "end": 2126.6802,
+      "text": "screens. I think they were not interested.",
+      "confidence": 0.7260402
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2142.1199,
+      "end": 2144.8599,
+      "text": "They flock to the theater. They flock to the theaters. Youth",
+      "confidence": 0.8552683
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2145.5598,
+      "end": 2146.0598,
+      "text": "families.",
+      "confidence": 0.4421272
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2148.1199,
+      "end": 2148.8699,
+      "text": "Mhmm. Or",
+      "confidence": 0.4734873
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2228.04,
+      "end": 2230.3,
+      "text": "audience film receive Yeah. Or may happen",
+      "confidence": 0.4940706
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2231.96,
+      "end": 2233.1,
+      "text": "her film. Mhmm. Theater",
+      "confidence": 0.6367456
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2234.04,
+      "end": 2234.54,
+      "text": "audience",
+      "confidence": 0.9725107
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2235.8,
+      "end": 2238.54,
+      "text": "till now? Till now. Oh, wow. Audience",
+      "confidence": 0.8331701
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2239.48,
+      "end": 2239.98,
+      "text": "theater.",
+      "confidence": 0.43456298
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2240.335,
+      "end": 2240.835,
+      "text": "How?",
+      "confidence": 0.65009457
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2281.44,
+      "end": 2282.98,
+      "text": "And there was",
+      "confidence": 0.7012482
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2284.2798,
+      "end": 2284.7798,
+      "text": "there",
+      "confidence": 0.4416339
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2285.18,
+      "end": 2285.68,
+      "text": "was",
+      "confidence": 0.9600764
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2286.0798,
+      "end": 2287.54,
+      "text": "back to back to back. Actually,",
+      "confidence": 0.7914873
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2289.28,
+      "end": 2293.22,
+      "text": "overnight star to my to my surprise. Actually, I didn't know what stardom was.",
+      "confidence": 0.89334196
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2342.33,
+      "end": 2342.49,
+      "text": "Wow.",
+      "confidence": 0.9822391
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2344.09,
+      "end": 2344.59,
+      "text": "Block.",
+      "confidence": 0.51515806
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2345.69,
+      "end": 2347.55,
+      "text": "That was stardom moment.",
+      "confidence": 0.8827385
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2347.85,
+      "end": 2348.67,
+      "text": "I was shocked.",
+      "confidence": 0.89704084
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2373.8901,
+      "end": 2374.79,
+      "text": "I think lucky",
+      "confidence": 0.8984105
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2375.25,
+      "end": 2375.75,
+      "text": "lucky",
+      "confidence": 0.8875488
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2403.68,
+      "end": 2404.74,
+      "text": "I also said hi.",
+      "confidence": 0.6820887
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2406.24,
+      "end": 2407.8599,
+      "text": "Then I realized eight minute.",
+      "confidence": 0.83011687
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2412.72,
+      "end": 2415.925,
+      "text": "Wow. Then I said, Then I said, I don't know",
+      "confidence": 0.8070749
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2416.225,
+      "end": 2418.965,
+      "text": "them. And then they were smiling at me. So then I said it's me.",
+      "confidence": 0.9335767
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2419.905,
+      "end": 2422.405,
+      "text": "That was my first moment of realizing k o.",
+      "confidence": 0.8209064
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2423.7449,
+      "end": 2424.2449,
+      "text": "Yeah.",
+      "confidence": 0.94882154
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2426.705,
+      "end": 2427.365,
+      "text": "I couldn't",
+      "confidence": 0.66593117
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2459.84,
+      "end": 2461.78,
+      "text": "So then what did you do? I ran.",
+      "confidence": 0.97396827
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2464.4,
+      "end": 2465.78,
+      "text": "Wow. I couldn't,",
+      "confidence": 0.8204662
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2487.72,
+      "end": 2488.38,
+      "text": "Okay. Or",
+      "confidence": 0.58212304
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2489.08,
+      "end": 2490.22,
+      "text": "topic change.",
+      "confidence": 0.5363197
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2493.4,
+      "end": 2493.9,
+      "text": "But",
+      "confidence": 0.32629457
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2494.92,
+      "end": 2496.84,
+      "text": "that was a very exciting time because I had",
+      "confidence": 0.8721001
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2497.32,
+      "end": 2499.27,
+      "text": "Yeah. Didn't realize that I would be and",
+      "confidence": 0.86978227
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2500.7048,
+      "end": 2501.2048,
+      "text": "So",
+      "confidence": 0.1549759
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2516.44,
+      "end": 2520.3801,
+      "text": "during this time, you know, when you're doing back to back films, all of that. Routine,",
+      "confidence": 0.90177995
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2520.92,
+      "end": 2523.18,
+      "text": "what would you do? Like, what were your days?",
+      "confidence": 0.81825083
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2524.12,
+      "end": 2525.98,
+      "text": "Like fifteen, sixteen years. Your film",
+      "confidence": 0.65500206
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2526.36,
+      "end": 2527.82,
+      "text": "release was successful.",
+      "confidence": 0.392591
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2528.92,
+      "end": 2530.3,
+      "text": "And what offers",
+      "confidence": 0.31181324
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2681.5,
+      "end": 2682.0,
+      "text": "Actually,",
+      "confidence": 0.5218764
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2682.4602,
+      "end": 2682.9602,
+      "text": "directors",
+      "confidence": 0.5830247
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2685.5,
+      "end": 2686.56,
+      "text": "are important.",
+      "confidence": 0.8366416
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2691.34,
+      "end": 2693.36,
+      "text": "Then I realized that theme is important.",
+      "confidence": 0.60591686
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2693.98,
+      "end": 2695.36,
+      "text": "Director, script, and producer.",
+      "confidence": 0.89752203
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2696.605,
+      "end": 2697.105,
+      "text": "Correct.",
+      "confidence": 0.9943719
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2697.885,
+      "end": 2704.145,
+      "text": "And all three are equally important, but little more importance I would give to director and script. Producer comes to",
+      "confidence": 0.83935946
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2705.725,
+      "end": 2707.345,
+      "text": "manage. Ideally, I'll have a strong producer.",
+      "confidence": 0.5469554
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2710.75,
+      "end": 2711.25,
+      "text": "Platform.",
+      "confidence": 0.3387964
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2712.35,
+      "end": 2714.2102,
+      "text": "Producer is correct resources.",
+      "confidence": 0.32410643
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2717.07,
+      "end": 2718.53,
+      "text": "Good producer is very important.",
+      "confidence": 0.8431961
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2742.59,
+      "end": 2746.93,
+      "text": "Flash in the pan. Flash in the pan.",
+      "confidence": 0.7916554
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2770.89,
+      "end": 2773.63,
+      "text": "So what is that one film that changed it?",
+      "confidence": 0.9053098
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2773.93,
+      "end": 2778.51,
+      "text": "It was not a film that changed it. It was my inner strength that changed it. I have to say.",
+      "confidence": 0.98187673
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2780.49,
+      "end": 2782.75,
+      "text": "Within six months of my work starting after",
+      "confidence": 0.9219991
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2783.915,
+      "end": 2784.4949,
+      "text": "I decided",
+      "confidence": 0.93028766
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2880.3098,
+      "end": 2880.8098,
+      "text": "M",
+      "confidence": 0.4625165
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2894.6948,
+      "end": 2896.315,
+      "text": "I'll get a new lease of life.",
+      "confidence": 0.92027026
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3006.6848,
+      "end": 3007.1848,
+      "text": "Discussion.",
+      "confidence": 0.45508432
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3007.885,
+      "end": 3008.7048,
+      "text": "Who's decision",
+      "confidence": 0.77218014
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3010.125,
+      "end": 3010.625,
+      "text": "film",
+      "confidence": 0.39581206
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3012.0715,
+      "end": 3012.5715,
+      "text": "film",
+      "confidence": 0.42369172
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3014.0183,
+      "end": 3014.5183,
+      "text": "film.",
+      "confidence": 0.21433263
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3015.9648,
+      "end": 3017.345,
+      "text": "Actually, Reena, loser",
+      "confidence": 0.46362808
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3030.975,
+      "end": 3032.5151,
+      "text": "they said, I said",
+      "confidence": 0.5532833
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3038.175,
+      "end": 3040.195,
+      "text": "Actually, Krishna who bought turning point.",
+      "confidence": 0.6502231
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3041.135,
+      "end": 3042.435,
+      "text": "So I followed my heart.",
+      "confidence": 0.8785173
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3057.655,
+      "end": 3058.155,
+      "text": "Situation",
+      "confidence": 0.56783617
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3062.2952,
+      "end": 3063.0452,
+      "text": "dream compromise.",
+      "confidence": 0.49563873
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3087.2048,
+      "end": 3088.505,
+      "text": "So if I'm not sure,",
+      "confidence": 0.31435138
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3089.125,
+      "end": 3090.105,
+      "text": "I don't mind that.",
+      "confidence": 0.89456105
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3090.645,
+      "end": 3092.105,
+      "text": "Mhmm. But I",
+      "confidence": 0.63963485
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3100.22,
+      "end": 3101.2798,
+      "text": "So I stopped",
+      "confidence": 0.8950198
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3101.74,
+      "end": 3102.72,
+      "text": "going by logic.",
+      "confidence": 0.973949
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3103.0999,
+      "end": 3104.3198,
+      "text": "Mhmm. Perfectionist",
+      "confidence": 0.7827533
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3108.8599,
+      "end": 3109.3599,
+      "text": "decision.",
+      "confidence": 0.33476356
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3114.9248,
+      "end": 3115.4248,
+      "text": "Yeah.",
+      "confidence": 0.641136
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3116.845,
+      "end": 3117.345,
+      "text": "Decision.",
+      "confidence": 0.33176345
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3120.605,
+      "end": 3121.825,
+      "text": "Decision or thinking.",
+      "confidence": 0.48713306
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3128.045,
+      "end": 3129.4302,
+      "text": "Mhmm. Magic. Magic",
+      "confidence": 0.63544077
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3131.09,
+      "end": 3135.11,
+      "text": "perfection. So at the peak of your career, you also got married and became a father.",
+      "confidence": 0.94697356
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3135.7302,
+      "end": 3140.07,
+      "text": "No. Not at the peak of my career. Before my career started. Oh, before your career started. Okay.",
+      "confidence": 0.91925186
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3141.6501,
+      "end": 3142.7102,
+      "text": "1986",
+      "confidence": 0.9574738
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3143.925,
+      "end": 3145.465,
+      "text": "or eighty six April eighteenth.",
+      "confidence": 0.84213054
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3147.0452,
+      "end": 3147.5452,
+      "text": "But",
+      "confidence": 0.57274485
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3158.28,
+      "end": 3164.06,
+      "text": "So then how how were you balancing personal and professional? Because you were working three shifts doing that.",
+      "confidence": 0.7813212
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3164.4402,
+      "end": 3166.54,
+      "text": "Because I used to get no time to be with",
+      "confidence": 0.9251467
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3166.84,
+      "end": 3168.62,
+      "text": "Reena and it was a tough life.",
+      "confidence": 0.94716454
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3169.08,
+      "end": 3172.06,
+      "text": "But Reena and I used to, you know, spend time together also.",
+      "confidence": 0.92251563
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3180.9148,
+      "end": 3183.8948,
+      "text": "At best, we used to go for dinner, you know, somewhere in Bandra with",
+      "confidence": 0.9086798
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3185.09,
+      "end": 3186.23,
+      "text": "friends of ours.",
+      "confidence": 0.94639444
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3186.77,
+      "end": 3188.71,
+      "text": "And how did fatherhood change you?",
+      "confidence": 0.9437342
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3189.33,
+      "end": 3190.95,
+      "text": "Fatherhood changed me a lot.",
+      "confidence": 0.9761902
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3191.41,
+      "end": 3192.6301,
+      "text": "Suddenly made me scared",
+      "confidence": 0.8467021
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3193.01,
+      "end": 3193.75,
+      "text": "for life.",
+      "confidence": 0.9896491
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3194.05,
+      "end": 3198.95,
+      "text": "Mhmm. Until then, you have no responsibility. Suddenly, when you have a responsibility, you suddenly become conscious.",
+      "confidence": 0.89956546
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3203.1448,
+      "end": 3209.9648,
+      "text": "Mhmm. Thank you so much for your time. Thank you. And, it was wonderful. I think we lost we ran out of time. Actually, question.",
+      "confidence": 0.9126263
+    }
+  ]
+}

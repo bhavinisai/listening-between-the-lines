@@ -1,0 +1,638 @@
+[00:24] Speaker 1: You told him five minutes? Like, he has two minutes. Yeah. Two minutes.
+[00:29] Speaker 1: Everything looks good. Just the monitor the main monitor,
+[00:33] Speaker 1: went off. Everyone who's
+[00:36] Speaker 1: done can leave.
+[00:43] Speaker 2: Hi, Sam. Hey, Nikhil.
+[00:45] Speaker 1: How are you? I'm good. Sorry I'm late. I got caught up in getting ready for the launch tomorrow and lost track of time and excitement with the final results. But No worries. I'm guessing it must be really hectic. Right? It is a very hectic day.
+[01:13] Speaker 2: I have the model, and I've been playing with it a little bit.
+[01:17] Speaker 2: How is it different, Sam?
+[01:19] Speaker 2: I'm not an expert at this, so yeah.
+[01:23] Speaker 1: There's all these ways we can talk about, you know, it's better at this metric or it's, you know, can do this amazing coding demo that, you know, GPT-four couldn't. But the thing that has been most striking for me
+[01:34] Speaker 1: is
+[01:35] Speaker 1: in ways that are both big and small, going back from GPT-five to our previous generation model,
+[01:41] Speaker 1: is just so painful. It's just like worse at everything. And I've taken for granted that there's a fluency and a depth of intelligence
+[01:49] Speaker 1: with GPT five that we haven't had in any previous model.
+[01:53] Speaker 1: It's an integrated model so you don't have to like pick in our model switcher and know if you should use GPT four point zero or point zero three or point zero four Mini or any of the complicated things. It's just one thing that works
+[02:04] Speaker 1: and it is like
+[02:05] Speaker 1: having
+[02:07] Speaker 1: PhD level experts
+[02:08] Speaker 1: in every field available to you 20 fourseven for whatever you need.
+[02:13] Speaker 1: Not only to ask anything, but also to do anything for you. So if you, you know, need a piece of software created, you can kind of do it from scratch all at once. If you need a,
+[02:22] Speaker 1: if you need a research report on some complicated topic, it can do that for you. If you needed to, you know, plan an event for you, it could do that too.
+[02:30] Speaker 2: Is it more
+[02:31] Speaker 2: agentic in nature in the sense that
+[02:34] Speaker 2: sequential tasking,
+[02:36] Speaker 2: you're one one step closer to it? Because I was trying that.
+[02:40] Speaker 1: It's much better at things like that. The the sort of the robustness and reliability,
+[02:45] Speaker 1: has greatly increased, and that that's very helpful for agentic workflows.
+[02:49] Speaker 1: So I I'm, like, very impressed by how,
+[02:52] Speaker 2: long and complex of a task it can carry out. So we did a call a couple of weeks ago when I was bugging you about
+[02:58] Speaker 2: what sectors and teams to invest in for the next decade.
+[03:04] Speaker 2: So I don't want to talk about that too much. I thought we'll keep today about
+[03:08] Speaker 2: first principles
+[03:10] Speaker 2: and how the world is changing by virtue
+[03:14] Speaker 2: of all that is changing in the world that you dominate. So the very first thing I want to start with is if I were a 25 year old
+[03:23] Speaker 2: boy or girl living in Mumbai or Bangalore in India,
+[03:28] Speaker 2: I know you've said a bunch of times that colleges
+[03:31] Speaker 2: are not
+[03:33] Speaker 2: are not holding on to the place of relevance they might have had when I was growing up.
+[03:38] Speaker 2: But what do I do now? A, what do I study? If I'm starting a company, what kind of company do I start?
+[03:46] Speaker 2: Or if I were to even find a job, what industry do you think has some kind of tailwind?
+[03:53] Speaker 2: I'm not talking
+[03:54] Speaker 1: ten years down the line, but even as close as three to five years down the line. First of all, I think this is probably the most exciting time to be starting out one's career,
+[04:04] Speaker 1: maybe ever. I think like,
+[04:07] Speaker 1: that 25 year old in Mumbai can probably do
+[04:10] Speaker 1: more than any previous 25 year old in history could. It's really amazing what you can do with a tool like this. I felt the same way when I was 25 and, you know, the tools then were not as amazing as tools we have now, but we had the computer revolution
+[04:25] Speaker 1: and
+[04:26] Speaker 1: we could do things,
+[04:27] Speaker 1: you know, a 25 year old then could do things that no 25 year old in history before would have been able to.
+[04:33] Speaker 1: And now that's happening in a huge way. So whether you want to start a company or be a programmer
+[04:40] Speaker 1: or go work in kind of any other industry, you know, create new media, whatever it is,
+[04:47] Speaker 1: the ability for one person to use these tools
+[04:50] Speaker 1: and have great ideas and implement them with what would have taken, you know, decades of experience or teams of people is really quite remarkable.
+[05:00] Speaker 1: In terms of particular industries,
+[05:03] Speaker 1: I am very excited about what AI is going to mean for science and the amount of science that one person will be able to discover and the rate at which they can do that. Clearly, it's transforming
+[05:12] Speaker 1: what it means to program computers in a huge way, and people will be able to create completely new kinds of software in a huge new scale.
+[05:21] Speaker 1: Definitely for start ups, you know, if you have that idea for
+[05:24] Speaker 1: a new business, the ability for a very tiny team to do a huge amount of work is great.
+[05:32] Speaker 1: But it feels like this is just now a very open canvas.
+[05:37] Speaker 1: You know, people,
+[05:38] Speaker 1: people are limited to a degree that they've never been before, only by the quality and creativity of their ideas. And you have these incredible tools to help you realize them. Is there anything in particular you want to say about GPT five? Then I can ask you questions around that.
+[05:52] Speaker 1: GPT five does
+[05:54] Speaker 1: does feel to us like it's going to be another big step forward in how people,
+[05:58] Speaker 1: use these systems.
+[06:01] Speaker 1: The
+[06:02] Speaker 1: the level
+[06:04] Speaker 1: of capability,
+[06:06] Speaker 1: the level of robustness, the reliability, and the ability to use this just for
+[06:10] Speaker 1: a lot of tasks in life to create
+[06:13] Speaker 1: software, to answer questions, to learn, to work more efficiently, like, this is a you know, pretty significant step
+[06:20] Speaker 1: forward. Each time we've had one of these, we have been amazed by the potential it unlocks.
+[06:27] Speaker 1: And in particular, India is, India is now our second largest market in the world.
+[06:32] Speaker 1: It may become our
+[06:34] Speaker 1: largest.
+[06:35] Speaker 1: We've taken a lot of feedback from users in India about what they'd like from us,
+[06:40] Speaker 1: better support for languages, more affordable access,
+[06:44] Speaker 1: much more and we've been able to put that into this model and upgrades to ChatChippity.
+[06:49] Speaker 1: So we're committed to continuing to work on that, but
+[06:52] Speaker 1: the, you know, every time we've had a major leap forward in how the capability we can bring to users,
+[06:58] Speaker 1: we've been amazed by what those 25 year olds go off and do in terms of creating new companies or
+[07:05] Speaker 1: you know, learning better, getting better medical advice, or whatever else.
+[07:09] Speaker 2: Is there anything that
+[07:12] Speaker 2: I could build on top of g p t five today as a 25 year old in India that you think are
+[07:18] Speaker 2: low hanging fruits per se, that I should definitely look at? I think you could build an entire startup
+[07:23] Speaker 1: way more efficiently than you ever could before. Now, this is obviously
+[07:27] Speaker 1: I'm biased because this is like near and dear to my heart. But the fact that as a 25 year old in India or anywhere else,
+[07:36] Speaker 1: maybe with a couple of friends, maybe just by yourself, you could use GPT five to,
+[07:41] Speaker 1: help you write the software for a product much more efficiently, help you
+[07:46] Speaker 1: handle customer support, help you write marketing
+[07:50] Speaker 1: and communications plans,
+[07:52] Speaker 1: help you review legal documents.
+[07:55] Speaker 1: All of these things
+[07:56] Speaker 1: that would have taken a lot of people and a lot of expertise,
+[08:00] Speaker 1: and you now have g p t five to help you do all all of this, that that's pretty amazing.
+[08:05] Speaker 2: If I could push you to be, like,
+[08:08] Speaker 2: a bit more specific
+[08:10] Speaker 2: and say,
+[08:12] Speaker 2: I get science, but,
+[08:15] Speaker 2: what do I study? Say I've been studying engineering or commerce or arts or something like that.
+[08:21] Speaker 2: Is there any specific thing I study in order to use AI to develop something in science?
+[08:28] Speaker 1: I think the most important
+[08:31] Speaker 1: specific thing to study is just getting really good at using the new AI tools.
+[08:37] Speaker 1: I think learning is valuable for its own sake and learning to learn is this like meta skill that will serve you throughout
+[08:43] Speaker 1: life. And whether you're learning
+[08:46] Speaker 1: engineering, like computer engineering or biology or
+[08:49] Speaker 1: any other field, like that,
+[08:51] Speaker 1: if you get good at learning things, you can learn new things quickly. But fluency with the tools,
+[08:56] Speaker 1: is,
+[08:58] Speaker 1: you know, is really important. When I was in college or in high school,
+[09:03] Speaker 1: it seemed to me that the obvious thing to do was learn to program. And I didn't know exactly what I was going to use that for, but there was this new
+[09:11] Speaker 1: frontier that seemed very high leverage and important to get good at. And right now,
+[09:16] Speaker 1: learning how to use AI tools is probably the most important
+[09:20] Speaker 1: specific
+[09:21] Speaker 1: hard skill to learn and the difference between people who are really good at it, really AI native and think of everything in terms of those tools and don't is huge.
+[09:28] Speaker 1: There's other general skills,
+[09:31] Speaker 1: learning kind of like to be adaptable and resilient, which I think is something really learnable.
+[09:37] Speaker 1: That's like quite valuable in a world that's changing so fast.
+[09:40] Speaker 1: Learning how to figure out what people want,
+[09:44] Speaker 1: is really quite important.
+[09:46] Speaker 1: Before this, I used to be a start up investor,
+[09:49] Speaker 1: and people would ask me what the most important thing for start up founders to figure out was, and,
+[09:55] Speaker 1: my predecessor, Paul Graham, had this answer that has always stuck with me for people,
+[10:00] Speaker 1: to give to founders, and it became the motto for Y Combinator, which is make something people want.
+[10:06] Speaker 1: And that sounds like such an easy instruction. I have watched so many people try so hard to learn how to figure that out,
+[10:13] Speaker 1: and fail. And then I've watched many people work really hard to learn how to do that and get great at it over a career. So,
+[10:20] Speaker 1: that's something as well. But, you know, in terms of the specifics, like, are you supposed to take the biology class or the physics class? I don't think it matters right now. And if I were to build on top of that, and when you say
+[10:32] Speaker 2: learn to adapt and change and learn AI tools faster.
+[10:36] Speaker 2: Is there a path? I'm just looking for a light that somebody could begin walking towards. How does one get better at the AI tools that are available out there?
+[10:46] Speaker 1: Well, one great thing to do,
+[10:49] Speaker 1: GPT-five is quite good at helping to create small pieces of software very quickly,
+[10:55] Speaker 1: and,
+[10:57] Speaker 1: much better than any model that I've used.
+[10:59] Speaker 1: And in the last
+[11:02] Speaker 1: few weeks, I have surprised myself how much I've used it to
+[11:06] Speaker 1: create a piece of software to
+[11:08] Speaker 1: solve some little problem that I have in my life. And you know, it's been an interesting creative process because I'll ask it for a first draft, I'll start using that, and then I'll say, Hey, with this feature, it would be better, or, With this other thing, I'd be able to do something differently.
+[11:23] Speaker 1: Or, you know, I have started using it and realized that with my workflow, I really needed this. And by putting more and more of the things that I have to do in this kind of a workflow,
+[11:33] Speaker 1: that's been a very interesting way for me to learn how to use this.
+[11:37] Speaker 2: You mentioned Paul Graham, and I I was reading this
+[11:42] Speaker 2: letter or report he wrote in 2009
+[11:45] Speaker 2: where he spoke about five founders to watch out for.
+[11:50] Speaker 2: And I think you were 19 at the time, and he mentioned you
+[11:54] Speaker 2: along with people like Steve Jobs and Larry and Sergei.
+[12:00] Speaker 2: Why was that? You hadn't accomplished
+[12:03] Speaker 2: anything of note like they had. What did Paul see you see in you, and what do you think is the innate skill set that sets you apart from your peers?
+[12:13] Speaker 1: That was very nice of him. I remember that.
+[12:16] Speaker 1: I certainly
+[12:17] Speaker 1: I remember the time feeling that it was very deeply undeserved, but, grateful that he said that.
+[12:25] Speaker 1: I mean, there's like a lot of people who are starting great companies. We we got
+[12:30] Speaker 1: lucky here in many ways. We've also worked super hard.
+[12:38] Speaker 1: Maybe the one thing that I would,
+[12:41] Speaker 1: that I think we have done here well is to take a very long time horizon and think very independently.
+[12:48] Speaker 1: You know, when we started, it was like four and a half years before we had our first product and it was very uncertain.
+[12:54] Speaker 1: We were just doing research, trying to figure out how to get AI to work, and we had very different ideas than the rest of the world.
+[13:04] Speaker 1: But I think that ability to sort of
+[13:07] Speaker 1: trust our own conviction over a long time horizon without a lot of external
+[13:11] Speaker 1: feedback was very helpful.
+[13:13] Speaker 2: Is that a V or a I thing? Because I'm speaking about when you were 19.
+[13:18] Speaker 1: Oh,
+[13:19] Speaker 1: sorry, I thought you were asking about OpenAI.
+[13:22] Speaker 1: Me when I was 19, I barely remember that. I don't know. I was like a
+[13:26] Speaker 1: naive 19 year old
+[13:28] Speaker 1: that didn't really know what he was doing and,
+[13:32] Speaker 1: this is not false modesty. My own self, I think I've done impressive things now, but my own self conception in 19 was like deeply
+[13:39] Speaker 1: unsure of myself and very unimpressive.
+[13:41] Speaker 2: If the world were to be
+[13:44] Speaker 2: the world of tomorrow were to be a AI kingdom
+[13:48] Speaker 2: of sorts,
+[13:49] Speaker 2: you're definitely some kind of prince.
+[13:52] Speaker 2: And,
+[13:54] Speaker 2: I don't know if you follow Markievalli,
+[13:56] Speaker 2: but he used to say a very interesting thing.
+[13:59] Speaker 2: He said that a prince should always appear
+[14:03] Speaker 2: appear but not be
+[14:07] Speaker 2: religious,
+[14:08] Speaker 2: compassionate,
+[14:09] Speaker 2: trustworthy,
+[14:11] Speaker 2: humane, and honest.
+[14:14] Speaker 2: Do you think
+[14:16] Speaker 2: this particular
+[14:17] Speaker 2: projection
+[14:18] Speaker 2: of I've heard you I've watched a lot of your interviews of late, and I've heard you say repeatedly
+[14:25] Speaker 2: that you're not formidable and use words like that.
+[14:30] Speaker 2: This projection of humility,
+[14:32] Speaker 2: is it apt for the world we live in or the world you're walking into?
+[14:41] Speaker 1: I'm not sure it's apt for either
+[14:45] Speaker 1: one, but,
+[14:48] Speaker 1: when I was
+[14:49] Speaker 1: 19,
+[14:51] Speaker 1: to go back to what you said, I assumed
+[14:53] Speaker 1: that the people running these big tech companies really had it all figured out and there were, you know, adults in the room and somebody had a plan and there were these people that were like way different than me that understood how to do things and, you know, had this like, the companies were like running very well and there was like not much drama and everything was like, you know, just everything
+[15:13] Speaker 1: was being handled by the adults.
+[15:17] Speaker 1: And now that I'm supposed to be the adult in the room, I will tell you, I think no one has a plan, no one really has it all working smoothly, everyone, or at least I, am figuring out as they go.
+[15:27] Speaker 1: And,
+[15:30] Speaker 1: you know, you have things you want to build and then things go wrong and you bet on the wrong people or the right people, and
+[15:36] Speaker 1: you get a technological breakthrough here or you don't there, and you just keep putting one foot in front of another and you put your head down and work and you,
+[15:44] Speaker 1: you know, you have these like tactics that some of them become great strategies, some of them don't.
+[15:50] Speaker 1: You
+[15:51] Speaker 1: try something and the market reacts in some way, or your competitors react in some way, and you do something else.
+[15:59] Speaker 1: And now my conception is everybody is kind of figuring it out as they go. Everybody is like learning on the job, and
+[16:08] Speaker 1: I don't think that's like false humility. I think that's just the way the world works, and
+[16:13] Speaker 1: it's like a
+[16:15] Speaker 1: little
+[16:17] Speaker 1: it's a little strange to be on this side of it, but that is what it seems like.
+[16:21] Speaker 2: I'm not even speaking so much about the authenticity
+[16:24] Speaker 2: of the humility or not,
+[16:26] Speaker 2: but
+[16:28] Speaker 2: more again from the lens of somebody starting to build for tomorrow because that's who we speak to.
+[16:34] Speaker 2: Is that a good image to project into the world? Does it
+[16:40] Speaker 2: the image of humility really work today? You mean, should someone project that image? Yeah.
+[16:47] Speaker 1: I
+[16:48] Speaker 1: mean, I certainly have a very negative
+[16:52] Speaker 1: reaction
+[16:53] Speaker 1: to
+[16:55] Speaker 1: people who
+[16:57] Speaker 1: are
+[16:59] Speaker 1: projecting certainty and confidence when,
+[17:03] Speaker 1: they don't really know what's going to happen. And the reason is not just because it's annoying, which it is, but also because I think if you have that kind of a mindset,
+[17:12] Speaker 1: it is harder to have the culture of
+[17:16] Speaker 1: intellectual openness
+[17:18] Speaker 1: and
+[17:19] Speaker 1: to sort of like
+[17:21] Speaker 1: listen to other viewpoints and make good decisions.
+[17:24] Speaker 1: A thing I say all the time to people is no one knows what happens next.
+[17:28] Speaker 1: And the more you forget that and the more you're like I am smarter than everybody else, I have a master plan, I'm not going to pay attention to like what my users are saying or where the technology takes us or how the world is reacting, but you know, I know better and the world doesn't know as much, I think you just make worse decisions.
+[17:45] Speaker 1: So, having that kind of open mindset,
+[17:48] Speaker 1: and the sort of
+[17:50] Speaker 1: like curiosity and
+[17:53] Speaker 1: willingness to adapt to new data and change your mind, I think that's super important.
+[17:59] Speaker 1: Like the number of times we have thought we knew something to get smacked in the face by reality here
+[18:06] Speaker 1: has been
+[18:07] Speaker 1: a lot. And one of our strengths as a company is
+[18:11] Speaker 1: when that happens, we change what we're going to do. That's
+[18:15] Speaker 1: been,
+[18:15] Speaker 1: I think that's been really great and a big part of what's helped us succeed.
+[18:21] Speaker 1: So, maybe there are other ways to succeed and maybe, you know, projecting a ton of bravado into the world works,
+[18:27] Speaker 1: but
+[18:30] Speaker 1: the best founders that I have watched up close throughout my career, have all been more like the
+[18:38] Speaker 1: sort of quick learning and adapting style. And you probably know more about this than most because of your role at y combinator. I have a lot of data points on it at least. Yeah. Yeah.
+[18:51] Speaker 2: When we met in Washington a couple of years a couple of years ago at the White House, I remember when we were speaking and you went somewhere, I was speaking to your partner.
+[18:59] Speaker 2: And you guys had a kid.
+[19:01] Speaker 1: We did.
+[19:02] Speaker 2: And how is that?
+[19:05] Speaker 1: It is my favorite thing ever. But, I mean, I know that, like, I have nothing that is not a cliche to say here.
+[19:10] Speaker 1: Mhmm.
+[19:11] Speaker 1: But it is the coolest, most amazing, most, like,
+[19:16] Speaker 1: emotionally overwhelming in the best ways, and hard ways to,
+[19:20] Speaker 1: experience everything
+[19:23] Speaker 1: everyone said about how great it is, how intense it is, how it's like a kind of love you didn't know you could feel. It's all true. I have nothing
+[19:31] Speaker 1: to add other than I strongly recommend it, and I think,
+[19:34] Speaker 1: it's been really wonderful. It's amazing.
+[19:37] Speaker 2: So I ponder on this a lot, Sam.
+[19:41] Speaker 2: Kids.
+[19:42] Speaker 2: Why people have kids.
+[19:44] Speaker 2: And also questions like,
+[19:46] Speaker 2: what happens to religion and marriage tomorrow?
+[19:49] Speaker 1: Can I ask you why you had a kid? Like, family has always been an incredibly important thing to me, and going like, it just it felt like
+[20:02] Speaker 1: it felt like the most,
+[20:04] Speaker 1: and I didn't even know how
+[20:06] Speaker 1: much I underestimated what it was actually going to be like, but it felt like the most important and meaningful and fulfilling thing I could imagine doing and it has so far, so early,
+[20:16] Speaker 1: exceeded all expectations.
+[20:19] Speaker 2: Do you think it's the biological
+[20:21] Speaker 2: need to procreate?
+[20:23] Speaker 1: I don't know. There's like it this seems like
+[20:26] Speaker 1: a thing that is
+[20:27] Speaker 1: so deep, it's difficult to put
+[20:30] Speaker 1: into words, but
+[20:33] Speaker 1: I feel confident, like
+[20:35] Speaker 1: everyone I know,
+[20:38] Speaker 1: looking back on their life who has had a great career and had a family,
+[20:43] Speaker 1: has either said,
+[20:45] Speaker 1: you know, I'm so glad I took the time to have kids. That was one of the most important things I've ever done, the best things I've ever done, or they've said that was by far the best thing I've ever done. That was way more important than any of the work I ever did.
+[20:56] Speaker 1: And
+[20:57] Speaker 1: I was like willing to take the leap of faith that that would be true for me too, and it certainly seems like it will be. It's like,
+[21:03] Speaker 1: yeah, it is, and if it is just a biological hack, I don't care. I'm so happy.
+[21:08] Speaker 1: But it, you know, like there's a sense of
+[21:12] Speaker 1: responsibility
+[21:13] Speaker 1: and kind of like
+[21:15] Speaker 1: family is the word that keeps coming to mind that, is just really great.
+[21:19] Speaker 2: The world seems to be having lesser kids, and
+[21:23] Speaker 2: do you have an insight into the future of
+[21:27] Speaker 2: marriage, religion, and kids?
+[21:29] Speaker 1: Yeah. I hope that creating family, creating community,
+[21:33] Speaker 1: whatever you want to call it,
+[21:36] Speaker 1: will
+[21:37] Speaker 1: become far more important in a sort of post AGI world.
+[21:42] Speaker 1: I think it's a real problem for society that those things have been in retreat.
+[21:47] Speaker 1: I think that
+[21:50] Speaker 1: that just feels strictly bad to me. I have, I don't,
+[21:54] Speaker 1: I'm obviously not sure why that's been happening, but I hope we'll really
+[21:57] Speaker 1: reverse course on that. And in a world where people have more abundance, more time,
+[22:03] Speaker 1: more sort of
+[22:05] Speaker 1: resources
+[22:06] Speaker 1: and
+[22:07] Speaker 1: potential and ability,
+[22:10] Speaker 1: I think it's, like, pretty clear that family and community are two of the things that make us the happiest,
+[22:16] Speaker 1: and I hope we will turn back to that.
+[22:20] Speaker 2: As societies get more affluent,
+[22:23] Speaker 2: if one were to buy into the mimetic
+[22:26] Speaker 2: desires of people,
+[22:28] Speaker 2: we all tend to want
+[22:30] Speaker 2: what other people want, not necessarily
+[22:33] Speaker 2: what other people have.
+[22:35] Speaker 2: If we all had more,
+[22:38] Speaker 2: do you think we would still want more if we all had enough?
+[22:43] Speaker 1: I I do sort of think that human
+[22:46] Speaker 1: demand,
+[22:48] Speaker 1: desire,
+[22:49] Speaker 1: ability to play status games, whatever,
+[22:53] Speaker 1: it seems pretty limitless,
+[22:55] Speaker 1: and I don't think that's necessarily bad,
+[22:58] Speaker 1: or not all bad.
+[23:00] Speaker 1: But, yeah, I think we will figure out new things to want and new things to compete over.
+[23:06] Speaker 2: Do you think the world retains,
+[23:09] Speaker 2: largely the world retains the current model of capitalism and democracy in a way?
+[23:15] Speaker 2: Let me give you a scenario. What happens if
+[23:18] Speaker 2: a company x,
+[23:20] Speaker 2: let's say OpenAI,
+[23:23] Speaker 2: gets to the point where it is 50%
+[23:25] Speaker 2: of world GDP?
+[23:27] Speaker 2: Does society
+[23:29] Speaker 2: allow for that?
+[23:30] Speaker 2: Or
+[23:32] Speaker 1: I would bet not. I don't think that will happen. I think this will be a much more distributed thing, but if for some reason that did happen, I think society would say, we don't think so, like let's figure out
+[23:43] Speaker 1: something to do here.
+[23:46] Speaker 1: The analogy I like most for
+[23:48] Speaker 1: AI is the transistor,
+[23:50] Speaker 1: which was this really important scientific discovery that for a while looked like it was going to capture a ton of the value, and then turned out to be something that just gets built into like tons of products and services and you don't really think about, you know, the fact that you're using transistors all day long. It's just kind of in everything and all these companies
+[24:08] Speaker 1: make incredible products and profits from it in this very distributed way.
+[24:13] Speaker 1: So I would guess that's what happens and it's not like one company is ever half of global GDP.
+[24:18] Speaker 1: At one point, I did worry that that might happen, but I think that was a naive take.
+[24:23] Speaker 2: Right. But
+[24:25] Speaker 2: do you think the odds of the world moving towards socialism go up?
+[24:29] Speaker 2: Or if something gets that large, will it get nationalized and we become more socialist?
+[24:35] Speaker 1: I don't know if something will get nationalized, I don't know if the world will, like, officially turn towards socialism, but I expect
+[24:43] Speaker 1: that,
+[24:45] Speaker 1: I expect that like, social support or redistribution or whatever you want to call it, will increase over time. As society gets richer and as sort of the technological landscape shifts,
+[24:55] Speaker 1: I don't know what way it's going to happen and I expect in different countries it will happen in different ways. Like,
+[25:01] Speaker 1: I think you'll see experimentation of like new kinds of sovereign wealth funds, new kinds of like universal basic income ideas, redistribution of AI compute, I don't know exactly what. But I suspect we'll see a lot of experimentation in society here.
+[25:14] Speaker 2: On universal basic income, I think Worldcoin was a very interesting
+[25:19] Speaker 2: experiment. Can you tell us a bit about what's happening there?
+[25:22] Speaker 1: The idea was could we
+[25:24] Speaker 1: you know, we have all this AI coming, we really want to like care about humans as special.
+[25:30] Speaker 1: Can we find a way to a privacy preserving way to identify unique humans and then create a new network and a new currency around that?
+[25:38] Speaker 1: So it's a very interesting experiment, still early but growing quite fast.
+[25:43] Speaker 2: If AGI eliminates
+[25:46] Speaker 2: scarcity, a scarcity by virtue of increasing productivity,
+[25:52] Speaker 2: could one also assume that it would be deflationary
+[25:56] Speaker 2: in nature?
+[25:58] Speaker 2: Capital or money loses
+[26:01] Speaker 2: its ability to return
+[26:04] Speaker 2: a rate of return,
+[26:05] Speaker 2: and
+[26:06] Speaker 2: capital no longer remains a moat in the world of tomorrow?
+[26:11] Speaker 1: I feel confused about this.
+[26:14] Speaker 1: I think
+[26:16] Speaker 1: if you like look at the basic economic principles, it's supposed to be hugely deflationary.
+[26:23] Speaker 1: And yet,
+[26:26] Speaker 1: if the world decides that, you know, building out AI compute today is super important to things tomorrow,
+[26:34] Speaker 1: maybe something very strange happens with the economy and maybe capital is really, really important because every piece of compute
+[26:41] Speaker 1: is so valuable.
+[26:46] Speaker 1: I was asking someone at dinner the other night if they thought
+[26:49] Speaker 1: that interest rates should be minus 2% or 25%.
+[26:53] Speaker 1: And he kind of laughed. He's like, well, that's a ridiculous question. It has to be, and then he stopped and said, actually I'm not sure. So I think it's like,
+[27:02] Speaker 1: yeah, it should be deflationary
+[27:04] Speaker 1: eventually, but I could see it being weird in the short term.
+[27:08] Speaker 2: That's actually a very interesting thing to say. Do you suspect it would be minus 2%?
+[27:15] Speaker 1: Eventually.
+[27:17] Speaker 1: Right. But I'm not sure. And maybe it's just like we're in this massive expansionary time where you're trying to like build the Dyson sphere in the solar system, and you're borrowing money at crazy rates to do that, and then there's more expansion beyond it, more and more, and I don't know. Like,
+[27:33] Speaker 1: I find it very hard to see more than a few years in the future at this point.
+[27:38] Speaker 2: The conversation we were having a couple of weeks ago,
+[27:41] Speaker 2: I was doing more research on the sectors you had suggested.
+[27:46] Speaker 2: I think we agreed on older and sicker world.
+[27:50] Speaker 2: You also made a case for
+[27:52] Speaker 2: as discretionary
+[27:54] Speaker 2: spend goes up,
+[27:55] Speaker 2: gateway luxury brands might do well. Yeah. What happens to them in a deflationary world?
+[28:02] Speaker 2: Because the value of these purchases go down.
+[28:05] Speaker 1: Maybe not. I mean, deflate in a deflationary world, some things can face huge deflationary pressure and others can be the sink for all of the extra capital.
+[28:14] Speaker 1: So I'm actually not sure they do go down in a deflationary world. You know, I would bet they go up, actually.
+[28:20] Speaker 2: Yep. I think so.
+[28:22] Speaker 1: Because the extra the excess capital has to flow somewhere. When you look at classical
+[28:27] Speaker 2: economic theory like Adam Smith and stuff like that,
+[28:31] Speaker 2: the Austrian school always spoke about the marginal
+[28:34] Speaker 2: utility of things.
+[28:36] Speaker 2: If you have one kettle at home to make tea,
+[28:40] Speaker 2: it has x in value.
+[28:42] Speaker 2: When you have two kettles, it still has some value. But when you have 20 kettles,
+[28:47] Speaker 2: it has no value. Do Do you think the world goes in that direction?
+[28:51] Speaker 1: Yeah, so 20 kettles doesn't help you.
+[28:54] Speaker 1: But even if you're only going to, you know, spend
+[28:59] Speaker 1: two hours a day playing video games or whatever, and that amount of time is fixed,
+[29:04] Speaker 1: and and so you don't need twenty hours worth of video games, if that two hours of games gets better and more entertaining forever and ever and ever and just keeps getting more and more compelling, that still has value to you.
+[29:15] Speaker 1: And I think there are a lot of categories where
+[29:20] Speaker 1: we will find that people can just
+[29:22] Speaker 1: get much better stuff,
+[29:25] Speaker 1: even if they don't
+[29:26] Speaker 1: necessarily get more of them.
+[29:29] Speaker 2: I think we'll see this in a really big way. Do you think there's a use case for the rappers that are getting built on these large models right now? Like, I was in, The US recently, and I met Harvey, for example.
+[29:42] Speaker 2: What happens to a rapper like that?
+[29:45] Speaker 2: Does it get
+[29:48] Speaker 2: innovated out by the model itself at some point of time?
+[29:53] Speaker 1: Some of them, yes, and some of them, no. And it's, you know, it's like sometimes you can obviously predict when one is going to go one way or the other, and sometimes it really depends on the choices
+[30:02] Speaker 1: the company makes down,
+[30:05] Speaker 1: down the line.
+[30:06] Speaker 1: The main thing I would say is,
+[30:10] Speaker 1: using AI itself does not create a defensible business.
+[30:14] Speaker 1: You see this with every technology boom where people are like, well, I'm a start up doing X and because I'm using the latest
+[30:20] Speaker 1: technology trend, the normal rules of business don't apply to me.
+[30:24] Speaker 1: And that's never true.
+[30:26] Speaker 1: You've
+[30:29] Speaker 1: always got to
+[30:31] Speaker 1: like parlay that advantage that comes from using the new technology into
+[30:35] Speaker 1: a durable business with real value that gets created,
+[30:38] Speaker 1: And it's kind of a race against the clock to do that. So,
+[30:43] Speaker 1: you know,
+[30:44] Speaker 1: you can definitely build an amazing thing with AI, but then you have to go build a real defensible layer around it.
+[30:50] Speaker 2: If I were to build a business on top of your model, let me give you the example of Amazon, for example.
+[30:57] Speaker 2: If I sold a certain kind of t shirt, and I sold a lot, and Amazon had all the data,
+[31:03] Speaker 2: Eventually, Amazon
+[31:05] Speaker 2: probably started a white labeled brand, which was very similar to mine
+[31:10] Speaker 2: and cannibalized
+[31:11] Speaker 2: my business almost.
+[31:14] Speaker 2: Should one worry that will happen here as well because you're no longer just a model, but you're foraying into so many different businesses?
+[31:22] Speaker 1: I'd come back to that example of the transistor.
+[31:28] Speaker 1: The, you know,
+[31:29] Speaker 1: we are building this
+[31:31] Speaker 1: general purpose technology that you can integrate into
+[31:35] Speaker 1: something
+[31:36] Speaker 1: in a lot of ways,
+[31:39] Speaker 1: but we keep following our equivalent of Moore's Law, and the general capability keeps going up. If you build a business that gets better, the business gets better when the model gets better,
+[31:51] Speaker 1: then you should keep
+[31:55] Speaker 1: doing, you should keep doing well if we continue to make progress.
+[31:58] Speaker 1: If you build a business where
+[32:00] Speaker 1: when the model gets better, your business gets worse because the wrapper was too thin or whatever,
+[32:06] Speaker 1: then that's probably bad
+[32:08] Speaker 1: in the same way that it's been bad in other technology revolutions.
+[32:12] Speaker 1: So, there are clearly companies
+[32:15] Speaker 1: building on top of AI models that are creating huge value and very deep relationships with their customers for themselves.
+[32:24] Speaker 1: Cursor is like a recent example of a company that is just exploding in popularity and
+[32:29] Speaker 1: I think really durable
+[32:31] Speaker 1: relationships with their customers.
+[32:34] Speaker 1: And then there's many others that don't, and that's kind of, that's always the case.
+[32:39] Speaker 1: It does seem to me like
+[32:43] Speaker 1: there are more companies getting created now than in previous technological revolutions that feel like they have a chance at real durability.
+[32:53] Speaker 1: Maybe an example we could use to ground this is when
+[32:57] Speaker 1: the iPhone first came out and the app store first came out, the first set of apps
+[33:01] Speaker 1: were pretty light and a lot of them ended up being features that kind of made it into future versions of iOS.
+[33:07] Speaker 1: You know, you could like sell a flashlight for a dollar that turned on the flash on your phone and
+[33:14] Speaker 1: you made a lot of dollars doing that, but it wasn't sticky because eventually Apple just added that into the operating system where it belonged. But,
+[33:21] Speaker 1: if you started something that was like complicated and the iPhone was just an enabler for it, like Uber,
+[33:26] Speaker 1: that was a very valuable long term thing to do. And in the early days, like the GPT-three days, I think you had a lot of kind of toy applications, as you should,
+[33:35] Speaker 1: many of which didn't need to be stand alone companies or products. But now, as the market's matured, you're really seeing some of these more durable businesses form.
+[33:43] Speaker 2: So
+[33:44] Speaker 2: if you lay emphasis
+[33:46] Speaker 2: on owning the customer almost, like the interface with the customer,
+[33:51] Speaker 2: Would you say the relationship
+[33:52] Speaker 2: gets deeper
+[33:54] Speaker 2: when I sell a service on top of your model versus a product? Because if it's a product company,
+[34:00] Speaker 2: the
+[34:01] Speaker 2: the exchange happens once. But if it's a service company, it happens repeatedly,
+[34:06] Speaker 2: and there is room for me to build and taste
+[34:09] Speaker 2: in that transaction, which is repetitive in nature. Yeah. Gen generally, I agree with that.
+[34:14] Speaker 2: A small part of my world or a part of my world is creating content, which I do once a month.
+[34:21] Speaker 2: If a model
+[34:23] Speaker 2: to a large
+[34:24] Speaker 2: extent
+[34:25] Speaker 2: is
+[34:26] Speaker 2: able to factor in my vintage, my tenure, and my evolution,
+[34:30] Speaker 2: and,
+[34:32] Speaker 2: throughout an output which is predictive in nature
+[34:35] Speaker 2: with a fair
+[34:38] Speaker 2: degree of fair fair degree of,
+[34:40] Speaker 2: efficiency.
+[34:42] Speaker 2: Now if I behave in the same predictable
+[34:45] Speaker 2: manner tomorrow,
+[34:46] Speaker 2: will be less valuable than me being contrarian?
+[34:49] Speaker 2: Contradian not to the world, but contrarian to my own
+[34:53] Speaker 2: behavior almost? So do you think
+[34:56] Speaker 2: the world
+[34:58] Speaker 2: inordinately
+[34:59] Speaker 2: favors contrarian behavior tomorrow?
+[35:03] Speaker 1: Yeah,
+[35:03] Speaker 1: that's a good point. I think so.
+[35:07] Speaker 1: I think,
+[35:09] Speaker 1: the thing I'm thinking is how much will the models learn to do that. You know, you want to be contrarian and right. Most of the time you're contrarian, you're contrarian and wrong, and that's not that helpful.
+[35:18] Speaker 1: But, but yeah, I bet the ability to come up with
+[35:22] Speaker 1: the kind of contrarian and right idea that the models
+[35:25] Speaker 1: today just can't do at all, and maybe they'll get better at at some point,
+[35:30] Speaker 1: That value of that should go up over
+[35:33] Speaker 1: time. Getting good at doing things models can't do
+[35:37] Speaker 1: seems like an obvious
+[35:39] Speaker 1: increase in value. Outside of being contrarian, is there anything else that I could do that a model will take longer to learn? Look, the models are going to be much smarter than we are, but there's a lot of things that people care about
+[35:50] Speaker 1: that have nothing to do with intelligence.
+[35:54] Speaker 1: Maybe there can be like an AI podcast host
+[35:57] Speaker 1: that is much better than you at asking interesting questions and you know, kind of engaging whatever, and
+[36:04] Speaker 1: I personally don't
+[36:06] Speaker 1: think
+[36:07] Speaker 1: that podcast host,
+[36:09] Speaker 1: that AI podcast host is likely to be more popular than you. People really care about other humans. This is like very deep. People want to know a little bit about your life story, what got you here. They want to be able to like talk to other people about this
+[36:21] Speaker 1: shared sense of who you are and there's like some cultural and social value in that.
+[36:26] Speaker 1: We are obsessed with other people.
+[36:29] Speaker 2: And Why is that, Sam? Why do you think that is?
+[36:33] Speaker 1: That, you know, like, I think that's also like deepened in our biology.
+[36:38] Speaker 1: And,
+[36:39] Speaker 1: you know, again, the earlier comment, you don't fight things that are deep in biology.
+[36:45] Speaker 1: I think I make a ton of sense of why we would evolve that way, but, you know, here we are. So, you know, we're going to keep caring about real people, and even if the AI podcast host is much smarter than you, I think it's very unlikely he'll be more popular than you. So in a perverse
+[36:59] Speaker 2: way,
+[37:01] Speaker 2: being stupider will be more novel than being smart?
+[37:04] Speaker 1: I don't know if it's like,
+[37:07] Speaker 1: stupider
+[37:08] Speaker 1: or smarter that has the novelty, but I think being a real person
+[37:12] Speaker 1: in a world of unlimited AI content
+[37:15] Speaker 1: will increase in value.
+[37:17] Speaker 2: Is a real person somebody who screws up, unlike a model?
+[37:21] Speaker 1: I mean, certainly real people do screw up, so maybe that's part of what we associate with a real person, I'm not sure. But I do think we just, knowing that it's a real person or not, we really extremely care about.
+[37:32] Speaker 2: What is the difference between
+[37:34] Speaker 2: AGI and human intelligence?
+[37:36] Speaker 2: Today and tomorrow?
+[37:39] Speaker 1: So so, like with GPT five, you have something that is
+[37:44] Speaker 1: incredibly smart
+[37:45] Speaker 1: in
+[37:46] Speaker 1: a lot of domains at tasks that take,
+[37:50] Speaker 1: you know, seconds to a few minutes. It's very superhuman
+[37:54] Speaker 1: at knowledge,
+[37:55] Speaker 1: at pattern recognition,
+[37:57] Speaker 1: at recall on these shorter term tasks.
+[38:00] Speaker 1: But in terms of figuring out what questions to ask or to work on something over a very long period of time,
+[38:07] Speaker 1: we are definitely not
+[38:09] Speaker 1: close to human performance.
+[38:13] Speaker 1: And an interesting example
+[38:16] Speaker 1: that one of our researchers gave me recently is if you look at our performance in math,
+[38:22] Speaker 1: you know, a couple of years ago, we could solve math problems that would take like an expert human a few minutes to solve.
+[38:28] Speaker 1: Recently, we got gold level performance on the International Math Olympiad.
+[38:32] Speaker 1: Each of those problems takes about an hour and a half. So we've gone from a problem, a thinking horizon of a few minutes to an hour and a half.
+[38:40] Speaker 1: To prove a new, an important new mathematical theorem maybe takes like a thousand hours.
+[38:45] Speaker 1: And you can predict when we can do a thousand hour problem, but certainly in the world today, we cannot at all.
+[38:50] Speaker 1: And so that's like another dimension where
+[38:54] Speaker 1: AI can't
+[38:55] Speaker 2: do it. So I was in The US
+[38:57] Speaker 2: between
+[38:58] Speaker 2: SF between San Francisco and New York the last couple of months, and I met
+[39:03] Speaker 2: a whole bunch of AI founders.
+[39:07] Speaker 2: The one thing everybody seemed to agree on
+[39:10] Speaker 2: is,
+[39:12] Speaker 2: like
+[39:13] Speaker 2: for AI, The US is a few years ahead
+[39:17] Speaker 2: of most others.
+[39:20] Speaker 2: They also thought that for robotics, China seems to be ahead.
+[39:25] Speaker 2: Do you have a view on robotics and what happens there, like humanoid
+[39:29] Speaker 2: or other form of robotics?
+[39:31] Speaker 1: I think it will be incredibly important in couple of years. I think, one of the things that is going to feel most
+[39:37] Speaker 1: AGI like is seeing robots just walk by you on the street doing kind of normal day to day tasks.
+[39:46] Speaker 2: Is there a reason why they need to have human like form?
+[39:49] Speaker 1: Well, you can certainly have non humanoid
+[39:52] Speaker 1: forms, but the world is really built for humans.
+[39:55] Speaker 1: You know, like door handles,
+[39:57] Speaker 1: steering wheels in cars,
+[39:59] Speaker 1: factories, like a lot of this is built for,
+[40:03] Speaker 1: we built it for our own kind of morphology.
+[40:06] Speaker 1: So there will of course be other specialized robots too, but,
+[40:11] Speaker 1: the world like is built and I hope stays built
+[40:14] Speaker 1: for us.
+[40:15] Speaker 1: You know, robots that match that form factor, it seems like a good idea.
+[40:19] Speaker 2: If I'm a young guy looking to start a robotics company,
+[40:22] Speaker 2: but somebody else has manufacturing
+[40:25] Speaker 2: scale, and I really want, as a Indian guy, to be able to build and compete there, How do I make up for manufacturing
+[40:32] Speaker 2: scale
+[40:34] Speaker 2: as someone starting up?
+[40:37] Speaker 1: Well, eventually, once you build enough robots, they can make more copies of themselves. And, but in the short term, I think you probably have to find some really good partners that know a lot about manufacturing.
+[40:47] Speaker 1: And, you know, we're interested in robots, so we're thinking about this.
+[40:51] Speaker 1: It's definitely
+[40:52] Speaker 1: a new skill for us to learn.
+[40:55] Speaker 2: Sam, what happens to the form factor? I've been using the cell phone for a long time. I know
+[41:01] Speaker 2: you will not likely speak about what you're doing with Jony Ive and what happens there, or maybe you will.
+[41:07] Speaker 2: But what happens to form factor overall?
+[41:11] Speaker 1: One of the things that I think will be defining about
+[41:15] Speaker 1: the difference of
+[41:17] Speaker 1: AI versus the sort of previous
+[41:20] Speaker 1: way we've been using computers and technology
+[41:23] Speaker 1: is you really want AI to be,
+[41:27] Speaker 1: have as much context as possible,
+[41:29] Speaker 1: do stuff for you and be proactive.
+[41:31] Speaker 1: So a computer
+[41:32] Speaker 1: or a phone, you know, it's kind of either on or off, it's in your pocket or it's in your hand and you're using it, but you might want AI to just be
+[41:41] Speaker 1: you know, like a companion
+[41:43] Speaker 1: with you
+[41:44] Speaker 1: throughout your day
+[41:46] Speaker 1: and alerting you in different ways when it can do something to help you or when it's, you know, there's something really important you need to know or reminding you of something that you said you needed to do earlier in the day.
+[41:58] Speaker 1: And the current
+[42:00] Speaker 1: form factors of computers are, I think, not quite right for that. They do have this either on or off binary,
+[42:07] Speaker 1: that I think isn't quite what we want for like a, the sort of sci fi dream of the AI companion.
+[42:13] Speaker 1: So the form factor that enables that, you could imagine a lot of things.
+[42:16] Speaker 1: There's people talking about glasses and wearables and little
+[42:20] Speaker 1: things that sit on your table, and
+[42:24] Speaker 1: I think the world will experiment with a lot of those, but this idea of sort of ambiently
+[42:30] Speaker 1: aware
+[42:32] Speaker 1: physical hardware, that feels like it's going to be important.
+[42:35] Speaker 2: Is that the form factor with Johnny Ive, like a sensor?
+[42:40] Speaker 1: So we'll try multiple products,
+[42:43] Speaker 1: but but I think this idea of
+[42:46] Speaker 1: trying to build hardware that
+[42:49] Speaker 1: an AI companion can sort of embody itself in will be an important thread.
+[42:53] Speaker 2: Right.
+[42:54] Speaker 2: The the last two things I want to ask you, Sam, is one about
+[42:59] Speaker 2: fusion because I know you've invested in Helion and you're a big proponent of it. Does that solve the climate change problem?
+[43:07] Speaker 2: Would you put money on that?
+[43:10] Speaker 1: Well, it certainly helps a lot. I suspect that we've already done
+[43:14] Speaker 1: sufficient damage to the climate. We're gonna have to undo some damage too, even if we got to switch to fusion right away. But it would certainly be a great step forward.
+[43:23] Speaker 2: And the last question I have for you, Sam, is the question I care most about.
+[43:29] Speaker 2: What's
+[43:30] Speaker 1: in this AI realm for India as a country? What's the opportunity for us? As I mentioned earlier, I think India may be our largest market in the world, at some point in the not very distant future. The excitement,
+[43:45] Speaker 1: the embrace of AI in India, and the ability
+[43:49] Speaker 1: to, for Indian people to use AI to just sort of
+[43:52] Speaker 1: leapfrog into the future and,
+[43:55] Speaker 1: invent a totally new and better way of doing things and the sort of economic benefits that come from that, the societal benefits.
+[44:02] Speaker 1: If there is one large society in the world that seems
+[44:05] Speaker 1: most
+[44:06] Speaker 1: enthusiastic to transform with AI right now, it's India, and the energy is incredible. I'm looking forward to it coming soon.
+[44:13] Speaker 1: And
+[44:15] Speaker 1: it's really, like, quite amazing to watch,
+[44:17] Speaker 1: and I I think the
+[44:19] Speaker 1: it's sort of
+[44:20] Speaker 1: the momentum is unmatched anywhere in the world.
+[44:24] Speaker 2: I I feel like
+[44:25] Speaker 2: the question really is how do we transition from being
+[44:29] Speaker 2: a consumer to be a producer
+[44:32] Speaker 2: where
+[44:33] Speaker 1: we can build something that other people use outside of India? That that was what I'm I mean, there's lots of things happening there, but that that was the thing I meant. I think that's really happening already in a big way.
+[44:42] Speaker 1: The
+[44:44] Speaker 1: the entrepreneurial energy around
+[44:46] Speaker 1: building with AI in India
+[44:49] Speaker 1: is
+[44:49] Speaker 1: is quite amazing, and we hope to see much more of it.
+[44:53] Speaker 2: Right.
+[44:54] Speaker 2: Yeah.
+[44:55] Speaker 2: Super. Thank you, Sam Great. For doing this. Thank you for having me. Thank you. Appreciate it.
+[45:01] Speaker 2: I'm gonna message you.
+[45:02] Speaker 1: Okay. Good to see you. Thanks for doing this.

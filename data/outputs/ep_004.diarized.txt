@@ -1,0 +1,837 @@
+[00:00] Speaker 2: Give me three examples of businesses which are gonna benefit from the rapid adoption of AI. So software development, health care, financial consulting. What is the most ridiculous search query you have read? Either this person's trying to rob a bank, ended up asking, I want my face
+[00:16] Speaker 1: breathe, but it should cover my nose, holes for my eyes, and I wanna, like, bike. Explain me how does the answer comes in? A lot of it just has to do with, like, filtering out, like, really low quality domains. And then, like, there are subtle things you can do based on the region, based on the user's pass queries, based on the current query itself, you can re rank the final set of, like, links. You're in a sort of competition in a race with all these large companies. Who loses the most if you win? The one with the most to lose is Google. What would beating Google be like? Google employees and their kids. They all use perplexity because it's a better product. Our today's guest is Aravind Srinivas, who's a founder of perplexity.
+[00:54] Speaker 2: He has raised millions of dollars, which has gotten funded by Nvidia's founder and Jeff Bezos as well. We learn how AI actually works and what's the future of AI. And what's the craziest conspiracy you've heard about? AI
+[01:09] Speaker 1: god like thing that you can use to control the whole universe. But do you think that's possible?
+[01:17] Speaker 2: Do you see any potential
+[01:19] Speaker 2: political threats coming on perplexity?
+[01:22] Speaker 2: I think Elon raised $6,000,000,000
+[01:24] Speaker 2: for x AI. Yeah. Are you scared of Elon?
+[01:44] Speaker 2: Enjoy the
+[01:49] Speaker 2: show. When you think about India or just like let's say world,
+[01:54] Speaker 2: and you want to compete and you want to be the best, you want to be number one. Yeah. Why keep name as perplexity? Yeah. It's so difficult to say. I know. I was talking to so many people in the organization
+[02:06] Speaker 2: because I use perplexity. Yeah. And,
+[02:09] Speaker 2: there are two, three people who use perplexity. And then when we spoke to everyone that, hey, you know what? We're gonna get the founder.
+[02:15] Speaker 2: We'll do this. And they're like,
+[02:17] Speaker 2: it's such a difficult name. We'll never gonna be able to even download it and use it. Sure.
+[02:22] Speaker 2: And it's a it's an important question.
+[02:25] Speaker 1: Yeah. So, this goes back to the origins of the company. Like,
+[02:30] Speaker 1: you know, when I started, I didn't really,
+[02:32] Speaker 1: clear sense of like, you know,
+[02:35] Speaker 1: whether we'll build a search app or consumer application.
+[02:39] Speaker 1: None of that. Like we were we knew we wanted to do something in search. We knew, like, we wanted to build unique experiences that were not possible before.
+[02:47] Speaker 1: We were not dreaming big, like, oh, we're going to build a billion user product potentially.
+[02:54] Speaker 1: So,
+[02:55] Speaker 1: when you pick a name for the company, you pick something pretty cool, like an easy to get a domain for.
+[03:02] Speaker 1: I didn't have much money at the beginning of funding. So, perplexity.ai
+[03:06] Speaker 1: was available for like $120
+[03:08] Speaker 1: for two years. So I just got it.
+[03:11] Speaker 1: And,
+[03:12] Speaker 1: perplexity is a metric in AI that measures how well you understand something.
+[03:17] Speaker 1: Okay. So very geeky, you know, I get it. Once you get even more users and more funding, like we can just buy the
+[03:24] Speaker 1: rights to some crazy name and like just do something like four or five letters. That'll be amazing. Interesting.
+[03:31] Speaker 1: Okay. So there there is plan to actually change it. This is a problem you're aware about. Yeah. Yeah. I mean, look, I'm it's one of the worst names you can pick for a consumer company.
+[03:40] Speaker 1: 100% aware of it. And I'm not going to defend the
+[03:44] Speaker 1: Maybe we can do something like the company will still be called perplexity, but the product can be called something else. Yeah.
+[03:52] Speaker 2: I was looking at the list of your investors. Jeff Bezos happens to be one of them. Yeah.
+[03:56] Speaker 1: He came much later. He's not the earliest investor. Okay. But did you meet Jeff? Yeah. Yeah. I did meet Jeff. How did that happen?
+[04:03] Speaker 2: How did you go from
+[04:05] Speaker 2: being this guy who doesn't know much about this business genius and how this model will make sense
+[04:11] Speaker 2: to getting
+[04:12] Speaker 2: a Jeff Bezos, the Jeff Bezos investing in you. So we reached out,
+[04:18] Speaker 1: through, like, a common contact, like, and then,
+[04:24] Speaker 1: they responded saying, Okay, why don't you send
+[04:28] Speaker 1: a document, like a memo?
+[04:30] Speaker 1: He likes to read memos. And so I sent that and I also made a nice demo where
+[04:37] Speaker 1: it's an imaginary demo of, like, Jeff talking to our our our voice to voice system,
+[04:43] Speaker 1: where his voice is talking to it, and that system is responding back. And and the questions are about, like, Star Trek and Blue Origin and things like that.
+[04:51] Speaker 1: And I I I recorded it myself and then,
+[04:54] Speaker 1: sent it over, both the memo and this.
+[04:57] Speaker 1: And,
+[04:58] Speaker 1: he for the first investment, he didn't even meet me. They just said, okay. I'll just seen the memo and looked at the
+[05:04] Speaker 1: demo and,
+[05:06] Speaker 1: he's approved the investment. So, Okay, fine. That's awesome.
+[05:09] Speaker 1: And then we asked for permission to use his name in the public release of the funding round. They said, Yeah, go for it. And that became the headline essentially. So that that really helped us. Like, so thanks to him.
+[05:21] Speaker 1: Subsequent after that, like, when we kept making more progress, he reached out. That was the first inbound request. Like, Hey,
+[05:27] Speaker 1: Jeff wants to meet and, like, you know, get a update on the company and, like, your strategy.
+[05:33] Speaker 1: And again, they asked me to write a six pager. I wrote it. Well, that's a really good exercise,
+[05:39] Speaker 1: writing these memos and six pagers.
+[05:42] Speaker 1: It takes a lot out of you to write one, but it's totally worth it for your clarity. And he explains why too, right? He's gonna so I've written it and then
+[05:52] Speaker 1: had the one on one meeting. It goes for an hour.
+[05:56] Speaker 1: I thought he's not gonna
+[05:58] Speaker 1: he certainly wouldn't have had time to read it. Yeah. So he's just gonna use the first thirty minutes to, read it together. But no, like, he just directly got to the points. He referenced specific sections,
+[06:10] Speaker 1: what he liked and what he was not sure about,
+[06:13] Speaker 1: asked me for things like what I think about, like, the chip space and stuff.
+[06:19] Speaker 1: And no time was wasted. So it was like basically getting to the second meeting, you know?
+[06:24] Speaker 1: And at the end, like, he just said something of, Your your success doesn't rely on Google's failure, which is why, like, you know, I'm pretty optimistic about your chances.
+[06:33] Speaker 1: And, you just gotta keep moving fast. And, of course, the only thing that matters is customer experience. Like, just retain the users. Don't be a leaky bucket. Make sure retention is high. Don't everyone soon, like, just push you for getting as many users as you can, but
+[06:49] Speaker 1: maintain your growth rates. Don't try to aim for something crazy.
+[06:54] Speaker 1: But absolutely make sure that as you grow, your retention is only increasing, not
+[06:59] Speaker 1: even staying flat.
+[07:01] Speaker 1: So,
+[07:02] Speaker 1: he had all the right messages. I mean, we knew it, but it was always great to have it reinforced with someone like him.
+[07:09] Speaker 1: And then I met him in person in another event later. So he the three I met him like totally like two or three times. He's pretty awesome.
+[07:16] Speaker 1: A lot of people think he's like not very plugged in anymore, but,
+[07:20] Speaker 1: I would say he's like literally was up to date with everything that when I met him. What do you think is the reason?
+[07:26] Speaker 2: Why did he invest in you? I mean, look, I really don't know. He probably What do you think? I know that you don't know. I mean, he knows it better, but what do you think? Why did he know? I'm guessing he probably tried out the product and, like, you know, it worked as expected.
+[07:39] Speaker 1: And I thought, like, you know, it's
+[07:41] Speaker 2: But he must be getting thousand products, which are living up to the expectation and working
+[07:47] Speaker 2: as described or explained
+[07:49] Speaker 2: by you?
+[07:51] Speaker 1: Well, we had a lot of visibility already by then. A lot of people using it.
+[07:56] Speaker 1: And
+[08:00] Speaker 1: there were very few products in the market at the time also. Like, ChatGPT was there, but
+[08:05] Speaker 1: it wasn't even doing browsing reliably.
+[08:07] Speaker 1: And, you know, Google bar it was called Bard back then. It wasn't even called Gemini and wasn't really, really good.
+[08:14] Speaker 1: Microsoft Copilot wasn't good. Bing chat wasn't good. So we actually had a pretty good time to,
+[08:21] Speaker 1: like, attract a lot of users where, like, our service is basically
+[08:25] Speaker 1: not,
+[08:26] Speaker 1: possible anywhere else. So that that differentiator was clear there. It was not, like, one among another product.
+[08:33] Speaker 1: And the other thing he probably my guess is,
+[08:36] Speaker 1: the existing set of investors were already pretty incredible.
+[08:39] Speaker 1: The team was shipping really fast.
+[08:41] Speaker 1: I think these are good attributes for a startup.
+[08:44] Speaker 1: And we were very efficient in the way we got to where we were. Like before we raised that round, we had raised very little money,
+[08:51] Speaker 1: and we did not spend it on like, you know, like training our own models, but just continually investing in a good product.
+[08:58] Speaker 1: We had a core thesis that like, your model is not my concern for the user.
+[09:03] Speaker 1: And I think that appealed to him because there's literally a play on his your profitability is not my concern. You
+[09:10] Speaker 1: get the package in a day. I don't care what it costs you to do that. So I think like it was
+[09:16] Speaker 2: a customer focused AI company. Maybe he wanted to be part of the journey. Got it. And he probably liked the way you were thinking about it way more
+[09:25] Speaker 1: than the other thing. Probably. I really don't know. I'm also also making a guess. Who knows? Maybe that demo was pretty cool. Like the I'm trying to prompt so that you give me an answer, which is beyond just your product. It's very hard. I've never asked. Maybe next time I'm just gonna ask them like, hey, like why do you invest? Because honestly, it's,
+[09:45] Speaker 1: like, you could argue, like, it's it's gonna create conflict at some point. Like, you know, Amazon, Alexa
+[09:51] Speaker 1: is also gonna be in in the operating in the space.
+[09:55] Speaker 1: And,
+[09:57] Speaker 1: so maybe there's some deeper reason or maybe it's not that deep. I don't know. Yeah. Because
+[10:03] Speaker 2: it's
+[10:04] Speaker 2: usually when someone of that stature actually takes up personal time to a, invest and then meet the founders.
+[10:11] Speaker 2: It has to be something deeper because I hope so. Couple of millions of dollars for him is gonna like it's peanuts. It's not gonna mean anything. Yeah. Yeah. It's not. It's financially It doesn't mean anything to him. And I'm
+[10:22] Speaker 1: again, look, like if we become really big,
+[10:28] Speaker 1: you know, even then I think the the the evaluation of which he came in and the amount he put in, like,
+[10:34] Speaker 1: it'll move the needle for him a bit financially, but it's not it's not for that reason. That's like a lot of other ways for him to do that. Exactly.
+[10:41] Speaker 2: Exactly. And what, what do you think makes him special? Why is he the number one? Why is he one of the biggest founders in the world?
+[10:48] Speaker 2: Because you met him, did you notice or observe anything different that makes him a star founder? I think he has incredible clarity of thought.
+[10:57] Speaker 1: Like the thing I said, like, you know, there are some of the wisdom that he gave is timeless.
+[11:04] Speaker 1: The your margin is my opportunity thing is timeless. Like it keeps on coming. It is
+[11:09] Speaker 1: the core,
+[11:11] Speaker 1: truth to like most disruption stories
+[11:14] Speaker 1: where, someone else has to protect their margin and they're in an innovative dilemma situation and like someone else eats the lunch
+[11:20] Speaker 1: with a better technology.
+[11:24] Speaker 1: And and, like, he has all these frameworks, right, like, repeatable frameworks, like, one one way door, two way door decisions.
+[11:31] Speaker 1: Where should you spend your mind, mental compute on?
+[11:36] Speaker 1: And a shareholder there is like a masterclass in good writing.
+[11:40] Speaker 1: So my,
+[11:41] Speaker 1: the reason I really respect him is
+[11:44] Speaker 1: when you try to scale a company, you have to kind of have,
+[11:48] Speaker 1: some version of you or your thought process in every meeting.
+[11:53] Speaker 1: Otherwise because it's physically and, like, impossible for you to be in every meeting and, like, driving decisions everywhere.
+[12:01] Speaker 1: So you have to be able to write down
+[12:04] Speaker 1: how you think and how you make decisions,
+[12:07] Speaker 1: which is very going a step further. It's not just about making good decisions. It's about
+[12:13] Speaker 1: writing down your decision making framework so that others can think in a way as clear as you. That requires even higher order clarity.
+[12:22] Speaker 1: And he did it at Amazon
+[12:24] Speaker 1: and
+[12:26] Speaker 1: and I scaled the company a lot and built like many businesses simultaneously.
+[12:31] Speaker 1: And I think that
+[12:33] Speaker 1: I'm definitely not at that level. I cannot do that right now.
+[12:37] Speaker 1: And I don't think many CEOs are like that good either. True.
+[12:42] Speaker 1: So,
+[12:44] Speaker 1: that is a very unique Bezos thing. Like he
+[12:47] Speaker 1: totally nailed the, like shareholder letters and, like, decision making frameworks and, like, how to understand the market. Even recently,
+[12:55] Speaker 1: in an interview with Sorkin, he said this thing that was like very profound, which is like, you know,
+[13:00] Speaker 1: we are,
+[13:01] Speaker 1: we usually overestimate
+[13:03] Speaker 1: risk and underestimate opportunity,
+[13:05] Speaker 1: almost all of us.
+[13:07] Speaker 1: And a corollary of that is like, we don't take enough risk. Like we are all like,
+[13:13] Speaker 1: we don't we're like there's a reason why most humans are not risk seeking animals.
+[13:18] Speaker 1: And another thing he said in the Lex Fridman interview was very cool. Like,
+[13:22] Speaker 1: you know, we all talk about truth seeking, but there's a reason that it's not easy
+[13:28] Speaker 1: is because by nature,
+[13:30] Speaker 1: human beings are not truth seeking animals. We are social animals.
+[13:34] Speaker 1: We like validation. We like, like, other people saying we're good or what we're saying is correct. We don't care if what we're saying is actually correct. By nature, you actually have to rewire yourself for that. And any rewiring process is painful.
+[13:49] Speaker 1: So I I think like that clarity of thought is what is making makes him pretty singular.
+[13:54] Speaker 2: I am a big Jeff Bezos fan. Like it's in my list
+[13:58] Speaker 2: of entrepreneurs in the world. He comes at the top. Like he's the number one because obviously all of these frameworks and the things that he has done. Yeah. I think it makes ton of sense and I can go on and on with him. Yeah. Because I've read so many things and I've
+[14:12] Speaker 2: like used so many of his frameworks to make decisions in my day to day life.
+[14:17] Speaker 2: All the dumb decisions that I've made in my life Mhmm. Which have actually turned out to be good,
+[14:23] Speaker 2: was because of this one regret minimization framework that I've worked out for him. It's so good. Like, regret minimization framework. Oh my god. Yeah. And that has made me do dumb things in my life. But in most cases, it has been a pretty lovely one. Yeah. I mean, that's one of the main reasons I was so,
+[14:45] Speaker 1: I was having a lot of urgency to start the company because I knew that,
+[14:50] Speaker 1: well, I had
+[14:51] Speaker 1: some of my own reasoning too, which is I knew that my
+[14:56] Speaker 1: cognitive abilities are on a decline. You have to accept that. Yeah.
+[15:00] Speaker 2: How old are you? I'm 30,
+[15:03] Speaker 1: but
+[15:03] Speaker 1: I I I know that I'm on a decline.
+[15:06] Speaker 1: I I can try to fight it, but I I can clearly see the kind of insane things I could do when I studied for JEE or, when I was at IIT,
+[15:16] Speaker 1: you know, cramming last minute before the exam, I could download, like,
+[15:20] Speaker 1: 10 lectures in my head in the last three hours. I can't do all those things anymore.
+[15:26] Speaker 1: So I wanted to do it as soon as I can. And the regret minimization framework was also clearly there, which is,
+[15:33] Speaker 1: look, it's only going to get harder to start a company because of both abilities and other constraints in your life that come.
+[15:41] Speaker 1: So
+[15:43] Speaker 1: your
+[15:44] Speaker 1: the the regret's gonna
+[15:46] Speaker 2: go up and your abilities are gonna go down. So you better, like, do it. Start now. Yeah. Wait. Okay. Explain me how does the answer comes in. So the moment I talk, I type something in perplexity.
+[15:56] Speaker 2: Yeah. And I type the question. Yeah. Does it show answer based on my interest
+[16:02] Speaker 2: and what I would be interested in? Or does it show based on some level of merit? Like what is the way that you show me? Because as far as I understand about Google,
+[16:10] Speaker 2: it depends a lot on the location I'm in, my
+[16:13] Speaker 2: past history, what kind of things I'm interested in. Then Google shows me some lot set of those things. And maybe like keywords and stuff like that. But a lot depends on
+[16:24] Speaker 2: two individual people. We have tried this multiple times.
+[16:27] Speaker 2: Two people from the same location searching the same thing probably shows, like, three, four top version things. Right? So I think in in the case of Google, the reason you see different results,
+[16:37] Speaker 1: might not even be personalization.
+[16:40] Speaker 1: Mhmm.
+[16:41] Speaker 1: Google runs AB tests a lot.
+[16:44] Speaker 1: Ranking algorithm AB tests,
+[16:46] Speaker 1: UI AB tests,
+[16:48] Speaker 1: a number of ads on the query. There's a lot of other things that end up making the result pretty different per user. The biggest level of personalization you can make is
+[17:00] Speaker 1: location actually. That gives you most of the heavy lifting in terms of personalization.
+[17:05] Speaker 1: So what we do when you ask a query is we pull up relevant results,
+[17:10] Speaker 1: from an index we have. We look at ranking signals that we can get from many different search engines. We pull them all together with a proprietary algorithm. And then we let the model
+[17:20] Speaker 1: read all those retrieved links,
+[17:23] Speaker 1: pull relevant paragraphs,
+[17:25] Speaker 1: use that to write a synthesize an answer and pull the final citations
+[17:29] Speaker 1: and allow you to keep conversing by keeping things in context, keeping the past sources, past answer, past query in context.
+[17:35] Speaker 1: As it grows, it gets more challenging.
+[17:38] Speaker 1: And we do all this
+[17:39] Speaker 1: at pretty minimal latency that makes the product feel fast yet pretty useful. So, the hard part is actually the orchestration.
+[17:47] Speaker 1: You can do a lot in what links you've retrieved with the first stage that can make the answer quality really, really good without
+[17:56] Speaker 1: a lot of it just has to do with
+[17:59] Speaker 1: filtering out really low quality domains that gives you
+[18:03] Speaker 1: a lot of heavy lifting to quality improvements.
+[18:07] Speaker 1: And then, like, there are subtle things you can do based on the region,
+[18:11] Speaker 1: based on the user's past queries, based on the current query itself. You can rerank the final set of, like, links,
+[18:18] Speaker 1: and we do all that.
+[18:20] Speaker 1: But we've generally seen that, like, location, gender, like, are are, like, big predictors of what final set of links that you need to retrieve.
+[18:29] Speaker 1: And any more personalization
+[18:31] Speaker 1: can improve the quality a bit, but,
+[18:34] Speaker 1: most users or most queries are not gonna see the
+[18:38] Speaker 1: differences.
+[18:39] Speaker 2: So if you and me type the same problem here together,
+[18:43] Speaker 1: are there chances that we'll see the same answer? Most likely you will unless by the way, as products and companies get bigger,
+[18:50] Speaker 1: a lot of AB tests are run,
+[18:52] Speaker 1: pretty much every day,
+[18:54] Speaker 1: because that's the only way to improve the product.
+[18:56] Speaker 1: So if you see different answers, it either means different models we use for that or
+[19:03] Speaker 1: the query
+[19:04] Speaker 1: reformulators,
+[19:05] Speaker 1: the ones that are taking your original query and changing it a bit.
+[19:09] Speaker 1: Those models were different,
+[19:12] Speaker 1: or the ranking algorithms were different.
+[19:16] Speaker 1: Literally verbatim query, if you get different answers, the only reason has
+[19:20] Speaker 1: to be AB tests.
+[19:21] Speaker 1: And you cannot do anything about it.
+[19:24] Speaker 1: Like, every product has to do this because the only way to iterate and improve
+[19:27] Speaker 1: is run AB tests on holdout sets and and see if, like, the retention was higher or, like, number of queries so that user
+[19:34] Speaker 1: ended up going up or there were more follow ups to that question that were, like, relevant but not, like, reclarifying the original query. So that means the original answer was correct.
+[19:44] Speaker 1: We collect a lot of signals like this.
+[19:47] Speaker 1: And so,
+[19:51] Speaker 1: my hope is that even if you see a different answer,
+[19:54] Speaker 1: it ends up conveying the same thing rather than
+[19:58] Speaker 2: one answer is, like, completely contradictory to the other. Got it. So now do you get in investor meetings now that you have some such start investors? You have a bunch of capital now. Capital is never enough, though, but you have capital
+[20:11] Speaker 2: and you have good investors. Yeah. Right. You have SoftBank as well. You have SoftBank, Stanley Druckenmiller, a bunch of really great people. Like bunch of great people. Right. Now do you go into a board meetings or investor meetings and be like, hey, you know what? I'm going to beat Google. No, we don't talk about how to beat Google.
+[20:27] Speaker 1: I think
+[20:29] Speaker 1: we just talk about how to grow perplexity.
+[20:32] Speaker 1: Just very being very honest with you, like,
+[20:35] Speaker 1: I think the Google positioning is very interesting
+[20:38] Speaker 1: mainly because there's a reason they cannot ship the same product to a billion users yet,
+[20:43] Speaker 1: because of the NVIDIA Diamond
+[20:45] Speaker 1: situation.
+[20:46] Speaker 1: So it's very interesting.
+[20:48] Speaker 1: But they're also very clear, right, about that and they're building Gemini and they're trying to, like, make it as,
+[20:55] Speaker 1: you know, at least like, oh, if there is an app that truly kills Google, it's better we also own one of it. Right? My hope is that in the next generational search where we're all gonna converse and ask questions on voice and
+[21:08] Speaker 1: get tasks done, I hope there are multiple players there.
+[21:12] Speaker 1: And Google will certainly be one of them. There's no question about it. And OpenAI will be one of them. We hope to be one of them.
+[21:20] Speaker 1: Meta is likely to be one of them, XAI.
+[21:23] Speaker 1: So I'm hoping like there are a lot of players here and,
+[21:27] Speaker 1: it's a much more
+[21:30] Speaker 1: I still think there'll be a winner for the dominant market share,
+[21:34] Speaker 1: but I hope it's like, it's not like a 90%
+[21:38] Speaker 1: winner and like 10%
+[21:40] Speaker 1: rest.
+[21:41] Speaker 1: And that can be avoided if you're
+[21:43] Speaker 1: having enough capital to compete and like innovative on like features you're shipping
+[21:48] Speaker 1: and figure out new business models outside subscriptions,
+[21:52] Speaker 1: new ways for commerce to happen here. You have to do all that work. There's a lot of non AI work to be done here.
+[21:57] Speaker 1: And, so we talk a lot about those kinds of things in board meetings rather than like, oh, how can I get everyone's
+[22:06] Speaker 1: single word searches that are happening on Google on perplexity? That's impossible. I'm not going to get it unless it literally displays your browser, your operating system, everything.
+[22:16] Speaker 1: That's not worth thinking about. Rather, it's worth thinking about like, okay, there are some kind of searches that clearly people are coming to perplexity for not going to Google,
+[22:25] Speaker 1: how to grow that, those kind of searches, which is actually new, right? We were not Earlier,
+[22:30] Speaker 1: at least me,
+[22:32] Speaker 1: we were I was not going to Google to type in a full quest than ever.
+[22:36] Speaker 1: So that's a new ability
+[22:38] Speaker 1: that
+[22:39] Speaker 1: some people are not even aware they can do and
+[22:42] Speaker 1: that'll grow.
+[22:43] Speaker 1: And
+[22:45] Speaker 1: I think that market, how to monetize that, how to grow that, how to like bring it to more verticals,
+[22:50] Speaker 2: how to get in front of more users, that's where it's really worth focusing the energy on. Okay. Compare for a layman like me and for all the viewers who are watching, compare Google with Perpacity for me. What are the weaknesses
+[23:03] Speaker 2: which Google has? Yeah. And those are the weaknesses or the gaps that you guys have seen and you are solving it for it. Yeah. So the median number of words
+[23:11] Speaker 1: on a Google search is like two to three words, I think 2.3
+[23:15] Speaker 1: words maybe.
+[23:16] Speaker 1: The median number of words on a perplexity search is like 10 words.
+[23:20] Speaker 1: So, people on Google, like if you actually go to trends.google.com
+[23:26] Speaker 1: and look at the top one, not the rising ones, the top ones are always like single
+[23:30] Speaker 1: word searches, Amazon, Instagram, Reddit, TikTok,
+[23:34] Speaker 1: weather,
+[23:35] Speaker 1: score, cricket. You know, it's like single word searches.
+[23:41] Speaker 1: And that tells you what people are mostly doing. They're just navigating the web, you know. Sometimes they ask like very quick
+[23:49] Speaker 1: fast facts like search and Tenufer age or something. You know, you just quickly get it right there. But you're not asking questions like,
+[23:57] Speaker 1: oh, like,
+[23:58] Speaker 1: how many times has Tendulkar,
+[24:00] Speaker 1: scored a
+[24:02] Speaker 1: 100 and India has lost a match?
+[24:05] Speaker 1: You're probably not going to get it quickly on Google. It'll give you a bunch of links. You'll have to open them. You'll have to read and parse and figure out. You You can ask those kind of questions on perplexity.
+[24:14] Speaker 1: You can ask Sachin Tendulkar H also on perplexity, but there's going to be some overlap in the searches that we can share. But there are just going to be some searches that are clearly better than on Google, which is a quick fast navigation.
+[24:26] Speaker 1: And there are going to be some searches that are better than on perplexity, which is actual answers to questions. So you can ask me how many people are really asking these kind of complicated questions.
+[24:36] Speaker 1: Today, not so much.
+[24:38] Speaker 1: We get 20,000,000 queries a day and, you know, maybe like 80% of them are like pretty deep questions.
+[24:43] Speaker 1: But over time, it's going to grow. You're not just going to ask those kind of weird esoteric questions. You're going to ask things like, Oh, like, how do I fix my how do I renew my other card? I'm actually outside The US. Or like my passport door and like, I I'm I'm stuck in this country. What what do I do? Like, these are the kind of questions that are going to like grow.
+[25:03] Speaker 1: Yeah. And I think,
+[25:05] Speaker 1: you're not going to go to Google to that for two reasons. One is Google, was never like meant for that.
+[25:11] Speaker 1: It's ingrained in you is not that user habit yet. So that
+[25:16] Speaker 1: muscle memory is not something that we're competing with. So we can actually, like, be the product go to product for that. Number two is even if they ship things like AI review or, like, answers right there, it they don't actually
+[25:28] Speaker 1: know when to, like,
+[25:30] Speaker 1: do that and when not to. And it becomes a,
+[25:34] Speaker 1: you know, like a kitchen sink of so many different UIs in one search page, which really frustrates the user.
+[25:41] Speaker 1: And it actually competes with their ad business,
+[25:44] Speaker 1: and, like, revenue traffic. Right? So,
+[25:48] Speaker 1: that's where I think we have a clear opportunity.
+[25:50] Speaker 1: And this category of searches is gonna grow,
+[25:53] Speaker 1: exponentially in the next five to ten years. And we won't be the only person to capture that market. I think ChatGPT will also compete. Even though ChatGPT started off as a writing tool, they're also going more towards these kind of prompts.
+[26:07] Speaker 1: And Gemini will also be a player in this, but it's going to be a pretty interesting,
+[26:12] Speaker 2: new market that's emerging. Yeah. So without even knowing about this,
+[26:18] Speaker 2: you're right. I use perplexity for this only.
+[26:21] Speaker 2: And it's so subconscious
+[26:23] Speaker 2: that I use it for x y z reason because probably
+[26:26] Speaker 2: the first time I asked question, it showed me the kind of answers which
+[26:30] Speaker 2: made me ask more deeper questions. Yeah. So I would really go on Google and be like, hey, Sachin Tendulkar's age or
+[26:40] Speaker 2: how much this person's spending, or whatever. Like some random Yeah. Very easy one word kind of answer. Yeah. And then I would go on perplexity and be like, okay, what's a specific core message
+[26:51] Speaker 2: of this person in this speech in this year? Right. And then this is the specificity I go to. Yeah. And then I get an answer. Yeah. By the way,
+[26:59] Speaker 1: I would say just, you know, like for
+[27:03] Speaker 1: the correctness of it,
+[27:05] Speaker 1: both sides will do what the other side is doing. Like, we'll be we we'll try to get even faster
+[27:11] Speaker 1: at, like, quick fast facts, like, such a tender look at the age
+[27:15] Speaker 1: or, how much did India spend on transportation,
+[27:19] Speaker 1: those kind of, like, things.
+[27:21] Speaker 1: And make the experience better for you so that you don't have to go somewhere else with those questions. Like, why even the user burden of deciding when to use what tool? Yeah.
+[27:30] Speaker 1: And at the same time, Google will also try to get better
+[27:34] Speaker 1: at, like, you know, like,
+[27:37] Speaker 1: pull ups that require multiple hops of reasoning. So both things are gonna happen. And that's why it's interesting moment for the user,
+[27:44] Speaker 1: like,
+[27:46] Speaker 1: of, like, who's gonna deliver the best orchestrated product.
+[27:49] Speaker 1: Is it the one that's starting from answers? Is it the one that already has links and these one box answers?
+[27:55] Speaker 1: Nobody knows, right? Because you can argue in bold favor,
+[28:00] Speaker 1: the more general system can build the final solution faster versus the legacy system that's trying to, like, layer in things together. What would beating Google be like? It feels amazing. Like and I was definitely inspired by
+[28:13] Speaker 1: Larry and Sergei a lot and the founding story of Google, the academic roots that deeply I mean, I've worked as an intern there, both DeepMind and Brain, and, a lot of the Google culture engineering focus, I'm a big fan of that. So it would feel great to have a product that,
+[28:29] Speaker 1: look, I think the true test is
+[28:32] Speaker 1: if even people within Google, like Google employees and their kids, they all use perplexity and so Google because it's a better product, not because
+[28:40] Speaker 1: they want to like They stop liking Google and they move for it, But, like, they truly there's no other choice. They get to use it because it's a better product.
+[28:48] Speaker 1: I think that is the true true,
+[28:50] Speaker 2: benchmark, and that's gonna take a while. But what would it look like? Like, okay. So you said it'll be feel amazing, but what would it look like? Like,
+[28:59] Speaker 2: at what point will you know that, okay, we have done better job?
+[29:04] Speaker 1: I I'll tell you. Three markers. Yeah. Like, so today we do, like, 20,000,000 daily queries. Right? It has to get to, like, two hours of magnitude more,
+[29:12] Speaker 1: like 2,000,000,000.
+[29:14] Speaker 1: Now you can say it's even that's lower than what Google does. Like, I think Google does like around six to eight, something like that. But, because of the query length here, I would say that we've we've done the job.
+[29:27] Speaker 1: And,
+[29:28] Speaker 1: you can see it, right? Like, look, the younger generation has less loyalty to Google
+[29:34] Speaker 1: as we do. So, they're actually the older generation allows these voice to voice systems.
+[29:39] Speaker 1: The younger generation also allows using these
+[29:43] Speaker 1: conversational systems.
+[29:45] Speaker 1: So, I think it's going to be very interesting to see how the behaviour of the new generation changes.
+[29:51] Speaker 1: So one way to mark like a marker is like what product do they use when they grow up?
+[29:58] Speaker 1: And my prediction is it won't be all Google. Let's play the long game here. Like it's not necessary to win every single user. Yeah.
+[30:06] Speaker 1: And I think that mentality of like, oh, I'm the next Google means I need to have 90% market share
+[30:12] Speaker 1: should go away. I think no one's gonna be that next Google. So when I say we are competing with Google, I'm only saying about the core search experience.
+[30:19] Speaker 1: Yeah. Not the alphabet unit or the Google stock. So a lot of people like use this, you know, criticism for us saying like, oh, like, look at this competitor, but then Google stock keeps going up. Okay. Listen. Like, they have, like, so many other businesses, and I'm not saying the stock's gonna go down ever. Like, it's a safe investment to make. They have Waymo. They have, like, so many new businesses that are coming up, DeepMind,
+[30:40] Speaker 1: AlphaFold, like Quantum Chips. So it's it's a great
+[30:43] Speaker 1: company,
+[30:44] Speaker 1: but the core search product for the first time ever in, like, two decades,
+[30:48] Speaker 1: is clearly under threat. If if it was not under threat, they wouldn't be doing, like,
+[30:52] Speaker 1: Gemini AI overview. Right? Yeah.
+[30:55] Speaker 2: Interesting.
+[30:56] Speaker 2: Okay. So is it fair to say that the success would look like
+[31:01] Speaker 2: when an entire generation
+[31:04] Speaker 2: would
+[31:05] Speaker 2: use your product as a default?
+[31:07] Speaker 2: The way one generation uses Google as a default. That would, like, that would beating Google mean like.
+[31:13] Speaker 1: Yeah. Or or having a higher market share there.
+[31:17] Speaker 1: Like like That's why, like, entire generation, like, a majority of the generation using one thing. Yeah. Exactly. Mhmm. Let's say, like, it's split, like, you know, forty, thirty,
+[31:25] Speaker 1: 20,
+[31:28] Speaker 1: 10 with among four tools. I don't know what they are. Maybe us like
+[31:32] Speaker 1: Microsoft, Google,
+[31:34] Speaker 1: Mero, like something like that. Right? I think that will be a pretty big win.
+[31:39] Speaker 1: And
+[31:40] Speaker 1: I hope, like, unanimously that the global aggregate is that, and that will be an even massive win.
+[31:46] Speaker 1: But,
+[31:47] Speaker 2: even, like, one generation would be a great win. Where do you stand today? Give me give me some comparison. I'm interested in this. Let's say Right now the
+[31:55] Speaker 1: AI usage is like, I think chat should be at 80% market share right now as far as I'm aware. And you?
+[32:02] Speaker 1: It depends
+[32:03] Speaker 1: on the web and the mobile. I believe on the web we are
+[32:07] Speaker 1: third
+[32:07] Speaker 1: and Gemini second.
+[32:09] Speaker 1: On mobile, I think Gemini has more installs, but extremely poor retention. So in terms of actual usage on mobile, I wouldn't be surprised if we're number two.
+[32:20] Speaker 1: I think like Copilot has a lot of installs too, but lower retention than us. But
+[32:26] Speaker 1: clear winner right now with web and mobile is Chargebee. Chargebee.
+[32:30] Speaker 1: And but that doesn't need to remain the case. Yeah. And that's why it's really interesting. And,
+[32:35] Speaker 2: in terms of funding, if you want to compare yourself
+[32:38] Speaker 2: with, let's say, ChatGPT,
+[32:41] Speaker 2: Google and you, where do you stand?
+[32:43] Speaker 1: Oh, come on.
+[32:45] Speaker 1: Google has like a $100,000,000,000
+[32:47] Speaker 1: in cash.
+[32:49] Speaker 1: And chat GBT has raised, I mean, as an open AI. Yeah. They've raised,
+[32:55] Speaker 1: the last round was probably like 10,000,000,000
+[32:58] Speaker 1: and I think they're going to raise more and they've already raised
+[33:02] Speaker 1: like 13,000,000,000.
+[33:03] Speaker 1: So in total they raised 20,000,000,000 or 25,000,000,000.
+[33:06] Speaker 1: Right. And they can definitely have they have the brand
+[33:09] Speaker 1: to raise more. Yeah. So we have not even raised a billion so far in total. How much have you raised total?
+[33:15] Speaker 1: I mean, in total we've raised around like
+[33:18] Speaker 1: 800 or 900,000,000.
+[33:20] Speaker 1: Right? So And the last round was around? Yeah, we raised 500 in the last round. So
+[33:25] Speaker 1: clearly,
+[33:26] Speaker 1: like from one end, if you look at our funding rounds, it looks massive.
+[33:31] Speaker 1: But on the other hand,
+[33:33] Speaker 1: these are like three like one has 100, another has
+[33:37] Speaker 1: like raised 20 but burning 5 like losing 5,000,000,000 a year. So, it's not exactly the same. And us, it's like we raised not even a billion. So, clearly there's three different
+[33:47] Speaker 1: orders of management on the spectrum.
+[33:52] Speaker 1: But the nice thing is just because you have the money doesn't mean you win.
+[33:58] Speaker 1: Like I said, if that was true, then we would never have been even
+[34:02] Speaker 1: being in the conversation.
+[34:04] Speaker 1: So the one who can ship the best product has a good chance.
+[34:09] Speaker 1: Lower bureaucracy, faster movement,
+[34:12] Speaker 1: lower distractions,
+[34:13] Speaker 1: clear focus on just the product.
+[34:16] Speaker 1: Definitely has a lot of advantages here.
+[34:18] Speaker 1: So what we need to ensure is
+[34:21] Speaker 1: keep growing our usage, keep growing our brand and mind share,
+[34:26] Speaker 1: figure out ways to monetize well too, so that we don't just end up with
+[34:30] Speaker 1: a big pile of cash and a lot of users, but don't know how to turn that into real business. We don't want to be in that sort of spot either.
+[34:39] Speaker 1: So but don't like
+[34:42] Speaker 1: overemphasize
+[34:43] Speaker 1: revenue over growth. So there are
+[34:45] Speaker 1: if we can ensure we get these basics right over the next two years and keep shipping cool things
+[34:51] Speaker 1: and staying ahead of the rest and core user experience, then we have a good shot at playing this game.
+[34:57] Speaker 1: But if we don't, like, there's nothing we ship that others don't ship in, like, a matter of weeks or months. Mhmm.
+[35:03] Speaker 1: And if we are not growing our user base,
+[35:06] Speaker 1: and if we don't know how to monetize the existing user base well, we're definitely gonna be in a difficult spot. And your current focus is revenue or growth? Growth.
+[35:14] Speaker 2: So you're not gonna focus on revenue for a while.
+[35:17] Speaker 1: We'll make good revenue
+[35:19] Speaker 1: to the extent that, like,
+[35:20] Speaker 1: at least on the paying users, we have good margins.
+[35:23] Speaker 1: And the free users, the cost of running the service keeps going down because these models get cheaper and we'll figure out ways to make it cheaper algorithmically too.
+[35:31] Speaker 1: But we're not going to obsess about like making
+[35:33] Speaker 1: revenue and turning the company profitable next year. Yeah. Okay. And then
+[35:39] Speaker 2: what about XAI? You read the news yesterday. They just circulated.
+[35:42] Speaker 2: I think Elon raised $6,000,000,000
+[35:45] Speaker 2: for XAI. Yeah.
+[35:46] Speaker 2: Are are you scared of Elon?
+[35:48] Speaker 1: I mean, come on. Like,
+[35:51] Speaker 1: what? It's not a scare. I'm a fan. Like, he's a, you know, inspirational entrepreneur for me.
+[35:58] Speaker 1: And I think it's cool that he's also building something here in the space, and I would never underestimate him. It's the quote is like never bet against Elon Musk.
+[36:09] Speaker 1: My hope is like there's a lot of people who, you know,
+[36:12] Speaker 1: there's not like one product everybody uses here. You know, there's a lot of people use different apps and he's also gonna work in the search space. Clearly, like Grok's doing some
+[36:22] Speaker 1: web
+[36:23] Speaker 1: sources
+[36:24] Speaker 1: too.
+[36:25] Speaker 1: My sense is there are a lot of verticals to build here.
+[36:29] Speaker 1: There is finance, shopping, travel, local,
+[36:32] Speaker 1: weather, news,
+[36:34] Speaker 1: sports.
+[36:36] Speaker 1: Like, so even within each of these, there's so many subverticals,
+[36:41] Speaker 1: and, like, entertainment is there, shows.
+[36:43] Speaker 1: So there's a lot of things to do here that, like,
+[36:49] Speaker 1: some products will be amazing at some things, some products will be worse at other things.
+[36:52] Speaker 1: And I feel,
+[36:54] Speaker 1: Elon's entry just makes the whole market even bigger. The
+[36:58] Speaker 1: if it takes if some if something is worth its time, then it just means, like, the market's huge.
+[37:03] Speaker 2: And then, but
+[37:04] Speaker 2: does it bother you? Does it scare you in some say? No. Because there are already like a lot of star players and the big players with big deep pockets.
+[37:13] Speaker 2: And then there's Elon as well. Now he's entering
+[37:15] Speaker 2: into this
+[37:17] Speaker 2: this space where you are operating and you
+[37:20] Speaker 2: are three.
+[37:21] Speaker 2: They are number third right now.
+[37:23] Speaker 2: You want to escalate to number two and then eventually number one, but then
+[37:27] Speaker 2: there's this guy. And you said
+[37:29] Speaker 2: the world says that don't bet against Elon.
+[37:31] Speaker 1: Right? Yeah. I mean, by that, I mean, like, he's not gonna lose. Like, he's definitely gonna have a good market share and he's gonna win in in some manner. So what what does it mean? Like, if someone like him raises the money,
+[37:42] Speaker 2: does it mean raising money for you gets difficult?
+[37:47] Speaker 1: So it's, it's, it's complicated. Like, obviously,
+[37:50] Speaker 1: you know,
+[37:51] Speaker 1: money is not infinite sum. Right?
+[37:55] Speaker 1: Similarly, GPUs are not infinite sum.
+[37:59] Speaker 1: There are some zero sum games
+[38:01] Speaker 1: there
+[38:02] Speaker 1: because just constraints in the world, how much capital there is and how many GPUs you can make.
+[38:08] Speaker 1: So,
+[38:09] Speaker 1: yeah, definitely, like, there are some advantages having a lot of capital, but at the same time, it's also how you spend it.
+[38:15] Speaker 1: So XAI, for example, has raised $6,000,000,000,
+[38:19] Speaker 1: out of which they intend to spend 5,000,000,000 on just building a data center with a million GPUs.
+[38:24] Speaker 1: At least that's what I read. Maybe it's wrong.
+[38:27] Speaker 1: Maybe it's an overestimate, but let's just assume that they spend 60 to 70% of the cash on just building data centers.
+[38:34] Speaker 1: So, that's not how we are spending our money. So
+[38:37] Speaker 1: the amount they're actually spending on the core product and making it better,
+[38:41] Speaker 1: will be probably comparable on a yearly basis.
+[38:45] Speaker 1: And I think that gives you a pretty good shot if you're not training your own models.
+[38:52] Speaker 1: And now you can ask like, Oh, what if they train an insanely better model than the rest?
+[38:56] Speaker 1: That just makes their product
+[38:58] Speaker 1: way better, that no matter if you use other people's models, you're not going to be as good as them.
+[39:03] Speaker 1: Again, like, it's possible,
+[39:06] Speaker 1: but I wouldn't give it a very high probability
+[39:09] Speaker 1: because,
+[39:10] Speaker 1: so far the trends are that models are
+[39:13] Speaker 1: like, there are, like, too many players and they're all, like, playing ping pong and, like, it's very evenly contested.
+[39:19] Speaker 1: Like anthropics there, Google is there, Meta is there, OpenAI is there. So,
+[39:24] Speaker 1: I think there's good,
+[39:27] Speaker 1: thesis for a company like us, which can use all of them and just focus on the user. So now that he's a part of the government as well, does it give him any edge?
+[39:36] Speaker 1: I mean, my, my sense is like he's never really taken any advantage of that. And then like, for example Not yet.
+[39:42] Speaker 1: Okay. Like I, I would just go over past actions are a good predictor of future
+[39:47] Speaker 1: And
+[39:47] Speaker 1: he,
+[39:49] Speaker 1: owns X. Yeah. Right?
+[39:51] Speaker 1: But it's not like he,
+[39:55] Speaker 1: de amplified
+[39:56] Speaker 1: any of his rivals' tweets or
+[39:59] Speaker 1: company rivals' tweets. He could have done that, like, just gone to the algorithm, like, tweak the knobs to, like, lower the engagement score for those tweets.
+[40:07] Speaker 1: He could have done that and, like, hurt the marketing efforts of everybody
+[40:10] Speaker 1: Mhmm. Except he himself. He hasn't he's never done as far as I know, OpenAI always
+[40:15] Speaker 1: dominates the Twitter
+[40:17] Speaker 1: discussions,
+[40:19] Speaker 1: and he owns the platform. He lets them thrive on it Yeah. Despite his rivalry.
+[40:25] Speaker 1: So I think he that that already shows, like, he doesn't combine, like, his power or ownership of something that's very powerful with, like, his business interests.
+[40:34] Speaker 1: So I think, like, whatever work he's gonna do in the government, I would just assume that,
+[40:38] Speaker 1: he truly cares about the country,
+[40:41] Speaker 1: and he's not, like, combining his business interests with that. You also said in Lex Fridman's podcast that perplexity
+[40:47] Speaker 2: is not succumb to political power the way Google is.
+[40:51] Speaker 1: What do you mean by that? Like, you know, Google in the past has been, like,
+[40:55] Speaker 1: accused of,
+[40:57] Speaker 1: like, at least, like, ranking,
+[41:00] Speaker 1: bias Mhmm. Where
+[41:02] Speaker 1: if you tried
+[41:03] Speaker 1: Trump News, you would get both it it would kind of reformulate your query to, like,
+[41:08] Speaker 1: Harris, Trump and give you, like, both articles,
+[41:12] Speaker 1: whereas for,
+[41:14] Speaker 1: if you just type Harris News, you will just get her news. Yeah.
+[41:18] Speaker 1: Or,
+[41:19] Speaker 1: autocomplete,
+[41:20] Speaker 1: when you type in Google, your queries are auto suggested, right? If you type Donald,
+[41:25] Speaker 1: their next suggestion is duck
+[41:28] Speaker 1: and not Trump and Trump doesn't even show up in the other list of suggestions. At least three or four instances like these, like,
+[41:35] Speaker 1: where Google clearly had some ranking bias.
+[41:39] Speaker 1: I think, like, for example, the Joe Rogan Trump
+[41:42] Speaker 1: podcast, when people were going to search for it on YouTube, you couldn't even find it.
+[41:47] Speaker 1: So
+[41:48] Speaker 1: we don't have these issues as far I mean, as far as I'm aware, like we've tried to be pretty politically neutral.
+[41:57] Speaker 1: And
+[41:58] Speaker 1: again, it's easy to build from a clean slate than having something and trying to correct it.
+[42:04] Speaker 1: But at the same time,
+[42:06] Speaker 1: I'm also reading news of Sundar meeting Trump a lot and, like, Sergey went and met Trump.
+[42:12] Speaker 1: And Sundar clearly sent out an email saying gone are the days where we had, like, political opinions, and the only thing we care about is our mission
+[42:19] Speaker 1: delivering correct information. So clearly, like, they're changing.
+[42:23] Speaker 1: And so maybe what I said, you know, in the next podcast one year ago may not be relevant now. Do you see
+[42:30] Speaker 2: any
+[42:30] Speaker 2: potential
+[42:31] Speaker 2: political threats coming on Perplexity
+[42:34] Speaker 2: at some point? I see.
+[42:37] Speaker 1: Look, you you don't know. Like, there are always unknown unknowns. If there is some article that said something negative about somebody
+[42:43] Speaker 1: and that surfaced in an answer and someone's upset about it and
+[42:48] Speaker 1: even though the answer gives all perspectives,
+[42:52] Speaker 1: there are chances that some group of people could get upset about it, right? So, anytime when a group of people are involved and their sentiments are heard, there's like room for politics to become part of it.
+[43:05] Speaker 1: And and it may not even happen in America, it might happen in some other country. And censorship and free speech have like different levels of relevance in each country.
+[43:14] Speaker 1: So,
+[43:15] Speaker 1: we are open to, like, you
+[43:17] Speaker 1: know, working with each government look like, individual government, like, what they think is reasonable for their country. We have to abide by their rules. Right?
+[43:24] Speaker 1: I've been very clear about this. I'm, like, Google in the beginning, I think they had all these opinions of, like, them being about governments and
+[43:32] Speaker 1: what they really care about is
+[43:34] Speaker 1: true freedom.
+[43:39] Speaker 1: You can read their culture, don't be evil,
+[43:41] Speaker 1: just be free.
+[43:43] Speaker 1: And they refused to operate in China
+[43:45] Speaker 1: and China wanted to censor them.
+[43:47] Speaker 1: So,
+[43:49] Speaker 1: reality is, like, everyone's a capitalistic
+[43:51] Speaker 1: business at the end of the day.
+[43:54] Speaker 1: They're all competing to win government contracts.
+[43:57] Speaker 1: At one point, Google Cloud employees
+[44:00] Speaker 1: protested that Google's working with the Pentagon.
+[44:04] Speaker 1: And now, like,
+[44:05] Speaker 1: they just fired those people
+[44:08] Speaker 1: who did it again, and they're competing with Amazon and Microsoft to win those contracts because
+[44:13] Speaker 1: clearly that moves their revenue up and
+[44:16] Speaker 1: moves the stock up and that's what the shareholders want.
+[44:19] Speaker 1: So,
+[44:20] Speaker 1: I think
+[44:22] Speaker 1: we're not going to repeat those mistakes
+[44:24] Speaker 1: of what they've been through,
+[44:26] Speaker 1: where they
+[44:28] Speaker 1: forgot that they were actually a company
+[44:31] Speaker 1: and like trying to like have political opinions and things like that. Like we're going to be like a proper well run business at the end. Great product. Like we want to be a great product
+[44:41] Speaker 1: where we have clear responsibility to our shareholders.
+[44:44] Speaker 1: And we're not going to confuse that with
+[44:48] Speaker 1: my agenda or someone's agenda.
+[44:51] Speaker 1: All that stays outside the company.
+[44:54] Speaker 2: But would you lose out on these opportunities even if it means sacrificing revenues for your company?
+[45:00] Speaker 2: What what do you mean by lose out on the option? Lose out on opportunities of trying to maybe partner with some person, some government, somebody
+[45:07] Speaker 2: who wants little bend in your rules and in your platform
+[45:10] Speaker 2: so that it shows searches in their favor. Mhmm. But that means you winning a lot of government contracts, you winning a lot of revenues, and eventually that maximizing your company's value.
+[45:22] Speaker 1: Complicated question. Right? Like, what I I don't wanna say something that'll be held to, like, obviously.
+[45:30] Speaker 1: We'll try to do what's, like, right as as to the best of our abilities as possible.
+[45:37] Speaker 1: But if a certain government has rules, so you have to obey a if you wanna, like, just think about it, leave us,
+[45:44] Speaker 1: even you as an individual. If a certain government has rules
+[45:49] Speaker 1: of what you can do and not do, and you want to continue there and, like, run your business there, you will follow it, right? Or you have to move out. Yeah. The same thing applies to a business like us. But sometimes it's not rules. It's just
+[46:02] Speaker 2: few influencers calling you. Mhmm. That's it. It's not about the rules. Like, rules are pretty much black and white, and you can be freedom of speech. You can show whatever you wanna show. Mhmm. But maybe the ruling party wants something else. Because these are the political pressures which probably a Google faces or like a meta faces or maybe Twitter says it. Like x now. Yeah. Jack Dorsey has been very vocal about it that specifically about Indian government, a lot of other governments in the world,
+[46:29] Speaker 2: that there are some pressures that they have to actually
+[46:33] Speaker 2: listen to.
+[46:34] Speaker 1: I mean, like, I I just look at the fact that even, someone
+[46:38] Speaker 1: like Elon,
+[46:39] Speaker 1: way more
+[46:41] Speaker 1: influential than me and way more opinionated than me,
+[46:45] Speaker 1: like, like how he's handled conflict
+[46:47] Speaker 1: with countries in different ways. Like with I think there was conflict with India at some point. There was conflict with Brazil at some point. And I think the way he went about it was different.
+[46:57] Speaker 1: So,
+[46:59] Speaker 2: so long answer shots, very complicated. Because you are in India, I wanna talk about challenges of India. Yeah. Okay. What do you see like, where is India today in terms of in the world of AI,
+[47:10] Speaker 2: how far are we from
+[47:11] Speaker 2: becoming
+[47:13] Speaker 1: even a contender in the AI world? Yeah, like, I mean, I'm sorry if I'm repeating what I said earlier, but
+[47:19] Speaker 1: I think we are very well positioned in terms of adoption.
+[47:23] Speaker 1: Like we've already adopted a lot, like 92% of knowledge workers have adopted AI here compared to 65% is the global average elsewhere.
+[47:32] Speaker 1: So the amount of people who already know how to use these tools and like,
+[47:37] Speaker 1: can keep themselves updated with it
+[47:39] Speaker 1: is pretty awesome. You don't need to like train them or something.
+[47:44] Speaker 1: Like when I went to Japan, I saw like, there were like actual courses on how to learn
+[47:50] Speaker 1: chat GPT or like all these different tools that people writing books on how to use perplexity.
+[47:54] Speaker 1: I don't think you even need these things here. People are already like pretty
+[47:58] Speaker 1: acclimatized to these things.
+[48:01] Speaker 1: What are the challenges that you see here? I think the challenges are how can people using these tools earn more?
+[48:10] Speaker 1: They should.
+[48:11] Speaker 1: They should ideally
+[48:12] Speaker 1: because,
+[48:14] Speaker 1: they should be able to do more work now,
+[48:18] Speaker 1: faster
+[48:19] Speaker 1: throughput.
+[48:20] Speaker 1: So I hope the usage goes beyond just
+[48:23] Speaker 1: identifying hacks and cheat codes to get work done faster to like, okay, this thing is actually
+[48:29] Speaker 1: making my life so much easier. So I'm going to figure out side gigs that I can do
+[48:33] Speaker 1: and earn more.
+[48:35] Speaker 1: And
+[48:35] Speaker 1: if a bunch of people start doing that,
+[48:39] Speaker 1: the average income goes up and GDP goes up. So that needs to happen. I hope it's already happening too, at least at a small scale,
+[48:46] Speaker 1: but that really needs to happen.
+[48:48] Speaker 1: The second thing, a challenge I would say is, okay, now that you guys really know how to use these tools and you get a sense of it,
+[48:57] Speaker 1: can you
+[48:58] Speaker 1: start building
+[49:00] Speaker 1: apps and businesses that can let,
+[49:02] Speaker 1: other people use things in a way that are not possible with the existing tools.
+[49:07] Speaker 1: Whether you build it for the Indian market or the international market, doesn't matter. But build something that doesn't exist yet
+[49:13] Speaker 1: and,
+[49:14] Speaker 1: get it in the hands of, like, 100,000,000
+[49:16] Speaker 1: people here
+[49:20] Speaker 1: and create
+[49:21] Speaker 1: new
+[49:22] Speaker 1: market caps from nothing,
+[49:25] Speaker 1: employ new people here and then give them opportunities.
+[49:28] Speaker 1: So that's,
+[49:30] Speaker 1: again, creation of value that needs to happen. So,
+[49:34] Speaker 1: the bright side is we know how to use these tools.
+[49:37] Speaker 1: The flip side is, like, we have to figure out how to
+[49:41] Speaker 1: increase the GDP of our country. Per capita GDP is more important
+[49:45] Speaker 1: of our country through these things. And I really hope, like,
+[49:49] Speaker 1: one,
+[49:50] Speaker 1: advantage that we have, healthcare is,
+[49:52] Speaker 2: looked upon more seriously as an opportunity space. So you said people should start earning more. Yeah. Give me three examples of businesses
+[50:01] Speaker 2: which are going to benefit from the rapid adoption of AI. I would say healthcare.
+[50:05] Speaker 1: Okay. I would say like a lot of debt, like software development
+[50:09] Speaker 1: easily, like,
+[50:11] Speaker 1: you know, a lot of other companies, I think like there are a lot of independent consultants here who like do coding gigs for others.
+[50:19] Speaker 1: I think they can do a lot more now per unit time.
+[50:23] Speaker 1: So software development, healthcare,
+[50:25] Speaker 1: I think just financial
+[50:27] Speaker 1: consulting.
+[50:29] Speaker 2: How a financial consultant can use AI to give better
+[50:33] Speaker 1: Yeah. So take
+[50:34] Speaker 1: Have the AI look at your portfolio
+[50:36] Speaker 1: and have the AI go and research the web on like latest news related to each of these stocks,
+[50:42] Speaker 1: read analysis reports, private reports prepared by all these banks like Goldman Sachs or Barclays,
+[50:49] Speaker 1: sell side reports,
+[50:51] Speaker 1: and then come back with investment advice of like what you should be changing to adjust it
+[50:56] Speaker 1: or,
+[50:58] Speaker 1: new,
+[50:59] Speaker 1: stocks that you should be looking into, new changes.
+[51:02] Speaker 1: Equivalent of, like, several
+[51:04] Speaker 1: hours of actual research that analysis doesn't charge us for. If you can have an AI do it, arbitrage that and give it to more people who usually don't get access to these kind of consultants
+[51:16] Speaker 1: and allow everybody wants to make money
+[51:19] Speaker 1: and you take some cut off that
+[51:20] Speaker 2: and create mark value from nothing, right? So AI based financial advisors, AI based healthcare
+[51:28] Speaker 2: advisors, or maybe agents who are connecting you to multiple doctors. Correct. Or just allowing you to get quick
+[51:34] Speaker 1: checks on what's happening to you, uploading your reports, having it be audited by an AI, and then using that and going to a doctor.
+[51:42] Speaker 1: All these things are, like, clear opportunities.
+[51:45] Speaker 1: Okay. And what are the businesses that are gonna feel the maximum tension because of AI? They're gonna fail because of adoption of
+[51:53] Speaker 1: AI. Software consulting. Right? Like, if you can get work done with the help of an AI co pilot, coding co pilot, like,
+[52:00] Speaker 1: you're no longer, like, gonna
+[52:02] Speaker 1: rely on, like, on like a huge form of dev shops.
+[52:06] Speaker 1: Customer support, like, you know, call centers,
+[52:10] Speaker 1: I think wise agents are gonna be able to do a lot of these things pretty well. We should try to disrupt it ourselves, like whoever's going to these call centers and doing these calls. And like we should try to like do it with the AIs as much as we can.
+[52:24] Speaker 1: So obviously some people who are going there are going to lose their jobs, but,
+[52:28] Speaker 1: whoever's
+[52:28] Speaker 1: like running these businesses can potentially
+[52:31] Speaker 1: have higher margins too.
+[52:33] Speaker 1: And those margins can be used to
+[52:35] Speaker 1: give those people that are potentially going to lay off like different kind of jobs. Right? I think we got to do some restructuring there. Okay. These are the two places where you see it the most. I have two, three like fun questions.
+[52:46] Speaker 1: One is what is the most ridiculous and bizarre search query you have read? I think someone, like, ended up asking something very particular for like, oh, like, I want my
+[52:58] Speaker 1: face protected. I I still want to be able to breathe, but it should cover my nose. And like, it should just have the,
+[53:05] Speaker 1: holes for my eyes. And I want to, like, bike,
+[53:08] Speaker 1: in the winter
+[53:09] Speaker 1: for Thanksgiving, like, help me figure out, like, which city I can go to and, like, what I should buy. Like, And we ended up giving him a really nice
+[53:18] Speaker 1: product recommendation.
+[53:19] Speaker 1: Okay.
+[53:20] Speaker 1: And
+[53:21] Speaker 1: when we actually saw we saw that product getting purchased,
+[53:25] Speaker 1: either this person's trying to
+[53:29] Speaker 1: rob a bank
+[53:31] Speaker 1: or or they're really, like, in a cold place.
+[53:34] Speaker 1: So we went and actually, like, checked the query and the query was so long. And again, like, this is the kind of thing that
+[53:41] Speaker 1: people are very creative in, like, using these products
+[53:44] Speaker 1: that,
+[53:45] Speaker 2: you know Interesting.
+[53:46] Speaker 2: And what's the craziest conspiracy you've heard about AI? Well, there's always this conspiracy theory of
+[53:52] Speaker 1: like, AI, this AGI
+[53:55] Speaker 1: is this
+[53:57] Speaker 1: God like thing
+[53:59] Speaker 1: that you can use to control the whole
+[54:01] Speaker 1: universe
+[54:03] Speaker 1: by,
+[54:04] Speaker 1: building super intelligent
+[54:06] Speaker 1: entity.
+[54:08] Speaker 1: And whoever has access to that will be the
+[54:11] Speaker 1: mastermind.
+[54:12] Speaker 1: And,
+[54:14] Speaker 1: some people think Sam Altman ultimately wants that, but
+[54:18] Speaker 1: I don't think it's that level of
+[54:21] Speaker 1: power crazed. By the way, there is true power
+[54:24] Speaker 1: in being the
+[54:27] Speaker 1: CEO
+[54:28] Speaker 1: or the chief decision maker
+[54:31] Speaker 1: of a company that's building the most intelligent model.
+[54:35] Speaker 1: But I don't think it's being built with the intention of
+[54:37] Speaker 1: controlling the universe.
+[54:41] Speaker 2: But do you think that's possible? I think it's,
+[54:43] Speaker 1: going to be like, you know, it's not going to fool people in doing things. It's possible by the way that
+[54:50] Speaker 1: a very intelligent
+[54:51] Speaker 1: AI can manipulate people. Yeah. But I think the power games are not going to come from those things. Like it's not like, Oh, a politician
+[54:58] Speaker 1: wants to have access to win the next election or something.
+[55:02] Speaker 1: They can do it.
+[55:03] Speaker 1: But the real danger is going to be more from,
+[55:08] Speaker 1: if you can throw like the equivalent of 100
+[55:11] Speaker 1: most intelligent scientists,
+[55:14] Speaker 1: but working 20 fourseven,
+[55:18] Speaker 1: on like a very hard
+[55:20] Speaker 1: pharma problem,
+[55:22] Speaker 1: figure out a new drug
+[55:25] Speaker 1: and like the next Ozempic or something
+[55:28] Speaker 1: and sell it for a crazy premium.
+[55:33] Speaker 1: And you completely own the solution. The only way you even got the solution is you had the ability to spend that much inference compute.
+[55:42] Speaker 1: So those kind of situations are we are like one country getting,
+[55:47] Speaker 1: the end output of a very super indulgent AI
+[55:50] Speaker 1: that they can use to their advantage in the market.
+[55:53] Speaker 1: And then, because of that,
+[55:56] Speaker 1: the next stutter effects are another country trying to steal it in some manner
+[56:01] Speaker 1: and that leading to like defense
+[56:05] Speaker 1: problems and warfare.
+[56:08] Speaker 1: You know, those kind of situations are possible. Those are the big and real worries.
+[56:11] Speaker 1: That's what I think will
+[56:13] Speaker 1: happen
+[56:14] Speaker 1: if we
+[56:15] Speaker 1: have super intelligence. I'm not talking about general intelligence.
+[56:19] Speaker 1: Super intelligence is a weird thing.
+[56:22] Speaker 1: It's not a thing
+[56:23] Speaker 1: we understand today because we are not used to super intelligence. It doesn't really exist. There are people that have been extraordinarily
+[56:30] Speaker 1: intelligent like Einstein,
+[56:33] Speaker 1: but you wouldn't call even Einstein super intelligent.
+[56:35] Speaker 1: He cracked like three or four very important problems. Yeah. But it's not like he there was an equivalent of a computer Einstein that just, Oh, I could throw any domain, any problem at that computer,
+[56:47] Speaker 1: and they would come up with the equivalent of theory of relativity for that problem that has massive
+[56:52] Speaker 1: economic impact too. That doesn't exist. But once it exists, whichever country has it,
+[56:57] Speaker 1: the next country that's trying to compete for being the world superpower
+[57:01] Speaker 2: will also want it. Yeah. If you happen to be that person
+[57:06] Speaker 2: when you get
+[57:07] Speaker 2: and you are at the top of the pedestal,
+[57:09] Speaker 2: you become the most powerful person in the world of supercomputers
+[57:13] Speaker 2: and
+[57:14] Speaker 1: AI, what would you do? I'm happy I'm not even in that race.
+[57:18] Speaker 1: I think it's a very weird
+[57:20] Speaker 2: position to be. I've been wanting to ask this from the point we started.
+[57:25] Speaker 2: Right?
+[57:26] Speaker 2: You're in a sort of competition in the race with all these large companies and incredibly successful founders.
+[57:33] Speaker 2: Right?
+[57:34] Speaker 1: Who loses the most if you win? I think, like, I mean, I've never thought about it in a zero sum way. There are clearly some zero sum games with some other companies.
+[57:43] Speaker 1: Yeah. Undoubtedly.
+[57:46] Speaker 1: I think it's not about whether we win.
+[57:49] Speaker 1: Whoever is gonna crack
+[57:51] Speaker 1: this
+[57:53] Speaker 1: AI native answer engine
+[57:54] Speaker 2: assistant, let's say you cracked it. Okay. Whoever cracks it,
+[57:59] Speaker 1: the one with the most to lose is Google.
+[58:03] Speaker 1: And that's simply because of the current business model.
+[58:09] Speaker 1: Now,
+[58:10] Speaker 1: by the time someone cracks it, if there are other bets, YouTube cloud and all that, they increase the margins there
+[58:17] Speaker 1: and they figure out a way to make Waymo even more successful meanwhile, and get some new cash flow there
+[58:23] Speaker 1: and explain to the shareholders that like, Look, this is clearly an inflection moment, but like we have other things and we'll be fine and we'll go for the new thing too.
+[58:31] Speaker 1: It's not like they're going to get destroyed, but they definitely are going to have a difficult turbulent period.
+[58:37] Speaker 1: So, yeah, they they have the big most to lose in this game,
+[58:41] Speaker 1: and they're aware of it, and I think they're working on it. Got it. You know, my one worry is
+[58:46] Speaker 2: with
+[58:47] Speaker 2: the rapid adoption of AI,
+[58:50] Speaker 2: this happened with all the technologies which are coming, is increase of digital amnesia. So it's like a phenomena where people forget information on day to day basis a lot because they rely on technology. Oh, right. Right. Right. Right. That's right. Right.
+[59:05] Speaker 2: So compared to, like, our parents' generations,
+[59:07] Speaker 2: the way we calculate things is our ability to calculate simple Yeah. Math problem is gone because we use calculators. Yeah.
+[59:15] Speaker 2: Similarly, when I see my younger cousins Yeah. They do. Their
+[59:19] Speaker 2: ability to just remember information
+[59:22] Speaker 2: Yeah. Is solo because they are like Google first, chat, GPD, perplexity kind of people who are just constantly using these. Yeah. So increase of technology is gonna just increase their digital amnesia where people are forgetful left, right, center. Yeah. Okay. Let let me put it this way.
+[59:39] Speaker 1: Are are you good at like driving with a physical map versus using Google Maps?
+[59:43] Speaker 1: Correct. Google Maps, of course. But but I think the previous generation, like our our previous generation wouldn't have needed Google Maps. They would have taken a physical printout and, like, figure out Yeah. Yeah. Like like, they would have mapped what they see in front of them to the two d layout and figure it out. They wouldn't need, like, accurate science. Dynamic.
+[60:01] Speaker 2: Right? But
+[60:02] Speaker 2: so little things like how do your brain functions because if you if you remember a little thing, then it gives you confidence to remember, like, the bigger things as well. So today,
+[60:11] Speaker 2: it could be as small as something like, let's say, remembering a phone number. We don't. Nobody even cares about it. Exactly. But that habit of
+[60:19] Speaker 2: telling or signaling our brain that, hey, you need to remember this little thing Yeah. Is getting down, down, down. Yeah. So
+[60:26] Speaker 2: that's why that's Which which I think is totally okay. Which is okay. I'm I'm saying like a lot of things a lot of times what is happening. I'll tell because I was reading some survey which is going on. It's not proven yet. Mhmm. I think some university in Australia is doing it where they're they're testing that
+[60:41] Speaker 2: we
+[60:42] Speaker 1: more and more young people are forgetting to take medicines on time. I see. But they don't remember. Like this is a small thing. You could argue that like,
+[60:51] Speaker 1: that's the job with AI. Like the AI should just tell them and take the medicine and they should take it. And,
+[60:58] Speaker 1: you know, like,
+[60:59] Speaker 1: by the way, forgetful people exist already.
+[61:03] Speaker 1: Even
+[61:04] Speaker 1: I'm pretty forgetful myself. I'm not
+[61:08] Speaker 1: on top of everything.
+[61:10] Speaker 2: Same. It's
+[61:11] Speaker 1: because your RAM is limited.
+[61:13] Speaker 1: Now, I guess what you're trying to say is
+[61:16] Speaker 1: what the next generation is going to load their RAM with is going to look very different from us.
+[61:22] Speaker 1: And it's going to be interesting to see how they spend their mental compute.
+[61:27] Speaker 1: If
+[61:27] Speaker 1: they don't spend it at all and it's all just
+[61:31] Speaker 1: unutilized,
+[61:32] Speaker 1: that's sad. Yeah. That's what I'm telling. I hope that's not going to happen.
+[61:36] Speaker 1: If they have all that
+[61:39] Speaker 1: free capacity and they can spend it on more creative things,
+[61:42] Speaker 1: that would be amazing.
+[61:45] Speaker 1: And
+[61:46] Speaker 1: it's still
+[61:47] Speaker 2: jury's still out of what's going to happen, but I'm hoping it's going to be the second. Yeah. If it happens like that, like all of it, all the free mental capacity that they have, they increase their ability to work on more complex problems. Yeah. It's going to be great. Yeah. That'll be great. But if it happens the other way around, which is which a lot of people are worried about Yeah. That's something I feel is I don't know what's gonna happen then. Yeah. I mean, it'll be bad. Yeah. Because because our,
+[62:12] Speaker 1: if you
+[62:14] Speaker 1: if you, like, roll out multiple generations after that, like, it's only gonna get worse. Mhmm. So we really need to make sure, like, they are
+[62:22] Speaker 1: being thrown they're throwing out like hard problems and like, you know, given all these tools and like, Hey, go figure it out.
+[62:28] Speaker 1: Got it. Well, perfect. Thank you so much for coming here. This is awesome. By the way, I heard you are the
+[62:34] Speaker 1: Joe Rogan of India. That's what someone told me. Is that true? No. I am the Raj Shimani of India. Let's just put it this way. Oh, awesome.
+[62:42] Speaker 2: Perfect. Thank you so much for coming here. I really enjoyed our chat. I have a bunch of questions
+[62:49] Speaker 2: for you but maybe we'll, at the time, do it again. Yep. And try to figure out what's the best for your India trip. Thank you. Thank you. Thank you so much. I read your one,
+[63:00] Speaker 2: I think it was some interviews and podcast or some like an outcome of this. Uh-huh. And the thumbnail was like I'm going to beat Google.
+[63:07] Speaker 1: Oh, yeah. People
+[63:09] Speaker 1: people make these thumbnails.
+[63:12] Speaker 2: That's why I asked you this question. Do you go to these meetings and be like, hey. I'm gonna be like I mean, you're a YouTuber. You understand what you do? I do. Yeah. Thank you so much for watching this podcast till the end.
+[63:26] Speaker 2: Subscribe. Number two. Comments
+[63:29] Speaker 1: or
+[63:34] Speaker 2: you will be able to better help and you will be able to value.
+[63:38] Speaker 2: And number three. This episode is a good time
+[63:41] Speaker 2: to share life.
+[63:43] Speaker 2: A positive change
+[63:45] Speaker 2: is a good podcast conversation. So this podcast conversation is a good life. A conversation
+[63:50] Speaker 2: is enough to change someone's life.
+[63:53] Speaker 2: I'll see you next time until then keep figuring out.

@@ -1,0 +1,5295 @@
+{
+  "total_segments": 660,
+  "speakers": [
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2"
+    }
+  ],
+  "segments": [
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 0.08,
+      "end": 2.42,
+      "text": "Back in what? 2008, 2009,",
+      "confidence": 0.9023836
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2.56,
+      "end": 8.74,
+      "text": "I remember my parents being like, you can't make money playing games. This is so pointless. And then to see this",
+      "confidence": 0.9635808
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 10.4,
+      "end": 11.94,
+      "text": "scene just explode",
+      "confidence": 0.93505985
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 12.4,
+      "end": 13.78,
+      "text": "to what it is now.",
+      "confidence": 0.98944104
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 27.93,
+      "end": 28.59,
+      "text": "Thing for",
+      "confidence": 0.9992266
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 29.53,
+      "end": 30.03,
+      "text": "us.",
+      "confidence": 0.9978405
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 30.970001,
+      "end": 39.55,
+      "text": "So I had a massive cancellation around a year ago, and I feel I'm a different human, and now I appreciate it. Has that happened with you? I mean, where do you wanna start?",
+      "confidence": 0.9744808
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 40.489998,
+      "end": 43.864998,
+      "text": "I've always said this, the only person that can cancel you",
+      "confidence": 0.93998533
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 44.245,
+      "end": 44.984997,
+      "text": "is you.",
+      "confidence": 0.9506936
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 46.644997,
+      "end": 51.784996,
+      "text": "Does a bad breakup hurt more or does cancellation hurt? I'd say a bad breakup.",
+      "confidence": 0.9224794
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 52.245,
+      "end": 52.745,
+      "text": "Just",
+      "confidence": 0.7432503
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 53.284996,
+      "end": 53.784996,
+      "text": "depression",
+      "confidence": 0.9749892
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 54.324997,
+      "end": 56.664997,
+      "text": "on a whole different level. Of boy hours.",
+      "confidence": 0.92594296
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 58.77,
+      "end": 62.39,
+      "text": "Who do you think is winning this year? I think it's between three teams. England,",
+      "confidence": 0.9665007
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 63.010002,
+      "end": 63.510002,
+      "text": "Spain,",
+      "confidence": 0.73826706
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 64.05,
+      "end": 82.155,
+      "text": "all across. Do you have, like, footballer friends? I think Haaland is actually crazy at such a young age. He was so locked in. So one of my wildest life moments was podcasting with Rio Ferdinand. Yeah. I saw that. Yeah. What advice do you give to someone like Speed?",
+      "confidence": 0.9294369
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 83.19,
+      "end": 89.369995,
+      "text": "Are the Sidemen guys your best bros? Yeah. I'd say they're good. Are you allowed to talk about that closed door meeting that happened?",
+      "confidence": 0.9685468
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 89.99,
+      "end": 90.49,
+      "text": "Oh,",
+      "confidence": 0.84163785
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 91.909996,
+      "end": 97.925,
+      "text": "where have you heard that from? I'd say not everyone has the same goal. Goal. Oh, it's simple. It's not simple.",
+      "confidence": 0.9213772
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 98.865005,
+      "end": 99.845,
+      "text": "Did you ever",
+      "confidence": 0.9922933
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 100.305,
+      "end": 101.205,
+      "text": "speak to",
+      "confidence": 0.99932384
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 101.665,
+      "end": 104.885,
+      "text": "Logan and or Jake about I don't talk to Jake.",
+      "confidence": 0.9916374
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 105.185005,
+      "end": 106.645004,
+      "text": "Me and Jake don't get on.",
+      "confidence": 0.9990151
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 107.025,
+      "end": 114.78,
+      "text": "I can't imagine you not getting along with anyone. Really? Yeah. I wouldn't mind going to jail with you. Okay. If if you and me both go to jail together,",
+      "confidence": 0.95974565
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 123.0,
+      "end": 124.299995,
+      "text": "We could just do that.",
+      "confidence": 0.88168144
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 127.025,
+      "end": 139.925,
+      "text": "Think of all the YouTubers that the world has ever seen, and then there'll be, like, this little top rung, the top 1% of YouTubers who've achieved the most in the real world, beginning their journeys from the world of YouTube.",
+      "confidence": 0.975272
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 140.47,
+      "end": 142.09001,
+      "text": "KSI is in the top 1%.",
+      "confidence": 0.9678051
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 142.23001,
+      "end": 145.37001,
+      "text": "In fact, he's one of the most iconic names in the top 1%.",
+      "confidence": 0.96297365
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 145.59001,
+      "end": 155.45001,
+      "text": "I'm saying this because I've followed KSI's journey for a long time. There's lots of Indian fans who followed KSI's journey for a long time, and the reason I'm doing this intro is for those few fans globally",
+      "confidence": 0.9753804
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 155.83,
+      "end": 158.865,
+      "text": "who are not familiar with KSI's work until this point.",
+      "confidence": 0.98687935
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 159.485,
+      "end": 161.265,
+      "text": "I believe he's gonna keep growing",
+      "confidence": 0.9644105
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 161.565,
+      "end": 163.745,
+      "text": "very ferociously in the world of content,",
+      "confidence": 0.9759403
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 164.285,
+      "end": 172.06999,
+      "text": "but I believe even more so that this guy is a phenomenal human being. It's just a lot of fun being around him.",
+      "confidence": 0.99194187
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 172.53,
+      "end": 176.15,
+      "text": "This episode contains a lot of that fun, a lot of that",
+      "confidence": 0.998365
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 176.45,
+      "end": 180.87,
+      "text": "energy that chases greatness, and it was just a great hangout sesh. It's KSI",
+      "confidence": 0.979016
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 181.48999,
+      "end": 182.31,
+      "text": "on TRS.",
+      "confidence": 0.9832691
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 200.05,
+      "end": 203.27,
+      "text": "I was gonna call you Yoruba king at the start of this episode.",
+      "confidence": 0.9584764
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 205.01001,
+      "end": 209.19,
+      "text": "I mean, I don't know if I deserve that title just yet anyway.",
+      "confidence": 0.8756594
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 209.97,
+      "end": 214.77501,
+      "text": "Excited about going to Nigeria for the first time? Yes. I it's been a long time coming.",
+      "confidence": 0.9613422
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 216.05501,
+      "end": 216.955,
+      "text": "Yeah. It's,",
+      "confidence": 0.9240867
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 217.815,
+      "end": 221.99501,
+      "text": "just life. It's crazy. Like, there's always things that get in the way",
+      "confidence": 0.9803541
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 222.455,
+      "end": 222.77501,
+      "text": "of,",
+      "confidence": 0.85842
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 224.05501,
+      "end": 225.66,
+      "text": "what matters to me. So,",
+      "confidence": 0.9632146
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 225.98001,
+      "end": 228.32,
+      "text": "finally, I'm I'm able to, like, make things",
+      "confidence": 0.9993191
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 229.26001,
+      "end": 231.92,
+      "text": "what do the things that I've always wanted to do.",
+      "confidence": 0.9119921
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 232.3,
+      "end": 245.05501,
+      "text": "And I'm feeling real good with how I'm moving this year, especially. I think it all started last year. No. I'd say it started from Tommy Fury fight. After I lost that fight, I was definitely quite a bit lost.",
+      "confidence": 0.9815095
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 245.835,
+      "end": 247.455,
+      "text": "And then over a few",
+      "confidence": 0.95945704
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 247.91501,
+      "end": 255.59,
+      "text": "months, years, I was like, alright. Let me try and get back into the boxing, but my heart wasn't really in it, and it didn't work out. And, eventually,",
+      "confidence": 0.9773744
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 256.13,
+      "end": 257.35,
+      "text": "I just got to a point",
+      "confidence": 0.9735081
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 257.72998,
+      "end": 258.22998,
+      "text": "where",
+      "confidence": 0.99495715
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 258.93,
+      "end": 261.11,
+      "text": "I was getting ready to fight Dylan Danis.",
+      "confidence": 0.93793344
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 262.69,
+      "end": 263.43,
+      "text": "My hand",
+      "confidence": 0.99977696
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 263.97,
+      "end": 265.03,
+      "text": "was up.",
+      "confidence": 0.959196
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 266.355,
+      "end": 274.535,
+      "text": "I felt like shit. I'd like physically, my body was broken. I was like, why am I doing this to myself?",
+      "confidence": 0.93928194
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 275.795,
+      "end": 277.735,
+      "text": "Why am I putting myself through hell",
+      "confidence": 0.99764246
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 278.05002,
+      "end": 284.15002,
+      "text": "when there's something I I purely enjoy, something I enjoy so much more, and that's making content? And",
+      "confidence": 0.94908184
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 284.77002,
+      "end": 288.71002,
+      "text": "at that point, I was like, alright. I'm gonna make a change. So after",
+      "confidence": 0.9868916
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 289.17,
+      "end": 291.11002,
+      "text": "the the Dylan find didn't happen,",
+      "confidence": 0.9098405
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 291.49002,
+      "end": 292.63,
+      "text": "I said, alright. Cool.",
+      "confidence": 0.9922037
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 293.405,
+      "end": 296.225,
+      "text": "I'm gonna work on my channel, work on my YouTube channel.",
+      "confidence": 0.91937965
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 296.685,
+      "end": 299.345,
+      "text": "And it's been a process, especially, you know,",
+      "confidence": 0.992153
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 300.04498,
+      "end": 302.705,
+      "text": "the first six, seven months to try and get to",
+      "confidence": 0.9935106
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 303.005,
+      "end": 306.94,
+      "text": "a level where I'm where I'm happy at. And now it's, like, alright. Cool.",
+      "confidence": 0.9192645
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 307.4,
+      "end": 308.86002,
+      "text": "I'm here. You know?",
+      "confidence": 0.9846944
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 309.72,
+      "end": 313.42,
+      "text": "Let's start. Let's properly start. So I've been making some good content.",
+      "confidence": 0.998751
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 313.88,
+      "end": 314.38,
+      "text": "Obviously,",
+      "confidence": 0.9889464
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 315.0,
+      "end": 316.62,
+      "text": "you know, India has been",
+      "confidence": 0.99916935
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 317.0,
+      "end": 319.58002,
+      "text": "so amazing for me throughout the years,",
+      "confidence": 0.9894411
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 320.045,
+      "end": 327.725,
+      "text": "and I felt like, you know, it's a great place to start for making content. I didn't wanna go Nigeria straight off because I was like",
+      "confidence": 0.97508264
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 328.605,
+      "end": 347.16,
+      "text": "I know. I know. Everyone's there, like, you're Nigerian. It makes sense. You've been to India twice. Yeah. I've never been there three times, but I've never been to Nigeria, which is so bad. You know, I blame my parents. My parents have told me that Nigeria is an awful place. Oh, really? Yeah. Is is that true, though? So the last time they went was, like, thirty, forty years ago.",
+      "confidence": 0.9172589
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 347.78,
+      "end": 348.28,
+      "text": "But,",
+      "confidence": 0.9959427
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 348.965,
+      "end": 354.985,
+      "text": "you know, from the stories they've told me, Nigeria hasn't been very nice to them. You know? From kidnapping",
+      "confidence": 0.97563654
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 355.605,
+      "end": 356.105,
+      "text": "to,",
+      "confidence": 0.98278195
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 356.805,
+      "end": 360.98,
+      "text": "you know, robbery to all the worst things you could think of. Like, it",
+      "confidence": 0.9469914
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 361.36002,
+      "end": 361.94,
+      "text": "you know,",
+      "confidence": 0.9396869
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 362.40002,
+      "end": 363.54,
+      "text": "they've been scarred.",
+      "confidence": 0.9743431
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 364.08002,
+      "end": 364.58002,
+      "text": "And,",
+      "confidence": 0.98983604
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 365.36002,
+      "end": 369.46002,
+      "text": "you know, even the most recent event that happened with Ani Joshua",
+      "confidence": 0.9705844
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 370.24002,
+      "end": 380.575,
+      "text": "Yeah. Yeah. Yeah. You know, like, stuff like that scares them. They see that and they go, oh, man. Like, do you really wanna go back there? And I'm like, it's important. You know? I need to, you",
+      "confidence": 0.94467133
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 381.195,
+      "end": 388.315,
+      "text": "know, show the world that I need to show me that, you know, it's great. It's fine. Like, all their stories",
+      "confidence": 0.9959199
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 388.79498,
+      "end": 393.83002,
+      "text": "yes. Maybe it happened back back then, but, like, things have changed. Nigeria isn't the same,",
+      "confidence": 0.97279865
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 394.29,
+      "end": 396.71,
+      "text": "you know, place like it was back in the day.",
+      "confidence": 0.97353315
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 397.01,
+      "end": 404.70502,
+      "text": "And, you know, it's a a lovely place to visit. Yeah. Dude, it's, like, one of my dream travel destinations. West West Africa in general. Like, I wanna go to Nigeria,",
+      "confidence": 0.94400835
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 405.085,
+      "end": 407.42502,
+      "text": "Ghana, Benin. So I've been Ghana.",
+      "confidence": 0.9382654
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 407.805,
+      "end": 414.865,
+      "text": "I've been Nigeria, which, again, but, like Shame when you're here. Bad. It's no. No. I know it's super bad. But I think for me, it's like,",
+      "confidence": 0.8682068
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 415.9,
+      "end": 425.59998,
+      "text": "you know, when I do go to Nigeria, it's gonna be special. It's gonna be a big moment. We're looking to do it after the World Cup to really, like Nice. Just find",
+      "confidence": 0.9787605
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 426.22,
+      "end": 427.44,
+      "text": "time for it.",
+      "confidence": 0.99899626
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 427.755,
+      "end": 439.295,
+      "text": "You know, I'm you're making sure I have time in the calendar to make it one of the best times for me and my bro. I'm gonna bring my bro as well, and it's just gonna be great. I gotta say some shit to you. Hit me.",
+      "confidence": 0.9784588
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 440.39502,
+      "end": 443.15,
+      "text": "I love how open your heart is, man. Okay.",
+      "confidence": 0.99472046
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 443.61002,
+      "end": 451.15,
+      "text": "You're like a really open guy. I I mean, I I feel like I've always I mean, it's definitely helped in my career. You've got some serious",
+      "confidence": 0.9448502
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 451.69,
+      "end": 456.75,
+      "text": "fandom in India, especially. Yeah. I I think a lot of Indian guys recognize openness",
+      "confidence": 0.9091554
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 457.315,
+      "end": 468.695,
+      "text": "in another dude. Yeah. I feel like you can tell when people are fake. Yeah. Yeah. And I'm I'm myself, and I've always been myself. And, you know, sometimes it's been to my detriment.",
+      "confidence": 0.9667983
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 469.23502,
+      "end": 476.72,
+      "text": "No. No. No. But it's also also you know, it I guess, it makes me more human. Yeah. It makes it more you know, you're able to",
+      "confidence": 0.8986946
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 477.5,
+      "end": 484.4,
+      "text": "empathize and bond more with someone that isn't happy to open themselves. It's resilience, baby. CDM energy.",
+      "confidence": 0.9638059
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 485.1,
+      "end": 485.6,
+      "text": "Yeah.",
+      "confidence": 0.99210465
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 486.125,
+      "end": 488.70502,
+      "text": "I did just go on there. I'm sorry. No. That's fine.",
+      "confidence": 0.9832224
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 489.165,
+      "end": 493.665,
+      "text": "That's all good. Yeah. You've got a beautiful voice. No. I'm so sorry.",
+      "confidence": 0.85322845
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 496.92502,
+      "end": 499.105,
+      "text": "Oh, you've got, like, one of the most",
+      "confidence": 0.961409
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 499.48502,
+      "end": 499.98502,
+      "text": "success",
+      "confidence": 0.9984478
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 500.77,
+      "end": 501.27,
+      "text": "oriented",
+      "confidence": 0.99987984
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 501.88998,
+      "end": 507.03,
+      "text": "arcs that any content creator in the world has ever seen, man. Yeah. Are you happy with this success",
+      "confidence": 0.943713
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 507.57,
+      "end": 510.31,
+      "text": "arc? Of course. Oh, no. No. No. Of course.",
+      "confidence": 0.92958665
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 511.01,
+      "end": 518.125,
+      "text": "So happy with everything I've done. Everything I've created from, you know, I never thought we'd be in this position.",
+      "confidence": 0.9482255
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 518.505,
+      "end": 521.64496,
+      "text": "You know? You know, my me, my friends, my family.",
+      "confidence": 0.93593585
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 522.345,
+      "end": 523.165,
+      "text": "You know? Like,",
+      "confidence": 0.93096703
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 524.02496,
+      "end": 534.43005,
+      "text": "it's crazy what, you know, where YouTube has come from or where YouTube is at right now. I remember when I was making YouTube content",
+      "confidence": 0.9524501
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 534.97003,
+      "end": 537.39,
+      "text": "back in, what, 2008, 2009.",
+      "confidence": 0.95839995
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 538.25,
+      "end": 539.385,
+      "text": "And I was like,",
+      "confidence": 0.9919398
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 539.945,
+      "end": 548.925,
+      "text": "this is fun. I'm having the best time. Slavery FIFA. Well, yeah. Right. No. Not even then. This I didn't even do like, I was just playing,",
+      "confidence": 0.9663842
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 549.705,
+      "end": 555.60004,
+      "text": "playing games. I didn't even you didn't hear my voice. You didn't, see my face. It was just",
+      "confidence": 0.99763274
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 555.98004,
+      "end": 571.78503,
+      "text": "me doing FIFA skills, and that was it. And I posted that, and I did compilations and montages, and it was just simple. Like, there was nothing else to it. And I remember my parents being like, I don't know why you spent so much time doing this. You can't make money playing games. This is so pointless.",
+      "confidence": 0.9757751
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 572.16504,
+      "end": 574.585,
+      "text": "Like, you're wasting your time. You should be studying",
+      "confidence": 0.99864125
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 575.125,
+      "end": 577.54504,
+      "text": "education, this, that. And then to see",
+      "confidence": 0.92479974
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 578.325,
+      "end": 578.825,
+      "text": "this",
+      "confidence": 0.99616575
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 579.84503,
+      "end": 583.385,
+      "text": "scene just explode to what it is now where",
+      "confidence": 0.97780365
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 584.31,
+      "end": 595.19,
+      "text": "thousands, hundreds of thousands, if not millions of people are able to have a career because it's just fantastic. Whether it's long form, short form, podcasts, anything, it's just sick. Yeah. Yeah.",
+      "confidence": 0.9320129
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 595.83,
+      "end": 603.105,
+      "text": "Why did you not enjoy boxing as much? Because from the outside looking in, it seems like everyone was enjoying boxing. Yeah.",
+      "confidence": 0.98986053
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 603.645,
+      "end": 604.545,
+      "text": "You know what?",
+      "confidence": 0.85608435
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 604.925,
+      "end": 618.37,
+      "text": "You the the only way to really understand is to try it. I used to do I used to do martial arts, judo. Yeah. And I I that was the one aspect of my martial arts I didn't enjoy because I'm a very peaceful, loving guy. Yeah. Yeah. Another person. I'd say",
+      "confidence": 0.96247363
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 619.55,
+      "end": 620.45,
+      "text": "the training,",
+      "confidence": 0.85886407
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 621.95,
+      "end": 627.135,
+      "text": "how physically and mentally training it is, it's just like nothing else. I'd say",
+      "confidence": 0.92253673
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 627.53503,
+      "end": 630.91504,
+      "text": "of everything I've done in my life, that is the hardest thing.",
+      "confidence": 0.9681611
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 631.455,
+      "end": 635.955,
+      "text": "The hardest thing. Really? Think about it. You've got twelve week",
+      "confidence": 0.9976437
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 636.335,
+      "end": 636.835,
+      "text": "camp.",
+      "confidence": 0.95920086
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 637.695,
+      "end": 638.995,
+      "text": "You've got a fight date.",
+      "confidence": 0.9304055
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 639.39,
+      "end": 649.49005,
+      "text": "And you're there. Alright. Cool. Let me start. I feel good. I feel pumped. I'm ready. First day, you know, you train. You feel good. You're like, oh, wow. That that was great. And then train again.",
+      "confidence": 0.95986503
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 649.87,
+      "end": 661.725,
+      "text": "So I'm training twice a day. So I'm training twice, and I'm like, okay. I still feel good. Second day, training twice a day. I'm like, wow. I feel great. This happens over and over again for about a week. End of the week, I'm like, oh, man.",
+      "confidence": 0.97280735
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 662.34503,
+      "end": 665.165,
+      "text": "I feel really good. There's no problems, anything.",
+      "confidence": 0.9626319
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 666.185,
+      "end": 673.75,
+      "text": "You know, sparring went well. You know, maybe I was a little tired. Stamina was a bit, you know, wasn't up to standard, but",
+      "confidence": 0.9657771
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 674.77,
+      "end": 675.51,
+      "text": "I'm there.",
+      "confidence": 0.9902888
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 676.29004,
+      "end": 677.11,
+      "text": "Next week,",
+      "confidence": 0.98077923
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 677.49,
+      "end": 678.55,
+      "text": "you do it again.",
+      "confidence": 0.998484
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 679.17,
+      "end": 679.91003,
+      "text": "This time,",
+      "confidence": 0.98487484
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 681.01,
+      "end": 685.11,
+      "text": "you're getting up not so easily. You know, your back hurts.",
+      "confidence": 0.92226297
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 685.565,
+      "end": 688.385,
+      "text": "Your legs hurt a bit more, and you're then like, okay.",
+      "confidence": 0.9148228
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 689.325,
+      "end": 692.625,
+      "text": "This is a little bit harder than it was last week.",
+      "confidence": 0.9987904
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 693.165,
+      "end": 693.665,
+      "text": "Sparring,",
+      "confidence": 0.87344617
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 694.605,
+      "end": 695.825,
+      "text": "not doing as well.",
+      "confidence": 0.978109
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 696.205,
+      "end": 699.745,
+      "text": "You know, the stamina, the fitness is really starting to get to you.",
+      "confidence": 0.9476735
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 700.11,
+      "end": 700.85,
+      "text": "Third week,",
+      "confidence": 0.914605
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 702.19,
+      "end": 705.25,
+      "text": "you're looking you're waking up. You're like, oh, man. Okay.",
+      "confidence": 0.9830946
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 705.95,
+      "end": 707.33,
+      "text": "I gotta do this again.",
+      "confidence": 0.9914114
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 707.95,
+      "end": 710.05,
+      "text": "Then you look at the fight date and you go,",
+      "confidence": 0.9270895
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 710.43,
+      "end": 711.08997,
+      "text": "I got",
+      "confidence": 0.9925203
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 711.47,
+      "end": 716.795,
+      "text": "several weeks of this, and I'm already feeling it. Well, by the seventh, eighth week,",
+      "confidence": 0.97342485
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 717.415,
+      "end": 721.515,
+      "text": "you're like, why am I doing this? Mhmm. I hate this. This is horrible.",
+      "confidence": 0.9938016
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 722.375,
+      "end": 724.235,
+      "text": "I'm getting beat up.",
+      "confidence": 0.9875656
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 724.53503,
+      "end": 725.195,
+      "text": "You know?",
+      "confidence": 0.9787736
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 727.16003,
+      "end": 728.86005,
+      "text": "I I don't even want to get up anymore.",
+      "confidence": 0.90690696
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 729.56,
+      "end": 737.34,
+      "text": "I feel ill. Like, my body is starting to shut down because you're just feeling sick, ill, but you just have to fight for it",
+      "confidence": 0.92625105
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 737.735,
+      "end": 738.235,
+      "text": "every",
+      "confidence": 0.70955247
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 738.615,
+      "end": 743.115,
+      "text": "day. The same thing over and over and over again. And then think of it, that's physically,",
+      "confidence": 0.9333309
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 743.735,
+      "end": 746.15497,
+      "text": "mentally, you're just there cooked.",
+      "confidence": 0.9434988
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 746.695,
+      "end": 751.355,
+      "text": "Because of the discipline? Just Require. Having to do it over and over and over again.",
+      "confidence": 0.94694215
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 751.68,
+      "end": 756.1,
+      "text": "And, bro, I haven't even mentioned the food. The food how much food you have to eat. Bro, like,",
+      "confidence": 0.9196223
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 756.48,
+      "end": 759.86,
+      "text": "it's the same thing over regimented. Like, just",
+      "confidence": 0.94381565
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 760.32,
+      "end": 760.82,
+      "text": "chicken,",
+      "confidence": 0.9918877
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 761.6,
+      "end": 769.845,
+      "text": "rice, no spice, nothing. Just chicken, rice, bland. And you're yearning for, like, some sweets or some,",
+      "confidence": 0.94604796
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 771.585,
+      "end": 777.845,
+      "text": "just something that just to spice up your life, and it's just that all the time. You know? Fish",
+      "confidence": 0.9627045
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 778.5,
+      "end": 779.56,
+      "text": "and potatoes,",
+      "confidence": 0.91450286
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 779.86005,
+      "end": 781.56,
+      "text": "and that's it. Like, fish and potatoes,",
+      "confidence": 0.9559701
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 782.18,
+      "end": 787.88,
+      "text": "chicken and rice, that's it. Back and forth over and over and over and over again, and that's all you're having. And then",
+      "confidence": 0.9742747
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 789.06,
+      "end": 790.44,
+      "text": "it just it's like",
+      "confidence": 0.90017045
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 791.14,
+      "end": 792.975,
+      "text": "mentally, physically, you're just",
+      "confidence": 0.9669405
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 793.77496,
+      "end": 796.915,
+      "text": "finished. It breaks you. And then you still have",
+      "confidence": 0.8839933
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 797.375,
+      "end": 799.15497,
+      "text": "to have that energy to wanna fight.",
+      "confidence": 0.9911398
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 799.77496,
+      "end": 803.235,
+      "text": "And then when you get there, it's like, alright. Cool. I'm at the fight.",
+      "confidence": 0.96948797
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 804.01495,
+      "end": 805.875,
+      "text": "Oh, no. Why why am I nervous?",
+      "confidence": 0.9456421
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 806.27997,
+      "end": 808.38,
+      "text": "Oh my god. There's so many people around.",
+      "confidence": 0.97063315
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 809.48,
+      "end": 812.77997,
+      "text": "So many people depending on me. I got people betting on me.",
+      "confidence": 0.9644947
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 813.16,
+      "end": 813.89996,
+      "text": "Yeah. Like,",
+      "confidence": 0.91424334
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 814.36,
+      "end": 829.45496,
+      "text": "I got people telling me that they're betting on me being like, bro, I'm betting on 10 k. Like, I really need you to win this and all of that and all the pressure getting heavier and heavier and heavier and heavier, and then you have to walk out. Even if your legs are jelly, you have to walk out,",
+      "confidence": 0.9551469
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 830.07495,
+      "end": 832.095,
+      "text": "face your opponent, you know,",
+      "confidence": 0.9487667
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 832.795,
+      "end": 834.01495,
+      "text": "and then fight them.",
+      "confidence": 0.99941826
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 834.475,
+      "end": 836.095,
+      "text": "Yes. You win. It's fantastic.",
+      "confidence": 0.99113333
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 837.26,
+      "end": 840.8,
+      "text": "Best feeling ever. Euphoric. You're over the moon.",
+      "confidence": 0.9479636
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 841.42,
+      "end": 842.64,
+      "text": "You lose, bro.",
+      "confidence": 0.99066097
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 843.74,
+      "end": 845.76,
+      "text": "What a waste of my time.",
+      "confidence": 0.9636893
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 846.86,
+      "end": 851.725,
+      "text": "What a waste. I literally spent twelve weeks of my life killing myself",
+      "confidence": 0.99197984
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 852.505,
+      "end": 854.365,
+      "text": "to not get the result I wanted.",
+      "confidence": 0.9803527
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 856.185,
+      "end": 858.52496,
+      "text": "Did you ever think of a moment",
+      "confidence": 0.96897507
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 859.14496,
+      "end": 865.245,
+      "text": "like that Anthony Joshua punch on Jake Paul's jaw? Like, do you ever think of injuries being a possibility",
+      "confidence": 0.990258
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 865.89,
+      "end": 873.59,
+      "text": "during a match? You you think of everything. You think it's the idea of I'm in this ring with someone who's trying to knock me out.",
+      "confidence": 0.97151875
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 874.13,
+      "end": 877.83,
+      "text": "I don't wanna get knocked out. I don't wanna become a meme. Like,",
+      "confidence": 0.9949653
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 878.245,
+      "end": 880.265,
+      "text": "I remember the fight I had with Joe Weller.",
+      "confidence": 0.977529
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 880.805,
+      "end": 881.54504,
+      "text": "It was",
+      "confidence": 0.9987104
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 882.325,
+      "end": 884.34503,
+      "text": "the most important fight in my life.",
+      "confidence": 0.9456786
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 884.805,
+      "end": 886.265,
+      "text": "If I'd lost that fight,",
+      "confidence": 0.9045661
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 887.205,
+      "end": 897.19,
+      "text": "well, I don't think AJ would've fought Jake Paul. I don't think Jake Paul would be fighting. He wouldn't it wouldn't be a thing. Logan wouldn't be fighting. It wouldn't none of this would have happened. Like,",
+      "confidence": 0.9792765
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 898.29,
+      "end": 899.75,
+      "text": "because I beat Joela,",
+      "confidence": 0.891823
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 900.13,
+      "end": 901.67,
+      "text": "and I loved it, and I enjoyed",
+      "confidence": 0.9573894
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 902.85,
+      "end": 909.875,
+      "text": "the feeling it gave me. Like, it was hard. Like, I before, I didn't even know how to run. I had to download an app called five",
+      "confidence": 0.9646889
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 910.515,
+      "end": 913.175,
+      "text": "couch to five k Yeah. To learn how to run.",
+      "confidence": 0.98069096
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 913.555,
+      "end": 922.67004,
+      "text": "So it's where you have to walk, then jog for a little bit, then walk, jog for a little bit, and then eventually get to a point where you can just jog without stopping for five k.",
+      "confidence": 0.9638519
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 923.21,
+      "end": 924.67004,
+      "text": "So, you know,",
+      "confidence": 0.99040556
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 925.29004,
+      "end": 927.55005,
+      "text": "it's it's just crazy to",
+      "confidence": 0.99865514
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 928.41003,
+      "end": 932.27,
+      "text": "think that, yes, I could afford this guy called Joe Weller",
+      "confidence": 0.92406917
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 932.815,
+      "end": 937.95496,
+      "text": "lost, and none of this influencer boxing scene will happen. Well, because I won,",
+      "confidence": 0.8787535
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 938.415,
+      "end": 939.795,
+      "text": "call out the Paul brothers.",
+      "confidence": 0.7916002
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 941.45496,
+      "end": 942.595,
+      "text": "The rest is history.",
+      "confidence": 0.99824554
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 944.255,
+      "end": 945.15497,
+      "text": "Did you ever",
+      "confidence": 0.9674166
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 946.63995,
+      "end": 955.62,
+      "text": "speak to Logan and or Jake about what boxing gave you guys in the long term? I don't talk to Jake. Me and Jake don't get on.",
+      "confidence": 0.99563384
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 956.95996,
+      "end": 957.94,
+      "text": "But with Logan,",
+      "confidence": 0.98957855
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 958.765,
+      "end": 961.985,
+      "text": "yeah, we taught. Dude, I can't imagine you not getting along with anyone.",
+      "confidence": 0.973727
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 962.445,
+      "end": 976.26996,
+      "text": "Really? Yeah. I feel like you're a very you wanna we've had some feuds and all that. Yeah. Yeah. Of course. We see your evolution as well. Yeah. You seem like one of the most, like, like, I'd wanna party with you Yeah. Or, like, vacation with you. Do you know? I'd say yeah. It's",
+      "confidence": 0.8953688
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 976.97,
+      "end": 983.70996,
+      "text": "it takes a lot to be on my bad side. Do you have a bad side? I think everyone has a bad side.",
+      "confidence": 0.988291
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 984.075,
+      "end": 987.215,
+      "text": "But, like, it's whether you wanna tap into that.",
+      "confidence": 0.9930207
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 987.995,
+      "end": 988.495,
+      "text": "And",
+      "confidence": 0.99875045
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 989.11505,
+      "end": 996.73505,
+      "text": "I don't for me, I don't want to do that. I felt like I had to when I was boxing. I felt like I had to be the nightmare.",
+      "confidence": 0.9974098
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 997.755,
+      "end": 998.255,
+      "text": "And",
+      "confidence": 0.80225796
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 998.58,
+      "end": 1000.68005,
+      "text": "with that, to sell a fight,",
+      "confidence": 0.96896034
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1001.22003,
+      "end": 1002.28,
+      "text": "you have to be",
+      "confidence": 0.99963254
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1003.14,
+      "end": 1007.32,
+      "text": "you have to do stuff to get people to want to watch. You have to find",
+      "confidence": 0.99945486
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1007.86005,
+      "end": 1011.0,
+      "text": "ways to get to bring that emotion out of people.",
+      "confidence": 0.9888118
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1011.54004,
+      "end": 1012.04004,
+      "text": "And,",
+      "confidence": 0.9962524
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1012.435,
+      "end": 1014.935,
+      "text": "you know, I did some horrible things",
+      "confidence": 0.99960506
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1016.275,
+      "end": 1017.17505,
+      "text": "when I was",
+      "confidence": 0.9991917
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1018.195,
+      "end": 1019.815,
+      "text": "doing the whole boxing thing.",
+      "confidence": 0.95144224
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1020.35504,
+      "end": 1023.09503,
+      "text": "But you had that's just how that's the fight game.",
+      "confidence": 0.9642204
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1023.955,
+      "end": 1024.4551,
+      "text": "And",
+      "confidence": 0.9964864
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1025.3151,
+      "end": 1032.89,
+      "text": "I didn't enjoy it. Didn't like it. You feel like you've gained anything from the fighting phase other than, like, the material stuff? I think",
+      "confidence": 0.9829712
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1033.99,
+      "end": 1037.0499,
+      "text": "I mean, I didn't even gain much from the material stuff.",
+      "confidence": 0.9987183
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1037.35,
+      "end": 1040.73,
+      "text": "My fight with Tommy Fury, all the money I made, I gave it to my trainers.",
+      "confidence": 0.95370066
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1041.495,
+      "end": 1042.235,
+      "text": "All of it.",
+      "confidence": 0.99882764
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1042.535,
+      "end": 1043.515,
+      "text": "I was just like,",
+      "confidence": 0.9595905
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1044.535,
+      "end": 1045.355,
+      "text": "I don't I",
+      "confidence": 0.8661997
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1045.655,
+      "end": 1049.595,
+      "text": "for me, it's not I don't do stuff for this. I've been offered",
+      "confidence": 0.9984797
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1050.455,
+      "end": 1051.255,
+      "text": "20,000,000",
+      "confidence": 0.999511
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1051.255,
+      "end": 1053.995,
+      "text": "to fight Jake Paul, 30,000,000 to fight Jake Paul.",
+      "confidence": 0.9818227
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1056.1,
+      "end": 1056.6,
+      "text": "People",
+      "confidence": 0.99513924
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1057.2999,
+      "end": 1058.44,
+      "text": "these guys can't",
+      "confidence": 0.9992583
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1058.82,
+      "end": 1063.96,
+      "text": "give me any amount of money to fight this guy. When it comes to boxing, I'm done. I tried.",
+      "confidence": 0.99814135
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1064.58,
+      "end": 1067.32,
+      "text": "My main goal when I got into the boxing,",
+      "confidence": 0.979261
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1068.58,
+      "end": 1071.0,
+      "text": "ring again was to fight Jake Paul",
+      "confidence": 0.9477609
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1072.9049,
+      "end": 1073.885,
+      "text": "and Bill Misfit.",
+      "confidence": 0.9528897
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1075.1449,
+      "end": 1076.0449,
+      "text": "Bill Misfit",
+      "confidence": 0.9532561
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1077.1449,
+      "end": 1078.5249,
+      "text": "tried to fight Jake Paul",
+      "confidence": 0.9911623
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1078.9049,
+      "end": 1080.605,
+      "text": "time and time and time again.",
+      "confidence": 0.93687844
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1081.225,
+      "end": 1081.885,
+      "text": "He just",
+      "confidence": 0.92140496
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1082.4249,
+      "end": 1084.2849,
+      "text": "excuse after excuse after excuse.",
+      "confidence": 0.9846781
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1085.39,
+      "end": 1092.2899,
+      "text": "Instead of Tommy Fury, I was there ready to fight Jake Paul. I was ready. I was there. Let's go. And instead, he fought Nate Diaz.",
+      "confidence": 0.96811676
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1092.6699,
+      "end": 1106.585,
+      "text": "Mhmm. And at that point, I had to fight Tommy Fury. At that point, I was like, you know what? I think I tried to build up again to then try and fight Jake Yoon, and then he was just getting heavier and heavier and heavier trying to move the goalpost when it comes to weight.",
+      "confidence": 0.95875734
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1106.885,
+      "end": 1113.15,
+      "text": "Then it got to the point where I was like, what am I doing, man? I'm done. How do you feel about money now at this stage of life?",
+      "confidence": 0.994075
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1113.53,
+      "end": 1114.11,
+      "text": "I mean,",
+      "confidence": 0.9991708
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1115.61,
+      "end": 1117.5499,
+      "text": "for me, money doesn't really drive",
+      "confidence": 0.99797314
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1118.33,
+      "end": 1124.6699,
+      "text": "anything for me. I'm at a point where I've made it. I've made it in life. I've smashed it. You know, I've been,",
+      "confidence": 0.981329
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1125.425,
+      "end": 1136.085,
+      "text": "you know, at the top of my career for a very, very long time, and it's hard, especially in the space that changes so quickly. To stay, you know, on top, it's it's not easy. But for me, it's all about giving.",
+      "confidence": 0.95179224
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1136.545,
+      "end": 1139.73,
+      "text": "Just giving back as much as I can. And, you know,",
+      "confidence": 0.9899798
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1140.77,
+      "end": 1146.23,
+      "text": "whenever I can help out, I'm always gonna help out. I don't know. I I'm just there. Like, I want",
+      "confidence": 0.9858702
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1146.53,
+      "end": 1203.55,
+      "text": "I wanna do more, but I can't because of this boxing thing, and now I can. Now I'm able to really do all the things that I've always wanted to do. Yeah. Dude, I think content creation generally is a really tough career to learn, but once you've learned it, it's all about rhythm. Yes. And and then the rhythm is, like, really enjoyable after a point. Exactly. Yeah. I think that's what you're chasing as well. Yeah. I'm getting I'm getting the rhythm. I'm getting there. Yeah. Like, this this guy, he's, like, a lifelong fan. He's, like, twenty, twenty one. Okay. And I spent, like, two hours with him. We worked together. Yeah. But for the last two hours, we've just been talking about you. Oh, wow. Yeah. What the best thing about me, and then you could say the worst as well. Yeah. I mean and he's watched you for his Yeah. Yeah. Because I always find it intriguing to see what I think the best thing about you is the combat that you make every now and then. Like, when we, you know, things are going down bad for you. Yeah. You've have that mentality to just try and match try and match. Yeah. Yeah. Okay. Yeah. So I think that is the best thing about you. Yeah. And I think I think What about what?",
+      "confidence": 0.94534445
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1204.7301,
+      "end": 1206.5901,
+      "text": "I'm not gonna let you go with that.",
+      "confidence": 0.89451754
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1207.1749,
+      "end": 1219.0349,
+      "text": "Maybe they cancel everything. Yeah. Yeah. We get we get canceled a lot as well. No. No. No. But that I definitely but so with with that, I think it's quite good because, you know, I know I have a lot of people that look up to me, but,",
+      "confidence": 0.9186374
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1219.35,
+      "end": 1223.37,
+      "text": "yeah, I've made so many mistakes. But I think it's good that,",
+      "confidence": 0.9895676
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1224.15,
+      "end": 1246.27,
+      "text": "you know, it's people can see the mistakes I make. It's relatable because then you're like, oh, okay. If I made the mistake and then kept making them, then that's a problem. That's terrible. Yeah. But I think with me, I make a mistake, and I learn from it. And then I try to show that to my audience as well. Like, you have to learn from what you want, you know, from the mistakes that you make. So",
+      "confidence": 0.97634387
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1246.91,
+      "end": 1253.73,
+      "text": "I feel like cloning Chris and making a bunch of Chrises hug you What? To give you, like, love right now. God's sake.",
+      "confidence": 0.9801699
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1256.11,
+      "end": 1264.385,
+      "text": "I don't know. I I just had to say that, bro. No. It's all good. It's all good. I wanna take, like, a tiny tangent. Okay. Go for it. I'm really liking just sitting with you in this one, bro.",
+      "confidence": 0.96955365
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1265.485,
+      "end": 1275.51,
+      "text": "Sick. It's a great it's a great one. Likewise. Likewise. You've got some great energy. Thank you. Yeah? I I honestly truly believe in energy. Oh, yeah, bro. Yeah. Yeah. I feel like you can",
+      "confidence": 0.9611038
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1276.29,
+      "end": 1279.91,
+      "text": "you can tell when there's good energy and when there's bad energy.",
+      "confidence": 0.99546474
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1280.37,
+      "end": 1280.87,
+      "text": "And,",
+      "confidence": 0.98578024
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1281.25,
+      "end": 1281.75,
+      "text": "like,",
+      "confidence": 0.9945918
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1283.17,
+      "end": 1287.4299,
+      "text": "I I I just truly believe, like, if you surround yourself with good energy,",
+      "confidence": 0.9954948
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1288.2649,
+      "end": 1291.1649,
+      "text": "life becomes beautiful. You attract more of it.",
+      "confidence": 0.99862057
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1291.465,
+      "end": 1300.11,
+      "text": "Right? So I had a massive cancellation around a year ago. Okay. Like, pretty bad. Okay. And I feel I'm a different human, and now I appreciate it.",
+      "confidence": 0.9796414
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1300.59,
+      "end": 1306.29,
+      "text": "Has that happened with you where you appreciate a cancellation from the past? Well, I mean, where do you wanna start?",
+      "confidence": 0.96576643
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1307.15,
+      "end": 1308.21,
+      "text": "How many cancellations",
+      "confidence": 0.9737389
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1308.51,
+      "end": 1310.13,
+      "text": "have I had? Oh, brother.",
+      "confidence": 0.9834445
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1311.39,
+      "end": 1322.3151,
+      "text": "I've been I've been around for a while, so I've been canceled quite a few times. Yeah. But I always I've always said this. The only person that can cancel you",
+      "confidence": 0.98417705
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1322.6951,
+      "end": 1324.715,
+      "text": "is you. Yeah. Is yourself.",
+      "confidence": 0.9040014
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1325.415,
+      "end": 1335.78,
+      "text": "You like, you can let all get to you, and then you could just go, I'm done. Yeah. And that's it. There's like this You've you've canceled yourself, essentially. Yeah. There's this code that goes,",
+      "confidence": 0.93795186
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1336.4801,
+      "end": 1337.38,
+      "text": "until death,",
+      "confidence": 0.99285614
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1337.8401,
+      "end": 1339.4601,
+      "text": "all forms of defeat are psychological.",
+      "confidence": 0.9979879
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1340.3351,
+      "end": 1340.8351,
+      "text": "Okay.",
+      "confidence": 0.9995631
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1341.8551,
+      "end": 1346.915,
+      "text": "Samurai mentality. Woah. I think that's what it takes to stay in content for really long. Yes.",
+      "confidence": 0.99551356
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1347.2151,
+      "end": 1352.675,
+      "text": "And it's not an easy career to, like, sustain in the long run. No. Do you have, like, footballer friends?",
+      "confidence": 0.97683555
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1353.135,
+      "end": 1353.4551,
+      "text": "I mean",
+      "confidence": 0.9998286
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1354.17,
+      "end": 1358.1101,
+      "text": "Have you got great advice from any footballer? I think Haaland,",
+      "confidence": 0.97822154
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1359.8501,
+      "end": 1361.55,
+      "text": "when I talked to him, he",
+      "confidence": 0.95968014
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1362.3301,
+      "end": 1367.39,
+      "text": "he's it's actually crazy. At such a young age, he was so locked in",
+      "confidence": 0.9869996
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1368.115,
+      "end": 1373.1749,
+      "text": "so early, and I, you know, I I was quite jealous of that. Like, I wish I had that lock in",
+      "confidence": 0.97926456
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1373.715,
+      "end": 1376.695,
+      "text": "when I was his age. And for him, it's like",
+      "confidence": 0.9821478
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1377.235,
+      "end": 1385.69,
+      "text": "I think that's that is important just to stay focused. Imagine all your life was just up up up up up up up up. You'd never appreciate anything.",
+      "confidence": 0.9568592
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1386.07,
+      "end": 1391.21,
+      "text": "You gotta have some downs. And, bro, the amount of downs I've had, it made me really appreciate",
+      "confidence": 0.9437023
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1391.83,
+      "end": 1393.93,
+      "text": "the ups and made me really appreciate,",
+      "confidence": 0.98643893
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1394.79,
+      "end": 1397.345,
+      "text": "you know, what I have and what I had.",
+      "confidence": 0.9836533
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1397.805,
+      "end": 1399.745,
+      "text": "And then you go, okay. Cool.",
+      "confidence": 0.9903247
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1400.205,
+      "end": 1401.745,
+      "text": "Let's work myself up again.",
+      "confidence": 0.97654706
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1402.365,
+      "end": 1405.585,
+      "text": "Does a bad breakup hurt more or does cancellation hurt?",
+      "confidence": 0.93508655
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1406.445,
+      "end": 1412.99,
+      "text": "I'd say a bad breakup. Up. More more than Yeah. Yeah. I I think heartbreak is probably one of the worst things.",
+      "confidence": 0.9369497
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1413.4501,
+      "end": 1417.4701,
+      "text": "Right? Like, way more than being canceled even on, like, a really bad level.",
+      "confidence": 0.9540018
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1418.49,
+      "end": 1420.8301,
+      "text": "I I think with a heartbreak, it's just",
+      "confidence": 0.872887
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1422.385,
+      "end": 1427.2051,
+      "text": "I don't know. There's it's it's you I don't know how to explain it, but it's just",
+      "confidence": 0.96556675
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1427.745,
+      "end": 1428.245,
+      "text": "depression",
+      "confidence": 0.9989761
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1429.905,
+      "end": 1434.5651,
+      "text": "at a whole different level. You've imagined this person you're gonna be with for the rest of your life,",
+      "confidence": 0.97252893
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1435.105,
+      "end": 1440.26,
+      "text": "and then they're not there anymore. And they're gone, and that's it. And there's nothing you can do about it.",
+      "confidence": 0.9644414
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1440.8,
+      "end": 1442.18,
+      "text": "That is awful.",
+      "confidence": 0.9907877
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1442.8,
+      "end": 1444.18,
+      "text": "Horrible feeling, man.",
+      "confidence": 0.99586254
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1444.64,
+      "end": 1449.38,
+      "text": "But then, you know, it takes a while to get over that. And, you know, some some people never really",
+      "confidence": 0.97687256
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1449.875,
+      "end": 1452.295,
+      "text": "get over it. They always wonder, like, what if?",
+      "confidence": 0.96894336
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1453.395,
+      "end": 1457.175,
+      "text": "With a cancellation, it's kinda just like you made a mistake.",
+      "confidence": 0.9303181
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1457.795,
+      "end": 1461.015,
+      "text": "You learn from it, and then you don't make that mistake again.",
+      "confidence": 0.9853936
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1461.4751,
+      "end": 1467.9401,
+      "text": "And then you just keep on making content. You just keep going and keep that's it. You just have to keep going. Content doesn't heal breakups.",
+      "confidence": 0.9674238
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1468.8,
+      "end": 1469.3,
+      "text": "No.",
+      "confidence": 0.997965
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1469.76,
+      "end": 1473.62,
+      "text": "No. No. No. No. Not at all. Soft boy hours. What?",
+      "confidence": 0.9279873
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1475.28,
+      "end": 1477.2001,
+      "text": "No. I I I definitely,",
+      "confidence": 0.8134402
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1477.8401,
+      "end": 1479.14,
+      "text": "you definitely definitely",
+      "confidence": 0.65882504
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1479.495,
+      "end": 1481.275,
+      "text": "doesn't. Soft boy, JJ.",
+      "confidence": 0.82229865
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1481.975,
+      "end": 1482.695,
+      "text": "Well, I definitely,",
+      "confidence": 0.88539076
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1484.055,
+      "end": 1486.235,
+      "text": "I respect a lot of people who have",
+      "confidence": 0.9987384
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1486.695,
+      "end": 1494.0299,
+      "text": "public relationships. Oh, yeah. No chance. Like, I've been with my girl for eight years. Yeah. Yeah. Well, you are",
+      "confidence": 0.96524304
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1494.73,
+      "end": 1497.95,
+      "text": "just no, man. Like, the idea of people knowing",
+      "confidence": 0.9688834
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1498.8099,
+      "end": 1502.6699,
+      "text": "everything about her and then people commenting on on your relationship,",
+      "confidence": 0.96108764
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1503.5299,
+      "end": 1504.2699,
+      "text": "saying whatever.",
+      "confidence": 0.90245634
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1505.0499,
+      "end": 1507.3899,
+      "text": "Like, bro, you see what even on x,",
+      "confidence": 0.9538986
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1508.835,
+      "end": 1510.375,
+      "text": "like, Grok, the AI,",
+      "confidence": 0.9047769
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1510.835,
+      "end": 1515.255,
+      "text": "bro, and you're seeing some crazy stuff where people are just wearing normal clothes,",
+      "confidence": 0.9050765
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1515.555,
+      "end": 1519.255,
+      "text": "and people are like, oh, Grok, show this person in a bikini",
+      "confidence": 0.9416356
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1519.795,
+      "end": 1523.415,
+      "text": "and all of that. And I'm just they're like, it's just so intrusive. But, obviously,",
+      "confidence": 0.9345034
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1523.87,
+      "end": 1529.41,
+      "text": "you know, it's the Internet. It's gonna do its thing. You can't fight it. But I think it's nice that,",
+      "confidence": 0.96619385
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1529.9501,
+      "end": 1531.41,
+      "text": "you know, there's a little",
+      "confidence": 0.9988739
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1532.03,
+      "end": 1544.825,
+      "text": "part of me that's super special that I don't have to give to the world. I keep trying to explain the same thing to my partner. Yeah. She doesn't fully understand it. Yeah. No. Trust me. But it's it's like a very guy to guy conversation thing. Yeah. It's",
+      "confidence": 0.97780716
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1545.365,
+      "end": 1545.865,
+      "text": "it's",
+      "confidence": 0.9128503
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1547.365,
+      "end": 1548.105,
+      "text": "way better",
+      "confidence": 0.99795526
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1548.725,
+      "end": 1549.7849,
+      "text": "way, way better",
+      "confidence": 0.84917355
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1550.52,
+      "end": 1554.3,
+      "text": "private because it's just it's so nice being able to go out",
+      "confidence": 0.94721466
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1555.16,
+      "end": 1562.38,
+      "text": "in public with your loved one and not have to worry about them just, you know, taking photos here, the photos there, da da da, or just commenting.",
+      "confidence": 0.95943654
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1562.92,
+      "end": 1563.345,
+      "text": "Like,",
+      "confidence": 0.9970285
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1563.905,
+      "end": 1575.9249,
+      "text": "it's just it's the worst thing, man. It's just nice to just be free with this person. Just be able to relax and chill and not just talk about your career or your job all the time. Do you get to be anonymous anywhere?",
+      "confidence": 0.9830065
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1576.705,
+      "end": 1578.3,
+      "text": "It's hard. It's very",
+      "confidence": 0.99656737
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1579.72,
+      "end": 1580.22,
+      "text": "hard.",
+      "confidence": 0.99628985
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1581.64,
+      "end": 1582.4601,
+      "text": "Not really.",
+      "confidence": 0.7923237
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1583.24,
+      "end": 1590.78,
+      "text": "Not really. Does it feel like a little bit, like, choking? Do you feel like choking? No. No. I think the only place I can be anonymous is at home",
+      "confidence": 0.9317605
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1591.9601,
+      "end": 1596.025,
+      "text": "in my house. But, like, I like being at home, you know, when I'm with my missus",
+      "confidence": 0.97801256
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1596.4851,
+      "end": 1617.8201,
+      "text": "and, you know, especially when we just do fun things, like make pizzas together or we play video games together. It takes two. It takes two. Yeah. We we smash through that. We played unraveled or unwra is it unraveled? You know the strings? Oh my god. That's a great game as well. It's like a two player thing. Yeah. Yeah. Yeah. Really? Well, anything co op, or flying games,",
+      "confidence": 0.9056404
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1618.68,
+      "end": 1625.045,
+      "text": "we're going ham on it. We're we're currently playing portal two. Oh, okay. Do you know the two people in prison?",
+      "confidence": 0.95518893
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1625.425,
+      "end": 1627.2051,
+      "text": "What's that one? There's one called",
+      "confidence": 0.9038539
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1628.0651,
+      "end": 1630.805,
+      "text": "the last ride or the not last of us.",
+      "confidence": 0.8947307
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1631.265,
+      "end": 1635.045,
+      "text": "It's something but, again, we complete it. Like, we just we play",
+      "confidence": 0.96711594
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1635.76,
+      "end": 1644.82,
+      "text": "all types of games when it comes to co op. What do you do when you're completely alone, man? I'm completely alone. Oh, man. Honestly, I just stare at YouTube stats.",
+      "confidence": 0.9778592
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1645.6799,
+      "end": 1651.915,
+      "text": "Yeah. Yeah. Yeah. Yeah. Just look at Wow. And just I'm just or just, like, ways to improve my YouTube videos.",
+      "confidence": 0.9460836
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1653.175,
+      "end": 1654.4751,
+      "text": "Play Dragon Ball legends,",
+      "confidence": 0.8098145
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1655.255,
+      "end": 1656.3151,
+      "text": "just on my phone.",
+      "confidence": 0.98104656
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1656.935,
+      "end": 1658.635,
+      "text": "You know, watch anime,",
+      "confidence": 0.9075469
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1660.375,
+      "end": 1660.875,
+      "text": "watch",
+      "confidence": 0.8839142
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1661.175,
+      "end": 1667.67,
+      "text": "some some series on, like, Netflix, Amazon Prime. You feel like Dragon Ball z kind of affected your",
+      "confidence": 0.92591846
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1668.4501,
+      "end": 1669.43,
+      "text": "adult mind?",
+      "confidence": 0.96360993
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1669.81,
+      "end": 1688.125,
+      "text": "Yes. Yeah. I keep going back to that thought. My it's literally, like, shaped my childhood, and then I've just grown up with it. Just that never give up mentality. And that's why it's it's quite interesting that you mentioned that. Like, whenever I'm down, I'm always finding a way to, you know, get back up again. Mhmm. I just find the sense of being,",
+      "confidence": 0.9640515
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1688.905,
+      "end": 1689.805,
+      "text": "and I'm back.",
+      "confidence": 0.99171
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1691.88,
+      "end": 1695.1001,
+      "text": "Feel like you you enjoy pain a little bit, man. What?",
+      "confidence": 0.97932744
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1695.56,
+      "end": 1697.42,
+      "text": "What? Wait. What you got with this?",
+      "confidence": 0.8180854
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1698.68,
+      "end": 1701.18,
+      "text": "Every Dragon Ball fan enjoys pain. Yeah.",
+      "confidence": 0.92519724
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1702.4401,
+      "end": 1704.4601,
+      "text": "I mean I mean, I've definitely experienced",
+      "confidence": 0.8947338
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1705.125,
+      "end": 1706.345,
+      "text": "all types of pain.",
+      "confidence": 0.9995196
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1707.925,
+      "end": 1715.385,
+      "text": "Not not really. I don't think anyone enjoys pain. I don't think I'm not like what what do you call people who, like, obsess with pain?",
+      "confidence": 0.95867795
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1715.685,
+      "end": 1716.345,
+      "text": "A masochistic.",
+      "confidence": 0.834709
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1716.725,
+      "end": 1722.1,
+      "text": "Such something like that. Yeah. Like, I'm not I'm not there like, oh, where can I find that",
+      "confidence": 0.95259
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1723.12,
+      "end": 1724.5,
+      "text": "bit of pain? I I'm",
+      "confidence": 0.7500551
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1724.8,
+      "end": 1729.7,
+      "text": "feeling for it. No. I'm just like, you know, if it happens, it happens, and then you just",
+      "confidence": 0.9677729
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1730.16,
+      "end": 1731.135,
+      "text": "move on. Yeah.",
+      "confidence": 0.9899935
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1731.855,
+      "end": 1733.395,
+      "text": "So have you heard of the wedding?",
+      "confidence": 0.97968054
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1733.6951,
+      "end": 1736.735,
+      "text": "It was this big wedding that you know about it. Yes. Of course.",
+      "confidence": 0.91815555
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1737.215,
+      "end": 1737.715,
+      "text": "So,",
+      "confidence": 0.8589758
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1738.015,
+      "end": 1742.995,
+      "text": "I was at the wedding, and I met John Cena at the wedding. Wow. And so I spent about",
+      "confidence": 0.9935068
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1743.3401,
+      "end": 1745.6001,
+      "text": "twenty to thirty minutes talking to him. That's incredible.",
+      "confidence": 0.99626416
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1745.9801,
+      "end": 1748.8,
+      "text": "And he said something that I think he told Kai as well.",
+      "confidence": 0.91285485
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1749.1001,
+      "end": 1751.76,
+      "text": "He said that the most important thing in life for him",
+      "confidence": 0.9635863
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1752.06,
+      "end": 1756.4801,
+      "text": "is to just be useful every day. That's the purpose of life according to John Cena.",
+      "confidence": 0.9759825
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1756.975,
+      "end": 1759.5549,
+      "text": "That's interesting. Yeah. And all this last one year,",
+      "confidence": 0.91504884
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1760.095,
+      "end": 1762.355,
+      "text": "that's where my ball lands as well.",
+      "confidence": 0.96581453
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1762.735,
+      "end": 1766.5149,
+      "text": "Like, I feel like, yeah, that that's right. That's how I Just be useful. Like,",
+      "confidence": 0.90517
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1766.815,
+      "end": 1779.8,
+      "text": "depending on the person you're with or Whatever it is. Whatever it is. Just be be of use to people, the world, your work, your teammates, all that. That's quite it's quite good. How how far ahead do you visualize",
+      "confidence": 0.93926877
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1780.74,
+      "end": 1785.2849,
+      "text": "career or life or whatever? How far ahead? Well, I I, you know, I see",
+      "confidence": 0.95560056
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1785.6649,
+      "end": 1786.725,
+      "text": "me doing content",
+      "confidence": 0.98291874
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1787.105,
+      "end": 1788.885,
+      "text": "probably for the rest of my life.",
+      "confidence": 0.98026747
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1789.265,
+      "end": 1791.445,
+      "text": "You know, even when I'm, like, 70, 80,",
+      "confidence": 0.95181936
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1792.065,
+      "end": 1795.9249,
+      "text": "I think yeah. I mean, I don't know what the content's gonna be.",
+      "confidence": 0.9970084
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1797.4199,
+      "end": 1799.4199,
+      "text": "I'm still doing try not to laugh, so",
+      "confidence": 0.86666805
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1801.1,
+      "end": 1803.36,
+      "text": "or I'm there doing a vlog like, alright.",
+      "confidence": 0.89972687
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1803.9,
+      "end": 1805.44,
+      "text": "I'm finally in Nigeria.",
+      "confidence": 0.99880874
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1807.66,
+      "end": 1809.52,
+      "text": "We did it, boys and girls.",
+      "confidence": 0.9831701
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1811.3351,
+      "end": 1816.4751,
+      "text": "Like, for me, I just I love it. I just love making content, man. It's just",
+      "confidence": 0.99078906
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1817.3351,
+      "end": 1823.675,
+      "text": "like, I think even if I had no money, no fame, whatever, I'd always still be making content.",
+      "confidence": 0.9888135
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1823.99,
+      "end": 1830.49,
+      "text": "And, I mean, I I did I did. I didn't have money at the beginning. I didn't have fame, and I just made content.",
+      "confidence": 0.9640326
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1830.79,
+      "end": 1831.6901,
+      "text": "So it's",
+      "confidence": 0.99937016
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1832.55,
+      "end": 1833.37,
+      "text": "I've always",
+      "confidence": 0.9999354
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1834.31,
+      "end": 1836.65,
+      "text": "just loved it. Like, it's just been",
+      "confidence": 0.99924797
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1837.895,
+      "end": 1840.155,
+      "text": "a thing. How was life before content?",
+      "confidence": 0.9646903
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1841.735,
+      "end": 1843.9149,
+      "text": "I mean, I was definitely I was just, like,",
+      "confidence": 0.97714245
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1844.615,
+      "end": 1845.9149,
+      "text": "a introverted kid,",
+      "confidence": 0.8785704
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1847.015,
+      "end": 1848.5549,
+      "text": "who would just play games.",
+      "confidence": 0.99763453
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1848.855,
+      "end": 1857.0801,
+      "text": "You know, with school, I was just like, it's whatever. Like, you know, I'm just doing it. But, like, then when I got back home to play, like, Call of Duty four,",
+      "confidence": 0.9555456
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1857.4601,
+      "end": 1858.36,
+      "text": "oh my god.",
+      "confidence": 0.9515805
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1858.66,
+      "end": 1870.785,
+      "text": "The excitement. And then being able like, especially during, like, the summer break, just playing Call of Duty four over and every single day with my mate. And then just going online and seeing people play games",
+      "confidence": 0.9633142
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1871.245,
+      "end": 1874.465,
+      "text": "and record themselves doing it. I was there like, oh my god. This is",
+      "confidence": 0.9010473
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1874.845,
+      "end": 1888.41,
+      "text": "this is the dream. I'd love to do this, and then eventually, I made it happen. And, obviously, you know, I've already talked about this, but, yeah, I just you know, I'd when it came to school, I wasn't really, like didn't really speak to me. But",
+      "confidence": 0.9424634
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1888.95,
+      "end": 1889.61,
+      "text": "I think",
+      "confidence": 0.98558486
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1890.39,
+      "end": 1890.89,
+      "text": "nowadays,",
+      "confidence": 0.82380545
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1891.59,
+      "end": 1903.005,
+      "text": "you you can kinda tell, like, not everyone is super academic. You know, there's other jobs. You know? P you got people who are very good at sports. You're good you got people who are very good at making content.",
+      "confidence": 0.93727857
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1903.305,
+      "end": 1906.365,
+      "text": "You know? Good at good people. People are just great at talking.",
+      "confidence": 0.86391217
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1906.665,
+      "end": 1916.97,
+      "text": "Like, you know, us doing this. Like, I wanted to come here. I think this is a huge you know, sick sick thing for us. I'm glad. No. Yeah. Right here, bro. Like like, I've seen",
+      "confidence": 0.94945216
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1917.75,
+      "end": 1919.5099,
+      "text": "you doing podcast with,",
+      "confidence": 0.8685824
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1920.1499,
+      "end": 1924.33,
+      "text": "Jimmy, a few others guys, and I'm just there, like, you know,",
+      "confidence": 0.9367365
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1924.895,
+      "end": 1927.475,
+      "text": "why am I not able to do this? And, like,",
+      "confidence": 0.9979919
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1928.4149,
+      "end": 1933.395,
+      "text": "people were great at just all types of stuff. And now, you know, we live in a world where",
+      "confidence": 0.9771642
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1933.7749,
+      "end": 1934.9149,
+      "text": "you can make a job",
+      "confidence": 0.9996289
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1935.455,
+      "end": 1936.2749,
+      "text": "with anything.",
+      "confidence": 0.9993375
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1937.01,
+      "end": 1945.8301,
+      "text": "I totally agree with what you're saying. Mhmm. But I also feel like the world is progressively becoming sadder, and that's why you need more jokes and shit talking in the world.",
+      "confidence": 0.9827769
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1948.13,
+      "end": 1950.71,
+      "text": "I think I think a lot of people are just",
+      "confidence": 0.9959219
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1951.405,
+      "end": 1952.705,
+      "text": "putting out their frustrations,",
+      "confidence": 0.9118987
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1953.245,
+      "end": 1954.545,
+      "text": "their anger because,",
+      "confidence": 0.9270399
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1955.165,
+      "end": 1955.825,
+      "text": "you know,",
+      "confidence": 0.99978626
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1956.365,
+      "end": 1957.585,
+      "text": "life's tough.",
+      "confidence": 0.9425938
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1958.205,
+      "end": 1958.705,
+      "text": "And,",
+      "confidence": 0.9971208
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1959.165,
+      "end": 1964.385,
+      "text": "you know, sometimes the only way to get it out is, you know, online anonymously.",
+      "confidence": 0.97109926
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1964.845,
+      "end": 1966.7899,
+      "text": "Yeah. And, you know,",
+      "confidence": 0.99396783
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1968.21,
+      "end": 1969.51,
+      "text": "with the Internet, it's",
+      "confidence": 0.95333374
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1970.85,
+      "end": 1973.19,
+      "text": "it's crazy. We we use the Internet",
+      "confidence": 0.98132336
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1973.8099,
+      "end": 1975.59,
+      "text": "back in the day as a way to",
+      "confidence": 0.99857426
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1976.69,
+      "end": 1977.6699,
+      "text": "connect people.",
+      "confidence": 0.92065704
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1978.0499,
+      "end": 1980.95,
+      "text": "But now sometimes you feel like the Internet is",
+      "confidence": 0.9737162
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1982.725,
+      "end": 1984.345,
+      "text": "making things a lot more lonely.",
+      "confidence": 0.9952628
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1985.525,
+      "end": 1989.065,
+      "text": "And The next time you feel lonely, we've always got Chris with you.",
+      "confidence": 0.9184207
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1990.885,
+      "end": 1992.965,
+      "text": "I know he's here all the time, bro. He's",
+      "confidence": 0.92724025
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1994.485,
+      "end": 1998.8,
+      "text": "but no. But it's There's so much imagery I'm getting in my head about Chris and you, bro.",
+      "confidence": 0.9550757
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1999.8201,
+      "end": 2000.48,
+      "text": "Oh, gosh.",
+      "confidence": 0.95770705
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2001.42,
+      "end": 2003.12,
+      "text": "We're gonna be making fan",
+      "confidence": 0.8315983
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2003.42,
+      "end": 2004.48,
+      "text": "dramas of us.",
+      "confidence": 0.96893644
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2006.78,
+      "end": 2012.1549,
+      "text": "I don't even know why I'm doing this, Steve. No. No. It's fine. You think we'll get canceled after this episode?",
+      "confidence": 0.9455461
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2012.7749,
+      "end": 2021.0349,
+      "text": "No. I I think I think we've been pretty chill. I mean, I don't think there's anything that could be honestly, these days, it's hard to tell, man.",
+      "confidence": 0.9818297
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2022.7749,
+      "end": 2023.4349,
+      "text": "And then",
+      "confidence": 0.7965472
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2023.815,
+      "end": 2026.1549,
+      "text": "you learn, and then you keep pushing.",
+      "confidence": 0.9283107
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2027.17,
+      "end": 2032.23,
+      "text": "Dude, you know, I wouldn't mind going to jail with you. Okay. If if you and me both go to jail together,",
+      "confidence": 0.99206775
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2032.61,
+      "end": 2035.33,
+      "text": "I think we'd have a good time. We play football and, like",
+      "confidence": 0.9584014
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2039.735,
+      "end": 2040.795,
+      "text": "outside the channel.",
+      "confidence": 0.8132885
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2041.3351,
+      "end": 2042.395,
+      "text": "We could just do that.",
+      "confidence": 0.7848065
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2042.6951,
+      "end": 2050.955,
+      "text": "We could just do that. I feel like I'm gonna travel to Nigeria with you at some point. Yeah. Yeah. Yeah. Yeah. When are you planning on going? So after World Cup.",
+      "confidence": 0.95585877
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2051.495,
+      "end": 2052.475,
+      "text": "Like, July,",
+      "confidence": 0.8967962
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2052.855,
+      "end": 2056.4102,
+      "text": "August? I think it's probably around August. Yeah. August, September.",
+      "confidence": 0.96621656
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2056.87,
+      "end": 2060.73,
+      "text": "Who do you think is winning this year? What? The World Cup? Yeah. Oh, man.",
+      "confidence": 0.9608663
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2061.03,
+      "end": 2062.6501,
+      "text": "I think it's between three teams.",
+      "confidence": 0.9904322
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2064.6301,
+      "end": 2065.1301,
+      "text": "England,",
+      "confidence": 0.99218285
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2067.75,
+      "end": 2068.25,
+      "text": "Spain,",
+      "confidence": 0.9896798
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2068.9749,
+      "end": 2069.4749,
+      "text": "France.",
+      "confidence": 0.991906
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2070.015,
+      "end": 2071.075,
+      "text": "France. Yeah?",
+      "confidence": 0.9248916
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2071.4548,
+      "end": 2073.555,
+      "text": "Yeah. I think There's there's no",
+      "confidence": 0.9972274
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2073.935,
+      "end": 2080.675,
+      "text": "fourth team that's even near these three in terms of quality. I mean I mean, I mean, you might have Ronaldo fanboys",
+      "confidence": 0.94388604
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2081.055,
+      "end": 2083.43,
+      "text": "or Messi fanboys who go Argentina",
+      "confidence": 0.91864157
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2084.21,
+      "end": 2085.3499,
+      "text": "or Portugal.",
+      "confidence": 0.8683274
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2085.73,
+      "end": 2087.19,
+      "text": "But I just think,",
+      "confidence": 0.9840254
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2087.65,
+      "end": 2089.5898,
+      "text": "oh my god. Like, the teams,",
+      "confidence": 0.9446823
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2090.13,
+      "end": 2090.8699,
+      "text": "the players",
+      "confidence": 0.99101466
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2092.05,
+      "end": 2100.415,
+      "text": "that these countries have, man, including, you know, England. It's just phenomenal. Like, we have so many good players. But then I look at France.",
+      "confidence": 0.9761077
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2101.0352,
+      "end": 2102.2551,
+      "text": "They have, like, insane",
+      "confidence": 0.9221186
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2103.0352,
+      "end": 2104.0151,
+      "text": "11, you know,",
+      "confidence": 0.9875862
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2104.5552,
+      "end": 2107.455,
+      "text": "11 players. And then you look at their bench, and you're like,",
+      "confidence": 0.94855183
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2108.155,
+      "end": 2108.895,
+      "text": "oh my god.",
+      "confidence": 0.9598532
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2109.3552,
+      "end": 2109.8552,
+      "text": "What?",
+      "confidence": 0.9709907
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2110.5552,
+      "end": 2114.29,
+      "text": "It's just wild. Like, that's what I mean. Like, with a lot of these teams,",
+      "confidence": 0.958568
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2114.59,
+      "end": 2116.37,
+      "text": "they have an insane bench.",
+      "confidence": 0.95388204
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2116.83,
+      "end": 2118.85,
+      "text": "It's it just makes such a difference.",
+      "confidence": 0.937636
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2119.23,
+      "end": 2126.21,
+      "text": "Dude, I love I love traveling in England, man. Yeah. Yeah. England's nice. England's nice. Especially during the summer. It's lovely. It's how it should be, man. Yeah.",
+      "confidence": 0.9590038
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2126.945,
+      "end": 2131.525,
+      "text": "I have a lot of bros from, like, Nigeria and Ghana because I've a lot of content creators.",
+      "confidence": 0.92937416
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2131.825,
+      "end": 2133.125,
+      "text": "They're very chilled out guys.",
+      "confidence": 0.9387266
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2133.7449,
+      "end": 2144.88,
+      "text": "Maybe it's Nigerian jeans speaking. No. I I I definitely can be very, very chilled. Yeah. Yeah. Especially at home. Just, well, like, nothing better than just watching some Premier League chilling",
+      "confidence": 0.9104084
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2145.42,
+      "end": 2148.24,
+      "text": "with my missus or just watching a movie.",
+      "confidence": 0.8946956
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2149.2598,
+      "end": 2152.48,
+      "text": "Oh, bro. Like, just just at home with my cats.",
+      "confidence": 0.9038328
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2153.0999,
+      "end": 2154.72,
+      "text": "Yeah. You know, in India,",
+      "confidence": 0.8695663
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2155.205,
+      "end": 2156.5051,
+      "text": "most football fans,",
+      "confidence": 0.95828515
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2157.605,
+      "end": 2163.865,
+      "text": "watch more EPL than we watch our Indian league. Okay. Yeah. And and, also, the Indian league currently",
+      "confidence": 0.95890725
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2164.165,
+      "end": 2165.705,
+      "text": "is not on. Okay.",
+      "confidence": 0.96746993
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2166.085,
+      "end": 2169.605,
+      "text": "Like like our captain, vice captain, all these guys have made videos about",
+      "confidence": 0.9433825
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2170.66,
+      "end": 2187.0752,
+      "text": "they've they've kind of in a very what the is happening zone. Mhmm. And it's really sad for, like, Indian football fans. And I've been watching football for twenty five years now. Yeah. And every year, I hope that, you know, we'll get better. Things get better. Yeah. But it doesn't, man. And, it's not getting better because",
+      "confidence": 0.9808579
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2188.0151,
+      "end": 2200.53,
+      "text": "the the ecosystem doesn't get support. Yeah. And, also, apparently, I've seen all the African teams get really good in the last twenty five years. Yeah. Yeah. Yeah. Yeah. And there's lots of people here. So mathematically I'd say, like like, with the Premier League, like,",
+      "confidence": 0.9514179
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2201.17,
+      "end": 2214.23,
+      "text": "it's probably one of the most watched leagues in the world. It's probably one of the most competitive leagues in the world. It's the most fun league to win. Well, it's just you have all the best players from all over the place coming there. But it just, yeah, it just takes time. And,",
+      "confidence": 0.95879734
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2214.565,
+      "end": 2234.72,
+      "text": "you know, hopefully, you know, the situation that you mentioned gets things get better. Yeah. Anyone else mentioned this to you with this Indian football situation? Never. No? First time. You're gonna hear it a lot in the coming weeks. Okay. Really. Yeah. Because a lot of the guys who watch our stuff are also football fans. Oh, okay. Lots of people are gonna come up and tell you about this. Yeah. Okay. Yeah. Say something for Indian football.",
+      "confidence": 0.9494854
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2235.26,
+      "end": 2236.96,
+      "text": "Well, I mean yeah. Well, let's",
+      "confidence": 0.9821065
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2237.42,
+      "end": 2237.92,
+      "text": "let's",
+      "confidence": 0.9862594
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2238.6199,
+      "end": 2239.1199,
+      "text": "increase",
+      "confidence": 0.9993538
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2239.58,
+      "end": 2243.44,
+      "text": "the increase the money for the players, man. Like, there's a lot of Indian players",
+      "confidence": 0.9342129
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2244.0652,
+      "end": 2248.725,
+      "text": "that, you know, want to play football, wanna do do well. You know, maybe even",
+      "confidence": 0.9625866
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2249.1052,
+      "end": 2249.6052,
+      "text": "enter",
+      "confidence": 0.91193545
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2250.0652,
+      "end": 2260.9,
+      "text": "well, I mean, I think it'd be great. It's great for the Indian football team in gen in general. Like, I wanna see India in the World Cup smashing it. Yeah. And the best way to do that is to fund",
+      "confidence": 0.97345215
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2262.56,
+      "end": 2263.22,
+      "text": "the country,",
+      "confidence": 0.9015923
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2263.76,
+      "end": 2277.065,
+      "text": "fund the people in the country. I think money is available. And and I'm not saying this. We had an owner of one of the teams on the show. He's also a big film star. He said it on the show. Okay. So people are very aware that there's corruption and Yeah.",
+      "confidence": 0.9664317
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2277.465,
+      "end": 2284.205,
+      "text": "Issues, but it is what it is, man. Yeah. Well, yeah, I I need to educate myself on it a bit more.",
+      "confidence": 0.96322495
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2285.4,
+      "end": 2288.6199,
+      "text": "It's I think you've spent, like, twenty four hours in India? Less?",
+      "confidence": 0.944818
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2289.4,
+      "end": 2292.46,
+      "text": "Less. Yeah. It's I'd I'd say I've got",
+      "confidence": 0.95086503
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2293.16,
+      "end": 2294.14,
+      "text": "how many hours?",
+      "confidence": 0.81250674
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2294.44,
+      "end": 2297.74,
+      "text": "I'd say six more hours, and then there's twenty four hours. Yeah.",
+      "confidence": 0.9800973
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2298.44,
+      "end": 2302.295,
+      "text": "But you've been here twice? This is my third time. Okay. So the first time I came,",
+      "confidence": 0.96222675
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2303.075,
+      "end": 2305.2551,
+      "text": "was a school trip. This was before I was KSI.",
+      "confidence": 0.9306138
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2305.955,
+      "end": 2310.275,
+      "text": "School trip. Damn. Yeah. Yeah. Talk about that, bro. Why why? I went just,",
+      "confidence": 0.87762827
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2310.675,
+      "end": 2311.975,
+      "text": "to help out an orphanage",
+      "confidence": 0.9578064
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2312.435,
+      "end": 2313.2551,
+      "text": "and to teach,",
+      "confidence": 0.933821
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2313.955,
+      "end": 2315.2551,
+      "text": "some students English.",
+      "confidence": 0.9981079
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2316.09,
+      "end": 2318.11,
+      "text": "Damn. Yeah. Just You were in Mumbai?",
+      "confidence": 0.7895473
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2318.4102,
+      "end": 2318.9102,
+      "text": "Alright.",
+      "confidence": 0.7879634
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2319.37,
+      "end": 2322.83,
+      "text": "I don't know exactly where I was. I was in India,",
+      "confidence": 0.99740404
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2323.29,
+      "end": 2328.35,
+      "text": "but I don't remember. And I'm going to find out. It's on my I can actually",
+      "confidence": 0.9542498
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2328.6501,
+      "end": 2330.03,
+      "text": "I can show you pictures.",
+      "confidence": 0.998366
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2330.615,
+      "end": 2333.255,
+      "text": "It's on my Facebook. When was this? This was",
+      "confidence": 0.974331
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2334.615,
+      "end": 2336.795,
+      "text": "I can tell you now, actually. 2007.",
+      "confidence": 0.9648503
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2337.7349,
+      "end": 2338.2148,
+      "text": "What the",
+      "confidence": 0.73422796
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2338.9348,
+      "end": 2341.6748,
+      "text": "I'm not too young. When Thierry Henry left Arsenal.",
+      "confidence": 0.8367021
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2343.94,
+      "end": 2344.44,
+      "text": "And",
+      "confidence": 0.64020497
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2344.82,
+      "end": 2346.76,
+      "text": "went to win the Champions League at Barcelona.",
+      "confidence": 0.8312897
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2347.7,
+      "end": 2359.145,
+      "text": "Ah, stop. I love Thierry Henry, though, dude. No. No. He's I I I met I met him before he's Oh, really? Well, yeah. Yeah. A few times now. He's How do you feel meeting Henry for the first time? Well, it was, like, such a surreal moment.",
+      "confidence": 0.89214873
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2359.605,
+      "end": 2361.7852,
+      "text": "Like, my heart was, like, doing this.",
+      "confidence": 0.9882825
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2362.325,
+      "end": 2365.145,
+      "text": "Well, because he was the reason why I became",
+      "confidence": 0.952955
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2365.605,
+      "end": 2366.665,
+      "text": "an Arsenal fan.",
+      "confidence": 0.9498079
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2367.125,
+      "end": 2369.705,
+      "text": "Yeah. Like, my grandma gave me",
+      "confidence": 0.9984627
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2370.085,
+      "end": 2372.0251,
+      "text": "an an Arsenal top,",
+      "confidence": 0.74628675
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2372.65,
+      "end": 2377.71,
+      "text": "And, like, I was like, oh, this is cool. And then I'd watch Arsenal games, and I was like, oh my god.",
+      "confidence": 0.98621386
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2378.01,
+      "end": 2379.47,
+      "text": "Yeah. This is cool.",
+      "confidence": 0.99815965
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2379.77,
+      "end": 2381.79,
+      "text": "Like, he just made me love",
+      "confidence": 0.9994902
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2382.49,
+      "end": 2391.505,
+      "text": "Arsenal. Dude, he's one of those players that you can't hate even if like, I support United. Yeah. They're lifelong United. Oh my god. United are definitely going through right now, man.",
+      "confidence": 0.8958407
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2392.125,
+      "end": 2393.805,
+      "text": "Like, I think but who you,",
+      "confidence": 0.8302781
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2394.285,
+      "end": 2395.345,
+      "text": "you've got Socier",
+      "confidence": 0.8139011
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2395.645,
+      "end": 2397.905,
+      "text": "now? Yeah. I mean, I know it's Stanley, like,",
+      "confidence": 0.7363535
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2398.285,
+      "end": 2398.785,
+      "text": "Fletch.",
+      "confidence": 0.89642763
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2399.68,
+      "end": 2404.34,
+      "text": "I I hope it I hope it's Roy Keane, honestly. Yeah. I hope Roy Keane gets",
+      "confidence": 0.9580615
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2404.6401,
+      "end": 2407.3801,
+      "text": "a shot at it. Well, I just I just feel like",
+      "confidence": 0.9931039
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2408.72,
+      "end": 2410.58,
+      "text": "you guys are just so indecisive.",
+      "confidence": 0.99539113
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2411.2,
+      "end": 2411.7,
+      "text": "Like,",
+      "confidence": 0.8759115
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2412.665,
+      "end": 2413.165,
+      "text": "with",
+      "confidence": 0.8421892
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2413.625,
+      "end": 2419.565,
+      "text": "with with a manager, it takes time Yeah. For their for for their philosophy to eventually get",
+      "confidence": 0.996004
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2420.025,
+      "end": 2421.2449,
+      "text": "through. And,",
+      "confidence": 0.99004525
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2421.785,
+      "end": 2426.525,
+      "text": "you know, with Arteta, we've given them time, but he hasn't won",
+      "confidence": 0.9423458
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2427.3801,
+      "end": 2433.32,
+      "text": "many things for us, but he's created this die hard culture fan fan base. And",
+      "confidence": 0.91748154
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2433.86,
+      "end": 2436.2,
+      "text": "people just love him, what he's created.",
+      "confidence": 0.97016174
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2436.58,
+      "end": 2437.08,
+      "text": "And",
+      "confidence": 0.99860376
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2437.78,
+      "end": 2444.375,
+      "text": "look at us. We're one of the best teams in the Premier League, and he's done that. He created that. He allowed that to happen.",
+      "confidence": 0.9852602
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2444.755,
+      "end": 2445.255,
+      "text": "And,",
+      "confidence": 0.9888823
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2445.795,
+      "end": 2446.4548,
+      "text": "you know,",
+      "confidence": 0.99363756
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2446.9148,
+      "end": 2456.8599,
+      "text": "we gave him time to get to that. But it hasn't been all up. It's been several several downs. But Especially at the start. Yeah. Yeah. But but because we gave him time to do his thing,",
+      "confidence": 0.95088065
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2457.48,
+      "end": 2458.6199,
+      "text": "now look. We're flourishing.",
+      "confidence": 0.86326355
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2458.92,
+      "end": 2461.8198,
+      "text": "And now The best side, we're gonna win the Premier League.",
+      "confidence": 0.87278616
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2462.3599,
+      "end": 2464.22,
+      "text": "Maybe maybe the Champions League also?",
+      "confidence": 0.8531678
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2465.0798,
+      "end": 2468.7,
+      "text": "Well, that's what I mean. Like, it's we're just that good now.",
+      "confidence": 0.99644786
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2469.595,
+      "end": 2472.415,
+      "text": "But it'll be really fun if you guys don't win again.",
+      "confidence": 0.9853954
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2472.875,
+      "end": 2476.495,
+      "text": "It'll be fun for, like, the other Well, really? I bet. I bet, man.",
+      "confidence": 0.8903257
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2477.915,
+      "end": 2484.095,
+      "text": "Everyone wants us to lose, man. That's just as as Arsenal fans, you just have to accept that everyone",
+      "confidence": 0.9473063
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2484.69,
+      "end": 2485.67,
+      "text": "is against you.",
+      "confidence": 0.9995262
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2486.77,
+      "end": 2492.95,
+      "text": "Yeah. I mean but, you know, when I was a kid, the first season I saw was the 2002 season, the Invincibles season. Yes. Yes.",
+      "confidence": 0.98566437
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2493.25,
+      "end": 2496.39,
+      "text": "And since then, I've, like, distantly admired",
+      "confidence": 0.9933677
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2496.69,
+      "end": 2499.2449,
+      "text": "Arsenal for whatever at least, it's pretty football.",
+      "confidence": 0.9613981
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2499.785,
+      "end": 2503.4849,
+      "text": "Yeah. Yeah. And and I miss being a kid seeing those four teams do well.",
+      "confidence": 0.9857598
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2503.785,
+      "end": 2508.045,
+      "text": "Yeah. I miss that era. Yeah. Yeah. You and I are not really on our level anymore.",
+      "confidence": 0.8901623
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2508.665,
+      "end": 2511.005,
+      "text": "Yeah. Yeah. I need to break your mind.",
+      "confidence": 0.82090914
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2511.7048,
+      "end": 2517.51,
+      "text": "It it's just And it's in in another room. Now it's just yeah. Arsenal and Manseil really going back to back. I guess",
+      "confidence": 0.781352
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2518.1301,
+      "end": 2527.43,
+      "text": "Liverpool as well. Yeah. Chelsea, I don't know what's going on with them. I'm waiting for Jude Bellingham to come back to the EPL. I know he's gonna come back at some point. You think? Oh, yes.",
+      "confidence": 0.97023517
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2528.0151,
+      "end": 2531.0752,
+      "text": "He she needs to. He needs to do it for his own country.",
+      "confidence": 0.96584344
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2531.615,
+      "end": 2536.2751,
+      "text": "Yeah. I think I think if he won the World Cup with England, I think he'd be alright.",
+      "confidence": 0.98789173
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2536.735,
+      "end": 2539.475,
+      "text": "Yeah. I think I think the English press",
+      "confidence": 0.9971494
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2539.7751,
+      "end": 2540.675,
+      "text": "aren't great",
+      "confidence": 0.99876523
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2541.455,
+      "end": 2542.915,
+      "text": "to certain people. So",
+      "confidence": 0.9489867
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2543.26,
+      "end": 2544.08,
+      "text": "I think for",
+      "confidence": 0.96665
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2544.78,
+      "end": 2546.8,
+      "text": "his sake, his mindset, for his",
+      "confidence": 0.9973112
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2547.4202,
+      "end": 2554.32,
+      "text": "psyche, it's better if he's just in Spain. And he's killing it in Spain. Yeah. But, like, if he wants to come back, he can. But,",
+      "confidence": 0.9575644
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2554.86,
+      "end": 2560.9749,
+      "text": "yeah, it's English person ain't great. Yeah. Bro, one of my wildest life moments being a content creator",
+      "confidence": 0.9029788
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2561.515,
+      "end": 2577.43,
+      "text": "was podcasting with Rio Ferdinand. Yeah. That, like, scene I saw that. Yeah. Who had seen, like, growing up. Yeah. Yeah. Yeah. Across, and I was just, like, talking to this guy I've used on FIFA. Yep. Yep. Yep. That was a wild feeling. Yeah. But, you know, at the end of the podcast, I asked him about his mental health,",
+      "confidence": 0.9414215
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2577.81,
+      "end": 2582.23,
+      "text": "and he said that it's still up and down. Yeah. In fact, that makes you, like, really think, man. Well,",
+      "confidence": 0.9601734
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2582.85,
+      "end": 2583.51,
+      "text": "I think",
+      "confidence": 0.7134757
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2584.45,
+      "end": 2586.79,
+      "text": "everyone is coming up and down. But,",
+      "confidence": 0.7946415
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2587.1648,
+      "end": 2587.7449,
+      "text": "you know,",
+      "confidence": 0.9997034
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2588.365,
+      "end": 2590.7048,
+      "text": "as long as you have someone close to you",
+      "confidence": 0.9995206
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2591.6448,
+      "end": 2592.785,
+      "text": "to talk to you,",
+      "confidence": 0.918644
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2593.325,
+      "end": 2595.9849,
+      "text": "to communicate with, especially when you're having problems,",
+      "confidence": 0.9955099
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2596.4448,
+      "end": 2597.505,
+      "text": "I think that's great.",
+      "confidence": 0.9967563
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2597.8848,
+      "end": 2598.3848,
+      "text": "And,",
+      "confidence": 0.9462776
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2599.1648,
+      "end": 2603.76,
+      "text": "you know, don't ever keep stuff in. If you've got a problem, speak speak to someone.",
+      "confidence": 0.96958524
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2604.22,
+      "end": 2605.44,
+      "text": "In the world of content,",
+      "confidence": 0.9687561
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2605.74,
+      "end": 2611.2,
+      "text": "are the Sidemen guys your best bros? Yeah. I'd say they're good friends. Yeah. Yeah. Really, really good friends.",
+      "confidence": 0.9790852
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2611.5,
+      "end": 2614.16,
+      "text": "Are you allowed to talk about that closed door meeting that happened",
+      "confidence": 0.9723788
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2614.4949,
+      "end": 2617.555,
+      "text": "where you guys have discussed the future of Sidemen in detail?",
+      "confidence": 0.9747663
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2618.095,
+      "end": 2618.595,
+      "text": "Oh.",
+      "confidence": 0.7809509
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2619.935,
+      "end": 2621.155,
+      "text": "Oh, that's interesting.",
+      "confidence": 0.9976435
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2621.935,
+      "end": 2624.9949,
+      "text": "Where have you heard that from? We've had several meetings,",
+      "confidence": 0.9738801
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2625.615,
+      "end": 2628.835,
+      "text": "just about what we want for the future and everything. And,",
+      "confidence": 0.9879757
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2629.15,
+      "end": 2630.53,
+      "text": "you know, I'd say",
+      "confidence": 0.99862814
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2632.03,
+      "end": 2632.69,
+      "text": "life happens.",
+      "confidence": 0.8144251
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2633.31,
+      "end": 2634.53,
+      "text": "Life definitely happens.",
+      "confidence": 0.99589896
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2637.15,
+      "end": 2638.3699,
+      "text": "Some people have kids.",
+      "confidence": 0.8970046
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2639.07,
+      "end": 2641.41,
+      "text": "You know? Some people, you know, getting married",
+      "confidence": 0.9499528
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2641.71,
+      "end": 2644.53,
+      "text": "or are married. And, you know, just millennial problems.",
+      "confidence": 0.8586352
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2644.845,
+      "end": 2647.825,
+      "text": "Well yeah. And you gotta remember, like, life isn't how it was",
+      "confidence": 0.98186964
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2648.205,
+      "end": 2652.625,
+      "text": "ten years ago. Like, when we started, you know, we were just free",
+      "confidence": 0.98237175
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2652.925,
+      "end": 2656.145,
+      "text": "and able to do whatever. Whereas now, it's like, oh, there's there's",
+      "confidence": 0.9292044
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2656.525,
+      "end": 2657.585,
+      "text": "a lot more responsibility.",
+      "confidence": 0.89627683
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2658.205,
+      "end": 2662.21,
+      "text": "Yeah. So, you know, not everyone has the same goals.",
+      "confidence": 0.9741384
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2662.83,
+      "end": 2664.05,
+      "text": "And it's",
+      "confidence": 0.99788475
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2665.55,
+      "end": 2666.53,
+      "text": "to think about",
+      "confidence": 0.99964094
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2667.07,
+      "end": 2668.77,
+      "text": "seven people getting on",
+      "confidence": 0.99878675
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2669.79,
+      "end": 2670.69,
+      "text": "all the time",
+      "confidence": 0.99947625
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2671.71,
+      "end": 2673.57,
+      "text": "for several, several years, it's,",
+      "confidence": 0.93657047
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2674.5051,
+      "end": 2675.3452,
+      "text": "yeah, it's",
+      "confidence": 0.9590206
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2675.7852,
+      "end": 2680.605,
+      "text": "Not as simple as It's not as simple. It's not as simple. So, you know, there's definitely gonna be some ups and downs,",
+      "confidence": 0.9763832
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2681.385,
+      "end": 2686.2651,
+      "text": "but we I think we work it out. We definitely work it out most of the time, and we,",
+      "confidence": 0.9811724
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2687.1501,
+      "end": 2687.6501,
+      "text": "you",
+      "confidence": 0.99416745
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2688.83,
+      "end": 2692.37,
+      "text": "know, we try to hang out outside of us filming.",
+      "confidence": 0.9939701
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2692.9102,
+      "end": 2695.8901,
+      "text": "But, again, sometimes it's hard sometimes it's hard to just",
+      "confidence": 0.94033927
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2696.27,
+      "end": 2699.97,
+      "text": "do that. So sometimes a lot of time when we see each other's when we're filming.",
+      "confidence": 0.92877924
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2701.215,
+      "end": 2714.115,
+      "text": "So Do you have, like, adult bro conversations with them? I've started doing that a lot with my bros. Like, oh, yeah. Having kids. Yeah. Yeah. Yeah. Wife being No. We definitely chat. We definitely chat. We have a, you know, WhatsApp where we just talk and everything, but,",
+      "confidence": 0.90226793
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2714.495,
+      "end": 2717.35,
+      "text": "you know, it's it's it's one of the things where,",
+      "confidence": 0.9839349
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2718.05,
+      "end": 2722.79,
+      "text": "you know, we we've always got each other's back. Mhmm. So yeah. No. Fair.",
+      "confidence": 0.95689833
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2725.09,
+      "end": 2728.1501,
+      "text": "What advice do you give to someone like Speed?",
+      "confidence": 0.9830313
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2728.665,
+      "end": 2730.205,
+      "text": "Does he ever ask you for advice?",
+      "confidence": 0.9991484
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2731.305,
+      "end": 2737.165,
+      "text": "Not really. Not really. I think I think he's got it covered. It's kinda one of the things where I don't know.",
+      "confidence": 0.96984476
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2737.465,
+      "end": 2743.645,
+      "text": "You sometimes you don't you feel like you don't need advice. He's gonna just do his thing. Flow state. Yeah. Yeah. Yeah. And,",
+      "confidence": 0.96565413
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2744.06,
+      "end": 2744.64,
+      "text": "you know,",
+      "confidence": 0.99938345
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2745.42,
+      "end": 2747.2,
+      "text": "people normally ask for advice",
+      "confidence": 0.995499
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2747.9,
+      "end": 2748.4,
+      "text": "when",
+      "confidence": 0.9993843
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2749.34,
+      "end": 2750.48,
+      "text": "they're not up anymore,",
+      "confidence": 0.9726443
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2751.1,
+      "end": 2753.28,
+      "text": "if that makes sense. Like, when they're down",
+      "confidence": 0.9923589
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2753.66,
+      "end": 2756.0,
+      "text": "and they're going through it, that's the only one people",
+      "confidence": 0.8731108
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2756.4248,
+      "end": 2759.1648,
+      "text": "ask for help and ask, you know, advice. So,",
+      "confidence": 0.95077854
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2759.785,
+      "end": 2764.365,
+      "text": "you know, if he ever gets that point, I pray he doesn't. But if he ever does,",
+      "confidence": 0.9639253
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2765.1448,
+      "end": 2769.2449,
+      "text": "I'm always there. He yeah. But he will because that's just the nature of content creation.",
+      "confidence": 0.95362693
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2769.56,
+      "end": 2773.82,
+      "text": "Well, yeah. Of course. Of course. Like, yeah. You you you you can be the guy",
+      "confidence": 0.94525003
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2774.44,
+      "end": 2778.7,
+      "text": "for a period of time, and then eventually, you you're not the guy. And then it's like,",
+      "confidence": 0.9665494
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2779.32,
+      "end": 2782.38,
+      "text": "how do you handle that? How do you deal with that? Or,",
+      "confidence": 0.9948029
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2783.225,
+      "end": 2785.245,
+      "text": "yeah, what do you deal with that? And",
+      "confidence": 0.9495051
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2786.0251,
+      "end": 2787.645,
+      "text": "it's kinda just like",
+      "confidence": 0.90510607
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2788.185,
+      "end": 2791.085,
+      "text": "yeah. I mean, I think that's where it's good to just,",
+      "confidence": 0.9843659
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2792.185,
+      "end": 2793.085,
+      "text": "you know, talk",
+      "confidence": 0.95159847
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2793.545,
+      "end": 2797.18,
+      "text": "just talk to people. Talk to people who are experienced and know",
+      "confidence": 0.91661865
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2798.76,
+      "end": 2799.5,
+      "text": "the mistakes",
+      "confidence": 0.99876803
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2800.04,
+      "end": 2801.66,
+      "text": "that have been made in the past",
+      "confidence": 0.9923745
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2802.3599,
+      "end": 2802.8599,
+      "text": "that",
+      "confidence": 0.9367686
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2803.16,
+      "end": 2804.46,
+      "text": "they can learn from.",
+      "confidence": 0.99835086
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2805.3198,
+      "end": 2816.055,
+      "text": "You know, I kinda believe that it's true for any career. Mhmm. Like a football career, content career. I think it happens everywhere. You see a low, but it's about how you handle yourself in that phase.",
+      "confidence": 0.95050603
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2816.355,
+      "end": 2820.055,
+      "text": "Yeah. Yeah. That's that is probably the most important place",
+      "confidence": 0.99844134
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2821.395,
+      "end": 2832.1301,
+      "text": "that the the determines character of a person. You know? When someone's smashing and, you know, killing it in the game and, you know, everything's happening and they're just over the moon and,",
+      "confidence": 0.9194699
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2832.4302,
+      "end": 2839.4102,
+      "text": "you know, getting loads of likes and low getting loads of followers and all this and that. You know? It's how you treat people at that period",
+      "confidence": 0.9376324
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2840.755,
+      "end": 2843.975,
+      "text": "is important because when you get to the low low",
+      "confidence": 0.90462285
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2844.9949,
+      "end": 2845.4949,
+      "text": "period,",
+      "confidence": 0.9875809
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2845.795,
+      "end": 2850.535,
+      "text": "people remember how you were when you're up there. And if you treat people like shit",
+      "confidence": 0.9504541
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2850.9949,
+      "end": 2852.455,
+      "text": "and you are not nice,",
+      "confidence": 0.84765184
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2853.0698,
+      "end": 2860.8499,
+      "text": "then they're gonna take that with you when you're low down there, and they're gonna just not give you an olive branch and not help you at all. So,",
+      "confidence": 0.96079594
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2861.5498,
+      "end": 2862.0498,
+      "text": "ultimately,",
+      "confidence": 0.99788535
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2863.23,
+      "end": 2864.21,
+      "text": "the best advice,",
+      "confidence": 0.98050565
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2865.645,
+      "end": 2870.785,
+      "text": "just be nice to everyone, man. Treat everyone with respect, whether they're the cleaner,",
+      "confidence": 0.9786114
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2871.325,
+      "end": 2873.585,
+      "text": "whether they're they're as a runner,",
+      "confidence": 0.9121366
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2874.045,
+      "end": 2881.3499,
+      "text": "or whether they're a CEO, whether they're the most famous person, or who cares. They're all the same. Yeah. Hustle, loyalty, respect.",
+      "confidence": 0.9066502
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2882.21,
+      "end": 2885.1099,
+      "text": "It's it's it's John Cena. John Cena. Yeah. Yeah.",
+      "confidence": 0.8968543
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2885.57,
+      "end": 2894.63,
+      "text": "It's true, bro. Yeah. Like, you gotta get your clothes torn up a bit before you turn into Super Saiyan two or Super Saiyan two. Yeah. Yeah. Yeah. Yeah. Yeah. You gotta go through some shit.",
+      "confidence": 0.94978344
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2895.365,
+      "end": 2896.825,
+      "text": "Go into the next level.",
+      "confidence": 0.9833137
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2897.285,
+      "end": 2901.785,
+      "text": "JJ Mhmm. We're out of time today. Okay. But I hope to travel to",
+      "confidence": 0.9794033
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2902.4849,
+      "end": 2906.825,
+      "text": "Nigeria maybe. Yeah. Yeah. Yeah. Yeah. On on your second year. This year. For sure.",
+      "confidence": 0.7990415
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2907.125,
+      "end": 2910.63,
+      "text": "I might actually join you. Maybe. Yeah. Maybe. Come through, bro.",
+      "confidence": 0.9691314
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2911.67,
+      "end": 2913.69,
+      "text": "I wanna make you travel in India",
+      "confidence": 0.9993833
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2914.5498,
+      "end": 2919.5298,
+      "text": "a fair bit. I think there's some places you'll really enjoy. Not not this time. Oh, yeah. For sure. I feel like",
+      "confidence": 0.97450787
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2919.91,
+      "end": 2924.565,
+      "text": "yeah. I definitely need to just explore. Well, I mean, I am exploring quite a bit,",
+      "confidence": 0.97046816
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2925.125,
+      "end": 2928.265,
+      "text": "this time around, but I compared to the last",
+      "confidence": 0.9742563
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2928.645,
+      "end": 2948.3901,
+      "text": "time because last time, I just felt very rushed. I felt like I wasn't here for a long time, whereas now this time, I'm here for weeks, so I'm really able to take everything in. Yeah. Dude, I honestly feel travel in India may not be for everyone, but it's definitely for people who ask deep questions to themselves. And you Well, I mean, you know, I always tell my friends, you know, India's a great place. You should come through.",
+      "confidence": 0.9464235
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2949.49,
+      "end": 2950.71,
+      "text": "Not all of them agree.",
+      "confidence": 0.9841267
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2951.25,
+      "end": 2968.84,
+      "text": "Oh, yeah. But it's because they've never been here. I mean, the the idea about India is formed through algorithms. The algorithms show show the most. Yeah. But it's just bullshit, man. Yeah. I've been to India several times, and I love it. And it's great, and I'm gonna keep coming. So I don't I don't care what social media say",
+      "confidence": 0.9042031
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2969.4602,
+      "end": 2977.6401,
+      "text": "or show. You you can I'm here. I'm on the ground, and I love it. You can look at the camera and go, love you, India. Love what? I think",
+      "confidence": 0.9701106
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2978.0452,
+      "end": 2980.385,
+      "text": "I think my bro said India number one",
+      "confidence": 0.9418306
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2980.685,
+      "end": 2981.8252,
+      "text": "when he got here.",
+      "confidence": 0.9563152
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2982.7651,
+      "end": 2993.97,
+      "text": "Lots of fun, Jay. Thank you so much, man. Hope to see you again in life, man. Likewise. Likewise. Take care. Absolute pleasure. Yeah. I hope you had fun. Yeah. I know. It's good. Good talk, Honestly. Thank you guys so much. Thank you. Absolute pleasure.",
+      "confidence": 0.93552023
+    }
+  ]
+}

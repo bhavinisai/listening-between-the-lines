@@ -1,0 +1,6492 @@
+{
+  "total_segments": 719,
+  "speakers": [
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "gender": "male"
+    }
+  ],
+  "segments": [
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 0.08,
+      "end": 1.54,
+      "text": "What's the biggest misunderstanding",
+      "confidence": 0.99809766,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2.08,
+      "end": 29.539999,
+      "text": "about you? Whenever you hear about somebody who's got, you know, ridiculous amounts of money, their values are different than your values. You should be concerned about their agenda. What's your biggest fear? I'll be sad as my brain gets less capable. That disappoints me. Tell me one behavior we all should adopt. Reading a lot, being a student, that's a big part of my success. Richest and most powerful men in the world. Bill Gates has unleashed a technological revolution",
+      "confidence": 0.9827418,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 30.32,
+      "end": 38.34,
+      "text": "that has changed our lives. Bill Gates are 25 and Bill Gates are 70. Any change that you feel personally? In my twenties, being a maniac",
+      "confidence": 0.97608286,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 38.72,
+      "end": 50.114998,
+      "text": "was the right thing. My competitors would say, oh, no. You work too hard. And I'd say, yes. I do. If you're in a race, your twenties when you have no wife and no children, that's the time to do it.",
+      "confidence": 0.9563222,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 52.175,
+      "end": 58.14,
+      "text": "If you get an opportunity to invite three Indians for dinner, who would that be? There was a mathematician,",
+      "confidence": 0.9544007,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 58.92,
+      "end": 59.42,
+      "text": "Ramanujan.",
+      "confidence": 0.9185278,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 59.879997,
+      "end": 63.34,
+      "text": "I would have loved to have met him. Why do you think India is becoming",
+      "confidence": 0.9694302,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 63.719997,
+      "end": 78.505,
+      "text": "a global talent capital for the world? Would hire people from India and bring them to The United States. You know, both The United States and India were kind of mad at us because we were taking, you know, the smart people and moving them. In India, a lot of kids also fight with their parents on inheritance.",
+      "confidence": 0.95862776,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 78.805,
+      "end": 81.065,
+      "text": "Have your kids ever spoken to you?",
+      "confidence": 0.9766749,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 87.689995,
+      "end": 89.549995,
+      "text": "Before we start today's episode,",
+      "confidence": 0.89948636,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 90.009995,
+      "end": 95.229996,
+      "text": "all I want to say is thank you to each and every one of you. I'm really grateful",
+      "confidence": 0.9894569,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 95.85,
+      "end": 96.35,
+      "text": "that",
+      "confidence": 0.99810106,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 97.005,
+      "end": 100.625,
+      "text": "we were able to sit down with one of the most influential",
+      "confidence": 0.997528,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 101.005,
+      "end": 101.505,
+      "text": "men",
+      "confidence": 0.9475671,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 101.885,
+      "end": 102.784996,
+      "text": "in the world",
+      "confidence": 0.99649864,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 103.245,
+      "end": 104.305,
+      "text": "the Bill Gates.",
+      "confidence": 0.69759125,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 105.485,
+      "end": 113.649994,
+      "text": "I have been this young boy who always used to hear stories about this man about the kind of money he has made, the kind of lives he's impacting,",
+      "confidence": 0.9849402,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 113.95,
+      "end": 116.13,
+      "text": "the kind of things he's building through Microsoft.",
+      "confidence": 0.9896986,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 116.99,
+      "end": 117.649994,
+      "text": "From there",
+      "confidence": 0.99314654,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 118.42999,
+      "end": 121.329994,
+      "text": "to be sitting in front of him, it was surreal.",
+      "confidence": 0.9603187,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 121.869995,
+      "end": 127.755,
+      "text": "When I started the conversation you could see it on my face that I was really nervous really scared. I didn't know what to talk about but",
+      "confidence": 0.96030885,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 128.135,
+      "end": 129.995,
+      "text": "as we went in the conversation",
+      "confidence": 0.9920208,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 130.855,
+      "end": 136.31,
+      "text": "the podcaster in me took over and we spoke about his fears, his misunderstandings,",
+      "confidence": 0.9730158,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 137.17,
+      "end": 143.27,
+      "text": "the mission, and what is he doing today. Today, I want you to see this episode from a lens of",
+      "confidence": 0.96515846,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 143.57,
+      "end": 145.99,
+      "text": "a 20 year old sitting with",
+      "confidence": 0.9947167,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 146.37,
+      "end": 147.11,
+      "text": "Bill Gates",
+      "confidence": 0.9920914,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 147.49,
+      "end": 150.39,
+      "text": "and figuring out what goes on in his brain.",
+      "confidence": 0.9975139,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 150.94499,
+      "end": 152.805,
+      "text": "This episode is truly special",
+      "confidence": 0.9992754,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 153.265,
+      "end": 153.765,
+      "text": "because",
+      "confidence": 0.9782326,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 154.305,
+      "end": 156.72499,
+      "text": "I could have never thought that",
+      "confidence": 0.9977017,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 157.185,
+      "end": 159.44499,
+      "text": "Bill Gates will be on our podcast",
+      "confidence": 0.95743555,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 159.825,
+      "end": 163.525,
+      "text": "this soon in our journey. I always had a belief that",
+      "confidence": 0.9957567,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 163.985,
+      "end": 167.48001,
+      "text": "we will be able to sit down with the smartest people",
+      "confidence": 0.9985036,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 168.1,
+      "end": 170.68001,
+      "text": "around the world. Will it happen this soon?",
+      "confidence": 0.94511193,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 172.02,
+      "end": 174.44,
+      "text": "I can't believe this right now.",
+      "confidence": 0.99752444,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 174.98001,
+      "end": 182.295,
+      "text": "I just want you to enjoy this episode the way I did. I want you to sink in that this is happening because it's not sinking in with",
+      "confidence": 0.9730616,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 182.675,
+      "end": 184.935,
+      "text": "me. And I just wanna tell you that",
+      "confidence": 0.93483126,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 185.315,
+      "end": 190.775,
+      "text": "there are more episodes coming, so keep supporting us and hit the subscribe button right now.",
+      "confidence": 0.98065746,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 195.65001,
+      "end": 200.31,
+      "text": "Welcome on Figuring Out, sir. I'll tell you a little story. So during the pandemic,",
+      "confidence": 0.91523176,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 200.93001,
+      "end": 203.99,
+      "text": "me and my sister, we were watching the Netflix documentary",
+      "confidence": 0.98507845,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 204.29001,
+      "end": 205.51001,
+      "text": "inside Bill's brain",
+      "confidence": 0.85343504,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 205.97,
+      "end": 206.47,
+      "text": "and",
+      "confidence": 0.38962048,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 206.77,
+      "end": 209.195,
+      "text": "halfway through it, I told my sister",
+      "confidence": 0.9724061,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 209.735,
+      "end": 213.195,
+      "text": "that, hey, you know what? Like, one day I'll sit with Bill Gates and",
+      "confidence": 0.90800875,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 214.05501,
+      "end": 219.43501,
+      "text": "I'll directly speak to him and get inside his brain. And she's randomly and she was laughing.",
+      "confidence": 0.8944273,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 219.895,
+      "end": 221.195,
+      "text": "So this one's for you.",
+      "confidence": 0.9513933,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 222.56999,
+      "end": 232.83,
+      "text": "You did it. Yeah. So it's it's an opportunity. I don't know how it just came out of my mouth and it's happening today. So thank you so much for doing this. Well,",
+      "confidence": 0.9505716,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 233.20999,
+      "end": 235.15,
+      "text": "you've come to India quite often.",
+      "confidence": 0.9590714,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 236.145,
+      "end": 237.125,
+      "text": "Tell me something",
+      "confidence": 0.99594086,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 237.505,
+      "end": 239.765,
+      "text": "that you've observed about India, which",
+      "confidence": 0.95599174,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 240.065,
+      "end": 242.725,
+      "text": "a lot of people don't know about. Well, people probably,",
+      "confidence": 0.97950137,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 244.38501,
+      "end": 246.325,
+      "text": "you know, because they're here all the time.",
+      "confidence": 0.90460205,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 246.785,
+      "end": 252.87,
+      "text": "You know, they probably don't recognize how much things have changed. And if you go away and come back, then you see, wow,",
+      "confidence": 0.94613165,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 253.17,
+      "end": 253.83,
+      "text": "you know,",
+      "confidence": 0.9955473,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 254.37,
+      "end": 255.75,
+      "text": "the level of entrepreneurship",
+      "confidence": 0.99952924,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 256.29,
+      "end": 257.03,
+      "text": "and the,",
+      "confidence": 0.95141435,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 258.37,
+      "end": 262.39,
+      "text": "you know, the amount of innovation that's actually taking place here,",
+      "confidence": 0.98004186,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 263.25,
+      "end": 264.755,
+      "text": "it's pretty fantastic.",
+      "confidence": 0.99075156,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 265.615,
+      "end": 266.115,
+      "text": "And,",
+      "confidence": 0.9748107,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 266.415,
+      "end": 269.315,
+      "text": "you know, for the foundation, we've been here originally,",
+      "confidence": 0.97516537,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 270.57498,
+      "end": 273.63498,
+      "text": "because a lot of the health challenges were here,",
+      "confidence": 0.97344124,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 274.01498,
+      "end": 276.595,
+      "text": "and we still care a lot about that. But,",
+      "confidence": 0.9886051,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 277.13498,
+      "end": 278.35498,
+      "text": "now a lot of our",
+      "confidence": 0.98475397,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 278.97,
+      "end": 279.47,
+      "text": "invention",
+      "confidence": 0.9965622,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 279.84998,
+      "end": 281.78998,
+      "text": "is being done here, whether it's,",
+      "confidence": 0.9673338,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 282.49,
+      "end": 283.31,
+      "text": "well, vaccines,",
+      "confidence": 0.8890969,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 283.77,
+      "end": 284.27,
+      "text": "obviously,",
+      "confidence": 0.93416053,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 285.28998,
+      "end": 290.11,
+      "text": "we have some incredible partnerships, but it's broadening to, you know,",
+      "confidence": 0.9852058,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 290.41,
+      "end": 292.34998,
+      "text": "better seeds, better diagnostics,",
+      "confidence": 0.9929241,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 293.88498,
+      "end": 296.145,
+      "text": "you know, the ways that we can use AI,",
+      "confidence": 0.99803185,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 296.845,
+      "end": 298.145,
+      "text": "for health or education.",
+      "confidence": 0.98962355,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 299.16498,
+      "end": 299.82498,
+      "text": "So the,",
+      "confidence": 0.9683026,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 300.925,
+      "end": 301.425,
+      "text": "innovation",
+      "confidence": 0.99897987,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 302.04498,
+      "end": 304.54498,
+      "text": "ecosystem has really exploded, and that's",
+      "confidence": 0.9660247,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 304.845,
+      "end": 315.03,
+      "text": "gonna be great for India. It's gonna be great for the world. So when you meet other leaders around the world or when you meet your your billionaire friends, what's the first thing you tell them about India?",
+      "confidence": 0.9637087,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 315.65,
+      "end": 317.66998,
+      "text": "Is it the same thing that what you just told me?",
+      "confidence": 0.9191273,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 319.09,
+      "end": 319.59,
+      "text": "Yeah.",
+      "confidence": 0.7326839,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 321.33,
+      "end": 323.625,
+      "text": "It's, you know, we've had such a great",
+      "confidence": 0.8977288,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 324.505,
+      "end": 325.005,
+      "text": "experience,",
+      "confidence": 0.95496637,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 325.505,
+      "end": 327.005,
+      "text": "in our work in India.",
+      "confidence": 0.9926392,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 328.425,
+      "end": 332.045,
+      "text": "You know, I encourage people to come and tap into,",
+      "confidence": 0.9812263,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 332.905,
+      "end": 333.865,
+      "text": "the great things,",
+      "confidence": 0.9878702,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 334.265,
+      "end": 335.085,
+      "text": "going on.",
+      "confidence": 0.9996228,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 336.05,
+      "end": 339.35,
+      "text": "Is there anything specific you tell them? Well, you know, my",
+      "confidence": 0.97893196,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 339.73,
+      "end": 345.35,
+      "text": "connection with India goes all the way back to the Microsoft days Yeah. When, you know, we, at first,",
+      "confidence": 0.9570914,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 345.73,
+      "end": 356.375,
+      "text": "would hire people from India and bring them to The United States. And, you know, both The United States and India were kinda mad at us because we were taking, you know, the smart people and moving them. And,",
+      "confidence": 0.9693503,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 357.235,
+      "end": 360.755,
+      "text": "you know, then they came back here to India and created the Microsoft India,",
+      "confidence": 0.9824454,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 362.3,
+      "end": 365.12,
+      "text": "work, which is, you know, been absolutely fantastic.",
+      "confidence": 0.9620497,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 365.98,
+      "end": 370.96,
+      "text": "So, you know, up until the year 2000, I mainly knew the tech,",
+      "confidence": 0.9901446,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 372.14,
+      "end": 374.08,
+      "text": "scene. So, you know, a lot of",
+      "confidence": 0.94820076,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 374.46,
+      "end": 375.68,
+      "text": "Bangalore, Hyderabad,",
+      "confidence": 0.9199034,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 377.32498,
+      "end": 383.745,
+      "text": "Seeing the country more broadly, you know, that's in my foundation work. So, you know, Bihar, UP,",
+      "confidence": 0.9772204,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 385.805,
+      "end": 386.785,
+      "text": "you know, seeing,",
+      "confidence": 0.9376014,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 387.16498,
+      "end": 390.54498,
+      "text": "you know, where we could partner and and help with things.",
+      "confidence": 0.9636805,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 391.87997,
+      "end": 396.13998,
+      "text": "You know, I still wanna take more vacation here. I've done it a little bit, but,",
+      "confidence": 0.9325137,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 396.68,
+      "end": 403.74,
+      "text": "you know, there's a lot of great places in India that I haven't been to. Talking about Microsoft and taking people from here to US,",
+      "confidence": 0.9952834,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 404.925,
+      "end": 406.625,
+      "text": "people like Satya Della,",
+      "confidence": 0.8324959,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 407.405,
+      "end": 408.305,
+      "text": "Sundar Pichai,",
+      "confidence": 0.8457499,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 408.845,
+      "end": 411.905,
+      "text": "there have been incredible CEOs around the world.",
+      "confidence": 0.89639103,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 412.44498,
+      "end": 414.38498,
+      "text": "Why do you think India is becoming",
+      "confidence": 0.9628137,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 414.925,
+      "end": 421.15002,
+      "text": "a global talent capital for the world? Do you think anything special here of which is out there?",
+      "confidence": 0.9677327,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 422.17,
+      "end": 423.79,
+      "text": "Well, you know, 20%",
+      "confidence": 0.99793637,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 424.73,
+      "end": 429.95,
+      "text": "of the world's people live here in India. And India's had a particular emphasis on,",
+      "confidence": 0.9774846,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 430.44498,
+      "end": 431.26498,
+      "text": "you know, engineering,",
+      "confidence": 0.93189734,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 432.205,
+      "end": 432.705,
+      "text": "software,",
+      "confidence": 0.9938874,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 433.005,
+      "end": 436.22498,
+      "text": "you know, and turned out a lot of top people.",
+      "confidence": 0.9923714,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 436.685,
+      "end": 438.625,
+      "text": "And so when you get people like",
+      "confidence": 0.9952003,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 439.005,
+      "end": 443.10498,
+      "text": "Sundar Satya, who are both great at engineering and management,",
+      "confidence": 0.9260882,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 443.98,
+      "end": 445.84,
+      "text": "you know, that's a a magic,",
+      "confidence": 0.94135624,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 446.86002,
+      "end": 447.36002,
+      "text": "combination.",
+      "confidence": 0.927617,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 448.38,
+      "end": 448.88,
+      "text": "And,",
+      "confidence": 0.9620459,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 449.58002,
+      "end": 452.24002,
+      "text": "you know, so they you know, these companies,",
+      "confidence": 0.99295247,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 452.86002,
+      "end": 455.52002,
+      "text": "you know, are looking anywhere in the world to find,",
+      "confidence": 0.9887924,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 456.94,
+      "end": 459.92502,
+      "text": "that mix. And, you know, so India's getting",
+      "confidence": 0.9075837,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 460.465,
+      "end": 463.685,
+      "text": "about its fair share of those top leadership positions.",
+      "confidence": 0.97080994,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 464.30502,
+      "end": 466.245,
+      "text": "And, you know, it partly comes from having",
+      "confidence": 0.9820235,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 466.545,
+      "end": 467.445,
+      "text": "great universities,",
+      "confidence": 0.9650437,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 469.02502,
+      "end": 472.48502,
+      "text": "you know, not just the IITs, but starting with them,",
+      "confidence": 0.9750923,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 473.97,
+      "end": 475.19,
+      "text": "you know, that's",
+      "confidence": 0.8911355,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 475.65,
+      "end": 478.55,
+      "text": "using the incredible talent that's here.",
+      "confidence": 0.9915318,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 479.57,
+      "end": 481.51,
+      "text": "So talking about Indian talent,",
+      "confidence": 0.99326,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 482.53,
+      "end": 488.31,
+      "text": "you do a lot of philanthropy work here, and you've met a lot of talented people here, a lot of",
+      "confidence": 0.9826668,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 488.625,
+      "end": 490.165,
+      "text": "rich people here as well.",
+      "confidence": 0.97180843,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 491.42502,
+      "end": 507.81,
+      "text": "Do you and you believe that all the money that rich people have or, like, people who have made well for themselves, they should use it for charity work. They should pledge it. In India, there's a usually lot of people believe that as parents is their duty to save everything for their kids",
+      "confidence": 0.93286777,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 508.11002,
+      "end": 514.45,
+      "text": "for the inheritance, right? Like the kids will get everything. What do you think is the right mindset using all the money for",
+      "confidence": 0.90560555,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 515.09503,
+      "end": 518.795,
+      "text": "pledging and giving it back to the society or giving it to the children?",
+      "confidence": 0.9622008,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 520.135,
+      "end": 521.115,
+      "text": "Well, I think,",
+      "confidence": 0.93597335,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 521.575,
+      "end": 525.195,
+      "text": "you know, everybody gets to decide on that. You know, in my case,",
+      "confidence": 0.9690742,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 525.575,
+      "end": 526.555,
+      "text": "you know, my kids",
+      "confidence": 0.9826,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 527.495,
+      "end": 527.97,
+      "text": "got",
+      "confidence": 0.9850108,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 529.81,
+      "end": 530.55,
+      "text": "a great",
+      "confidence": 0.9868375,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 531.32996,
+      "end": 533.58997,
+      "text": "upbringing in education, but, you know,",
+      "confidence": 0.8930237,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 533.97,
+      "end": 535.35,
+      "text": "less than 1%",
+      "confidence": 0.9989417,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 535.41,
+      "end": 536.06995,
+      "text": "of the,",
+      "confidence": 0.967332,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 537.64996,
+      "end": 538.79,
+      "text": "the total wealth,",
+      "confidence": 0.9676941,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 539.73,
+      "end": 551.46497,
+      "text": "because I decided it wouldn't be a favor to them. You You know, it's not a dynasty. You know, I'm not asking them to run Microsoft. I wanna give them a chance to have their own earnings and success,",
+      "confidence": 0.9697972,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 552.005,
+      "end": 555.14496,
+      "text": "you know, be significant and not overshadowed by",
+      "confidence": 0.9670862,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 555.605,
+      "end": 556.98,
+      "text": "the incredible luck",
+      "confidence": 0.99897295,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 557.54,
+      "end": 561.88,
+      "text": "and good fortune I had. And different families see that differently. I think the",
+      "confidence": 0.98887366,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 562.33997,
+      "end": 563.48,
+      "text": "people who've made,",
+      "confidence": 0.96335083,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 564.26,
+      "end": 565.48,
+      "text": "fortunes from technology",
+      "confidence": 0.99967265,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 566.5,
+      "end": 567.72,
+      "text": "are less dynastic,",
+      "confidence": 0.9414112,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 569.54,
+      "end": 571.39996,
+      "text": "and, you know, so they",
+      "confidence": 0.956085,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 571.945,
+      "end": 575.005,
+      "text": "they'll even, you know, take their capital",
+      "confidence": 0.9983155,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 575.625,
+      "end": 581.165,
+      "text": "and give a lot of that away. You can have the view of giving away your capital or just giving away your earnings.",
+      "confidence": 0.9743067,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 582.425,
+      "end": 584.52496,
+      "text": "And and, of course, I love all philanthropy,",
+      "confidence": 0.94441986,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 585.69,
+      "end": 588.91003,
+      "text": "but the tech sector is the probably the most aggressive",
+      "confidence": 0.983562,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 589.29004,
+      "end": 589.79004,
+      "text": "about,",
+      "confidence": 0.99647605,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 591.29004,
+      "end": 593.55005,
+      "text": "you know, giving most of it away.",
+      "confidence": 0.99238425,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 594.01,
+      "end": 602.145,
+      "text": "And are there other sectors you have not seen that in any other kind of industry where people try to give Not not to the same degree. It tends to be,",
+      "confidence": 0.9318687,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 602.925,
+      "end": 606.865,
+      "text": "giving more, you know, of the giving some portion of the profit",
+      "confidence": 0.99326795,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 607.725,
+      "end": 608.945,
+      "text": "as opposed to,",
+      "confidence": 0.9276027,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 610.125,
+      "end": 611.985,
+      "text": "the the actual base capital.",
+      "confidence": 0.9785182,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 612.445,
+      "end": 614.0,
+      "text": "You know, in India,",
+      "confidence": 0.96017694,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 614.7,
+      "end": 618.24,
+      "text": "a lot of kids also fight their with their parents on the inheritance.",
+      "confidence": 0.9508846,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 618.54004,
+      "end": 624.96,
+      "text": "Have your kids ever spoken to you and be like, hey, why are you not giving us everything or anything? Has it ever happened?",
+      "confidence": 0.950387,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 626.785,
+      "end": 629.605,
+      "text": "You know, you don't want your kids to ever be confused",
+      "confidence": 0.9883859,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 630.785,
+      "end": 636.08496,
+      "text": "about your support for them and your love for them. And so I do think explaining early on",
+      "confidence": 0.98693615,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 637.02496,
+      "end": 637.845,
+      "text": "your philosophy,",
+      "confidence": 0.8830754,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 639.105,
+      "end": 641.54,
+      "text": "you know, that you're gonna treat them all equally,",
+      "confidence": 0.9082165,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 642.48,
+      "end": 644.82,
+      "text": "and that you're gonna give them incredible opportunities,",
+      "confidence": 0.95625234,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 646.24,
+      "end": 648.57996,
+      "text": "but that, you know, the highest calling,",
+      "confidence": 0.98821557,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 649.44,
+      "end": 650.5,
+      "text": "for these resources",
+      "confidence": 0.99428576,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 650.88,
+      "end": 651.38,
+      "text": "is,",
+      "confidence": 0.96663225,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 652.24,
+      "end": 653.22,
+      "text": "to go back,",
+      "confidence": 0.9377985,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 654.54504,
+      "end": 655.36505,
+      "text": "to the neediest",
+      "confidence": 0.99960655,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 656.065,
+      "end": 657.125,
+      "text": "through the foundation.",
+      "confidence": 0.92321604,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 657.66504,
+      "end": 662.72504,
+      "text": "And, you know, they've seen the success of the foundation. I hope they're very proud",
+      "confidence": 0.9849828,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 663.42505,
+      "end": 665.42505,
+      "text": "of of the foundation. And,",
+      "confidence": 0.94349754,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 667.585,
+      "end": 668.085,
+      "text": "so,",
+      "confidence": 0.94261134,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 668.86,
+      "end": 672.4,
+      "text": "you know, I I've seen cases where kids actually tell their parents",
+      "confidence": 0.97487265,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 672.78,
+      "end": 673.84,
+      "text": "to be more philanthropic.",
+      "confidence": 0.98868084,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 674.22003,
+      "end": 676.88,
+      "text": "You know, I think the younger generation sometimes actually,",
+      "confidence": 0.97599536,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 678.38,
+      "end": 681.28,
+      "text": "is pushing against this idea of of,",
+      "confidence": 0.98580265,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 683.02,
+      "end": 685.92505,
+      "text": "you know, the wealth just being passed down,",
+      "confidence": 0.9461478,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 687.025,
+      "end": 687.525,
+      "text": "mostly.",
+      "confidence": 0.93125665,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 689.825,
+      "end": 699.92505,
+      "text": "And So that's So to, you know, every family is a a bit different. I have last question on India, and then we'll get to the foundation work and try to understand you as well.",
+      "confidence": 0.93444794,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 700.98004,
+      "end": 702.36005,
+      "text": "If you get an opportunity",
+      "confidence": 0.99795115,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 703.94,
+      "end": 705.64,
+      "text": "to invite three Indians",
+      "confidence": 0.9674009,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 706.26,
+      "end": 707.08,
+      "text": "for dinner,",
+      "confidence": 0.9581578,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 707.7,
+      "end": 709.96,
+      "text": "dead or alive, who would that be?",
+      "confidence": 0.97287464,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 711.78,
+      "end": 714.68,
+      "text": "Well, I get to spend time with, you know, some incredible,",
+      "confidence": 0.98834133,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 715.995,
+      "end": 720.815,
+      "text": "people in India and, you know, I get time with the prime minister and understand his vision,",
+      "confidence": 0.9560724,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 722.15497,
+      "end": 725.695,
+      "text": "and how we fit into that. This, you know, 2047,",
+      "confidence": 0.96862376,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 727.595,
+      "end": 732.86005,
+      "text": "thing that, you know, everything is lining up to try to achieve that. You know, I get to meet,",
+      "confidence": 0.9807419,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 733.9,
+      "end": 739.60004,
+      "text": "there was a great scientist, Raj Baughn, who created the, Department of Biotechnology.",
+      "confidence": 0.90875566,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 741.34,
+      "end": 742.32,
+      "text": "There was a mathematician,",
+      "confidence": 0.96258366,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 743.10004,
+      "end": 743.60004,
+      "text": "Ramanujan,",
+      "confidence": 0.9888205,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 745.15497,
+      "end": 747.975,
+      "text": "who I would have loved to have met him because he was,",
+      "confidence": 0.9528188,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 748.995,
+      "end": 750.615,
+      "text": "you know, almost mysterious",
+      "confidence": 0.9665488,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 750.995,
+      "end": 752.13495,
+      "text": "how he was so",
+      "confidence": 0.98310894,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 752.675,
+      "end": 755.475,
+      "text": "genius at what he was able to do.",
+      "confidence": 0.99346614,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 757.15497,
+      "end": 758.295,
+      "text": "You know, the,",
+      "confidence": 0.813703,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 758.74,
+      "end": 762.68,
+      "text": "I got to work with Rotten Todd. I'm getting to work with all of the,",
+      "confidence": 0.9641427,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 763.94,
+      "end": 765.16003,
+      "text": "amazing philanthropists",
+      "confidence": 0.9918306,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 765.54004,
+      "end": 766.04004,
+      "text": "and,",
+      "confidence": 0.871291,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 766.82,
+      "end": 770.12,
+      "text": "a lot of the innovators here. You know, I get to see small companies",
+      "confidence": 0.98047006,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 770.5,
+      "end": 772.12,
+      "text": "early on. I just went through,",
+      "confidence": 0.9621642,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 772.935,
+      "end": 773.895,
+      "text": "some of these,",
+      "confidence": 0.92014503,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 774.29504,
+      "end": 775.675,
+      "text": "companies using AI",
+      "confidence": 0.9944003,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 775.97504,
+      "end": 776.715,
+      "text": "in health.",
+      "confidence": 0.88489366,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 777.41504,
+      "end": 779.515,
+      "text": "Some prop for profit, a few,",
+      "confidence": 0.77167624,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 780.615,
+      "end": 781.115,
+      "text": "nonprofit.",
+      "confidence": 0.55325997,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 783.09503,
+      "end": 784.955,
+      "text": "You know, we had a great twenty fifth,",
+      "confidence": 0.97940046,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 787.64,
+      "end": 791.42,
+      "text": "twenty five year celebration and this great, sitar artist,",
+      "confidence": 0.90387547,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 791.88,
+      "end": 795.58,
+      "text": "you know, came and, that was a pretty special thing.",
+      "confidence": 0.96290433,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 796.12,
+      "end": 799.74,
+      "text": "So it'd be hard for me to pick. There's there's, so many",
+      "confidence": 0.9495714,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 800.115,
+      "end": 802.695,
+      "text": "incredible talents. You can't pick three.",
+      "confidence": 0.98546296,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 803.875,
+      "end": 805.415,
+      "text": "I I I think I defend,",
+      "confidence": 0.87703824,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 805.955,
+      "end": 806.615,
+      "text": "some people",
+      "confidence": 0.9996887,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 808.835,
+      "end": 810.135,
+      "text": "by not including them.",
+      "confidence": 0.81293917,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 810.675,
+      "end": 811.655,
+      "text": "Fair. Fair.",
+      "confidence": 0.9257156,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 812.915,
+      "end": 815.1,
+      "text": "You were talking about small companies. If",
+      "confidence": 0.8458781,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 815.81995,
+      "end": 817.92,
+      "text": "you were to start something from zero",
+      "confidence": 0.98623115,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 818.45996,
+      "end": 819.83997,
+      "text": "in India today, where",
+      "confidence": 0.91122705,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 821.1,
+      "end": 821.75995,
+      "text": "would you",
+      "confidence": 0.99420375,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 822.13995,
+      "end": 827.6,
+      "text": "put most of your time? And what the first step you'll take? Well, you'd mostly start a company because you think",
+      "confidence": 0.91805977,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 828.065,
+      "end": 834.245,
+      "text": "you enjoy working on something and you think you have a world class understanding of, you know, a unique contribution.",
+      "confidence": 0.97549593,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 835.105,
+      "end": 836.885,
+      "text": "You know, for me, that was software.",
+      "confidence": 0.9585251,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 837.665,
+      "end": 840.485,
+      "text": "For this day and age, you know, if you think you understand,",
+      "confidence": 0.99647015,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 840.84,
+      "end": 841.82,
+      "text": "you know, fusion,",
+      "confidence": 0.99360436,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 843.0,
+      "end": 845.66003,
+      "text": "you know, that's great. If you're successful, which,",
+      "confidence": 0.98061144,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 846.2,
+      "end": 847.10004,
+      "text": "that's risky,",
+      "confidence": 0.99104714,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 848.60004,
+      "end": 853.18005,
+      "text": "you know, you could really improve the world. You know, AI is sort of the",
+      "confidence": 0.9926129,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 854.275,
+      "end": 858.135,
+      "text": "today's equivalent of what I did when I was young to see,",
+      "confidence": 0.98813033,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 858.515,
+      "end": 861.095,
+      "text": "you know, wow, the possibilities",
+      "confidence": 0.9828437,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 861.555,
+      "end": 862.055,
+      "text": "are",
+      "confidence": 0.9996871,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 862.435,
+      "end": 862.935,
+      "text": "unlimited.",
+      "confidence": 0.9892653,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 864.435,
+      "end": 866.775,
+      "text": "And so, you know, I'd probably be doing,",
+      "confidence": 0.9886147,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 867.75,
+      "end": 874.49005,
+      "text": "one of these new AI companies if I was starting out today. Is it do you still feel there's opportunity,",
+      "confidence": 0.96701336,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 874.87006,
+      "end": 878.89,
+      "text": "a lot of opportunities in AI to build something as significant as what you have built",
+      "confidence": 0.95709556,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 879.285,
+      "end": 881.46497,
+      "text": "or it's pretty late? Well,",
+      "confidence": 0.96952677,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 882.005,
+      "end": 883.225,
+      "text": "you know, the big companies",
+      "confidence": 0.9851921,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 883.685,
+      "end": 884.185,
+      "text": "are,",
+      "confidence": 0.92044675,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 885.52496,
+      "end": 887.46497,
+      "text": "putting a lot of money into it.",
+      "confidence": 0.949173,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 888.885,
+      "end": 890.745,
+      "text": "And the number of companies globally",
+      "confidence": 0.9902825,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 891.845,
+      "end": 905.29,
+      "text": "is is, you know, huge. I mean, you know, many people didn't even know these Chinese companies who were doing all this work and yet Yeah. You know, some of the best results over the last six months have come from three or four of the models there.",
+      "confidence": 0.96404696,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 905.67,
+      "end": 906.645,
+      "text": "So it's not,",
+      "confidence": 0.931128,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 907.205,
+      "end": 918.905,
+      "text": "when I got going in computing, it was a very small set of people. And, you know, people thought we were crazy that there we set a computer on every desk and a computer in every home.",
+      "confidence": 0.94554436,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 919.41,
+      "end": 925.82996,
+      "text": "And that just seemed strange to people because they couldn't see the they didn't get software and they didn't get the,",
+      "confidence": 0.9337952,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 926.76996,
+      "end": 927.26996,
+      "text": "exponential",
+      "confidence": 0.9995203,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 927.57,
+      "end": 928.07,
+      "text": "improvement",
+      "confidence": 0.9991398,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 928.76996,
+      "end": 932.14996,
+      "text": "of the chips was making computing, you know, basically",
+      "confidence": 0.9777759,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 932.52997,
+      "end": 933.02997,
+      "text": "free.",
+      "confidence": 0.977595,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 933.88995,
+      "end": 936.255,
+      "text": "So it's I'd say it's tougher,",
+      "confidence": 0.9692512,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 939.035,
+      "end": 940.415,
+      "text": "to get out in front.",
+      "confidence": 0.99158925,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 940.875,
+      "end": 941.195,
+      "text": "Mhmm.",
+      "confidence": 0.98793066,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 941.915,
+      "end": 944.495,
+      "text": "There will be new companies. I mean, Nvidia,",
+      "confidence": 0.96196485,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 944.875,
+      "end": 947.455,
+      "text": "you know, is almost as valuable as,",
+      "confidence": 0.9734282,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 948.075,
+      "end": 949.21497,
+      "text": "Apple and Microsoft.",
+      "confidence": 0.91727805,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 950.15497,
+      "end": 951.055,
+      "text": "And yet,",
+      "confidence": 0.99377465,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 952.37006,
+      "end": 953.11005,
+      "text": "you know, they,",
+      "confidence": 0.9152033,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 953.57,
+      "end": 954.07,
+      "text": "they,",
+      "confidence": 0.95669997,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 954.45,
+      "end": 959.11005,
+      "text": "you know, came into prominence only really in the last five or six years, although they're about",
+      "confidence": 0.9908363,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 959.57,
+      "end": 962.23004,
+      "text": "15 years old. So there are opportunities",
+      "confidence": 0.99710447,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 962.61005,
+      "end": 966.63,
+      "text": "and there will be some new companies that use AI,",
+      "confidence": 0.97759783,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 967.595,
+      "end": 972.255,
+      "text": "to achieve unbelievable success, but it'll be, you know, two or three out of 10,000.",
+      "confidence": 0.98054,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 972.875,
+      "end": 975.375,
+      "text": "And, you know, would I be able to do that again?",
+      "confidence": 0.9908915,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 975.83496,
+      "end": 978.33496,
+      "text": "Hard to say. You talked about,",
+      "confidence": 0.8004958,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 978.795,
+      "end": 993.08,
+      "text": "like, when you started, a lot of people thought that, oh, what are you doing? This is some random thing these guys are trying to do. They may be stupid. They may be thinking too big. Whatever. Right? And over the time, every time you do something big, usually",
+      "confidence": 0.9358246,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 993.7,
+      "end": 994.2,
+      "text": "people",
+      "confidence": 0.51754904,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 995.075,
+      "end": 1000.775,
+      "text": "do not understand you or anyone, like, not just you, like, whoever wants to start something new and big.",
+      "confidence": 0.92289984,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1001.475,
+      "end": 1005.575,
+      "text": "In today's world, or as of today, what's the biggest misunderstanding",
+      "confidence": 0.8996382,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1006.195,
+      "end": 1007.01,
+      "text": "about you?",
+      "confidence": 0.9939525,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1008.05,
+      "end": 1011.27,
+      "text": "What do you think? What do people misunderstand about Bill Gates?",
+      "confidence": 0.9943089,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1011.89,
+      "end": 1014.15,
+      "text": "Well, whenever you hear about somebody who's got,",
+      "confidence": 0.98825276,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1014.69,
+      "end": 1017.27,
+      "text": "you know, some degree of power or,",
+      "confidence": 0.98473054,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1017.89,
+      "end": 1020.07,
+      "text": "you know, ridiculous amounts of money,",
+      "confidence": 0.98838216,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1020.975,
+      "end": 1023.875,
+      "text": "you know, might you might think they have grand schemes,",
+      "confidence": 0.9624337,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1024.735,
+      "end": 1025.875,
+      "text": "you know, and they're,",
+      "confidence": 0.890739,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1027.2949,
+      "end": 1032.355,
+      "text": "you know, there's almost a sense that, you know, their their values are different",
+      "confidence": 0.9704172,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1032.895,
+      "end": 1037.63,
+      "text": "than your values and, you know, that you should be concerned about their agenda.",
+      "confidence": 0.9702517,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1039.29,
+      "end": 1040.1901,
+      "text": "You know, hopefully,",
+      "confidence": 0.928835,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1040.65,
+      "end": 1042.67,
+      "text": "for the people who actually do know me,",
+      "confidence": 0.9983674,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1043.6901,
+      "end": 1045.31,
+      "text": "you know, and how much I love,",
+      "confidence": 0.9919538,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1046.01,
+      "end": 1046.75,
+      "text": "the foundation",
+      "confidence": 0.96940213,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1047.05,
+      "end": 1050.885,
+      "text": "work and, you know, how I work with my friends or my kids,",
+      "confidence": 0.97465336,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1051.8251,
+      "end": 1053.2051,
+      "text": "you know, it's very different",
+      "confidence": 0.99864113,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1053.665,
+      "end": 1059.685,
+      "text": "from the people who just think, oh, wow. You know, he's one of these guys who's, you know, pushing levers and,",
+      "confidence": 0.9851076,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1060.7051,
+      "end": 1063.23,
+      "text": "has has too much money and and too much,",
+      "confidence": 0.9814618,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1064.03,
+      "end": 1064.53,
+      "text": "authority.",
+      "confidence": 0.988317,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1065.39,
+      "end": 1066.61,
+      "text": "So that people misunderstand",
+      "confidence": 0.9352895,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1066.99,
+      "end": 1067.73,
+      "text": "about you.",
+      "confidence": 0.8879466,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1069.23,
+      "end": 1074.77,
+      "text": "And tell you on misunderstanding, do you have you made any major mistake that people don't know about?",
+      "confidence": 0.90881526,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1075.8949,
+      "end": 1078.5549,
+      "text": "Well, some of my mistakes are very public. I mean, Microsoft,",
+      "confidence": 0.9976362,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1079.815,
+      "end": 1085.115,
+      "text": "you know, we had lots of products that didn't work. You know, we did a a phone operating system, and now,",
+      "confidence": 0.9745032,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1085.8949,
+      "end": 1086.955,
+      "text": "you know, Android,",
+      "confidence": 0.9974676,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1087.335,
+      "end": 1089.9149,
+      "text": "you know, took that position. So I certainly,",
+      "confidence": 0.9944366,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1090.46,
+      "end": 1092.24,
+      "text": "you know, messed that up,",
+      "confidence": 0.99150693,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1094.78,
+      "end": 1096.64,
+      "text": "in a huge way.",
+      "confidence": 0.848899,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1097.26,
+      "end": 1098.08,
+      "text": "For the foundation,",
+      "confidence": 0.93366647,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1098.7,
+      "end": 1101.84,
+      "text": "you know, we often have multiple plans. You know, we",
+      "confidence": 0.9787203,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1102.22,
+      "end": 1104.08,
+      "text": "wanted to have an HIV vaccine.",
+      "confidence": 0.95218295,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1105.145,
+      "end": 1108.6849,
+      "text": "We don't have that yet. You know, we're working on a very cheap",
+      "confidence": 0.9963327,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1109.065,
+      "end": 1111.645,
+      "text": "toilet, but it's still too expensive.",
+      "confidence": 0.9518661,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1112.265,
+      "end": 1114.6849,
+      "text": "So that's taking a lot longer. We don't have polio",
+      "confidence": 0.9908641,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1115.225,
+      "end": 1116.845,
+      "text": "eradication done. I'm still,",
+      "confidence": 0.97002625,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1117.865,
+      "end": 1121.19,
+      "text": "very committed to that, but it's taking a lot longer,",
+      "confidence": 0.9652425,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1122.0499,
+      "end": 1123.83,
+      "text": "than than we thought it would.",
+      "confidence": 0.9623194,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1124.13,
+      "end": 1127.0299,
+      "text": "So do you talking about Foundation work, you've",
+      "confidence": 0.77988446,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1127.49,
+      "end": 1129.51,
+      "text": "impacted millions of life",
+      "confidence": 0.9902953,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1129.89,
+      "end": 1134.07,
+      "text": "and you spend a lot in making people's life better.",
+      "confidence": 0.94903743,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1134.985,
+      "end": 1136.6849,
+      "text": "What's your biggest challenge today?",
+      "confidence": 0.9718463,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1137.625,
+      "end": 1138.125,
+      "text": "Because",
+      "confidence": 0.9899283,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1138.585,
+      "end": 1139.085,
+      "text": "somebody",
+      "confidence": 0.97173125,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1139.865,
+      "end": 1145.085,
+      "text": "on somebody who's watching this might think that at your level with so much",
+      "confidence": 0.94700325,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1145.785,
+      "end": 1149.245,
+      "text": "power influence money. You can actually fix a lot of problems.",
+      "confidence": 0.9498165,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1149.62,
+      "end": 1153.0,
+      "text": "What do you think is your problem? Like, what challenges do you see here?",
+      "confidence": 0.97267455,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1153.9401,
+      "end": 1155.4,
+      "text": "Well, I'm I love the",
+      "confidence": 0.92921126,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1155.9401,
+      "end": 1158.36,
+      "text": "scientific challenges. I mean, we still don't",
+      "confidence": 0.9938523,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1158.8201,
+      "end": 1159.64,
+      "text": "fully understand",
+      "confidence": 0.9995501,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1160.26,
+      "end": 1160.76,
+      "text": "malnutrition.",
+      "confidence": 0.9838042,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1162.115,
+      "end": 1165.735,
+      "text": "We have some tools to reduce it that it's super exciting.",
+      "confidence": 0.9252144,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1166.755,
+      "end": 1168.6951,
+      "text": "But, you know, I'm really pushing our",
+      "confidence": 0.979673,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1169.235,
+      "end": 1169.735,
+      "text": "research",
+      "confidence": 0.99845004,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1170.035,
+      "end": 1170.535,
+      "text": "workers,",
+      "confidence": 0.9276197,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1171.875,
+      "end": 1172.855,
+      "text": "hard that,",
+      "confidence": 0.900792,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1173.155,
+      "end": 1177.3351,
+      "text": "okay, you know, we need we need to know more about that.",
+      "confidence": 0.97359324,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1178.17,
+      "end": 1179.39,
+      "text": "You know, I do think",
+      "confidence": 0.993982,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1179.6901,
+      "end": 1183.63,
+      "text": "getting money to help the very poorest countries, a lot of which are in Africa.",
+      "confidence": 0.96761155,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1183.93,
+      "end": 1184.91,
+      "text": "You know, Asia,",
+      "confidence": 0.9711006,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1185.45,
+      "end": 1186.03,
+      "text": "you know,",
+      "confidence": 0.99063,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1187.53,
+      "end": 1190.75,
+      "text": "many of the countries are having good economic",
+      "confidence": 0.99903166,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1191.05,
+      "end": 1192.67,
+      "text": "growth. And and Africa",
+      "confidence": 0.8735491,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1193.645,
+      "end": 1194.445,
+      "text": "has a lot of unique,",
+      "confidence": 0.9922272,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1196.5249,
+      "end": 1197.0249,
+      "text": "governments",
+      "confidence": 0.5219077,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1197.325,
+      "end": 1198.385,
+      "text": "or instability",
+      "confidence": 0.93868786,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1199.4049,
+      "end": 1201.585,
+      "text": "or disease challenges. And so",
+      "confidence": 0.95343935,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1202.9249,
+      "end": 1205.825,
+      "text": "telling people they should, you know, help out,",
+      "confidence": 0.9471607,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1206.9249,
+      "end": 1210.89,
+      "text": "other humans even though they're they're far away and speak a different language.",
+      "confidence": 0.96503615,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1212.31,
+      "end": 1214.55,
+      "text": "That's not as easy as I thought it would be.",
+      "confidence": 0.9768723,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1215.3501,
+      "end": 1219.6101,
+      "text": "You know, right now, some of the rich countries, including my country, are cutting their aid budgets.",
+      "confidence": 0.9582782,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1220.0701,
+      "end": 1221.8501,
+      "text": "And I'm I'm very disappointed",
+      "confidence": 0.9351338,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1222.31,
+      "end": 1224.485,
+      "text": "that, you know, to me, that's not,",
+      "confidence": 0.94485855,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1224.9451,
+      "end": 1226.725,
+      "text": "you know, the golden rule of",
+      "confidence": 0.9780903,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1227.025,
+      "end": 1230.805,
+      "text": "treating people like you'd like to be treated. So what do you think",
+      "confidence": 0.9483484,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1231.185,
+      "end": 1233.525,
+      "text": "all the people who are watching this, including me,",
+      "confidence": 0.89588714,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1234.305,
+      "end": 1238.94,
+      "text": "young people should do so that we could convince more people to help other people.",
+      "confidence": 0.962241,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1239.32,
+      "end": 1240.86,
+      "text": "Well, when you're young,",
+      "confidence": 0.9874181,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1242.44,
+      "end": 1245.26,
+      "text": "if you're here in India, you know, you can probably travel,",
+      "confidence": 0.9885134,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1246.12,
+      "end": 1248.78,
+      "text": "you know, some modest distance an hour or two",
+      "confidence": 0.92851615,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1249.125,
+      "end": 1252.265,
+      "text": "and see people, you know, who don't have the same",
+      "confidence": 0.95469743,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1252.645,
+      "end": 1257.785,
+      "text": "opportunities you do. That, you know, they're smart, but their school's not good or, you know, they get,",
+      "confidence": 0.9292047,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1258.805,
+      "end": 1261.465,
+      "text": "some health problem and they're not able to access",
+      "confidence": 0.9710361,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1262.005,
+      "end": 1267.57,
+      "text": "things. I would say in India, you know, programs like the aspirational district program,",
+      "confidence": 0.97900385,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1268.1901,
+      "end": 1269.09,
+      "text": "India does,",
+      "confidence": 0.9481724,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1270.11,
+      "end": 1271.01,
+      "text": "talk openly",
+      "confidence": 0.999753,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1271.71,
+      "end": 1276.05,
+      "text": "about the places that are the worst off. And that's, you know, that's pretty impressive.",
+      "confidence": 0.9767252,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1277.015,
+      "end": 1279.675,
+      "text": "You know, even issues like sanitation that governments",
+      "confidence": 0.9188182,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1280.2151,
+      "end": 1284.775,
+      "text": "most governments, you know, you wouldn't catch them talking about toilets. Yeah.",
+      "confidence": 0.9382758,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1285.3351,
+      "end": 1286.3151,
+      "text": "You know, this",
+      "confidence": 0.99502915,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1286.6951,
+      "end": 1289.675,
+      "text": "country, you know, took on a pretty aggressive",
+      "confidence": 0.9972005,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1290.2151,
+      "end": 1291.1951,
+      "text": "plan and made",
+      "confidence": 0.9913284,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1291.5751,
+      "end": 1295.41,
+      "text": "a lot of progress on that. So you can go out and see,",
+      "confidence": 0.9632256,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1296.91,
+      "end": 1298.61,
+      "text": "people and develop empathy,",
+      "confidence": 0.9915008,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1299.15,
+      "end": 1300.77,
+      "text": "without going too far.",
+      "confidence": 0.9987947,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1302.1901,
+      "end": 1302.6901,
+      "text": "And",
+      "confidence": 0.99590766,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1303.2301,
+      "end": 1304.05,
+      "text": "you spent",
+      "confidence": 0.824239,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1305.705,
+      "end": 1308.605,
+      "text": "hours and hours and days in this country.",
+      "confidence": 0.97909105,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1308.985,
+      "end": 1309.645,
+      "text": "You spent",
+      "confidence": 0.8365378,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1310.505,
+      "end": 1314.445,
+      "text": "millions on vaccines and trying to take care of health care challenges.",
+      "confidence": 0.9704204,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1315.385,
+      "end": 1319.325,
+      "text": "What's one problem you feel that money cannot fix?",
+      "confidence": 0.99708813,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1322.74,
+      "end": 1324.26,
+      "text": "You know, there's a lot of talk about,",
+      "confidence": 0.91991615,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1325.94,
+      "end": 1326.44,
+      "text": "obesity",
+      "confidence": 0.99881446,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1327.2999,
+      "end": 1327.7999,
+      "text": "and,",
+      "confidence": 0.79470044,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1329.14,
+      "end": 1338.6151,
+      "text": "you know, when I saw the prime minister, he was talking about various yoga type things that, you know, people would adopt those. But it's been hard, you know, not many countries",
+      "confidence": 0.973161,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1339.3151,
+      "end": 1344.8551,
+      "text": "have gotten the behavior change. Yeah. You know, maybe India can pioneer some approaches there,",
+      "confidence": 0.9542416,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1345.2351,
+      "end": 1346.52,
+      "text": "but, you know, frankly,",
+      "confidence": 0.95956707,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1346.98,
+      "end": 1351.08,
+      "text": "and I'll sound like a technologist, the most promising thing is actually,",
+      "confidence": 0.9839704,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1353.3,
+      "end": 1354.52,
+      "text": "you know, a drug,",
+      "confidence": 0.8693257,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1354.9,
+      "end": 1366.855,
+      "text": "a class of drugs called these GLP one drugs that, you know, are going to go off patent and become cheap and, you know, so I always like, you know, I'm a little over focused on a scientific solution.",
+      "confidence": 0.9394765,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1367.235,
+      "end": 1373.22,
+      "text": "So maybe a combination of that behavior change and, and the new tools, but behavior change is hard.",
+      "confidence": 0.9499332,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1374.5,
+      "end": 1376.2,
+      "text": "We we haven't,",
+      "confidence": 0.89381284,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1377.7,
+      "end": 1382.9199,
+      "text": "succeeded in that as as much as we'd like to. Tell me one behavior we all should adopt.",
+      "confidence": 0.99179816,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1383.94,
+      "end": 1384.44,
+      "text": "Well,",
+      "confidence": 0.9961808,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1384.82,
+      "end": 1389.275,
+      "text": "you know, the behavior that's helped me is is basically being a student",
+      "confidence": 0.972547,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1389.815,
+      "end": 1392.395,
+      "text": "all the time, wanting to learn things and being pretty",
+      "confidence": 0.9759635,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1393.255,
+      "end": 1395.675,
+      "text": "brutal with myself of, do I really understand,",
+      "confidence": 0.95628566,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1396.215,
+      "end": 1399.435,
+      "text": "you know, what's going on? You know, do I understand",
+      "confidence": 0.9780633,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1400.05,
+      "end": 1401.65,
+      "text": "some AI thing or,",
+      "confidence": 0.9901199,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1403.17,
+      "end": 1405.91,
+      "text": "some disease thing? And, you know, fortunately,",
+      "confidence": 0.9691767,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1407.5701,
+      "end": 1409.27,
+      "text": "I can meet with people who",
+      "confidence": 0.99921614,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1409.65,
+      "end": 1419.105,
+      "text": "in many cases can help me understand. And then, you know, knowledge, if you're careful about building your your knowledge, it all kind of connects together. But,",
+      "confidence": 0.9630401,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1419.885,
+      "end": 1424.705,
+      "text": "you know, reading a lot, being a student, you know, having people who can teach me,",
+      "confidence": 0.9908923,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1426.285,
+      "end": 1426.785,
+      "text": "that's,",
+      "confidence": 0.97435945,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1427.405,
+      "end": 1428.145,
+      "text": "you know,",
+      "confidence": 0.99620014,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1428.57,
+      "end": 1430.99,
+      "text": "been not only fun for me, but also",
+      "confidence": 0.988076,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1431.37,
+      "end": 1432.9099,
+      "text": "a big part of my success.",
+      "confidence": 0.99712497,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1434.1699,
+      "end": 1436.6699,
+      "text": "So all of people who are watching this",
+      "confidence": 0.85387266,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1437.0499,
+      "end": 1439.5499,
+      "text": "actually feels pretty validated at this point.",
+      "confidence": 0.94985265,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1440.01,
+      "end": 1440.51,
+      "text": "Good.",
+      "confidence": 0.6041467,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1440.97,
+      "end": 1441.47,
+      "text": "Because",
+      "confidence": 0.8725121,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1441.85,
+      "end": 1444.1849,
+      "text": "this whole pod cause is about learning",
+      "confidence": 0.76199454,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1444.565,
+      "end": 1447.3049,
+      "text": "from really really incredible people like you.",
+      "confidence": 0.9039878,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1447.605,
+      "end": 1448.5049,
+      "text": "And we have",
+      "confidence": 0.73418975,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1448.8049,
+      "end": 1455.5449,
+      "text": "so many questions that we just keep asking to learn more to learn more to get inside brain. So thanks for validation.",
+      "confidence": 0.92977995,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1456.6449,
+      "end": 1457.1449,
+      "text": "Perfect.",
+      "confidence": 0.8837332,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1458.6,
+      "end": 1463.34,
+      "text": "What's fascinating for me, this time in your journey, like, this time you visit to India,",
+      "confidence": 0.86807746,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1464.28,
+      "end": 1469.9,
+      "text": "the full Gates Foundation board is here. Right? And that's pretty unique, and they get to experience India.",
+      "confidence": 0.89246655,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1471.465,
+      "end": 1473.4049,
+      "text": "What what do you think? What are your priorities",
+      "confidence": 0.96295655,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1474.585,
+      "end": 1476.205,
+      "text": "with regards to this nation?",
+      "confidence": 0.96674955,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1476.745,
+      "end": 1482.5249,
+      "text": "Why the whole board is here? What do you guys are trying to figure out? What are the things that you're doing?",
+      "confidence": 0.9765301,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1483.065,
+      "end": 1484.365,
+      "text": "Well, as much progress",
+      "confidence": 0.982677,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1484.8999,
+      "end": 1486.2799,
+      "text": "as we've been part",
+      "confidence": 0.9989668,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1487.2999,
+      "end": 1490.2,
+      "text": "of achieving here in India, there's still a lot to do.",
+      "confidence": 0.9897417,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1491.38,
+      "end": 1496.6799,
+      "text": "You know, the the child to death rate is about a third of what it was,",
+      "confidence": 0.9892725,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1497.705,
+      "end": 1498.605,
+      "text": "but it's still",
+      "confidence": 0.9954214,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1498.985,
+      "end": 1500.605,
+      "text": "almost three times higher",
+      "confidence": 0.99867463,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1501.065,
+      "end": 1502.445,
+      "text": "than in a rich country.",
+      "confidence": 0.98735523,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1503.065,
+      "end": 1506.6849,
+      "text": "So we, you know, we should all want to close that gap. That's,",
+      "confidence": 0.96851057,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1508.025,
+      "end": 1508.525,
+      "text": "equity.",
+      "confidence": 0.9921715,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1509.3049,
+      "end": 1510.365,
+      "text": "I mentioned malnutrition.",
+      "confidence": 0.94351417,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1511.89,
+      "end": 1515.33,
+      "text": "You know, the country is very serious about that and yet,",
+      "confidence": 0.94043154,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1516.29,
+      "end": 1520.3099,
+      "text": "you know, it means that your brain never develops. And sadly,",
+      "confidence": 0.9724904,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1521.1699,
+      "end": 1522.3099,
+      "text": "if whatever",
+      "confidence": 0.937969,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1523.09,
+      "end": 1525.27,
+      "text": "dietary or disease things",
+      "confidence": 0.9901298,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1525.73,
+      "end": 1526.63,
+      "text": "affect you,",
+      "confidence": 0.9492217,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1527.765,
+      "end": 1529.865,
+      "text": "during pregnancy in your first year,",
+      "confidence": 0.95282406,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1530.3251,
+      "end": 1531.305,
+      "text": "even if later",
+      "confidence": 0.9972299,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1531.685,
+      "end": 1534.745,
+      "text": "you get a fantastic diet, your brain",
+      "confidence": 0.9497177,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1535.045,
+      "end": 1536.265,
+      "text": "and your physical,",
+      "confidence": 0.93552905,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1537.525,
+      "end": 1538.025,
+      "text": "capabilities,",
+      "confidence": 0.91528106,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1538.3251,
+      "end": 1539.0651,
+      "text": "they don't",
+      "confidence": 0.9995554,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1539.4451,
+      "end": 1542.96,
+      "text": "adjust. You're, you know, sort of permanently affected. And so,",
+      "confidence": 0.96037865,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1544.64,
+      "end": 1550.8999,
+      "text": "you know, we're working with some great scientists here. We have a lot of the tools of biology have gotten a lot better. So I do think,",
+      "confidence": 0.96498764,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1552.5599,
+      "end": 1556.26,
+      "text": "you know, in the next decade we'll totally get to the bottom of that.",
+      "confidence": 0.9685003,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1557.795,
+      "end": 1560.8551,
+      "text": "And, you know, I'm I'm thrilled to do that. And a lot of",
+      "confidence": 0.9791084,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1561.9551,
+      "end": 1565.5751,
+      "text": "the scientists we partner with, you know, including some at ICMR,",
+      "confidence": 0.9631558,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1565.9551,
+      "end": 1568.535,
+      "text": "but, you know, lots of institutions around the country,",
+      "confidence": 0.97866225,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1569.7151,
+      "end": 1570.535,
+      "text": "they're also,",
+      "confidence": 0.91620374,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1571.2351,
+      "end": 1572.21,
+      "text": "committed to that.",
+      "confidence": 0.99979573,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1572.9299,
+      "end": 1573.83,
+      "text": "So you",
+      "confidence": 0.9760957,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1574.21,
+      "end": 1577.59,
+      "text": "work here a lot and with the foundation you work around the world,",
+      "confidence": 0.8839776,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1577.89,
+      "end": 1581.19,
+      "text": "a lot of things. And because of all of this",
+      "confidence": 0.97555935,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1581.73,
+      "end": 1586.63,
+      "text": "passion and data and this intention to try to help people,",
+      "confidence": 0.94601214,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1587.3351,
+      "end": 1590.9551,
+      "text": "you've been pretty accurate in trying to understand trends",
+      "confidence": 0.99319255,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1591.5751,
+      "end": 1592.635,
+      "text": "way before people,",
+      "confidence": 0.8895312,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1592.935,
+      "end": 1597.755,
+      "text": "like, normal people. Let's say, you're pretty accurate in so many things in predicting",
+      "confidence": 0.866224,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1598.775,
+      "end": 1603.29,
+      "text": "so many epidemics as well. Is there something that you'd know which we don't?",
+      "confidence": 0.9573879,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1605.03,
+      "end": 1608.09,
+      "text": "Like, how do you spot these things way faster?",
+      "confidence": 0.96506065,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1608.47,
+      "end": 1610.65,
+      "text": "Well, the biggest change agent",
+      "confidence": 0.9961365,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1611.43,
+      "end": 1612.49,
+      "text": "in my lifetime",
+      "confidence": 0.9960343,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1613.27,
+      "end": 1615.53,
+      "text": "has been the the miracle of digital.",
+      "confidence": 0.9034516,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1615.99,
+      "end": 1616.89,
+      "text": "You know, now,",
+      "confidence": 0.9503977,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1618.1849,
+      "end": 1624.205,
+      "text": "moving into the AI phase of of that digital revolution. So the fact that as a young person,",
+      "confidence": 0.9916909,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1624.825,
+      "end": 1625.725,
+      "text": "you know, I was",
+      "confidence": 0.9941716,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1626.025,
+      "end": 1628.845,
+      "text": "programming at age 13 and by,",
+      "confidence": 0.9226205,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1629.28,
+      "end": 1633.3,
+      "text": "you know, 18, I had my, you know, thousands of hours of,",
+      "confidence": 0.9809484,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1634.4,
+      "end": 1637.86,
+      "text": "really strong feedback about, you know, getting better and,",
+      "confidence": 0.9901979,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1638.88,
+      "end": 1639.7,
+      "text": "being pushed.",
+      "confidence": 0.9793941,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1641.2,
+      "end": 1644.8049,
+      "text": "And so to, it's a really lucky thing",
+      "confidence": 0.9409451,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1645.505,
+      "end": 1647.205,
+      "text": "to have such a",
+      "confidence": 0.9970949,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1648.225,
+      "end": 1648.725,
+      "text": "familiarity",
+      "confidence": 0.9994486,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1649.6649,
+      "end": 1656.6449,
+      "text": "with the thing that's going to change the world. And so, you know, I wrote a book called The Road Ahead a long time ago,",
+      "confidence": 0.9699345,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1657.07,
+      "end": 1658.53,
+      "text": "you know, that talked about,",
+      "confidence": 0.9913251,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1659.15,
+      "end": 1662.29,
+      "text": "you know, the internet and digital money and,",
+      "confidence": 0.90450984,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1663.07,
+      "end": 1664.13,
+      "text": "video conferencing.",
+      "confidence": 0.98932946,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1665.47,
+      "end": 1674.005,
+      "text": "And then when I moved into the foundation work, the health work, you know, people in that community understand pandemics and, you know, so my saying,",
+      "confidence": 0.96296126,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1674.305,
+      "end": 1677.685,
+      "text": "hey, you know, there's a big risk and the thing that's gonna",
+      "confidence": 0.89957434,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1678.145,
+      "end": 1678.645,
+      "text": "kill,",
+      "confidence": 0.98407847,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1678.9451,
+      "end": 1682.7251,
+      "text": "you know, ten million additional people is likely to be a pandemic.",
+      "confidence": 0.9926009,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1684.385,
+      "end": 1689.5,
+      "text": "You know, that's common place knowledge if you're in the global health community. It's a very small community.",
+      "confidence": 0.95443195,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1690.52,
+      "end": 1693.5801,
+      "text": "But I was just somebody who was listened to,",
+      "confidence": 0.97157955,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1695.7201,
+      "end": 1696.2201,
+      "text": "stating,",
+      "confidence": 0.8004184,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1697.4,
+      "end": 1698.78,
+      "text": "this. And sadly,",
+      "confidence": 0.89382154,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1699.375,
+      "end": 1701.875,
+      "text": "you know, most of the people who listen to that prediction,",
+      "confidence": 0.91803455,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1702.815,
+      "end": 1704.755,
+      "text": "listen to it after it came true.",
+      "confidence": 0.93449116,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1705.2949,
+      "end": 1708.995,
+      "text": "Then, you know, what my goal was was people to hear that and actually,",
+      "confidence": 0.96172655,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1710.4149,
+      "end": 1714.995,
+      "text": "stop it from happening. That's usually the case. Right? Like, people listen to",
+      "confidence": 0.97893226,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1716.12,
+      "end": 1716.62,
+      "text": "pieces,",
+      "confidence": 0.7594055,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1716.92,
+      "end": 1721.3401,
+      "text": "golden eduise pieces and pieces of nuggets way after the time has been passed.",
+      "confidence": 0.86397547,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1722.68,
+      "end": 1723.8201,
+      "text": "Right? Because of this,",
+      "confidence": 0.9242567,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1724.36,
+      "end": 1727.02,
+      "text": "do you fear anything today? I definitely",
+      "confidence": 0.95069563,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1727.6749,
+      "end": 1729.775,
+      "text": "hope that we shape AI",
+      "confidence": 0.99937284,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1730.875,
+      "end": 1733.2949,
+      "text": "in a positive way. It's such a",
+      "confidence": 0.99944603,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1733.9149,
+      "end": 1734.4149,
+      "text": "big,",
+      "confidence": 0.96282446,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1735.595,
+      "end": 1736.095,
+      "text": "impact",
+      "confidence": 0.9997465,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1736.5549,
+      "end": 1737.0549,
+      "text": "on,",
+      "confidence": 0.9953084,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1737.6749,
+      "end": 1738.255,
+      "text": "you know,",
+      "confidence": 0.99907696,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1738.955,
+      "end": 1740.575,
+      "text": "being smarter than humans,",
+      "confidence": 0.9848392,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1741.755,
+      "end": 1742.895,
+      "text": "that it will change",
+      "confidence": 0.99978554,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1743.52,
+      "end": 1744.74,
+      "text": "our world a lot.",
+      "confidence": 0.9851631,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1746.24,
+      "end": 1753.0599,
+      "text": "And it's, you know, it's it's definitely new territory. So I have a list of about five things, you know, AI, shaping AI properly",
+      "confidence": 0.97332335,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1753.6,
+      "end": 1756.26,
+      "text": "is at the top of that list. But, you know, avoiding",
+      "confidence": 0.9573971,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1756.755,
+      "end": 1759.255,
+      "text": "the next pandemic, avoiding nuclear war,",
+      "confidence": 0.9966734,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1760.115,
+      "end": 1760.615,
+      "text": "bioterrorism,",
+      "confidence": 0.98053277,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1761.3151,
+      "end": 1765.575,
+      "text": "climate change. It's only about five or six things that we need to,",
+      "confidence": 0.97293884,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1767.475,
+      "end": 1767.975,
+      "text": "minimize",
+      "confidence": 0.9974382,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1768.835,
+      "end": 1770.055,
+      "text": "the chance of,",
+      "confidence": 0.9496644,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1771.11,
+      "end": 1772.5701,
+      "text": "you know, and use our",
+      "confidence": 0.9849392,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1772.9501,
+      "end": 1774.81,
+      "text": "additional wealth and insights,",
+      "confidence": 0.99392766,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1775.27,
+      "end": 1785.995,
+      "text": "you know, against those things. Do you have any personal fear? What's your biggest fear? You know, it's not like I'm afraid of heights or planes or fire or anything like that. You know, I hope I'm",
+      "confidence": 0.9864741,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1786.615,
+      "end": 1788.315,
+      "text": "I'll be sad as my brain,",
+      "confidence": 0.9652462,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1790.055,
+      "end": 1791.275,
+      "text": "gets less capable,",
+      "confidence": 0.9934604,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1791.655,
+      "end": 1797.915,
+      "text": "you know, which, you know, as I turn 70 this year, you know, I'd be lucky to have twenty",
+      "confidence": 0.9439574,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1798.5599,
+      "end": 1801.22,
+      "text": "years of, you know, being able to learn,",
+      "confidence": 0.9688563,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1801.84,
+      "end": 1807.46,
+      "text": "you know, maybe I'll get lucky and get a little bit more. But, you know, that disappoints me because I've",
+      "confidence": 0.9798621,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1807.84,
+      "end": 1808.6599,
+      "text": "had such",
+      "confidence": 0.9981361,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1809.44,
+      "end": 1811.0599,
+      "text": "a amazing time learning,",
+      "confidence": 0.86785144,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1812.3999,
+      "end": 1816.195,
+      "text": "things. And I I used to think of old people as not,",
+      "confidence": 0.968088,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1816.495,
+      "end": 1821.075,
+      "text": "you know, contributing all that much. And now I've had to change my mind about how",
+      "confidence": 0.975269,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1821.455,
+      "end": 1823.3949,
+      "text": "how important old people are.",
+      "confidence": 0.9402183,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1824.335,
+      "end": 1825.955,
+      "text": "Do you do you feel difference?",
+      "confidence": 0.91761494,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1826.575,
+      "end": 1828.515,
+      "text": "I don't. I don't at all.",
+      "confidence": 0.9793942,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1829.21,
+      "end": 1834.11,
+      "text": "You know, probably if I I took an IQ test, I I would do a little bit worse",
+      "confidence": 0.97206616,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1834.41,
+      "end": 1836.11,
+      "text": "than when I was 25.",
+      "confidence": 0.9827064,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1837.05,
+      "end": 1840.1901,
+      "text": "But, you know, I've accumulated enough knowledge, you know, so wisdom,",
+      "confidence": 0.97891444,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1841.61,
+      "end": 1844.99,
+      "text": "you know, can compensate a little bit for a slight,",
+      "confidence": 0.9786258,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1845.5549,
+      "end": 1851.1749,
+      "text": "reduction intelligence. And I do think it's like a muscle that if you're pushing yourself to think and learn",
+      "confidence": 0.98046446,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1851.635,
+      "end": 1853.495,
+      "text": "that, you know, you stay,",
+      "confidence": 0.95498943,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1856.195,
+      "end": 1857.735,
+      "text": "it really helps your capabilities",
+      "confidence": 0.91457653,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1858.355,
+      "end": 1858.9349,
+      "text": "a lot.",
+      "confidence": 0.99692,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1860.99,
+      "end": 1869.65,
+      "text": "But, yeah, I have a fear that, you know, I eventually I'll lose you know, I won't wanna pick up a 500 page book. I'll look at it and go, are you kidding?",
+      "confidence": 0.9168346,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1870.35,
+      "end": 1871.49,
+      "text": "I'm done with that.",
+      "confidence": 0.9994302,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1872.75,
+      "end": 1876.13,
+      "text": "So with age, you have not felt any changes in your brain?",
+      "confidence": 0.9731725,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1876.615,
+      "end": 1878.395,
+      "text": "Not really. In terms of slowing.",
+      "confidence": 0.7771999,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1880.0549,
+      "end": 1881.835,
+      "text": "Wow. No. I don't think so.",
+      "confidence": 0.97205514,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1882.855,
+      "end": 1886.715,
+      "text": "You know, whenever you can't remember something, you're like, oh, no. Now",
+      "confidence": 0.96521074,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1887.015,
+      "end": 1887.515,
+      "text": "but,",
+      "confidence": 0.9713049,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1889.48,
+      "end": 1895.34,
+      "text": "you know, so maybe a tiny bit of that, but then, you know, it's just a little bit because you're you're",
+      "confidence": 0.9620292,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1896.36,
+      "end": 1902.0599,
+      "text": "looking for it. You know, when I was in my twenties, if I can't remember something, I didn't even know. And I was like, so what?",
+      "confidence": 0.88741964,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1903.24,
+      "end": 1906.265,
+      "text": "So Is there any change you feel? Because",
+      "confidence": 0.9536701,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1906.8049,
+      "end": 1909.465,
+      "text": "so Bill Gates of 25 and Bill Gates of 70,",
+      "confidence": 0.8886134,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1910.085,
+      "end": 1919.49,
+      "text": "is there any change that you feel personally? Well, in my twenties, I was I chose to focus on one topic from, you know, age 20 to about",
+      "confidence": 0.9841876,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1920.45,
+      "end": 1921.89,
+      "text": "31",
+      "confidence": 0.9962449,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1921.89,
+      "end": 1922.55,
+      "text": "or two.",
+      "confidence": 0.9044292,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1924.45,
+      "end": 1924.95,
+      "text": "I",
+      "confidence": 0.99917006,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1925.25,
+      "end": 1927.4299,
+      "text": "told myself, hey, I love biology",
+      "confidence": 0.9705276,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1927.73,
+      "end": 1930.87,
+      "text": "and math and all these things, but I want to be",
+      "confidence": 0.9399647,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1931.41,
+      "end": 1931.91,
+      "text": "the",
+      "confidence": 0.9819495,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1932.29,
+      "end": 1933.35,
+      "text": "person who's",
+      "confidence": 0.9791356,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1933.845,
+      "end": 1935.065,
+      "text": "advancing software",
+      "confidence": 0.9977524,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1935.605,
+      "end": 1936.105,
+      "text": "faster",
+      "confidence": 0.99881446,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1936.485,
+      "end": 1938.985,
+      "text": "than anyone else. And so I really did",
+      "confidence": 0.9895954,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1939.525,
+      "end": 1940.025,
+      "text": "narrow",
+      "confidence": 0.9996152,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1940.405,
+      "end": 1942.4249,
+      "text": "my focus and I I didn't,",
+      "confidence": 0.91364807,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1942.725,
+      "end": 1943.625,
+      "text": "you know, take",
+      "confidence": 0.99937177,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1944.005,
+      "end": 1947.33,
+      "text": "much time off. And I could stay in the office, you know,",
+      "confidence": 0.98259145,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1948.2899,
+      "end": 1949.35,
+      "text": "seventy two hours",
+      "confidence": 0.9937493,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1949.73,
+      "end": 1950.7899,
+      "text": "and then crash.",
+      "confidence": 0.9475325,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1952.2899,
+      "end": 1953.75,
+      "text": "And so my adrenaline",
+      "confidence": 0.9843636,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1954.85,
+      "end": 1955.35,
+      "text": "and",
+      "confidence": 0.574428,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1955.89,
+      "end": 1957.0299,
+      "text": "was really",
+      "confidence": 0.99919695,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1957.73,
+      "end": 1958.23,
+      "text": "unique.",
+      "confidence": 0.9996114,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1958.61,
+      "end": 1960.85,
+      "text": "Now my understanding of how to manage people,",
+      "confidence": 0.969113,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1962.355,
+      "end": 1965.735,
+      "text": "other than myself wasn't that, that could, you know, I've,",
+      "confidence": 0.9117341,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1966.115,
+      "end": 1967.495,
+      "text": "I, I look back and,",
+      "confidence": 0.9658085,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1968.595,
+      "end": 1971.4149,
+      "text": "you know, I've, I've learned a lot since then, but just my",
+      "confidence": 0.96183485,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1971.7949,
+      "end": 1972.2949,
+      "text": "stamina,",
+      "confidence": 0.9839035,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1973.7949,
+      "end": 1974.695,
+      "text": "and focus",
+      "confidence": 0.99971557,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1975.08,
+      "end": 1979.0199,
+      "text": "for that period of my life, you know, being kind of a a maniac,",
+      "confidence": 0.9482843,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1980.12,
+      "end": 1980.62,
+      "text": "was",
+      "confidence": 0.99954826,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1981.0,
+      "end": 1988.255,
+      "text": "was the right thing. And, you know, I I, you know, my competitors would say, oh, no, you work too hard. And I'd say, yes, I do.",
+      "confidence": 0.94861406,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1989.115,
+      "end": 1995.775,
+      "text": "Do you think that's a great advice for every young person who's watching? Well A maniac in your twenties. It's not it's not for everyone.",
+      "confidence": 0.94454104,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1997.1951,
+      "end": 1998.255,
+      "text": "But if you're",
+      "confidence": 0.99321914,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1998.635,
+      "end": 1999.935,
+      "text": "if you're in a race,",
+      "confidence": 0.9581032,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2001.73,
+      "end": 2002.23,
+      "text": "and,",
+      "confidence": 0.95636034,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2003.89,
+      "end": 2004.45,
+      "text": "you know, the",
+      "confidence": 0.9435558,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2005.73,
+      "end": 2008.39,
+      "text": "a little bit moving a little bit faster",
+      "confidence": 0.9935212,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2009.09,
+      "end": 2010.63,
+      "text": "can make a a difference,",
+      "confidence": 0.9384918,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2011.89,
+      "end": 2014.87,
+      "text": "then, yes, your your twenties when you have no",
+      "confidence": 0.89544666,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2015.735,
+      "end": 2017.035,
+      "text": "wife and no children,",
+      "confidence": 0.92099524,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2018.055,
+      "end": 2019.495,
+      "text": "that's the time to do it.",
+      "confidence": 0.9895451,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2020.295,
+      "end": 2027.435,
+      "text": "That's the time to be little maniac about certain things. Right? You also just mentioned that you love learning, which",
+      "confidence": 0.93137276,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2027.7799,
+      "end": 2031.32,
+      "text": "obviously, the world knows. But during this conversation also, you just",
+      "confidence": 0.94569343,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2031.7799,
+      "end": 2038.0399,
+      "text": "talked about it, like, a little bit again and again. What are you currently learning? Or what do you wanna learn now? Well, there's a lot",
+      "confidence": 0.94850063,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2039.5399,
+      "end": 2040.2799,
+      "text": "going on.",
+      "confidence": 0.9121356,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2042.535,
+      "end": 2046.395,
+      "text": "You know, AI just staying on top of that Mhmm. Is,",
+      "confidence": 0.90917724,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2046.6951,
+      "end": 2047.675,
+      "text": "you know, I",
+      "confidence": 0.9840746,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2048.215,
+      "end": 2058.5898,
+      "text": "I very much enjoy that. And I get to sit and talk with the top people at OpenAI, and I get to play around with things. But then when you think, okay, now about what about AI",
+      "confidence": 0.9578743,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2059.3699,
+      "end": 2061.15,
+      "text": "applied to mental health care?",
+      "confidence": 0.9608599,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2061.93,
+      "end": 2068.3499,
+      "text": "You know, isn't that one of the most exciting things? Because, you know, we can never have enough therapists,",
+      "confidence": 0.95696276,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2069.685,
+      "end": 2071.145,
+      "text": "and even people who aren't,",
+      "confidence": 0.99821156,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2072.965,
+      "end": 2074.5852,
+      "text": "you know, suffering massively,",
+      "confidence": 0.9614778,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2075.365,
+      "end": 2077.225,
+      "text": "you know, maybe we could help,",
+      "confidence": 0.9832364,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2078.245,
+      "end": 2078.745,
+      "text": "even",
+      "confidence": 0.99969625,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2079.7651,
+      "end": 2080.905,
+      "text": "people with mild,",
+      "confidence": 0.9463158,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2081.845,
+      "end": 2083.865,
+      "text": "symptoms. So, you know, what does this",
+      "confidence": 0.9961334,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2084.3901,
+      "end": 2085.21,
+      "text": "AI companion",
+      "confidence": 0.99649584,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2086.23,
+      "end": 2088.81,
+      "text": "look like and, you know, how can that",
+      "confidence": 0.9509692,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2090.31,
+      "end": 2091.1301,
+      "text": "help us?",
+      "confidence": 0.9451056,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2091.99,
+      "end": 2093.21,
+      "text": "My friend Reid Hoffman,",
+      "confidence": 0.86425984,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2093.75,
+      "end": 2099.05,
+      "text": "just wrote a book called Super Agency that he's got a really good chapter about this. So",
+      "confidence": 0.9663235,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2099.605,
+      "end": 2102.0251,
+      "text": "I'm pushing myself to try and understand,",
+      "confidence": 0.99773026,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2104.165,
+      "end": 2109.865,
+      "text": "you know, what can we do there and meet the people who are, you know, pushing the the boundaries,",
+      "confidence": 0.9790102,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2110.485,
+      "end": 2112.2651,
+      "text": "because I see such potential.",
+      "confidence": 0.9990562,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2113.0,
+      "end": 2115.4202,
+      "text": "So what would you advise young people",
+      "confidence": 0.99661005,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2115.9602,
+      "end": 2116.78,
+      "text": "to start",
+      "confidence": 0.99900377,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2117.08,
+      "end": 2118.86,
+      "text": "learning today and from where?",
+      "confidence": 0.96294767,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2119.6401,
+      "end": 2122.22,
+      "text": "AI itself? Well, if you have a mathematical",
+      "confidence": 0.9977437,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2123.08,
+      "end": 2123.58,
+      "text": "mind,",
+      "confidence": 0.82494545,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2124.2002,
+      "end": 2129.4648,
+      "text": "you know, not everyone should learn AI. Okay. You know, these tools are going to be available,",
+      "confidence": 0.97535515,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2130.805,
+      "end": 2134.025,
+      "text": "to everyone. And so you ought to be a user of AI,",
+      "confidence": 0.973573,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2134.325,
+      "end": 2135.3848,
+      "text": "but the underlying",
+      "confidence": 0.9970217,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2136.7249,
+      "end": 2140.825,
+      "text": "stuff, you know, that's a pretty narrow set of people who will have an opportunity",
+      "confidence": 0.9985027,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2142.9,
+      "end": 2145.56,
+      "text": "to, you know, push on a new training method.",
+      "confidence": 0.9869483,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2147.22,
+      "end": 2149.16,
+      "text": "And even people who grew up with software,",
+      "confidence": 0.9842403,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2149.6199,
+      "end": 2150.52,
+      "text": "some of them",
+      "confidence": 0.9993412,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2150.82,
+      "end": 2157.755,
+      "text": "don't really get this because it's it's a bit more mathematical than it is just a a programming type thing.",
+      "confidence": 0.9710962,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2159.015,
+      "end": 2159.515,
+      "text": "So",
+      "confidence": 0.99786735,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2159.815,
+      "end": 2160.9548,
+      "text": "it says a user",
+      "confidence": 0.85081667,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2161.7349,
+      "end": 2165.115,
+      "text": "that, okay, if you're you like doing creative work, yes,",
+      "confidence": 0.9248673,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2166.295,
+      "end": 2169.595,
+      "text": "AI is gonna change your world and AI hopefully can help you,",
+      "confidence": 0.87745166,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2171.4,
+      "end": 2172.6199,
+      "text": "do things faster",
+      "confidence": 0.99962616,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2173.0,
+      "end": 2174.5398,
+      "text": "and better. So",
+      "confidence": 0.99616927,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2174.8398,
+      "end": 2180.46,
+      "text": "my prescription would be yes to use it for the areas that you're excited about.",
+      "confidence": 0.93674374,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2180.92,
+      "end": 2188.8052,
+      "text": "Any area that excited about, learn from learn about that and try to make a bridge between AI and that industry. Right. I mean,",
+      "confidence": 0.9492766,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2189.5051,
+      "end": 2191.205,
+      "text": "the Internet has so much",
+      "confidence": 0.97326833,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2191.905,
+      "end": 2195.7651,
+      "text": "educational material on it. So between all that material,",
+      "confidence": 0.9885928,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2196.705,
+      "end": 2203.29,
+      "text": "and then an AI that can help, you know, take long documents and you can have a dialogue with it.",
+      "confidence": 0.9737506,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2204.39,
+      "end": 2209.91,
+      "text": "You know, you can do it in text or you can, you know, now do these generate podcasts about things. It's,",
+      "confidence": 0.94874954,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2210.55,
+      "end": 2217.4248,
+      "text": "it's a great time to be a learner. Right? You know, when I was young, I had to go to the library and, you know, read the encyclopedia",
+      "confidence": 0.99072844,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2217.805,
+      "end": 2218.305,
+      "text": "alphabetically.",
+      "confidence": 0.8488024,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2219.1648,
+      "end": 2219.905,
+      "text": "No multimedia.",
+      "confidence": 0.976411,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2220.4448,
+      "end": 2220.9448,
+      "text": "Yeah.",
+      "confidence": 0.9866956,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2221.645,
+      "end": 2222.545,
+      "text": "This is a",
+      "confidence": 0.87140065,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2223.325,
+      "end": 2223.825,
+      "text": "paradise.",
+      "confidence": 0.7511772,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2224.525,
+      "end": 2231.83,
+      "text": "Yeah. Thanks to you guys because The digital world. Yeah. Digital world. You made it easy for us. We don't know the world,",
+      "confidence": 0.9114389,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2232.1301,
+      "end": 2238.23,
+      "text": "what it look like to go to a library and read about something. We get fidgety if we don't get an answer in three seconds.",
+      "confidence": 0.92183334,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2240.2102,
+      "end": 2242.23,
+      "text": "We have lost two questions for you.",
+      "confidence": 0.8104401,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2242.53,
+      "end": 2245.7551,
+      "text": "One is, in your philanthropy work with the foundation,",
+      "confidence": 0.91739815,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2246.5352,
+      "end": 2247.915,
+      "text": "how is India",
+      "confidence": 0.9950313,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2248.455,
+      "end": 2250.395,
+      "text": "contributing to your global strategies?",
+      "confidence": 0.97930396,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2250.935,
+      "end": 2251.435,
+      "text": "Well,",
+      "confidence": 0.99890924,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2251.975,
+      "end": 2253.355,
+      "text": "more and more of the innovation,",
+      "confidence": 0.9869781,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2255.095,
+      "end": 2256.555,
+      "text": "is being done in India.",
+      "confidence": 0.99564755,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2257.575,
+      "end": 2258.075,
+      "text": "India's,",
+      "confidence": 0.977221,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2258.58,
+      "end": 2259.32,
+      "text": "you know,",
+      "confidence": 0.99920946,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2259.7002,
+      "end": 2261.8801,
+      "text": "got a depth of talent and a desire",
+      "confidence": 0.9900844,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2262.6602,
+      "end": 2264.12,
+      "text": "for frugal solutions.",
+      "confidence": 0.9808673,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2264.74,
+      "end": 2266.52,
+      "text": "And so even though the rich world,",
+      "confidence": 0.9474059,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2267.4602,
+      "end": 2271.8,
+      "text": "US, Europe, you know, we have a lot of talent. And for some basic science thing like immunology,",
+      "confidence": 0.9307797,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2272.755,
+      "end": 2277.7349,
+      "text": "a lot of the new insights will keep coming Yeah. From those institutions.",
+      "confidence": 0.99683577,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2278.1948,
+      "end": 2278.9348,
+      "text": "But when",
+      "confidence": 0.99442506,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2279.315,
+      "end": 2290.38,
+      "text": "it comes to actually putting the pieces together, including something like AI for healthcare, you know, I was just meeting with a number of companies working on on very piece various piece of that in India.",
+      "confidence": 0.9567849,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2291.88,
+      "end": 2292.38,
+      "text": "And",
+      "confidence": 0.9739967,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2292.8398,
+      "end": 2294.5398,
+      "text": "so the, you know, we need",
+      "confidence": 0.9535306,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2295.16,
+      "end": 2298.38,
+      "text": "better seeds and we need better weather advice for farmers.",
+      "confidence": 0.93865985,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2298.92,
+      "end": 2299.74,
+      "text": "And so,",
+      "confidence": 0.86576194,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2300.2449,
+      "end": 2305.705,
+      "text": "although we're going to continue to do a lot of implementation here in India, help, you know, get things rolled out,",
+      "confidence": 0.96041435,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2306.9648,
+      "end": 2309.705,
+      "text": "more and more of our sort of product research,",
+      "confidence": 0.98117614,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2310.805,
+      "end": 2314.265,
+      "text": "work will be done here. Okay. Both because,",
+      "confidence": 0.9588777,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2315.3198,
+      "end": 2316.6199,
+      "text": "it benefits India.",
+      "confidence": 0.91383797,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2317.0,
+      "end": 2319.26,
+      "text": "But, you know, we're also very good if",
+      "confidence": 0.9925665,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2319.72,
+      "end": 2320.7,
+      "text": "if it's saving",
+      "confidence": 0.98536295,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2321.24,
+      "end": 2322.94,
+      "text": "Indian children, really working",
+      "confidence": 0.9417591,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2323.48,
+      "end": 2325.0999,
+      "text": "well. You know, our foundation",
+      "confidence": 0.92650956,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2325.8,
+      "end": 2326.3,
+      "text": "has",
+      "confidence": 0.9992988,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2326.815,
+      "end": 2327.875,
+      "text": "a lot of presence",
+      "confidence": 0.9972096,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2328.175,
+      "end": 2339.4749,
+      "text": "in Africa. Mhmm. So even take, you know, the classic example where India was totally the leader on this digital public infrastructure, the the digital money and identity adhaar thing,",
+      "confidence": 0.9570009,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2340.3801,
+      "end": 2344.0,
+      "text": "you know, funding the Africans to come here and learn and,",
+      "confidence": 0.97899836,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2344.46,
+      "end": 2355.365,
+      "text": "for their budgets and create helping to create the open source software that makes it easy for them, you know, that's now a huge agenda item, which is kind of a South South thing with a little bit of facilitation",
+      "confidence": 0.96183616,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2355.665,
+      "end": 2356.405,
+      "text": "from us.",
+      "confidence": 0.99746513,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2357.345,
+      "end": 2359.665,
+      "text": "Got it. And here's the last question.",
+      "confidence": 0.95336884,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2362.225,
+      "end": 2362.725,
+      "text": "If",
+      "confidence": 0.98430055,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2363.825,
+      "end": 2367.205,
+      "text": "you had if the world had to write one sentence",
+      "confidence": 0.9897909,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2367.91,
+      "end": 2369.53,
+      "text": "next to the name Bill Gates,",
+      "confidence": 0.96155304,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2370.07,
+      "end": 2375.53,
+      "text": "what would you want them to write? You know, I don't do my work, you know, based on some epitaph.",
+      "confidence": 0.97687787,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2376.55,
+      "end": 2377.45,
+      "text": "You know, ideally,",
+      "confidence": 0.9920123,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2378.39,
+      "end": 2380.97,
+      "text": "you know, they'd say that, wow, there were these diseases",
+      "confidence": 0.991675,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2382.0051,
+      "end": 2384.425,
+      "text": "around, you know, polio and malaria",
+      "confidence": 0.9606467,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2384.725,
+      "end": 2385.225,
+      "text": "and,",
+      "confidence": 0.8741267,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2386.0051,
+      "end": 2386.5051,
+      "text": "malnutrition.",
+      "confidence": 0.79105854,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2386.965,
+      "end": 2391.465,
+      "text": "And, you know, now we don't have to think about that, you know, partly because,",
+      "confidence": 0.9821666,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2393.2852,
+      "end": 2394.105,
+      "text": "he championed,",
+      "confidence": 0.9948061,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2394.88,
+      "end": 2396.58,
+      "text": "you know, putting more,",
+      "confidence": 0.9780654,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2398.56,
+      "end": 2400.0999,
+      "text": "great thinking and resources",
+      "confidence": 0.9415432,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2400.56,
+      "end": 2404.74,
+      "text": "into ending those problems. And so, you know, I hope people",
+      "confidence": 0.9926495,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2405.28,
+      "end": 2407.78,
+      "text": "look at the word polio and go, what was that?",
+      "confidence": 0.98179424,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2408.48,
+      "end": 2409.615,
+      "text": "You know, when you read",
+      "confidence": 0.99602014,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2409.935,
+      "end": 2418.515,
+      "text": "Dickens' novels and they talk about somebody had consumption, it's like, what is that? Well, that's actually TB. So we still not in The UK, we don't have much, but,",
+      "confidence": 0.9594517,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2418.815,
+      "end": 2421.155,
+      "text": "we we we still do. They just",
+      "confidence": 0.9760523,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2421.98,
+      "end": 2424.0798,
+      "text": "changed the word. So, you know, hopefully,",
+      "confidence": 0.9084269,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2425.02,
+      "end": 2427.52,
+      "text": "some problems that that we can actually",
+      "confidence": 0.9982805,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2428.0598,
+      "end": 2428.5598,
+      "text": "finish,",
+      "confidence": 0.83187056,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2429.9,
+      "end": 2434.5598,
+      "text": "and and then move on. Which problem do you think we'll be finishing first? Well, polio,",
+      "confidence": 0.9606072,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2436.22,
+      "end": 2438.675,
+      "text": "you know, I I expect even in five years,",
+      "confidence": 0.9905889,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2439.455,
+      "end": 2440.7551,
+      "text": "and that'll give us,",
+      "confidence": 0.9813086,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2441.375,
+      "end": 2442.0352,
+      "text": "the credibility",
+      "confidence": 0.9998058,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2442.895,
+      "end": 2445.235,
+      "text": "to go after things like malaria and measles.",
+      "confidence": 0.9828397,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2446.0952,
+      "end": 2448.7551,
+      "text": "That's amazing. No. It is. It's gonna be fun.",
+      "confidence": 0.9371747,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2449.0552,
+      "end": 2450.195,
+      "text": "It's it's amazing.",
+      "confidence": 0.90671587,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2450.735,
+      "end": 2453.27,
+      "text": "In five years, we can make that a reality.",
+      "confidence": 0.92751914,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2453.73,
+      "end": 2455.67,
+      "text": "It's gonna be incredible for",
+      "confidence": 0.95063704,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2456.05,
+      "end": 2463.83,
+      "text": "the human kind. It's wow. Yeah. It's only to happen only once. Smallpox was eliminated back in 1980. So, you know, polio,",
+      "confidence": 0.8702031,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2464.21,
+      "end": 2466.47,
+      "text": "a serious disease, it's gonna be the second.",
+      "confidence": 0.90703374,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2467.545,
+      "end": 2468.765,
+      "text": "Wow. I",
+      "confidence": 0.98110557,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2469.4648,
+      "end": 2475.805,
+      "text": "really truly wish that it happens faster than what we've just talked about. And I hope, like, more than",
+      "confidence": 0.92481565,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2476.185,
+      "end": 2477.085,
+      "text": "by the time",
+      "confidence": 0.9883892,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2477.625,
+      "end": 2493.56,
+      "text": "the foundation gets in full fledged in the work, I I believe instead of not two three that could be month multiple of them so that you you lost counting. That should be the goal and I'm expecting for it. Well, thank you so much for doing this, sir. It was a pleasure having you.",
+      "confidence": 0.8840676,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2494.1802,
+      "end": 2495.32,
+      "text": "When I was",
+      "confidence": 0.99085665,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2495.635,
+      "end": 2497.655,
+      "text": "a kid, I was growing up in school.",
+      "confidence": 0.9572685,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2499.0752,
+      "end": 2500.455,
+      "text": "Just you were the richest",
+      "confidence": 0.80522126,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2500.8352,
+      "end": 2501.895,
+      "text": "person in the world.",
+      "confidence": 0.8353889,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2502.435,
+      "end": 2503.8152,
+      "text": "Before I gave it away.",
+      "confidence": 0.8523718,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2504.995,
+      "end": 2514.93,
+      "text": "So your name would pop up to just to talk about you and how you made your money was a proud feeling in school. And in friend circle, everybody would respect you that, oh, you know so much about",
+      "confidence": 0.8818912,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2515.31,
+      "end": 2516.69,
+      "text": "this person and that.",
+      "confidence": 0.9599657,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2517.31,
+      "end": 2526.775,
+      "text": "From there, that kid sitting right in front of you and trying to, you know, being in a situation where I'm sitting with you and figuring out what going on in your brain.",
+      "confidence": 0.9590936,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2527.075,
+      "end": 2529.9749,
+      "text": "It's an incredible opportunity. I'm so grateful.",
+      "confidence": 0.9913126,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2530.355,
+      "end": 2537.9749,
+      "text": "Thank you so much for doing this. It's a dream come true. Great. We'll have to do it again. Yes. We need to. I've got you on camera now.",
+      "confidence": 0.9790302,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2538.275,
+      "end": 2540.23,
+      "text": "Thank you. Thank you. Pleasure.",
+      "confidence": 0.99058324,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2540.69,
+      "end": 2543.8298,
+      "text": "I'm definitely a little nervous because it's a big, big, big, big vodka.",
+      "confidence": 0.80634147,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2546.93,
+      "end": 2551.27,
+      "text": "It's time. It's time. It's time. It's time. Good job. I'm excited.",
+      "confidence": 0.7938512,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2552.8499,
+      "end": 2553.91,
+      "text": "Hi. Hi,",
+      "confidence": 0.8877089,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2554.865,
+      "end": 2559.285,
+      "text": "How are you? Very good. How are you? Pleasure meeting you, Sophie. How are you? Yes.",
+      "confidence": 0.909292,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2559.585,
+      "end": 2562.7249,
+      "text": "That's fine. It's it's a pleasure seeing you here, though.",
+      "confidence": 0.86453056,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2563.105,
+      "end": 2565.365,
+      "text": "I'm pretty nervous at this point. Uh-oh.",
+      "confidence": 0.98711777,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2565.825,
+      "end": 2569.525,
+      "text": "Just bear with me. I'm pretty busy. Good. Good. I had",
+      "confidence": 0.7506409,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2569.9102,
+      "end": 2570.87,
+      "text": "500,000",
+      "confidence": 0.99773526,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2570.87,
+      "end": 2572.73,
+      "text": "things to talk to you and now I'm speechless.",
+      "confidence": 0.92468196,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2573.11,
+      "end": 2574.3901,
+      "text": "I like there's nothing in my",
+      "confidence": 0.83526796,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2575.83,
+      "end": 2580.81,
+      "text": "Thank you so much for watching this episode till the end. Please let us know in the comments",
+      "confidence": 0.9646391,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2581.1902,
+      "end": 2583.77,
+      "text": "who are the next guest that you wanna see",
+      "confidence": 0.95342267,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2584.425,
+      "end": 2585.485,
+      "text": "on this show",
+      "confidence": 0.99966526,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2586.0251,
+      "end": 2586.5251,
+      "text": "because",
+      "confidence": 0.49015105,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2587.065,
+      "end": 2593.245,
+      "text": "we are determined to get the best of the best minds from the world and provide you the maximum value.",
+      "confidence": 0.9919033,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2593.7852,
+      "end": 2599.325,
+      "text": "I'll see you next time. Until then, keep figuring out and don't forget to share this episode with at least one person",
+      "confidence": 0.9610857,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2600.16,
+      "end": 2601.14,
+      "text": "just keep life positive",
+      "confidence": 0.45850116,
+      "gender": "male"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2601.52,
+      "end": 2602.02,
+      "text": "change.",
+      "confidence": 0.7363183,
+      "gender": "male"
+    }
+  ],
+  "speaker_gender": {
+    "1": "male",
+    "0": "male"
+  }
+}

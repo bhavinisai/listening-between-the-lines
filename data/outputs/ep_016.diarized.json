@@ -1,0 +1,7279 @@
+{
+  "total_segments": 908,
+  "speakers": [
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1"
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2"
+    }
+  ],
+  "segments": [
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2.24,
+      "end": 5.62,
+      "text": "Do you feel like you need to prove yourself in the world?",
+      "confidence": 0.7578507
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 65.37,
+      "end": 65.87,
+      "text": "Gandhi.",
+      "confidence": 0.9507302
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 66.41,
+      "end": 67.335,
+      "text": "Apologize to",
+      "confidence": 0.8902141
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 74.854996,
+      "end": 80.475,
+      "text": "the nation. My father had a stroke. I know what I've lived in that one hour, fifteen minutes.",
+      "confidence": 0.93685365
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 81.05,
+      "end": 86.99,
+      "text": "When you lost election, you felt nothing. We have lost elections before. I was smiling and I was like, what's your name? So,",
+      "confidence": 0.74580044
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 126.815,
+      "end": 127.955,
+      "text": "follow. Enjoy the show.",
+      "confidence": 0.7982078
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 132.815,
+      "end": 134.035,
+      "text": "What hurts more?",
+      "confidence": 0.7628751
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 134.335,
+      "end": 134.835,
+      "text": "Being,",
+      "confidence": 0.657085
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 135.935,
+      "end": 138.195,
+      "text": "mhmm, as a as an actor when somebody underestimates",
+      "confidence": 0.74966574
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 138.575,
+      "end": 139.075,
+      "text": "you,",
+      "confidence": 0.648997
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 140.21,
+      "end": 141.99,
+      "text": "as a politician when you get hate",
+      "confidence": 0.9657915
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 142.29001,
+      "end": 149.27,
+      "text": "more? No. Nothing. Nothing hurts me. It's a good thing when people underestimate you. They don't see you coming. If you still have that,",
+      "confidence": 0.9636025
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 150.29001,
+      "end": 151.35,
+      "text": "it's a good thing.",
+      "confidence": 0.99911237
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 152.29001,
+      "end": 154.47,
+      "text": "You should use any negativity",
+      "confidence": 0.90905744
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 155.185,
+      "end": 158.165,
+      "text": "that normally people do not know how to deal with,",
+      "confidence": 0.98934776
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 160.78499,
+      "end": 161.525,
+      "text": "as a instrument",
+      "confidence": 0.90688556
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 161.905,
+      "end": 162.72499,
+      "text": "towards success.",
+      "confidence": 0.9141524
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 163.105,
+      "end": 166.72499,
+      "text": "But could be I said You cannot get so bogged down.",
+      "confidence": 0.8057278
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 167.04,
+      "end": 167.54,
+      "text": "Mhmm.",
+      "confidence": 0.8295401
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 176.15999,
+      "end": 176.65999,
+      "text": "Politics.",
+      "confidence": 0.45632774
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 177.04,
+      "end": 177.54,
+      "text": "Media.",
+      "confidence": 0.48549056
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 194.4,
+      "end": 194.9,
+      "text": "This",
+      "confidence": 0.43040735
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 199.28,
+      "end": 201.86,
+      "text": "was me when I was 24, 25. Okay.",
+      "confidence": 0.99643564
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 202.31999,
+      "end": 205.78,
+      "text": "When I'm 49, I realized the potential of networks.",
+      "confidence": 0.9653296
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 207.635,
+      "end": 209.25499,
+      "text": "But networks also",
+      "confidence": 0.9909646
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 209.635,
+      "end": 212.69499,
+      "text": "get with you two, three burdens or disadvantages.",
+      "confidence": 0.98088074
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 213.235,
+      "end": 213.735,
+      "text": "Okay.",
+      "confidence": 0.9905536
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 218.915,
+      "end": 219.89499,
+      "text": "Analysis emotionally.",
+      "confidence": 0.5143932
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 222.57999,
+      "end": 224.51999,
+      "text": "To explain network and explain",
+      "confidence": 0.8273201
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 224.98,
+      "end": 226.35999,
+      "text": "the advantages of that.",
+      "confidence": 0.6501169
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 228.9,
+      "end": 230.12,
+      "text": "I will link school",
+      "confidence": 0.45024568
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 249.78,
+      "end": 251.4,
+      "text": "fintech school established.",
+      "confidence": 0.7829065
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 252.81999,
+      "end": 253.31999,
+      "text": "Mhmm.",
+      "confidence": 0.880017
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 257.94,
+      "end": 258.84,
+      "text": "Physically Berkeley",
+      "confidence": 0.46653247
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 259.78,
+      "end": 261.0,
+      "text": "digitally. Okay.",
+      "confidence": 0.95062387
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 262.92502,
+      "end": 263.42502,
+      "text": "Cabinet.",
+      "confidence": 0.6370652
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 267.005,
+      "end": 268.30502,
+      "text": "Nice. Cabinet minister.",
+      "confidence": 0.62729913
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 275.05002,
+      "end": 276.03003,
+      "text": "Face to face.",
+      "confidence": 0.7163177
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 278.09003,
+      "end": 279.07,
+      "text": "Notes exchange.",
+      "confidence": 0.8040782
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 279.53003,
+      "end": 288.03003,
+      "text": "It does not matter what your language is. It does not matter what your geography is. Sometimes coming from simple backgrounds in itself is a chip on the shoulder,",
+      "confidence": 0.97990996
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 288.745,
+      "end": 289.725,
+      "text": "which is agnostic",
+      "confidence": 0.99878854
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 290.505,
+      "end": 291.405,
+      "text": "to your culture.",
+      "confidence": 0.9774782
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 295.065,
+      "end": 295.565,
+      "text": "Exchange",
+      "confidence": 0.26110908
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 301.0,
+      "end": 302.14,
+      "text": "networks power.",
+      "confidence": 0.5530219
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 302.6,
+      "end": 304.78,
+      "text": "To Ivy League school international",
+      "confidence": 0.6025244
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 305.56,
+      "end": 306.22,
+      "text": "think tank",
+      "confidence": 0.9255552
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 307.80002,
+      "end": 308.30002,
+      "text": "relationships",
+      "confidence": 0.60884356
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 308.84,
+      "end": 309.34,
+      "text": "build",
+      "confidence": 0.73405826
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 310.12,
+      "end": 310.62,
+      "text": "foundation",
+      "confidence": 0.8153143
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 311.4,
+      "end": 313.935,
+      "text": "So I think that is what networks get you.",
+      "confidence": 0.9284043
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 315.775,
+      "end": 316.835,
+      "text": "Access to places.",
+      "confidence": 0.73335
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 317.135,
+      "end": 318.355,
+      "text": "Access to information",
+      "confidence": 0.99471503
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 319.935,
+      "end": 321.475,
+      "text": "and new information. Commercial.",
+      "confidence": 0.75229853
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 327.29498,
+      "end": 328.035,
+      "text": "Just the whole",
+      "confidence": 0.890076
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 330.14,
+      "end": 331.2,
+      "text": "journey of knowing",
+      "confidence": 0.99256945
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 331.98,
+      "end": 332.64,
+      "text": "in itself",
+      "confidence": 0.9427887
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 333.02002,
+      "end": 333.68,
+      "text": "is brilliant.",
+      "confidence": 0.9735391
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 404.17502,
+      "end": 405.315,
+      "text": "But you mentioned",
+      "confidence": 0.7957282
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 406.73502,
+      "end": 407.715,
+      "text": "chip on the shoulder.",
+      "confidence": 0.8405448
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 409.215,
+      "end": 409.875,
+      "text": "Do you think",
+      "confidence": 0.8789127
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 416.77002,
+      "end": 417.27002,
+      "text": "ambitions?",
+      "confidence": 0.20298786
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 418.37,
+      "end": 419.11002,
+      "text": "Do you feel",
+      "confidence": 0.9710787
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 420.21,
+      "end": 422.63,
+      "text": "need constant to prove yourself in the world?",
+      "confidence": 0.8584307
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 423.57,
+      "end": 424.55002,
+      "text": "Chip on the shoulder.",
+      "confidence": 0.87442315
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 425.115,
+      "end": 425.615,
+      "text": "So",
+      "confidence": 0.2641077
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 433.995,
+      "end": 435.535,
+      "text": "you felt the need to prove yourself?",
+      "confidence": 0.9517932
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 435.995,
+      "end": 440.495,
+      "text": "Didn't feel the need to prove myself. I think what takes a lot of people aback",
+      "confidence": 0.96202165
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 441.78,
+      "end": 442.68,
+      "text": "is the tenacity.",
+      "confidence": 0.98165697
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 443.78,
+      "end": 444.28,
+      "text": "How",
+      "confidence": 0.7760917
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 445.38,
+      "end": 446.12,
+      "text": "dare you?",
+      "confidence": 0.93759984
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 452.98,
+      "end": 455.72,
+      "text": "That is the other thing the rich teach their kids,",
+      "confidence": 0.91946906
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 456.67502,
+      "end": 459.17502,
+      "text": "which middle class, lower middle class doesn't teach.",
+      "confidence": 0.9818833
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 460.195,
+      "end": 461.255,
+      "text": "How do we teach?",
+      "confidence": 0.6504823
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 463.315,
+      "end": 463.815,
+      "text": "No.",
+      "confidence": 0.844882
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 507.825,
+      "end": 508.885,
+      "text": "Less competent",
+      "confidence": 0.6226702
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 514.545,
+      "end": 515.045,
+      "text": "intelligent",
+      "confidence": 0.5725615
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 516.625,
+      "end": 517.125,
+      "text": "handle",
+      "confidence": 0.27040765
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 518.705,
+      "end": 524.54,
+      "text": "Who will go to 10 people who are actually working? Uh-huh. Hear everything that they are doing. Go to the boss",
+      "confidence": 0.92993003
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 525.48,
+      "end": 529.34,
+      "text": "before the hard worker gets to the boss. See, you know what? I think this should happen.",
+      "confidence": 0.96340126
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 530.68,
+      "end": 532.86,
+      "text": "You know? I know. That, I have,",
+      "confidence": 0.8391696
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 533.24,
+      "end": 535.34,
+      "text": "I think the middle class never teaches.",
+      "confidence": 0.99106777
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 535.955,
+      "end": 541.175,
+      "text": "That is the one burden most middle class people are bogged down with. How to serve the master?",
+      "confidence": 0.96068466
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 541.555,
+      "end": 542.055,
+      "text": "Uh-huh.",
+      "confidence": 0.88165045
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 542.435,
+      "end": 546.135,
+      "text": "Mhmm. Because we were supposed to we were taught to be humble,",
+      "confidence": 0.9867246
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 546.515,
+      "end": 547.735,
+      "text": "loyal, hardworking.",
+      "confidence": 0.95091593
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 553.01,
+      "end": 554.87,
+      "text": "How to leverage, how to be flashy.",
+      "confidence": 0.8247046
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 575.49,
+      "end": 577.35004,
+      "text": "Never. Never. Never. Never. Never. Never. Never. Never.",
+      "confidence": 0.8554552
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 588.435,
+      "end": 588.935,
+      "text": "Not",
+      "confidence": 0.4689432
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 590.03503,
+      "end": 590.53503,
+      "text": "that.",
+      "confidence": 0.9142465
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 591.635,
+      "end": 592.135,
+      "text": "But",
+      "confidence": 0.74657965
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 598.835,
+      "end": 599.335,
+      "text": "maybe",
+      "confidence": 0.5203271
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 601.235,
+      "end": 602.695,
+      "text": "So if you are going to be forgotten,",
+      "confidence": 0.86596644
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 603.41003,
+      "end": 604.07,
+      "text": "why waste",
+      "confidence": 0.9913427
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 605.09,
+      "end": 605.59,
+      "text": "time?",
+      "confidence": 0.9744606
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 608.13,
+      "end": 616.95,
+      "text": "The only difference is I've lived my life predominantly in front of the camera for twenty years, twenty, twenty five years. So I'm seeing.",
+      "confidence": 0.9779777
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 617.98505,
+      "end": 620.085,
+      "text": "But even if there is no light on",
+      "confidence": 0.9956953
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 620.465,
+      "end": 623.125,
+      "text": "and there's no camera facing me, I'm just the same.",
+      "confidence": 0.9718423
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 624.86505,
+      "end": 626.005,
+      "text": "Has it ever happened?",
+      "confidence": 0.8194984
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 627.825,
+      "end": 628.325,
+      "text": "You",
+      "confidence": 0.4151343
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 628.705,
+      "end": 630.16504,
+      "text": "know in your head. We all know.",
+      "confidence": 0.9148057
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 634.19,
+      "end": 636.05,
+      "text": "But there is somebody",
+      "confidence": 0.64367074
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 638.75,
+      "end": 639.25,
+      "text": "This",
+      "confidence": 0.65010613
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 641.63,
+      "end": 643.41,
+      "text": "power is a state of mind.",
+      "confidence": 0.991204
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 643.79,
+      "end": 645.64996,
+      "text": "Nice. It is not an individual.",
+      "confidence": 0.9920117
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 646.19,
+      "end": 647.49,
+      "text": "It is not a position.",
+      "confidence": 0.9971868
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 647.91504,
+      "end": 649.455,
+      "text": "It is a state of mind.",
+      "confidence": 0.9956181
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 651.11505,
+      "end": 652.895,
+      "text": "And if you realize that,",
+      "confidence": 0.99318945
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 653.91504,
+      "end": 655.375,
+      "text": "then you can leverage it.",
+      "confidence": 0.9889086
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 656.075,
+      "end": 658.41504,
+      "text": "But how do you How do you define power? Tell me.",
+      "confidence": 0.8992834
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 659.11505,
+      "end": 661.375,
+      "text": "I don't know. I have a question, and then I'll define.",
+      "confidence": 0.96592814
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 662.43,
+      "end": 665.25,
+      "text": "How do you enter a room where you know inherently",
+      "confidence": 0.9882166
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 666.27,
+      "end": 672.69,
+      "text": "key intelligence wise, position wise, passive wise, multiple other factors do be vanity metrics.",
+      "confidence": 0.863382
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 673.31,
+      "end": 681.84503,
+      "text": "Once otherwise, other person was superior position than you. Right? Then how do you not succumb to that power? And we Why do you have to succumb to anything?",
+      "confidence": 0.8441582
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 691.07,
+      "end": 693.49,
+      "text": "That is what I'm saying. Power is a state of mind.",
+      "confidence": 0.9663012
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 694.51,
+      "end": 696.93,
+      "text": "If you presume somebody has more money than you,",
+      "confidence": 0.99795085
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 697.87,
+      "end": 701.73,
+      "text": "then look at exact the context that you've set up in a different fashion.",
+      "confidence": 0.97044456
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 702.11,
+      "end": 703.41,
+      "text": "Why are you in the room?",
+      "confidence": 0.968682
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 705.755,
+      "end": 708.255,
+      "text": "That person with money, that person with power,",
+      "confidence": 0.95228195
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 709.115,
+      "end": 711.055,
+      "text": "why do they want you in the same room?",
+      "confidence": 0.99852824
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 712.955,
+      "end": 716.575,
+      "text": "The fact that you understand that aspect means who has power.",
+      "confidence": 0.96325284
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 717.47003,
+      "end": 720.61,
+      "text": "You know, I don't let anyone be more powerful in this room.",
+      "confidence": 0.98769814
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 720.99,
+      "end": 724.93,
+      "text": "I feel very friendly with somebody, whoever it is. Because it's it's that",
+      "confidence": 0.9663373
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 725.39,
+      "end": 727.81,
+      "text": "maybe I've trained myself in that Chip on the shoulder.",
+      "confidence": 0.7688243
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 737.065,
+      "end": 738.52496,
+      "text": "I won't let anyone be",
+      "confidence": 0.8656535
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 738.825,
+      "end": 746.285,
+      "text": "let's see. Power position in you. No. The fact that you're saying I won't let anyone be is power. How do you get off this?",
+      "confidence": 0.8795107
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 746.90497,
+      "end": 747.565,
+      "text": "You don't.",
+      "confidence": 0.6737168
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 748.71,
+      "end": 751.69,
+      "text": "You have to live your life to your comfort and to your truth.",
+      "confidence": 0.99639356
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 752.39,
+      "end": 758.17,
+      "text": "What may be true for me, what may be my way of life may not be yours. True. Why do you seek conformity?",
+      "confidence": 0.97577864
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 759.43,
+      "end": 761.05,
+      "text": "If you stop seeking conformity,",
+      "confidence": 0.9844958
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 761.825,
+      "end": 764.165,
+      "text": "you will stop next step is stop seeking validation.",
+      "confidence": 0.9865195
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 765.025,
+      "end": 766.485,
+      "text": "Mentoring session with",
+      "confidence": 0.95491976
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 767.34503,
+      "end": 768.245,
+      "text": "Harini now.",
+      "confidence": 0.5684613
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 768.625,
+      "end": 780.35004,
+      "text": "It's me and you. I am on the other end of podcast. I know it's true. Why? I don't know. It's that It's all different. When your boy comes out. No. But that's okay. That's what keeps you relevant to yourself.",
+      "confidence": 0.8985123
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 781.37,
+      "end": 784.35004,
+      "text": "It makes you watch over your shoulder always.",
+      "confidence": 0.9908944
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 784.81,
+      "end": 786.43,
+      "text": "So anytime people tell me",
+      "confidence": 0.95215493
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 786.81,
+      "end": 787.71,
+      "text": "see, Hamara,",
+      "confidence": 0.8719224
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 788.15497,
+      "end": 790.015,
+      "text": "again, I'm just presuming",
+      "confidence": 0.9882694
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 790.955,
+      "end": 791.455,
+      "text": "foundationally,",
+      "confidence": 0.80639035
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 791.835,
+      "end": 793.295,
+      "text": "you and I may have certain,",
+      "confidence": 0.9776669
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 793.875,
+      "end": 794.375,
+      "text": "you",
+      "confidence": 0.992338
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 794.955,
+      "end": 797.775,
+      "text": "know, foundational pieces of our life, which may be similar.",
+      "confidence": 0.97880524
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 800.555,
+      "end": 802.5,
+      "text": "How are we taught how to deal with life?",
+      "confidence": 0.9083928
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 802.98,
+      "end": 803.48,
+      "text": "We",
+      "confidence": 0.9774361
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 804.86,
+      "end": 805.36,
+      "text": "are",
+      "confidence": 0.4541631
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 806.74,
+      "end": 807.24,
+      "text": "never",
+      "confidence": 0.9832882
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 810.58,
+      "end": 811.08,
+      "text": "taught.",
+      "confidence": 0.9810323
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 813.62,
+      "end": 814.12,
+      "text": "We",
+      "confidence": 0.29469547
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 814.9,
+      "end": 817.64,
+      "text": "pick up the threads later. We call these people friends.",
+      "confidence": 0.97088337
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 823.42505,
+      "end": 823.92505,
+      "text": "Transparently.",
+      "confidence": 0.5719412
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 826.385,
+      "end": 826.885,
+      "text": "Juxtaposition",
+      "confidence": 0.65220976
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 827.505,
+      "end": 828.005,
+      "text": "workplace.",
+      "confidence": 0.5622387
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 892.64,
+      "end": 893.54004,
+      "text": "What are you saying?",
+      "confidence": 0.8258086
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 893.92004,
+      "end": 894.42004,
+      "text": "Yeah.",
+      "confidence": 0.635114
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 895.77,
+      "end": 896.27,
+      "text": "Life.",
+      "confidence": 0.5689049
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 966.44,
+      "end": 966.94,
+      "text": "True.",
+      "confidence": 0.8713579
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 998.94995,
+      "end": 1002.56995,
+      "text": "Do you think as as a woman, if you're a powerful woman, criticisms",
+      "confidence": 0.86174977
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1005.67,
+      "end": 1006.17,
+      "text": "problem.",
+      "confidence": 0.73604804
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1007.33496,
+      "end": 1009.03503,
+      "text": "Women in power problem. In",
+      "confidence": 0.6462449
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1009.495,
+      "end": 1009.995,
+      "text": "power",
+      "confidence": 0.98823756
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1013.33496,
+      "end": 1014.15497,
+      "text": "suddenly power.",
+      "confidence": 0.60315144
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1015.255,
+      "end": 1015.495,
+      "text": "Yeah. They have,",
+      "confidence": 0.56880504
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1018.135,
+      "end": 1020.93005,
+      "text": "this this something called the IPU. It's the International Parliamentary",
+      "confidence": 0.7896275
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1021.63,
+      "end": 1022.19,
+      "text": "Union. Okay.",
+      "confidence": 0.891002
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1045.5,
+      "end": 1046.0,
+      "text": "Mhmm.",
+      "confidence": 0.83341616
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1046.78,
+      "end": 1047.28,
+      "text": "Parliament.",
+      "confidence": 0.22816592
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1047.82,
+      "end": 1049.44,
+      "text": "Having the same conversation. How",
+      "confidence": 0.7633316
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1052.78,
+      "end": 1054.8,
+      "text": "they have to be doubly alert",
+      "confidence": 0.9753725
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1056.38,
+      "end": 1058.96,
+      "text": "so that they're not looked upon as abrasive.",
+      "confidence": 0.92341226
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1059.8451,
+      "end": 1061.7051,
+      "text": "And these are women of the world",
+      "confidence": 0.9980675
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1062.0851,
+      "end": 1062.905,
+      "text": "and parliamentarians",
+      "confidence": 0.89241564
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1063.2051,
+      "end": 1066.745,
+      "text": "and ministers. Around the world, same. It's the same.",
+      "confidence": 0.91820115
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1068.245,
+      "end": 1069.625,
+      "text": "Tell me two or three things.",
+      "confidence": 0.9693568
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1071.285,
+      "end": 1072.745,
+      "text": "And there's also a generational",
+      "confidence": 0.9390992
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1073.125,
+      "end": 1073.625,
+      "text": "differentiated",
+      "confidence": 0.98253757
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1073.925,
+      "end": 1074.425,
+      "text": "position.",
+      "confidence": 0.99824935
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1075.6,
+      "end": 1078.58,
+      "text": "There's a generation of women who are in their fifties, sixties.",
+      "confidence": 0.9816336
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1101.4,
+      "end": 1102.4601,
+      "text": "Stiff backlash",
+      "confidence": 0.99693656
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1103.72,
+      "end": 1105.3401,
+      "text": "or their character would be assassinated.",
+      "confidence": 0.88347363
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1106.28,
+      "end": 1108.86,
+      "text": "So they're 50 years old who've had those experiences.",
+      "confidence": 0.9623383
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1109.16,
+      "end": 1109.66,
+      "text": "They",
+      "confidence": 0.54108435
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1111.56,
+      "end": 1112.38,
+      "text": "say you're inexperienced.",
+      "confidence": 0.87181044
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1114.875,
+      "end": 1115.9349,
+      "text": "Then they say that.",
+      "confidence": 0.7382513
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1121.2749,
+      "end": 1124.97,
+      "text": "When you're 40 to 50, you're told make way for the 20 year old.",
+      "confidence": 0.916402
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1125.45,
+      "end": 1128.4299,
+      "text": "When you're 50 to 60, you might as well be dead because",
+      "confidence": 0.94501466
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1130.8099,
+      "end": 1132.03,
+      "text": "you're. So it's not easy.",
+      "confidence": 0.88112223
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1133.0499,
+      "end": 1134.4099,
+      "text": "I'm not being one of those,",
+      "confidence": 0.9783659
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1135.77,
+      "end": 1136.27,
+      "text": "feminist.",
+      "confidence": 0.8435323
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1165.665,
+      "end": 1166.645,
+      "text": "It was good.",
+      "confidence": 0.71110845
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1167.4249,
+      "end": 1169.205,
+      "text": "Then they don't see you coming. Then",
+      "confidence": 0.8753958
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1169.905,
+      "end": 1171.045,
+      "text": "they you.",
+      "confidence": 0.6616285
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1180.12,
+      "end": 1182.62,
+      "text": "And sadly, you have such a huge body of work",
+      "confidence": 0.89787495
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1183.0,
+      "end": 1185.1799,
+      "text": "that they can't deny you. Problem",
+      "confidence": 0.9489115
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1185.72,
+      "end": 1187.58,
+      "text": "when you've proven. Nice. And",
+      "confidence": 0.8245718
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1188.52,
+      "end": 1189.34,
+      "text": "have you felt",
+      "confidence": 0.94055015
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1189.7999,
+      "end": 1193.1,
+      "text": "there's I was reading about it in article. Okay?",
+      "confidence": 0.84750867
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1195.295,
+      "end": 1197.235,
+      "text": "Specifically, and it was talking about actually",
+      "confidence": 0.88294554
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1198.255,
+      "end": 1200.275,
+      "text": "worldwide women all around the world.",
+      "confidence": 0.9724648
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1202.895,
+      "end": 1211.6799,
+      "text": "People stop loving them. Like, people love them till the time they're very powerful. After they're powerful, then the case is. There's an there's an expectation",
+      "confidence": 0.9141293
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1211.98,
+      "end": 1213.44,
+      "text": "that you will be maternal.",
+      "confidence": 0.9926275
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1215.02,
+      "end": 1218.3999,
+      "text": "It's a wrong expectation. It's not a bad reflection on men.",
+      "confidence": 0.9356325
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1219.26,
+      "end": 1221.2799,
+      "text": "It is a bad reflection on upbringing.",
+      "confidence": 0.9941879
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1222.855,
+      "end": 1224.155,
+      "text": "Around the world, upbringing?",
+      "confidence": 0.61092937
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1226.295,
+      "end": 1226.795,
+      "text": "Context",
+      "confidence": 0.48950562
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1229.1749,
+      "end": 1231.195,
+      "text": "of how they may not be viewed.",
+      "confidence": 0.8569601
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1235.75,
+      "end": 1236.25,
+      "text": "Nurturer",
+      "confidence": 0.6734513
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1237.11,
+      "end": 1237.61,
+      "text": "or",
+      "confidence": 0.61480045
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1238.39,
+      "end": 1238.89,
+      "text": "nurturing",
+      "confidence": 0.25382555
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1240.79,
+      "end": 1241.37,
+      "text": "umbrella acceptable",
+      "confidence": 0.57358927
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1244.63,
+      "end": 1246.57,
+      "text": "Your power should not shriek.",
+      "confidence": 0.89558876
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1247.955,
+      "end": 1249.495,
+      "text": "It should always whisper.",
+      "confidence": 0.9666091
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1251.075,
+      "end": 1252.295,
+      "text": "If power shrieks,",
+      "confidence": 0.9763587
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1254.035,
+      "end": 1256.135,
+      "text": "then you truly do not understand power.",
+      "confidence": 0.9905752
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1257.075,
+      "end": 1258.295,
+      "text": "Silence is power.",
+      "confidence": 0.95835423
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1258.835,
+      "end": 1259.335,
+      "text": "Wow.",
+      "confidence": 0.9971772
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1259.67,
+      "end": 1260.17,
+      "text": "Absence",
+      "confidence": 0.992309
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1263.5901,
+      "end": 1264.17,
+      "text": "is power.",
+      "confidence": 0.95037746
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1297.37,
+      "end": 1297.87,
+      "text": "True.",
+      "confidence": 0.7387863
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1301.7051,
+      "end": 1303.9651,
+      "text": "So we translate these emotions",
+      "confidence": 0.9279665
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1304.505,
+      "end": 1305.805,
+      "text": "on a wider canvas.",
+      "confidence": 0.93806225
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1306.9851,
+      "end": 1308.925,
+      "text": "And you have to understand that.",
+      "confidence": 0.98063177
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1309.8651,
+      "end": 1310.925,
+      "text": "It's not that",
+      "confidence": 0.9890899
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1311.545,
+      "end": 1312.925,
+      "text": "even if I'm saying",
+      "confidence": 0.93120414
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1325.07,
+      "end": 1325.57,
+      "text": "politics.",
+      "confidence": 0.56830144
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1358.025,
+      "end": 1363.085,
+      "text": "You learned all of these things or it was inherent? This is me, but I've never spoken about me.",
+      "confidence": 0.9066466
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1363.465,
+      "end": 1365.725,
+      "text": "Fifteen years, I've spoken about my party.",
+      "confidence": 0.9517435
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1366.665,
+      "end": 1369.245,
+      "text": "Before that, I've spoken about my work as an actor.",
+      "confidence": 0.9938885
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1370.24,
+      "end": 1377.22,
+      "text": "These are the rare consequences. Nobody has asked me all this. What's the most misunderstood thing about you? I don't know. Because you're misunderstood",
+      "confidence": 0.92448694
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1377.6799,
+      "end": 1378.4199,
+      "text": "in some",
+      "confidence": 0.9978285
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1378.72,
+      "end": 1383.7,
+      "text": "metrics by many. What do you think is the biggest misunderstanding? I think it stems from the",
+      "confidence": 0.96438074
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1385.115,
+      "end": 1386.015,
+      "text": "perception of",
+      "confidence": 0.9991139
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1386.395,
+      "end": 1387.535,
+      "text": "couldn't care less.",
+      "confidence": 0.95812017
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1389.035,
+      "end": 1391.375,
+      "text": "As a politician, do I deliver? Yes.",
+      "confidence": 0.9892735
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1391.915,
+      "end": 1393.295,
+      "text": "To my party, I do.",
+      "confidence": 0.9712221
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1393.755,
+      "end": 1394.655,
+      "text": "To my constituents,",
+      "confidence": 0.98262614
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1394.9551,
+      "end": 1395.615,
+      "text": "I do.",
+      "confidence": 0.99874616
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1396.555,
+      "end": 1398.015,
+      "text": "To parliament, I do.",
+      "confidence": 0.95007503
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1399.435,
+      "end": 1399.935,
+      "text": "As",
+      "confidence": 0.99781656
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1400.29,
+      "end": 1402.95,
+      "text": "a person who is building policy papers,",
+      "confidence": 0.9937839
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1403.41,
+      "end": 1404.23,
+      "text": "I work,",
+      "confidence": 0.87966263
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1405.89,
+      "end": 1409.83,
+      "text": "with the CII, the Confederation of Indian Industries. I work with Bill Gates.",
+      "confidence": 0.96672386
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1411.49,
+      "end": 1413.27,
+      "text": "Do I deliver? Yes, I do.",
+      "confidence": 0.972558
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1414.345,
+      "end": 1420.0449,
+      "text": "As an actor, do I deliver on set? I do. Everybody knows. So people who are engaged with me,",
+      "confidence": 0.98296106
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1420.345,
+      "end": 1421.1649,
+      "text": "their expectations",
+      "confidence": 0.9831774
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1421.465,
+      "end": 1423.485,
+      "text": "of me, do I fulfill? Yes.",
+      "confidence": 0.9655354
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1429.32,
+      "end": 1431.34,
+      "text": "Like, you know the whispers about you only.",
+      "confidence": 0.87183696
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1431.64,
+      "end": 1432.54,
+      "text": "Doesn't matter.",
+      "confidence": 0.9404283
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1433.16,
+      "end": 1437.18,
+      "text": "Never mad. Never bother. No. You should have whispers about you. Mhmm. Otherwise,",
+      "confidence": 0.92609715
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1439.895,
+      "end": 1440.395,
+      "text": "that",
+      "confidence": 0.26388925
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1443.335,
+      "end": 1444.3151,
+      "text": "means you're redundant.",
+      "confidence": 0.98314255
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1444.6951,
+      "end": 1445.1951,
+      "text": "Yeah.",
+      "confidence": 0.85648227
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1445.735,
+      "end": 1446.795,
+      "text": "So you like that?",
+      "confidence": 0.84016234
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1449.8151,
+      "end": 1454.795,
+      "text": "I am no attachment, which is, I think, the most scary part about being me.",
+      "confidence": 0.89787257
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1455.72,
+      "end": 1457.58,
+      "text": "I don't get swayed by popularity.",
+      "confidence": 0.9957532
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1458.04,
+      "end": 1459.74,
+      "text": "I don't get swayed by controversy.",
+      "confidence": 0.9982405
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1460.12,
+      "end": 1469.42,
+      "text": "I don't get swayed if you hate me. I don't get swayed if you love me. But tell me one time. Okay? Think hard. You have to tell me something. But one time where",
+      "confidence": 0.95538545
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1470.465,
+      "end": 1476.725,
+      "text": "koi rumor, koi insight, there's something that really affected you, which it got under your skin. Yeah.",
+      "confidence": 0.8437244
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1477.025,
+      "end": 1483.445,
+      "text": "There we all have that. You're spiritually unaffected. You're as the human being, I can see. Physically, mentally also.",
+      "confidence": 0.8357434
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1485.34,
+      "end": 1487.6,
+      "text": "Kobi, nothing has gotten under your skin",
+      "confidence": 0.93072367
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1489.0199,
+      "end": 1489.5199,
+      "text": "ever.",
+      "confidence": 0.7293635
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1490.5399,
+      "end": 1493.2,
+      "text": "Even when they attack your family My family",
+      "confidence": 0.9971083
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1493.8999,
+      "end": 1494.8799,
+      "text": "did not choose,",
+      "confidence": 0.9797292
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1496.46,
+      "end": 1496.955,
+      "text": "fame,",
+      "confidence": 0.98957884
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1497.515,
+      "end": 1498.015,
+      "text": "attention.",
+      "confidence": 0.87962985
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1499.4349,
+      "end": 1501.7749,
+      "text": "Do they bear the consequences of it? Yes.",
+      "confidence": 0.97993976
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1502.475,
+      "end": 1505.135,
+      "text": "But can I avoid what happens to us?",
+      "confidence": 0.99554956
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1505.995,
+      "end": 1506.735,
+      "text": "I can't.",
+      "confidence": 0.9743593
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1509.9299,
+      "end": 1514.51,
+      "text": "Even if I was not famous, would they have gone through their own journeys of disappointments?",
+      "confidence": 0.9866993
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1515.61,
+      "end": 1518.51,
+      "text": "Would they have gone through their own journeys of backlashes?",
+      "confidence": 0.9910383
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1519.5299,
+      "end": 1523.87,
+      "text": "Would they have gone through their own journeys where they are shattered as people? Yes.",
+      "confidence": 0.99234676
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1525.9349,
+      "end": 1527.315,
+      "text": "Today, I'm just one factor",
+      "confidence": 0.9549341
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1528.4149,
+      "end": 1530.275,
+      "text": "which makes it happen in their life.",
+      "confidence": 0.93981117
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1530.975,
+      "end": 1532.515,
+      "text": "Even if you remove them,",
+      "confidence": 0.9553135
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1539.72,
+      "end": 1540.22,
+      "text": "I'm",
+      "confidence": 0.52780986
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1541.72,
+      "end": 1543.4199,
+      "text": "a factor. I'm not their whole life.",
+      "confidence": 0.9266592
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1544.44,
+      "end": 1546.5399,
+      "text": "But then does it affect you? I",
+      "confidence": 0.8381392
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1547.72,
+      "end": 1549.9,
+      "text": "saw some clip where you got a little angry.",
+      "confidence": 0.96555644
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1550.6,
+      "end": 1551.6599,
+      "text": "My issue is,",
+      "confidence": 0.86335593
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1552.135,
+      "end": 1554.315,
+      "text": "does it affect me? Like, there's a",
+      "confidence": 0.9791409
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1554.615,
+      "end": 1556.235,
+      "text": "speech of mine that goes viral",
+      "confidence": 0.995714
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1556.695,
+      "end": 1557.875,
+      "text": "of shouting at,",
+      "confidence": 0.9276094
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1558.455,
+      "end": 1559.355,
+      "text": "Sonia Gandhi.",
+      "confidence": 0.7469083
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1560.535,
+      "end": 1563.99,
+      "text": "My father had a stroke just fifteen minutes before that.",
+      "confidence": 0.9710808
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1566.87,
+      "end": 1569.9299,
+      "text": "I'm the eldest in my family. I was the only one in Delhi.",
+      "confidence": 0.99518716
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1571.4299,
+      "end": 1576.25,
+      "text": "I still remember ten thirty hours to address the press. 11:00 was parliament.",
+      "confidence": 0.920551
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1577.015,
+      "end": 1578.2949,
+      "text": "10:45,",
+      "confidence": 0.9487498
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1578.2949,
+      "end": 1585.115,
+      "text": "my father collapsed in CP, Connaught Place in Delhi. I was at Tughla Crescent at my official residence.",
+      "confidence": 0.95596725
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1586.135,
+      "end": 1586.875,
+      "text": "You are",
+      "confidence": 0.99884355
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1587.335,
+      "end": 1589.6749,
+      "text": "to present yourself to the parliament of India",
+      "confidence": 0.9399514
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1590.135,
+      "end": 1591.6749,
+      "text": "at 11:00 sharp.",
+      "confidence": 0.9797948
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1592.7201,
+      "end": 1596.02,
+      "text": "So what do you do? You have fifteen minutes. You can't get to CP.",
+      "confidence": 0.9644408
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1596.56,
+      "end": 1597.86,
+      "text": "You can get to parliament.",
+      "confidence": 0.9439642
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1598.4,
+      "end": 1601.86,
+      "text": "And you don't have the time to seek permission from parliament",
+      "confidence": 0.9968399
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1602.9601,
+      "end": 1603.78,
+      "text": "to say, Sahab,",
+      "confidence": 0.8668774
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1604.4,
+      "end": 1605.3,
+      "text": "I can't appear.",
+      "confidence": 0.9988179
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1605.675,
+      "end": 1608.5751,
+      "text": "Why? Because you're taking a position to defend the president of India.",
+      "confidence": 0.98473614
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1610.635,
+      "end": 1611.135,
+      "text": "So",
+      "confidence": 0.99307054
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1611.5951,
+      "end": 1612.3351,
+      "text": "you rush",
+      "confidence": 0.9898718
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1613.275,
+      "end": 1614.8151,
+      "text": "I mean, I had nobody then.",
+      "confidence": 0.99498326
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1615.1951,
+      "end": 1616.4951,
+      "text": "I had rushed my assistant.",
+      "confidence": 0.8335886
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1617.035,
+      "end": 1621.84,
+      "text": "I said, koi jao and medanta, which was the hospital, which was one hour away.",
+      "confidence": 0.8840739
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1623.02,
+      "end": 1624.72,
+      "text": "My father's taken into emergency.",
+      "confidence": 0.85989904
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1625.26,
+      "end": 1628.24,
+      "text": "I go to parliament. I mean, I know what I've lived in that",
+      "confidence": 0.9753264
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1628.54,
+      "end": 1631.6,
+      "text": "one hour, fifteen minutes. What was going on in your head?",
+      "confidence": 0.92878854
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1631.9651,
+      "end": 1636.545,
+      "text": "Just to get him to a doctor and just to go to parliament, finish my parliamentary obligations.",
+      "confidence": 0.94669646
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1637.805,
+      "end": 1641.425,
+      "text": "I finished my parliamentary obligations, went to the speaker's room,",
+      "confidence": 0.9613404
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1642.125,
+      "end": 1645.905,
+      "text": "sought permission that's up because I have to seek permission from the leadership",
+      "confidence": 0.87098175
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1648.6,
+      "end": 1658.86,
+      "text": "and sought permission. I still remember the home minister being there and the speaker, they were in a meeting. I'm sorry, but I'm saying this. And I said, sir, my dad just had a stroke.",
+      "confidence": 0.9590375
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1659.16,
+      "end": 1660.54,
+      "text": "I need to get to him.",
+      "confidence": 0.95444685
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1662.225,
+      "end": 1663.525,
+      "text": "But those are your responsibilities.",
+      "confidence": 0.9871618
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1665.985,
+      "end": 1666.9651,
+      "text": "You seek permission.",
+      "confidence": 0.99064255
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1667.505,
+      "end": 1669.285,
+      "text": "Even in that moment? Yes.",
+      "confidence": 0.95263004
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1670.625,
+      "end": 1675.685,
+      "text": "And you go and you spend that time between the hospital and your parliamentary office",
+      "confidence": 0.9772114
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1676.99,
+      "end": 1679.8899,
+      "text": "that your dad is okay to go about.",
+      "confidence": 0.90638876
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1680.2699,
+      "end": 1681.01,
+      "text": "My son",
+      "confidence": 0.99898577
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1683.5499,
+      "end": 1684.0499,
+      "text": "collapsed",
+      "confidence": 0.94735503
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1685.07,
+      "end": 1685.8899,
+      "text": "the first time,",
+      "confidence": 0.8892164
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1686.59,
+      "end": 1688.5299,
+      "text": "second session of 2014",
+      "confidence": 0.9681677
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1689.0851,
+      "end": 1690.625,
+      "text": "winter session, I think,",
+      "confidence": 0.8071314
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1691.645,
+      "end": 1692.7051,
+      "text": "between AIMS",
+      "confidence": 0.90701365
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1693.2451,
+      "end": 1695.265,
+      "text": "and parliament was on even then.",
+      "confidence": 0.9047954
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1696.765,
+      "end": 1703.9851,
+      "text": "None of my parliamentary colleagues knew, except my leadership, that my kid is in hospital. What prepares you for this? You've seen so much",
+      "confidence": 0.9381182
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1705.06,
+      "end": 1706.3401,
+      "text": "That your brain just works on",
+      "confidence": 0.83100265
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1707.86,
+      "end": 1710.28,
+      "text": "your brain actually works on.",
+      "confidence": 0.88232154
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1720.095,
+      "end": 1720.595,
+      "text": "Responsibility",
+      "confidence": 0.50372356
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1722.735,
+      "end": 1726.115,
+      "text": "fulfill But sometimes it is pure emotion that your father, it's your kid.",
+      "confidence": 0.7354184
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1726.495,
+      "end": 1726.995,
+      "text": "Yes.",
+      "confidence": 0.99424183
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1727.4551,
+      "end": 1727.9551,
+      "text": "You",
+      "confidence": 0.5733282
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1729.375,
+      "end": 1729.875,
+      "text": "logic",
+      "confidence": 0.4492841
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1731.135,
+      "end": 1732.115,
+      "text": "like, how do you",
+      "confidence": 0.85058683
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1734.6399,
+      "end": 1736.34,
+      "text": "True test as an individual.",
+      "confidence": 0.809869
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1736.96,
+      "end": 1737.46,
+      "text": "Fair.",
+      "confidence": 0.96232986
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1738.48,
+      "end": 1738.98,
+      "text": "Emotion.",
+      "confidence": 0.55836177
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1744.0,
+      "end": 1744.74,
+      "text": "Responsibility. Responsibility.",
+      "confidence": 0.53890276
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1762.79,
+      "end": 1764.41,
+      "text": "And I was working with two producers.",
+      "confidence": 0.9331605
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1768.0701,
+      "end": 1770.9701,
+      "text": "He says, I can actually afford to give you a week off.",
+      "confidence": 0.8754677
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1771.67,
+      "end": 1775.185,
+      "text": "But Etta could not afford because she was airing every day.",
+      "confidence": 0.894466
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1777.005,
+      "end": 1778.125,
+      "text": "So somebody went",
+      "confidence": 0.91660327
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1779.0851,
+      "end": 1779.8251,
+      "text": "told her",
+      "confidence": 0.9559326
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1782.4451,
+      "end": 1782.9451,
+      "text": "production.",
+      "confidence": 0.4062382
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1796.49,
+      "end": 1797.87,
+      "text": "You don't feel emotionally",
+      "confidence": 0.7815088
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1798.8099,
+      "end": 1800.9099,
+      "text": "crushed at that time because you understand",
+      "confidence": 0.9599363
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1801.905,
+      "end": 1802.405,
+      "text": "that",
+      "confidence": 0.37840447
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1802.865,
+      "end": 1803.365,
+      "text": "professionals,",
+      "confidence": 0.5560525
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1804.305,
+      "end": 1805.365,
+      "text": "they need to hide",
+      "confidence": 0.99111706
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1805.665,
+      "end": 1815.765,
+      "text": "behind certain things to make sure that they don't look bad in front of their boss. Everybody's trying to get a job done. Everybody's dependent on that salary. Does all of this come from a sense of responsibility",
+      "confidence": 0.9799347
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1816.0651,
+      "end": 1818.59,
+      "text": "or does it come from a boss's order? You have to be responsible",
+      "confidence": 0.8129604
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1818.97,
+      "end": 1820.59,
+      "text": "also for other people who are dependent.",
+      "confidence": 0.97517776
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1821.61,
+      "end": 1824.03,
+      "text": "But no. Is it is it pure responsibility that your boss",
+      "confidence": 0.8011526
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1844.2401,
+      "end": 1847.78,
+      "text": "can you manage those factors to the best of your ability? You should.",
+      "confidence": 0.9960383
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1848.4801,
+      "end": 1854.02,
+      "text": "But tell me about that time. You didn't you didn't answer that. What? There was this any time when your family will get the tag.",
+      "confidence": 0.83961415
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1854.8,
+      "end": 1862.845,
+      "text": "It it gets to your head. No. Irritate and they'll say anger. No. I think what happens is and what my",
+      "confidence": 0.8628597
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1863.145,
+      "end": 1865.165,
+      "text": "people who love me do not want",
+      "confidence": 0.9598077
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1866.185,
+      "end": 1867.965,
+      "text": "is something inside me snapping",
+      "confidence": 0.9606326
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1869.29,
+      "end": 1871.47,
+      "text": "and me wanting to kind of",
+      "confidence": 0.9818201
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1872.41,
+      "end": 1873.5499,
+      "text": "settle that score.",
+      "confidence": 0.9300089
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1874.33,
+      "end": 1876.59,
+      "text": "Like, you don't want this woman settling score.",
+      "confidence": 0.9259056
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1879.45,
+      "end": 1880.6699,
+      "text": "Do you settle scores?",
+      "confidence": 0.9936156
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1881.69,
+      "end": 1882.19,
+      "text": "No.",
+      "confidence": 0.99865735
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1882.605,
+      "end": 1883.105,
+      "text": "Never?",
+      "confidence": 0.995298
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1883.725,
+      "end": 1885.265,
+      "text": "No. I take it as an indication",
+      "confidence": 0.99601686
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1888.045,
+      "end": 1888.545,
+      "text": "genuinely.",
+      "confidence": 0.5169349
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1895.53,
+      "end": 1897.63,
+      "text": "That everything will be downhill from now",
+      "confidence": 0.9367447
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1898.33,
+      "end": 1902.99,
+      "text": "if they have done this to me. It has happened. So anytime somebody does something to me,",
+      "confidence": 0.9388568
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1907.845,
+      "end": 1909.865,
+      "text": "And I like, what's wrong with you? Why would you smile?",
+      "confidence": 0.83042186
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1910.8849,
+      "end": 1914.4249,
+      "text": "And later when I started exhibiting these examples, I'm like, hope.",
+      "confidence": 0.83013034
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1915.845,
+      "end": 1917.3849,
+      "text": "So I genuinely believe",
+      "confidence": 0.9810297
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1919.2849,
+      "end": 1920.0249,
+      "text": "it'll happen.",
+      "confidence": 0.9508754
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1935.735,
+      "end": 1937.115,
+      "text": "You have to know",
+      "confidence": 0.8585197
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1937.495,
+      "end": 1942.155,
+      "text": "that you're not where you are without God's blessing. So if it is a domino effect",
+      "confidence": 0.97357076
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1942.535,
+      "end": 1943.595,
+      "text": "and you're being pushed,",
+      "confidence": 0.86479235
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1944.4551,
+      "end": 1947.72,
+      "text": "that means somebody either get pushed back or pushed forward.",
+      "confidence": 0.8296714
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1948.6,
+      "end": 1951.02,
+      "text": "You have to realize that you're that one little thing.",
+      "confidence": 0.94185877
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1951.96,
+      "end": 1953.74,
+      "text": "I realized that very early.",
+      "confidence": 0.90343726
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1954.76,
+      "end": 1955.26,
+      "text": "I",
+      "confidence": 0.39790538
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1956.28,
+      "end": 1958.78,
+      "text": "started seeing those examples before me.",
+      "confidence": 0.9942789
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1959.32,
+      "end": 1961.1,
+      "text": "Wow. So you got this Everybody.",
+      "confidence": 0.84033626
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1961.755,
+      "end": 1963.9349,
+      "text": "No. Because it happened right in front of me.",
+      "confidence": 0.9703934
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 1964.7949,
+      "end": 1967.215,
+      "text": "I'm lucky enough to observe. Give me an example.",
+      "confidence": 0.8926293
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1969.595,
+      "end": 1973.215,
+      "text": "I was working with somebody till the last day of the ninth month",
+      "confidence": 0.8747403
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1973.515,
+      "end": 1974.815,
+      "text": "while I was also doing.",
+      "confidence": 0.86772954
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1975.78,
+      "end": 1977.4,
+      "text": "It was a daily talk show.",
+      "confidence": 0.96683145
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1978.42,
+      "end": 1979.32,
+      "text": "And I was told",
+      "confidence": 0.9302826
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1984.58,
+      "end": 1986.28,
+      "text": "This is for the lay person who's watching.",
+      "confidence": 0.8220706
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1989.06,
+      "end": 1991.0,
+      "text": "Imagine this is my first stint.",
+      "confidence": 0.74977344
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1991.515,
+      "end": 1992.735,
+      "text": "Where I've just bought a house.",
+      "confidence": 0.8978278
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 1995.355,
+      "end": 1996.105,
+      "text": "Very EMI.",
+      "confidence": 0.5907316
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2007.99,
+      "end": 2009.61,
+      "text": "You are 25 years old.",
+      "confidence": 0.7578235
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2010.7899,
+      "end": 2011.2899,
+      "text": "And",
+      "confidence": 0.9772954
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2011.9099,
+      "end": 2014.57,
+      "text": "I'm in the hospital after giving birth to my baby,",
+      "confidence": 0.98439205
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2015.0299,
+      "end": 2017.37,
+      "text": "and I hear I'm fired. Right before?",
+      "confidence": 0.98589414
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2018.525,
+      "end": 2022.705,
+      "text": "Just after having the baby. Oh, just, sir. And I just shot, like, a day before.",
+      "confidence": 0.92307127
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2024.205,
+      "end": 2029.6749,
+      "text": "And they were just waiting for me to get into the hospital to see you're fired. And why? Just. Because I break",
+      "confidence": 0.8225666
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2031.78,
+      "end": 2032.28,
+      "text": "bank.",
+      "confidence": 0.36056322
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2034.052,
+      "end": 2034.552,
+      "text": "Replace.",
+      "confidence": 0.3047676
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2036.324,
+      "end": 2036.824,
+      "text": "I",
+      "confidence": 0.44577962
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2038.5961,
+      "end": 2039.0961,
+      "text": "started",
+      "confidence": 0.9449312
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2040.868,
+      "end": 2041.368,
+      "text": "smiling.",
+      "confidence": 0.8854157
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2043.14,
+      "end": 2044.04,
+      "text": "And my family",
+      "confidence": 0.6624038
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2050.305,
+      "end": 2051.205,
+      "text": "I was smiling.",
+      "confidence": 0.56167555
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2052.545,
+      "end": 2055.685,
+      "text": "I think that's the first time I told my family that this is gonna happen.",
+      "confidence": 0.94389
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2056.385,
+      "end": 2058.645,
+      "text": "So they said, why? I said, no, I should write",
+      "confidence": 0.9091892
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2058.96,
+      "end": 2061.46,
+      "text": "mostly the script also. I should do everything.",
+      "confidence": 0.9446748
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2067.1199,
+      "end": 2069.78,
+      "text": "So they hired a film actor for it.",
+      "confidence": 0.9216734
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2070.4,
+      "end": 2071.8599,
+      "text": "We'll hire somebody whose",
+      "confidence": 0.8826986
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2072.375,
+      "end": 2081.915,
+      "text": "exhibit is much more bigger intellectual, bigger name, blah, blah, blah, blah, blah. I kept smiling. And the show shut down. And the show never started again. Smriti Rani's hidden superpower.",
+      "confidence": 0.9040832
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2082.6948,
+      "end": 2084.395,
+      "text": "No. It is just God.",
+      "confidence": 0.90290594
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2084.855,
+      "end": 2086.315,
+      "text": "And he's genuinely God.",
+      "confidence": 0.7883925
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2101.765,
+      "end": 2102.265,
+      "text": "Choices.",
+      "confidence": 0.25695693
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2104.085,
+      "end": 2104.585,
+      "text": "Mhmm.",
+      "confidence": 0.80498236
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2106.405,
+      "end": 2106.905,
+      "text": "Consciously",
+      "confidence": 0.15359588
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2107.285,
+      "end": 2107.865,
+      "text": "could choose",
+      "confidence": 0.7754916
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2112.0051,
+      "end": 2112.7551,
+      "text": "choice regret",
+      "confidence": 0.25968754
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2142.05,
+      "end": 2143.75,
+      "text": "and not get swayed at all.",
+      "confidence": 0.97963065
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2144.53,
+      "end": 2146.8699,
+      "text": "You have to know what is an act and what is reality.",
+      "confidence": 0.9918602
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2147.41,
+      "end": 2151.11,
+      "text": "Do you know online people say you have built a very intimidating personality?",
+      "confidence": 0.9615351
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2151.49,
+      "end": 2153.43,
+      "text": "Do you think so? I don't know.",
+      "confidence": 0.9973012
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2153.895,
+      "end": 2157.675,
+      "text": "I think you were online and have never met me offline. How do they know?",
+      "confidence": 0.7925596
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2158.295,
+      "end": 2159.115,
+      "text": "By the persona.",
+      "confidence": 0.816499
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2159.735,
+      "end": 2160.235,
+      "text": "Offline",
+      "confidence": 0.44400543
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2161.495,
+      "end": 2161.995,
+      "text": "online",
+      "confidence": 0.29853985
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2162.935,
+      "end": 2165.915,
+      "text": "opinion. But I said like that for intimidating personality.",
+      "confidence": 0.61108476
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2166.67,
+      "end": 2169.89,
+      "text": "You have a very powerful, very strong, certain personality.",
+      "confidence": 0.93215114
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2170.19,
+      "end": 2173.09,
+      "text": "I was always like this. Even when we were like,",
+      "confidence": 0.90558034
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2174.51,
+      "end": 2175.49,
+      "text": "and I used to like,",
+      "confidence": 0.72953624
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2176.19,
+      "end": 2177.49,
+      "text": "I was seven years old.",
+      "confidence": 0.8556908
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2180.685,
+      "end": 2181.665,
+      "text": "I'll become a success.",
+      "confidence": 0.8353373
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2184.5251,
+      "end": 2186.3052,
+      "text": "My mother, like, what's wrong with you?",
+      "confidence": 0.8038888
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2187.245,
+      "end": 2190.705,
+      "text": "When I came first to Mumbai, Bombay then, I was 17.",
+      "confidence": 0.8158499
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2219.945,
+      "end": 2220.445,
+      "text": "Manifest",
+      "confidence": 0.4496736
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2222.95,
+      "end": 2224.01,
+      "text": "manifest is",
+      "confidence": 0.49396434
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2254.68,
+      "end": 2255.82,
+      "text": "Seven p. Realization",
+      "confidence": 0.75993985
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2280.8198,
+      "end": 2281.3198,
+      "text": "challenges.",
+      "confidence": 0.64202446
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2291.3,
+      "end": 2292.985,
+      "text": "Tell me what poverty",
+      "confidence": 0.8757748
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2293.605,
+      "end": 2294.105,
+      "text": "privilege",
+      "confidence": 0.47940338
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2294.965,
+      "end": 2296.0251,
+      "text": "Emission tenacity.",
+      "confidence": 0.74689347
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2296.565,
+      "end": 2297.315,
+      "text": "And difference",
+      "confidence": 0.5985842
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2308.75,
+      "end": 2310.05,
+      "text": "What do you think is different?",
+      "confidence": 0.8745017
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2311.31,
+      "end": 2312.77,
+      "text": "And there's nothing more scary",
+      "confidence": 0.8459304
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2313.87,
+      "end": 2314.85,
+      "text": "than to see",
+      "confidence": 0.865403
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2315.23,
+      "end": 2317.4102,
+      "text": "a male member of your family cry.",
+      "confidence": 0.96449614
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2366.89,
+      "end": 2367.39,
+      "text": "True.",
+      "confidence": 0.884308
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2440.215,
+      "end": 2440.715,
+      "text": "Overwhelming",
+      "confidence": 0.17815833
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2441.0151,
+      "end": 2441.5151,
+      "text": "numbers.",
+      "confidence": 0.65518636
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2444.455,
+      "end": 2445.675,
+      "text": "Because the phone is",
+      "confidence": 0.5814292
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2446.375,
+      "end": 2446.875,
+      "text": "confident.",
+      "confidence": 0.6898943
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2450.455,
+      "end": 2451.2751,
+      "text": "And nobody",
+      "confidence": 0.8309158
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2451.975,
+      "end": 2453.675,
+      "text": "should have that confidence broken.",
+      "confidence": 0.97450274
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2496.45,
+      "end": 2496.95,
+      "text": "Early.",
+      "confidence": 0.6639635
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2548.84,
+      "end": 2552.78,
+      "text": "Can you help? It happened about a month ago. No. Three weeks ago.",
+      "confidence": 0.80932957
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2589.675,
+      "end": 2591.695,
+      "text": "You can't afford to turn up.",
+      "confidence": 0.74618083
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2592.395,
+      "end": 2594.0151,
+      "text": "What in you wants to help?",
+      "confidence": 0.9070692
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2594.715,
+      "end": 2596.23,
+      "text": "You can afford not. Can.",
+      "confidence": 0.8539461
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2597.19,
+      "end": 2598.33,
+      "text": "How can you",
+      "confidence": 0.9962856
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2599.35,
+      "end": 2601.45,
+      "text": "not if God gives you that opportunity?",
+      "confidence": 0.88645977
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2602.79,
+      "end": 2603.93,
+      "text": "How can you not?",
+      "confidence": 0.9737444
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2705.8901,
+      "end": 2707.11,
+      "text": "Strength Tell me your weakness.",
+      "confidence": 0.7088167
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2712.69,
+      "end": 2713.43,
+      "text": "Come on.",
+      "confidence": 0.9331409
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2713.73,
+      "end": 2714.3901,
+      "text": "No. Seriously.",
+      "confidence": 0.53560287
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2714.93,
+      "end": 2715.43,
+      "text": "Discipline",
+      "confidence": 0.33912352
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2716.21,
+      "end": 2718.1501,
+      "text": "discipline of not working out.",
+      "confidence": 0.89130574
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2719.155,
+      "end": 2719.655,
+      "text": "I",
+      "confidence": 0.1747334
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2721.795,
+      "end": 2722.295,
+      "text": "did.",
+      "confidence": 0.52280104
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2726.5151,
+      "end": 2730.055,
+      "text": "You do. You don't like. I that is one thing I didn't look after, my health.",
+      "confidence": 0.8529774
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2730.835,
+      "end": 2732.66,
+      "text": "You never have. That's not",
+      "confidence": 0.7829963
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2733.1199,
+      "end": 2735.46,
+      "text": "a good excuse. But you don't have time.",
+      "confidence": 0.97608554
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2735.8398,
+      "end": 2741.0598,
+      "text": "I did not have time. Now I realize I should make time. Mhmm. That's very different.",
+      "confidence": 0.9108272
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2748.0051,
+      "end": 2749.3052,
+      "text": "Very bad weakness.",
+      "confidence": 0.7705762
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2750.0852,
+      "end": 2751.385,
+      "text": "Very, very bad weakness.",
+      "confidence": 0.98365515
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2751.925,
+      "end": 2753.465,
+      "text": "What's what's one",
+      "confidence": 0.9774787
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2754.645,
+      "end": 2756.5051,
+      "text": "insecurity? What's your biggest insecurity?",
+      "confidence": 0.9776468
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2756.8052,
+      "end": 2757.7852,
+      "text": "Don't have any.",
+      "confidence": 0.96146774
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2758.485,
+      "end": 2759.3052,
+      "text": "I don't believe.",
+      "confidence": 0.6199143
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2787.75,
+      "end": 2788.2034,
+      "text": "Information.",
+      "confidence": 0.6840061
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2788.6567,
+      "end": 2789.61,
+      "text": "Intelligent. You",
+      "confidence": 0.4165257
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2790.15,
+      "end": 2790.65,
+      "text": "worry.",
+      "confidence": 0.8032355
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2799.35,
+      "end": 2805.365,
+      "text": "They can if you have the capacity to keep learning, that means you're intelligent enough to know that you're not completely informed.",
+      "confidence": 0.94633025
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2807.185,
+      "end": 2810.965,
+      "text": "Okay. I'll ask this in another way. But what's your biggest nightmare? Tell me that.",
+      "confidence": 0.9460992
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2812.465,
+      "end": 2816.0051,
+      "text": "As an actor and as a politician, what will be your nightmare?",
+      "confidence": 0.9881292
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2817.22,
+      "end": 2818.76,
+      "text": "I don't want it to be prophetic.",
+      "confidence": 0.9930664
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2819.54,
+      "end": 2821.8,
+      "text": "I was very taken aback the way",
+      "confidence": 0.9387681
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2823.3,
+      "end": 2823.8,
+      "text": "died",
+      "confidence": 0.47852552
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2824.26,
+      "end": 2825.08,
+      "text": "in the Ahmedabad.",
+      "confidence": 0.9173648
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2826.74,
+      "end": 2828.12,
+      "text": "I knew him for twenty",
+      "confidence": 0.9954146
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2828.6602,
+      "end": 2830.28,
+      "text": "five years, twenty two years.",
+      "confidence": 0.99035436
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2831.46,
+      "end": 2833.105,
+      "text": "I know Bobby, Anjali",
+      "confidence": 0.9167967
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2835.7249,
+      "end": 2837.025,
+      "text": "Bobby. So the way he died",
+      "confidence": 0.9865362
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2837.4048,
+      "end": 2838.545,
+      "text": "along with the rest",
+      "confidence": 0.915411
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2841.1648,
+      "end": 2847.1848,
+      "text": "That's a nightmare? No. It's not mine. No. But that does that scare you a lot? Most people won't even think about it.",
+      "confidence": 0.9624128
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2848.78,
+      "end": 2849.92,
+      "text": "I knew him.",
+      "confidence": 0.9856108
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2851.66,
+      "end": 2853.5999,
+      "text": "I saw the photographs of the kids",
+      "confidence": 0.99351776
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2854.22,
+      "end": 2857.2,
+      "text": "who were there, you know, going with their parents to start a new life.",
+      "confidence": 0.9856419
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2859.8198,
+      "end": 2860.7998,
+      "text": "So I think",
+      "confidence": 0.9948385
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2861.775,
+      "end": 2863.635,
+      "text": "the death of somebody I know",
+      "confidence": 0.98948723
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2864.1748,
+      "end": 2864.835,
+      "text": "in that",
+      "confidence": 0.99673975
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2868.4949,
+      "end": 2869.395,
+      "text": "was so close.",
+      "confidence": 0.91344833
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2870.655,
+      "end": 2873.99,
+      "text": "Because what do you do to Bavi when you see her? I",
+      "confidence": 0.9549001
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2875.33,
+      "end": 2876.3699,
+      "text": "mean, I've seen",
+      "confidence": 0.9785549
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2876.69,
+      "end": 2880.15,
+      "text": "people have seen him as chief minister, politician, blah blah blah.",
+      "confidence": 0.9660151
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2881.09,
+      "end": 2886.15,
+      "text": "See, my life in BJP has been lived as somebody who's a part of people's families. Yeah.",
+      "confidence": 0.9873442
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2886.6548,
+      "end": 2889.1548,
+      "text": "If I would go to Rajkot, which I've ever said, and,",
+      "confidence": 0.60195994
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2892.6548,
+      "end": 2893.7148,
+      "text": "Bobby would always.",
+      "confidence": 0.47564963
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2897.6948,
+      "end": 2900.1948,
+      "text": "You see Amit Shah as, you know, the home minister.",
+      "confidence": 0.9338354
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2900.7349,
+      "end": 2901.555,
+      "text": "We see Bobby.",
+      "confidence": 0.8267727
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2902.2,
+      "end": 2902.7,
+      "text": "You",
+      "confidence": 0.64984965
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2903.96,
+      "end": 2907.5,
+      "text": "know? We'll give a small example. Arjun Meghbal is a law minister right now.",
+      "confidence": 0.84237164
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2916.405,
+      "end": 2917.465,
+      "text": "These are relationships.",
+      "confidence": 0.8400717
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2918.165,
+      "end": 2919.7852,
+      "text": "Suddenly to see it go.",
+      "confidence": 0.783388
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2923.605,
+      "end": 2924.345,
+      "text": "So that,",
+      "confidence": 0.90347624
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2925.685,
+      "end": 2926.2651,
+      "text": "I think,",
+      "confidence": 0.9775599
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2927.5251,
+      "end": 2928.425,
+      "text": "has kind",
+      "confidence": 0.9755192
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2929.365,
+      "end": 2930.585,
+      "text": "of it's not a nightmare.",
+      "confidence": 0.9746591
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2932.23,
+      "end": 2936.01,
+      "text": "And it is an oxymoron because nobody's going to inform and then go.",
+      "confidence": 0.95460004
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2937.35,
+      "end": 2939.77,
+      "text": "So the eventuality of it. You",
+      "confidence": 0.8859748
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2956.71,
+      "end": 2957.21,
+      "text": "a",
+      "confidence": 0.37208676
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2958.55,
+      "end": 2959.05,
+      "text": "reward.",
+      "confidence": 0.61490816
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2963.19,
+      "end": 2965.6099,
+      "text": "That's almost everybody's fear. That's it.",
+      "confidence": 0.921827
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2966.79,
+      "end": 2968.0898,
+      "text": "I know it's gonna happen.",
+      "confidence": 0.94913673
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2969.545,
+      "end": 2971.645,
+      "text": "I'm gonna go. My parents are gonna go.",
+      "confidence": 0.96628463
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2972.585,
+      "end": 2975.725,
+      "text": "Right now, I mean, I came last night before",
+      "confidence": 0.9728192
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2976.5051,
+      "end": 2978.765,
+      "text": "having this conversation. My sister was",
+      "confidence": 0.9943939
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2979.145,
+      "end": 2983.965,
+      "text": "leaving for overseas. We both don't tell each other that the only reason she wants to come",
+      "confidence": 0.97655845
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2984.3,
+      "end": 2985.44,
+      "text": "is to see Emma.",
+      "confidence": 0.9445716
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2987.66,
+      "end": 2988.88,
+      "text": "She's going for just",
+      "confidence": 0.99303323
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 2990.06,
+      "end": 2990.8,
+      "text": "three weeks.",
+      "confidence": 0.8936968
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2993.18,
+      "end": 2994.16,
+      "text": "But what if",
+      "confidence": 0.8510824
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2995.1,
+      "end": 2997.9448,
+      "text": "we don't see Emma? Yeah. So it",
+      "confidence": 0.93649477
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2998.325,
+      "end": 2998.825,
+      "text": "is",
+      "confidence": 0.9990139
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 2999.285,
+      "end": 3002.345,
+      "text": "I do childish things, like tell my mother,",
+      "confidence": 0.8018823
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3004.565,
+      "end": 3006.105,
+      "text": "Uh-huh. My mother just look at me.",
+      "confidence": 0.737394
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3028.715,
+      "end": 3029.375,
+      "text": "You call",
+      "confidence": 0.8730799
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3029.675,
+      "end": 3033.695,
+      "text": "up my father one day on a Sunday. He works a lot. He's a workaholic.",
+      "confidence": 0.908048
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3035.835,
+      "end": 3036.335,
+      "text": "Sunday",
+      "confidence": 0.31468248
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3042.0,
+      "end": 3045.7,
+      "text": "In those four hours, I must have done 50 calls on his phone.",
+      "confidence": 0.9262612
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3047.92,
+      "end": 3052.5,
+      "text": "He was somewhere in Punjab. I had somebody go to his house and wake him up.",
+      "confidence": 0.9834865
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3059.245,
+      "end": 3065.685,
+      "text": "Okay. I'm I'm tempted to ask you a very question. Okay? Hi. Hi. Hey. What is it like to be the inner circle of",
+      "confidence": 0.9252429
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3066.125,
+      "end": 3068.305,
+      "text": "There is no top leadership in the country?",
+      "confidence": 0.91756153
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3068.685,
+      "end": 3077.66,
+      "text": "There is no inner circle. PM Modi and you were in a circle. Like, they are, like, at least ten, twenty people. PM Modi is the circle. That's it. What is it like to be in that circle?",
+      "confidence": 0.9368813
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3077.96,
+      "end": 3079.3398,
+      "text": "PM Modi is the circle.",
+      "confidence": 0.9904609
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3080.52,
+      "end": 3085.3398,
+      "text": "There's nobody else. But you are at the top of the other myths that people propagate about him.",
+      "confidence": 0.8050497
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3088.095,
+      "end": 3090.995,
+      "text": "Whoever has told you this is just blatantly lying.",
+      "confidence": 0.9369227
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3091.455,
+      "end": 3092.355,
+      "text": "Between here.",
+      "confidence": 0.49459034
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3094.095,
+      "end": 3094.915,
+      "text": "There's him.",
+      "confidence": 0.8241809
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3095.375,
+      "end": 3098.995,
+      "text": "He will disseminate work. That's it. You work, you report. That's it.",
+      "confidence": 0.9427619
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3099.7751,
+      "end": 3100.675,
+      "text": "There's no entourage.",
+      "confidence": 0.96026427
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3102.08,
+      "end": 3103.46,
+      "text": "There's no inner circle.",
+      "confidence": 0.9939785
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3104.96,
+      "end": 3105.62,
+      "text": "I think",
+      "confidence": 0.9926667
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3106.12,
+      "end": 3106.62,
+      "text": "I'm",
+      "confidence": 0.97095203
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3107.12,
+      "end": 3111.78,
+      "text": "I'm the way I am a lot also because of how I watched him. What have you watched him?",
+      "confidence": 0.94714385
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3112.24,
+      "end": 3115.22,
+      "text": "Very precise. Very professional. Very direct.",
+      "confidence": 0.9642723
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3116.16,
+      "end": 3116.9,
+      "text": "No nonsense.",
+      "confidence": 0.9835407
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3118.035,
+      "end": 3120.375,
+      "text": "Does not create small talk. Nothing.",
+      "confidence": 0.9680535
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3121.875,
+      "end": 3125.4949,
+      "text": "Hard core, work, get out. You would presume that he,",
+      "confidence": 0.8211255
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3126.115,
+      "end": 3129.415,
+      "text": "you know, will have an entourage which feeds him stuff.",
+      "confidence": 0.96892244
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3130.4348,
+      "end": 3131.655,
+      "text": "You would be amazed",
+      "confidence": 0.99228793
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3132.28,
+      "end": 3134.54,
+      "text": "by how much he is self driven,",
+      "confidence": 0.9959571
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3134.9202,
+      "end": 3137.5,
+      "text": "how much he has read, experienced,",
+      "confidence": 0.99512917
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3138.6,
+      "end": 3142.06,
+      "text": "and brought forth on his own. What he does is",
+      "confidence": 0.99890125
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3142.36,
+      "end": 3144.54,
+      "text": "he will take the best of every field,",
+      "confidence": 0.9581099
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3144.975,
+      "end": 3146.115,
+      "text": "and he will say,",
+      "confidence": 0.9305258
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3146.5752,
+      "end": 3147.5552,
+      "text": "x y z.",
+      "confidence": 0.7483597
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3150.0952,
+      "end": 3151.7952,
+      "text": "He will tell me this is the issue.",
+      "confidence": 0.9049008
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3152.0952,
+      "end": 3155.0752,
+      "text": "This is the outcome I want. Then he let me be.",
+      "confidence": 0.89511514
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3155.8552,
+      "end": 3161.1199,
+      "text": "And that is the best way to learn. That is one of the best bosses to have. Not somebody looking away.",
+      "confidence": 0.9178172
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3162.22,
+      "end": 3166.24,
+      "text": "He doesn't know all that. True. I worked with him twenty two years.",
+      "confidence": 0.90434045
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3167.66,
+      "end": 3170.16,
+      "text": "I worked with him when he was chief minister as well.",
+      "confidence": 0.9026862
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3171.02,
+      "end": 3171.8398,
+      "text": "Same pattern.",
+      "confidence": 0.94100475
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3190.25,
+      "end": 3191.63,
+      "text": "Or your leadership knows,",
+      "confidence": 0.93370754
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3194.0898,
+      "end": 3194.8298,
+      "text": "You worked",
+      "confidence": 0.79491043
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3195.45,
+      "end": 3199.23,
+      "text": "with Artel Bihari as well, and you worked with PM Modi. What are the differences?",
+      "confidence": 0.9224618
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3200.49,
+      "end": 3202.19,
+      "text": "We call him Babji at home.",
+      "confidence": 0.9346908
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3202.625,
+      "end": 3204.085,
+      "text": "So he was",
+      "confidence": 0.9987152
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3204.385,
+      "end": 3204.9648,
+      "text": "a philosophical",
+      "confidence": 0.98822427
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3205.265,
+      "end": 3206.005,
+      "text": "poet politician.",
+      "confidence": 0.9951891
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3208.4648,
+      "end": 3212.2449,
+      "text": "My interface with him was very different from Prime Minister Modi because I was",
+      "confidence": 0.9404575
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3212.865,
+      "end": 3213.525,
+      "text": "a Karikartha",
+      "confidence": 0.8006419
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3214.545,
+      "end": 3217.365,
+      "text": "who found a blessed place amongst his family.",
+      "confidence": 0.97027564
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3218.6,
+      "end": 3221.5,
+      "text": "So he and I never interacted as though, you know, prime minister",
+      "confidence": 0.94205445
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3223.4001,
+      "end": 3231.82,
+      "text": "and a individual who's supposed to deliver on a particular project or facet. So I've seen a different side of him. But were there differences between both of them",
+      "confidence": 0.9427211
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3232.415,
+      "end": 3233.2349,
+      "text": "in personality.",
+      "confidence": 0.94683754
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3235.455,
+      "end": 3240.9949,
+      "text": "Prime minister Modi is twenty four seven driven. You haven't met anyone else who's like that? No.",
+      "confidence": 0.94568926
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3241.855,
+      "end": 3242.835,
+      "text": "That man is",
+      "confidence": 0.9978347
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3243.295,
+      "end": 3245.875,
+      "text": "all work every minute of the day.",
+      "confidence": 0.9725236
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3247.83,
+      "end": 3249.9102,
+      "text": "I have never seen him, like, for the",
+      "confidence": 0.84842634
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3250.71,
+      "end": 3252.49,
+      "text": "as you guys said, chill. No.",
+      "confidence": 0.9383876
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3254.1501,
+      "end": 3258.33,
+      "text": "What do you mean? He's very clear. It's a huge country.",
+      "confidence": 0.90793246
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3258.6301,
+      "end": 3259.6702,
+      "text": "1,400,000,000",
+      "confidence": 0.9980749
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3259.6702,
+      "end": 3262.73,
+      "text": "people. We don't have time to waste. Very clear on that.",
+      "confidence": 0.99558157
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3264.685,
+      "end": 3268.145,
+      "text": "Babji was somebody I had seen 25 year old",
+      "confidence": 0.9127411
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3269.885,
+      "end": 3274.305,
+      "text": "He would give you that space to culturally evolve. So I've seen a different facet of him.",
+      "confidence": 0.9557128
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3276.285,
+      "end": 3277.805,
+      "text": "You joined in 2003.",
+      "confidence": 0.8764397
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3277.805,
+      "end": 3278.305,
+      "text": "Yeah.",
+      "confidence": 0.5790875
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3278.9001,
+      "end": 3279.6401,
+      "text": "And then",
+      "confidence": 0.99803674
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3280.9001,
+      "end": 3286.52,
+      "text": "you got your major response within 2014. I mean cabinet Cabinet. Major votes at the time. Organizationally,",
+      "confidence": 0.731966
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3286.82,
+      "end": 3290.12,
+      "text": "I was in. You're from Indore. So Taiji is",
+      "confidence": 0.8976405
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3290.5,
+      "end": 3298.015,
+      "text": "from Indore. Right? I know. I know. So me and Tai again go back twenty years. So I've worked in Indore. I've worked in your city. So I live by Holkar",
+      "confidence": 0.8957428
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3298.355,
+      "end": 3298.855,
+      "text": "I'm",
+      "confidence": 0.63498425
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3299.1948,
+      "end": 3302.815,
+      "text": "one of those people who's done the Palki also. You were all everywhere.",
+      "confidence": 0.9667739
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3303.355,
+      "end": 3305.615,
+      "text": "I know you have done so much work.",
+      "confidence": 0.98995596
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3306.635,
+      "end": 3308.075,
+      "text": "Apart from that, I've been the,",
+      "confidence": 0.9476288
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3309.2,
+      "end": 3311.38,
+      "text": "vice president of the youth wing here in Maharashtra.",
+      "confidence": 0.98049515
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3311.92,
+      "end": 3312.42,
+      "text": "Twice,",
+      "confidence": 0.8211963
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3312.96,
+      "end": 3314.42,
+      "text": "I've been the national secretary.",
+      "confidence": 0.9623392
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3314.88,
+      "end": 3316.3398,
+      "text": "I've worked with five presidents.",
+      "confidence": 0.94223464
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3317.76,
+      "end": 3319.7,
+      "text": "Who's current president, Ahmed Bhai",
+      "confidence": 0.7618245
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3320.0798,
+      "end": 3321.6199,
+      "text": "before him. I worked with.",
+      "confidence": 0.7190508
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3322.5352,
+      "end": 3325.595,
+      "text": "I worked with Nitin Gadkari and Venkian I do as presidents.",
+      "confidence": 0.8587865
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3326.7751,
+      "end": 3329.435,
+      "text": "How do they test you before giving you any major responsibility?",
+      "confidence": 0.9588589
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3329.975,
+      "end": 3330.955,
+      "text": "Is there a process?",
+      "confidence": 0.9917512
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3331.415,
+      "end": 3332.695,
+      "text": "I think 2003",
+      "confidence": 0.9524421
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3332.695,
+      "end": 3334.0752,
+      "text": "is when my first test",
+      "confidence": 0.9885189
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3334.5352,
+      "end": 3336.97,
+      "text": "was given by a politician in Maharashtra,",
+      "confidence": 0.9858695
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3337.75,
+      "end": 3340.0898,
+      "text": "who is no longer amongst us, Bhupnath Munde.",
+      "confidence": 0.7920524
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3340.71,
+      "end": 3342.17,
+      "text": "So Munde ji was",
+      "confidence": 0.8320899
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3344.63,
+      "end": 3345.45,
+      "text": "of the opinion",
+      "confidence": 0.98113537
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3346.47,
+      "end": 3347.29,
+      "text": "social works.",
+      "confidence": 0.4594514
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3349.7952,
+      "end": 3350.2952,
+      "text": "Changed.",
+      "confidence": 0.3629601
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3353.3152,
+      "end": 3357.335,
+      "text": "Because this is a conversation he and I had. And I was working in Talassari",
+      "confidence": 0.8878325
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3357.7952,
+      "end": 3360.375,
+      "text": "here in the outskirts of Maharashtra. And he was like,",
+      "confidence": 0.8981991
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3364.4102,
+      "end": 3365.87,
+      "text": "In tectonic shift policy,",
+      "confidence": 0.7050494
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3366.73,
+      "end": 3367.79,
+      "text": "electoral politics.",
+      "confidence": 0.5071633
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3368.57,
+      "end": 3372.35,
+      "text": "So what is your what is the one thing that you wanna do? Now 2003,",
+      "confidence": 0.9380719
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3372.4102,
+      "end": 3376.03,
+      "text": "there were not many young girls in Yuwa Mocha. It was mostly a male bastion.",
+      "confidence": 0.9385691
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3378.965,
+      "end": 3379.625,
+      "text": "Youth is",
+      "confidence": 0.38565522
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3380.405,
+      "end": 3383.3452,
+      "text": "as much girls as as men. And,",
+      "confidence": 0.92023814
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3383.685,
+      "end": 3390.2,
+      "text": "you know, women have political ambitions even if they are 18 years old or 20 years old. So why shouldn't they be? He said,",
+      "confidence": 0.9262288
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3391.38,
+      "end": 3393.48,
+      "text": "we had 55 districts. The eight administrative",
+      "confidence": 0.7136351
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3393.94,
+      "end": 3394.98,
+      "text": "districts as,",
+      "confidence": 0.72021955
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3395.5598,
+      "end": 3397.64,
+      "text": "articulated by government. One is BJP.",
+      "confidence": 0.90816784
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3399.2998,
+      "end": 3399.7998,
+      "text": "So",
+      "confidence": 0.7892607
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3401.46,
+      "end": 3402.76,
+      "text": "he said, can you find one female",
+      "confidence": 0.8750935
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3403.985,
+      "end": 3405.685,
+      "text": "who is in that age group?",
+      "confidence": 0.982069
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3406.625,
+      "end": 3407.445,
+      "text": "So I",
+      "confidence": 0.93248194
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3408.465,
+      "end": 3408.965,
+      "text": "said,",
+      "confidence": 0.8849624
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3409.985,
+      "end": 3410.485,
+      "text": "yeah.",
+      "confidence": 0.5339372
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3410.865,
+      "end": 3413.205,
+      "text": "Find me. He says, we've been trying to find.",
+      "confidence": 0.8508778
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3413.665,
+      "end": 3416.485,
+      "text": "This is your six month target. Fine.",
+      "confidence": 0.9708162
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3417.185,
+      "end": 3418.965,
+      "text": "Went from village to village to village",
+      "confidence": 0.9728228
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3419.46,
+      "end": 3421.08,
+      "text": "across all districts. We",
+      "confidence": 0.94881064
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3421.78,
+      "end": 3422.28,
+      "text": "found",
+      "confidence": 0.97855717
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3423.46,
+      "end": 3426.2,
+      "text": "50 Devendra Fardanovich, the current chief minister,",
+      "confidence": 0.8294434
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3426.5,
+      "end": 3428.52,
+      "text": "was vice president with me at that time.",
+      "confidence": 0.9947562
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3430.0999,
+      "end": 3436.545,
+      "text": "So two, three of us got together. And across 55 spots, we found 55 young ladies",
+      "confidence": 0.9410078
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3436.845,
+      "end": 3441.905,
+      "text": "who could take the issue of women leadership in youth wing forward in 2003.",
+      "confidence": 0.91371965
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3442.6848,
+      "end": 3443.585,
+      "text": "And I remember",
+      "confidence": 0.9988734
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3444.285,
+      "end": 3445.265,
+      "text": "month five,",
+      "confidence": 0.89496267
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3445.8098,
+      "end": 3448.39,
+      "text": "I requested Mondegi to meet all 55.",
+      "confidence": 0.9464989
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3449.01,
+      "end": 3449.91,
+      "text": "And he was like,",
+      "confidence": 0.78914356
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3451.3298,
+      "end": 3453.19,
+      "text": "That set, like, the template.",
+      "confidence": 0.8184109
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3456.77,
+      "end": 3461.7048,
+      "text": "So then they keep testing you again and again like that? They don't test you then. Everybody's assigned a project.",
+      "confidence": 0.9351344
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3462.085,
+      "end": 3463.065,
+      "text": "Teams are assigned.",
+      "confidence": 0.9769929
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3463.765,
+      "end": 3467.7048,
+      "text": "Then you fulfill the standards, benchmarks, or outcomes",
+      "confidence": 0.97085476
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3468.2449,
+      "end": 3469.9448,
+      "text": "that are expected of those projects.",
+      "confidence": 0.9962562
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3470.805,
+      "end": 3472.005,
+      "text": "2003",
+      "confidence": 0.7779887
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3472.005,
+      "end": 3474.825,
+      "text": "was also when Vasundra Rajiv for the first time was",
+      "confidence": 0.8772297
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3475.2,
+      "end": 3478.58,
+      "text": "presented as Rajasthan chief ministerial candidate from the BJP.",
+      "confidence": 0.97881424
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3478.96,
+      "end": 3481.8599,
+      "text": "So Pramod Mahajan at that time was alive. So he had,",
+      "confidence": 0.9569611
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3482.4,
+      "end": 3484.42,
+      "text": "been deputed to make her fight Rajasthan.",
+      "confidence": 0.9127498
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3485.28,
+      "end": 3487.22,
+      "text": "And there's a group of 100 boys",
+      "confidence": 0.9634945
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3487.625,
+      "end": 3490.285,
+      "text": "who had gone to kind of assist. You know? We do",
+      "confidence": 0.91091937
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3490.585,
+      "end": 3491.2449,
+      "text": "the runners,",
+      "confidence": 0.9410081
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3491.785,
+      "end": 3493.4849,
+      "text": "the ones who would set up offices,",
+      "confidence": 0.94629574
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3494.025,
+      "end": 3495.805,
+      "text": "the ones who would be a part of the psychological",
+      "confidence": 0.9501413
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3496.1848,
+      "end": 3497.4849,
+      "text": "or statistical team,",
+      "confidence": 0.94336385
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3497.785,
+      "end": 3499.005,
+      "text": "who will do local prachar,",
+      "confidence": 0.8883139
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3499.305,
+      "end": 3501.165,
+      "text": "who will do coordination in the office,",
+      "confidence": 0.9339757
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3503.75,
+      "end": 3506.73,
+      "text": "who will meet communities and all that. It's",
+      "confidence": 0.89545906
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3510.23,
+      "end": 3511.05,
+      "text": "the only exception.",
+      "confidence": 0.9642194
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3511.5898,
+      "end": 3513.6099,
+      "text": "1 or 99 one.",
+      "confidence": 0.90430355
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3514.23,
+      "end": 3517.53,
+      "text": "Yeah. It's just like you're dispatched many a times as a part of it.",
+      "confidence": 0.86807907
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3518.265,
+      "end": 3520.605,
+      "text": "And obviously, if you're politically very,",
+      "confidence": 0.9422796
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3521.305,
+      "end": 3523.405,
+      "text": "attuned or sharp, you will learn.",
+      "confidence": 0.9793084
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3524.1848,
+      "end": 3527.1648,
+      "text": "And it depends you're watched on every assignment.",
+      "confidence": 0.80881065
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3527.9448,
+      "end": 3532.26,
+      "text": "So you're given the next assignment on the basis of how well you've done in the current one.",
+      "confidence": 0.9871184
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3533.06,
+      "end": 3534.12,
+      "text": "If you're lethargic,",
+      "confidence": 0.9304809
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3534.66,
+      "end": 3536.12,
+      "text": "if you're not a team player,",
+      "confidence": 0.99029726
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3537.3,
+      "end": 3538.12,
+      "text": "if you",
+      "confidence": 0.98452663
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3538.66,
+      "end": 3540.52,
+      "text": "because that's life and death. Right?",
+      "confidence": 0.9868036
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3540.82,
+      "end": 3541.64,
+      "text": "It's a small",
+      "confidence": 0.9987971
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3542.1,
+      "end": 3544.92,
+      "text": "kind of time window where you have to do the best.",
+      "confidence": 0.946438
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3546.375,
+      "end": 3546.875,
+      "text": "So",
+      "confidence": 0.6438545
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3547.655,
+      "end": 3549.435,
+      "text": "at that time, there are enough people.",
+      "confidence": 0.87286896
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3552.295,
+      "end": 3553.835,
+      "text": "So after, let's say, an assignment,",
+      "confidence": 0.9322891
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3554.615,
+      "end": 3556.155,
+      "text": "elders do sit and do.",
+      "confidence": 0.9153072
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3558.87,
+      "end": 3562.57,
+      "text": "That's what I'm saying. BGP is not one of those run of the mill.",
+      "confidence": 0.9099823
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3564.6301,
+      "end": 3565.77,
+      "text": "No. Samiksha",
+      "confidence": 0.9101766
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3568.2302,
+      "end": 3568.7302,
+      "text": "attitude",
+      "confidence": 0.79521143
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3569.6702,
+      "end": 3571.53,
+      "text": "at work with people,",
+      "confidence": 0.9377394
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3573.2048,
+      "end": 3574.825,
+      "text": "people outside as citizens,",
+      "confidence": 0.9826123
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3575.125,
+      "end": 3577.2249,
+      "text": "people within the organization. Even",
+      "confidence": 0.94714594
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3580.7249,
+      "end": 3582.265,
+      "text": "Do you get trained as well?",
+      "confidence": 0.97115976
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3582.885,
+      "end": 3594.86,
+      "text": "Is there, like, a If you're sharp, you're trained on the job. On the job as well. Trained trained on the job. But as a good external lesson, you're There is nothing that can do. Leaders will make sure that we want the next leadership to come up and we'll train them specifically.",
+      "confidence": 0.8588272
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3595.64,
+      "end": 3596.6199,
+      "text": "This is training.",
+      "confidence": 0.9866371
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3597.24,
+      "end": 3601.255,
+      "text": "On the job. This is training on the job. Like when Narendra Modi,",
+      "confidence": 0.90091324
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3602.355,
+      "end": 3603.575,
+      "text": "had this whole program,",
+      "confidence": 0.9679425
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3605.9548,
+      "end": 3606.4548,
+      "text": "Sadhavana",
+      "confidence": 0.6632728
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3607.7148,
+      "end": 3608.775,
+      "text": "as chief minister,",
+      "confidence": 0.86711353
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3610.1948,
+      "end": 3611.015,
+      "text": "he had decided",
+      "confidence": 0.9423001
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3611.9548,
+      "end": 3612.6948,
+      "text": "press interface.",
+      "confidence": 0.5304879
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3615.58,
+      "end": 3619.68,
+      "text": "So every leader so let's say when I became guru at MP for the first time,",
+      "confidence": 0.8814854
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3620.22,
+      "end": 3622.72,
+      "text": "in half an hour of me coming back to my,",
+      "confidence": 0.983415
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3623.34,
+      "end": 3624.08,
+      "text": "you know,",
+      "confidence": 0.9519001
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3625.74,
+      "end": 3631.575,
+      "text": "guest house, After I filled my nomination, I filled my nomination",
+      "confidence": 0.87876135
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3632.595,
+      "end": 3634.135,
+      "text": "from then chief minister",
+      "confidence": 0.9545758
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3634.435,
+      "end": 3636.375,
+      "text": "Modi's office. This whole big",
+      "confidence": 0.8760568
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3636.755,
+      "end": 3638.215,
+      "text": "papers and books came.",
+      "confidence": 0.8695935
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3640.355,
+      "end": 3641.255,
+      "text": "Session of parliament",
+      "confidence": 0.7543092
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3646.32,
+      "end": 3648.5,
+      "text": "And please represent the state well.",
+      "confidence": 0.8820033
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3648.8801,
+      "end": 3651.3801,
+      "text": "These are the, what can you do additionally?",
+      "confidence": 0.98574555
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3651.84,
+      "end": 3656.515,
+      "text": "So you would study all those points. You would speak in parliament. You would learn everything.",
+      "confidence": 0.99289423
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3656.815,
+      "end": 3660.6748,
+      "text": "And then you would say, so what if I go to x y z mantra",
+      "confidence": 0.9147777
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3661.2148,
+      "end": 3665.1548,
+      "text": "or x y z specialist and push this agenda for the state and the people?",
+      "confidence": 0.9818369
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3667.5,
+      "end": 3670.56,
+      "text": "So you would come back and you would report. I've done excess.",
+      "confidence": 0.90012664
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3671.02,
+      "end": 3672.0,
+      "text": "Parliamentary, obviously,",
+      "confidence": 0.7974905
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3672.3801,
+      "end": 3673.28,
+      "text": "there is enough,",
+      "confidence": 0.9417198
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3674.1401,
+      "end": 3675.44,
+      "text": "the landscape is such",
+      "confidence": 0.89279664
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3676.22,
+      "end": 3676.72,
+      "text": "that",
+      "confidence": 0.48688743
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3680.4749,
+      "end": 3681.6948,
+      "text": "That's right. AVB.",
+      "confidence": 0.74747866
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3684.875,
+      "end": 3685.375,
+      "text": "There",
+      "confidence": 0.33196244
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3688.555,
+      "end": 3689.9348,
+      "text": "is a record of your",
+      "confidence": 0.9961149
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3690.2349,
+      "end": 3690.7349,
+      "text": "engagement.",
+      "confidence": 0.99636555
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3691.37,
+      "end": 3692.19,
+      "text": "So you're tested",
+      "confidence": 0.95229626
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3693.19,
+      "end": 3693.69,
+      "text": "on",
+      "confidence": 0.6748346
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3694.69,
+      "end": 3695.19,
+      "text": "that.",
+      "confidence": 0.8092625
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3696.19,
+      "end": 3696.69,
+      "text": "Everything.",
+      "confidence": 0.9408221
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3697.69,
+      "end": 3698.35,
+      "text": "Press conference",
+      "confidence": 0.64316
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3709.315,
+      "end": 3709.815,
+      "text": "feedback",
+      "confidence": 0.19557738
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3714.9949,
+      "end": 3716.215,
+      "text": "system feedback So you presume",
+      "confidence": 0.7312931
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3729.315,
+      "end": 3729.815,
+      "text": "And",
+      "confidence": 0.6016388
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3730.9949,
+      "end": 3734.375,
+      "text": "they have to have the freedom in their engagement with you and have to say.",
+      "confidence": 0.9113284
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3738.275,
+      "end": 3738.775,
+      "text": "He's",
+      "confidence": 0.48883557
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3742.675,
+      "end": 3743.255,
+      "text": "also from.",
+      "confidence": 0.79082793
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3743.635,
+      "end": 3744.535,
+      "text": "He's an MP.",
+      "confidence": 0.9351554
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3746.46,
+      "end": 3748.6401,
+      "text": "If I have to talk something, I will call Anil.",
+      "confidence": 0.9489048
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3749.1802,
+      "end": 3749.6802,
+      "text": "Anil,",
+      "confidence": 0.9261115
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3750.22,
+      "end": 3751.68,
+      "text": "there are my point of view here.",
+      "confidence": 0.67008394
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3752.54,
+      "end": 3756.24,
+      "text": "It's not always your point of view. It's party's point of view. True. And",
+      "confidence": 0.97817713
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3756.54,
+      "end": 3760.0352,
+      "text": "at times, it's also individual experiences that you'll want to leverage.",
+      "confidence": 0.9841129
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3773.75,
+      "end": 3775.6099,
+      "text": "So you it's a conversation",
+      "confidence": 0.88397235
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3776.0698,
+      "end": 3778.73,
+      "text": "every time. It's a teamwork. It is not something.",
+      "confidence": 0.9375377
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3781.19,
+      "end": 3782.89,
+      "text": "No. It doesn't happen like that.",
+      "confidence": 0.9183798
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3783.19,
+      "end": 3784.49,
+      "text": "For some, it may happen.",
+      "confidence": 0.9708277
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3785.03,
+      "end": 3787.575,
+      "text": "I have not evolved as a politician because of",
+      "confidence": 0.9983849
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3788.055,
+      "end": 3792.795,
+      "text": "anything else but this method of work. When you present yourself to anybody",
+      "confidence": 0.9346482
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3793.175,
+      "end": 3795.675,
+      "text": "and you're presenting yourself as a BJP person,",
+      "confidence": 0.9627363
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3796.2148,
+      "end": 3798.9548,
+      "text": "you're not affecting only your chances of how you're",
+      "confidence": 0.9660056
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3799.575,
+      "end": 3800.075,
+      "text": "perceived.",
+      "confidence": 0.97956485
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3800.81,
+      "end": 3807.47,
+      "text": "You're also affecting the chances of how your party, your leadership will be perceived. True. So you have to be mindful of that. True.",
+      "confidence": 0.9658709
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3814.185,
+      "end": 3818.925,
+      "text": "My training is such that I will watch every creator. So that has nothing to do with me.",
+      "confidence": 0.9725155
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3819.3052,
+      "end": 3822.205,
+      "text": "So do you also watch things which have nothing to do with you?",
+      "confidence": 0.9690217
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3822.745,
+      "end": 3826.125,
+      "text": "But you would see my introduction which has nothing to do with you or anything.",
+      "confidence": 0.9095203
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3826.49,
+      "end": 3830.1099,
+      "text": "Yeah. Because I will then study how you perceive the prime minister.",
+      "confidence": 0.9479329
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3831.53,
+      "end": 3832.5898,
+      "text": "But that's me.",
+      "confidence": 0.95326185
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3833.21,
+      "end": 3834.43,
+      "text": "That's not party training.",
+      "confidence": 0.9514129
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3836.41,
+      "end": 3836.91,
+      "text": "Interesting.",
+      "confidence": 0.8728057
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3837.45,
+      "end": 3842.115,
+      "text": "Every email that will come to me or everything that is written about me, Facebook,",
+      "confidence": 0.933159
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3842.815,
+      "end": 3843.315,
+      "text": "Twitter,",
+      "confidence": 0.9964414
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3844.655,
+      "end": 3846.355,
+      "text": "Instagram, I will know",
+      "confidence": 0.9645622
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3848.015,
+      "end": 3848.515,
+      "text": "personally.",
+      "confidence": 0.93661976
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3849.055,
+      "end": 3850.115,
+      "text": "So even I",
+      "confidence": 0.8421173
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3850.415,
+      "end": 3852.115,
+      "text": "do not have an inner circle.",
+      "confidence": 0.99622506
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3854.31,
+      "end": 3855.2102,
+      "text": "That's incredible.",
+      "confidence": 0.9952935
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3855.83,
+      "end": 3859.85,
+      "text": "How do you keep up with these things? Because there's enough time in the day to keep up.",
+      "confidence": 0.9903928
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3861.75,
+      "end": 3864.25,
+      "text": "Typical peak performer person saying this.",
+      "confidence": 0.97663873
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3864.87,
+      "end": 3872.945,
+      "text": "There is more time. That's what you all say. Because everybody will only appreciate you if they personally resonate with you. Agreed.",
+      "confidence": 0.9154084
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3873.405,
+      "end": 3875.0251,
+      "text": "People hate to go through",
+      "confidence": 0.9965166
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3875.565,
+      "end": 3877.185,
+      "text": "hierarchies to reach you.",
+      "confidence": 0.970081
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3877.565,
+      "end": 3879.745,
+      "text": "And you have to give people the respect",
+      "confidence": 0.90318406
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3881.24,
+      "end": 3885.5,
+      "text": "of picking up the phone when they call and not have some assistant get it to you.",
+      "confidence": 0.98642135
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3886.3599,
+      "end": 3886.8599,
+      "text": "People",
+      "confidence": 0.5852743
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3887.64,
+      "end": 3891.5798,
+      "text": "sometimes flex it as a power play. That is stupidity as far as I'm concerned.",
+      "confidence": 0.9623449
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3892.625,
+      "end": 3897.605,
+      "text": "It is much more warm when the person you're calling, even if they've become minister, can pick up the phone.",
+      "confidence": 0.96343994
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3899.265,
+      "end": 3899.765,
+      "text": "Right?",
+      "confidence": 0.8866503
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3900.065,
+      "end": 3902.165,
+      "text": "Because whatever goes up will come down.",
+      "confidence": 0.98364156
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3903.825,
+      "end": 3904.325,
+      "text": "True.",
+      "confidence": 0.991159
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3904.865,
+      "end": 3908.4849,
+      "text": "True. And the only thing people remember is how you make them feel.",
+      "confidence": 0.99754846
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3909.6401,
+      "end": 3911.02,
+      "text": "Nothing else? Nothing.",
+      "confidence": 0.9160413
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3912.76,
+      "end": 3914.78,
+      "text": "Like, you have operated at that level.",
+      "confidence": 0.8568949
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3915.32,
+      "end": 3915.9,
+      "text": "You're acting.",
+      "confidence": 0.5266764
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3918.12,
+      "end": 3925.055,
+      "text": "You're coming back. Can your life be only about one thing? No. But now will you be able to accept that?",
+      "confidence": 0.9519953
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3951.885,
+      "end": 3952.385,
+      "text": "Identity",
+      "confidence": 0.64444953
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 3957.8926,
+      "end": 3958.3926,
+      "text": "logo.",
+      "confidence": 0.45097917
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3975.5798,
+      "end": 3978.0798,
+      "text": "Which means you're teaching people comfort around you",
+      "confidence": 0.9214695
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3979.045,
+      "end": 3980.5051,
+      "text": "to say this one.",
+      "confidence": 0.9329789
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3981.285,
+      "end": 3983.465,
+      "text": "But what do you convey to the larger audience?",
+      "confidence": 0.9440346
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3987.285,
+      "end": 3988.105,
+      "text": "Body shaming.",
+      "confidence": 0.96322834
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3988.645,
+      "end": 3992.345,
+      "text": "It is so natural for us to do it to people, especially women.",
+      "confidence": 0.9977245
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3994.3499,
+      "end": 3996.69,
+      "text": "So am I conveying a very hard truth",
+      "confidence": 0.9924767
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3997.0698,
+      "end": 3998.45,
+      "text": "in a very, very",
+      "confidence": 0.9960338
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 3999.79,
+      "end": 4001.49,
+      "text": "dramatically acceptable way?",
+      "confidence": 0.97895354
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4002.75,
+      "end": 4007.185,
+      "text": "This is what I fought for all my life from a policy perspective, that don't do this.",
+      "confidence": 0.9315295
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4007.645,
+      "end": 4009.665,
+      "text": "We know better how to judge women",
+      "confidence": 0.95588964
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4010.2852,
+      "end": 4012.225,
+      "text": "and not by how their bodies look.",
+      "confidence": 0.94059414
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4013.245,
+      "end": 4017.5051,
+      "text": "But can I relay this information to a larger audience? I can.",
+      "confidence": 0.96995425
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4018.28,
+      "end": 4021.9,
+      "text": "Will I have to take a beating for it myself to relay that information?",
+      "confidence": 0.996501
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4023.32,
+      "end": 4026.7,
+      "text": "Maybe. But what is the ultimate goal? Relay that information.",
+      "confidence": 0.9518727
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4028.68,
+      "end": 4035.435,
+      "text": "But do you think people will accept this? Now they've seen you as did didi, like someone That is where the acting comes in.",
+      "confidence": 0.92267156
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4037.735,
+      "end": 4038.635,
+      "text": "That is where",
+      "confidence": 0.99289846
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4039.2551,
+      "end": 4047.72,
+      "text": "the acting and the writing comes in. So what you see now is just me. What you'll see in is what Ekta thinks of the character.",
+      "confidence": 0.95089144
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4048.8066,
+      "end": 4049.3066,
+      "text": "Mhmm.",
+      "confidence": 0.8830514
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4050.3933,
+      "end": 4050.8933,
+      "text": "No",
+      "confidence": 0.22347207
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4051.98,
+      "end": 4052.48,
+      "text": "difference.",
+      "confidence": 0.80072916
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4053.5667,
+      "end": 4054.0667,
+      "text": "Except.",
+      "confidence": 0.3477143
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4055.1533,
+      "end": 4055.6533,
+      "text": "But",
+      "confidence": 0.48376828
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4056.74,
+      "end": 4058.04,
+      "text": "now, like, the way",
+      "confidence": 0.8721515
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4058.395,
+      "end": 4061.2952,
+      "text": "I would see or my parents would see you is very different.",
+      "confidence": 0.9758579
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4061.675,
+      "end": 4062.175,
+      "text": "Yeah.",
+      "confidence": 0.9757732
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4062.995,
+      "end": 4063.495,
+      "text": "They'll",
+      "confidence": 0.5460634
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4064.3152,
+      "end": 4064.8152,
+      "text": "be",
+      "confidence": 0.99631363
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4065.195,
+      "end": 4066.175,
+      "text": "like little",
+      "confidence": 0.7937705
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4067.195,
+      "end": 4070.975,
+      "text": "How does the craft? You're coming back because of the craft or you're coming back because",
+      "confidence": 0.88533556
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4071.6802,
+      "end": 4075.1401,
+      "text": "you just can't be idle or It's okay.",
+      "confidence": 0.9044035
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4075.9202,
+      "end": 4077.9402,
+      "text": "Like busy having sex with a",
+      "confidence": 0.5385491
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4078.56,
+      "end": 4079.06,
+      "text": "Okay.",
+      "confidence": 0.7823241
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4079.36,
+      "end": 4082.02,
+      "text": "I've been teaching for two years. I've been teaching at IIM",
+      "confidence": 0.8946157
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4083.465,
+      "end": 4084.605,
+      "text": "as adjunct faculty.",
+      "confidence": 0.8671284
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4096.025,
+      "end": 4096.525,
+      "text": "Professor",
+      "confidence": 0.24140018
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4097.065,
+      "end": 4097.725,
+      "text": "can join",
+      "confidence": 0.8638879
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4098.22,
+      "end": 4099.68,
+      "text": "on fintech. Can you imagine?",
+      "confidence": 0.97449934
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4111.98,
+      "end": 4112.48,
+      "text": "Right.",
+      "confidence": 0.71138823
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4112.7803,
+      "end": 4113.705,
+      "text": "Busy you are.",
+      "confidence": 0.8989802
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4114.665,
+      "end": 4116.365,
+      "text": "What's the real reason for alliance",
+      "confidence": 0.7169552
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4116.745,
+      "end": 4117.965,
+      "text": "world economic forum.",
+      "confidence": 0.70673436
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4119.465,
+      "end": 4119.965,
+      "text": "Gender",
+      "confidence": 0.61822987
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4125.465,
+      "end": 4125.965,
+      "text": "Nice.",
+      "confidence": 0.7352356
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4127.225,
+      "end": 4127.725,
+      "text": "Public.",
+      "confidence": 0.7374902
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4133.7197,
+      "end": 4138.94,
+      "text": "What's the real reason? What do you think? Why did you say yes to this? B twenty k digital transformation",
+      "confidence": 0.8719975
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4140.28,
+      "end": 4141.98,
+      "text": "South African nominate here.",
+      "confidence": 0.5940405
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4154.725,
+      "end": 4155.225,
+      "text": "Experience.",
+      "confidence": 0.7025996
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4155.66,
+      "end": 4157.92,
+      "text": "Nobody gets to re experience",
+      "confidence": 0.78550845
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4158.3,
+      "end": 4159.44,
+      "text": "from a new perspective",
+      "confidence": 0.9564257
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4159.82,
+      "end": 4160.7197,
+      "text": "the same life.",
+      "confidence": 0.9449194
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4161.42,
+      "end": 4162.88,
+      "text": "You are getting the opportunity.",
+      "confidence": 0.98911893
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4168.86,
+      "end": 4169.6797,
+      "text": "100%.",
+      "confidence": 0.6827019
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4184.06,
+      "end": 4186.56,
+      "text": "Second last question. Okay? On June 4,",
+      "confidence": 0.8520156
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4187.98,
+      "end": 4190.72,
+      "text": "you didn't feel anything. When you lost election, you felt nothing.",
+      "confidence": 0.97762066
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4191.26,
+      "end": 4192.72,
+      "text": "We have lost elections before.",
+      "confidence": 0.8718417
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4193.98,
+      "end": 4195.04,
+      "text": "'18.",
+      "confidence": 0.9778077
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4196.62,
+      "end": 4197.12,
+      "text": "Election",
+      "confidence": 0.3056898
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4208.515,
+      "end": 4211.815,
+      "text": "When you're unbothered by it. Yes. These have failed before.",
+      "confidence": 0.8082093
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4212.7603,
+      "end": 4216.3003,
+      "text": "I think one of the greatest misconceptions people have is achievement",
+      "confidence": 0.98824173
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4216.68,
+      "end": 4217.18,
+      "text": "achiever",
+      "confidence": 0.8252008
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4218.2,
+      "end": 4221.58,
+      "text": "from one achievement to another. No. From one failure to another",
+      "confidence": 0.9286878
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4221.96,
+      "end": 4223.2603,
+      "text": "in between some achievement.",
+      "confidence": 0.81874514
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4229.175,
+      "end": 4231.195,
+      "text": "Right. I was smiling. I was like,",
+      "confidence": 0.8207471
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4237.495,
+      "end": 4239.74,
+      "text": "But what goes on in your head? Nothing.",
+      "confidence": 0.94261247
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4240.12,
+      "end": 4245.26,
+      "text": "I just I'm just planning the next thing. Before the result? Done with a project,",
+      "confidence": 0.8213913
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4245.72,
+      "end": 4253.42,
+      "text": "go to the next thing. No. Yeah. Before the result, what goes on in your head? Not only. Oh, yeah. I did that in '19 also when they were counting. And they said,",
+      "confidence": 0.913681
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4255.935,
+      "end": 4257.875,
+      "text": "So it's not as if I'm unaffected",
+      "confidence": 0.9592785
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4258.1753,
+      "end": 4263.395,
+      "text": "because I've trained myself only at loss. I'm unaffected even when we win. I love it.",
+      "confidence": 0.9883081
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4265.855,
+      "end": 4268.355,
+      "text": "I never went and took my certificate of victory",
+      "confidence": 0.9319137
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4268.6553,
+      "end": 4269.315,
+      "text": "in '19,",
+      "confidence": 0.9453875
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4269.73,
+      "end": 4276.79,
+      "text": "which was a historical political victory because the Indian National Congress sitting president has never lost in the history of this country.",
+      "confidence": 0.98066443
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4277.17,
+      "end": 4280.31,
+      "text": "That too from their bastion. I mean, he's an unwinnable seat.",
+      "confidence": 0.7923609
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4280.9297,
+      "end": 4284.55,
+      "text": "And the first non congressperson and the first woman to ever",
+      "confidence": 0.9498949
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4284.8555,
+      "end": 4286.3154,
+      "text": "complete five years there",
+      "confidence": 0.9970286
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4286.7754,
+      "end": 4289.2754,
+      "text": "was not from the family, Gandhi family.",
+      "confidence": 0.86853343
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4289.975,
+      "end": 4292.3154,
+      "text": "So I knew the history I'd created, but I was like,",
+      "confidence": 0.89978796
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4293.7354,
+      "end": 4295.115,
+      "text": "The team which was working",
+      "confidence": 0.82839906
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4296.055,
+      "end": 4296.555,
+      "text": "certificate.",
+      "confidence": 0.61006254
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4303.15,
+      "end": 4305.8896,
+      "text": "It's not as if I am you know, it's a",
+      "confidence": 0.9283746
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4306.19,
+      "end": 4307.9497,
+      "text": "mind frame to battle out,",
+      "confidence": 0.97799236
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4308.27,
+      "end": 4310.8496,
+      "text": "when I've lost something. I'm like that in Successfuls.",
+      "confidence": 0.9104701
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4311.31,
+      "end": 4313.65,
+      "text": "I love it. I love it. Beyond a point,",
+      "confidence": 0.9156047
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4314.11,
+      "end": 4315.01,
+      "text": "even in Kyunki,",
+      "confidence": 0.9385516
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4315.775,
+      "end": 4320.5947,
+      "text": "I think they kept giving every year best actor till I one day went on stage and I declared it only.",
+      "confidence": 0.92926043
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4323.135,
+      "end": 4324.435,
+      "text": "And people are like,",
+      "confidence": 0.537567
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4325.375,
+      "end": 4326.195,
+      "text": "but genuinely.",
+      "confidence": 0.3105732
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4327.0547,
+      "end": 4328.5146,
+      "text": "I mean, we are the most popular",
+      "confidence": 0.9933278
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4329.22,
+      "end": 4333.88,
+      "text": "So by that default, it'll come to us. I said there are others who are doing genuinely good work.",
+      "confidence": 0.89339095
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4335.54,
+      "end": 4338.2803,
+      "text": "And I still remember, like, what did she say?",
+      "confidence": 0.89887166
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4339.7,
+      "end": 4342.7603,
+      "text": "But that's being so honest and nice. But it's true.",
+      "confidence": 0.90671474
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4367.7197,
+      "end": 4368.46,
+      "text": "That matters.",
+      "confidence": 0.71348614
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4368.92,
+      "end": 4372.665,
+      "text": "True. I ask this to everybody who I enjoy conversation with is",
+      "confidence": 0.9224019
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4373.145,
+      "end": 4375.485,
+      "text": "give me a feedback. How can I be better?",
+      "confidence": 0.9780444
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4380.425,
+      "end": 4381.325,
+      "text": "Don't? No.",
+      "confidence": 0.8638296
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4381.705,
+      "end": 4383.485,
+      "text": "Mad love? You're just fine.",
+      "confidence": 0.7931813
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4385.065,
+      "end": 4386.285,
+      "text": "How are we just better?",
+      "confidence": 0.7379034
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4391.5796,
+      "end": 4392.0796,
+      "text": "Success",
+      "confidence": 0.2766057
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4402.455,
+      "end": 4403.755,
+      "text": "success. Why?",
+      "confidence": 0.38143873
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4411.975,
+      "end": 4412.475,
+      "text": "Machine",
+      "confidence": 0.40384007
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4446.3696,
+      "end": 4446.8696,
+      "text": "photographer",
+      "confidence": 0.31258583
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4449.4897,
+      "end": 4449.9897,
+      "text": "exhibition",
+      "confidence": 0.33912477
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4452.21,
+      "end": 4452.71,
+      "text": "photographs",
+      "confidence": 0.32000077
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4478.59,
+      "end": 4480.21,
+      "text": "Because they are the ones who feel",
+      "confidence": 0.8992031
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4480.9897,
+      "end": 4484.8496,
+      "text": "that nobody will have the time of day for them. Nice. I'll keep that.",
+      "confidence": 0.98445195
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4485.3896,
+      "end": 4489.295,
+      "text": "I'll keep that. I'll I'm still not happy with the",
+      "confidence": 0.9932126
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4490.075,
+      "end": 4492.255,
+      "text": "with no feedback, but I get your point.",
+      "confidence": 0.99633336
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4492.635,
+      "end": 4494.175,
+      "text": "I actually like it better.",
+      "confidence": 0.9582974
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4496.155,
+      "end": 4498.895,
+      "text": "Everybody you meet is trying to change something in you.",
+      "confidence": 0.9927578
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4500.22,
+      "end": 4503.92,
+      "text": "What we don't realize is as human beings, we are waiting for that one person",
+      "confidence": 0.94986725
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4504.62,
+      "end": 4506.4,
+      "text": "who will accept us as we are.",
+      "confidence": 0.9616428
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4510.22,
+      "end": 4514.085,
+      "text": "You're meeting Shruti Rani who's happy to meet you just as you are.",
+      "confidence": 0.8997913
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4514.885,
+      "end": 4517.065,
+      "text": "There's nothing about you that needs to change.",
+      "confidence": 0.9969299
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4518.245,
+      "end": 4519.065,
+      "text": "And that",
+      "confidence": 0.9920357
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4519.525,
+      "end": 4520.025,
+      "text": "sentiment,",
+      "confidence": 0.9027626
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4521.045,
+      "end": 4525.625,
+      "text": "there are two other people in this planet who will exhibit it towards you, your parents.",
+      "confidence": 0.9246874
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4528.98,
+      "end": 4529.48,
+      "text": "True.",
+      "confidence": 0.98490787
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4529.7803,
+      "end": 4534.36,
+      "text": "Thank you. You're welcome. Thank you so much for this. Loved having you.",
+      "confidence": 0.978899
+    },
+    {
+      "speaker_id": 0,
+      "speaker_label": "Speaker 1",
+      "start": 4543.935,
+      "end": 4544.435,
+      "text": "Hello?",
+      "confidence": 0.4387716
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4568.725,
+      "end": 4570.105,
+      "text": "Subscribe to this channel",
+      "confidence": 0.32361054
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4571.445,
+      "end": 4578.275,
+      "text": "and subscribe to this channel and you can subscribe to this channel and you can subscribe to this channel and",
+      "confidence": 0.4340799
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4581.07,
+      "end": 4582.69,
+      "text": "if you want to get a job done",
+      "confidence": 0.29903817
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4583.07,
+      "end": 4583.65,
+      "text": "for a podcast",
+      "confidence": 0.27274993
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4585.23,
+      "end": 4585.9697,
+      "text": "and you can also",
+      "confidence": 0.16678391
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4586.3096,
+      "end": 4586.8096,
+      "text": "get",
+      "confidence": 0.09274649
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4587.15,
+      "end": 4587.81,
+      "text": "a better value",
+      "confidence": 0.34570193
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4588.27,
+      "end": 4590.77,
+      "text": "and number three this episode is one conversation",
+      "confidence": 0.5053708
+    },
+    {
+      "speaker_id": 1,
+      "speaker_label": "Speaker 2",
+      "start": 4593.63,
+      "end": 4597.845,
+      "text": "can change someone's life I'll see you next time until then keep figuring out.",
+      "confidence": 0.9179082
+    }
+  ]
+}
