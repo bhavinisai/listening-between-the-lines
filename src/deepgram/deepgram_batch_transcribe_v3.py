@@ -3,8 +3,6 @@
 deepgram_transcribe_and_format.py
 
 Outputs per audio:
-- <stem>.deepgram.json        (RAW Deepgram response; often includes word-level 'words' even if utterances exist)
-- <stem>.txt                 (plain transcript)
 - <stem>.diarized.txt         ([start-end] Speaker N: text) based on utterances if available
 - <stem>.stats.json           (utterance-based stats if available; fallback otherwise)
 - <stem>.sentences.json       (CLEAN sentence/utterance-wise segments you can use downstream)
@@ -311,16 +309,11 @@ def write_sentence_json(resp: Dict[str, Any], out_dir: pathlib.Path, stem: str) 
 def write_diarized_outputs(resp: Dict[str, Any], out_dir: pathlib.Path, stem: str, gap_s: float) -> Dict[str, str]:
     """
     Writes:
-      - <stem>.txt
       - <stem>.diarized.txt
       - <stem>.stats.json
       - <stem>.sentences.json  (clean utterance-wise segments)
     """
     out_dir.mkdir(parents=True, exist_ok=True)
-
-    plain_txt = extract_best_transcript(resp)
-    txt_path = out_dir / f"{stem}.txt"
-    txt_path.write_text(plain_txt + "\n", encoding="utf-8")
 
     utterances = get_utterances(resp)
     if utterances:
@@ -342,7 +335,6 @@ def write_diarized_outputs(resp: Dict[str, Any], out_dir: pathlib.Path, stem: st
     sent_path = write_sentence_json(resp, out_dir, stem)
 
     return {
-        "txt": str(txt_path),
         "diarized": str(diar_path),
         "stats": str(stats_path),
         "sentences_json": sent_path,
@@ -445,13 +437,12 @@ def transcribe_and_format_one(
     out_dir.mkdir(parents=True, exist_ok=True)
 
     stem = audio_path.stem
-    json_out = out_dir / f"{stem}.deepgram.json"
-    err_out = out_dir / f"{stem}.error.json"
-
-    if not overwrite and json_out.exists():
-        resp = json.loads(json_out.read_text(encoding="utf-8"))
-        extra = write_diarized_outputs(resp, out_dir, stem, gap_s=gap_s)
-        return {"file": str(audio_path), "skipped_transcribe": True, "json": str(json_out), **extra}
+    diar_path = out_dir / f"{stem}.diarized.txt"
+    
+    # Check if any of the desired outputs already exist
+    if not overwrite and diar_path.exists():
+        # If diarized.txt exists, assume other files exist too
+        return {"file": str(audio_path), "skipped_transcribe": True, "diarized": str(diar_path)}
 
     headers = {"Authorization": f"Token {api_key}"}
     content_type = guess_mime(audio_path)
@@ -468,10 +459,11 @@ def transcribe_and_format_one(
     )
 
     if 200 <= status < 300:
-        json_out.write_text(json.dumps(resp, indent=2), encoding="utf-8")
+        # Only generate the 3 desired output files
         extra = write_diarized_outputs(resp, out_dir, stem, gap_s=gap_s)
-        return {"file": str(audio_path), "ok": True, "status": status, "json": str(json_out), **extra}
+        return {"file": str(audio_path), "ok": True, "status": status, **extra}
 
+    err_out = out_dir / f"{stem}.error.json"
     err_out.write_text(json.dumps({"status": status, "response": resp}, indent=2), encoding="utf-8")
     return {"file": str(audio_path), "ok": False, "status": status, "error_json": str(err_out)}
 
@@ -563,4 +555,5 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
 
