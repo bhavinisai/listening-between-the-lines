@@ -44,9 +44,10 @@ def main():
     parser.add_argument("--model", type=str, default="large-v2")
     parser.add_argument("--batch_size", type=int, default=16)
     parser.add_argument("--compute_type", type=str, default="float16")
+    parser.add_argument("--language", type=str, default="en")  # Added language parameter
     parser.add_argument("--hf_token", type=str, default=None)
-    parser.add_argument("--min_speakers", type=int, default=None)
-    parser.add_argument("--max_speakers", type=int, default=None)
+    parser.add_argument("--min_speakers", type=int, default=2)
+    parser.add_argument("--max_speakers", type=int, default=2)
     args = parser.parse_args()
 
     audio_path = Path(args.audio_file)
@@ -61,9 +62,14 @@ def main():
     audio = whisperx.load_audio(str(audio_path))
 
     model = whisperx.load_model(args.model, device, compute_type=args.compute_type)
-    result = model.transcribe(audio, batch_size=args.batch_size)
+    
+    # Pass language to transcribe
+    result = model.transcribe(audio, batch_size=args.batch_size, language=args.language)
 
-    model_a, metadata = whisperx.load_align_model(language_code=result["language"], device=device)
+    # Use language from result or fallback to args.language
+    language_code = result.get("language", args.language)
+    
+    model_a, metadata = whisperx.load_align_model(language_code=language_code, device=device)
     result = whisperx.align(
         result["segments"],
         model_a,

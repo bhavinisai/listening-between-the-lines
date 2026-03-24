@@ -1,0 +1,44 @@
+{
+  "id": "gen-1772758874-pLFJZZX2AEzwuFXxD1Pw",
+  "object": "chat.completion",
+  "created": 1772758874,
+  "model": "arcee-ai/trinity-large-preview:free",
+  "provider": "Arcee AI",
+  "choices": [
+    {
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"host_speaker_id\": 1,\n  \"mapping\": {\n    \"0\": \"GUEST\",\n    \"1\": \"HOST\"\n  },\n  \"reasoning_brief\": {\n    \"0\": \"Male speaker asking questions and discussing space mission details\",\n    \"1\": \"Female speaker providing detailed responses about space experiences\"\n  },\n  \"confidence\": {\n    \"0\": 0.9,\n    \"1\": 0.9\n  }\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 642,
+    "completion_tokens": 98,
+    "total_tokens": 740,
+    "cost": 0,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": null,
+      "upstream_inference_prompt_cost": 0,
+      "upstream_inference_completions_cost": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}
