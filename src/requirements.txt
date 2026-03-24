@@ -1,4 +1,5 @@
-#conda activate lbtll-py311
+#  conda activate whisperx_cudnn8 
+#conda info --envs
 
 numpy<2.0
 torch
