@@ -1,0 +1,99 @@
+import os
+import argparse
+from googleapiclient.discovery import build
+from yt_dlp import YoutubeDL
+
+'''
+python src/youtube_audio_scraper.py --query "indian podcast english language raj shamani" --max-results 10 --output "data/raw_audio"
+
+'''
+
+def get_youtube_client(api_key):
+    return build("youtube", "v3", developerKey=api_key, cache_discovery=False)
+
+def search_videos(youtube, query, max_results=10):
+    resp = youtube.search().list(
+        part="id,snippet",
+        type="video",
+        q=query,
+        maxResults=max_results,
+        order="relevance"
+    ).execute()
+    return [item["id"]["videoId"] for item in resp.get("items", [])]
+
+def videos_from_channel(youtube, channel_id, max_results=10):
+    resp = youtube.search().list(
+        part="id",
+        channelId=channel_id,
+        type="video",
+        order="date",
+        maxResults=max_results
+    ).execute()
+    return [item["id"]["videoId"] for item in resp.get("items", [])]
+
+def download_audio(video_id, output_dir, index):
+    os.makedirs(output_dir, exist_ok=True)
+    url = f"https://www.youtube.com/watch?v={video_id}"
+    ydl_opts = {
+        "format": "bestaudio/best",
+        "outtmpl": os.path.join(output_dir, f"ep_{index:03d}.wav"),
+        "postprocessors": [{
+            "key": "FFmpegExtractAudio",
+            "preferredcodec": "wav",
+            "preferredquality": "192",
+        }],
+        "quiet": False,
+        "no_warnings": True,
+        "continue_dl": True,
+    }
+    with YoutubeDL(ydl_opts) as ydl:
+        ydl.download([url])
+
+def main():
+    parser = argparse.ArgumentParser(description="YouTube audio scraper")
+    parser.add_argument("--query", help="Search query to find videos")
+    parser.add_argument("--channel", help="Channel ID for latest uploads")
+    parser.add_argument("--max-results", type=int, default=10)
+    parser.add_argument("--output", default="youtube_audio")
+    parser.add_argument("--api-key", default=os.getenv("YOUTUBE_API_KEY"))
+    parser.add_argument("--id-file", default=None,
+                        help="Text file with one video id or URL per line")
+    args = parser.parse_args()
+
+    if not args.api_key:
+        raise SystemExit("Need YOUTUBE_API_KEY or --api-key")
+    if not (args.query or args.channel or args.id_file):
+        raise SystemExit("Need --query, --channel or --id-file")
+
+    youtube = get_youtube_client(args.api_key)
+    ids = []
+
+    if args.id_file:
+        with open(args.id_file, "r", encoding="utf-8") as f:
+            for line in f:
+                txt = line.strip()
+                if not txt:
+                    continue
+                if "watch?v=" in txt or "youtu.be/" in txt:
+                    video_id = txt.split("v=")[-1].split("&")[0] if "v=" in txt else txt.split("/")[-1]
+                else:
+                    video_id = txt
+                ids.append(video_id)
+
+    if args.query:
+        ids.extend(search_videos(youtube, args.query, args.max_results))
+    if args.channel:
+        ids.extend(videos_from_channel(youtube, args.channel, args.max_results))
+
+    ids = list(dict.fromkeys(ids))
+    if not ids:
+        print("No videos found.")
+        return
+
+    print(f"Downloading {len(ids)} audio tracks to {args.output}")
+    for idx, vid in enumerate(ids, start=25):
+        print(f"-> ep_{idx:03d}: {vid}")
+        download_audio(vid, args.output, idx)
+
+if __name__ == "__main__":
+    main()
