@@ -6,6 +6,10 @@ from pathlib import Path
 import whisperx
 from whisperx.diarize import DiarizationPipeline
 
+'''
+python src/diarizze_whisperx_gpu.py data/raw_audio/ep_026.wav --output_dir data/outputs/whisperx   --model large-v2   --batch_size 16   --hf_token "$HF_TOKEN"   --language en
+
+'''
 
 def sec_to_timestamp(seconds: float) -> str:
     hours = int(seconds // 3600)

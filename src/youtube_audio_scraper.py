@@ -36,7 +36,7 @@ def download_audio(video_id, output_dir, index):
     url = f"https://www.youtube.com/watch?v={video_id}"
     ydl_opts = {
         "format": "bestaudio/best",
-        "outtmpl": os.path.join(output_dir, f"ep_{index:03d}.wav"),
+        "outtmpl": os.path.join(output_dir, f"ep_{index:03d}.%(ext)s"),
         "postprocessors": [{
             "key": "FFmpegExtractAudio",
             "preferredcodec": "wav",
@@ -94,6 +94,12 @@ def main():
     for idx, vid in enumerate(ids, start=25):
         print(f"-> ep_{idx:03d}: {vid}")
         download_audio(vid, args.output, idx)
+
+    # Update audio_files.txt with new file paths
+    with open("audio_files.txt", "a", encoding="utf-8") as f:
+        for idx in range(25, 25 + len(ids)):
+            f.write(f"{os.path.join(args.output, f'ep_{idx:03d}.wav')}\n")
+    print(f"Updated audio_files.txt with {len(ids)} new entries.")
 
 if __name__ == "__main__":
     main()

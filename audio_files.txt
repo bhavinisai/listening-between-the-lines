@@ -22,3 +22,13 @@ data/raw_audio/ep_021.wav
 data/raw_audio/ep_022.wav
 data/raw_audio/ep_023.wav
 data/raw_audio/ep_024.wav
+data/raw_audio/ep_025.wav
+data/raw_audio/ep_026.wav
+data/raw_audio/ep_027.wav
+data/raw_audio/ep_028.wav
+data/raw_audio/ep_029.wav
+data/raw_audio/ep_030.wav
+data/raw_audio/ep_031.wav
+data/raw_audio/ep_032.wav
+data/raw_audio/ep_033.wav
+data/raw_audio/ep_034.wav
