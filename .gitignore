@@ -4,3 +4,4 @@ logs
 data/raw_audio/*.wav
 outputs
 .env
+sbatch_scripts/
