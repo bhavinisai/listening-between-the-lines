@@ -7,7 +7,7 @@
 #SBATCH --cpus-per-task=4
 #SBATCH --partition=tier3
 #SBATCH --gres=gpu:a100:1
-#SBATCH --array=0-24  # Adjust based on number of episodes (0 to N-1)
+#SBATCH --array=0-298  # Adjust based on number of episodes (0 to N-1)
 
 # Change to project root directory
 cd /home/sr5868/listening-between-the-lines  # Update with your actual path
