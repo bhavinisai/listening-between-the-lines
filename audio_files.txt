@@ -148,3 +148,5 @@ data/raw_audio/ep_147.wav
 data/raw_audio/ep_148.wav
 data/raw_audio/ep_149.wav
 data/raw_audio/ep_150.wav
+data/raw_audio/ep_030.wav
+data/raw_audio/ep_032.wav

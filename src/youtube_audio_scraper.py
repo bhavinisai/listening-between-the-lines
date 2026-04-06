@@ -8,7 +8,7 @@ python src/youtube_audio_scraper.py --query "indian podcast english language the
 
 python src/youtube_audio_scraper.py --channel UCneyi-aYq4VIBYIAQgWmk_w --max-results 200 --output data/raw_audio
 
-python src/youtube_audio_scraper.py --id-file podcast_episodes_3.txt --output data/raw_audio
+python src/youtube_audio_scraper.py --id-file podcast_episodes_2.txt --output data/raw_audio
 '''
 
 def get_youtube_client(api_key):
@@ -146,13 +146,13 @@ def main():
         return
 
     print(f"Downloading {len(ids)} audio tracks to {args.output}")
-    for idx, vid in enumerate(ids, start=120):
+    for idx, vid in enumerate(ids, start=32):
         print(f"-> ep_{idx:03d}: {vid}")
         download_audio(vid, args.output, idx)
 
     # Update audio_files.txt with new file paths
     with open("audio_files.txt", "a", encoding="utf-8") as f:
-        for idx in range(120, 120 + len(ids)):
+        for idx in range(32, 32 + len(ids)):
             f.write(f"{os.path.join(args.output, f'ep_{idx:03d}.wav')}\n")
     print(f"Updated audio_files.txt with {len(ids)} new entries.")
 
