@@ -81,7 +81,7 @@ def main():
 
     plt.figure()
     plt.bar(summary["speaker_id"], summary["speaking_percentage"])
-    plt.title("Speaking Share per Speaker (Episode 001)")
+    plt.title("Speaking Share per Speaker")
     plt.xlabel("Speaker")
     plt.ylabel("Speaking Percentage (%)")
 
