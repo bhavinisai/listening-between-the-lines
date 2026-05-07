@@ -7,7 +7,7 @@
 #SBATCH --job-name=whisperx
 #SBATCH --output=logs/whisperx_%A_%a.out
 #SBATCH --error=logs/whisperx_%A_%a.err
-#SBATCH --array=1-299
+#SBATCH --array=0-100
 
 set -euo pipefail
 

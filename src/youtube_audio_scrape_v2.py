@@ -10,10 +10,7 @@ python src/youtube_audio_scraper.py --channel UCneyi-aYq4VIBYIAQgWmk_w --max-res
 
 python src/youtube_audio_scraper.py --id-file podcast_episodes.txt --output data/raw_audio
 
-python src/youtube_audio_scraper.py --url "https://www.youtube.com/watch?v=lt0JhGFGTi4" --output data/raw_audio --filename ep_011
-
-ffmpeg -i data/raw_audio/ep_011.wav -ss 00:24:45 -to 00:25:30 data/raw_audio/host/ep_011_speaker00_clip.wav
-
+python src/youtube_audio_scraper.py --url "https://www.youtube.com/watch?v=SfOaZIGJ_gs" --output data/raw_audio --filename ep_005_nikhil_kamath
 '''
 
 def get_youtube_client(api_key):
@@ -32,14 +29,14 @@ def search_videos(youtube, query, max_results=10):
 def videos_from_channel(youtube, channel_id, max_results=10):
     """Get video IDs from channel, filtering out shorts (videos <= 60 seconds)."""
     import re
-    
+
     all_ids = []
     next_page_token = None
     fetched = 0
-    
+
     # Fetch more videos than needed since we'll filter out shorts
     fetch_limit = max_results * 2
-    
+
     while len(all_ids) < max_results and fetched < fetch_limit:
         resp = youtube.search().list(
             part="id",
@@ -49,34 +46,33 @@ def videos_from_channel(youtube, channel_id, max_results=10):
             maxResults=min(50, fetch_limit - fetched),
             pageToken=next_page_token
         ).execute()
-        
+
         video_ids = [item["id"]["videoId"] for item in resp.get("items", [])]
         fetched += len(video_ids)
-        
+
         if not video_ids:
             break
-        
+
         # Get duration details for these videos
         details = youtube.videos().list(
             part="contentDetails",
             id=",".join(video_ids)
         ).execute()
-        
+
         for item in details.get("items", []):
             duration_str = item["contentDetails"]["duration"]
-            # Parse ISO 8601 duration (e.g., PT1H23M45S)
             duration_seconds = parse_duration(duration_str)
-            
+
             # Filter out shorts (videos <= 60 seconds)
             if duration_seconds > 60:
                 all_ids.append(item["id"])
                 if len(all_ids) >= max_results:
                     break
-        
+
         next_page_token = resp.get("nextPageToken")
         if not next_page_token:
             break
-    
+
     return all_ids[:max_results]
 
 
@@ -91,6 +87,7 @@ def parse_duration(duration_str):
     total_seconds = int(hours or 0) * 3600 + int(minutes or 0) * 60 + int(seconds or 0)
     return total_seconds
 
+
 def extract_video_id(url_or_id):
     """Extract video ID from a URL or return as-is if already an ID."""
     if "watch?v=" in url_or_id:
@@ -99,6 +96,7 @@ def extract_video_id(url_or_id):
         return url_or_id.split("/")[-1].split("?")[0]
     return url_or_id
 
+
 def download_audio(video_id, output_dir, index, filename=None):
     os.makedirs(output_dir, exist_ok=True)
     url = f"https://www.youtube.com/watch?v={video_id}"
@@ -106,7 +104,6 @@ def download_audio(video_id, output_dir, index, filename=None):
     ydl_opts = {
         "format": "bestaudio/best",
         "outtmpl": os.path.join(output_dir, f"{out_name}.%(ext)s"),
-        "cookiefile": "cookies.txt",   # add this line
         "postprocessors": [{
             "key": "FFmpegExtractAudio",
             "preferredcodec": "wav",
@@ -118,6 +115,7 @@ def download_audio(video_id, output_dir, index, filename=None):
     }
     with YoutubeDL(ydl_opts) as ydl:
         ydl.download([url])
+
 
 def main():
     parser = argparse.ArgumentParser(description="YouTube audio scraper")
@@ -163,32 +161,21 @@ def main():
         return
 
     print(f"Downloading {len(ids)} audio track(s) to {args.output}")
-
-    failed = []
-    for idx, vid in enumerate(ids, start=64):
+    for idx, vid in enumerate(ids, start=1):
+        # Use --filename only when downloading a single URL
         filename = args.filename if (args.url and len(ids) == 1) else None
-        print(f"-> ep_{idx:03d}: {vid}")
-        try:
-            download_audio(vid, args.output, idx, filename=filename)
-        except Exception as e:
-            print(f"  FAILED: {vid} — {e}")
-            failed.append((idx, vid))
+        print(f"-> {filename or f'ep_{idx:03d}'}: {vid}")
+        download_audio(vid, args.output, idx, filename=filename)
 
-    # Update audio_files.txt with successfully downloaded files
+    # Update audio_files.txt with new file paths
     with open("audio_files.txt", "a", encoding="utf-8") as f:
         if args.url and len(ids) == 1 and args.filename:
             f.write(f"{os.path.join(args.output, f'{args.filename}.wav')}\n")
         else:
-            for idx, vid in [(i, v) for i, v in enumerate(ids, start=64)
-                             if (i, v) not in [(fi, fv) for fi, fv in failed]]:
+            for idx in range(1, 1 + len(ids)):
                 f.write(f"{os.path.join(args.output, f'ep_{idx:03d}.wav')}\n")
 
-    print(f"\nCompleted: {len(ids) - len(failed)}/{len(ids)}")
-
-    if failed:
-        print(f"\nFailed downloads ({len(failed)}) — download these locally and transfer via scp:")
-        for idx, vid in failed:
-            print(f"  ep_{idx:03d}: https://www.youtube.com/watch?v={vid}")
+    print(f"Updated audio_files.txt with {len(ids)} new entries.")
 
 
 if __name__ == "__main__":
