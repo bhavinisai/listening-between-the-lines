@@ -7,7 +7,7 @@
 #SBATCH --cpus-per-task=4
 #SBATCH --partition=tier3
 #SBATCH --gres=gpu:a100:1
-#SBATCH --array=0-298  # Adjust based on number of episodes (0 to N-1)
+#SBATCH --array=36-150  # Adjust based on number of episodes (0 to N-1)
 
 # Change to project root directory
 cd /home/sr5868/listening-between-the-lines  # Update with your actual path
@@ -62,11 +62,13 @@ if [ ! -f "${INPUT_JSON}" ]; then
 fi
 
 # Run gender detection (note: using --input-json with hyphen, no --input_txt)
-python src/detect_gender_v3.py \
+python src/detect_gender_v5.py \
     --audio "${AUDIO_FILE}" \
     --input_json "${INPUT_JSON}" \
     --output_json "${OUTPUT_JSON}" \
-    --output_txt "${OUTPUT_TXT}"
+    --output_txt "${OUTPUT_TXT}" \
+    --speaker_library data/speaker_library.json \
+    --match_threshold 0.70
 
 EXIT_CODE=$?
 
@@ -78,3 +80,4 @@ else
 fi
 
 echo "========================================="
+

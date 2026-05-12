@@ -22,8 +22,8 @@ Usage:
   pip install requests
   export GROQ_API_KEY="..."   # get free key at console.groq.com
 
-  python src/labeled_transcript_v11.py \
-    --input data/outputs/whisperx/ep_002_whisperx_diarized.gender.json \
+  python src/host_guest_label/labeled_transcript_v11.py \
+    --input data/outputs/whisperx/ep_020_whisperx_diarized.gender.json \
     --out_dir data/outputs/whisperx/ \
     --model llama-3.3-70b-versatile \
     --speaker_key speaker \
