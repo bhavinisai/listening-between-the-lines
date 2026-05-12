@@ -4,10 +4,6 @@ whisperx==3.8.2
 pyannote-audio==4.0.4
 faster-whisper==1.2.1
  
-# PyTorch (CUDA 12.8)
-torch==2.8.0+cu128
-torchaudio==2.8.0+cu128
- 
 # Transformers
 transformers==4.57.6
  
