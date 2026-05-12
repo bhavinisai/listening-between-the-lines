@@ -1,8 +1,9 @@
 # Virtual environment
 venv/
 logs
-data/raw_audio/*.wav
+data/raw_audio/
 outputs
 .env
 sbatch_scripts/
-data/outputs/whisperx/others/*
+data/outputs/whisperx/
+
