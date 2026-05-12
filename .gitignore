@@ -6,4 +6,5 @@ outputs
 .env
 sbatch_scripts/
 data/outputs/whisperx/
-
+.DS_Store
+data/.DS_Store
