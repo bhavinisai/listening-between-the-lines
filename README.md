@@ -1,223 +1,308 @@
-# 🎙️ Listening Between The Lines: Analyzing Conversational Flow in Indian Podcasts
+# 🎙️ Listening Between The Lines: Analyzing Gendered Conversational Dynamics in Indian Podcasts
 
-### *A Structured Workflow for Extracting, Cleaning, Translating & Analyzing YouTube Podcast Transcripts*
+### *An End-to-End Pipeline for Audio Collection, Transcription, Speaker Diarization, Gender Detection, and Conversational Analysis*
 
-## 📌 **Project Overview**
+---
 
-This project implements a complete pipeline for automatically collecting, cleaning, translating, and performing basic analysis on podcast transcripts from YouTube.
-It is designed as a modular, layered architecture that processes raw unstructured content into structured text ready for downstream research.
+## 📌 Project Overview
+
+This project implements a complete pipeline for automatically collecting, processing, and analyzing podcast audio from YouTube. It focuses on studying gendered conversational dynamics in English-language Indian podcasts by extracting structured transcripts with speaker roles, gender labels, and conversational features.
 
 The system supports:
 
-* Automated transcript extraction from YouTube
-* Translation of non-English transcripts
-* Cleaning and normalization
-* Sentence segmentation
-* Basic text analytics
-* Batch processing for multiple episodes
+- Automated audio collection from YouTube
+- Speech transcription with word-level alignment (WhisperX)
+- Speaker diarization (identifying who speaks when)
+- Hybrid gender detection via voice embedding matching and acoustic classification
+- Host/Guest role labeling using speaker identity and LLM-based inference
+- Dataset-level statistics and conversational feature extraction
+- Batch processing across hundreds of episodes via SLURM
 
-This repository contains all scripts, data folders, and sample outputs needed to reproduce the workflow.
+---
 
-## 🗂️ **Repository Structure**
+## 🗂️ Repository Structure
 
 ```
-podcast_analysis_project/
+listening-between-the-lines/
 │
 ├── data/
-│   ├── raw_transcripts/        # Original transcripts (JSON or text)
-│   ├── cleaned_transcripts/    # Cleaned/translated text files
-│   └── metadata/               # Episode metadata (optional)
-│
-├── outputs/
-│   ├── tables/                  # Word/sentence counts
-│   └── samples/                # Extracted question lists
+│   ├── speaker_library.json            # Enrolled host voice embeddings
+│   ├── raw_audio/                  # Episode .wav files (not tracked by git)
+│   │   └── host/                   # Host enrollment audio clips
+│   └── outputs/
+│       └── whisperx/               # All transcript JSON and TXT outputs
 │
 ├── src/
-│   ├── batch_download.py       # Batch transcript downloader
-│   ├── convert_json_to_text.py # JSON → TXT converter
-│   ├── batch_translate_to_english.py│
-│   ├── extract_questions.py
-│   ├── text_stats.py        # Word & sentence count generator
-│   └── episode_list.txt        # List of YouTube URLs
+│   ├── youtube_audio_scraper.py    # Download audio from YouTube
+│   ├── diarizze_whisperx_gpu.py    # WhisperX transcription + diarization
+│   ├── build_speaker_library.py    # Enroll known hosts into voice library
+│   ├── detect_gender_v4.py         # Hybrid gender detection
+│   ├── labeled_transcript_v12.py   # Host/Guest role labeling
+│   ├── dataset_stats.py            # Dataset-level statistics
+│   └── compare_audio.py            # Audio property comparison utility
 │
+├── sbatch/                         # SLURM batch job scripts
+│   ├── run_whisperx_array.sbatch
+│   ├── run_detect_gender_array.sbatch
+│   └── run_host_guest_labeling.sbatch
 │
-└── README.md                   # Project documentation
+├── logs/                           # SLURM job logs
+├── episode_list.txt            # YouTube URLs for batch download
+├── requirements.txt                # Python dependencies
+├── audio_files.txt 
+└── README.md
 ```
 
-## 🧱 **System Architecture**
+---
 
-The project is built using a 5-layer pipeline:
+## 🧱 Pipeline Overview
 
-1. **Input Layer**
+The project is built as a 5-stage pipeline:
 
-   * Stores YouTube URLs for all episodes
-   * Provides controlled input for batch processing
+```
+YouTube Audio → WhisperX Transcription → Gender Detection → Host/Guest Labeling → Analysis
+```
 
-2. **Transcript Extraction Layer**
+![Methodology Diagram](methodology_diagram.png)
 
-   * Uses `youtube_transcript_api` to download transcripts
-   * Saves raw JSON files with time-stamped segments
+### Stage 1 — Audio Collection
+Downloads podcast episodes as `.wav` files from YouTube using `yt-dlp`.
 
-3. **Translation & Cleaning Layer**
+### Stage 2 — Transcription & Speaker Diarization
+Uses WhisperX (`large-v2`) for speech-to-text with word-level alignment, and pyannote for speaker diarization — producing timestamped transcripts with SPEAKER_00/SPEAKER_01 labels.
 
-   * Translates Hindi / Hinglish episodes to English
-   * Cleans artifacts, spacing, and structural inconsistencies
+### Stage 3 — Gender Detection
+Uses a hybrid approach:
+1. Each speaker's audio is extracted and converted to a voice embedding using pyannote's speaker embedding model
+2. The embedding is compared against a pre-built library of known host voice embeddings using cosine similarity
+3. If a confident match is found → gender assigned from library
+4. If no match (guest) → falls back to inaSpeechSegmenter, a CNN-based acoustic classifier
 
-4. **Preprocessing Layer**
+### Stage 4 — Host/Guest Labeling
+Identifies which speaker is the HOST and which is the GUEST using:
+1. Speaker library match (known host → HOST)
+2. Groq LLM inference (fallback)
+3. Heuristic detection (final fallback)
 
-   * Sentence segmentation (NLTK)
-   * Tokenization
-   * Text normalization
-   * Ready for further NLP tasks
+### Stage 5 — Analysis
+Extracts speaker-level features (speaking time, turn count, dominance ratio) and computes dataset statistics across all episodes.
 
-5. **Output & Analysis Layer**
+---
 
-   * Extracts user questions
-   * Computes word & sentence statistics
-   * Produces structured output in `/outputs/`
+## 📊 Dataset
 
+- **Source:** English-language Indian podcasts from YouTube
+- **Size:** ~300 episodes
+- **Format:** Two-speaker conversations (host + guest)
+- **Known Hosts:** 5 recurring hosts enrolled in the speaker library
+- **Language:** English
 
-## ⚙️ **Installation**
+---
 
-### 1️⃣ Clone the repository
+## ⚙️ Installation
+
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/Dhanyaravikumarsuchithra/Capstone-Listening-Between-the-Lines.git
-cd podcast_analysis_project
+cd listening-between-the-lines
 ```
 
-### 2️⃣ Install dependencies
-
-You should create a virtual environment (recommended):
+### 2. Create and activate conda environment
 
 ```bash
-pip install youtube-transcript-api deep-translator nltk pandas
+conda create -n whisperx_cudnn8 python=3.10
+conda activate whisperx_cudnn8
 ```
 
-### 3️⃣ Download NLTK data
-
-```python
-import nltk
-nltk.download('punkt')
-```
-
----
-
-## 🚀 **How to Run the Pipeline**
-
-### **Step 1 — Add YouTube URLs**
-
-Edit:
-
-```
-src/episode_list.txt
-```
-
-One URL per line.
-
----
-
-### **Step 2 — Download Transcripts**
+### 3. Install PyTorch with CUDA
 
 ```bash
-python src/batch_download.py
+pip install torch==2.8.0+cu128 torchaudio==2.8.0+cu128 \
+    --index-url https://download.pytorch.org/whl/cu128
 ```
 
-Raw transcripts will be saved inside:
-
-```
-data/raw_transcripts/
-```
-
----
-
-### **Step 3 — Translate (only for Hindi episodes)**
+### 4. Install remaining dependencies
 
 ```bash
-python src/batch_translate_to_english.py
+pip install -r requirements.txt
 ```
 
----
-
-### **Step 4 — Clean Transcripts**
+### 5. Set environment variables
 
 ```bash
-python src/clean_transcript.py
+export HF_TOKEN="your_huggingface_token"        # pyannote models
+export YOUTUBE_API_KEY="your_youtube_api_key"   # YouTube Data API v3
+export GROQ_API_KEY="your_groq_api_key"         # Host/Guest labeling fallback
 ```
 
 ---
 
-### **Step 5 — Extract Questions**
+## 🚀 How to Run the Pipeline
+
+### Step 1 — Download Audio
+
+**Single episode:**
+```bash
+python src/youtube_audio_scraper.py \
+    --url "https://www.youtube.com/watch?v=VIDEO_ID" \
+    --output data/raw_audio \
+    --filename ep_001
+```
+
+**Batch from URL list:**
+```bash
+python src/youtube_audio_scraper.py \
+    --id-file podcast_episodes.txt \
+    --output data/raw_audio
+```
+
+> If YouTube bot detection blocks downloads on the server, download locally and transfer:
+> ```bash
+> scp ep_001.wav user@server:/path/to/data/raw_audio/
+> ```
+
+---
+
+### Step 2 — Transcription & Diarization
 
 ```bash
-python src/extract_questions.py
+python src/diarizze_whisperx_gpu.py data/raw_audio/ep_001.wav \
+    --output_dir data/outputs/whisperx \
+    --model large-v2 \
+    --batch_size 16 \
+    --hf_token "$HF_TOKEN" \
+    --language en
+```
+
+**SLURM batch:**
+```bash
+sbatch sbatch/run_whisperx_array.sbatch
 ```
 
 ---
 
-### **Step 6 — Compute Word & Sentence Stats**
+### Step 3 — Build Speaker Library (One-Time)
+
+Extract a 30–60 second clip of each host:
+```bash
+ffmpeg -i data/raw_audio/ep_001.wav -ss 00:02:30 -to 00:03:30 data/raw_audio/host/host_name.wav
+```
+
+Enroll hosts into the library:
+```bash
+python src/build_speaker_library.py \
+    --hosts_dir data/raw_audio/host/ \
+    --output_library data/speaker_library.json \
+    --metadata data/raw_audio/host/metadata.csv
+```
+
+`metadata.csv` format:
+```
+filename,name,gender
+host_name.wav,Host Name,male
+```
+
+---
+
+### Step 4 — Gender Detection
 
 ```bash
-python src/text_stats.py
+python src/detect_gender_v4.py \
+    --audio data/raw_audio/ep_001.wav \
+    --input_json data/outputs/whisperx/ep_001_whisperx_diarized.json \
+    --output_json data/outputs/whisperx/ep_001_whisperx_diarized.gender.json \
+    --output_txt data/outputs/whisperx/ep_001_whisperx_diarized.gender.txt \
+    --speaker_library data/speaker_library.json \
+    --match_threshold 0.70
 ```
 
-Outputs stored in:
-
-```
-outputs/tables/stats
-```
-
----
-
-## 📊 Example Output
-
-### **Word & Sentence Statistics**
-
-```
-episode,word_count,sentence_count
-ep001_cleaned.txt,6698,312
-ep002_cleaned.txt,6624,298
-ep003_cleaned.txt,11430,629
-...
-```
-
-### **Extracted Questions (sample)**
-
-```
-What is the most misunderstood thing about you?
-Do you think AI poses a global threat?
-Why do you believe India is becoming a global talent hub?
-...
+**SLURM batch:**
+```bash
+sbatch sbatch/run_detect_gender_array.sbatch
 ```
 
 ---
 
-## 🧪 **Technologies Used**
+### Step 5 — Host/Guest Labeling
 
-| Component             | Library / Tool           |
-| --------------------- | ------------------------ |
-| Transcript download   | youtube-transcript-api   |
-| Translation           | deep-translator          |
-| Cleaning              | Python string processing |
-| Sentence segmentation | NLTK                     |
-| Statistics            | pandas                   |
-| Data storage          | Local filesystem         |
+```bash
+python src/labeled_transcript_v12.py \
+    --input data/outputs/whisperx/ep_001_whisperx_diarized.gender.json \
+    --out_dir data/outputs/whisperx/ \
+    --speaker_key speaker
+```
 
----
-
-## 🧾 **Project Goals**
-
-This repository aims to:
-
-* Build a structured and reproducible workflow
-* Enable analysis of conversational patterns in podcasts
-* Provide early exploratory results for further NLP models
-* Form the basis for next-semester research
+**SLURM batch with dependency on gender detection:**
+```bash
+GENDER_JOB=$(sbatch sbatch/run_detect_gender_array.sbatch | awk '{print $4}')
+sbatch --dependency=afterok:$GENDER_JOB sbatch/run_host_guest_labeling.sbatch
+```
 
 ---
 
-## 🙌 **Team Members**
+### Step 6 — Dataset Statistics
 
-* Bhavini Sai Mallu
-* Sameeksha Rao
+```bash
+python src/dataset_stats.py \
+    --json_dir data/outputs/whisperx/ \
+    --output_csv data/outputs/dataset_stats.csv
+```
 
+**Output includes:**
+- Total episodes processed
+- Episodes by host gender (male / female / unknown)
+- Guest gender breakdown per host gender
+- Episode count per known host
+
+---
+
+## 🧪 Technologies Used
+
+| Component | Library / Tool |
+|---|---|
+| Audio download | yt-dlp, google-api-python-client |
+| Transcription | WhisperX 3.8.2, faster-whisper 1.2.1 |
+| Speaker diarization | pyannote-audio 4.0.4 |
+| Voice embeddings | pyannote/embedding |
+| Acoustic gender detection | inaSpeechSegmenter 0.8.0 |
+| Host/Guest labeling | Groq API (llama-3.3-70b-versatile) |
+| Deep learning | PyTorch 2.8.0+cu128 |
+| NLP | transformers 4.57.6 |
+| Numerical | numpy 2.2.6, scipy 1.15.3 |
+| Batch processing | SLURM |
+
+---
+
+## 🖥️ HPC / SLURM Notes
+
+- **Partition:** `tier3`
+- **GPU:** NVIDIA A100
+- **Environment:** `whisperx_cudnn8` (Python 3.10, CUDA 12.8)
+- Array jobs are used to process episodes in parallel
+- Jobs can be chained using `--dependency=afterok:JOB_ID`
+
+---
+
+## ⚠️ Known Limitations
+
+- YouTube bot detection may block server-side downloads — use local download + `scp` as a workaround
+- Speakers with androgynous or transitional-range voices (~150–165 Hz) may be classified as `unknown` by inaSpeechSegmenter
+- Speaker library matching requires a cosine similarity threshold of 0.70 — voices with different recording conditions may score lower
+- pyannote diarization occasionally merges two speakers into one label, especially during crosstalk
+
+---
+
+## 🙌 Team Members
+
+- Bhavini Sai Mallu
+- Sameeksha Rao
+
+---
+
+## 🤝 Acknowledgements
+
+- [WhisperX](https://github.com/m-bain/whisperX) — Bain et al.
+- [pyannote-audio](https://github.com/pyannote/pyannote-audio) — Bredin et al.
+- [inaSpeechSegmenter](https://github.com/ina-foss/inaSpeechSegmenter) — INA
+- [Groq](https://console.groq.com) — LLM inference API
