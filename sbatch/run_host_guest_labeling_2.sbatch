@@ -6,7 +6,7 @@
 #SBATCH --mem=4G
 #SBATCH --cpus-per-task=1
 #SBATCH --partition=tier3
-#SBATCH --array=0-99   # Adjust to (number of episodes - 1)
+#SBATCH --array=199-298   # Adjust to (number of episodes - 1)
 
 # NOTE: No GPU needed — this script only calls an external API.
 #

@@ -1,10 +1,27 @@
-#  conda activate whisperx_cudnn8
-#conda info --envs
 
-numpy<2.0
-torch
-torchaudio
-pyannote.audio==3.1.1
-soundfile
-tqdm
-openai-whisper
+# Core ASR & Diarization
+whisperx==3.8.2
+pyannote-audio==4.0.4
+faster-whisper==1.2.1
+ 
+# PyTorch (CUDA 12.8)
+torch==2.8.0+cu128
+torchaudio==2.8.0+cu128
+ 
+# Transformers
+transformers==4.57.6
+ 
+# Gender Detection
+inaSpeechSegmenter==0.8.0
+tensorflow==2.21.0
+ 
+# Numerical & Scientific
+numpy==2.2.6
+scipy==1.15.3
+ 
+# YouTube Scraping
+yt-dlp==2026.3.17
+google-api-python-client==2.193.0
+ 
+# Networking
+requests==2.32.5
