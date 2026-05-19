@@ -8,9 +8,9 @@ python src/youtube_audio_scraper.py --query "indian podcast english language the
 
 python src/youtube_audio_scraper.py --channel UCneyi-aYq4VIBYIAQgWmk_w --max-results 200 --output data/raw_audio
 
-python src/youtube_audio_scraper.py --id-file podcast_episodes.txt --output data/raw_audio
+python src/youtube_audio_scraper.py --id-file new_episodes.txt --output data/raw_audio
 
-python src/youtube_audio_scraper.py --url "https://www.youtube.com/watch?v=lt0JhGFGTi4" --output data/raw_audio --filename ep_011
+python src/youtube_audio_scraper.py --url "https://www.youtube.com/watch?v=jPoKmb3v4sM" --output data/raw_audio --filename ep_336
 
 ffmpeg -i data/raw_audio/ep_011.wav -ss 00:24:45 -to 00:25:30 data/raw_audio/host/ep_011_speaker00_clip.wav
 
@@ -165,7 +165,7 @@ def main():
     print(f"Downloading {len(ids)} audio track(s) to {args.output}")
 
     failed = []
-    for idx, vid in enumerate(ids, start=64):
+    for idx, vid in enumerate(ids, start=341):
         filename = args.filename if (args.url and len(ids) == 1) else None
         print(f"-> ep_{idx:03d}: {vid}")
         try:
@@ -179,7 +179,7 @@ def main():
         if args.url and len(ids) == 1 and args.filename:
             f.write(f"{os.path.join(args.output, f'{args.filename}.wav')}\n")
         else:
-            for idx, vid in [(i, v) for i, v in enumerate(ids, start=64)
+            for idx, vid in [(i, v) for i, v in enumerate(ids, start=341)
                              if (i, v) not in [(fi, fv) for fi, fv in failed]]:
                 f.write(f"{os.path.join(args.output, f'ep_{idx:03d}.wav')}\n")
 
@@ -193,3 +193,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
