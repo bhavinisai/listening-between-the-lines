@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-detect_gender_v4.py
+detect_gender_v5.py
 
 Detect speaker gender using a hybrid approach:
   1. Match each diarized speaker against a known host library (voice embeddings)
