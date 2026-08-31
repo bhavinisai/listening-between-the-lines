@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Read back in, respecting the multi-level column header written by median_mad_by_dyad()
-df = pd.read_csv("/home/sr5868/listening-between-the-lines/results/dyad_median_mad_stats.csv", header=[0, 1], index_col=0)
+df = pd.read_csv("/home/sr5868/listening-between-the-lines/results/dyads/dyad_median_mad_stats.csv", header=[0, 1], index_col=0)
 
 # Pick which metrics you want to plot (must match METRICS/ASYMMETRY_PAIRS names from the script)
 metrics_to_plot = [
@@ -27,5 +27,5 @@ for ax, metric in zip(axes, metrics_to_plot):
     ax.axhline(0, color="black", linewidth=0.8)
 
 plt.tight_layout()
-plt.savefig("/home/sr5868/listening-between-the-lines/results/dyad_median_mad_barplot.png", dpi=150)
+plt.savefig("/home/sr5868/listening-between-the-lines/results/figures/dyad_median_mad_barplot.png", dpi=150)
 plt.show()

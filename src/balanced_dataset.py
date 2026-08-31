@@ -4,7 +4,7 @@ import shutil
 import random
 
 # Load your main features file
-df = pd.read_csv("results/speaker_features.csv")
+df = pd.read_csv("results/features/speaker_features.csv")
 
 # Keep only host and guest rows
 df = df[df["role"].isin(["HOST", "GUEST"])].copy()
@@ -50,6 +50,6 @@ for dyad in valid_dyads:
 balanced_df = episodes.loc[balanced_ids]
 
 # Save selected episode IDs
-balanced_df.to_csv("results/balanced_200_episodes.csv")
+balanced_df.to_csv("results/features/balanced_200_episodes.csv")
 
 print("Balanced dataset created with", len(balanced_df), "episodes.")

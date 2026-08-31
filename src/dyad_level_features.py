@@ -10,7 +10,10 @@ Output:
     - dyad_boxplots.png                (visual check of key metrics across the 4 dyads)
 
 Usage:
-    python dyad_level_features.py --input dyad_analysis.csv --outdir results/
+    python dyad_level_features.py \
+        --input results/dyads/dyad_analysis.csv \
+        --outdir results/dyads/ \
+        --figdir results/figures/
 """
 
 import argparse
@@ -109,7 +112,8 @@ def plot_boxplots(df: pd.DataFrame, metrics: list, out_path: str) -> None:
     print(f"Saved boxplots to {out_path}")
 
 
-def main(input_csv: str, outdir: str):
+def main(input_csv: str, outdir: str, figdir: str = None):
+    figdir = figdir or outdir
     df = pd.read_csv(input_csv)
 
     print(f"Loaded {len(df)} episodes from {input_csv}\n")
@@ -142,13 +146,14 @@ def main(input_csv: str, outdir: str):
     print()
 
     # 4. Boxplots for a sanity check before formal testing
-    plot_out = f"{outdir}/dyad_boxplots.png"
+    plot_out = f"{figdir}/dyad_boxplots.png"
     plot_boxplots(df, BOXPLOT_METRICS, plot_out)
 
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("--input", default="dyad_analysis.csv", help="Path to dyad_analysis.csv")
-    ap.add_argument("--outdir", default=".", help="Directory to write outputs to")
+    ap.add_argument("--input", default="results/dyads/dyad_analysis.csv", help="Path to dyad_analysis.csv")
+    ap.add_argument("--outdir", default="results/dyads", help="Directory to write output CSVs to")
+    ap.add_argument("--figdir", default=None, help="Directory to write figures to (defaults to --outdir)")
     args = ap.parse_args()
-    main(args.input, args.outdir)
+    main(args.input, args.outdir, args.figdir)

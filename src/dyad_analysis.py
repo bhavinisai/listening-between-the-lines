@@ -1,8 +1,8 @@
 import pandas as pd
 
 # ---------- 1. Load ----------
-sf = pd.read_csv("results/speaker_features.csv")
-bal = pd.read_csv("results/balanced_200_episodes.csv")
+sf = pd.read_csv("results/features/speaker_features.csv")
+bal = pd.read_csv("results/features/balanced_200_episodes.csv")
 
 # ---------- 2. Keep only the 200 balanced episodes ----------
 sf = sf[sf["episode_id"].isin(bal["episode_id"])].copy()
@@ -65,6 +65,6 @@ cols = [
 ]
 df = df[cols]
 
-df.to_csv("results/dyad_analysis.csv", index=False)
+df.to_csv("results/dyads/dyad_analysis.csv", index=False)
 print(f"Saved dyad_analysis.csv with {len(df)} episodes and {len(df.columns)} columns.")
 print(df.head())
