@@ -1,0 +1,10 @@
+test,statistic,p_value,dof,notes
+chi_square_followup_by_gender,30.421982520254552,3.47567094732886e-08,1.0,H0: follow-up (binary) is independent of initiator gender
+welch_ttest_similarity_by_gender,6.100229018100047,1.0909993154073507e-09,,"male mean sim=0.0544 (n=6444), female mean sim=0.0419 (n=6129)"
+ols_similarity_intercept,20.00605858084586,0.0,12569.0,"coef=0.0363, se=0.0018 (outcome: outgoing similarity)"
+ols_similarity_is_male_initiator,1.8477291894030694,0.06466500936540198,12569.0,"coef=0.0043, se=0.0023 (outcome: outgoing similarity)"
+ols_similarity_initiator_word_count,-0.9181108940113841,0.35857842916546145,12569.0,"coef=-0.0000, se=0.0000 (outcome: outgoing similarity)"
+ols_similarity_is_host_initiator,7.921627465163561,2.4424906541753444e-15,12569.0,"coef=0.0190, se=0.0024 (outcome: outgoing similarity)"
+robustness_threshold_0.05,,,,"follow-up rate by gender @ threshold 0.05: female=0.218, male=0.258"
+robustness_threshold_0.1,,,,"follow-up rate by gender @ threshold 0.1: female=0.120, male=0.154"
+robustness_threshold_0.2,,,,"follow-up rate by gender @ threshold 0.2: female=0.051, male=0.074"
