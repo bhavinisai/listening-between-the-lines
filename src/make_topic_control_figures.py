@@ -71,14 +71,14 @@ def save(fig, name):
 
 def load_mixed_turns():
     turns = pd.read_csv(os.path.join(REPO, "results", "topic_control_turns.csv"))
-    episodes = pd.read_csv(os.path.join(REPO, "results", "balanced_200_episodes.csv"))
+    episodes = pd.read_csv(os.path.join(REPO, "results", "features", "balanced_200_episodes.csv"))
     dyads = episodes.set_index("episode_id")["dyad"]
     turns["dyad"] = turns["episode_id"].map(dyads)
     mixed = turns[turns["dyad"].isin(["MALE->FEMALE", "FEMALE->MALE"])].copy()
     return mixed
 
 
-def fig1_headline(mixed, chi2_p):
+def fig1_headline(mixed, sig_p):
     rate = mixed.groupby("initiator_gender")["followed_up"].agg(["mean", "count"])
     rate = rate.reindex(["female", "male"])
     fig, ax = plt.subplots(figsize=(4.2, 4.5))
@@ -99,7 +99,7 @@ def fig1_headline(mixed, chi2_p):
     # significance bracket
     y_top = max(h + e for h, e in zip(heights, errs)) + 0.05
     ax.plot([0, 0, 1, 1], [y_top, y_top + 0.01, y_top + 0.01, y_top], color=INK, lw=1)
-    ax.text(0.5, y_top + 0.015, sig_stars(chi2_p), ha="center", va="bottom", fontsize=12)
+    ax.text(0.5, y_top + 0.015, sig_stars(sig_p), ha="center", va="bottom", fontsize=12)
 
     ax.set_xticks(x)
     ax.set_xticklabels(["Female initiator", "Male initiator"])
@@ -152,9 +152,9 @@ def fig2_confound(mixed):
 def fig3_forest(stats_df):
     rows = []
     label_map = {
-        "ols_similarity_is_male_initiator": "Male initiator",
-        "ols_similarity_is_host_initiator": "Host initiator",
-        "ols_similarity_initiator_word_count": "Initiator word count\n(per word)",
+        "mixedlm_similarity_is_male_initiator": "Male initiator",
+        "mixedlm_similarity_is_host_initiator": "Host initiator",
+        "mixedlm_similarity_initiator_word_count": "Initiator word count\n(per word)",
     }
     for test_name, label in label_map.items():
         row = stats_df[stats_df["test"] == test_name].iloc[0]
@@ -198,7 +198,7 @@ def fig4_robustness(mixed):
     ax.set_xlabel("Follow-up similarity threshold")
     ax.set_ylabel("Follow-up rate")
     ax.yaxis.set_major_formatter(lambda v, _: f"{v:.0%}")
-    ax.set_title("Male > female follow-up gap holds across thresholds\n(robustness check)", fontsize=12)
+    ax.set_title("Follow-up rate by threshold", fontsize=12)
     ax.legend(frameon=False)
     ax.grid(color=GRID, linewidth=0.7, alpha=0.6)
     ax.set_axisbelow(True)
@@ -208,9 +208,11 @@ def fig4_robustness(mixed):
 def main():
     mixed = load_mixed_turns()
     stats_df = pd.read_csv(os.path.join(REPO, "results", "topic_control_stats.csv"))
-    chi2_p = float(stats_df.loc[stats_df["test"] == "chi_square_followup_by_gender", "p_value"].iloc[0])
+    # GEE (clustered by episode_id), confound-controlled test, not the naive
+    # chi-square -- see topic_control.py's stats section for why.
+    sig_p = float(stats_df.loc[stats_df["test"] == "gee_followedup_is_male_initiator", "p_value"].iloc[0])
 
-    fig1_headline(mixed, chi2_p)
+    fig1_headline(mixed, sig_p)
     fig2_confound(mixed)
     fig3_forest(stats_df)
     fig4_robustness(mixed)

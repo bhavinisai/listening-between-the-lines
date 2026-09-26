@@ -1,0 +1,5 @@
+test,statistic,p_value,dof,notes
+embeddings_paired_ttest_episode_followup_rate,-0.9545899133954608,0.3421102046312604,99.0,"male mean=0.4680, female mean=0.4852 (n=100 episodes; similarity = all-MiniLM-L6-v2 embedding cosine, not TF-IDF)"
+embeddings_permutation_test_episode_followup_rate,-0.017142366966641082,0.3438656134386561,,two-sided p from 10000 sign-flip permutations of 100 paired episodes
+embeddings_paired_ttest_episode_similarity,-1.2076947532382576,0.23004195517343323,99.0,"male mean=0.2345, female mean=0.2435 (n=100 episodes; similarity = all-MiniLM-L6-v2 embedding cosine, not TF-IDF)"
+embeddings_permutation_test_episode_similarity,-0.009091951557279621,0.2258774122587741,,two-sided p from 10000 sign-flip permutations of 100 paired episodes

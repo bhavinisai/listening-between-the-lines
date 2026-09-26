@@ -11,18 +11,33 @@ the (continuous) similarity between that initiation and the next turn from
 the other speaker.
 
 We then test whether male speakers' topic introductions are followed up more
-than female speakers' in mixed-gender dyads (MALE->FEMALE / FEMALE->MALE),
-using:
-  1. A chi-square test on the binarized follow-up outcome.
-  2. A Welch's t-test on the raw (non-binarized) similarity scores.
-  3. An OLS regression of similarity on initiator gender, controlling for
-     initiator turn length and host/guest role, so a raw gender gap can't
-     be explained away by men simply talking longer or being the host.
-  4. A robustness check re-running the follow-up rate at a few fixed
+than female speakers' in mixed-gender dyads (MALE->FEMALE / FEMALE->MALE).
+
+IMPORTANT: turn-pairs within the same episode are not independent observations
+-- one chatty episode can contribute hundreds of pairs out of the ~100
+episodes per gender in this dataset. Naive tests that ignore this (chi-square,
+Welch's t-test) badly overstate significance, so this script reports those
+only as descriptive references and uses episode-aware tests for inference:
+  1. Chi-square / Welch's t-test on the raw/binarized outcome (NAIVE, kept
+     for comparison only -- see their "notes" column).
+  2. A mixed-effects (MixedLM) regression of similarity on initiator gender,
+     controlling for initiator turn length and host/guest role, with random
+     intercepts per episode and per speaker nested in episode.
+  3. GEE logistic regression of the binarized follow-up outcome, clustered by
+     episode (exchangeable correlation, robust SEs) -- the primary,
+     confound-controlled significance test for the binary outcome.
+  4. A variational-Bayes mixed logistic regression (BinomialBayesMixedGLM),
+     the literal random-intercept analogue of #3, kept as a secondary
+     cross-check -- its posterior SDs are known to run anti-conservative, so
+     it is not the test of record.
+  5. Episode-level paired t-test, Wilcoxon signed-rank, and a sign-flip
+     permutation test, all model-free confirmations comparing male vs. female
+     follow-up within the same ~100 episodes.
+  6. A robustness check re-running the follow-up rate at a few fixed
      thresholds, to confirm the result isn't an artifact of one cutoff.
 
 Input:
-    - results/balanced_200_episodes.csv   (episode_id, host_gender, guest_gender, dyad)
+    - results/features/balanced_200_episodes.csv (episode_id, host_gender, guest_gender, dyad)
     - data/outputs/whisperx/{episode_id}.txt
       (diarized transcript, same "[start - end] SPEAKER (gender, ROLE): text"
       format parsed by interruption_matrix.py)
@@ -31,8 +46,9 @@ Output:
     - results/topic_control_turns.csv    (one row per initiation -> response pair)
     - results/topic_control_summary.csv  (follow-up rate by initiator gender,
                                            mixed-gender dyads only)
-    - results/topic_control_stats.csv    (chi-square, t-test, regression,
-                                           and robustness-check results)
+    - results/topic_control_stats.csv    (naive reference tests, mixed-effects/
+                                           GEE/GLMM regressions, paired episode-
+                                           level tests, and robustness checks)
 
 Thresholds:
     --init_threshold  cutoff on incoming similarity below which a turn counts
@@ -49,7 +65,7 @@ initiation or a follow-up response.
 
 Usage:
     python src/topic_control.py \
-        --episodes results/balanced_200_episodes.csv \
+        --episodes results/features/balanced_200_episodes.csv \
         --transcript_dir data/outputs/whisperx \
         --out_dir results
 """
@@ -58,11 +74,16 @@ import argparse
 import math
 import os
 import re
+import warnings
 from collections import defaultdict
 
 import numpy as np
 import pandas as pd
 from scipy import stats
+import statsmodels.api as sm
+import statsmodels.formula.api as smf
+from statsmodels.genmod.bayes_mixed_glm import BinomialBayesMixedGLM
+from statsmodels.regression.mixed_linear_model import MixedLM
 
 from interruption_matrix import Turn, is_backchannel, ts_to_seconds
 
@@ -265,25 +286,9 @@ def process_episode(episode_id, transcript_path, followup_threshold_mode, init_t
     return pairs
 
 
-def ols_with_stats(X, y):
-    """Plain OLS via the normal equations, with classical SEs, t-stats and
-    two-tailed p-values. No statsmodels/sklearn dependency in this repo."""
-    n, k = X.shape
-    xtx_inv = np.linalg.inv(X.T @ X)
-    beta = xtx_inv @ X.T @ y
-    resid = y - X @ beta
-    dof = max(n - k, 1)
-    sigma2 = (resid @ resid) / dof
-    cov = sigma2 * xtx_inv
-    se = np.sqrt(np.diag(cov))
-    tvals = beta / se
-    pvals = 2 * (1 - stats.t.cdf(np.abs(tvals), dof))
-    return beta, se, tvals, pvals
-
-
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--episodes", default="results/balanced_200_episodes.csv")
+    ap.add_argument("--episodes", default="results/features/balanced_200_episodes.csv")
     ap.add_argument("--transcript_dir", default="data/outputs/whisperx")
     ap.add_argument("--out_dir", default="results")
     ap.add_argument(
@@ -369,16 +374,25 @@ def main():
     female = mixed[mixed["initiator_gender"] == "female"]
 
     # 1. Chi-square: is the binary follow-up outcome independent of initiator gender?
+    #    NAIVE reference only -- treats every turn-pair as an independent draw,
+    #    when really they're clustered within ~100 episodes per gender (one
+    #    episode can contribute hundreds of pairs). This overstates significance;
+    #    see lpm_followedup_is_male_initiator below for the clustered equivalent.
     contingency = pd.crosstab(mixed["initiator_gender"], mixed["followed_up"])
     if contingency.shape[0] == 2 and contingency.shape[1] == 2:
         chi2, chi2_p, dof, _ = stats.chi2_contingency(contingency)
         stats_rows.append({
             "test": "chi_square_followup_by_gender",
             "statistic": chi2, "p_value": chi2_p, "dof": dof,
-            "notes": "H0: follow-up (binary) is independent of initiator gender",
+            "notes": (
+                "H0: follow-up (binary) is independent of initiator gender. "
+                "NAIVE: does not account for episode clustering -- treat as "
+                "descriptive only, not the significance test of record."
+            ),
         })
 
     # 2. Welch's t-test on the raw continuous similarity score (no binarizing).
+    #    Same clustering caveat as the chi-square above -- descriptive only.
     if len(male) > 1 and len(female) > 1:
         t_stat, t_p = stats.ttest_ind(male["similarity"], female["similarity"], equal_var=False)
         stats_rows.append({
@@ -386,30 +400,163 @@ def main():
             "statistic": t_stat, "p_value": t_p, "dof": float("nan"),
             "notes": (
                 f"male mean sim={male['similarity'].mean():.4f} (n={len(male)}), "
-                f"female mean sim={female['similarity'].mean():.4f} (n={len(female)})"
+                f"female mean sim={female['similarity'].mean():.4f} (n={len(female)}). "
+                "NAIVE: does not account for episode clustering, see paired "
+                "episode-level tests below."
             ),
         })
 
-    # 3. OLS regression, controlling for initiator turn length and host/guest
-    #    role, so a raw gender gap isn't just men talking longer or being host.
+    # 3. Mixed-effects regression on the continuous similarity outcome,
+    #    controlling for initiator turn length and host/guest role, with a
+    #    random intercept per episode AND per speaker nested within episode.
+    #    Turn-pairs within an episode aren't independent draws -- one chatty
+    #    episode can contribute hundreds of pairs -- so this models that
+    #    structure directly (more efficient than just correcting the SEs
+    #    for it, which is what the now-removed cluster-robust OLS did).
     reg_df = mixed.dropna(subset=["similarity", "initiator_word_count"]).copy()
     reg_df["is_male_initiator"] = (reg_df["initiator_gender"] == "male").astype(float)
     reg_df["is_host_initiator"] = (reg_df["initiator_role"] == "HOST").astype(float)
-    if len(reg_df) > 4:
-        X = np.column_stack([
-            np.ones(len(reg_df)),
-            reg_df["is_male_initiator"].values,
-            reg_df["initiator_word_count"].values.astype(float),
-            reg_df["is_host_initiator"].values,
-        ])
-        y = reg_df["similarity"].values.astype(float)
-        coef, se, tvals, pvals = ols_with_stats(X, y)
-        labels = ["intercept", "is_male_initiator", "initiator_word_count", "is_host_initiator"]
-        for label, c, s, tv, pv in zip(labels, coef, se, tvals, pvals):
+    reg_df["speaker_key"] = reg_df["episode_id"].astype(str) + "::" + reg_df["initiator_speaker"].astype(str)
+    labels = ["intercept", "is_male_initiator", "initiator_word_count", "is_host_initiator"]
+    n_episodes = reg_df["episode_id"].nunique()
+    n_speakers = reg_df["speaker_key"].nunique()
+
+    if len(reg_df) > 4 and n_episodes > 1:
+        with warnings.catch_warnings():
+            warnings.simplefilter("ignore")
+            mixedlm_result = MixedLM.from_formula(
+                "similarity ~ is_male_initiator + initiator_word_count + is_host_initiator",
+                groups="episode_id",
+                vc_formula={"speaker": "0 + C(speaker_key)"},
+                data=reg_df,
+            ).fit(reml=True)
+        for label, name in zip(labels, mixedlm_result.fe_params.index):
+            c, s = mixedlm_result.fe_params[name], mixedlm_result.bse_fe[name]
+            tv, pv = mixedlm_result.tvalues[name], mixedlm_result.pvalues[name]
             stats_rows.append({
-                "test": f"ols_similarity_{label}",
-                "statistic": tv, "p_value": pv, "dof": len(reg_df) - X.shape[1],
-                "notes": f"coef={c:.4f}, se={s:.4f} (outcome: outgoing similarity)",
+                "test": f"mixedlm_similarity_{label}",
+                "statistic": tv, "p_value": pv, "dof": float("nan"),
+                "notes": (
+                    f"coef={c:.4f}, se={s:.4f} (outcome: outgoing similarity; "
+                    f"mixed-effects model, random intercept per episode + per "
+                    f"speaker nested in episode; {n_episodes} episodes, {n_speakers} speakers)"
+                ),
+            })
+
+        # 3b. GEE logistic regression on the binarized follow-up outcome,
+        #     clustered by episode (exchangeable working correlation, robust
+        #     sandwich SEs) -- the clustering-aware, confound-controlled
+        #     replacement for the naive chi-square test above, and the
+        #     primary significance test for the binary outcome.
+        with warnings.catch_warnings():
+            warnings.simplefilter("ignore")
+            gee_result = smf.gee(
+                "followed_up ~ is_male_initiator + initiator_word_count + is_host_initiator",
+                groups="episode_id",
+                data=reg_df,
+                family=sm.families.Binomial(),
+                cov_struct=sm.cov_struct.Exchangeable(),
+            ).fit()
+        for label, name in zip(labels, gee_result.params.index):
+            c, s = gee_result.params[name], gee_result.bse[name]
+            tv, pv = gee_result.tvalues[name], gee_result.pvalues[name]
+            stats_rows.append({
+                "test": f"gee_followedup_{label}",
+                "statistic": tv, "p_value": pv, "dof": float("nan"),
+                "notes": (
+                    f"coef={c:.4f}, se={s:.4f} (outcome: followed_up 0/1; "
+                    f"GEE, exchangeable correlation clustered by episode_id, "
+                    f"{n_episodes} clusters)"
+                ),
+            })
+
+        # 3c. Multilevel (variational Bayes) mixed logistic regression -- the
+        #     literal random-intercept-per-episode-and-per-speaker analogue of
+        #     the GEE model above, on a standardized word count for numerical
+        #     stability. CAVEAT: on this data its posterior SDs came out ~2.4x
+        #     tighter than GEE's robust SEs for the same coefficient, which
+        #     matches a known failure mode of mean-field variational GLMM
+        #     fitting (understates uncertainty). Treat gee_followedup_* above
+        #     as the significance test of record; use this only to cross-check
+        #     direction and rough magnitude.
+        wc = reg_df["initiator_word_count"].astype(float)
+        reg_df["word_count_z"] = (wc - wc.mean()) / wc.std()
+        glmm_labels = ["intercept", "is_male_initiator", "word_count_z", "is_host_initiator"]
+        with warnings.catch_warnings():
+            warnings.simplefilter("ignore")
+            glmm_result = BinomialBayesMixedGLM.from_formula(
+                "followed_up ~ is_male_initiator + word_count_z + is_host_initiator",
+                vc_formulas={"episode": "0 + C(episode_id)", "speaker": "0 + C(speaker_key)"},
+                data=reg_df,
+            ).fit_vb()
+        for label, c, s in zip(glmm_labels, glmm_result.fe_mean, glmm_result.fe_sd):
+            z = c / s
+            pv = 2 * (1 - stats.norm.cdf(abs(z)))
+            stats_rows.append({
+                "test": f"glmm_followedup_{label}",
+                "statistic": z, "p_value": pv, "dof": float("nan"),
+                "notes": (
+                    f"coef={c:.4f} (log-odds), sd={s:.4f} (outcome: followed_up 0/1; "
+                    "variational Bayes GLMM, random intercept per episode + per "
+                    "speaker nested in episode -- SDs likely anti-conservative, "
+                    "see caveat above; not the test of record)"
+                ),
+            })
+
+    # 3d. Episode-level paired tests: collapse to one follow-up rate and one
+    #     mean similarity per (episode, initiator_gender), then compare male
+    #     vs. female within each episode. Model-free confirmation that the
+    #     gap isn't an artifact of any of the models above -- n here is
+    #     genuinely ~100 episodes, not ~6,000 turn-pairs. The permutation test
+    #     adds a second, assumption-free check: it randomly relabels which
+    #     side of each episode's pair counts as "male" vs. "female" thousands
+    #     of times to build a null distribution for the paired mean difference,
+    #     then reports how extreme the real gap is against pure chance.
+    ep_gender = (
+        mixed.groupby(["episode_id", "initiator_gender"])
+        .agg(followup_rate=("followed_up", "mean"), mean_similarity=("similarity", "mean"))
+        .reset_index()
+    )
+    rng = np.random.default_rng(42)
+    n_perm = 10000
+    for value_col, test_stub in [
+        ("followup_rate", "episode_followup_rate"),
+        ("mean_similarity", "episode_similarity"),
+    ]:
+        pivoted = ep_gender.pivot(index="episode_id", columns="initiator_gender", values=value_col)
+        pivoted = pivoted.dropna(subset=["male", "female"])
+        if len(pivoted) > 1:
+            t_stat, t_p = stats.ttest_rel(pivoted["male"], pivoted["female"])
+            stats_rows.append({
+                "test": f"paired_ttest_{test_stub}",
+                "statistic": t_stat, "p_value": t_p, "dof": len(pivoted) - 1,
+                "notes": (
+                    f"male mean={pivoted['male'].mean():.4f}, "
+                    f"female mean={pivoted['female'].mean():.4f} "
+                    f"(n={len(pivoted)} episodes with both initiator genders)"
+                ),
+            })
+            w_stat, w_p = stats.wilcoxon(pivoted["male"], pivoted["female"])
+            stats_rows.append({
+                "test": f"paired_wilcoxon_{test_stub}",
+                "statistic": w_stat, "p_value": w_p, "dof": float("nan"),
+                "notes": f"non-parametric confirmation of paired_ttest_{test_stub}",
+            })
+
+            diffs = (pivoted["male"] - pivoted["female"]).values
+            observed = diffs.mean()
+            signs = rng.choice([-1.0, 1.0], size=(n_perm, len(diffs)))
+            null_means = (diffs[None, :] * signs).mean(axis=1)
+            perm_p = (np.sum(np.abs(null_means) >= abs(observed)) + 1) / (n_perm + 1)
+            stats_rows.append({
+                "test": f"permutation_test_{test_stub}",
+                "statistic": observed, "p_value": perm_p, "dof": float("nan"),
+                "notes": (
+                    f"observed male-female diff={observed:.4f}; two-sided p from "
+                    f"{n_perm} sign-flip permutations of the {len(diffs)} paired "
+                    "episodes (H0: which side of each episode's pair is labeled "
+                    "\"male\" vs. \"female\" is arbitrary)"
+                ),
             })
 
     # 4. Robustness check: does the gender gap hold across other fixed thresholds?

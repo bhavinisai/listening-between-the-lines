@@ -1,0 +1,1281 @@
+question_id,text,dyad,asker_role,asker_gender,episode_id,label
+q00000,Still call her when things go wrong?,MALE->MALE,HOST,male,ep_028_whisperx_diarized.gender.host_guest,personal
+q00001,Tell me what was the most fascinating thing you experienced?,MALE->FEMALE,HOST,male,ep_231_whisperx_diarized.gender.host_guest,open
+q00002,So should I do it or not?,MALE->MALE,GUEST,male,ep_273_whisperx_diarized.gender.host_guest,closed
+q00003,"All the mediums of Upasana that you have shared, Would you say that it is right to do 15-20 minutes every day?",MALE->FEMALE,HOST,male,ep_052_whisperx_diarized.gender.host_guest,closed
+q00004,"Okay, what are your next plans now?",MALE->FEMALE,HOST,male,ep_282_whisperx_diarized.gender.host_guest,open
+q00005,What was the motivation?,FEMALE->MALE,HOST,female,ep_031_whisperx_diarized.gender.host_guest,open
+q00006,"So, how can a person from a sophisticated area of Bombay understand?",FEMALE->MALE,GUEST,male,ep_132_whisperx_diarized.gender.host_guest,leading
+q00007,What are you going to play?,MALE->FEMALE,GUEST,female,ep_282_whisperx_diarized.gender.host_guest,closed
+q00008,And do you ever wonder about the stories of the gods we worship?,FEMALE->MALE,HOST,female,ep_342_whisperx_diarized.gender.host_guest,personal
+q00009,And what colors did they get?,MALE->MALE,GUEST,male,ep_213_whisperx_diarized.gender.host_guest,closed
+q00010,So then they keep testing you again and again like that?,MALE->FEMALE,HOST,male,ep_016_whisperx_diarized.gender.host_guest,leading
+q00011,What is it that you're looking for?,MALE->FEMALE,GUEST,female,ep_255_whisperx_diarized.gender.host_guest,open
+q00012,"I was like oh my god, how am I going to pay rent?",FEMALE->FEMALE,GUEST,female,ep_360_whisperx_diarized.gender.host_guest,open
+q00013,"He said, so have you adopted?",FEMALE->FEMALE,GUEST,female,ep_311_whisperx_diarized.gender.host_guest,closed
+q00014,What was the need to fool him?,MALE->MALE,GUEST,male,ep_154_whisperx_diarized.gender.host_guest,challenge
+q00015,"Yeah, but also what the snacks are, right?",MALE->FEMALE,GUEST,female,ep_256_whisperx_diarized.gender.host_guest,closed
+q00016,"Tell me if it's, do you think it's true or no?",MALE->MALE,HOST,male,ep_275_whisperx_diarized.gender.host_guest,closed
+q00017,"But even after that, you have your karmas, right?",MALE->FEMALE,GUEST,female,ep_017_whisperx_diarized.gender.host_guest,leading
+q00018,Does that not make me an artist?,MALE->FEMALE,GUEST,female,ep_042_whisperx_diarized.gender.host_guest,leading
+q00019,"So I asked Grok, someone asked me a question that what is the evidence for this?",MALE->MALE,GUEST,male,ep_079_whisperx_diarized.gender.host_guest,challenge
+q00020,But what's the best sleep I have?,MALE->MALE,GUEST,male,ep_028_whisperx_diarized.gender.host_guest,open
+q00021,What is a dolly?,FEMALE->FEMALE,HOST,female,ep_129_whisperx_diarized.gender.host_guest,closed
+q00022,"You know, so there are many things that you have over time start becoming conscious of, but you don't know any better yourself, you know?",FEMALE->MALE,GUEST,male,ep_116_whisperx_diarized.gender.host_guest,leading
+q00023,"What have you done against my values, my principles, my things?",MALE->FEMALE,HOST,male,ep_199_whisperx_diarized.gender.host_guest,challenge
+q00024,You want to build a toilet?,FEMALE->MALE,GUEST,male,ep_018_whisperx_diarized.gender.host_guest,closed
+q00025,"What if I told you with your sleep, you'd be actually able to do it better?",MALE->MALE,GUEST,male,ep_251_whisperx_diarized.gender.host_guest,leading
+q00026,Does it weigh on you when you're writing?,FEMALE->MALE,HOST,female,ep_121_whisperx_diarized.gender.host_guest,personal
+q00027,What is the substitute for sugar?,FEMALE->MALE,HOST,female,ep_157_whisperx_diarized.gender.host_guest,closed
+q00028,Who is asking for death?,FEMALE->FEMALE,HOST,female,ep_011_whisperx_diarized.gender.host_guest,closed
+q00029,How does business develop in India?,MALE->MALE,HOST,male,ep_253_whisperx_diarized.gender.host_guest,open
+q00030,Do you advise as a patient that I spend time on Google sort of understanding what I am going through a little better?,FEMALE->MALE,HOST,female,ep_322_whisperx_diarized.gender.host_guest,professional
+q00031,What was your thought process back then?,FEMALE->FEMALE,HOST,female,ep_339_whisperx_diarized.gender.host_guest,open
+q00032,"Prahlad, why are you talking?",MALE->MALE,GUEST,male,ep_049_whisperx_diarized.gender.host_guest,challenge
+q00033,You were?,FEMALE->FEMALE,HOST,female,ep_354_whisperx_diarized.gender.host_guest,closed
+q00034,Will it heal itself?,MALE->MALE,GUEST,male,ep_236_whisperx_diarized.gender.host_guest,closed
+q00035,One syringe means one ml?,MALE->MALE,HOST,male,ep_248_whisperx_diarized.gender.host_guest,closed
+q00036,"Because it's, I just like, even if sometimes people say, Arey, why you rude?",FEMALE->FEMALE,GUEST,female,ep_228_whisperx_diarized.gender.host_guest,challenge
+q00037,"You need a lot of data, a lot of information And a lot of computing power Yes Now, previously in history Nobody had that Even if you think about somebody like Stalin in the Soviet Union He wanted to follow everybody all the time But he couldn't He didn't have the technology In the Soviet Union, you can put a KGB agent to follow somebody all the day But there are 200 million people in the Soviet Union You don't have 200 million KGB agents And even if you do have 200 million agents What do they do?",FEMALE->MALE,GUEST,male,ep_328_whisperx_diarized.gender.host_guest,open
+q00038,"So that's why people are thinking to have late babies, right?",MALE->MALE,HOST,male,ep_208_whisperx_diarized.gender.host_guest,leading
+q00039,What do you usually ask?,MALE->FEMALE,HOST,male,ep_092_whisperx_diarized.gender.host_guest,open
+q00040,"When you talk about one step further, eye donation is huge, right?",FEMALE->MALE,HOST,female,ep_345_whisperx_diarized.gender.host_guest,leading
+q00041,So how to increase the focus?,MALE->MALE,HOST,male,ep_253_whisperx_diarized.gender.host_guest,open
+q00042,What has that experience been like for you?,FEMALE->FEMALE,HOST,female,ep_303_whisperx_diarized.gender.host_guest,personal
+q00043,"I mean, I suppose it's completely different for you as a journalist, but you know, you have to change the way you're presenting information to make sure you're not alarming people?",FEMALE->FEMALE,GUEST,female,ep_330_whisperx_diarized.gender.host_guest,professional
+q00044,You know the thought that I can't get out of my head in this conversation Is that you live in Pondicherry on a farm which I can hear birds singing and it's very beautiful and the sun is rising So fundamentally there is no cow in front of your house So if there is no conflict then what are you going to write about?,FEMALE->MALE,HOST,female,ep_114_whisperx_diarized.gender.host_guest,professional
+q00045,So who did you find attractive?,MALE->FEMALE,HOST,male,ep_098_whisperx_diarized.gender.host_guest,personal
+q00046,What people from different religions?,FEMALE->MALE,GUEST,male,ep_328_whisperx_diarized.gender.host_guest,open
+q00047,You've never found?,FEMALE->FEMALE,GUEST,female,ep_344_whisperx_diarized.gender.host_guest,closed
+q00048,"Then this model was taught by Amazon, right?",MALE->MALE,HOST,male,ep_034_whisperx_diarized.gender.host_guest,leading
+q00049,"If there is no national sport, then why not?",MALE->FEMALE,HOST,male,ep_270_whisperx_diarized.gender.host_guest,open
+q00050,"And third exercise is, start asking yourself, who am I?",MALE->FEMALE,HOST,male,ep_199_whisperx_diarized.gender.host_guest,open
+q00051,Why should people read this book?,MALE->FEMALE,HOST,male,ep_185_whisperx_diarized.gender.host_guest,professional
+q00052,Who are the people you can take into confidence?,FEMALE->FEMALE,GUEST,female,ep_316_whisperx_diarized.gender.host_guest,personal
+q00053,"And was I really achieving what I really want to do with my future, my goals in life, science, service and research?",FEMALE->FEMALE,GUEST,female,ep_323_whisperx_diarized.gender.host_guest,open
+q00054,And what next?,FEMALE->FEMALE,HOST,female,ep_303_whisperx_diarized.gender.host_guest,open
+q00055,"We always did good, how did cancer happen?",MALE->MALE,GUEST,male,ep_235_whisperx_diarized.gender.host_guest,personal
+q00056,What do you feel like when people are having theories?,FEMALE->FEMALE,GUEST,female,ep_310_whisperx_diarized.gender.host_guest,personal
+q00057,What did I lose by going to them?,MALE->MALE,GUEST,male,ep_071_whisperx_diarized.gender.host_guest,open
+q00058,"These are the only two ways in which you build immunity, right?",FEMALE->MALE,GUEST,male,ep_157_whisperx_diarized.gender.host_guest,leading
+q00059,A lot of people ask that how much more research should be done?,MALE->MALE,GUEST,male,ep_079_whisperx_diarized.gender.host_guest,professional
+q00060,Even in such humidity?,MALE->FEMALE,HOST,male,ep_229_whisperx_diarized.gender.host_guest,closed
+q00061,Kadhi in summers?,MALE->FEMALE,GUEST,female,ep_093_whisperx_diarized.gender.host_guest,closed
+q00062,What are the biggest mental health risks for senior citizens right now?,FEMALE->MALE,HOST,female,ep_150_whisperx_diarized.gender.host_guest,professional
+q00063,"It's also important to maybe understand whether there's a family history of heart disease, right?",FEMALE->MALE,GUEST,male,ep_157_whisperx_diarized.gender.host_guest,leading
+q00064,"Isn't it wrong for people, let's say, who are in America, Vietnam, Bangladesh, that people are making something there, and China or Taiwan, okay?",MALE->FEMALE,HOST,male,ep_274_whisperx_diarized.gender.host_guest,leading
+q00065,What if they cook?,MALE->FEMALE,HOST,male,ep_093_whisperx_diarized.gender.host_guest,open
+q00066,"If you had not been hostile, if you had not been adversarial, where would your motivation come from?",MALE->MALE,GUEST,male,ep_056_whisperx_diarized.gender.host_guest,challenge
+q00067,How much should the emergency corpus be?,FEMALE->MALE,HOST,female,ep_337_whisperx_diarized.gender.host_guest,professional
+q00068,"But before that I'll ask you right, what do you think it takes to be a strong woman?",FEMALE->FEMALE,HOST,female,ep_352_whisperx_diarized.gender.host_guest,personal
+q00069,"So is that your grandmother is likely to have practical heuristic wisdom that came from actually working in the kitchen and listening to her mother or her mother-in-law and her and so on grounded in things that work, right?",FEMALE->MALE,GUEST,male,ep_157_whisperx_diarized.gender.host_guest,leading
+q00070,"So, who is a beautiful person?",MALE->FEMALE,HOST,male,ep_223_whisperx_diarized.gender.host_guest,open
+q00071,Do you listen to Osho?,MALE->FEMALE,GUEST,female,ep_093_whisperx_diarized.gender.host_guest,personal
+q00072,Is it a good thing to take?,MALE->MALE,GUEST,male,ep_217_whisperx_diarized.gender.host_guest,closed
+q00073,"My family looked at me and said, you know Suhali Khan?",FEMALE->FEMALE,GUEST,female,ep_015_whisperx_diarized.gender.host_guest,closed
+q00074,So why is that even there?,FEMALE->FEMALE,GUEST,female,ep_356_whisperx_diarized.gender.host_guest,open
+q00075,"Nobody's going to cry and say, where's Anup?",FEMALE->MALE,GUEST,male,ep_320_whisperx_diarized.gender.host_guest,leading
+q00076,What's your interaction with the higher power?,MALE->FEMALE,HOST,male,ep_009_whisperx_diarized.gender.host_guest,personal
+q00077,"Now, what exactly is brain detox?",MALE->FEMALE,GUEST,female,ep_207_whisperx_diarized.gender.host_guest,closed
+q00078,"Is there such a cheap business, such an easy business in the world?",MALE->MALE,GUEST,male,ep_034_whisperx_diarized.gender.host_guest,leading
+q00079,For how long?,MALE->MALE,GUEST,male,ep_248_whisperx_diarized.gender.host_guest,closed
+q00080,You are asking this question?,MALE->MALE,GUEST,male,ep_102_whisperx_diarized.gender.host_guest,closed
+q00081,"I've been asked 10 times, is she coming?",FEMALE->FEMALE,HOST,female,ep_355_whisperx_diarized.gender.host_guest,closed
+q00082,"And you later realize, why am I angry?",FEMALE->MALE,GUEST,male,ep_324_whisperx_diarized.gender.host_guest,personal
+q00083,What memories do you have of Dil Toh Pagal Hai?,MALE->FEMALE,HOST,male,ep_014_whisperx_diarized.gender.host_guest,professional
+q00084,What was the first time when your family thought you would sing?,MALE->FEMALE,HOST,male,ep_032_whisperx_diarized.gender.host_guest,personal
+q00085,Are you getting angry?,MALE->FEMALE,GUEST,female,ep_199_whisperx_diarized.gender.host_guest,personal
+q00086,Why didn't we invest in this asset class earlier?,MALE->MALE,HOST,male,ep_113_whisperx_diarized.gender.host_guest,challenge
+q00087,Feel right?,MALE->FEMALE,HOST,male,ep_074_whisperx_diarized.gender.host_guest,closed
+q00088,Does that make the pain lesser?,MALE->MALE,HOST,male,ep_028_whisperx_diarized.gender.host_guest,closed
+q00089,You're just sending your dick pics?,FEMALE->FEMALE,HOST,female,ep_330_whisperx_diarized.gender.host_guest,challenge
+q00090,Do you not?,FEMALE->FEMALE,GUEST,female,ep_149_whisperx_diarized.gender.host_guest,closed
+q00091,"So, what is the one thing that you want to do?",MALE->FEMALE,GUEST,female,ep_016_whisperx_diarized.gender.host_guest,personal
+q00092,"But even to do that kind of, you know, what they were doing, it takes a lot of physical skill and energy, right?",MALE->FEMALE,GUEST,female,ep_098_whisperx_diarized.gender.host_guest,leading
+q00093,Where do we feel secure with our environment?,MALE->FEMALE,GUEST,female,ep_199_whisperx_diarized.gender.host_guest,open
+q00094,How do I stay on top?,FEMALE->FEMALE,HOST,female,ep_329_whisperx_diarized.gender.host_guest,open
+q00095,"And also like, it's great, like film school, right?",FEMALE->FEMALE,GUEST,female,ep_358_whisperx_diarized.gender.host_guest,leading
+q00096,"Do you like the experience of being, is it very different from being in an OTT film versus something that's going to release?",FEMALE->MALE,HOST,female,ep_340_whisperx_diarized.gender.host_guest,professional
+q00097,Will you eat ice?,MALE->MALE,GUEST,male,ep_039_whisperx_diarized.gender.host_guest,closed
+q00098,"So, what kind of English oppression was there in Scotland?",MALE->MALE,GUEST,male,ep_039_whisperx_diarized.gender.host_guest,open
+q00099,Why don't we start manufacturing defense?,MALE->MALE,HOST,male,ep_172_whisperx_diarized.gender.host_guest,professional
+q00100,"You use that time saying, I'm going to rest a little bit, I'm going to watch Netflix, I'm going to eat a little chocolate, but how will you balance?",MALE->FEMALE,GUEST,female,ep_197_whisperx_diarized.gender.host_guest,personal
+q00101,"Also, because why would you be in a loveless relationship?",MALE->FEMALE,GUEST,female,ep_064_whisperx_diarized.gender.host_guest,personal
+q00102,I got trolled for that?,MALE->FEMALE,GUEST,female,ep_032_whisperx_diarized.gender.host_guest,closed
+q00103,Do you do matchmaking for that generation as well?,MALE->FEMALE,GUEST,female,ep_092_whisperx_diarized.gender.host_guest,professional
+q00104,How do I find one?,FEMALE->FEMALE,GUEST,female,ep_302_whisperx_diarized.gender.host_guest,open
+q00105,What was their fault?,MALE->MALE,GUEST,male,ep_034_whisperx_diarized.gender.host_guest,open
+q00106,"But it's alarming, right?",MALE->MALE,HOST,male,ep_237_whisperx_diarized.gender.host_guest,leading
+q00107,Do you get to hear that?,FEMALE->MALE,HOST,female,ep_121_whisperx_diarized.gender.host_guest,closed
+q00108,How's that on me?,FEMALE->FEMALE,GUEST,female,ep_268_whisperx_diarized.gender.host_guest,open
+q00109,"And then when I woke up, the captain and the crew kind of were like, sir, can we see the award?",FEMALE->MALE,GUEST,male,ep_326_whisperx_diarized.gender.host_guest,closed
+q00110,When does it come out?,FEMALE->MALE,HOST,female,ep_121_whisperx_diarized.gender.host_guest,closed
+q00111,And is this seen less nowadays?,MALE->FEMALE,HOST,male,ep_112_whisperx_diarized.gender.host_guest,closed
+q00112,You think so?,MALE->FEMALE,GUEST,female,ep_017_whisperx_diarized.gender.host_guest,closed
+q00113,"If we were to remove your consciousness in the future and upload you into a cloud program, all of your thoughts, memories, feelings, ideas, would that be you?",FEMALE->MALE,GUEST,male,ep_123_whisperx_diarized.gender.host_guest,open
+q00114,Why can't you have a digital boundaries also for them?,FEMALE->MALE,GUEST,male,ep_031_whisperx_diarized.gender.host_guest,personal
+q00115,And how do I control how much power I have inside?,MALE->FEMALE,HOST,male,ep_246_whisperx_diarized.gender.host_guest,open
+q00116,Because Rishis have meditated there for ages?,MALE->FEMALE,HOST,male,ep_101_whisperx_diarized.gender.host_guest,closed
+q00117,Why is Shah Rukh Khan or Sunny Deol or Abhishek Patel always on test?,MALE->FEMALE,GUEST,female,ep_112_whisperx_diarized.gender.host_guest,open
+q00118,What social media do you actually use on a human level?,MALE->FEMALE,HOST,male,ep_042_whisperx_diarized.gender.host_guest,personal
+q00119,"Weren't you ever afraid that if I say no to all these things, then maybe I won't get any work in the future?",MALE->FEMALE,HOST,male,ep_282_whisperx_diarized.gender.host_guest,leading
+q00120,Why am I bringing a new person?,MALE->MALE,GUEST,male,ep_222_whisperx_diarized.gender.host_guest,open
+q00121,How come Doctor and you decided to come back at some point?,MALE->FEMALE,HOST,male,ep_014_whisperx_diarized.gender.host_guest,professional
+q00122,Does it happen in your life?,MALE->FEMALE,HOST,male,ep_016_whisperx_diarized.gender.host_guest,personal
+q00123,"But you see, the fact of the matter is that people today, why are they entering medicine?",FEMALE->MALE,GUEST,male,ep_322_whisperx_diarized.gender.host_guest,professional
+q00124,"So when you're on a deployment or an expedition, I think time changes just in your head, right?",MALE->FEMALE,GUEST,female,ep_002_whisperx_diarized.gender.host_guest,leading
+q00125,Butter chicken and rice?,MALE->FEMALE,HOST,male,ep_093_whisperx_diarized.gender.host_guest,closed
+q00126,"In the 2026 context, Is there a lot of powerful women, but also perhaps some powerful men, who are active practitioners of Wicca today?",MALE->FEMALE,HOST,male,ep_055_whisperx_diarized.gender.host_guest,open
+q00127,"So, are you free?",FEMALE->MALE,GUEST,male,ep_024_whisperx_diarized.gender.host_guest,closed
+q00128,"So, this 2020 vision, is it a myth?",FEMALE->MALE,HOST,female,ep_345_whisperx_diarized.gender.host_guest,closed
+q00129,How fast you have to scan those data points?,MALE->FEMALE,GUEST,female,ep_186_whisperx_diarized.gender.host_guest,professional
+q00130,How is it ever going to compare?,FEMALE->MALE,GUEST,male,ep_153_whisperx_diarized.gender.host_guest,leading
+q00131,Deep sleep will not come?,MALE->FEMALE,GUEST,female,ep_231_whisperx_diarized.gender.host_guest,closed
+q00132,"So he said, when the clouds come out from above us, How is the episode so far?",MALE->MALE,GUEST,male,ep_048_whisperx_diarized.gender.host_guest,open
+q00133,Why do you feel so?,MALE->FEMALE,HOST,male,ep_030_whisperx_diarized.gender.host_guest,personal
+q00134,"And then let the conversations happen naturally because at the end of your work day, you're also tired if someone says, what did you do today?",FEMALE->FEMALE,GUEST,female,ep_145_whisperx_diarized.gender.host_guest,closed
+q00135,"A lot of stuff that, you know, maybe I should, maybe I wanted to do this but my heart is telling me something else, you know?",MALE->MALE,GUEST,male,ep_281_whisperx_diarized.gender.host_guest,personal
+q00136,What would they call you?,FEMALE->FEMALE,HOST,female,ep_356_whisperx_diarized.gender.host_guest,closed
+q00137,Do I look so scary?,FEMALE->FEMALE,GUEST,female,ep_145_whisperx_diarized.gender.host_guest,closed
+q00138,Who should get permission from?,MALE->MALE,HOST,male,ep_039_whisperx_diarized.gender.host_guest,open
+q00139,"Insurance and say travel fund, right?",FEMALE->MALE,HOST,female,ep_337_whisperx_diarized.gender.host_guest,leading
+q00140,How can you upgrade your skills?,MALE->MALE,HOST,male,ep_279_whisperx_diarized.gender.host_guest,professional
+q00141,What do you do the next day?,FEMALE->FEMALE,GUEST,female,ep_316_whisperx_diarized.gender.host_guest,open
+q00142,How heavy is a bucket of water?,FEMALE->MALE,GUEST,male,ep_123_whisperx_diarized.gender.host_guest,closed
+q00143,"For all this, you need a Guru, right?",MALE->FEMALE,HOST,male,ep_052_whisperx_diarized.gender.host_guest,leading
+q00144,Why is the food preferences of the majority described in terms of what the minority does not eat?,FEMALE->MALE,GUEST,male,ep_157_whisperx_diarized.gender.host_guest,open
+q00145,"What is the proof, Ranveer?",MALE->FEMALE,GUEST,female,ep_053_whisperx_diarized.gender.host_guest,challenge
+q00146,That helps you trust?,MALE->MALE,GUEST,male,ep_027_whisperx_diarized.gender.host_guest,closed
+q00147,When do we have to sit and move?,MALE->FEMALE,GUEST,female,ep_014_whisperx_diarized.gender.host_guest,closed
+q00148,"He's like, Praj, why are you lying to me?",MALE->FEMALE,GUEST,female,ep_042_whisperx_diarized.gender.host_guest,challenge
+q00149,What is the comparison?,FEMALE->MALE,HOST,female,ep_337_whisperx_diarized.gender.host_guest,closed
+q00150,Who the f**k do you think you are or is the tone?,MALE->FEMALE,GUEST,female,ep_042_whisperx_diarized.gender.host_guest,challenge
+q00151,"Forget, you know, like, are you if I have to shift, are you going to shift with me?",FEMALE->FEMALE,GUEST,female,ep_145_whisperx_diarized.gender.host_guest,personal
+q00152,"Like, focus on the market that understands, give them the representation, and then come back to the home market and be like, guys, look at how big I made it there, you know?",FEMALE->FEMALE,GUEST,female,ep_355_whisperx_diarized.gender.host_guest,open
+q00153,How do you know that my boss is a narcissist?,MALE->FEMALE,HOST,male,ep_246_whisperx_diarized.gender.host_guest,challenge
+q00154,"She'll be like, why?",FEMALE->MALE,GUEST,male,ep_332_whisperx_diarized.gender.host_guest,open
+q00155,Is it all quid pro quo?,MALE->FEMALE,GUEST,female,ep_270_whisperx_diarized.gender.host_guest,leading
+q00156,What is it obsession?,MALE->MALE,HOST,male,ep_288_whisperx_diarized.gender.host_guest,closed
+q00157,So how will the body decide what to lose?,MALE->FEMALE,GUEST,female,ep_207_whisperx_diarized.gender.host_guest,open
+q00158,So why is it that infertility is increasing in men?,MALE->MALE,HOST,male,ep_200_whisperx_diarized.gender.host_guest,professional
+q00159,"And in fact, we would go with piggy banks and say, dad, you want some money?",FEMALE->FEMALE,GUEST,female,ep_145_whisperx_diarized.gender.host_guest,closed
+q00160,"I was chanting this and I think my I met Shivji and he asked me, do you want to really go back?",MALE->MALE,GUEST,male,ep_103_whisperx_diarized.gender.host_guest,personal
+q00161,What has the government done to you?,MALE->MALE,GUEST,male,ep_104_whisperx_diarized.gender.host_guest,personal
+q00162,"So I asked him, can I just talk to you for 10 minutes?",MALE->FEMALE,HOST,male,ep_098_whisperx_diarized.gender.host_guest,closed
+q00163,From vaping?,MALE->MALE,HOST,male,ep_260_whisperx_diarized.gender.host_guest,closed
+q00164,What will happen by eating oily food?,MALE->MALE,HOST,male,ep_236_whisperx_diarized.gender.host_guest,open
+q00165,Can't you see?,MALE->FEMALE,GUEST,female,ep_098_whisperx_diarized.gender.host_guest,leading
+q00166,Why did you choose it?,FEMALE->MALE,GUEST,male,ep_132_whisperx_diarized.gender.host_guest,open
+q00167,What are the benefits of multioxidants?,MALE->MALE,HOST,male,ep_200_whisperx_diarized.gender.host_guest,professional
+q00168,"Spirituality is this being, right?",FEMALE->MALE,HOST,female,ep_307_whisperx_diarized.gender.host_guest,leading
+q00169,It wasn't a big deal for you?,FEMALE->MALE,HOST,female,ep_324_whisperx_diarized.gender.host_guest,personal
+q00170,How did Papa get convinced?,MALE->FEMALE,HOST,male,ep_032_whisperx_diarized.gender.host_guest,personal
+q00171,Why is it like that?,MALE->FEMALE,GUEST,female,ep_014_whisperx_diarized.gender.host_guest,open
+q00172,"And it's something that, you know, for a lot of people, that's also a different experience, right?",FEMALE->FEMALE,HOST,female,ep_339_whisperx_diarized.gender.host_guest,leading
+q00173,Is truth being spoken here or lies?,MALE->FEMALE,GUEST,female,ep_053_whisperx_diarized.gender.host_guest,challenge
+q00174,"I'm saying, what if you just had to give without receiving?",MALE->FEMALE,GUEST,female,ep_043_whisperx_diarized.gender.host_guest,open
+q00175,"Tell us, what are the hidden stories that we have brought to our podcast?",MALE->MALE,HOST,male,ep_217_whisperx_diarized.gender.host_guest,professional
+q00176,"So the odd and the scary thing about being a parent is that, I mean I'm being asked now for a two-year-old Is it IB or IGCSE or CBSE or what are you going to do?",FEMALE->MALE,HOST,female,ep_123_whisperx_diarized.gender.host_guest,personal
+q00177,Which company are you getting mixed up in?,MALE->FEMALE,GUEST,female,ep_093_whisperx_diarized.gender.host_guest,professional
+q00178,"Tell me, for anyone who's sitting with an idea at home, how do you take this idea that okay there's Ayurveda, we have to preserve it for the next generation to share as a product?",FEMALE->FEMALE,HOST,female,ep_149_whisperx_diarized.gender.host_guest,professional
+q00179,But are we closing that door as well?,FEMALE->FEMALE,HOST,female,ep_133_whisperx_diarized.gender.host_guest,leading
+q00180,"How can, kaise koi better kar sakta hai?",MALE->MALE,HOST,male,ep_225_whisperx_diarized.gender.host_guest,open
+q00181,Why can't we do it?,MALE->MALE,GUEST,male,ep_154_whisperx_diarized.gender.host_guest,open
+q00182,Does that kind of make sense?,MALE->MALE,GUEST,male,ep_056_whisperx_diarized.gender.host_guest,closed
+q00183,"So I am a bit like, okay, like what am I doing?",FEMALE->FEMALE,GUEST,female,ep_358_whisperx_diarized.gender.host_guest,open
+q00184,"When you were in your 20s, did you dream of getting married?",MALE->FEMALE,HOST,male,ep_112_whisperx_diarized.gender.host_guest,personal
+q00185,for them equal to men?,FEMALE->MALE,HOST,female,ep_031_whisperx_diarized.gender.host_guest,closed
+q00186,29th November?,MALE->MALE,GUEST,male,ep_102_whisperx_diarized.gender.host_guest,closed
+q00187,By a child?,FEMALE->FEMALE,GUEST,female,ep_329_whisperx_diarized.gender.host_guest,closed
+q00188,Girls bhi looks ke baar mein care karte hai?,MALE->FEMALE,HOST,male,ep_092_whisperx_diarized.gender.host_guest,closed
+q00189,Anybody who hasn't seen Johnny Lever live?,FEMALE->MALE,GUEST,male,ep_121_whisperx_diarized.gender.host_guest,closed
+q00190,"I would also say it's not for everyone because I don't know when I'm going to get an exit, right?",FEMALE->FEMALE,GUEST,female,ep_122_whisperx_diarized.gender.host_guest,leading
+q00191,And what is the stability?,MALE->FEMALE,GUEST,female,ep_053_whisperx_diarized.gender.host_guest,closed
+q00192,"Whose house are we going to, mom?",MALE->FEMALE,GUEST,female,ep_263_whisperx_diarized.gender.host_guest,closed
+q00193,"And pretty soon you're there in a sense, right?",FEMALE->MALE,GUEST,male,ep_320_whisperx_diarized.gender.host_guest,leading
+q00194,Who will pick up the remote?,MALE->MALE,GUEST,male,ep_214_whisperx_diarized.gender.host_guest,closed
+q00195,So you didn't make any money out of it?,MALE->MALE,HOST,male,ep_269_whisperx_diarized.gender.host_guest,closed
+q00196,Did you drink water or not?,MALE->MALE,GUEST,male,ep_235_whisperx_diarized.gender.host_guest,closed
+q00197,"He asked, were you the centum of mathematics?",MALE->MALE,GUEST,male,ep_034_whisperx_diarized.gender.host_guest,closed
+q00198,"This is 15, including 20, right?",MALE->FEMALE,GUEST,female,ep_030_whisperx_diarized.gender.host_guest,leading
+q00199,"I'm like, what wedding?",FEMALE->MALE,HOST,female,ep_304_whisperx_diarized.gender.host_guest,closed
+q00200,"So how was it made so many thousands of years ago, without today's technology?",MALE->MALE,GUEST,male,ep_039_whisperx_diarized.gender.host_guest,open
+q00201,Parents?,MALE->FEMALE,GUEST,female,ep_061_whisperx_diarized.gender.host_guest,closed
+q00202,How do you deal with anxiety?,MALE->FEMALE,GUEST,female,ep_186_whisperx_diarized.gender.host_guest,personal
+q00203,What if that premature jacket is happening with 20 other people also?,MALE->MALE,GUEST,male,ep_200_whisperx_diarized.gender.host_guest,open
+q00204,How is it with Juhi Chawla?,FEMALE->MALE,HOST,female,ep_307_whisperx_diarized.gender.host_guest,professional
+q00205,What is it like to be in that circle?,MALE->FEMALE,HOST,male,ep_016_whisperx_diarized.gender.host_guest,professional
+q00206,"Mainly for all these adolescents, right?",MALE->MALE,GUEST,male,ep_213_whisperx_diarized.gender.host_guest,leading
+q00207,How to form the right intention?,MALE->MALE,HOST,male,ep_104_whisperx_diarized.gender.host_guest,open
+q00208,"I asked people around me, where are you?",MALE->FEMALE,GUEST,female,ep_016_whisperx_diarized.gender.host_guest,closed
+q00209,You like this room?,MALE->FEMALE,HOST,male,ep_097_whisperx_diarized.gender.host_guest,closed
+q00210,Where is Imran?,MALE->MALE,GUEST,male,ep_154_whisperx_diarized.gender.host_guest,closed
+q00211,"Maybe you get this chance again and oh no, what happens?",MALE->FEMALE,HOST,male,ep_289_whisperx_diarized.gender.host_guest,open
+q00212,Craziest numbers?,MALE->FEMALE,HOST,male,ep_282_whisperx_diarized.gender.host_guest,open
+q00213,Can you talk about the last four months?,MALE->FEMALE,HOST,male,ep_017_whisperx_diarized.gender.host_guest,open
+q00214,How do I make them an ability that it's not their fault?,MALE->FEMALE,HOST,male,ep_204_whisperx_diarized.gender.host_guest,open
+q00215,What about the cost of hormones and that initial medication that happens?,FEMALE->FEMALE,HOST,female,ep_343_whisperx_diarized.gender.host_guest,professional
+q00216,How do you do that?,FEMALE->MALE,GUEST,male,ep_143_whisperx_diarized.gender.host_guest,open
+q00217,A glass of red wine or a glass of Coca-Cola?,FEMALE->MALE,HOST,female,ep_143_whisperx_diarized.gender.host_guest,closed
+q00218,Why is it so expensive?,FEMALE->MALE,HOST,female,ep_150_whisperx_diarized.gender.host_guest,open
+q00219,What the fuck do I?,MALE->MALE,HOST,male,ep_288_whisperx_diarized.gender.host_guest,open
+q00220,Can I tell you a beautiful part of this journey?,FEMALE->FEMALE,HOST,female,ep_129_whisperx_diarized.gender.host_guest,closed
+q00221,"Oh, you see?",MALE->FEMALE,GUEST,female,ep_055_whisperx_diarized.gender.host_guest,closed
+q00222,And do you ever see yourself becoming mom to her?,MALE->FEMALE,HOST,male,ep_030_whisperx_diarized.gender.host_guest,personal
+q00223,Do you recommend contraception?,FEMALE->FEMALE,HOST,female,ep_133_whisperx_diarized.gender.host_guest,professional
+q00224,"First time when we, when we, I think we started talking on WhatsApp, right?",MALE->MALE,GUEST,male,ep_288_whisperx_diarized.gender.host_guest,leading
+q00225,"So, how do you look at it?",FEMALE->MALE,HOST,female,ep_264_whisperx_diarized.gender.host_guest,open
+q00226,"So, is China an advantage?",MALE->FEMALE,GUEST,female,ep_163_whisperx_diarized.gender.host_guest,closed
+q00227,"Okay, loosely, I'll tell you what I understand about Garbha Sanskar, and please correct me if I'm wrong, okay?",MALE->FEMALE,HOST,male,ep_061_whisperx_diarized.gender.host_guest,closed
+q00228,Do you like Litti Chowk?,MALE->FEMALE,HOST,male,ep_098_whisperx_diarized.gender.host_guest,closed
+q00229,"And she's like, where will I get this?",MALE->MALE,HOST,male,ep_217_whisperx_diarized.gender.host_guest,closed
+q00230,How can you not support me?,FEMALE->MALE,GUEST,male,ep_315_whisperx_diarized.gender.host_guest,challenge
+q00231,"Or as long-term investors, should we actually not care?",FEMALE->FEMALE,HOST,female,ep_122_whisperx_diarized.gender.host_guest,professional
+q00232,"This is a chemical, right?",MALE->MALE,GUEST,male,ep_217_whisperx_diarized.gender.host_guest,leading
+q00233,"But if we're so defined by how we are being addressed, then are you not being absorbed by the body?",FEMALE->MALE,GUEST,male,ep_299_whisperx_diarized.gender.host_guest,leading
+q00234,Why do you think American films run across?,FEMALE->MALE,GUEST,male,ep_264_whisperx_diarized.gender.host_guest,professional
+q00235,Have you met Rishi Vashisht?,MALE->FEMALE,HOST,male,ep_101_whisperx_diarized.gender.host_guest,closed
+q00236,"fully there and ready to take on because she's literally like, she is mother to Abby, right?",FEMALE->FEMALE,GUEST,female,ep_310_whisperx_diarized.gender.host_guest,leading
+q00237,"If you were to think back saying, okay, this is what I learned from him, this is what I apply into my life, what would that be?",FEMALE->FEMALE,HOST,female,ep_118_whisperx_diarized.gender.host_guest,open
+q00238,Do you feel like something under the surface?,MALE->FEMALE,GUEST,female,ep_043_whisperx_diarized.gender.host_guest,personal
+q00239,"In reality, it's not the thing?",MALE->MALE,HOST,male,ep_275_whisperx_diarized.gender.host_guest,closed
+q00240,"Now, Why is it that global trade, global treaty, global agreements have no value?",MALE->FEMALE,HOST,male,ep_163_whisperx_diarized.gender.host_guest,open
+q00241,Is it coming from a full yes?,MALE->FEMALE,GUEST,female,ep_043_whisperx_diarized.gender.host_guest,closed
+q00242,"In this episode, we have learned how to find a big opportunity in any business, what are the businesses that can be scaled, what are the categories where businesses should be attempted, what are the people who can make a business, If we can't make a business, then what should we do?",MALE->MALE,HOST,male,ep_034_whisperx_diarized.gender.host_guest,professional
+q00243,What does it truly mean to have that Divine Feminine Shakti?,FEMALE->FEMALE,HOST,female,ep_351_whisperx_diarized.gender.host_guest,open
+q00244,Why is it bad for the system?,FEMALE->MALE,HOST,female,ep_157_whisperx_diarized.gender.host_guest,open
+q00245,What are the behind the scenes?,MALE->MALE,GUEST,male,ep_154_whisperx_diarized.gender.host_guest,open
+q00246,What are the types of trans fats and processed sugars?,MALE->MALE,HOST,male,ep_214_whisperx_diarized.gender.host_guest,closed
+q00247,"Like, you know, they're kind of like, they live a stoner life, right?",MALE->MALE,GUEST,male,ep_056_whisperx_diarized.gender.host_guest,leading
+q00248,"So that you get the unfertilized egg, right?",FEMALE->MALE,GUEST,male,ep_157_whisperx_diarized.gender.host_guest,leading
+q00249,What about aspartame?,FEMALE->MALE,HOST,female,ep_157_whisperx_diarized.gender.host_guest,open
+q00250,Number 1?,MALE->FEMALE,HOST,male,ep_197_whisperx_diarized.gender.host_guest,closed
+q00251,How do we look after our lungs so that they're healthier for longer?,FEMALE->MALE,HOST,female,ep_151_whisperx_diarized.gender.host_guest,open
+q00252,Do you see yourself creating content for the rest of your life?,MALE->MALE,HOST,male,ep_103_whisperx_diarized.gender.host_guest,professional
+q00253,And everybody is into that hookah zone or not?,MALE->MALE,GUEST,male,ep_236_whisperx_diarized.gender.host_guest,closed
+q00254,"So in this chaos, how do you as a team and a unit find balance?",FEMALE->MALE,HOST,female,ep_312_whisperx_diarized.gender.host_guest,professional
+q00255,Sometimes I feel that am I running out of time?,FEMALE->FEMALE,HOST,female,ep_126_whisperx_diarized.gender.host_guest,personal
+q00256,But what happens with one gene?,MALE->MALE,GUEST,male,ep_079_whisperx_diarized.gender.host_guest,open
+q00257,"projecting different things, right?",FEMALE->MALE,GUEST,male,ep_320_whisperx_diarized.gender.host_guest,leading
+q00258,"Mom calls and asks, can I call you later?",MALE->FEMALE,GUEST,female,ep_014_whisperx_diarized.gender.host_guest,closed
+q00259,"When will her husband come to the world, will he come with a bride?",MALE->MALE,GUEST,male,ep_154_whisperx_diarized.gender.host_guest,open
+q00260,"He said, Baba, where are you going?",MALE->MALE,GUEST,male,ep_104_whisperx_diarized.gender.host_guest,closed
+q00261,But have we come very far from that in the 60s?,FEMALE->FEMALE,HOST,female,ep_011_whisperx_diarized.gender.host_guest,open
+q00262,How much am I earning?,MALE->MALE,GUEST,male,ep_172_whisperx_diarized.gender.host_guest,closed
+q00263,"Your guru turns to you and says, so this is in the Zen tradition, after 30 years of dedicated practice, depending on your spiritual development, you receive a title, right?",MALE->MALE,GUEST,male,ep_056_whisperx_diarized.gender.host_guest,leading
+q00264,"The last question is, what's one question you wish people would have asked you?",MALE->FEMALE,HOST,male,ep_002_whisperx_diarized.gender.host_guest,open
+q00265,"By the way, when did you buy your first bitcoin?",MALE->MALE,HOST,male,ep_113_whisperx_diarized.gender.host_guest,closed
+q00266,Who would I call?,MALE->FEMALE,GUEST,female,ep_263_whisperx_diarized.gender.host_guest,closed
+q00267,But do you dream?,MALE->MALE,GUEST,male,ep_085_whisperx_diarized.gender.host_guest,personal
+q00268,"And then I come in that constant loop that because everything is my fault, how do I cope up with it?",MALE->FEMALE,HOST,male,ep_204_whisperx_diarized.gender.host_guest,personal
+q00269,Are you Devaputras or something?,FEMALE->FEMALE,GUEST,female,ep_308_whisperx_diarized.gender.host_guest,closed
+q00270,How much do you have?,MALE->MALE,GUEST,male,ep_154_whisperx_diarized.gender.host_guest,closed
+q00271,Dhrid nishchay?,MALE->FEMALE,HOST,male,ep_042_whisperx_diarized.gender.host_guest,closed
+q00272,"Because, and I find this question extremely interesting, because most people don't bite it, right?",FEMALE->MALE,HOST,female,ep_332_whisperx_diarized.gender.host_guest,leading
+q00273,Why are so many Indian doctors going overseas to live and practice?,FEMALE->FEMALE,HOST,female,ep_133_whisperx_diarized.gender.host_guest,open
+q00274,What do you need early?,MALE->MALE,GUEST,male,ep_027_whisperx_diarized.gender.host_guest,open
+q00275,How did you feel today?,MALE->MALE,HOST,male,ep_039_whisperx_diarized.gender.host_guest,personal
+q00276,How is a natural dimple formed?,FEMALE->MALE,GUEST,male,ep_153_whisperx_diarized.gender.host_guest,closed
+q00277,"Both are happening at the same time, right?",MALE->MALE,GUEST,male,ep_273_whisperx_diarized.gender.host_guest,leading
+q00278,Is it possible to save enough and retire by 40?,FEMALE->MALE,HOST,female,ep_337_whisperx_diarized.gender.host_guest,professional
+q00279,How is it happening?,MALE->MALE,GUEST,male,ep_079_whisperx_diarized.gender.host_guest,open
+q00280,Do stem cell therapies work?,MALE->MALE,HOST,male,ep_067_whisperx_diarized.gender.host_guest,professional
+q00281,"So, when selecting loans, what factors should people look at very closely?",FEMALE->MALE,HOST,female,ep_337_whisperx_diarized.gender.host_guest,professional
+q00282,To improve digestion?,MALE->MALE,GUEST,male,ep_033_whisperx_diarized.gender.host_guest,open
+q00283,"One or two people who cleared it, we were like, how did this happen?",FEMALE->MALE,GUEST,male,ep_301_whisperx_diarized.gender.host_guest,open
+q00284,Me?,MALE->MALE,GUEST,male,ep_079_whisperx_diarized.gender.host_guest,closed
+q00285,So how did you take this decision?,FEMALE->MALE,HOST,female,ep_309_whisperx_diarized.gender.host_guest,open
+q00286,Why is everyone scared?,MALE->MALE,HOST,male,ep_176_whisperx_diarized.gender.host_guest,open
+q00287,Is this an outcome of time?,MALE->FEMALE,GUEST,female,ep_014_whisperx_diarized.gender.host_guest,closed
+q00288,How many people did you irritate?,MALE->MALE,GUEST,male,ep_235_whisperx_diarized.gender.host_guest,closed
+q00289,And why does the stomach take 15 to 20 minutes?,MALE->FEMALE,GUEST,female,ep_207_whisperx_diarized.gender.host_guest,professional
+q00290,How positive is he?,MALE->MALE,GUEST,male,ep_236_whisperx_diarized.gender.host_guest,closed
+q00291,How do we get over that?,FEMALE->FEMALE,HOST,female,ep_145_whisperx_diarized.gender.host_guest,open
+q00292,In what ways do they benefit from the defamation?,MALE->MALE,GUEST,male,ep_039_whisperx_diarized.gender.host_guest,open
+q00293,"In space, in NASA, in the things that you do?",MALE->FEMALE,HOST,male,ep_002_whisperx_diarized.gender.host_guest,professional
+q00294,"Because there's a history of the curse, right?",MALE->MALE,GUEST,male,ep_039_whisperx_diarized.gender.host_guest,leading
+q00295,Honest?,FEMALE->MALE,GUEST,male,ep_022_whisperx_diarized.gender.host_guest,closed
+q00296,"So, 90% will be negative, right?",MALE->MALE,GUEST,male,ep_213_whisperx_diarized.gender.host_guest,leading
+q00297,Aur kaun hai yaar?,MALE->FEMALE,HOST,male,ep_093_whisperx_diarized.gender.host_guest,closed
+q00298,How have they not prevented?,FEMALE->MALE,HOST,female,ep_119_whisperx_diarized.gender.host_guest,challenge
+q00299,"You will understand by looking at the car that who is this guy, where is his inside, right?",MALE->MALE,GUEST,male,ep_253_whisperx_diarized.gender.host_guest,leading
+q00300,Is it wrong to touch like this?,FEMALE->FEMALE,GUEST,female,ep_137_whisperx_diarized.gender.host_guest,closed
+q00301,What's a warning sign by Coldplay about?,MALE->MALE,GUEST,male,ep_028_whisperx_diarized.gender.host_guest,closed
+q00302,"I have a lot of friends on Google who have told me that I ask them, what is your responsibility, what work are you doing?",MALE->FEMALE,HOST,male,ep_274_whisperx_diarized.gender.host_guest,professional
+q00303,Why should I?,MALE->FEMALE,GUEST,female,ep_032_whisperx_diarized.gender.host_guest,open
+q00304,Is he dying?,MALE->MALE,GUEST,male,ep_154_whisperx_diarized.gender.host_guest,closed
+q00305,"You feel accomplished, right?",MALE->MALE,GUEST,male,ep_056_whisperx_diarized.gender.host_guest,leading
+q00306,How long will crosslink work?,MALE->MALE,GUEST,male,ep_248_whisperx_diarized.gender.host_guest,professional
+q00307,"You know, where are you on this one?",FEMALE->MALE,GUEST,male,ep_018_whisperx_diarized.gender.host_guest,open
+q00308,"It's like, why are you at it on a daily basis?",FEMALE->MALE,GUEST,male,ep_018_whisperx_diarized.gender.host_guest,open
+q00309,They can't learn to build a business?,MALE->MALE,HOST,male,ep_034_whisperx_diarized.gender.host_guest,leading
+q00310,Do natural brushes come?,MALE->MALE,GUEST,male,ep_237_whisperx_diarized.gender.host_guest,closed
+q00311,"When I used to wake up in the morning, I had only one question that why am I living here?",FEMALE->MALE,GUEST,male,ep_132_whisperx_diarized.gender.host_guest,personal
+q00312,Are you supposed to be diplomatic?,FEMALE->FEMALE,GUEST,female,ep_015_whisperx_diarized.gender.host_guest,professional
+q00313,And what is the difference between Silk and AI?,MALE->MALE,HOST,male,ep_213_whisperx_diarized.gender.host_guest,open
+q00314,"People will say, what should I show?",MALE->MALE,GUEST,male,ep_287_whisperx_diarized.gender.host_guest,open
+q00315,What is one thing that people have misunderstood about you?,MALE->FEMALE,HOST,male,ep_263_whisperx_diarized.gender.host_guest,personal
+q00316,How is it growing up near Vicky Kaushal?,MALE->FEMALE,HOST,male,ep_066_whisperx_diarized.gender.host_guest,personal
+q00317,"The souls who took part in Mahabharata, who we call Arjun, Bheem, Yudhishtir, where are those souls according to you now?",MALE->FEMALE,HOST,male,ep_052_whisperx_diarized.gender.host_guest,personal
+q00318,"Yeah, like how can you even imagine that?",FEMALE->MALE,HOST,female,ep_299_whisperx_diarized.gender.host_guest,leading
+q00319,"If you have insulin resistance or if you want to lose weight, should you do it?",MALE->FEMALE,GUEST,female,ep_197_whisperx_diarized.gender.host_guest,closed
+q00320,But Starling announced or Elon Musk announced that free internet for everybody in Iran because What do you call it?,MALE->FEMALE,GUEST,female,ep_163_whisperx_diarized.gender.host_guest,closed
+q00321,What do you have there?,MALE->MALE,GUEST,male,ep_085_whisperx_diarized.gender.host_guest,closed
+q00322,All my friends get angry with me that what are you doing so much?,MALE->MALE,HOST,male,ep_251_whisperx_diarized.gender.host_guest,open
+q00323,"So, what is the significance of Visarjan?",FEMALE->MALE,HOST,female,ep_342_whisperx_diarized.gender.host_guest,open
+q00324,"What was it like in Jammu then, when you moved?",FEMALE->MALE,HOST,female,ep_331_whisperx_diarized.gender.host_guest,personal
+q00325,Can I take it to one end of a spectrum to begin with?,MALE->FEMALE,HOST,male,ep_053_whisperx_diarized.gender.host_guest,closed
+q00326,Did that event change anything you?,MALE->FEMALE,HOST,male,ep_002_whisperx_diarized.gender.host_guest,personal
+q00327,"I said, will he ask for money from me?",MALE->MALE,GUEST,male,ep_154_whisperx_diarized.gender.host_guest,closed
+q00328,How do we react to those things?,MALE->FEMALE,GUEST,female,ep_199_whisperx_diarized.gender.host_guest,open
+q00329,What should he do?,MALE->MALE,HOST,male,ep_154_whisperx_diarized.gender.host_guest,open
+q00330,"You're supposed to feel immense love for the child as soon as the baby is born and not realize that you're going through so many changes, right?",FEMALE->FEMALE,GUEST,female,ep_323_whisperx_diarized.gender.host_guest,leading
+q00331,"Weird, huh?",FEMALE->FEMALE,HOST,female,ep_124_whisperx_diarized.gender.host_guest,leading
+q00332,What will happen if I do the alphabet in my life?,MALE->FEMALE,HOST,male,ep_186_whisperx_diarized.gender.host_guest,open
+q00333,"As an investor yourself at this point, do you believe in the bootstrapping method more or the raise the funds, go after the market, build that valuation?",FEMALE->MALE,HOST,female,ep_018_whisperx_diarized.gender.host_guest,professional
+q00334,What happens to those eggs?,FEMALE->FEMALE,HOST,female,ep_343_whisperx_diarized.gender.host_guest,closed
+q00335,"You know, and okay, he also said this, that there will be 200 films, we have to do only two, but then it should be one film, do it in such a way that no one asks, which film was this?",MALE->FEMALE,GUEST,female,ep_110_whisperx_diarized.gender.host_guest,closed
+q00336,But is he the right person for this part?,FEMALE->MALE,GUEST,male,ep_324_whisperx_diarized.gender.host_guest,closed
+q00337,How will you feel if we hit you?,MALE->FEMALE,GUEST,female,ep_204_whisperx_diarized.gender.host_guest,personal
+q00338,Do you know?,MALE->MALE,GUEST,male,ep_056_whisperx_diarized.gender.host_guest,closed
+q00339,"Whatever you have got by the grace of God, how can you put that in the service of God?",MALE->MALE,GUEST,male,ep_104_whisperx_diarized.gender.host_guest,personal
+q00340,How do you care?,MALE->FEMALE,GUEST,female,ep_112_whisperx_diarized.gender.host_guest,open
+q00341,"Includes the cuts of meat that kings and warriors might eat, right?",FEMALE->MALE,GUEST,male,ep_157_whisperx_diarized.gender.host_guest,leading
+q00342,Is there one sort of riyaz or habit that you still follow that you've been doing through your career?,FEMALE->FEMALE,HOST,female,ep_013_whisperx_diarized.gender.host_guest,professional
+q00343,"Who are you to tell me who to look at, who not to?",FEMALE->MALE,GUEST,male,ep_264_whisperx_diarized.gender.host_guest,challenge
+q00344,"So it, it's, that's where you're asking, do I think it will happen?",MALE->MALE,GUEST,male,ep_269_whisperx_diarized.gender.host_guest,closed
+q00345,How can he be with just one?,MALE->FEMALE,GUEST,female,ep_093_whisperx_diarized.gender.host_guest,leading
+q00346,How did it pan out for you when it didn't go linear?,FEMALE->FEMALE,HOST,female,ep_354_whisperx_diarized.gender.host_guest,professional
+q00347,"But is it 99% sure that every time you go for a test, it will catch it?",MALE->FEMALE,GUEST,female,ep_256_whisperx_diarized.gender.host_guest,challenge
+q00348,What is it like to be the inner circle of top leadership in the country?,MALE->FEMALE,HOST,male,ep_016_whisperx_diarized.gender.host_guest,professional
+q00349,Isne proof nahi kiya apne abko?,MALE->FEMALE,GUEST,female,ep_093_whisperx_diarized.gender.host_guest,closed
+q00350,Amazing and the last question that I have for you is you've been pretty much a non-conformist right in the way you've approached things women especially young girls women are bound by certain timelines right like okay you study then get married have kids settle down What advice or what is your thought process on the way we're supposed to be as women?,FEMALE->FEMALE,HOST,female,ep_359_whisperx_diarized.gender.host_guest,personal
+q00351,"Someone has a fever, right?",MALE->FEMALE,GUEST,female,ep_256_whisperx_diarized.gender.host_guest,leading
+q00352,And then you became part of KGB at 21?,MALE->MALE,GUEST,male,ep_275_whisperx_diarized.gender.host_guest,professional
+q00353,Which is the toughest character you've played so far?,FEMALE->FEMALE,HOST,female,ep_359_whisperx_diarized.gender.host_guest,professional
+q00354,What's your last memory with her?,MALE->FEMALE,HOST,male,ep_282_whisperx_diarized.gender.host_guest,personal
+q00355,"No, but without the thought, right?",FEMALE->MALE,GUEST,male,ep_022_whisperx_diarized.gender.host_guest,leading
+q00356,"They even said that, will the university make Halwai now?",FEMALE->MALE,GUEST,male,ep_317_whisperx_diarized.gender.host_guest,closed
+q00357,Done?,MALE->MALE,GUEST,male,ep_103_whisperx_diarized.gender.host_guest,closed
+q00358,"There are pyramids, right?",MALE->MALE,HOST,male,ep_039_whisperx_diarized.gender.host_guest,leading
+q00359,Did you study all the Vedas?,MALE->FEMALE,HOST,male,ep_078_whisperx_diarized.gender.host_guest,closed
+q00360,"Acting, music or a spontaneous road trip?",FEMALE->MALE,HOST,female,ep_299_whisperx_diarized.gender.host_guest,closed
+q00361,Which country?,MALE->FEMALE,GUEST,female,ep_093_whisperx_diarized.gender.host_guest,closed
+q00362,"So, why only North-South?",MALE->FEMALE,GUEST,female,ep_207_whisperx_diarized.gender.host_guest,open
+q00363,How do you make trust in a low trust society?,MALE->MALE,HOST,male,ep_027_whisperx_diarized.gender.host_guest,open
+q00364,So what is your biggest learning from your 35 year career?,FEMALE->MALE,HOST,female,ep_321_whisperx_diarized.gender.host_guest,professional
+q00365,What are the famous leaders who were narcissists?,MALE->FEMALE,HOST,male,ep_246_whisperx_diarized.gender.host_guest,open
+q00366,Never in the beginning?,MALE->FEMALE,HOST,male,ep_164_whisperx_diarized.gender.host_guest,closed
+q00367,Is the seven year itch real in relationships?,MALE->FEMALE,HOST,male,ep_110_whisperx_diarized.gender.host_guest,closed
+q00368,Can you imagine Raj?,MALE->MALE,GUEST,male,ep_236_whisperx_diarized.gender.host_guest,closed
+q00369,"I was like petrified of it because of that existential thing, right?",MALE->FEMALE,GUEST,female,ep_017_whisperx_diarized.gender.host_guest,leading
+q00370,"And in today's food, we have added a lot of junk food, right?",MALE->MALE,GUEST,male,ep_217_whisperx_diarized.gender.host_guest,leading
+q00371,"They are asking, when will you get a job?",MALE->FEMALE,GUEST,female,ep_199_whisperx_diarized.gender.host_guest,professional
+q00372,What is its logic?,MALE->MALE,HOST,male,ep_039_whisperx_diarized.gender.host_guest,open
+q00373,Did you meet Gasly?,MALE->FEMALE,GUEST,female,ep_088_whisperx_diarized.gender.host_guest,closed
+q00374,So what was in it?,MALE->FEMALE,HOST,male,ep_282_whisperx_diarized.gender.host_guest,closed
+q00375,"Now, what are the options?",FEMALE->MALE,GUEST,male,ep_322_whisperx_diarized.gender.host_guest,open
+q00376,"But how lovely, because usually you think of pregnancy as something that's very difficult for the mother, right?",MALE->FEMALE,GUEST,female,ep_017_whisperx_diarized.gender.host_guest,leading
+q00377,So this is the northern Kashi Vishwanath?,MALE->FEMALE,HOST,male,ep_078_whisperx_diarized.gender.host_guest,closed
+q00378,So what are the changes in the body in the first 72 hours?,MALE->MALE,HOST,male,ep_237_whisperx_diarized.gender.host_guest,open
+q00379,Where were you?,MALE->FEMALE,GUEST,female,ep_093_whisperx_diarized.gender.host_guest,personal
+q00380,"They cannot afford, how can they buy?",FEMALE->FEMALE,GUEST,female,ep_133_whisperx_diarized.gender.host_guest,leading
+q00381,Do you feel bad that you didn't make a film worth 100 crores?,FEMALE->FEMALE,GUEST,female,ep_146_whisperx_diarized.gender.host_guest,personal
+q00382,"So if a patient has to ask, I mean, is it first of all, what is going to look good for me?",FEMALE->MALE,GUEST,male,ep_153_whisperx_diarized.gender.host_guest,professional
+q00383,Or are they dependent silently on India and China?,MALE->FEMALE,HOST,male,ep_179_whisperx_diarized.gender.host_guest,closed
+q00384,So how do all these factors play a role in a healthy and happy life?,FEMALE->FEMALE,HOST,female,ep_137_whisperx_diarized.gender.host_guest,open
+q00385,What do you mean the child is not able to live without it?,FEMALE->MALE,GUEST,male,ep_138_whisperx_diarized.gender.host_guest,open
+q00386,"And so I'm thinking, so yeah, no, who has more power?",MALE->MALE,GUEST,male,ep_275_whisperx_diarized.gender.host_guest,open
+q00387,And when to go to whom?,MALE->FEMALE,HOST,male,ep_246_whisperx_diarized.gender.host_guest,open
+q00388,How would you explain them who you are and where do you come from?,MALE->MALE,HOST,male,ep_028_whisperx_diarized.gender.host_guest,personal
+q00389,"So, what's a great starting point with NFAK?",MALE->MALE,HOST,male,ep_100_whisperx_diarized.gender.host_guest,open
+q00390,What's more dangerous?,MALE->MALE,HOST,male,ep_235_whisperx_diarized.gender.host_guest,closed
+q00391,"You might ask, what do you mean by that?",MALE->FEMALE,GUEST,female,ep_256_whisperx_diarized.gender.host_guest,open
+q00392,Why can't a child be encouraged to take care of a plant or an animal?,FEMALE->FEMALE,GUEST,female,ep_316_whisperx_diarized.gender.host_guest,leading
+q00393,Puchka is also amazing but now what to do?,FEMALE->FEMALE,GUEST,female,ep_352_whisperx_diarized.gender.host_guest,open
+q00394,What's the context to be given to global audiences?,MALE->MALE,HOST,male,ep_023_whisperx_diarized.gender.host_guest,professional
+q00395,If I had done my studies formally?,MALE->MALE,HOST,male,ep_273_whisperx_diarized.gender.host_guest,open
+q00396,Were you?,MALE->FEMALE,GUEST,female,ep_098_whisperx_diarized.gender.host_guest,closed
+q00397,"All we can do is ask someone, so how do we know which part of the brain emotions come from?",MALE->MALE,GUEST,male,ep_056_whisperx_diarized.gender.host_guest,open
+q00398,At some point maybe because what is going on with you and your sister and your dad?,MALE->FEMALE,HOST,male,ep_030_whisperx_diarized.gender.host_guest,personal
+q00399,how do I know this is not just acidity or I'm having a heart attack?,FEMALE->MALE,HOST,female,ep_143_whisperx_diarized.gender.host_guest,open
+q00400,What is a child seeing here?,MALE->FEMALE,GUEST,female,ep_207_whisperx_diarized.gender.host_guest,open
+q00401,"Like we just feel like, how did he earn it?",MALE->FEMALE,HOST,male,ep_289_whisperx_diarized.gender.host_guest,open
+q00402,What do I tell you?,FEMALE->MALE,GUEST,male,ep_324_whisperx_diarized.gender.host_guest,open
+q00403,"If there is no problem, why take a risk?",MALE->MALE,GUEST,male,ep_248_whisperx_diarized.gender.host_guest,leading
+q00404,Did you get a stomachache after that?,FEMALE->MALE,GUEST,male,ep_318_whisperx_diarized.gender.host_guest,personal
+q00405,What stupidity is this?,MALE->MALE,GUEST,male,ep_154_whisperx_diarized.gender.host_guest,challenge
+q00406,How can someone make their brain strong?,MALE->FEMALE,HOST,male,ep_186_whisperx_diarized.gender.host_guest,open
+q00407,"So we're doing a pilot in Bastar, by the way, like Bastar is like the last mile of the last mile, right?",FEMALE->FEMALE,GUEST,female,ep_323_whisperx_diarized.gender.host_guest,leading
+q00408,How would you solve for that?,FEMALE->FEMALE,GUEST,female,ep_149_whisperx_diarized.gender.host_guest,professional
+q00409,Your battery got done?,MALE->FEMALE,HOST,male,ep_066_whisperx_diarized.gender.host_guest,closed
+q00410,Because what does cancer thrive in?,MALE->FEMALE,GUEST,female,ep_256_whisperx_diarized.gender.host_guest,open
+q00411,"There are so many Gods, which one is good for you?",MALE->FEMALE,HOST,male,ep_207_whisperx_diarized.gender.host_guest,personal
+q00412,Why are you not considering that?,MALE->MALE,GUEST,male,ep_079_whisperx_diarized.gender.host_guest,challenge
+q00413,"So, playing with hormones is not very good for your body, right?",MALE->MALE,GUEST,male,ep_217_whisperx_diarized.gender.host_guest,leading
+q00414,"It is said that Kaikeyi is also responsible in this positive conspiracy theory, that the death of Rakshasas and Dashrath, who is attached to Lord Ram after many days, how can he be removed?",MALE->MALE,GUEST,male,ep_102_whisperx_diarized.gender.host_guest,open
+q00415,Is Trump good for us or not?,MALE->FEMALE,HOST,male,ep_164_whisperx_diarized.gender.host_guest,closed
+q00416,Who's other people?,MALE->MALE,HOST,male,ep_281_whisperx_diarized.gender.host_guest,closed
+q00417,"If my active income hadn't increased, how would I have invested 3.5 lakhs?",FEMALE->MALE,GUEST,male,ep_337_whisperx_diarized.gender.host_guest,open
+q00418,"And you say, OK, what is present there?",MALE->FEMALE,GUEST,female,ep_043_whisperx_diarized.gender.host_guest,open
+q00419,"It is because it's, it's when your muscles are contracted, can the blood go there?",MALE->FEMALE,GUEST,female,ep_043_whisperx_diarized.gender.host_guest,closed
+q00420,"You won't tell, right?",MALE->MALE,HOST,male,ep_222_whisperx_diarized.gender.host_guest,leading
+q00421,What to do now?,MALE->MALE,GUEST,male,ep_033_whisperx_diarized.gender.host_guest,open
+q00422,"He said, what was the need to say that?",FEMALE->FEMALE,GUEST,female,ep_011_whisperx_diarized.gender.host_guest,leading
+q00423,What are those types?,MALE->FEMALE,HOST,male,ep_186_whisperx_diarized.gender.host_guest,closed
+q00424,"Because women are the caregivers, right?",FEMALE->FEMALE,GUEST,female,ep_323_whisperx_diarized.gender.host_guest,leading
+q00425,"So you do a surgery, but you're not really sure what it's going to look like until after the swelling comes up?",FEMALE->MALE,HOST,female,ep_153_whisperx_diarized.gender.host_guest,professional
+q00426,Are you a tea or a coffee drinker?,FEMALE->FEMALE,HOST,female,ep_355_whisperx_diarized.gender.host_guest,closed
+q00427,Like what is the connection?,FEMALE->FEMALE,GUEST,female,ep_350_whisperx_diarized.gender.host_guest,open
+q00428,"There is no answer that this is first, but if I am forced to say, I would I would also tell all my clients who come with mental health issues that first day of therapy I tell them, are you doing any physical activity?",MALE->FEMALE,GUEST,female,ep_204_whisperx_diarized.gender.host_guest,personal
+q00429,Do you see something?,MALE->FEMALE,HOST,male,ep_030_whisperx_diarized.gender.host_guest,closed
+q00430,For this car?,FEMALE->MALE,GUEST,male,ep_116_whisperx_diarized.gender.host_guest,closed
+q00431,So how do we get literally what is the mind of someone who's depressed and how do we get them healthy?,MALE->MALE,GUEST,male,ep_056_whisperx_diarized.gender.host_guest,open
+q00432,Will you get a court marriage?,MALE->FEMALE,HOST,male,ep_093_whisperx_diarized.gender.host_guest,personal
+q00433,"So, you were telling me about one entrepreneur, right?",MALE->MALE,HOST,male,ep_251_whisperx_diarized.gender.host_guest,leading
+q00434,"So, what is the definition of bad friend?",MALE->FEMALE,HOST,male,ep_274_whisperx_diarized.gender.host_guest,open
+q00435,Man as a woman?,MALE->FEMALE,HOST,male,ep_055_whisperx_diarized.gender.host_guest,closed
+q00436,So what do they want from India?,MALE->MALE,HOST,male,ep_176_whisperx_diarized.gender.host_guest,open
+q00437,Now question is what do you do with that information?,MALE->FEMALE,GUEST,female,ep_256_whisperx_diarized.gender.host_guest,open
+q00438,Is it not effective?,MALE->FEMALE,HOST,male,ep_220_whisperx_diarized.gender.host_guest,leading
+q00439,But why can't you wear any other cloth other than cotton?,MALE->MALE,HOST,male,ep_218_whisperx_diarized.gender.host_guest,open
+q00440,"So apart from this, you've also struggled with your body, right?",MALE->MALE,HOST,male,ep_028_whisperx_diarized.gender.host_guest,leading
+q00441,What do they say?,MALE->MALE,HOST,male,ep_214_whisperx_diarized.gender.host_guest,closed
+q00442,How are moderate investors?,MALE->FEMALE,GUEST,female,ep_163_whisperx_diarized.gender.host_guest,professional
+q00443,Why are people doing it?,MALE->MALE,GUEST,male,ep_027_whisperx_diarized.gender.host_guest,open
+q00444,"Can we be able to make sure that that is, you know, seen in the court of law?",FEMALE->MALE,GUEST,male,ep_142_whisperx_diarized.gender.host_guest,professional
+q00445,These creams and all are normal things?,MALE->FEMALE,HOST,male,ep_220_whisperx_diarized.gender.host_guest,closed
+q00446,Does that happen often?,FEMALE->MALE,HOST,female,ep_306_whisperx_diarized.gender.host_guest,closed
+q00447,"Like if we're driving in a car somewhere, what is it really?",FEMALE->MALE,GUEST,male,ep_320_whisperx_diarized.gender.host_guest,open
+q00448,Why is there still a difference of opinion?,MALE->MALE,HOST,male,ep_237_whisperx_diarized.gender.host_guest,open
+q00449,Who will maintain it?,MALE->FEMALE,GUEST,female,ep_270_whisperx_diarized.gender.host_guest,closed
+q00450,What are we supposed to do?,FEMALE->FEMALE,GUEST,female,ep_325_whisperx_diarized.gender.host_guest,open
+q00451,"So I think I've, you know, surprisingly, and the best part is you could be anything, right?",FEMALE->FEMALE,GUEST,female,ep_354_whisperx_diarized.gender.host_guest,leading
+q00452,"Like, how are you as an individual?",FEMALE->MALE,HOST,female,ep_340_whisperx_diarized.gender.host_guest,personal
+q00453,"Actually, sometimes I just want to be silent and quiet, but I feel then what will they think of me?",FEMALE->MALE,GUEST,male,ep_115_whisperx_diarized.gender.host_guest,personal
+q00454,"and a mango gets transformed into us, right?",MALE->MALE,GUEST,male,ep_056_whisperx_diarized.gender.host_guest,leading
+q00455,"If you can't call genocide genocide, if children are dying, small babies dying, children dying, If you cannot call out the Netanyahu government for that or him for that, then where is your fair, balanced journalism?",MALE->FEMALE,GUEST,female,ep_179_whisperx_diarized.gender.host_guest,challenge
+q00456,"And when I came out, Sudeep asked me, were you sleeping?",MALE->FEMALE,GUEST,female,ep_042_whisperx_diarized.gender.host_guest,closed
+q00457,Shahid is disciplined?,MALE->FEMALE,HOST,male,ep_198_whisperx_diarized.gender.host_guest,closed
+q00458,"Well yeah, denounced for what?",MALE->MALE,GUEST,male,ep_275_whisperx_diarized.gender.host_guest,open
+q00459,"And I think that when you treat it like that, it automatically becomes something to be ashamed of, right?",FEMALE->FEMALE,HOST,female,ep_330_whisperx_diarized.gender.host_guest,leading
+q00460,Why did he cheat on you?,MALE->FEMALE,GUEST,female,ep_017_whisperx_diarized.gender.host_guest,personal
+q00461,So where did that stem from?,FEMALE->FEMALE,GUEST,female,ep_358_whisperx_diarized.gender.host_guest,open
+q00462,Any of it?,MALE->MALE,HOST,male,ep_202_whisperx_diarized.gender.host_guest,closed
+q00463,Do you also research on it?,MALE->MALE,HOST,male,ep_071_whisperx_diarized.gender.host_guest,professional
+q00464,Women abuse lack of men's rights?,MALE->FEMALE,GUEST,female,ep_053_whisperx_diarized.gender.host_guest,closed
+q00465,"That brand does a lot of your work, to express yourself publicly, you don't have to say it, right?",MALE->MALE,GUEST,male,ep_253_whisperx_diarized.gender.host_guest,leading
+q00466,"And we say, what will we make next month?",MALE->FEMALE,GUEST,female,ep_289_whisperx_diarized.gender.host_guest,open
+q00467,Going to be in Mumbai?,MALE->FEMALE,GUEST,female,ep_042_whisperx_diarized.gender.host_guest,closed
+q00468,"So that purity is coming in, right?",MALE->MALE,GUEST,male,ep_235_whisperx_diarized.gender.host_guest,leading
+q00469,Do you go to Kalighat?,MALE->FEMALE,GUEST,female,ep_064_whisperx_diarized.gender.host_guest,closed
+q00470,What is the discussion about education?,FEMALE->MALE,HOST,female,ep_317_whisperx_diarized.gender.host_guest,open
+q00471,Hair exercise?,MALE->MALE,HOST,male,ep_225_whisperx_diarized.gender.host_guest,closed
+q00472,"If I separate his son, how will he live?",MALE->FEMALE,GUEST,female,ep_263_whisperx_diarized.gender.host_guest,open
+q00473,Could they do a lot?,FEMALE->MALE,GUEST,male,ep_299_whisperx_diarized.gender.host_guest,closed
+q00474,Who is it?,FEMALE->MALE,GUEST,male,ep_324_whisperx_diarized.gender.host_guest,closed
+q00475,"Make the best of what you have here If you go to a farm and eat mustard leaves in a village and you get it in the city So where will you get this fertilizer, this chemical, this 10 days old mustard leaf and that stove from?",FEMALE->FEMALE,GUEST,female,ep_351_whisperx_diarized.gender.host_guest,open
+q00476,"And they're like, huh?",FEMALE->MALE,GUEST,male,ep_121_whisperx_diarized.gender.host_guest,closed
+q00477,How did you manage?,MALE->FEMALE,GUEST,female,ep_207_whisperx_diarized.gender.host_guest,open
+q00478,Will I get cancer?,FEMALE->FEMALE,GUEST,female,ep_351_whisperx_diarized.gender.host_guest,personal
+q00479,Why did you take me?,FEMALE->MALE,GUEST,male,ep_324_whisperx_diarized.gender.host_guest,personal
+q00480,Have you even thought about it?,FEMALE->FEMALE,GUEST,female,ep_011_whisperx_diarized.gender.host_guest,challenge
+q00481,Who was the oldest in Ram Ji's army?,MALE->MALE,GUEST,male,ep_071_whisperx_diarized.gender.host_guest,closed
+q00482,How was it growing up?,FEMALE->FEMALE,GUEST,female,ep_354_whisperx_diarized.gender.host_guest,personal
+q00483,Would they have gone through their own journeys of backlashes?,MALE->FEMALE,GUEST,female,ep_016_whisperx_diarized.gender.host_guest,open
+q00484,To what point?,FEMALE->FEMALE,HOST,female,ep_147_whisperx_diarized.gender.host_guest,closed
+q00485,"When did that bug bite you saying that you have to do this and of course what a fantastic platform and I'm sure we'll talk about life post Shark Tank also, but how did you decide that I'm going to go and talk about my journey?",FEMALE->FEMALE,HOST,female,ep_339_whisperx_diarized.gender.host_guest,professional
+q00486,How many couples do you make every year?,MALE->FEMALE,HOST,male,ep_092_whisperx_diarized.gender.host_guest,professional
+q00487,Why should we be plumbing the brains?,MALE->FEMALE,GUEST,female,ep_186_whisperx_diarized.gender.host_guest,open
+q00488,Ukraine?,MALE->FEMALE,GUEST,female,ep_179_whisperx_diarized.gender.host_guest,closed
+q00489,How do you expect one human being to do it?,FEMALE->FEMALE,GUEST,female,ep_336_whisperx_diarized.gender.host_guest,challenge
+q00490,How important was that support?,FEMALE->MALE,HOST,female,ep_304_whisperx_diarized.gender.host_guest,open
+q00491,"And I think like with it all, it's hard because how do you bite size such a massive question?",MALE->MALE,GUEST,male,ep_028_whisperx_diarized.gender.host_guest,open
+q00492,How much do you sell it for in US?,MALE->MALE,HOST,male,ep_269_whisperx_diarized.gender.host_guest,professional
+q00493,"So I was reading this news, right?",MALE->FEMALE,HOST,male,ep_163_whisperx_diarized.gender.host_guest,leading
+q00494,Ramdev Basanti was 20 years ago?,FEMALE->MALE,HOST,female,ep_338_whisperx_diarized.gender.host_guest,closed
+q00495,"but I think there's responsibility, right?",MALE->MALE,GUEST,male,ep_281_whisperx_diarized.gender.host_guest,leading
+q00496,"I said, how come the patient is wearing makeup?",FEMALE->FEMALE,GUEST,female,ep_343_whisperx_diarized.gender.host_guest,open
+q00497,Did that work?,MALE->MALE,HOST,male,ep_056_whisperx_diarized.gender.host_guest,closed
+q00498,"And if you don't have enough energy, then how do you accomplish everything in the day?",MALE->FEMALE,GUEST,female,ep_198_whisperx_diarized.gender.host_guest,personal
+q00499,"They have got distribution, they have got the best of the best talent, right?",MALE->MALE,GUEST,male,ep_217_whisperx_diarized.gender.host_guest,leading
+q00500,Why is there so much sorrow and sickness in the world?,MALE->FEMALE,GUEST,female,ep_055_whisperx_diarized.gender.host_guest,open
+q00501,"And if that's a perhaps required a budget positioning, but you start there, right?",MALE->MALE,GUEST,male,ep_253_whisperx_diarized.gender.host_guest,leading
+q00502,And what are the chances of that?,FEMALE->MALE,GUEST,male,ep_345_whisperx_diarized.gender.host_guest,closed
+q00503,Do you think the rest of the country has discovered Maharashtrian food yet?,MALE->MALE,HOST,male,ep_100_whisperx_diarized.gender.host_guest,closed
+q00504,"Even if I have 500 things to do in the morning, but I think, what is wrong?",MALE->MALE,HOST,male,ep_222_whisperx_diarized.gender.host_guest,open
+q00505,Why do I have to keep listening to Hollywood lines like that?,FEMALE->MALE,GUEST,male,ep_018_whisperx_diarized.gender.host_guest,leading
+q00506,But should it be done?,MALE->FEMALE,HOST,male,ep_229_whisperx_diarized.gender.host_guest,closed
+q00507,Do you understand?,MALE->MALE,GUEST,male,ep_176_whisperx_diarized.gender.host_guest,closed
+q00508,"They have such a good influence on the world, right?",MALE->FEMALE,GUEST,female,ep_246_whisperx_diarized.gender.host_guest,leading
+q00509,"I would just wake up, see the mountains and I would just be like, where am I?",MALE->FEMALE,GUEST,female,ep_066_whisperx_diarized.gender.host_guest,open
+q00510,"Can children of two narcissistic power couple or any narcissistic parent, can children also become narcissistic just by watching their parents?",MALE->FEMALE,HOST,male,ep_246_whisperx_diarized.gender.host_guest,open
+q00511,You're more into like all that stuff?,MALE->MALE,GUEST,male,ep_281_whisperx_diarized.gender.host_guest,closed
+q00512,"If there is a threat, how do you convert a reaction into a response?",MALE->FEMALE,GUEST,female,ep_186_whisperx_diarized.gender.host_guest,open
+q00513,"I had asked an RTI in BMC saying, how many deaths of manual scavengers take place in Mumbai?",FEMALE->FEMALE,GUEST,female,ep_127_whisperx_diarized.gender.host_guest,closed
+q00514,"Second, it was almost like I had lots of questions myself on why do we even consider these Granthas to be so great, right?",FEMALE->FEMALE,GUEST,female,ep_308_whisperx_diarized.gender.host_guest,leading
+q00515,"You mean, with a very advanced telescope?",MALE->MALE,HOST,male,ep_039_whisperx_diarized.gender.host_guest,closed
+q00516,Do you think the world is ready for it because it's such an intimate take into Bollywood and the life that is?,FEMALE->FEMALE,HOST,female,ep_228_whisperx_diarized.gender.host_guest,professional
+q00517,"Like I do exercise for the body, I'm doing dumbbells or something Should I make a routine for my eye muscles also?",FEMALE->MALE,GUEST,male,ep_345_whisperx_diarized.gender.host_guest,open
+q00518,How are your friendships?,FEMALE->MALE,HOST,female,ep_315_whisperx_diarized.gender.host_guest,personal
+q00519,How will it work?,MALE->FEMALE,GUEST,female,ep_186_whisperx_diarized.gender.host_guest,open
+q00520,You wanna really do Nigeria together?,MALE->FEMALE,HOST,male,ep_042_whisperx_diarized.gender.host_guest,closed
+q00521,Or was it her just destiny it was supposed to be?,MALE->FEMALE,GUEST,female,ep_055_whisperx_diarized.gender.host_guest,closed
+q00522,"You packed your bags, and then?",FEMALE->FEMALE,HOST,female,ep_360_whisperx_diarized.gender.host_guest,open
+q00523,"I would actually go hunt for those people in my technical team to say, one of you, are you from that background?",FEMALE->FEMALE,GUEST,female,ep_015_whisperx_diarized.gender.host_guest,personal
+q00524,"Yeah, because you know, I think this is such a crucial knowledge that people should know because XYZ reason, anytime it can happen with you, your partner, your sister, your friends, anybody, right?",MALE->FEMALE,HOST,male,ep_185_whisperx_diarized.gender.host_guest,leading
+q00525,"No, but does that scare you a lot?",MALE->FEMALE,HOST,male,ep_016_whisperx_diarized.gender.host_guest,personal
+q00526,What was it like back then to be on a set?,FEMALE->FEMALE,HOST,female,ep_013_whisperx_diarized.gender.host_guest,professional
+q00527,Do you enjoy calm love?,MALE->FEMALE,HOST,male,ep_030_whisperx_diarized.gender.host_guest,personal
+q00528,How are you so vengeful towards your own father who's given you life?,MALE->MALE,GUEST,male,ep_049_whisperx_diarized.gender.host_guest,challenge
+q00529,Or just going to meetings?,MALE->FEMALE,HOST,male,ep_110_whisperx_diarized.gender.host_guest,closed
+q00530,Have you seen Amitabh Bachchan and Brahmastra?,MALE->FEMALE,HOST,male,ep_042_whisperx_diarized.gender.host_guest,closed
+q00531,In Bombay?,MALE->FEMALE,GUEST,female,ep_093_whisperx_diarized.gender.host_guest,closed
+q00532,Do you know the definition of super food?,MALE->FEMALE,GUEST,female,ep_207_whisperx_diarized.gender.host_guest,closed
+q00533,"For the prelims, for the mains and for the interview stage?",FEMALE->FEMALE,HOST,female,ep_344_whisperx_diarized.gender.host_guest,closed
+q00534,A role you regret turning down?,FEMALE->FEMALE,HOST,female,ep_349_whisperx_diarized.gender.host_guest,professional
+q00535,You know what I get pissed off with when it comes to social media?,MALE->FEMALE,HOST,male,ep_066_whisperx_diarized.gender.host_guest,open
+q00536,Were you kind of being your own parent?,FEMALE->FEMALE,GUEST,female,ep_360_whisperx_diarized.gender.host_guest,personal
+q00537,"I need, can I use these two?",MALE->MALE,GUEST,male,ep_214_whisperx_diarized.gender.host_guest,closed
+q00538,Is your husband the biggest blessing in your life?,MALE->FEMALE,GUEST,female,ep_014_whisperx_diarized.gender.host_guest,leading
+q00539,"That's, I think, more appropriate questions, honestly, now that I look back at the whole thing, because how the heck do you know what you want to do when you're a kid?",MALE->FEMALE,GUEST,female,ep_002_whisperx_diarized.gender.host_guest,leading
+q00540,"So as I was saying, women are now taking over the corporate ladder, right?",FEMALE->FEMALE,HOST,female,ep_351_whisperx_diarized.gender.host_guest,leading
+q00541,"I said, who says pick you in Dubai?",FEMALE->MALE,GUEST,male,ep_301_whisperx_diarized.gender.host_guest,closed
+q00542,Is there a reel of this somewhere?,FEMALE->MALE,GUEST,male,ep_305_whisperx_diarized.gender.host_guest,closed
+q00543,So aunty didn't know?,MALE->FEMALE,HOST,male,ep_270_whisperx_diarized.gender.host_guest,closed
+q00544,So why are people taking more stress?,MALE->MALE,HOST,male,ep_251_whisperx_diarized.gender.host_guest,open
+q00545,So what is more relevant to us?,FEMALE->MALE,GUEST,male,ep_322_whisperx_diarized.gender.host_guest,open
+q00546,"The Gates Foundation said, you want to create an app?",FEMALE->FEMALE,GUEST,female,ep_015_whisperx_diarized.gender.host_guest,closed
+q00547,What was the flaw in their cow ghee?,MALE->FEMALE,GUEST,female,ep_270_whisperx_diarized.gender.host_guest,closed
+q00548,Do you take a toilet break for five minutes in between?,MALE->MALE,GUEST,male,ep_235_whisperx_diarized.gender.host_guest,closed
+q00549,"Tomorrow, when India's Prime Minister goes to Russia, who does he meet?",MALE->MALE,GUEST,male,ep_184_whisperx_diarized.gender.host_guest,closed
+q00550,"Eventually, what is the sexual problem that comes up for men?",MALE->FEMALE,HOST,male,ep_043_whisperx_diarized.gender.host_guest,professional
+q00551,Because he's not on the priority list?,MALE->FEMALE,HOST,male,ep_030_whisperx_diarized.gender.host_guest,closed
+q00552,Do you feel that?,MALE->MALE,HOST,male,ep_184_whisperx_diarized.gender.host_guest,personal
+q00553,"Do you think there should be such teachers who have done something in life, who have not done anything themselves, why are they teaching about it?",MALE->MALE,HOST,male,ep_273_whisperx_diarized.gender.host_guest,challenge
+q00554,"Because if you're not doing agriculture, you mostly got protein and so on, right?",FEMALE->MALE,GUEST,male,ep_157_whisperx_diarized.gender.host_guest,leading
+q00555,And how much do you spend on them?,MALE->MALE,GUEST,male,ep_288_whisperx_diarized.gender.host_guest,closed
+q00556,"So that experience, how did it shift your outlook of education?",FEMALE->MALE,HOST,female,ep_334_whisperx_diarized.gender.host_guest,personal
+q00557,Could I make two films that would do that?,FEMALE->MALE,GUEST,male,ep_123_whisperx_diarized.gender.host_guest,professional
+q00558,Are you a spy?,MALE->MALE,GUEST,male,ep_048_whisperx_diarized.gender.host_guest,closed
+q00559,Can they have a beautiful relationship?,MALE->FEMALE,HOST,male,ep_246_whisperx_diarized.gender.host_guest,closed
+q00560,"Children, if you want to make such a career in a corporate job, are you competent or not?",FEMALE->MALE,GUEST,male,ep_317_whisperx_diarized.gender.host_guest,challenge
+q00561,Within?,MALE->FEMALE,HOST,male,ep_066_whisperx_diarized.gender.host_guest,closed
+q00562,"Tell me, what should I call it?",MALE->MALE,GUEST,male,ep_154_whisperx_diarized.gender.host_guest,closed
+q00563,"Because see, remember that the sugar substitutes actually trick your sweet taste buds into thinking that this is like sugar, right?",FEMALE->MALE,GUEST,male,ep_157_whisperx_diarized.gender.host_guest,leading
+q00564,And should we take those precautions so that all these diseases and diseases of health that are happening to us should be prevented from spreading further?,MALE->FEMALE,HOST,male,ep_256_whisperx_diarized.gender.host_guest,open
+q00565,Did you hear about DNA based skin care?,MALE->FEMALE,HOST,male,ep_220_whisperx_diarized.gender.host_guest,closed
+q00566,So that's how So you'd been 16?,FEMALE->FEMALE,GUEST,female,ep_013_whisperx_diarized.gender.host_guest,closed
+q00567,"I realized, my God, what have I done?",FEMALE->FEMALE,GUEST,female,ep_127_whisperx_diarized.gender.host_guest,personal
+q00568,"So we are upright, right Raj?",MALE->FEMALE,GUEST,female,ep_207_whisperx_diarized.gender.host_guest,leading
+q00569,"So you have like IOI, you have IVF, and then you have surrogacy, right?",FEMALE->FEMALE,GUEST,female,ep_343_whisperx_diarized.gender.host_guest,leading
+q00570,Did you hydrate or not?,MALE->MALE,GUEST,male,ep_235_whisperx_diarized.gender.host_guest,closed
+q00571,What else can I do to learn music?,MALE->FEMALE,GUEST,female,ep_032_whisperx_diarized.gender.host_guest,open
+q00572,"You will not do it, right?",MALE->FEMALE,GUEST,female,ep_211_whisperx_diarized.gender.host_guest,leading
+q00573,Who are you trapping?,MALE->MALE,GUEST,male,ep_154_whisperx_diarized.gender.host_guest,challenge
+q00574,Maximum diseases?,MALE->MALE,HOST,male,ep_225_whisperx_diarized.gender.host_guest,closed
+q00575,"You mean, instead of taking a job in TCS or Infosys, try applying in Web3 companies which are global?",MALE->MALE,HOST,male,ep_113_whisperx_diarized.gender.host_guest,professional
+q00576,How do you evaluate that gap?,FEMALE->FEMALE,GUEST,female,ep_015_whisperx_diarized.gender.host_guest,professional
+q00577,"And this is something that affects everybody, right?",FEMALE->FEMALE,GUEST,female,ep_323_whisperx_diarized.gender.host_guest,leading
+q00578,What could I do?,MALE->FEMALE,GUEST,female,ep_282_whisperx_diarized.gender.host_guest,open
+q00579,Why do we have problems in relationships?,FEMALE->FEMALE,GUEST,female,ep_351_whisperx_diarized.gender.host_guest,open
+q00580,"So choose a less wounded child, na?",MALE->FEMALE,GUEST,female,ep_017_whisperx_diarized.gender.host_guest,leading
+q00581,With whom do you eat it?,MALE->FEMALE,HOST,male,ep_093_whisperx_diarized.gender.host_guest,closed
+q00582,Who does he look like?,MALE->FEMALE,HOST,male,ep_093_whisperx_diarized.gender.host_guest,closed
+q00583,And what kind of a friend are you?,FEMALE->MALE,HOST,female,ep_315_whisperx_diarized.gender.host_guest,personal
+q00584,Are you okay with it?,MALE->FEMALE,HOST,male,ep_030_whisperx_diarized.gender.host_guest,personal
+q00585,Do you know Tyrocare?,MALE->MALE,GUEST,male,ep_034_whisperx_diarized.gender.host_guest,closed
+q00586,Myth?,FEMALE->MALE,HOST,female,ep_337_whisperx_diarized.gender.host_guest,closed
+q00587,"Reservation, do you think it's good?",MALE->MALE,HOST,male,ep_273_whisperx_diarized.gender.host_guest,closed
+q00588,"You wear clothes on the body, you eat food on the body, right?",MALE->MALE,GUEST,male,ep_253_whisperx_diarized.gender.host_guest,leading
+q00589,What is the problem now?,MALE->MALE,GUEST,male,ep_208_whisperx_diarized.gender.host_guest,open
+q00590,"So it was I just said, how did you do this?",FEMALE->FEMALE,GUEST,female,ep_118_whisperx_diarized.gender.host_guest,open
+q00591,"When you're doing something naughty, that voice is going to tell you, are you sure?",MALE->FEMALE,GUEST,female,ep_042_whisperx_diarized.gender.host_guest,closed
+q00592,"So, how to express that and with which person?",MALE->MALE,HOST,male,ep_287_whisperx_diarized.gender.host_guest,open
+q00593,"Can you remove them, please?",FEMALE->FEMALE,GUEST,female,ep_356_whisperx_diarized.gender.host_guest,closed
+q00594,"So, does your asset have the capacity to repay the loan?",FEMALE->MALE,GUEST,male,ep_337_whisperx_diarized.gender.host_guest,professional
+q00595,How many patients do you have?,MALE->MALE,GUEST,male,ep_248_whisperx_diarized.gender.host_guest,professional
+q00596,"It should not be considered as your lifeline for every single thing, right?",FEMALE->MALE,GUEST,male,ep_031_whisperx_diarized.gender.host_guest,leading
+q00597,But How was it being a creator or a content creator?,FEMALE->FEMALE,HOST,female,ep_339_whisperx_diarized.gender.host_guest,professional
+q00598,"So let's talk a little bit more about the Ramayan, right?",FEMALE->FEMALE,HOST,female,ep_308_whisperx_diarized.gender.host_guest,leading
+q00599,What business are you teaching?,MALE->MALE,HOST,male,ep_273_whisperx_diarized.gender.host_guest,professional
+q00600,The funder giving them that advice?,FEMALE->MALE,HOST,female,ep_018_whisperx_diarized.gender.host_guest,closed
+q00601,"And they said, how could you do this film?",FEMALE->FEMALE,GUEST,female,ep_011_whisperx_diarized.gender.host_guest,challenge
+q00602,What is the best time to do yoga?,MALE->MALE,GUEST,male,ep_225_whisperx_diarized.gender.host_guest,open
+q00603,Does colorblind person see everything in grayscale?,FEMALE->MALE,GUEST,male,ep_345_whisperx_diarized.gender.host_guest,closed
+q00604,"So if there is an interest in spaceways, where should a Gen Z go?",MALE->MALE,HOST,male,ep_039_whisperx_diarized.gender.host_guest,open
+q00605,Now what is good clean food?,FEMALE->FEMALE,GUEST,female,ep_139_whisperx_diarized.gender.host_guest,open
+q00606,"So, what happens to the Pitta body type?",MALE->FEMALE,GUEST,female,ep_211_whisperx_diarized.gender.host_guest,open
+q00607,"So I think our generation completely broke the wheel of any tradition, you know what I'm saying?",MALE->MALE,GUEST,male,ep_028_whisperx_diarized.gender.host_guest,leading
+q00608,What's happening at home?,MALE->FEMALE,GUEST,female,ep_246_whisperx_diarized.gender.host_guest,personal
+q00609,What is your response to that?,FEMALE->MALE,HOST,female,ep_132_whisperx_diarized.gender.host_guest,open
+q00610,What is endocrine?,MALE->MALE,HOST,male,ep_218_whisperx_diarized.gender.host_guest,closed
+q00611,"Again, Logical thought is that the rats spent a lot of time here or the environment here was good for the rats?",MALE->MALE,HOST,male,ep_102_whisperx_diarized.gender.host_guest,closed
+q00612,Who's providing?,MALE->FEMALE,GUEST,female,ep_246_whisperx_diarized.gender.host_guest,closed
+q00613,"So it happens, right?",MALE->FEMALE,GUEST,female,ep_032_whisperx_diarized.gender.host_guest,leading
+q00614,So do you think it was Britain's plan or our internal politics?,MALE->MALE,HOST,male,ep_154_whisperx_diarized.gender.host_guest,closed
+q00615,What is the best way to deal with this information?,FEMALE->FEMALE,HOST,female,ep_145_whisperx_diarized.gender.host_guest,open
+q00616,Why will I not be called?,MALE->FEMALE,GUEST,female,ep_074_whisperx_diarized.gender.host_guest,open
+q00617,Giloy?,MALE->MALE,HOST,male,ep_237_whisperx_diarized.gender.host_guest,closed
+q00618,Is it fat related?,MALE->FEMALE,GUEST,female,ep_231_whisperx_diarized.gender.host_guest,closed
+q00619,How do we keep our feet on the ground while still being ambitious and still looking at everything the world has to offer?,FEMALE->FEMALE,HOST,female,ep_327_whisperx_diarized.gender.host_guest,open
+q00620,Do you think it's a proper medical problem?,MALE->MALE,HOST,male,ep_208_whisperx_diarized.gender.host_guest,closed
+q00621,"Do you, Because all of this goes on in your head and your family and with your mom incident, all of this, right?",MALE->FEMALE,HOST,male,ep_030_whisperx_diarized.gender.host_guest,leading
+q00622,What would you like to say about her?,MALE->FEMALE,HOST,male,ep_093_whisperx_diarized.gender.host_guest,personal
+q00623,How many of you have this thought?,MALE->MALE,HOST,male,ep_202_whisperx_diarized.gender.host_guest,closed
+q00624,"Like a few brands had seen the power of it, you know?",FEMALE->FEMALE,GUEST,female,ep_355_whisperx_diarized.gender.host_guest,leading
+q00625,"So I want to go ahead and ask you, what do you wish your father would have seen in you before he left?",MALE->FEMALE,HOST,male,ep_002_whisperx_diarized.gender.host_guest,personal
+q00626,"Why is that, Raj?",MALE->MALE,GUEST,male,ep_027_whisperx_diarized.gender.host_guest,open
+q00627,How do you articulate it?,FEMALE->MALE,HOST,female,ep_134_whisperx_diarized.gender.host_guest,open
+q00628,"But yeah, that gives me the courage to just not waver from that, you know?",FEMALE->MALE,GUEST,male,ep_307_whisperx_diarized.gender.host_guest,leading
+q00629,Where are his cousins in the world?,MALE->MALE,HOST,male,ep_102_whisperx_diarized.gender.host_guest,closed
+q00630,What are the other allergies?,MALE->MALE,HOST,male,ep_218_whisperx_diarized.gender.host_guest,closed
+q00631,Did you get your expenses?,FEMALE->MALE,GUEST,male,ep_128_whisperx_diarized.gender.host_guest,closed
+q00632,You blew up your office?,MALE->MALE,GUEST,male,ep_154_whisperx_diarized.gender.host_guest,professional
+q00633,"Many, many years later when I used to talk to Sudeep that have you watched Forrest Gump?",FEMALE->MALE,HOST,female,ep_022_whisperx_diarized.gender.host_guest,closed
+q00634,"So, you guys were dating before or how did it happen?",MALE->FEMALE,HOST,male,ep_274_whisperx_diarized.gender.host_guest,personal
+q00635,"You have to stay awake and live long, so it is better to be aware, right?",MALE->MALE,GUEST,male,ep_237_whisperx_diarized.gender.host_guest,leading
+q00636,Especially during suffering?,MALE->MALE,GUEST,male,ep_103_whisperx_diarized.gender.host_guest,closed
+q00637,The waters?,MALE->FEMALE,GUEST,female,ep_042_whisperx_diarized.gender.host_guest,closed
+q00638,"So this is like a telescope, right?",MALE->MALE,GUEST,male,ep_056_whisperx_diarized.gender.host_guest,leading
+q00639,That you are like selfishly taking decisions just because you want to?,MALE->MALE,HOST,male,ep_028_whisperx_diarized.gender.host_guest,challenge
+q00640,So what impact will this have on our lives?,MALE->FEMALE,HOST,male,ep_163_whisperx_diarized.gender.host_guest,open
+q00641,But can you increase thickness then?,MALE->MALE,HOST,male,ep_200_whisperx_diarized.gender.host_guest,closed
+q00642,Or is there an injustice there that needs to be remedied?,FEMALE->MALE,HOST,female,ep_125_whisperx_diarized.gender.host_guest,leading
+q00643,What has happened to me?,MALE->FEMALE,GUEST,female,ep_185_whisperx_diarized.gender.host_guest,open
+q00644,"If not, what input should you get to be competent?",FEMALE->MALE,GUEST,male,ep_317_whisperx_diarized.gender.host_guest,professional
+q00645,"I was like, what am I seeing?",FEMALE->MALE,GUEST,male,ep_324_whisperx_diarized.gender.host_guest,open
+q00646,That close?,MALE->MALE,GUEST,male,ep_039_whisperx_diarized.gender.host_guest,closed
+q00647,Are you taking the brand eventually to listing?,FEMALE->FEMALE,HOST,female,ep_147_whisperx_diarized.gender.host_guest,professional
+q00648,No Headmaid was not real acting How did cuckoo happen?,FEMALE->FEMALE,GUEST,female,ep_329_whisperx_diarized.gender.host_guest,professional
+q00649,What's your comfort food?,FEMALE->FEMALE,HOST,female,ep_355_whisperx_diarized.gender.host_guest,personal
+q00650,So in Kaalbhairav temples?,MALE->FEMALE,HOST,male,ep_097_whisperx_diarized.gender.host_guest,closed
+q00651,You mean friendship?,MALE->FEMALE,HOST,male,ep_092_whisperx_diarized.gender.host_guest,closed
+q00652,You haven't met anyone else who's like that?,MALE->FEMALE,HOST,male,ep_016_whisperx_diarized.gender.host_guest,leading
+q00653,So it's just an adult version of play therapy?,FEMALE->FEMALE,HOST,female,ep_145_whisperx_diarized.gender.host_guest,leading
+q00654,Do you know why?,MALE->MALE,GUEST,male,ep_102_whisperx_diarized.gender.host_guest,closed
+q00655,How do you come back?,FEMALE->MALE,HOST,female,ep_143_whisperx_diarized.gender.host_guest,open
+q00656,Why so?,MALE->FEMALE,HOST,male,ep_223_whisperx_diarized.gender.host_guest,open
+q00657,Or how will you describe it?,MALE->FEMALE,GUEST,female,ep_053_whisperx_diarized.gender.host_guest,open
+q00658,Do you have a camera?,MALE->MALE,GUEST,male,ep_287_whisperx_diarized.gender.host_guest,closed
+q00659,Why do you need gold?,MALE->FEMALE,GUEST,female,ep_163_whisperx_diarized.gender.host_guest,open
+q00660,Actresses?,MALE->FEMALE,HOST,male,ep_093_whisperx_diarized.gender.host_guest,closed
+q00661,And how did life change after that?,FEMALE->MALE,HOST,female,ep_307_whisperx_diarized.gender.host_guest,personal
+q00662,So is there a way to deal with grief like that?,FEMALE->MALE,HOST,female,ep_299_whisperx_diarized.gender.host_guest,open
+q00663,"I used to have this like a book okay and I used to keep writing in that whatever auditions I've given and I used to write next to it saying shortlisted and then you know and I used to because I used to give so many auditions in the day I would forget to kind of, you know, if I don't get the call back, I need to call them and ask them, you know, what happened?",FEMALE->FEMALE,GUEST,female,ep_335_whisperx_diarized.gender.host_guest,open
+q00664,"It's written about, right?",FEMALE->MALE,HOST,female,ep_264_whisperx_diarized.gender.host_guest,leading
+q00665,"He said, what's the matter?",MALE->MALE,HOST,male,ep_104_whisperx_diarized.gender.host_guest,open
+q00666,What are you doing like this?,MALE->FEMALE,GUEST,female,ep_092_whisperx_diarized.gender.host_guest,open
+q00667,"So, is it okay?",MALE->MALE,GUEST,male,ep_218_whisperx_diarized.gender.host_guest,closed
+q00668,Mahamaya?,MALE->FEMALE,HOST,male,ep_055_whisperx_diarized.gender.host_guest,closed
+q00669,"So I thought, what could be the meaning of going ahead?",MALE->MALE,GUEST,male,ep_079_whisperx_diarized.gender.host_guest,open
+q00670,Like flowers?,MALE->FEMALE,HOST,male,ep_093_whisperx_diarized.gender.host_guest,closed
+q00671,"Do you think that people who think they don't need pills, they actually need them?",MALE->FEMALE,HOST,male,ep_246_whisperx_diarized.gender.host_guest,leading
+q00672,In present?,FEMALE->FEMALE,HOST,female,ep_350_whisperx_diarized.gender.host_guest,closed
+q00673,Does it have an impact on your opinion of things?,MALE->FEMALE,GUEST,female,ep_030_whisperx_diarized.gender.host_guest,personal
+q00674,Is that something you recommend as well?,FEMALE->FEMALE,HOST,female,ep_145_whisperx_diarized.gender.host_guest,professional
+q00675,"But the other aspects, right?",MALE->MALE,GUEST,male,ep_253_whisperx_diarized.gender.host_guest,leading
+q00676,So what is your concern today?,MALE->FEMALE,GUEST,female,ep_229_whisperx_diarized.gender.host_guest,personal
+q00677,"You can have abductions and rapes everywhere, but what happens after?",FEMALE->FEMALE,GUEST,female,ep_356_whisperx_diarized.gender.host_guest,open
+q00678,These balls are made from crude oil?,MALE->MALE,HOST,male,ep_217_whisperx_diarized.gender.host_guest,closed
+q00679,What are the best sources for preparing for current affairs?,FEMALE->FEMALE,HOST,female,ep_344_whisperx_diarized.gender.host_guest,open
+q00680,"I said, what do you mean?",MALE->MALE,HOST,male,ep_213_whisperx_diarized.gender.host_guest,open
+q00681,How badly will that affect the average citizen if we're living with AQI of 450?,FEMALE->MALE,HOST,female,ep_135_whisperx_diarized.gender.host_guest,open
+q00682,"And a part of me was like, am I a woman now?",FEMALE->MALE,GUEST,male,ep_304_whisperx_diarized.gender.host_guest,personal
+q00683,What is your reaction when you hear that?,FEMALE->FEMALE,GUEST,female,ep_011_whisperx_diarized.gender.host_guest,personal
+q00684,What was your first date like?,FEMALE->FEMALE,HOST,female,ep_349_whisperx_diarized.gender.host_guest,personal
+q00685,"But for this generation, you know, when the parents ask them, what do you want to do?",FEMALE->MALE,GUEST,male,ep_332_whisperx_diarized.gender.host_guest,open
+q00686,What kind of place do you want to go?,MALE->MALE,HOST,male,ep_281_whisperx_diarized.gender.host_guest,open
+q00687,"So I want my kids to have that kind of a life experience and I was like, where can we go?",FEMALE->MALE,GUEST,male,ep_134_whisperx_diarized.gender.host_guest,open
+q00688,"These are the three ways, majorly, or are there any other ways?",MALE->MALE,HOST,male,ep_172_whisperx_diarized.gender.host_guest,closed
+q00689,Why do you have to watch?,MALE->MALE,GUEST,male,ep_085_whisperx_diarized.gender.host_guest,open
+q00690,Where did they get protection?,MALE->FEMALE,GUEST,female,ep_205_whisperx_diarized.gender.host_guest,closed
+q00691,Do you believe that you have ever met a Chiranjeevi in your life?,MALE->FEMALE,HOST,male,ep_052_whisperx_diarized.gender.host_guest,personal
+q00692,Or are you more free flowing?,FEMALE->MALE,HOST,female,ep_340_whisperx_diarized.gender.host_guest,personal
+q00693,"So I said, sir, what is the role?",MALE->FEMALE,GUEST,female,ep_110_whisperx_diarized.gender.host_guest,professional
+q00694,"Okay, so we were talking and someone said that do you know how my returns came out?",MALE->MALE,HOST,male,ep_113_whisperx_diarized.gender.host_guest,professional
+q00695,Me becoming an ophthalmologist?,FEMALE->MALE,GUEST,male,ep_345_whisperx_diarized.gender.host_guest,professional
+q00696,If you were to pick your dream T20 team?,FEMALE->MALE,HOST,female,ep_312_whisperx_diarized.gender.host_guest,open
+q00697,Any fun BTS memories with him?,FEMALE->FEMALE,HOST,female,ep_349_whisperx_diarized.gender.host_guest,personal
+q00698,Like where's that word?,FEMALE->FEMALE,GUEST,female,ep_122_whisperx_diarized.gender.host_guest,closed
+q00699,How will you get everything?,MALE->FEMALE,GUEST,female,ep_092_whisperx_diarized.gender.host_guest,open
+q00700,So who was your role model while growing up?,FEMALE->FEMALE,HOST,female,ep_355_whisperx_diarized.gender.host_guest,personal
+q00701,What is Stephen Hawking's gift for the scientific world?,MALE->MALE,HOST,male,ep_039_whisperx_diarized.gender.host_guest,open
+q00702,"So we were like, what's going on here?",MALE->FEMALE,HOST,male,ep_061_whisperx_diarized.gender.host_guest,open
+q00703,What are you excited about?,FEMALE->FEMALE,HOST,female,ep_303_whisperx_diarized.gender.host_guest,personal
+q00704,It's more arranged as in?,MALE->FEMALE,HOST,male,ep_274_whisperx_diarized.gender.host_guest,closed
+q00705,"Constantly jab aap kapde ko kholenge, muchenge, kholenge, muchenge usme kya pad jate hain?",MALE->FEMALE,GUEST,female,ep_255_whisperx_diarized.gender.host_guest,open
+q00706,What did it mean to your family?,FEMALE->FEMALE,HOST,female,ep_349_whisperx_diarized.gender.host_guest,personal
+q00707,"They were giving it to each other, right?",MALE->FEMALE,GUEST,female,ep_057_whisperx_diarized.gender.host_guest,leading
+q00708,"And so I was really confused about what I was, I was like, what am I going to do there?",MALE->MALE,GUEST,male,ep_056_whisperx_diarized.gender.host_guest,open
+q00709,"For this particular problem statement, where people are assuming that one is not high IQ slash EQ, what's the coaching you'd give to your 22-year-old self?",MALE->FEMALE,HOST,male,ep_042_whisperx_diarized.gender.host_guest,professional
+q00710,Are you exploring?,MALE->FEMALE,GUEST,female,ep_043_whisperx_diarized.gender.host_guest,closed
+q00711,"There's no word that's immoral anymore, you know?",FEMALE->FEMALE,GUEST,female,ep_133_whisperx_diarized.gender.host_guest,leading
+q00712,What is the state of the economy today?,MALE->MALE,HOST,male,ep_172_whisperx_diarized.gender.host_guest,open
+q00713,Do you get wrinkles from chewing gum?,MALE->FEMALE,GUEST,female,ep_223_whisperx_diarized.gender.host_guest,closed
+q00714,As a kid?,MALE->FEMALE,GUEST,female,ep_246_whisperx_diarized.gender.host_guest,closed
+q00715,"And there was an embarrassment also that, okay, because my parents are in film, is it just the obvious thing that I'll also be in film?",FEMALE->MALE,GUEST,male,ep_116_whisperx_diarized.gender.host_guest,personal
+q00716,So what was your goal at that time?,FEMALE->FEMALE,HOST,female,ep_353_whisperx_diarized.gender.host_guest,open
+q00717,"If I were to ask you right now as a woman entrepreneur to talk to the other women out there, what would you say?",FEMALE->FEMALE,HOST,female,ep_147_whisperx_diarized.gender.host_guest,professional
+q00718,"So this Madonna complex of, is he going to think I'm slutty?",FEMALE->FEMALE,HOST,female,ep_330_whisperx_diarized.gender.host_guest,personal
+q00719,"Okay, coming back to romantically, the couple that comes together, how childhood traumas affect them?",MALE->FEMALE,HOST,male,ep_204_whisperx_diarized.gender.host_guest,personal
+q00720,Don't you think that both the partners have equal responsibility?,MALE->MALE,HOST,male,ep_208_whisperx_diarized.gender.host_guest,leading
+q00721,"When you see yourself in the mirror, do you ever see that you're becoming like your dad?",MALE->MALE,HOST,male,ep_028_whisperx_diarized.gender.host_guest,personal
+q00722,"And now with OTT platforms and the kind of stories that are being told of different budgets, different sizes, different characters for various age groups, do you think that mainstream is also going to have to sit back and say, okay, we need to tell stories of more depth or it's not just about the formula of how do I hit day one on the box office anymore?",FEMALE->FEMALE,HOST,female,ep_011_whisperx_diarized.gender.host_guest,leading
+q00723,"No one in the world, right?",FEMALE->FEMALE,GUEST,female,ep_354_whisperx_diarized.gender.host_guest,leading
+q00724,You have strong Saturn?,MALE->FEMALE,HOST,male,ep_017_whisperx_diarized.gender.host_guest,closed
+q00725,How do I fix this?,FEMALE->FEMALE,GUEST,female,ep_300_whisperx_diarized.gender.host_guest,open
+q00726,What is their budget?,MALE->MALE,GUEST,male,ep_172_whisperx_diarized.gender.host_guest,closed
+q00727,What is the name of the second book?,MALE->FEMALE,GUEST,female,ep_078_whisperx_diarized.gender.host_guest,closed
+q00728,"Sleep talk, is that a disorder?",MALE->FEMALE,HOST,male,ep_231_whisperx_diarized.gender.host_guest,closed
+q00729,How are you still alive?,MALE->MALE,GUEST,male,ep_049_whisperx_diarized.gender.host_guest,open
+q00730,Did you see something change?,MALE->MALE,HOST,male,ep_067_whisperx_diarized.gender.host_guest,closed
+q00731,Why don't they want to buy it?,MALE->FEMALE,GUEST,female,ep_163_whisperx_diarized.gender.host_guest,open
+q00732,You mean after seven years?,MALE->FEMALE,GUEST,female,ep_110_whisperx_diarized.gender.host_guest,closed
+q00733,Does the internet hate women?,FEMALE->FEMALE,GUEST,female,ep_149_whisperx_diarized.gender.host_guest,open
+q00734,Was Ramji also Ikshwaku?,MALE->FEMALE,HOST,male,ep_078_whisperx_diarized.gender.host_guest,closed
+q00735,In how many days do people start seeing results?,MALE->FEMALE,HOST,male,ep_255_whisperx_diarized.gender.host_guest,closed
+q00736,"But tension and the increase in cholesterol, all that is related to it?",MALE->MALE,HOST,male,ep_225_whisperx_diarized.gender.host_guest,closed
+q00737,What's the best advice you have heard?,MALE->MALE,HOST,male,ep_253_whisperx_diarized.gender.host_guest,open
+q00738,"And when you talk about lifestyle, women especially, right?",FEMALE->MALE,HOST,female,ep_345_whisperx_diarized.gender.host_guest,leading
+q00739,Why are you taking it like this?,MALE->MALE,GUEST,male,ep_214_whisperx_diarized.gender.host_guest,personal
+q00740,"But where does this narrative of brain expansion or, you know?",MALE->MALE,HOST,male,ep_056_whisperx_diarized.gender.host_guest,open
+q00741,"And this goes in many different directions, right?",FEMALE->MALE,HOST,female,ep_337_whisperx_diarized.gender.host_guest,leading
+q00742,On a physical level?,MALE->MALE,GUEST,male,ep_235_whisperx_diarized.gender.host_guest,closed
+q00743,Then why those expensive products are there?,MALE->FEMALE,HOST,male,ep_220_whisperx_diarized.gender.host_guest,open
+q00744,"PCOS is very, very high as a percentage of women in India, right?",MALE->FEMALE,GUEST,female,ep_256_whisperx_diarized.gender.host_guest,leading
+q00745,"You know, what kids they'd say now, right?",FEMALE->MALE,GUEST,male,ep_142_whisperx_diarized.gender.host_guest,leading
+q00746,What are the things that we are doing wrong?,MALE->FEMALE,HOST,male,ep_197_whisperx_diarized.gender.host_guest,open
+q00747,Who am I to decide that?,FEMALE->MALE,GUEST,male,ep_120_whisperx_diarized.gender.host_guest,leading
+q00748,"So, why do you think there is so much hype for IIT in our country?",FEMALE->MALE,HOST,female,ep_334_whisperx_diarized.gender.host_guest,open
+q00749,"Because you overnight, I mean, you went from being Veer Das, the comic and performer, to being Veer Das, the hero, or Veer Das, the anti-national?",FEMALE->MALE,HOST,female,ep_121_whisperx_diarized.gender.host_guest,challenge
+q00750,Which are the three masks that should never be applied on the skin?,MALE->FEMALE,HOST,male,ep_220_whisperx_diarized.gender.host_guest,professional
+q00751,Were you ever nervous?,FEMALE->FEMALE,HOST,female,ep_339_whisperx_diarized.gender.host_guest,personal
+q00752,in the evenings and weekends and like I like one story that my husband always loves is my mom was my first investor I call her she gave me 200 pounds and she's like here's your investment into blogging or whatever you're doing and I was like okay thanks mom and I went to Zara and I bought an entire outfit with the 200 pounds kept the tags on shot the outfit returned it in pristine condition and did that over and over again for the first like seven months or so but just like every time taking it and then quickly shooting the look and then giving it back you know and because I just of course did not otherwise could not have afforded so many different outfits and that investment definitely came back to mom like tenfold very soon but that's how it happened really and after you how many followers were you at?,FEMALE->FEMALE,GUEST,female,ep_355_whisperx_diarized.gender.host_guest,professional
+q00753,Doesn't it damage the skin?,MALE->MALE,HOST,male,ep_248_whisperx_diarized.gender.host_guest,leading
+q00754,How does it happen?,MALE->MALE,HOST,male,ep_027_whisperx_diarized.gender.host_guest,open
+q00755,"Okay, so the problem with that, love what you're asking, the problem with that is even if I give a definition to a skeptic, a skeptic is not gonna understand, right?",MALE->MALE,GUEST,male,ep_056_whisperx_diarized.gender.host_guest,leading
+q00756,"If the US wants to maintain its power, don't you think one of the big things is that they will have to show continuously that it is a stable partner?",MALE->FEMALE,HOST,male,ep_163_whisperx_diarized.gender.host_guest,leading
+q00757,Were you scared?,MALE->FEMALE,GUEST,female,ep_093_whisperx_diarized.gender.host_guest,personal
+q00758,"It's fascinating, right?",FEMALE->FEMALE,GUEST,female,ep_327_whisperx_diarized.gender.host_guest,leading
+q00759,Do I need to make a better body?,FEMALE->MALE,GUEST,male,ep_338_whisperx_diarized.gender.host_guest,personal
+q00760,"So before this, I had a question on what are we standing on?",MALE->MALE,HOST,male,ep_253_whisperx_diarized.gender.host_guest,open
+q00761,Is he happy?,FEMALE->MALE,GUEST,male,ep_324_whisperx_diarized.gender.host_guest,closed
+q00762,What did they do?,MALE->MALE,GUEST,male,ep_027_whisperx_diarized.gender.host_guest,open
+q00763,Would you show that?,MALE->FEMALE,HOST,male,ep_179_whisperx_diarized.gender.host_guest,closed
+q00764,What's the distribution?,FEMALE->MALE,HOST,female,ep_157_whisperx_diarized.gender.host_guest,closed
+q00765,Are you with me on this?,MALE->MALE,HOST,male,ep_214_whisperx_diarized.gender.host_guest,leading
+q00766,"The question is, Kaseema aunty, what is love?",MALE->FEMALE,HOST,male,ep_092_whisperx_diarized.gender.host_guest,open
+q00767,"So they taught me like, oh, you're just like a robot chanting the mantras, right?",MALE->MALE,GUEST,male,ep_049_whisperx_diarized.gender.host_guest,leading
+q00768,"So even in positive, if you want to take a positive impact of anything, then how much quality, frequency will matter?",MALE->MALE,GUEST,male,ep_214_whisperx_diarized.gender.host_guest,open
+q00769,You expect a lot from your partner?,MALE->FEMALE,HOST,male,ep_017_whisperx_diarized.gender.host_guest,personal
+q00770,"Again, How much spinach does it have?",MALE->MALE,GUEST,male,ep_187_whisperx_diarized.gender.host_guest,closed
+q00771,So what is my reaction?,MALE->FEMALE,GUEST,female,ep_186_whisperx_diarized.gender.host_guest,open
+q00772,What is reality?,MALE->MALE,GUEST,male,ep_113_whisperx_diarized.gender.host_guest,open
+q00773,How was it for you?,MALE->FEMALE,HOST,male,ep_097_whisperx_diarized.gender.host_guest,personal
+q00774,Excited or scared of the future?,MALE->FEMALE,HOST,male,ep_017_whisperx_diarized.gender.host_guest,personal
+q00775,"So do y'all have any kind of, you know, sentiment that we leave work at work and at home it's home?",FEMALE->FEMALE,HOST,female,ep_354_whisperx_diarized.gender.host_guest,professional
+q00776,Why you bother about it?,MALE->FEMALE,GUEST,female,ep_223_whisperx_diarized.gender.host_guest,personal
+q00777,"When you started, what was your first vision?",FEMALE->MALE,HOST,female,ep_334_whisperx_diarized.gender.host_guest,professional
+q00778,"Some jawline, asymmetry, fillers, under eye, what happens?",MALE->FEMALE,HOST,male,ep_223_whisperx_diarized.gender.host_guest,professional
+q00779,Do people get more confident?,MALE->FEMALE,HOST,male,ep_223_whisperx_diarized.gender.host_guest,closed
+q00780,Koi recommendation hai?,MALE->MALE,HOST,male,ep_100_whisperx_diarized.gender.host_guest,open
+q00781,"So, do you try to provide that safety to your sister just subconsciously or consciously?",MALE->FEMALE,HOST,male,ep_030_whisperx_diarized.gender.host_guest,personal
+q00782,Do we have the research centers?,FEMALE->MALE,HOST,female,ep_143_whisperx_diarized.gender.host_guest,closed
+q00783,"If AI is also then controlled by these larger organizations, would it be possible to regulate it at all?",FEMALE->MALE,HOST,female,ep_328_whisperx_diarized.gender.host_guest,open
+q00784,So how were you dealing with the fame?,FEMALE->MALE,HOST,female,ep_338_whisperx_diarized.gender.host_guest,personal
+q00785,Why are we becoming so self-absorbed?,FEMALE->FEMALE,GUEST,female,ep_316_whisperx_diarized.gender.host_guest,open
+q00786,Which one have you heard of till now?,MALE->MALE,HOST,male,ep_213_whisperx_diarized.gender.host_guest,closed
+q00787,"You will shoot, the bullet will end, it will not end now, it will end after 10 minutes, it will end after 15 minutes, where will you go after that?",MALE->MALE,GUEST,male,ep_154_whisperx_diarized.gender.host_guest,open
+q00788,"I was like, will I survive here?",MALE->FEMALE,GUEST,female,ep_179_whisperx_diarized.gender.host_guest,personal
+q00789,You know what HIV AIDS was?,MALE->MALE,GUEST,male,ep_275_whisperx_diarized.gender.host_guest,closed
+q00790,Is that the most common?,MALE->FEMALE,GUEST,female,ep_043_whisperx_diarized.gender.host_guest,closed
+q00791,"I did my undergrad in the US, I just moved back to India and India was changing, right?",FEMALE->FEMALE,GUEST,female,ep_147_whisperx_diarized.gender.host_guest,leading
+q00792,"Where will it increase from 35,000?",FEMALE->MALE,HOST,female,ep_119_whisperx_diarized.gender.host_guest,closed
+q00793,Why aren't you giving the talented a chance?,MALE->FEMALE,GUEST,female,ep_093_whisperx_diarized.gender.host_guest,challenge
+q00794,Will you ever meet them or have a good friendship?,MALE->FEMALE,GUEST,female,ep_263_whisperx_diarized.gender.host_guest,personal
+q00795,But now what can I do to move ahead?,MALE->MALE,GUEST,male,ep_104_whisperx_diarized.gender.host_guest,open
+q00796,"As in, he said, why was the position behind?",FEMALE->FEMALE,GUEST,female,ep_349_whisperx_diarized.gender.host_guest,open
+q00797,Is it happening in the lab?,MALE->MALE,GUEST,male,ep_033_whisperx_diarized.gender.host_guest,closed
+q00798,Fact?,MALE->MALE,HOST,male,ep_236_whisperx_diarized.gender.host_guest,closed
+q00799,Have you ever met somebody whose open marriage has worked?,MALE->FEMALE,HOST,male,ep_204_whisperx_diarized.gender.host_guest,personal
+q00800,And there is a why that why do I have to solve this problem?,MALE->FEMALE,GUEST,female,ep_186_whisperx_diarized.gender.host_guest,open
+q00801,"He's like, well, why don't we do it now too while we're playing?",MALE->MALE,GUEST,male,ep_049_whisperx_diarized.gender.host_guest,leading
+q00802,"I said, why do you do this?",MALE->MALE,GUEST,male,ep_100_whisperx_diarized.gender.host_guest,challenge
+q00803,"Customer like culled, investor like culled, everything was good, right?",MALE->MALE,GUEST,male,ep_253_whisperx_diarized.gender.host_guest,leading
+q00804,What is menopause?,FEMALE->FEMALE,GUEST,female,ep_133_whisperx_diarized.gender.host_guest,open
+q00805,What's that one belief with placing most of this on?,FEMALE->MALE,HOST,female,ep_120_whisperx_diarized.gender.host_guest,personal
+q00806,So did Mesopotamian civilization transmutate into the Abrahamic faiths?,MALE->FEMALE,HOST,male,ep_057_whisperx_diarized.gender.host_guest,closed
+q00807,"Because we have changed the landscape, right?",MALE->FEMALE,GUEST,female,ep_009_whisperx_diarized.gender.host_guest,leading
+q00808,Are you writing a book on this?,FEMALE->FEMALE,GUEST,female,ep_351_whisperx_diarized.gender.host_guest,professional
+q00809,"So tell us, how did it happen and how was this happening parallelly as you were peaking in your career?",FEMALE->FEMALE,HOST,female,ep_359_whisperx_diarized.gender.host_guest,professional
+q00810,In Kala?,FEMALE->MALE,HOST,female,ep_307_whisperx_diarized.gender.host_guest,closed
+q00811,Why are they using these small bows and arrows?,MALE->FEMALE,GUEST,female,ep_078_whisperx_diarized.gender.host_guest,open
+q00812,What should be my next goal?,FEMALE->MALE,GUEST,male,ep_312_whisperx_diarized.gender.host_guest,open
+q00813,What more can I do?,MALE->MALE,GUEST,male,ep_068_whisperx_diarized.gender.host_guest,open
+q00814,Exactly right so it determines who you are as an adult so I know you've said a lot has been said about your childhood you've said it right like that you in fact in an Instagram post where you said that you were underconfident and you were bullied and today I'm with these stalwarts so it doesn't determine where you go but what was your childhood like like what were those experiences?,FEMALE->MALE,HOST,female,ep_299_whisperx_diarized.gender.host_guest,personal
+q00815,What do you decide?,MALE->FEMALE,HOST,male,ep_282_whisperx_diarized.gender.host_guest,open
+q00816,"in between the thin and the weight, put on weight, right?",MALE->FEMALE,GUEST,female,ep_110_whisperx_diarized.gender.host_guest,leading
+q00817,Second?,MALE->MALE,HOST,male,ep_033_whisperx_diarized.gender.host_guest,closed
+q00818,Is this a specific meditation technique?,MALE->FEMALE,HOST,male,ep_061_whisperx_diarized.gender.host_guest,closed
+q00819,"How do you feel about that, dude?",MALE->FEMALE,HOST,male,ep_042_whisperx_diarized.gender.host_guest,personal
+q00820,Why are you feeling bad about yourself?,MALE->MALE,HOST,male,ep_104_whisperx_diarized.gender.host_guest,personal
+q00821,Every person or every entrepreneur?,MALE->MALE,HOST,male,ep_253_whisperx_diarized.gender.host_guest,closed
+q00822,How do we structure it?,FEMALE->FEMALE,HOST,female,ep_339_whisperx_diarized.gender.host_guest,open
+q00823,Like what do you think highlights each of the three?,MALE->MALE,HOST,male,ep_253_whisperx_diarized.gender.host_guest,open
+q00824,"And if that, I mean, it must be also a very twisted mind, then in that case, given the things that happen, also, I mean, how can it be God's will that something like this should happen?",FEMALE->MALE,GUEST,male,ep_116_whisperx_diarized.gender.host_guest,challenge
+q00825,"I think that worked for them, right?",MALE->MALE,GUEST,male,ep_085_whisperx_diarized.gender.host_guest,leading
+q00826,"If you had created a thing of mass transport along that, a railway line, like it is there on the side of Vashi, right?",FEMALE->MALE,GUEST,male,ep_119_whisperx_diarized.gender.host_guest,leading
+q00827,"And the people who drink hookah and shisha, is that safe?",MALE->MALE,GUEST,male,ep_236_whisperx_diarized.gender.host_guest,closed
+q00828,"Why are we Why do we need to tell people, why do we owe it to people that I'm a heterosexual or I'm a homosexual or whatever?",FEMALE->FEMALE,GUEST,female,ep_148_whisperx_diarized.gender.host_guest,open
+q00829,"So, you started because what do you do for skin?",MALE->FEMALE,GUEST,female,ep_064_whisperx_diarized.gender.host_guest,professional
+q00830,"But the background, the storytelling behind it that says what is possible and what is not, is so limited that it cannot hold the meaning of that dream, right?",FEMALE->MALE,GUEST,male,ep_320_whisperx_diarized.gender.host_guest,leading
+q00831,"So, it doesn't affect the eyes?",MALE->FEMALE,HOST,male,ep_205_whisperx_diarized.gender.host_guest,leading
+q00832,The second one is that what do you see?,MALE->FEMALE,GUEST,female,ep_053_whisperx_diarized.gender.host_guest,open
+q00833,What is hidden from me?,MALE->MALE,HOST,male,ep_039_whisperx_diarized.gender.host_guest,open
+q00834,"You collaborated with Akib Wani, right?",MALE->MALE,GUEST,male,ep_028_whisperx_diarized.gender.host_guest,leading
+q00835,"So, you think gold has a good future as of now as well?",MALE->FEMALE,HOST,male,ep_163_whisperx_diarized.gender.host_guest,professional
+q00836,Was that the case with you?,FEMALE->FEMALE,HOST,female,ep_129_whisperx_diarized.gender.host_guest,closed
+q00837,So what is your take on the podcast explosion that has happened?,FEMALE->FEMALE,HOST,female,ep_350_whisperx_diarized.gender.host_guest,professional
+q00838,"You know, you used, you told me, this sentence that you said in the middle that some parents get angry and then start hitting their children, right?",MALE->FEMALE,HOST,male,ep_204_whisperx_diarized.gender.host_guest,leading
+q00839,Or shall I keep an open relationship?,FEMALE->FEMALE,GUEST,female,ep_137_whisperx_diarized.gender.host_guest,personal
+q00840,Do you remember the first time you said that?,MALE->FEMALE,HOST,male,ep_185_whisperx_diarized.gender.host_guest,personal
+q00841,What is the name of the pill and in which country was it found?,MALE->FEMALE,HOST,male,ep_057_whisperx_diarized.gender.host_guest,closed
+q00842,And what is that signal giving us?,MALE->FEMALE,GUEST,female,ep_199_whisperx_diarized.gender.host_guest,open
+q00843,Will you want to?,MALE->FEMALE,HOST,male,ep_093_whisperx_diarized.gender.host_guest,closed
+q00844,When will you tell them?,FEMALE->FEMALE,GUEST,female,ep_137_whisperx_diarized.gender.host_guest,closed
+q00845,What is the actual significance?,FEMALE->MALE,HOST,female,ep_342_whisperx_diarized.gender.host_guest,open
+q00846,What's the message for the girls who are starting out their careers?,MALE->FEMALE,HOST,male,ep_009_whisperx_diarized.gender.host_guest,professional
+q00847,What am I learning this video?,MALE->MALE,GUEST,male,ep_269_whisperx_diarized.gender.host_guest,open
+q00848,"Yes, what do you think was the best thing about the show?",MALE->MALE,HOST,male,ep_269_whisperx_diarized.gender.host_guest,professional
+q00849,"The government facilitates it, right?",MALE->FEMALE,GUEST,female,ep_164_whisperx_diarized.gender.host_guest,leading
+q00850,"So I think each brand needs to think about, especially at the conception stage, what does it really stand for?",MALE->MALE,GUEST,male,ep_253_whisperx_diarized.gender.host_guest,professional
+q00851,"And she's like, do you think that they will have protection?",FEMALE->MALE,GUEST,male,ep_134_whisperx_diarized.gender.host_guest,closed
+q00852,"Tabi, when you say anti-discriminatory policies, what is on your wish list?",FEMALE->MALE,HOST,female,ep_142_whisperx_diarized.gender.host_guest,professional
+q00853,Who are the people reporting to him?,MALE->MALE,GUEST,male,ep_027_whisperx_diarized.gender.host_guest,professional
+q00854,"So, our show is realigned so that you become a better version, right?",FEMALE->FEMALE,HOST,female,ep_137_whisperx_diarized.gender.host_guest,leading
+q00855,And what was your thought process?,FEMALE->FEMALE,HOST,female,ep_354_whisperx_diarized.gender.host_guest,open
+q00856,So what is your reality?,MALE->MALE,GUEST,male,ep_062_whisperx_diarized.gender.host_guest,open
+q00857,"You cracked this, right?",MALE->MALE,GUEST,male,ep_287_whisperx_diarized.gender.host_guest,leading
+q00858,And can I be better than me?,FEMALE->FEMALE,GUEST,female,ep_015_whisperx_diarized.gender.host_guest,personal
+q00859,"And they used to ask me, how did you get married?",MALE->MALE,GUEST,male,ep_235_whisperx_diarized.gender.host_guest,personal
+q00860,Were you shy?,FEMALE->FEMALE,GUEST,female,ep_355_whisperx_diarized.gender.host_guest,personal
+q00861,And this will eventually help people?,MALE->MALE,HOST,male,ep_237_whisperx_diarized.gender.host_guest,closed
+q00862,So how do you get the balance correct?,FEMALE->MALE,GUEST,male,ep_125_whisperx_diarized.gender.host_guest,open
+q00863,Do you think he's also detached from the results?,MALE->FEMALE,HOST,male,ep_017_whisperx_diarized.gender.host_guest,closed
+q00864,You've signed?,FEMALE->FEMALE,GUEST,female,ep_015_whisperx_diarized.gender.host_guest,closed
+q00865,So what does she say?,FEMALE->MALE,HOST,female,ep_307_whisperx_diarized.gender.host_guest,open
+q00866,So you are working on that Avatar in this birth as well?,MALE->MALE,GUEST,male,ep_068_whisperx_diarized.gender.host_guest,leading
+q00867,"Yeah, but what is that?",FEMALE->FEMALE,HOST,female,ep_129_whisperx_diarized.gender.host_guest,open
+q00868,"A lot of, even the glamorous businesses like fashion, the devil's in the detail in the most non-glamorous stuff, right?",FEMALE->FEMALE,GUEST,female,ep_147_whisperx_diarized.gender.host_guest,leading
+q00869,Do you think we have more taste buds than normal?,MALE->MALE,GUEST,male,ep_100_whisperx_diarized.gender.host_guest,closed
+q00870,"Tell me one thing, if you are saying that the market is very big in India, and now branded stuff is not that much, just a question, and for everybody who wants to see this, right?",MALE->MALE,HOST,male,ep_217_whisperx_diarized.gender.host_guest,leading
+q00871,How far back does this tradition go?,MALE->FEMALE,HOST,male,ep_055_whisperx_diarized.gender.host_guest,closed
+q00872,Haven't we already shown we're worthy?,MALE->FEMALE,GUEST,female,ep_112_whisperx_diarized.gender.host_guest,leading
+q00873,"I said, do you have a lot of fights with your sister-in-law?",MALE->FEMALE,GUEST,female,ep_061_whisperx_diarized.gender.host_guest,personal
+q00874,"Even when they're sober, don't accuse them?",MALE->FEMALE,HOST,male,ep_030_whisperx_diarized.gender.host_guest,leading
+q00875,"You could say that, right?",FEMALE->FEMALE,HOST,female,ep_308_whisperx_diarized.gender.host_guest,leading
+q00876,What was the other route available to me?,FEMALE->MALE,GUEST,male,ep_120_whisperx_diarized.gender.host_guest,open
+q00877,"That if I go and ask someone to give me work, how can I ask?",FEMALE->MALE,GUEST,male,ep_132_whisperx_diarized.gender.host_guest,open
+q00878,Where did all that go?,MALE->FEMALE,GUEST,female,ep_205_whisperx_diarized.gender.host_guest,open
+q00879,"Daryu, isn't this a bit like rich people saying capitalism is bad?",MALE->MALE,HOST,male,ep_067_whisperx_diarized.gender.host_guest,challenge
+q00880,Did I care for you less?,MALE->FEMALE,GUEST,female,ep_053_whisperx_diarized.gender.host_guest,personal
+q00881,Do we need these extra pair of shoes?,FEMALE->FEMALE,GUEST,female,ep_118_whisperx_diarized.gender.host_guest,closed
+q00882,"Doctor, will you give it to me?",MALE->FEMALE,GUEST,female,ep_205_whisperx_diarized.gender.host_guest,closed
+q00883,But what is its effective impact?,MALE->MALE,HOST,male,ep_102_whisperx_diarized.gender.host_guest,open
+q00884,Best sleeping time?,MALE->FEMALE,HOST,male,ep_231_whisperx_diarized.gender.host_guest,closed
+q00885,Did they send a letter?,MALE->FEMALE,HOST,male,ep_270_whisperx_diarized.gender.host_guest,closed
+q00886,But why is this happening these days?,MALE->FEMALE,GUEST,female,ep_207_whisperx_diarized.gender.host_guest,open
+q00887,"Because when Indian students now are going and studying there, How many reports are there?",MALE->FEMALE,GUEST,female,ep_179_whisperx_diarized.gender.host_guest,closed
+q00888,"He said, are you more interested in material success or spiritual success?",MALE->MALE,GUEST,male,ep_056_whisperx_diarized.gender.host_guest,personal
+q00889,"There are no symptoms yet that both will be bad, right?",MALE->MALE,HOST,male,ep_222_whisperx_diarized.gender.host_guest,leading
+q00890,So what are we thinking in the useless air?,MALE->MALE,GUEST,male,ep_225_whisperx_diarized.gender.host_guest,open
+q00891,"And then it never translates into a full-time career, right?",FEMALE->FEMALE,HOST,female,ep_350_whisperx_diarized.gender.host_guest,leading
+q00892,What is a high priestess?,MALE->FEMALE,HOST,male,ep_055_whisperx_diarized.gender.host_guest,open
+q00893,"Like three-line, temple or anything?",MALE->FEMALE,HOST,male,ep_057_whisperx_diarized.gender.host_guest,closed
+q00894,"And they come, they so do, I mean, they do, right?",FEMALE->FEMALE,GUEST,female,ep_327_whisperx_diarized.gender.host_guest,leading
+q00895,Where did Ashwamati come from?,MALE->FEMALE,GUEST,female,ep_078_whisperx_diarized.gender.host_guest,closed
+q00896,"Because ISS, it creaks and moans, right?",MALE->FEMALE,HOST,male,ep_002_whisperx_diarized.gender.host_guest,leading
+q00897,How is he earning?,MALE->MALE,GUEST,male,ep_154_whisperx_diarized.gender.host_guest,professional
+q00898,"If I have so many health workers, right?",FEMALE->FEMALE,GUEST,female,ep_323_whisperx_diarized.gender.host_guest,leading
+q00899,Every year or every year and a half?,MALE->FEMALE,GUEST,female,ep_205_whisperx_diarized.gender.host_guest,closed
+q00900,Do you know how kids are born?,MALE->FEMALE,HOST,male,ep_093_whisperx_diarized.gender.host_guest,closed
+q00901,You want one more trivia piece?,MALE->FEMALE,HOST,male,ep_042_whisperx_diarized.gender.host_guest,closed
+q00902,"You don't put contingency money under your mattress, okay?",FEMALE->FEMALE,GUEST,female,ep_122_whisperx_diarized.gender.host_guest,leading
+q00903,"Again, where did that impulsivity come from?",MALE->FEMALE,GUEST,female,ep_199_whisperx_diarized.gender.host_guest,personal
+q00904,"Correct, right?",MALE->MALE,GUEST,male,ep_251_whisperx_diarized.gender.host_guest,leading
+q00905,What's with Punjabis and nicknames?,MALE->FEMALE,HOST,male,ep_110_whisperx_diarized.gender.host_guest,open
+q00906,"People are saying, how can your mom do this?",FEMALE->FEMALE,GUEST,female,ep_127_whisperx_diarized.gender.host_guest,challenge
+q00907,"So same way there are some arteries that supply your eye, right?",MALE->FEMALE,GUEST,female,ep_255_whisperx_diarized.gender.host_guest,leading
+q00908,"Rahil, what are the top three simple habits I can adopt daily to improve or maintain my eye health?",FEMALE->MALE,HOST,female,ep_345_whisperx_diarized.gender.host_guest,professional
+q00909,Why don't you try politics?,FEMALE->MALE,GUEST,male,ep_309_whisperx_diarized.gender.host_guest,leading
+q00910,"So, what do we come into?",MALE->FEMALE,GUEST,female,ep_074_whisperx_diarized.gender.host_guest,open
+q00911,What is happening here?,MALE->FEMALE,HOST,male,ep_098_whisperx_diarized.gender.host_guest,open
+q00912,Do you want a husband like Nik Jiju?,MALE->FEMALE,HOST,male,ep_064_whisperx_diarized.gender.host_guest,personal
+q00913,"We'll set up a stove, right?",MALE->MALE,GUEST,male,ep_100_whisperx_diarized.gender.host_guest,leading
+q00914,"And people are just like, what is happening?",FEMALE->FEMALE,GUEST,female,ep_310_whisperx_diarized.gender.host_guest,open
+q00915,"Okay, so we'll play some fun segment, okay?",FEMALE->MALE,HOST,female,ep_312_whisperx_diarized.gender.host_guest,leading
+q00916,And what does stress management mean?,MALE->MALE,GUEST,male,ep_251_whisperx_diarized.gender.host_guest,open
+q00917,And does sleep apnea get cured?,MALE->FEMALE,HOST,male,ep_231_whisperx_diarized.gender.host_guest,closed
+q00918,Would you rather want to visit the bottom of the ocean?,MALE->FEMALE,HOST,male,ep_042_whisperx_diarized.gender.host_guest,closed
+q00919,And how do you spend your time off when you are off?,FEMALE->FEMALE,HOST,female,ep_356_whisperx_diarized.gender.host_guest,personal
+q00920,"He got really upset Tiger asked the lion, is the grass green or blue?",FEMALE->FEMALE,GUEST,female,ep_351_whisperx_diarized.gender.host_guest,closed
+q00921,Yeh kaise hota hai?,FEMALE->FEMALE,GUEST,female,ep_329_whisperx_diarized.gender.host_guest,open
+q00922,Do you remember that phase of life?,MALE->FEMALE,GUEST,female,ep_055_whisperx_diarized.gender.host_guest,personal
+q00923,"So when everything is going on with so much awareness, what do you think this superhuman you said, right?",MALE->FEMALE,GUEST,female,ep_061_whisperx_diarized.gender.host_guest,leading
+q00924,How'd you guys meet?,FEMALE->FEMALE,GUEST,female,ep_131_whisperx_diarized.gender.host_guest,personal
+q00925,"Having said that, if somebody asks me today, and I do occasionally get parents who say that, you know, what do you think, should my son or daughter take a medicine?",FEMALE->MALE,GUEST,male,ep_322_whisperx_diarized.gender.host_guest,professional
+q00926,What is the struggle of Kote?,MALE->MALE,HOST,male,ep_273_whisperx_diarized.gender.host_guest,open
+q00927,"So, what is your mindset today?",FEMALE->MALE,HOST,female,ep_312_whisperx_diarized.gender.host_guest,personal
+q00928,"If you go in the afternoon in the whole day, then the UV rays are giving you differently, right?",MALE->MALE,GUEST,male,ep_217_whisperx_diarized.gender.host_guest,leading
+q00929,Each to their own or that's recommended?,MALE->FEMALE,HOST,male,ep_043_whisperx_diarized.gender.host_guest,closed
+q00930,Don't you have a type in boys?,MALE->FEMALE,HOST,male,ep_064_whisperx_diarized.gender.host_guest,leading
+q00931,What all tests?,MALE->MALE,HOST,male,ep_033_whisperx_diarized.gender.host_guest,closed
+q00932,Are you a distant relative of Shubhman Gill?,MALE->FEMALE,HOST,male,ep_093_whisperx_diarized.gender.host_guest,closed
+q00933,Politics?,FEMALE->MALE,GUEST,male,ep_309_whisperx_diarized.gender.host_guest,closed
+q00934,"I mean, how dumb is that guy?",FEMALE->MALE,GUEST,male,ep_264_whisperx_diarized.gender.host_guest,leading
+q00935,Have you seen the Google keyword?,MALE->MALE,GUEST,male,ep_217_whisperx_diarized.gender.host_guest,closed
+q00936,Did you not hear this thing was a national news?,FEMALE->MALE,GUEST,male,ep_345_whisperx_diarized.gender.host_guest,leading
+q00937,One creator you absolutely love and why?,FEMALE->FEMALE,HOST,female,ep_350_whisperx_diarized.gender.host_guest,open
+q00938,"What is another important lesson, a lesser known one, because you've studied the text, that people should know about?",FEMALE->FEMALE,HOST,female,ep_308_whisperx_diarized.gender.host_guest,professional
+q00939,Why is Pakistan so far behind?,MALE->MALE,HOST,male,ep_154_whisperx_diarized.gender.host_guest,leading
+q00940,Is it kinda near the airport?,MALE->FEMALE,GUEST,female,ep_017_whisperx_diarized.gender.host_guest,closed
+q00941,"Do you think same community, same relative is not a great concept in terms of having a healthy child?",MALE->FEMALE,HOST,male,ep_197_whisperx_diarized.gender.host_guest,leading
+q00942,The question is what kind of conversation can a couple have to create this situation?,MALE->FEMALE,HOST,male,ep_043_whisperx_diarized.gender.host_guest,open
+q00943,"I did, which were the films?",FEMALE->FEMALE,GUEST,female,ep_013_whisperx_diarized.gender.host_guest,closed
+q00944,"Kundalini, Ajna Chakra, psychedelic experiences, what's going on?",MALE->MALE,GUEST,male,ep_056_whisperx_diarized.gender.host_guest,open
+q00945,Do you think your fitness is a huge advantage for you?,MALE->FEMALE,HOST,male,ep_088_whisperx_diarized.gender.host_guest,leading
+q00946,How does the sleep of the parents affect the children?,MALE->FEMALE,HOST,male,ep_231_whisperx_diarized.gender.host_guest,open
+q00947,"So, there's a risk, right?",MALE->FEMALE,HOST,male,ep_256_whisperx_diarized.gender.host_guest,leading
+q00948,Why are we not able to meet those numbers yet?,FEMALE->MALE,HOST,female,ep_143_whisperx_diarized.gender.host_guest,challenge
+q00949,What's fun in blocking?,MALE->MALE,HOST,male,ep_027_whisperx_diarized.gender.host_guest,open
+q00950,So how can women remain connected to that divine feminine power without kind of depleting it but still being assertive and proving their point?,FEMALE->FEMALE,HOST,female,ep_351_whisperx_diarized.gender.host_guest,open
+q00951,What is the answer?,MALE->FEMALE,GUEST,female,ep_002_whisperx_diarized.gender.host_guest,open
+q00952,"Okay, West?",MALE->FEMALE,HOST,male,ep_207_whisperx_diarized.gender.host_guest,closed
+q00953,"You know, so they perhaps, you know, they would say, Arey, Amrita ne yeh kyu kaha?",MALE->FEMALE,GUEST,female,ep_110_whisperx_diarized.gender.host_guest,open
+q00954,We have done a lot of research on your journey You have studied law After that you started a business in the automobile sector And then you came to education And that is the most important part because in our country the importance of education is very high and it should be So my first question is on education According to you What is missing in the education sector in India today?,FEMALE->MALE,HOST,female,ep_317_whisperx_diarized.gender.host_guest,professional
+q00955,Migraines?,MALE->FEMALE,GUEST,female,ep_186_whisperx_diarized.gender.host_guest,closed
+q00956,Were you even working for the fame or thinking about the fame?,MALE->MALE,HOST,male,ep_100_whisperx_diarized.gender.host_guest,personal
+q00957,"used to be, how do I explain?",FEMALE->MALE,GUEST,male,ep_307_whisperx_diarized.gender.host_guest,open
+q00958,"Is that the guarantee that your second, third and fourth film will also succeed?",FEMALE->FEMALE,GUEST,female,ep_011_whisperx_diarized.gender.host_guest,challenge
+q00959,"So, if there is acidity and there are chances of cancer, it increases?",MALE->FEMALE,HOST,male,ep_256_whisperx_diarized.gender.host_guest,closed
+q00960,But it's a lot of work of constantly believing that why did we start this?,FEMALE->FEMALE,GUEST,female,ep_146_whisperx_diarized.gender.host_guest,open
+q00961,But what else?,MALE->FEMALE,HOST,male,ep_066_whisperx_diarized.gender.host_guest,open
+q00962,Who were their best friends?,MALE->MALE,GUEST,male,ep_251_whisperx_diarized.gender.host_guest,closed
+q00963,Your family?,MALE->FEMALE,GUEST,female,ep_017_whisperx_diarized.gender.host_guest,closed
+q00964,"Tell me, can two narcissistic traits people live together?",MALE->FEMALE,HOST,male,ep_246_whisperx_diarized.gender.host_guest,closed
+q00965,Why have you been sent to this earth?,MALE->MALE,HOST,male,ep_071_whisperx_diarized.gender.host_guest,open
+q00966,So what do you trip on?,FEMALE->MALE,HOST,female,ep_264_whisperx_diarized.gender.host_guest,open
+q00967,"It's a documentary, right?",MALE->MALE,GUEST,male,ep_085_whisperx_diarized.gender.host_guest,leading
+q00968,"As a dermatologist, what is your skin care routine?",MALE->FEMALE,HOST,male,ep_223_whisperx_diarized.gender.host_guest,professional
+q00969,Do you believe there's some life out there?,MALE->FEMALE,HOST,male,ep_002_whisperx_diarized.gender.host_guest,personal
+q00970,Or as an act of religion?,MALE->FEMALE,GUEST,female,ep_057_whisperx_diarized.gender.host_guest,closed
+q00971,"But then, there are also incidents now, if you look at, if you look at 100 years, historically, if you look at it event-wise, then the next maybe 10, 20, 30, 40, 50 years, we have always done good, right?",MALE->FEMALE,HOST,male,ep_163_whisperx_diarized.gender.host_guest,leading
+q00972,"You mean, you brought a gun?",MALE->MALE,HOST,male,ep_154_whisperx_diarized.gender.host_guest,closed
+q00973,How do you actually pinpoint that difference?,MALE->MALE,HOST,male,ep_269_whisperx_diarized.gender.host_guest,open
+q00974,This is the rumour?,FEMALE->FEMALE,GUEST,female,ep_358_whisperx_diarized.gender.host_guest,closed
+q00975,"Just the varying needs that you have to keep up with, does that propel you to work more?",FEMALE->FEMALE,HOST,female,ep_310_whisperx_diarized.gender.host_guest,professional
+q00976,"The only thing that gets to your blood is glucose, right?",FEMALE->MALE,GUEST,male,ep_157_whisperx_diarized.gender.host_guest,leading
+q00977,Only branding?,MALE->FEMALE,HOST,male,ep_220_whisperx_diarized.gender.host_guest,closed
+q00978,Have you seen children playing cricket a lot in Africa?,MALE->MALE,HOST,male,ep_047_whisperx_diarized.gender.host_guest,closed
+q00979,"So far, right?",MALE->MALE,GUEST,male,ep_056_whisperx_diarized.gender.host_guest,leading
+q00980,"Just a never ending thirst for learning and like, what did I improve this video?",MALE->MALE,GUEST,male,ep_269_whisperx_diarized.gender.host_guest,open
+q00981,Edible underwear?,MALE->FEMALE,HOST,male,ep_185_whisperx_diarized.gender.host_guest,closed
+q00982,"Astronomy, what did you say?",MALE->MALE,HOST,male,ep_102_whisperx_diarized.gender.host_guest,closed
+q00983,What is the path?,MALE->FEMALE,GUEST,female,ep_274_whisperx_diarized.gender.host_guest,open
+q00984,Is it a women's thing?,FEMALE->FEMALE,HOST,female,ep_124_whisperx_diarized.gender.host_guest,closed
+q00985,"I said, why should I show my life to anyone?",MALE->FEMALE,GUEST,female,ep_263_whisperx_diarized.gender.host_guest,leading
+q00986,Positive image?,MALE->MALE,GUEST,male,ep_214_whisperx_diarized.gender.host_guest,closed
+q00987,Which one is better?,MALE->FEMALE,HOST,male,ep_198_whisperx_diarized.gender.host_guest,closed
+q00988,"And when they show like this, what is their benefit?",MALE->FEMALE,HOST,male,ep_179_whisperx_diarized.gender.host_guest,open
+q00989,"We tried to make sense of it, right?",MALE->MALE,GUEST,male,ep_056_whisperx_diarized.gender.host_guest,leading
+q00990,Now how do I find those 4?,FEMALE->MALE,GUEST,male,ep_337_whisperx_diarized.gender.host_guest,open
+q00991,"So to draw that balance, if I'm not doing the work that I want to do, what should I do in life?",MALE->FEMALE,GUEST,female,ep_110_whisperx_diarized.gender.host_guest,personal
+q00992,How do large companies kill innovative ideas every day?,MALE->MALE,HOST,male,ep_027_whisperx_diarized.gender.host_guest,open
+q00993,"But artificially rejecting something is like, Injecting what?",MALE->FEMALE,HOST,male,ep_255_whisperx_diarized.gender.host_guest,closed
+q00994,How is it added?,MALE->MALE,GUEST,male,ep_236_whisperx_diarized.gender.host_guest,open
+q00995,"And then like weird things start to happen, right?",MALE->MALE,GUEST,male,ep_056_whisperx_diarized.gender.host_guest,leading
+q00996,"Now, what is the problem of US companies?",MALE->FEMALE,GUEST,female,ep_163_whisperx_diarized.gender.host_guest,open
+q00997,How does that work?,MALE->MALE,HOST,male,ep_028_whisperx_diarized.gender.host_guest,open
+q00998,But is it right to just work hard and keep moving forward and then wait for destiny to happen?,MALE->FEMALE,HOST,male,ep_014_whisperx_diarized.gender.host_guest,leading
+q00999,Why did you keep the relationship private?,MALE->FEMALE,HOST,male,ep_274_whisperx_diarized.gender.host_guest,personal
+q01000,"You know, thinking, maybe thinking that why?",FEMALE->FEMALE,GUEST,female,ep_311_whisperx_diarized.gender.host_guest,open
+q01001,And then how did it evolve from there?,FEMALE->FEMALE,HOST,female,ep_126_whisperx_diarized.gender.host_guest,open
+q01002,"And then I wake up the next morning and I'm like, what did I just do and listen to?",FEMALE->MALE,GUEST,male,ep_142_whisperx_diarized.gender.host_guest,open
+q01003,"As a general rule, the more vegetables you eat, the more micronutrient-dense things you eat, you are going to help your immune system function better, right?",FEMALE->MALE,GUEST,male,ep_157_whisperx_diarized.gender.host_guest,leading
+q01004,"I know that we got to entertain people, but is there still responsibility of like, just being careful of what you do, you know?",MALE->MALE,GUEST,male,ep_281_whisperx_diarized.gender.host_guest,leading
+q01005,Is it like a well-thought or well-curated pieces of our ways of content or is it just you and you want to put out your different sides in different forms?,MALE->MALE,GUEST,male,ep_288_whisperx_diarized.gender.host_guest,professional
+q01006,Do you want to do PhD?,MALE->MALE,GUEST,male,ep_034_whisperx_diarized.gender.host_guest,closed
+q01007,How did China attack Tibet?,MALE->MALE,GUEST,male,ep_154_whisperx_diarized.gender.host_guest,open
+q01008,Who brainwashed you?,MALE->MALE,HOST,male,ep_275_whisperx_diarized.gender.host_guest,challenge
+q01009,How do I stay visible?,FEMALE->FEMALE,HOST,female,ep_329_whisperx_diarized.gender.host_guest,open
+q01010,"If this was you, how would you do the steps?",FEMALE->FEMALE,GUEST,female,ep_349_whisperx_diarized.gender.host_guest,open
+q01011,"So, dad asked, why didn't you do it from inside?",MALE->MALE,GUEST,male,ep_273_whisperx_diarized.gender.host_guest,challenge
+q01012,"Does, does having a child affect artistic decisions?",MALE->MALE,HOST,male,ep_085_whisperx_diarized.gender.host_guest,professional
+q01013,Will we give you less than that?,MALE->MALE,GUEST,male,ep_154_whisperx_diarized.gender.host_guest,closed
+q01014,Like for example?,MALE->FEMALE,GUEST,female,ep_053_whisperx_diarized.gender.host_guest,open
+q01015,So what are some of the things that you learned?,FEMALE->FEMALE,HOST,female,ep_126_whisperx_diarized.gender.host_guest,open
+q01016,"Then I kept asking him, why do you want it?",FEMALE->MALE,GUEST,male,ep_153_whisperx_diarized.gender.host_guest,open
+q01017,"Complexly, if we go to study it, there's a process, right?",MALE->FEMALE,GUEST,female,ep_186_whisperx_diarized.gender.host_guest,leading
+q01018,"So, bullying in schools to a point where the child is being driven into depression and the parents suggest cosmetic surgery, this is a frequent thing?",FEMALE->MALE,HOST,female,ep_153_whisperx_diarized.gender.host_guest,closed
+q01019,What is it made of?,MALE->MALE,GUEST,male,ep_217_whisperx_diarized.gender.host_guest,closed
+q01020,You know what reply I got from BMC?,FEMALE->FEMALE,GUEST,female,ep_127_whisperx_diarized.gender.host_guest,closed
+q01021,Who else do you think is an inspiration?,MALE->FEMALE,HOST,male,ep_282_whisperx_diarized.gender.host_guest,personal
+q01022,"Do you think kids are just more stoned than adults are, naturally speaking?",MALE->MALE,HOST,male,ep_056_whisperx_diarized.gender.host_guest,open
+q01023,How will we say this?,MALE->MALE,GUEST,male,ep_079_whisperx_diarized.gender.host_guest,open
+q01024,Why are you talking about concerts?,MALE->FEMALE,GUEST,female,ep_032_whisperx_diarized.gender.host_guest,open
+q01025,Or why is the name Ayodhya given?,MALE->FEMALE,GUEST,female,ep_078_whisperx_diarized.gender.host_guest,open
+q01026,"That is such a great and inspiring journey that you took that leap of faith and also the support is important, right?",FEMALE->FEMALE,HOST,female,ep_339_whisperx_diarized.gender.host_guest,leading
+q01027,"I sat there the whole night and I was only talking to myself about this because It kept coming, the, why me?",FEMALE->FEMALE,GUEST,female,ep_129_whisperx_diarized.gender.host_guest,personal
+q01028,"If you soak this, then what happens?",MALE->FEMALE,GUEST,female,ep_211_whisperx_diarized.gender.host_guest,open
+q01029,What will you do with democracy?,MALE->FEMALE,GUEST,female,ep_164_whisperx_diarized.gender.host_guest,open
+q01030,Where you figured out- Do you know what?,MALE->MALE,GUEST,male,ep_028_whisperx_diarized.gender.host_guest,closed
+q01031,"Manish will come today, right?",MALE->MALE,GUEST,male,ep_047_whisperx_diarized.gender.host_guest,leading
+q01032,"First tell me, should we get a mundan done?",MALE->MALE,GUEST,male,ep_218_whisperx_diarized.gender.host_guest,closed
+q01033,Can we take names?,MALE->MALE,GUEST,male,ep_113_whisperx_diarized.gender.host_guest,closed
+q01034,But who is using the opportunity more than India?,MALE->MALE,HOST,male,ep_172_whisperx_diarized.gender.host_guest,open
+q01035,"Yes, somebody visualized it, but why?",FEMALE->MALE,GUEST,male,ep_320_whisperx_diarized.gender.host_guest,open
+q01036,And was he different than the Shah Rukh Khan you see now?,MALE->FEMALE,HOST,male,ep_110_whisperx_diarized.gender.host_guest,closed
+q01037,"And then once you kill it, you have to break itself down into individual components so that you can derive the small building blocks that you need to use for yourself, right?",FEMALE->MALE,GUEST,male,ep_157_whisperx_diarized.gender.host_guest,leading
+q01038,Should I get you something?,FEMALE->FEMALE,GUEST,female,ep_358_whisperx_diarized.gender.host_guest,closed
+q01039,"So, it wasn't a ready-made script?",FEMALE->MALE,HOST,female,ep_264_whisperx_diarized.gender.host_guest,closed
+q01040,"When you don't have enough money, what do you have?",MALE->MALE,HOST,male,ep_279_whisperx_diarized.gender.host_guest,open
+q01041,Why me?,FEMALE->MALE,GUEST,male,ep_305_whisperx_diarized.gender.host_guest,personal
+q01042,"So I think that that typifies my attitude to life also, because a lot of people ask me today, oh, what do you think of this?",FEMALE->FEMALE,GUEST,female,ep_356_whisperx_diarized.gender.host_guest,open
+q01043,Do you think it's wise or unwise for couples to start businesses together?,MALE->FEMALE,HOST,male,ep_053_whisperx_diarized.gender.host_guest,open
+q01044,What is the US doing?,MALE->FEMALE,GUEST,female,ep_163_whisperx_diarized.gender.host_guest,open
+q01045,And does anything happen with expired eye makeup?,MALE->MALE,HOST,male,ep_213_whisperx_diarized.gender.host_guest,closed
+q01046,Or is this a stress buster?,MALE->MALE,HOST,male,ep_235_whisperx_diarized.gender.host_guest,closed
+q01047,How to remove wrinkles in early age?,MALE->FEMALE,HOST,male,ep_205_whisperx_diarized.gender.host_guest,open
+q01048,So what are your thoughts on manifestation?,MALE->FEMALE,GUEST,female,ep_097_whisperx_diarized.gender.host_guest,personal
+q01049,What did you cook for your wife for the first time?,MALE->MALE,HOST,male,ep_100_whisperx_diarized.gender.host_guest,personal
+q01050,"I feel like obviously, you know, K-pop is great and like it's doing the thing, the engagement with audience and also like the amount of engagement, you know, just caring about the fandom, you know, the audience, right?",MALE->MALE,GUEST,male,ep_281_whisperx_diarized.gender.host_guest,leading
+q01051,But should we use talc free powders or not?,MALE->MALE,HOST,male,ep_218_whisperx_diarized.gender.host_guest,closed
+q01052,"Tell me, what is happening now that people are aging faster?",MALE->FEMALE,HOST,male,ep_223_whisperx_diarized.gender.host_guest,open
+q01053,"So we were like, which way do we go?",FEMALE->FEMALE,HOST,female,ep_339_whisperx_diarized.gender.host_guest,closed
+q01054,"This is the Kuru dynasty, right?",MALE->MALE,GUEST,male,ep_079_whisperx_diarized.gender.host_guest,leading
+q01055,"Korean skin care products, do they work on Indian skin?",MALE->FEMALE,HOST,male,ep_220_whisperx_diarized.gender.host_guest,closed
+q01056,So what do you do in the spiritual world?,MALE->MALE,GUEST,male,ep_104_whisperx_diarized.gender.host_guest,personal
+q01057,Why do we have to do it?,MALE->FEMALE,HOST,male,ep_199_whisperx_diarized.gender.host_guest,open
+q01058,"First of all, how much adoption is there?",MALE->MALE,GUEST,male,ep_113_whisperx_diarized.gender.host_guest,closed
+q01059,So you started building this life where Obviously you were also working but you then as a family started having kids You had three kids and raising three kids in New York City is so I can't even imagine how overwhelming You spent how many years doing that?,FEMALE->FEMALE,HOST,female,ep_360_whisperx_diarized.gender.host_guest,personal
+q01060,Are they good?,MALE->MALE,HOST,male,ep_213_whisperx_diarized.gender.host_guest,closed
+q01061,Where did the year go?,MALE->FEMALE,GUEST,female,ep_042_whisperx_diarized.gender.host_guest,leading
+q01062,"Allopathy, homeopathy, which one suits you?",MALE->MALE,GUEST,male,ep_225_whisperx_diarized.gender.host_guest,personal
+q01063,"Are they getting the same kind of money that the actors, the heroes are getting?",FEMALE->FEMALE,GUEST,female,ep_336_whisperx_diarized.gender.host_guest,closed
+q01064,"But they'll probably use more of the unorganized sector in India, right?",MALE->FEMALE,GUEST,female,ep_256_whisperx_diarized.gender.host_guest,leading
+q01065,"And the women, they also think that if I leave her, who will take care of her?",MALE->MALE,HOST,male,ep_222_whisperx_diarized.gender.host_guest,open
+q01066,"All our life, you know, will we get dependent?",FEMALE->FEMALE,GUEST,female,ep_316_whisperx_diarized.gender.host_guest,open
+q01067,"And B, how many followers did you get at the end of one year?",FEMALE->FEMALE,HOST,female,ep_355_whisperx_diarized.gender.host_guest,professional
+q01068,So how is it that you decide?,FEMALE->MALE,HOST,female,ep_338_whisperx_diarized.gender.host_guest,open
+q01069,"like depleted yes yes so it's very important to do that correct that brings us to the end i'm at my last question um we've had so many different conversation topics and i'm they've been very insightful Now, assuming that somebody doesn't feel like I have a really large mental health issue, but at the same time, yes, can I feel better?",FEMALE->FEMALE,HOST,female,ep_316_whisperx_diarized.gender.host_guest,personal
+q01070,Which car do you like?,MALE->MALE,HOST,male,ep_253_whisperx_diarized.gender.host_guest,personal
+q01071,"Why are you having an active to tackle what goal, what problem?",FEMALE->FEMALE,GUEST,female,ep_139_whisperx_diarized.gender.host_guest,open
+q01072,"You see the news, right?",MALE->MALE,GUEST,male,ep_253_whisperx_diarized.gender.host_guest,leading
+q01073,How much screen time is recommended in a day?,MALE->MALE,GUEST,male,ep_213_whisperx_diarized.gender.host_guest,closed
+q01074,"Yeah, and we should do it to some extent because we have a lot of youth population and who will do it if we don't do it?",MALE->FEMALE,GUEST,female,ep_274_whisperx_diarized.gender.host_guest,open
+q01075,Paise kaun laga raha hai?,FEMALE->MALE,GUEST,male,ep_264_whisperx_diarized.gender.host_guest,closed
+q01076,"So once my elbow was fractured, right?",MALE->MALE,GUEST,male,ep_214_whisperx_diarized.gender.host_guest,leading
+q01077,What better questions can I ask?,MALE->MALE,HOST,male,ep_184_whisperx_diarized.gender.host_guest,open
+q01078,"So, you will take blood and give any test and give any answer, is there any guarantee for that?",MALE->FEMALE,HOST,male,ep_256_whisperx_diarized.gender.host_guest,closed
+q01079,Agree?,MALE->MALE,HOST,male,ep_100_whisperx_diarized.gender.host_guest,leading
+q01080,And how is your chemistry changing?,MALE->FEMALE,GUEST,female,ep_061_whisperx_diarized.gender.host_guest,personal
+q01081,"Do you think that that obsession is healthy, was healthy?",FEMALE->MALE,HOST,female,ep_315_whisperx_diarized.gender.host_guest,personal
+q01082,"Secondly, where will we go?",MALE->MALE,GUEST,male,ep_184_whisperx_diarized.gender.host_guest,open
+q01083,"to have got this job in the first place, but what am I going to do with it?",FEMALE->MALE,GUEST,male,ep_018_whisperx_diarized.gender.host_guest,open
+q01084,Will he ever want to marry someone who has already had sex with him?,FEMALE->FEMALE,HOST,female,ep_330_whisperx_diarized.gender.host_guest,closed
+q01085,What if someone wants to learn from you?,MALE->FEMALE,GUEST,female,ep_255_whisperx_diarized.gender.host_guest,open
+q01086,Is there anything mentioned about Tantra Vidya?,MALE->FEMALE,GUEST,female,ep_078_whisperx_diarized.gender.host_guest,closed
+q01087,You mean men?,MALE->MALE,HOST,male,ep_222_whisperx_diarized.gender.host_guest,closed
+q01088,Have you thought about Kuldevi Kuldevta?,MALE->MALE,HOST,male,ep_071_whisperx_diarized.gender.host_guest,personal
+q01089,"And the conversation is, how would you like me to touch you for the next three minutes?",MALE->FEMALE,GUEST,female,ep_043_whisperx_diarized.gender.host_guest,personal
+q01090,Would you like me to do one?,MALE->MALE,GUEST,male,ep_056_whisperx_diarized.gender.host_guest,closed
+q01091,What is the ideal?,MALE->FEMALE,GUEST,female,ep_186_whisperx_diarized.gender.host_guest,open
+q01092,Why is their market increasing so much?,MALE->MALE,HOST,male,ep_200_whisperx_diarized.gender.host_guest,open
+q01093,Why are we re-releasing so many older films right now?,FEMALE->FEMALE,HOST,female,ep_146_whisperx_diarized.gender.host_guest,open
+q01094,"Okay, why do some of us remember dreams and some people just don't?",FEMALE->MALE,HOST,female,ep_320_whisperx_diarized.gender.host_guest,open
+q01095,So what is the reason for the trouble?,MALE->MALE,GUEST,male,ep_154_whisperx_diarized.gender.host_guest,open
+q01096,But how to protect yourself?,MALE->MALE,HOST,male,ep_113_whisperx_diarized.gender.host_guest,open
+q01097,What is the big deal?,MALE->FEMALE,GUEST,female,ep_246_whisperx_diarized.gender.host_guest,open
+q01098,Shall I share you a real story?,MALE->FEMALE,GUEST,female,ep_061_whisperx_diarized.gender.host_guest,closed
+q01099,Was it a particularly difficult decision?,FEMALE->FEMALE,HOST,female,ep_310_whisperx_diarized.gender.host_guest,closed
+q01100,How much privacy do you want to maintain on that particular thing?,MALE->FEMALE,GUEST,female,ep_199_whisperx_diarized.gender.host_guest,personal
+q01101,"So you've lived this quintessential, right?",FEMALE->FEMALE,HOST,female,ep_352_whisperx_diarized.gender.host_guest,leading
+q01102,Which saag?,MALE->FEMALE,HOST,male,ep_093_whisperx_diarized.gender.host_guest,closed
+q01103,What will they drive?,MALE->MALE,GUEST,male,ep_217_whisperx_diarized.gender.host_guest,closed
+q01104,And do you have some kind of like self-care?,FEMALE->FEMALE,HOST,female,ep_015_whisperx_diarized.gender.host_guest,personal
+q01105,People do that?,MALE->FEMALE,HOST,male,ep_198_whisperx_diarized.gender.host_guest,closed
+q01106,"And I always wanted that show to be like a Rajma Chawal show, you know what I mean?",FEMALE->MALE,GUEST,male,ep_326_whisperx_diarized.gender.host_guest,leading
+q01107,And then how are you able to predict which countries will do well and which will fail?,FEMALE->MALE,GUEST,male,ep_125_whisperx_diarized.gender.host_guest,professional
+q01108,What is happening?,MALE->MALE,HOST,male,ep_184_whisperx_diarized.gender.host_guest,open
+q01109,"If this is the environment and this is how children are socializing with each other, how do you pluck one child out of that?",FEMALE->MALE,HOST,female,ep_138_whisperx_diarized.gender.host_guest,open
+q01110,"And then you're like in theatre, right?",FEMALE->FEMALE,HOST,female,ep_358_whisperx_diarized.gender.host_guest,leading
+q01111,"Saying, oh my God, is it going to work out?",FEMALE->FEMALE,HOST,female,ep_013_whisperx_diarized.gender.host_guest,closed
+q01112,How should skin care be changed with every age?,MALE->FEMALE,HOST,male,ep_220_whisperx_diarized.gender.host_guest,open
+q01113,How many times have I told you?,FEMALE->MALE,GUEST,male,ep_324_whisperx_diarized.gender.host_guest,challenge
+q01114,But how is life?,MALE->MALE,HOST,male,ep_273_whisperx_diarized.gender.host_guest,open
+q01115,Who has the biggest threat?,MALE->MALE,HOST,male,ep_113_whisperx_diarized.gender.host_guest,closed
+q01116,So what are your thoughts on that?,FEMALE->MALE,HOST,female,ep_305_whisperx_diarized.gender.host_guest,open
+q01117,I'm thinking should I say this later or now?,MALE->FEMALE,HOST,male,ep_110_whisperx_diarized.gender.host_guest,closed
+q01118,"How do you balance that dichotomy, right?",FEMALE->FEMALE,HOST,female,ep_310_whisperx_diarized.gender.host_guest,leading
+q01119,Where is this?,MALE->FEMALE,GUEST,female,ep_055_whisperx_diarized.gender.host_guest,closed
+q01120,"So which means to say, to answer your question, does it fully go away?",FEMALE->FEMALE,GUEST,female,ep_139_whisperx_diarized.gender.host_guest,closed
+q01121,"It's just I'm going to give it now, you know?",FEMALE->FEMALE,GUEST,female,ep_355_whisperx_diarized.gender.host_guest,leading
+q01122,Do you think world leaders are narcissists?,MALE->FEMALE,HOST,male,ep_246_whisperx_diarized.gender.host_guest,open
+q01123,A room with someone?,MALE->MALE,HOST,male,ep_085_whisperx_diarized.gender.host_guest,closed
+q01124,For how many years?,MALE->MALE,GUEST,male,ep_104_whisperx_diarized.gender.host_guest,closed
+q01125,"And for everything that you post on social media, do you have to take approvals?",MALE->MALE,HOST,male,ep_281_whisperx_diarized.gender.host_guest,professional
+q01126,"You know, when you talk about eye health and naturally reducing or setting the cap at the number, how is it that eye exercises don't work?",FEMALE->MALE,HOST,female,ep_345_whisperx_diarized.gender.host_guest,challenge
+q01127,Or is there a lot of scope for improvements?,MALE->FEMALE,HOST,male,ep_053_whisperx_diarized.gender.host_guest,closed
+q01128,Should we use wet wipes on babies?,MALE->MALE,HOST,male,ep_218_whisperx_diarized.gender.host_guest,closed
+q01129,"And there were many filmmakers who very politely or rather not so politely said, why did you direct this movie?",FEMALE->MALE,GUEST,male,ep_115_whisperx_diarized.gender.host_guest,challenge
+q01130,"First of all, what is tariff?",MALE->FEMALE,GUEST,female,ep_163_whisperx_diarized.gender.host_guest,closed
+q01131,"But at some point, you never felt invisible?",MALE->FEMALE,HOST,male,ep_032_whisperx_diarized.gender.host_guest,personal
+q01132,What is the matter?,MALE->MALE,GUEST,male,ep_154_whisperx_diarized.gender.host_guest,open
+q01133,"Now, the past year has gone so well, right?",MALE->FEMALE,GUEST,female,ep_163_whisperx_diarized.gender.host_guest,leading
+q01134,Who became the Prime Minister?,MALE->FEMALE,GUEST,female,ep_270_whisperx_diarized.gender.host_guest,closed
+q01135,Are you mad?,MALE->MALE,HOST,male,ep_287_whisperx_diarized.gender.host_guest,personal
+q01136,How did I get into UN and got speaking gigs around the world in more than 26 countries?,MALE->MALE,HOST,male,ep_279_whisperx_diarized.gender.host_guest,professional
+q01137,Did famous people come to you?,MALE->FEMALE,HOST,male,ep_092_whisperx_diarized.gender.host_guest,closed
+q01138,"Third, which emotions do you have, which you are not able to manage?",MALE->FEMALE,GUEST,female,ep_204_whisperx_diarized.gender.host_guest,personal
+q01139,Toh manager aa gaya toh unko yeh aadmi kaun hai jo tere saath hamesha rahta hai?,MALE->MALE,GUEST,male,ep_287_whisperx_diarized.gender.host_guest,closed
+q01140,Whose songs are you listening to?,MALE->FEMALE,GUEST,female,ep_098_whisperx_diarized.gender.host_guest,personal
+q01141,What made your soul settle down in Rishikesh?,MALE->FEMALE,HOST,male,ep_101_whisperx_diarized.gender.host_guest,personal
+q01142,"that someone has taught C++, but why should I learn it?",MALE->FEMALE,GUEST,female,ep_274_whisperx_diarized.gender.host_guest,leading
+q01143,"I've seen you all, you know, because dude, it's very, very, like when I see your content, right?",MALE->MALE,GUEST,male,ep_288_whisperx_diarized.gender.host_guest,leading
+q01144,In which port is your stuff going?,MALE->FEMALE,GUEST,female,ep_057_whisperx_diarized.gender.host_guest,closed
+q01145,Which idiot made you?,MALE->MALE,GUEST,male,ep_104_whisperx_diarized.gender.host_guest,challenge
+q01146,What else do I need?,MALE->FEMALE,GUEST,female,ep_092_whisperx_diarized.gender.host_guest,open
+q01147,What has been discovered about Tibet in Rig Veda?,MALE->FEMALE,HOST,male,ep_057_whisperx_diarized.gender.host_guest,open
+q01148,"So, who will the viewer believe in?",MALE->MALE,HOST,male,ep_213_whisperx_diarized.gender.host_guest,open
+q01149,"I was like, when are we going to address that?",MALE->FEMALE,GUEST,female,ep_042_whisperx_diarized.gender.host_guest,open
+q01150,"I'm like, where the hell have I arrived?",FEMALE->FEMALE,GUEST,female,ep_129_whisperx_diarized.gender.host_guest,open
+q01151,"Now let me tell you that the data created by Monika Karmin for 1,50,000 years, people think that did we get the bodies of that time?",MALE->MALE,GUEST,male,ep_079_whisperx_diarized.gender.host_guest,closed
+q01152,Or are you going to wait for somebody else to do it?,MALE->FEMALE,GUEST,female,ep_009_whisperx_diarized.gender.host_guest,leading
+q01153,What did you paint?,MALE->FEMALE,HOST,male,ep_098_whisperx_diarized.gender.host_guest,closed
+q01154,They played it safe When Walmart came to India Which Indian company it partnered with for its wholesale and retail ventures?,MALE->FEMALE,HOST,male,ep_289_whisperx_diarized.gender.host_guest,closed
+q01155,So why will they be blamed?,MALE->FEMALE,HOST,male,ep_270_whisperx_diarized.gender.host_guest,open
+q01156,Why would you even try it?,MALE->MALE,GUEST,male,ep_027_whisperx_diarized.gender.host_guest,challenge
+q01157,"Yeah, and I think it's the basics that make it so beautiful, right?",FEMALE->FEMALE,HOST,female,ep_349_whisperx_diarized.gender.host_guest,leading
+q01158,"And what is the role of, say, a gut instinct while making decisions?",FEMALE->MALE,HOST,female,ep_128_whisperx_diarized.gender.host_guest,open
+q01159,"And a lot of people… If you don't register, then marriage certificate, bank account is not made?",MALE->FEMALE,HOST,male,ep_270_whisperx_diarized.gender.host_guest,closed
+q01160,What was the most difficult part for you of the training?,MALE->FEMALE,HOST,male,ep_002_whisperx_diarized.gender.host_guest,professional
+q01161,So how does that equation work and how can one use it to elevate themselves in their life?,FEMALE->MALE,HOST,female,ep_128_whisperx_diarized.gender.host_guest,open
+q01162,"The part that feels emotions is more important, right?",MALE->FEMALE,HOST,male,ep_186_whisperx_diarized.gender.host_guest,leading
+q01163,Why are you waiting?,MALE->MALE,HOST,male,ep_287_whisperx_diarized.gender.host_guest,open
+q01164,"And then the directing, writing treatments, right?",MALE->MALE,GUEST,male,ep_281_whisperx_diarized.gender.host_guest,leading
+q01165,"Some of my folks, And the capability is there, right?",MALE->FEMALE,GUEST,female,ep_002_whisperx_diarized.gender.host_guest,leading
+q01166,"I think, what am I?",MALE->FEMALE,GUEST,female,ep_093_whisperx_diarized.gender.host_guest,open
+q01167,How many bridges were built in how many days?,MALE->MALE,GUEST,male,ep_071_whisperx_diarized.gender.host_guest,closed
+q01168,What's the colour of love?,MALE->FEMALE,HOST,male,ep_042_whisperx_diarized.gender.host_guest,open
+q01169,Do you believe that you are a Tantric?,MALE->FEMALE,HOST,male,ep_052_whisperx_diarized.gender.host_guest,personal
+q01170,What is your definition of consumption?,FEMALE->FEMALE,GUEST,female,ep_122_whisperx_diarized.gender.host_guest,open
+q01171,Is this the father of my child?,MALE->FEMALE,HOST,male,ep_066_whisperx_diarized.gender.host_guest,closed
+q01172,And is it very common?,FEMALE->MALE,HOST,female,ep_345_whisperx_diarized.gender.host_guest,closed
+q01173,"Because for many reasons, right?",MALE->FEMALE,GUEST,female,ep_030_whisperx_diarized.gender.host_guest,leading
+q01174,What difference does it make to me who is driving the car?,MALE->MALE,GUEST,male,ep_235_whisperx_diarized.gender.host_guest,open
+q01175,"Then the question arises that you have found the answer, but is there any other evidence that makes our faith stronger?",MALE->MALE,GUEST,male,ep_079_whisperx_diarized.gender.host_guest,open
+q01176,"When Lord Shiva came to earth, Parvati Mata said, where are you going, Mahadev?",MALE->MALE,GUEST,male,ep_071_whisperx_diarized.gender.host_guest,closed
+q01177,"Okay, so from my birth, the children that will be born, are they not pre-decided or are they?",MALE->FEMALE,HOST,male,ep_061_whisperx_diarized.gender.host_guest,closed
+q01178,"So if you were to complete the sentence, Urvashi is, what would that sentence be?",FEMALE->FEMALE,HOST,female,ep_346_whisperx_diarized.gender.host_guest,personal
+q01179,"Yeah, but also I think we skipped over the part where your daughter wrote an essay for college which was picked as the top 15 is it?",FEMALE->FEMALE,HOST,female,ep_360_whisperx_diarized.gender.host_guest,leading
+q01180,Do I get into that?,MALE->MALE,GUEST,male,ep_237_whisperx_diarized.gender.host_guest,closed
+q01181,"I said, do I get to say welcome to McDonald's?",FEMALE->FEMALE,GUEST,female,ep_015_whisperx_diarized.gender.host_guest,closed
+q01182,"There is a concept of emotional contagion, right?",MALE->MALE,GUEST,male,ep_235_whisperx_diarized.gender.host_guest,leading
+q01183,How do you tell the difference between the two?,FEMALE->MALE,GUEST,male,ep_115_whisperx_diarized.gender.host_guest,open
+q01184,But what was it like growing up with a father like Aamir Khan?,FEMALE->MALE,HOST,female,ep_340_whisperx_diarized.gender.host_guest,personal
+q01185,Is there an algorithm to this process?,FEMALE->MALE,GUEST,male,ep_324_whisperx_diarized.gender.host_guest,closed
+q01186,"You all have a friendship, right?",FEMALE->MALE,HOST,female,ep_305_whisperx_diarized.gender.host_guest,leading
+q01187,How do you budget?,FEMALE->MALE,HOST,female,ep_337_whisperx_diarized.gender.host_guest,personal
+q01188,"When I go, when I breathe into my chest, when I breathe into my belly, when I breathe into my pelvis, where is the muscular, where is the constriction?",MALE->FEMALE,GUEST,female,ep_043_whisperx_diarized.gender.host_guest,open
+q01189,Are you listening to this podcast?,MALE->MALE,HOST,male,ep_048_whisperx_diarized.gender.host_guest,closed
+q01190,Ghori or Ghazni?,MALE->MALE,GUEST,male,ep_039_whisperx_diarized.gender.host_guest,closed
+q01191,Is this really a question or not?,MALE->FEMALE,GUEST,female,ep_185_whisperx_diarized.gender.host_guest,closed
+q01192,And what do I mean by that?,MALE->MALE,HOST,male,ep_202_whisperx_diarized.gender.host_guest,open
+q01193,Today is Purnama?,MALE->FEMALE,GUEST,female,ep_101_whisperx_diarized.gender.host_guest,closed
+q01194,Are you really missing him?,FEMALE->FEMALE,GUEST,female,ep_351_whisperx_diarized.gender.host_guest,personal
+q01195,"So the point is that even then their purpose was to connect with religion that if you don't do it, you will be afraid that something has gone wrong Otherwise there was no reason If you tell someone that it is good for your body, they will say that I am healthy, why do I need it?",FEMALE->FEMALE,GUEST,female,ep_351_whisperx_diarized.gender.host_guest,open
+q01196,Where did we start from?,MALE->MALE,HOST,male,ep_172_whisperx_diarized.gender.host_guest,open
+q01197,How much calorie should I get from protein?,MALE->MALE,GUEST,male,ep_217_whisperx_diarized.gender.host_guest,closed
+q01198,"He says, why can't I catch them earlier on?",MALE->FEMALE,GUEST,female,ep_014_whisperx_diarized.gender.host_guest,open
+q01199,And how do you make sure that you educate yourself on this material?,FEMALE->MALE,HOST,female,ep_337_whisperx_diarized.gender.host_guest,open
+q01200,"So this is constant double life, right?",FEMALE->FEMALE,HOST,female,ep_325_whisperx_diarized.gender.host_guest,leading
+q01201,Fourth generation?,MALE->FEMALE,HOST,male,ep_061_whisperx_diarized.gender.host_guest,closed
+q01202,And how did you receive it?,FEMALE->FEMALE,HOST,female,ep_126_whisperx_diarized.gender.host_guest,open
+q01203,"So if all three ages are different, then what age should we look at to change our anti-aging products or skin care routine?",MALE->FEMALE,HOST,male,ep_223_whisperx_diarized.gender.host_guest,open
+q01204,"Because we asked 100 people, when this part of your brain lights up, what are you feeling?",MALE->MALE,GUEST,male,ep_056_whisperx_diarized.gender.host_guest,personal
+q01205,You don't see yourself as anything like that?,MALE->FEMALE,HOST,male,ep_282_whisperx_diarized.gender.host_guest,challenge
+q01206,"I think you are much more independent and you're not so dependent on things as you may think you are, as other people may want you to be, or as other people are and therefore need you to be also dependent to make themselves feel better, you know?",FEMALE->MALE,GUEST,male,ep_320_whisperx_diarized.gender.host_guest,leading
+q01207,Did he ever tell you about this other dream?,MALE->FEMALE,HOST,male,ep_066_whisperx_diarized.gender.host_guest,closed
+q01208,Which are the cities that are growing?,FEMALE->MALE,GUEST,male,ep_119_whisperx_diarized.gender.host_guest,closed
+q01209,Did you fall ill?,MALE->MALE,GUEST,male,ep_047_whisperx_diarized.gender.host_guest,personal
+q01210,How do you solve it?,MALE->FEMALE,GUEST,female,ep_199_whisperx_diarized.gender.host_guest,open
+q01211,"If you don't relate with it, then why do you listen to it?",MALE->FEMALE,HOST,male,ep_098_whisperx_diarized.gender.host_guest,challenge
+q01212,"So, when I reached there, the next day morning when I met the captain, he asked me, why are you here?",FEMALE->MALE,GUEST,male,ep_301_whisperx_diarized.gender.host_guest,open
+q01213,"Yeah, so this is why, like, it's crazy, right?",MALE->MALE,GUEST,male,ep_056_whisperx_diarized.gender.host_guest,leading
+q01214,"But I want to ask you, what has been your biggest learning?",FEMALE->FEMALE,HOST,female,ep_148_whisperx_diarized.gender.host_guest,open
+q01215,And what is your opinion on his fallout with Badshah?,FEMALE->FEMALE,HOST,female,ep_346_whisperx_diarized.gender.host_guest,open
+q01216,In what manner?,MALE->FEMALE,HOST,male,ep_097_whisperx_diarized.gender.host_guest,open
+q01217,But you discovered theatre when you were in college?,FEMALE->MALE,HOST,female,ep_324_whisperx_diarized.gender.host_guest,personal
+q01218,Iski wajah se they did it?,MALE->FEMALE,HOST,male,ep_205_whisperx_diarized.gender.host_guest,closed
+q01219,How did I reach out to the best people around the world?,MALE->MALE,HOST,male,ep_279_whisperx_diarized.gender.host_guest,professional
+q01220,Why does she let him touch her back?,MALE->FEMALE,GUEST,female,ep_263_whisperx_diarized.gender.host_guest,open
+q01221,"After the whole discussion of two hours, Revati then said, okay, will each of you summarize what you think about?",MALE->MALE,GUEST,male,ep_027_whisperx_diarized.gender.host_guest,open
+q01222,"And he told his team, what will we name it?",MALE->MALE,GUEST,male,ep_273_whisperx_diarized.gender.host_guest,open
+q01223,The water receded also?,MALE->MALE,GUEST,male,ep_079_whisperx_diarized.gender.host_guest,closed
+q01224,"Polyamory, hot or not?",FEMALE->FEMALE,HOST,female,ep_228_whisperx_diarized.gender.host_guest,closed
+q01225,"Then when I met this friend of mine, Bakhtawar, who was the girl that I would tell this to, I said, how can you be so duff?",FEMALE->FEMALE,GUEST,female,ep_011_whisperx_diarized.gender.host_guest,challenge
+q01226,Any temple that has stayed with you?,MALE->FEMALE,HOST,male,ep_017_whisperx_diarized.gender.host_guest,personal
+q01227,Do you need a CV or not?,MALE->FEMALE,GUEST,female,ep_164_whisperx_diarized.gender.host_guest,closed
+q01228,Isn't that a privilege?,MALE->MALE,HOST,male,ep_273_whisperx_diarized.gender.host_guest,leading
+q01229,"I said, How do you know?",FEMALE->FEMALE,GUEST,female,ep_145_whisperx_diarized.gender.host_guest,open
+q01230,What is Area 51?,MALE->MALE,GUEST,male,ep_039_whisperx_diarized.gender.host_guest,closed
+q01231,Where is the money invested?,MALE->FEMALE,GUEST,female,ep_289_whisperx_diarized.gender.host_guest,closed
+q01232,How's the podcast going till now?,MALE->FEMALE,HOST,male,ep_097_whisperx_diarized.gender.host_guest,professional
+q01233,And are you able to do something about it?,FEMALE->MALE,GUEST,male,ep_128_whisperx_diarized.gender.host_guest,closed
+q01234,"So you're going through period cramps, but you know, you need to be stronger because you, how will you, if you can't deal with this, How are you going to deal with labor pain?",FEMALE->FEMALE,GUEST,female,ep_126_whisperx_diarized.gender.host_guest,challenge
+q01235,"And I'm like, what can I do?",FEMALE->MALE,GUEST,male,ep_134_whisperx_diarized.gender.host_guest,open
+q01236,Why will anyone want anything negatively?,MALE->FEMALE,GUEST,female,ep_030_whisperx_diarized.gender.host_guest,open
+q01237,"In your space specifically, in cardiac surgery or cardiac health, where is AI playing a role and how do you expect that to increase going forward?",FEMALE->MALE,HOST,female,ep_143_whisperx_diarized.gender.host_guest,professional
+q01238,"How sad, and does this, like, are you like a campus sensation?",FEMALE->FEMALE,HOST,female,ep_303_whisperx_diarized.gender.host_guest,personal
+q01239,Do you think this happens in a lot of boys who have controlling fathers in their childhood?,MALE->FEMALE,HOST,male,ep_204_whisperx_diarized.gender.host_guest,open
+q01240,"But physically, I don't have to go and take care of you know, is this been taken care of?",FEMALE->FEMALE,GUEST,female,ep_336_whisperx_diarized.gender.host_guest,closed
+q01241,You have siblings?,MALE->FEMALE,GUEST,female,ep_092_whisperx_diarized.gender.host_guest,personal
+q01242,Is there a possibility that there can be a better product and it can be done for 1-2 lakhs?,MALE->MALE,HOST,male,ep_248_whisperx_diarized.gender.host_guest,professional
+q01243,"So the dry and winter versus humid weather, which are hot and humid, do they have different types of pigmentation?",MALE->FEMALE,HOST,male,ep_229_whisperx_diarized.gender.host_guest,closed
+q01244,"Bata ki ek actor ko ek makeup artist, hairdresser, assistant ke alawa chahiye aur kya?",MALE->FEMALE,GUEST,female,ep_112_whisperx_diarized.gender.host_guest,professional
+q01245,Do you think today KGB would be active?,MALE->MALE,HOST,male,ep_275_whisperx_diarized.gender.host_guest,open
+q01246,So how will India work?,MALE->FEMALE,HOST,male,ep_274_whisperx_diarized.gender.host_guest,open
+q01247,"Agar mere dimaag se kuch mathematics aur kuch science nikla aur usse kaafi scientific contributions hua, does that tell the world about who I am?",MALE->MALE,GUEST,male,ep_039_whisperx_diarized.gender.host_guest,personal
+q01248,How do we be supportive?,FEMALE->FEMALE,HOST,female,ep_148_whisperx_diarized.gender.host_guest,open
+q01249,What is an embryologist?,MALE->MALE,GUEST,male,ep_200_whisperx_diarized.gender.host_guest,closed
+q01250,It is?,MALE->FEMALE,HOST,male,ep_042_whisperx_diarized.gender.host_guest,closed
+q01251,Why did I say that?,MALE->FEMALE,GUEST,female,ep_057_whisperx_diarized.gender.host_guest,open
+q01252,What will they do?,MALE->MALE,GUEST,male,ep_154_whisperx_diarized.gender.host_guest,open
+q01253,Why am I an actor?,MALE->FEMALE,GUEST,female,ep_017_whisperx_diarized.gender.host_guest,professional
+q01254,Air?,MALE->FEMALE,HOST,male,ep_207_whisperx_diarized.gender.host_guest,closed
+q01255,Who are you to record?,MALE->FEMALE,HOST,male,ep_064_whisperx_diarized.gender.host_guest,challenge
+q01256,Why didn't you come 93?,FEMALE->MALE,GUEST,male,ep_324_whisperx_diarized.gender.host_guest,open
+q01257,But what if I can get them before it happens?,FEMALE->FEMALE,GUEST,female,ep_013_whisperx_diarized.gender.host_guest,open
+q01258,Kab?,MALE->FEMALE,GUEST,female,ep_093_whisperx_diarized.gender.host_guest,closed
+q01259,Is there any benefit of applying that?,MALE->MALE,HOST,male,ep_218_whisperx_diarized.gender.host_guest,closed
+q01260,So what's really gone wrong with capitalism?,FEMALE->MALE,GUEST,male,ep_125_whisperx_diarized.gender.host_guest,open
+q01261,"I know I'm being choosy, but if God says so, I probably can choose the ingredients, right?",MALE->MALE,GUEST,male,ep_100_whisperx_diarized.gender.host_guest,leading
+q01262,Any thoughts on that?,MALE->MALE,HOST,male,ep_079_whisperx_diarized.gender.host_guest,open
+q01263,"That's amazing and huge congratulations because this is real impact, right?",FEMALE->MALE,HOST,female,ep_334_whisperx_diarized.gender.host_guest,leading
+q01264,When do you think you'll get married?,MALE->FEMALE,HOST,male,ep_066_whisperx_diarized.gender.host_guest,personal
+q01265,So what is the role of that in decision making?,FEMALE->MALE,HOST,female,ep_128_whisperx_diarized.gender.host_guest,open
+q01266,Did Salman Khan know that Dabangg would be such a big hit or was he just hustling?,MALE->FEMALE,HOST,male,ep_098_whisperx_diarized.gender.host_guest,closed
+q01267,"You go into a space feeling confident, and someone says something, and for a minute you're, you know, there's a lot of self-doubt that creeps in, like, okay, why am I here?",FEMALE->FEMALE,HOST,female,ep_327_whisperx_diarized.gender.host_guest,personal
+q01268,What will happen if the three of us come together?,MALE->FEMALE,HOST,male,ep_179_whisperx_diarized.gender.host_guest,open
+q01269,Do you think all this is right?,MALE->MALE,HOST,male,ep_213_whisperx_diarized.gender.host_guest,open
+q01270,"But to each their own and it's experience, right?",FEMALE->FEMALE,GUEST,female,ep_148_whisperx_diarized.gender.host_guest,leading
+q01271,So anybody who came and met you took out a gun first and said aata bol no?,FEMALE->MALE,GUEST,male,ep_321_whisperx_diarized.gender.host_guest,closed
+q01272,"Like, do you think it'll work in this part of the world?",MALE->MALE,HOST,male,ep_269_whisperx_diarized.gender.host_guest,open
+q01273,"I always felt that when we go to study in Ivy League school, What's the big deal?",MALE->FEMALE,GUEST,female,ep_016_whisperx_diarized.gender.host_guest,open
+q01274,"Actually for people in their 20s now who are starting their career and you started at 17, what is that one piece of advice you'll give them?",FEMALE->FEMALE,HOST,female,ep_013_whisperx_diarized.gender.host_guest,professional
+q01275,You think?,MALE->MALE,GUEST,male,ep_019_whisperx_diarized.gender.host_guest,leading
+q01276,Who solves this?,MALE->MALE,GUEST,male,ep_213_whisperx_diarized.gender.host_guest,open
+q01277,"When you are a kid, right?",MALE->MALE,HOST,male,ep_251_whisperx_diarized.gender.host_guest,leading
+q01278,Can someone become Aghori even after living in Mumbai?,MALE->FEMALE,HOST,male,ep_052_whisperx_diarized.gender.host_guest,closed
+q01279,"Tell me, do you want to see more content creators' stories?",MALE->MALE,HOST,male,ep_287_whisperx_diarized.gender.host_guest,closed

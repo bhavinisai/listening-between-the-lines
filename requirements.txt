@@ -6,7 +6,12 @@ faster-whisper==1.2.1
  
 # Transformers
 transformers==4.57.6
- 
+torch==2.5.1
+sentencepiece==0.2.1
+datasets==5.0.1
+scikit-learn==1.8.0
+accelerate==1.15.0
+
 # Gender Detection
 inaSpeechSegmenter==0.8.0
 tensorflow==2.21.0
@@ -14,7 +19,8 @@ tensorflow==2.21.0
 # Numerical & Scientific
 numpy==2.2.6
 scipy==1.15.3
- 
+statsmodels==0.15.0
+
 # YouTube Scraping
 yt-dlp==2026.3.17
 google-api-python-client==2.193.0
