@@ -52,6 +52,6 @@ for m in metrics:
 
 results_df = pd.DataFrame(results)
 results_df = results_df.sort_values(["metric", "corrected_p"])
-results_df.to_csv("/home/sr5868/listening-between-the-lines/results/stat_analysis/pairwise_dyad_tests.csv", index=False)
+results_df.to_csv("/home/sr5868/listening-between-the-lines/results/stat_analysis/pairwise_dyad_tests_lexicon.csv", index=False)
 
 print(results_df.to_string(index=False))

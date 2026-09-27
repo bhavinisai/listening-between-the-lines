@@ -120,13 +120,19 @@ def collect_all_speakers(segments: List[Dict[str, Any]], speaker_key: str) -> Li
 def resolve_host_from_library(obj: Dict[str, Any]) -> Optional[str]:
     """
     Look at speaker_gender_mapping in the gender JSON.
-    The speaker with source=library is the known host.
+    A speaker with source=manual (apply_host_overrides.py) is the host.
+    Otherwise the speaker with source=library is the known host.
     If multiple library matches, pick the one with the highest similarity.
     Returns speaker ID (e.g. 'SPEAKER_00') or None if no library match found.
     """
     mapping = obj.get("speaker_gender_mapping", {})
     if not mapping:
         return None
+
+    for spk, info in mapping.items():
+        if info.get("source") == "manual":
+            print(f"INFO: host set by manual override: {spk} → {info.get('name', spk)}")
+            return spk
 
     library_matches = {
         spk: info for spk, info in mapping.items()

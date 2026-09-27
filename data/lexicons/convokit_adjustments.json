@@ -1,0 +1,25 @@
+{
+  "_note": "Post-processing of ConvoKit PolitenessStrategies markers, applied by compute_bias_features_v2.py (disable with --no_convokit_adjustments). Based on the precision audit of 50 random hits per strategy in results/audit/audit_v2_to_label.csv.",
+  "drop_markers": {
+    "_reason": "Marker words removed from a strategy. Factuality 'really' was a plain intensifier in 22/26 audited hits ('really hard', 'I really wanted'), while 'actually' (12/13) and 'in fact' (4/4) were accurate. Deference 'good' was mostly descriptive ('good balance', 'good mood'). Third audit (results/audit/audit_v2c_to_label.csv): Factuality 'the point' was literal in 5/5 hits ('what's the point of', 'the point where'), and in every earlier hit.",
+    "Factuality": [
+      "really",
+      "the point"
+    ],
+    "Deference": [
+      "good"
+    ]
+  },
+  "require_question_mark": {
+    "_reason": "ConvoKit's Direct_question fires on any sentence-initial wh-word, including relative/embedded clauses ('So what I learned was...'), which made up most false positives. Only sentences whose last token is '?' are counted.",
+    "strategies": [
+      "Direct_question"
+    ]
+  },
+  "require_turn_final": {
+    "_reason": "Third audit (results/audit/audit_v2c_to_label.csv): with only the '?' requirement, Direct_question precision was 0.58 (host 0.88, guest 0.31); most remaining false positives were rhetorical or self-answered questions in the middle of a monologue. Requiring the question to be the last sentence of the turn, so the other speaker responds next, raised precision on those labeled hits to 0.88, keeping 15 of 29 true questions.",
+    "strategies": [
+      "Direct_question"
+    ]
+  }
+}

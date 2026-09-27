@@ -6,7 +6,7 @@
 #SBATCH --mem=4G
 #SBATCH --cpus-per-task=1
 #SBATCH --partition=tier3
-#SBATCH --array=339-360   # Adjust to (number of episodes - 1)
+#SBATCH --array=360-420  # Adjust to (number of episodes - 1)
 
 # NOTE: No GPU needed — this script only calls an external API.
 #
@@ -48,7 +48,7 @@ echo "Input file  : ${INPUT_FILE}"
 echo "Output dir  : ${OUTPUT_DIR}"
 echo "Started at  : $(date)"
 
-python src/labeled_transcript_v12.py \
+python src/transcript_creation/labeled_transcript_v12.py \
     --input "${INPUT_FILE}" \
     --out_dir "${OUTPUT_DIR}" \
     --speaker_key speaker 
