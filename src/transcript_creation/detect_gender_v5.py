@@ -20,7 +20,9 @@ Usage:
         --match_threshold 0.70
 
 Optional:
-    --match_threshold 0.80   Cosine similarity threshold for a confident match (default: 0.80)
+    --match_threshold 0.70   Cosine similarity threshold for a confident match (default: 0.70)
+    --margin_floor    0.55   Accept a weaker best match if it clears this floor...
+    --min_margin      0.15   ...and beats the runner-up by at least this much
     --min_confidence  0.60   inaSpeechSegmenter confidence threshold (default: 0.60)
     --speaker_key     speaker_raw  Which key to read speaker ID from in each segment
 """
@@ -212,10 +214,13 @@ def match_speaker(
     embedding: np.ndarray,
     library: List[Dict[str, Any]],
     threshold: float,
+    margin_floor: float,
+    min_margin: float,
 ) -> Optional[Dict[str, Any]]:
     """
     Compare embedding against all library entries.
-    Returns the best match if above threshold, else None.
+    Returns the best match if above threshold, or if it is above margin_floor
+    and beats the runner-up by at least min_margin. Else None.
     """
     scores = []
     for entry in library:
@@ -230,18 +235,30 @@ def match_speaker(
         print(f"    {entry['name']:<20} {score:.4f}{flag}")
 
     best_score, best_entry = scores[0]
+    second_score = scores[1][0] if len(scores) > 1 else 0.0
+    margin = best_score - second_score
 
     if best_score >= threshold:
+        match_rule = "threshold"
+    elif best_score >= margin_floor and margin >= min_margin:
+        match_rule = "margin"
+    else:
+        match_rule = None
+
+    if match_rule:
         return {
             "name": best_entry["name"],
             "gender": best_entry["gender"],
             "similarity": round(best_score, 4),
+            "margin": round(margin, 4),
+            "match_rule": match_rule,
             "source": "library",
             "confidence": 1.0,
-            "needs_review": False,
+            "needs_review": match_rule == "margin",
         }
 
-    print(f"  No library match (best similarity: {best_score:.4f} < threshold {threshold})")
+    print(f"  No library match (best similarity: {best_score:.4f} < threshold {threshold}; "
+          f"margin {margin:.4f} vs floor {margin_floor}/min_margin {min_margin})")
     return None
 
 
@@ -377,6 +394,11 @@ def main():
     ap.add_argument("--speaker_library", required=True, help="Speaker library JSON from build_speaker_library.py")
     ap.add_argument("--match_threshold", type=float, default=0.70,
                     help="Cosine similarity threshold for a library match (default: 0.70)")
+    ap.add_argument("--margin_floor", type=float, default=0.55,
+                    help="Below match_threshold, still match if best similarity >= this "
+                         "and beats runner-up by --min_margin (default: 0.55)")
+    ap.add_argument("--min_margin", type=float, default=0.15,
+                    help="Required gap between best and second-best similarity (default: 0.15)")
     ap.add_argument("--min_confidence", type=float, default=0.60,
                     help="inaSpeechSegmenter confidence threshold (default: 0.60)")
     ap.add_argument("--speaker_key", default=None,
@@ -437,9 +459,11 @@ def main():
 
         if embedding is not None:
             # Try library match first
-            match = match_speaker(embedding, library, args.match_threshold)
+            match = match_speaker(embedding, library, args.match_threshold,
+                                  args.margin_floor, args.min_margin)
             if match:
-                print(f"  Matched: {match['name']} ({match['gender']}) — similarity: {match['similarity']}")
+                print(f"  Matched: {match['name']} ({match['gender']}) — similarity: {match['similarity']}, "
+                      f"margin: {match['margin']}, rule: {match['match_rule']}")
                 speaker_gender[speaker_id] = match
             else:
                 # Fall back to acoustic

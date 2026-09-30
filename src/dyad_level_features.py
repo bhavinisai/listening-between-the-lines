@@ -8,6 +8,7 @@ Output:
     - dyad_median_mad_stats.csv        (robust median/MAD/count per dyad, per metric)
     - dyad_analysis_with_asymmetry.csv (original data + host-vs-guest asymmetry columns)
     - dyad_boxplots.png                (visual check of key metrics across the 4 dyads)
+    - dyad_median_mad_barplot.png      (median +/- MAD bar chart for key metrics, by dyad)
 
 Usage:
     python dyad_level_features.py \
@@ -41,6 +42,13 @@ BOXPLOT_METRICS = [
     "dominance_ratio", "hedge_asymmetry", "booster_asymmetry",
     "polite_asymmetry", "directive_asymmetry", "host_speaking_share",
 ]
+
+BARPLOT_METRICS = [
+    "dominance_ratio", "hedge_asymmetry", "booster_asymmetry",
+    "polite_asymmetry", "directive_asymmetry",
+]
+
+DYAD_ORDER = ["MALE->MALE", "MALE->FEMALE", "FEMALE->MALE", "FEMALE->FEMALE"]
 
 DYAD_ABBREV = {
     "MALE->MALE": "MM",
@@ -112,6 +120,26 @@ def plot_boxplots(df: pd.DataFrame, metrics: list, out_path: str) -> None:
     print(f"Saved boxplots to {out_path}")
 
 
+def plot_median_mad_bars(mad_summary: pd.DataFrame, metrics: list, out_path: str) -> None:
+    """Bar chart of median +/- MAD per dyad, one bar group per metric."""
+    dyad_labels = [DYAD_ABBREV[d] for d in DYAD_ORDER]
+
+    fig, axes = plt.subplots(1, len(metrics), figsize=(4 * len(metrics), 4), sharey=False)
+    axes = axes if len(metrics) > 1 else [axes]
+
+    for ax, metric in zip(axes, metrics):
+        medians = mad_summary.loc[DYAD_ORDER, (metric, "median")]
+        mads = mad_summary.loc[DYAD_ORDER, (metric, "mad")]
+
+        ax.bar(dyad_labels, medians, yerr=mads, capsize=4, color="#4C72B0")
+        ax.set_title(metric)
+        ax.axhline(0, color="black", linewidth=0.8)
+
+    plt.tight_layout()
+    plt.savefig(out_path, dpi=150)
+    print(f"Saved median/MAD bar plot to {out_path}")
+
+
 def main(input_csv: str, outdir: str, figdir: str = None):
     figdir = figdir or outdir
     df = pd.read_csv(input_csv)
@@ -148,6 +176,10 @@ def main(input_csv: str, outdir: str, figdir: str = None):
     # 4. Boxplots for a sanity check before formal testing
     plot_out = f"{figdir}/dyad_boxplots.png"
     plot_boxplots(df, BOXPLOT_METRICS, plot_out)
+
+    # 5. Median +/- MAD bar chart for key metrics, by dyad
+    barplot_out = f"{figdir}/dyad_median_mad_barplot.png"
+    plot_median_mad_bars(mad_summary, BARPLOT_METRICS, barplot_out)
 
 
 if __name__ == "__main__":

@@ -16,4 +16,4 @@ for m in metrics:
     print(f"{m:25s} H={stat:.3f}  p={p:.4f}")
 
 results_df = pd.DataFrame(results)
-results_df.to_csv("/home/sr5868/listening-between-the-lines/results/stat_analysis/kruskal_wallis_results.csv", index=False)
+results_df.to_csv("/home/sr5868/listening-between-the-lines/results/stat_analysis/kruskal_wallis_lexicon_results.csv", index=False)

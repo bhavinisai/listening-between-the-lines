@@ -1,0 +1,13 @@
+quantity,value
+host (show) variance,1.8454139230591834e-11
+residual (episode) variance,0.00867527813589385
+ICC (share of residual+host variance due to host),2.1272100908191337e-09
+R2 marginal (fixed effects),0.07898904471582996
+R2 conditional (fixed + host),0.07898904667501375
+LRT host random effect: chi2,-4.8134779717656784e-08
+LRT host random effect: p (boundary-corrected),0.5
+singular fit (host variance < 1e-6),1.0
+LRT interaction: chi2,0.6223163201925672
+LRT interaction: p,0.4301878271421159
+episodes,389.0
+hosts,9.0

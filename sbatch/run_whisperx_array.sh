@@ -7,7 +7,7 @@
 #SBATCH --job-name=whisperx
 #SBATCH --output=logs/whisperx_%A_%a.out
 #SBATCH --error=logs/whisperx_%A_%a.err
-#SBATCH --array=340-360
+#SBATCH --array=385-416
 
 set -euo pipefail
 
@@ -33,7 +33,7 @@ echo "Processing: $AUDIO_FILE"
 echo "Output stem: $STEM"
 echo "Running on host: $(hostname)"
 
-python src/diarizze_whisperx_gpu.py "$AUDIO_FILE" \
+python src/transcript_creation/diarizze_whisperx_gpu.py "$AUDIO_FILE" \
   --output_dir data/outputs/whisperx \
   --model large-v2 \
   --batch_size 16 \
