@@ -22,7 +22,7 @@ what this script reports.
 
 Usage:
     python src/topic_control_embeddings_check.py \
-        --episodes results/features/balanced_200_episodes.csv \
+        --episodes results/features/all_episodes.csv \
         --transcript_dir data/outputs/whisperx \
         --out_dir results
 """
@@ -82,7 +82,7 @@ def process_episode(episode_id, transcript_path, embeddings_by_text):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--episodes", default="results/features/balanced_200_episodes.csv")
+    ap.add_argument("--episodes", default="results/features/all_episodes.csv")
     ap.add_argument("--transcript_dir", default="data/outputs/whisperx")
     ap.add_argument("--out_dir", default="results")
     args = ap.parse_args()

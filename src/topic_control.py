@@ -14,8 +14,8 @@ We then test whether male speakers' topic introductions are followed up more
 than female speakers' in mixed-gender dyads (MALE->FEMALE / FEMALE->MALE).
 
 IMPORTANT: turn-pairs within the same episode are not independent observations
--- one chatty episode can contribute hundreds of pairs out of the ~100
-episodes per gender in this dataset. Naive tests that ignore this (chi-square,
+-- one chatty episode can contribute hundreds of pairs out of the ~130
+mixed-gender episodes in this dataset. Naive tests that ignore this (chi-square,
 Welch's t-test) badly overstate significance, so this script reports those
 only as descriptive references and uses episode-aware tests for inference:
   1. Chi-square / Welch's t-test on the raw/binarized outcome (NAIVE, kept
@@ -32,12 +32,13 @@ only as descriptive references and uses episode-aware tests for inference:
      it is not the test of record.
   5. Episode-level paired t-test, Wilcoxon signed-rank, and a sign-flip
      permutation test, all model-free confirmations comparing male vs. female
-     follow-up within the same ~100 episodes.
+     follow-up within the same ~130 mixed-gender episodes.
   6. A robustness check re-running the follow-up rate at a few fixed
      thresholds, to confirm the result isn't an artifact of one cutoff.
 
 Input:
-    - results/features/balanced_200_episodes.csv (episode_id, host_gender, guest_gender, dyad)
+    - results/features/all_episodes.csv (episode_id, host_gender, guest_gender, dyad;
+      every episode, built by all_episodes_dataset.py)
     - data/outputs/whisperx/{episode_id}.txt
       (diarized transcript, same "[start - end] SPEAKER (gender, ROLE): text"
       format parsed by interruption_matrix.py)
@@ -46,6 +47,9 @@ Output:
     - results/topic_control_turns.csv    (one row per initiation -> response pair)
     - results/topic_control_summary.csv  (follow-up rate by initiator gender,
                                            mixed-gender dyads only)
+    - results/topic_control_dyad_role_summary.csv
+                                          (descriptive: episode-averaged follow-up
+                                           rate by dyad x initiator role, all dyads)
     - results/topic_control_stats.csv    (naive reference tests, mixed-effects/
                                            GEE/GLMM regressions, paired episode-
                                            level tests, and robustness checks)
@@ -65,7 +69,7 @@ initiation or a follow-up response.
 
 Usage:
     python src/topic_control.py \
-        --episodes results/features/balanced_200_episodes.csv \
+        --episodes results/features/all_episodes.csv \
         --transcript_dir data/outputs/whisperx \
         --out_dir results
 """
@@ -288,7 +292,7 @@ def process_episode(episode_id, transcript_path, followup_threshold_mode, init_t
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--episodes", default="results/features/balanced_200_episodes.csv")
+    ap.add_argument("--episodes", default="results/features/all_episodes.csv")
     ap.add_argument("--transcript_dir", default="data/outputs/whisperx")
     ap.add_argument("--out_dir", default="results")
     ap.add_argument(
@@ -346,11 +350,30 @@ def main():
         return
 
     turns_df = pd.DataFrame(all_pairs)
-    turns_df.to_csv(turns_path, index=False)
-    print(f"[OK] Wrote {len(turns_df)} initiation -> response pairs to {turns_path}")
-
     dyads = episodes.set_index("episode_id")["dyad"]
     turns_df["dyad"] = turns_df["episode_id"].map(dyads)
+    turns_df.to_csv(turns_path, index=False)
+    print(f"[OK] Wrote {len(turns_df)} initiation -> response pairs from "
+          f"{turns_df['episode_id'].nunique()} episodes to {turns_path}")
+
+    # --- Descriptive context across all four dyads: episode-averaged
+    #     follow-up rate by dyad x initiator role. Not a test -- same-gender
+    #     dyads have no within-episode gender contrast -- but it shows how
+    #     much of the follow-up pattern is role vs. gender.
+    dyad_role = (
+        turns_df.groupby(["dyad", "initiator_role", "episode_id"])["followed_up"].mean()
+        .groupby(["dyad", "initiator_role"])
+        .agg(mean_episode_followup_rate="mean", sd="std", n_episodes="count")
+        .reset_index()
+    )
+    dyad_role = dyad_role.merge(
+        turns_df.groupby(["dyad", "initiator_role"]).size().rename("n_pairs").reset_index(),
+        on=["dyad", "initiator_role"],
+    )
+    dyad_role_path = os.path.join(args.out_dir, "topic_control_dyad_role_summary.csv")
+    dyad_role.to_csv(dyad_role_path, index=False)
+    print(f"[OK] Wrote dyad x role summary to {dyad_role_path}")
+
     mixed = turns_df[turns_df["dyad"].isin(["MALE->FEMALE", "FEMALE->MALE"])].copy()
 
     if mixed.empty:
@@ -375,7 +398,7 @@ def main():
 
     # 1. Chi-square: is the binary follow-up outcome independent of initiator gender?
     #    NAIVE reference only -- treats every turn-pair as an independent draw,
-    #    when really they're clustered within ~100 episodes per gender (one
+    #    when really they're clustered within ~130 mixed-gender episodes (one
     #    episode can contribute hundreds of pairs). This overstates significance;
     #    see lpm_followedup_is_male_initiator below for the clustered equivalent.
     contingency = pd.crosstab(mixed["initiator_gender"], mixed["followed_up"])
@@ -507,7 +530,7 @@ def main():
     #     mean similarity per (episode, initiator_gender), then compare male
     #     vs. female within each episode. Model-free confirmation that the
     #     gap isn't an artifact of any of the models above -- n here is
-    #     genuinely ~100 episodes, not ~6,000 turn-pairs. The permutation test
+    #     genuinely ~130 episodes, not ~15,000 turn-pairs. The permutation test
     #     adds a second, assumption-free check: it randomly relabels which
     #     side of each episode's pair counts as "male" vs. "female" thousands
     #     of times to build a null distribution for the paired mean difference,
