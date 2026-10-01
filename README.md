@@ -42,9 +42,10 @@ listening-between-the-lines/
 │   └── compare_audio.py            # Audio property comparison utility
 │
 ├── sbatch/                         # SLURM batch job scripts
-│   ├── run_whisperx_array.sbatch
-│   ├── run_detect_gender_array.sbatch
-│   └── run_host_guest_labeling.sbatch
+│   └── transcript_creation/
+│       ├── run_whisperx_array.sh
+│       ├── run_detect_gender_array.sbatch
+│       └── run_host_guest_labeling.sbatch
 │
 ├── logs/                           # SLURM job logs
 ├── episode_list.txt            # YouTube URLs for batch download
@@ -177,7 +178,7 @@ python src/diarizze_whisperx_gpu.py data/raw_audio/ep_001.wav \
 
 **SLURM batch:**
 ```bash
-sbatch sbatch/run_whisperx_array.sbatch
+sbatch sbatch/transcript_creation/run_whisperx_array.sh
 ```
 
 ---
@@ -219,7 +220,7 @@ python src/detect_gender_v4.py \
 
 **SLURM batch:**
 ```bash
-sbatch sbatch/run_detect_gender_array.sbatch
+sbatch sbatch/transcript_creation/run_detect_gender_array.sbatch
 ```
 
 ---
@@ -235,8 +236,8 @@ python src/labeled_transcript_v12.py \
 
 **SLURM batch with dependency on gender detection:**
 ```bash
-GENDER_JOB=$(sbatch sbatch/run_detect_gender_array.sbatch | awk '{print $4}')
-sbatch --dependency=afterok:$GENDER_JOB sbatch/run_host_guest_labeling.sbatch
+GENDER_JOB=$(sbatch sbatch/transcript_creation/run_detect_gender_array.sbatch | awk '{print $4}')
+sbatch --dependency=afterok:$GENDER_JOB sbatch/transcript_creation/run_host_guest_labeling.sbatch
 ```
 
 ---

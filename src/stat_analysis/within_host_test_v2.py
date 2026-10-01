@@ -31,7 +31,7 @@ import sys
 import numpy as np
 import pandas as pd
 
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "conversational_style"))
 from dyad_analysis_v2 import metric_list  # noqa: E402
 from fdr import bh_fdr  # noqa: E402
 
@@ -73,7 +73,7 @@ def within_host_guest_gender(df, metrics, n_perm, seed):
 def main():
     ap = argparse.ArgumentParser(description="Guest-gender effect within host for v2 metrics")
     ap.add_argument("--input", default="results/dyads/dyad_analysis_v2.csv")
-    ap.add_argument("--out", default="results/stat_analysis/within_host_guest_gender_v2.csv")
+    ap.add_argument("--out", default="results/stat_analysis/conversational_style/within_host_guest_gender_v2.csv")
     ap.add_argument("--alpha", type=float, default=0.05)
     ap.add_argument("--n_perm", type=int, default=10000)
     ap.add_argument("--seed", type=int, default=42)

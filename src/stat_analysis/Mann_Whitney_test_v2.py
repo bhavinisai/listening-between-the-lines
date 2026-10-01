@@ -21,7 +21,7 @@ from itertools import combinations
 import pandas as pd
 from scipy.stats import mannwhitneyu
 
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "conversational_style"))
 from dyad_analysis_v2 import DYAD_ORDER  # noqa: E402
 from fdr import bh_fdr  # noqa: E402
 
@@ -29,9 +29,9 @@ from fdr import bh_fdr  # noqa: E402
 def main():
     ap = argparse.ArgumentParser(description="Pairwise Mann-Whitney between dyads for v2 metrics")
     ap.add_argument("--input", default="results/dyads/dyad_analysis_v2.csv")
-    ap.add_argument("--kruskal", default="results/stat_analysis/kruskal_wallis_v2_results.csv",
+    ap.add_argument("--kruskal", default="results/stat_analysis/conversational_style/kruskal_wallis_v2_results.csv",
                     help="Output of kruskal_wallis_test_v2.py; only its significant metrics are tested")
-    ap.add_argument("--out", default="results/stat_analysis/pairwise_dyad_tests_v2.csv")
+    ap.add_argument("--out", default="results/stat_analysis/conversational_style/pairwise_dyad_tests_v2.csv")
     ap.add_argument("--alpha", type=float, default=0.05)
     args = ap.parse_args()
 

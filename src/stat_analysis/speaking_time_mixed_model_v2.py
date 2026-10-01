@@ -3,7 +3,7 @@
 speaking_time_mixed_model_v2.py
 
 Linear mixed-effects model of the host's share of speaking time
-(results/dyads/speaking_time_dyads_v2.csv, from src/speaking_time_v2.py):
+(results/dyads/speaking_time_dyads_v2.csv, from src/speaking_time/speaking_time_v2.py):
 
     host_time_share ~ host_female * guest_female + (1 | host)
 
@@ -54,7 +54,7 @@ import statsmodels.formula.api as smf
 from scipy import stats
 from statsmodels.stats.multitest import multipletests
 
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "conversational_style"))
 from dyad_analysis_v2 import DYAD_ORDER  # noqa: E402
 from within_host_test_v2 import within_host_guest_gender  # noqa: E402
 
@@ -257,8 +257,8 @@ def main():
     ap = argparse.ArgumentParser(description="Mixed model of host speaking-time share")
     ap.add_argument("--input", default="results/dyads/speaking_time_dyads_v2.csv")
     ap.add_argument("--balanced", default="results/features/balanced_200_episodes.csv")
-    ap.add_argument("--out_prefix", default="results/stat_analysis/speaking_time_mixed_model_v2")
-    ap.add_argument("--fig_dir", default="results/figures")
+    ap.add_argument("--out_prefix", default="results/stat_analysis/speaking_time/speaking_time_mixed_model_v2")
+    ap.add_argument("--fig_dir", default="results/figures/speaking_time")
     args = ap.parse_args()
 
     d = prep(pd.read_csv(args.input))

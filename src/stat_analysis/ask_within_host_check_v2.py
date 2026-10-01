@@ -80,7 +80,7 @@ def main():
     ap = argparse.ArgumentParser(description="Check the direct-question result with the dialogue-act ask label")
     ap.add_argument("--labels", default="results/dialogue_acts/all_418/dialogue_act_labels.csv")
     ap.add_argument("--dyads", default="results/dyads/dyad_analysis_v2.csv")
-    ap.add_argument("--out_prefix", default="results/stat_analysis/ask_within_host_check_v2")
+    ap.add_argument("--out_prefix", default="results/stat_analysis/dialogue_act/ask_within_host_check_v2")
     ap.add_argument("--n_perm", type=int, default=10000)
     ap.add_argument("--seed", type=int, default=42)
     args = ap.parse_args()

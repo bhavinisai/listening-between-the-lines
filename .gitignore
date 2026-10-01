@@ -9,6 +9,7 @@ data/outputs/whisperx/
 .DS_Store
 data/.DS_Store
 results/dialogue_acts
+results/_archive/v1/dialogue_acts
 __pycache__/
 *.py[cod]
 models/
