@@ -18,8 +18,8 @@ conda activate py311
 # compute nodes here don't, so force the HF cache to be used as-is.
 export HF_HUB_OFFLINE=1
 
-python src/finetune_question_type_xlmr.py \
-    --labeled_csv results/question_type_seed_labeled.csv \
+python src/question_type_analysis/finetune_question_type_xlmr.py \
+    --labeled_csv results/question_type_analysis/question_type_seed_labeled.csv \
     --out_dir models/xlmr_question_type \
     --epochs 6 \
     --batch_size 16 \

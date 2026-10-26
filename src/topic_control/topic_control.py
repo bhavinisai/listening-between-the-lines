@@ -44,13 +44,13 @@ Input:
       format parsed by interruption_matrix.py)
 
 Output:
-    - results/topic_control_turns.csv    (one row per initiation -> response pair)
-    - results/topic_control_summary.csv  (follow-up rate by initiator gender,
+    - results/topic_control/topic_control_turns.csv    (one row per initiation -> response pair)
+    - results/topic_control/topic_control_summary.csv  (follow-up rate by initiator gender,
                                            mixed-gender dyads only)
-    - results/topic_control_dyad_role_summary.csv
+    - results/topic_control/topic_control_dyad_role_summary.csv
                                           (descriptive: episode-averaged follow-up
                                            rate by dyad x initiator role, all dyads)
-    - results/topic_control_stats.csv    (naive reference tests, mixed-effects/
+    - results/topic_control/topic_control_stats.csv    (naive reference tests, mixed-effects/
                                            GEE/GLMM regressions, paired episode-
                                            level tests, and robustness checks)
 
@@ -68,10 +68,10 @@ sequence before pairing, so a filler reply never counts as either a topic
 initiation or a follow-up response.
 
 Usage:
-    python src/topic_control.py \
+    python src/topic_control/topic_control.py \
         --episodes results/features/all_episodes.csv \
         --transcript_dir data/outputs/whisperx \
-        --out_dir results
+        --out_dir results/topic_control
 """
 
 import argparse
@@ -89,6 +89,8 @@ import statsmodels.formula.api as smf
 from statsmodels.genmod.bayes_mixed_glm import BinomialBayesMixedGLM
 from statsmodels.regression.mixed_linear_model import MixedLM
 
+import sys
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "others", "v1"))
 from interruption_matrix import Turn, is_backchannel, ts_to_seconds
 
 WORD_RE = re.compile(r"[A-Za-z']+")
@@ -294,7 +296,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--episodes", default="results/features/all_episodes.csv")
     ap.add_argument("--transcript_dir", default="data/outputs/whisperx")
-    ap.add_argument("--out_dir", default="results")
+    ap.add_argument("--out_dir", default="results/topic_control")
     ap.add_argument(
         "--threshold", default="episode_median",
         help="Follow-up cutoff on outgoing similarity: 'episode_median' (default) "

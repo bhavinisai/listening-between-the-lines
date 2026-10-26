@@ -9,9 +9,9 @@ guest-asked questions across all four dyads roughly proportionally to their
 share of the full extracted set, and dedupes on exact text first so the same
 recurring line ("What do you mean by that?") isn't labeled/counted twice.
 
-Input:  results/question_classification.csv (from
-        `python src/question_type_analysis.py --extract_only`)
-Output: results/question_type_llm_seed_sample.csv
+Input:  results/question_type_analysis/question_classification.csv (from
+        `python src/question_type_analysis/question_type_analysis.py --extract_only`)
+Output: results/question_type_analysis/question_type_llm_seed_sample.csv
         (question_id, text, dyad, asker_role, asker_gender, episode_id)
 """
 
@@ -24,8 +24,8 @@ import pandas as pd
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--input", default="results/question_classification.csv")
-    ap.add_argument("--out", default="results/question_type_llm_seed_sample.csv")
+    ap.add_argument("--input", default="results/question_type_analysis/question_classification.csv")
+    ap.add_argument("--out", default="results/question_type_analysis/question_type_llm_seed_sample.csv")
     ap.add_argument("--n_total", type=int, default=1280)
     ap.add_argument("--seed", type=int, default=42)
     args = ap.parse_args()

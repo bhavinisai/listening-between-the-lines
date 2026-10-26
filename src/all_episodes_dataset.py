@@ -3,8 +3,7 @@ import pandas as pd
 # Same host/guest gender + dyad labeling as balanced_dataset.py, but keeps
 # every episode instead of sampling 50 per dyad. Episodes whose guest gender
 # could not be detected keep their label (e.g. MALE->UNKNOWN) so the file
-# covers all transcripts; downstream scripts filter to the dyads they need.
-
+# covers all transcripts; downstream scripts filter to the dyads they need.gi
 df = pd.read_csv("results/features/speaker_features.csv")
 df = df[df["role"].isin(["HOST", "GUEST"])].copy()
 

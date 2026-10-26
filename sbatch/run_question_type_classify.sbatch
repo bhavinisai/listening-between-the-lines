@@ -5,9 +5,9 @@
 #SBATCH --gres=gpu:a100:1
 #SBATCH --mem=16G
 #SBATCH --cpus-per-task=4
-#SBATCH --time=01:00:00
-#SBATCH --output=logs/qtype_classify_%j.out
-#SBATCH --error=logs/qtype_classify_%j.err
+#SBATCH --time=02:00:00
+#SBATCH --output=logs/qtype_classify_all418_%j.out
+#SBATCH --error=logs/qtype_classify_all418_%j.err
 
 mkdir -p logs
 
@@ -16,11 +16,11 @@ conda activate py311
 
 export HF_HUB_OFFLINE=1
 
-python src/question_type_analysis.py \
-    --episodes results/features/balanced_200_episodes.csv \
+python src/question_type_analysis/question_type_analysis.py \
+    --episodes results/features/all_episodes.csv \
     --transcript_dir data/outputs/whisperx \
     --model_path models/xlmr_question_type \
-    --out_dir results \
+    --out_dir results/question_type_analysis \
     --device cuda \
     --batch_size 64
 

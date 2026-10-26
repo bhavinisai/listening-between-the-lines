@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-Merge the per-chunk LLM-produced labels (results/llm_label_chunks/labels_*.csv,
-question_id,label) back onto the seed sample (results/question_type_llm_seed_sample.csv)
+Merge the per-chunk LLM-produced labels (results/question_type_analysis/llm_label_chunks/labels_*.csv,
+question_id,label) back onto the seed sample (results/question_type_analysis/question_type_llm_seed_sample.csv)
 into the training file finetune_question_type_xlmr.py expects.
 
-Output: results/question_type_seed_labeled.csv (question_id, text, label, dyad,
+Output: results/question_type_analysis/question_type_seed_labeled.csv (question_id, text, label, dyad,
 asker_role, asker_gender, episode_id)
 """
 
@@ -19,9 +19,9 @@ CLASS_LABELS = ["closed", "open", "leading", "personal", "professional", "challe
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--sample", default="results/question_type_llm_seed_sample.csv")
-    ap.add_argument("--label_glob", default="results/llm_label_chunks/labels_*.csv")
-    ap.add_argument("--out", default="results/question_type_seed_labeled.csv")
+    ap.add_argument("--sample", default="results/question_type_analysis/question_type_llm_seed_sample.csv")
+    ap.add_argument("--label_glob", default="results/question_type_analysis/llm_label_chunks/labels_*.csv")
+    ap.add_argument("--out", default="results/question_type_analysis/question_type_seed_labeled.csv")
     args = ap.parse_args()
 
     sample = pd.read_csv(args.sample)

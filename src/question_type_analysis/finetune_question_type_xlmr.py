@@ -6,8 +6,8 @@ that question_type_analysis.py loads via --model_path.
 Training data:
     An LLM-labeled seed set built from a stratified sample of the questions
     already extracted by `question_type_analysis.py --extract_only`
-    (results/question_classification.csv -> results/question_type_llm_seed_sample.csv,
-    labeled and merged into results/question_type_seed_labeled.csv with columns
+    (results/question_type_analysis/question_classification.csv -> results/question_type_analysis/question_type_llm_seed_sample.csv,
+    labeled and merged into results/question_type_analysis/question_type_seed_labeled.csv with columns
     question_id, text, label). See documentation/question_type_labeling.md for
     how the seed labels were produced (LLM-labeled, not hand-annotated) --
     this is a methodological choice that should be disclosed in the writeup.
@@ -16,8 +16,8 @@ Labels (must match CLASS_LABELS in question_type_analysis.py):
     closed, open, leading, personal, professional, challenge
 
 Usage:
-    python src/finetune_question_type_xlmr.py \
-        --labeled_csv results/question_type_seed_labeled.csv \
+    python src/question_type_analysis/finetune_question_type_xlmr.py \
+        --labeled_csv results/question_type_analysis/question_type_seed_labeled.csv \
         --out_dir models/xlmr_question_type \
         --epochs 6
 """
@@ -35,7 +35,7 @@ CLASS_LABELS = ["closed", "open", "leading", "personal", "professional", "challe
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--labeled_csv", default="results/question_type_seed_labeled.csv")
+    ap.add_argument("--labeled_csv", default="results/question_type_analysis/question_type_seed_labeled.csv")
     ap.add_argument("--base_model", default="xlm-roberta-base")
     ap.add_argument("--out_dir", default="models/xlmr_question_type")
     ap.add_argument("--val_size", type=float, default=0.15)

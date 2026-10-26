@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
 Figures for the topic-control analysis (topic_control.py): one plot per
-image, minimal text. Reads results/topic_control_turns.csv,
-results/topic_control_stats.csv and (if present)
-results/topic_control_embeddings_turns.csv; writes PNG (300dpi) to
-results/figures/.
+image, minimal text. Reads results/topic_control/topic_control_turns.csv,
+results/topic_control/topic_control_stats.csv and (if present)
+results/topic_control/topic_control_embeddings_turns.csv; writes PNG (300dpi) to
+results/figures/topic_control/.
 
     fig1a  follow-up rate by initiator gender, pooled turn-pairs
     fig1b  follow-up rate by initiator gender, per episode (paired)
@@ -17,7 +17,7 @@ results/figures/.
     fig6   male - female gap, TF-IDF vs. sentence embeddings
 
 Usage:
-    python src/make_topic_control_figures.py
+    python src/topic_control/make_topic_control_figures.py
 """
 
 import os
@@ -27,9 +27,9 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-RESULTS = os.path.join(REPO, "results")
-OUT_DIR = os.path.join(RESULTS, "figures")
+REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+RESULTS = os.path.join(REPO, "results", "topic_control")
+OUT_DIR = os.path.join(REPO, "results", "figures", "topic_control")
 os.makedirs(OUT_DIR, exist_ok=True)
 
 # Colorblind-safe categorical pairs: adjacent slots 1-2 (gender) and 3-4

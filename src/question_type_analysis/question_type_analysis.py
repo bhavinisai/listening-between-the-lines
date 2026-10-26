@@ -47,15 +47,15 @@ Classifier:
     `pip install torch transformers sentencepiece` before running.
 
 Input:
-    - results/balanced_200_episodes.csv (episode_id, host_gender, guest_gender, dyad)
+    - results/features/all_episodes.csv (episode_id, host_gender, guest_gender, dyad)
     - data/outputs/whisperx/{episode_id}.txt (diarized transcript)
 
 Output:
-    - results/question_classification.csv  (one row per extracted question, all
+    - results/question_type_analysis/question_classification.csv  (one row per extracted question, all
                                               asker roles; includes the "dyad" column)
-    - results/question_type_by_dyad.csv     (type x dyad counts/proportions across
+    - results/question_type_analysis/question_type_by_dyad.csv     (type x dyad counts/proportions across
                                               all 4 dyads, HOST-asked questions only)
-    - results/question_type_stats.csv       (omnibus chi-square on type x dyad,
+    - results/question_type_analysis/question_type_stats.csv       (omnibus chi-square on type x dyad,
                                               per-type chi-square vs dyad with
                                               Bonferroni correction, and a
                                               linear-probability regression per
@@ -66,14 +66,14 @@ Output:
 
 Usage:
     # 1. Sanity-check extraction without needing a model/GPU:
-    python src/question_type_analysis.py --extract_only
+    python src/question_type_analysis/question_type_analysis.py --extract_only
 
     # 2. Full run once you have a fine-tuned checkpoint:
-    python src/question_type_analysis.py \
-        --episodes results/balanced_200_episodes.csv \
+    python src/question_type_analysis/question_type_analysis.py \
+        --episodes results/features/all_episodes.csv \
         --transcript_dir data/outputs/whisperx \
         --model_path /path/to/finetuned-xlmr-question-type \
-        --out_dir results
+        --out_dir results/question_type_analysis
 """
 
 import argparse
@@ -84,6 +84,8 @@ import numpy as np
 import pandas as pd
 from scipy import stats
 
+import sys
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "topic_control"))
 from topic_control import parse_file, merge_consecutive_same_speaker
 
 CLASS_LABELS = ["closed", "open", "leading", "personal", "professional", "challenge"]
@@ -215,9 +217,9 @@ def ols_with_stats(X, y):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--episodes", default="results/balanced_200_episodes.csv")
+    ap.add_argument("--episodes", default="results/features/all_episodes.csv")
     ap.add_argument("--transcript_dir", default="data/outputs/whisperx")
-    ap.add_argument("--out_dir", default="results")
+    ap.add_argument("--out_dir", default="results/question_type_analysis")
     ap.add_argument(
         "--model_path", default=None,
         help="Path or HF Hub id of the fine-tuned XLM-R sequence-classification "
@@ -234,7 +236,7 @@ def main():
     ap.add_argument(
         "--extract_only", action="store_true",
         help="Only run question extraction (no classifier needed) and write "
-             "results/question_classification.csv with predicted_type left blank. "
+             "results/question_type_analysis/question_classification.csv with predicted_type left blank. "
              "Useful for sanity-checking extraction before a checkpoint is ready.",
     )
     args = ap.parse_args()

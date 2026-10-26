@@ -21,10 +21,10 @@ point against topic_control.py's paired_ttest_episode_* results, so that's
 what this script reports.
 
 Usage:
-    python src/topic_control_embeddings_check.py \
+    python src/topic_control/topic_control_embeddings_check.py \
         --episodes results/features/all_episodes.csv \
         --transcript_dir data/outputs/whisperx \
-        --out_dir results
+        --out_dir results/topic_control
 """
 
 import argparse
@@ -35,6 +35,8 @@ import pandas as pd
 from scipy import stats
 from sentence_transformers import SentenceTransformer
 
+import sys
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "others", "v1"))
 from interruption_matrix import is_backchannel
 from topic_control import parse_file, merge_consecutive_same_speaker, find_next_response
 
@@ -84,7 +86,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--episodes", default="results/features/all_episodes.csv")
     ap.add_argument("--transcript_dir", default="data/outputs/whisperx")
-    ap.add_argument("--out_dir", default="results")
+    ap.add_argument("--out_dir", default="results/topic_control")
     args = ap.parse_args()
 
     episodes = pd.read_csv(args.episodes)
