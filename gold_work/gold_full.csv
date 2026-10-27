@@ -1,0 +1,121 @@
+asker_speaker,asker_role,asker_gender,start,end,text,episode_id,dyad,host_gender,guest_gender,predicted_type,confidence,gold_id
+Raj Shamani,HOST,male,138.888,234.546,"Tell me, in simple words, what do you do?",ep_243_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,professional,0.2777726948261261,g000
+Karishma Mehta,HOST,female,3760.567,3768.335,Anything else that you are passionate about?,ep_348_whisperx_diarized.gender.host_guest,FEMALE->MALE,female,male,personal,0.3899756073951721,g001
+Raj Shamani,HOST,male,2048.523,2060.887,"So do you think, if you look at history and if you pick up facts, do you think that the small states that we had, their development was very fast?",ep_178_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,challenge,0.2551766633987427,g002
+Raj Shamani,HOST,male,3153.202,3158.146,And how much do you get in the top?,ep_273_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,professional,0.4719064831733703,g003
+Nikhil Kamath,HOST,male,1685.583,1702.769,"When I land on a Netflix screen, the homepage, and you're watching me land there, what's the win for you and what is the loss for you?",ep_096_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,professional,0.4208306670188904,g004
+Raj Shamani,HOST,male,1633.06,1697.623,Do you think this was not there before?,ep_221_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,challenge,0.2701204419136047,g005
+Raj Shamani,HOST,male,2778.349,2790.416,"And he was telling, right?",ep_237_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,leading,0.9752544164657592,g006
+Prakhar Gupta,HOST,male,5254.352,5260.4,And does this translate to say playing mafia or playing poker for you?,ep_393_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,closed,0.3344158232212066,g007
+Pooja Dhingra,HOST,female,2066.581,2068.602,What is it about these trends that you don't like?,ep_364_whisperx_diarized.gender.host_guest,FEMALE->FEMALE,female,female,professional,0.4631665647029876,g008
+Raj Shamani,HOST,male,1950.253,1999.133,How will someone do it 2-3 times a week in such a busy lifestyle?,ep_224_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,challenge,0.2827240228652954,g009
+SPEAKER_00,HOST,female,3390.649,3425.472,Is there a gap there that there's no accountability for when someone makes a mistake?,ep_322_whisperx_diarized.gender.host_guest,FEMALE->MALE,female,male,professional,0.2748050689697265,g010
+Raj Shamani,HOST,male,6377.833,6395.404,"But nothing will happen, you just throw up, you can't digest it, then?",ep_207_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,leading,0.9102398157119752,g011
+Karishma Mehta,HOST,female,2399.443,2411.81,How do you identify what is a toxic relationship?,ep_137_whisperx_diarized.gender.host_guest,FEMALE->FEMALE,female,female,professional,0.3755823671817779,g012
+Nikhil Kamath,HOST,male,697.484,732.038,What did Paul see in you?,ep_005_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,personal,0.5112072825431824,g013
+Ranveer A,HOST,male,3630.359,3648.687,"Horses are on another level, I think, right?",ep_042_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,leading,0.9772642850875854,g014
+Samdish Bhatia,HOST,male,1272.593,1278.317,Because you didn't want people to know that you can smoke or you do smoke?,ep_413_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,challenge,0.3582459390163421,g015
+Faye Dsouza,HOST,female,267.743,269.424,How sad is Indian comedy actually?,ep_114_whisperx_diarized.gender.host_guest,FEMALE->MALE,female,male,leading,0.5404945611953735,g016
+Ranveer A,HOST,male,6963.64,6968.724,Bigg Boss ke ghar ke andar aap bahut kuch seekh to?,ep_093_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,personal,0.6011371612548828,g017
+Raj Shamani,HOST,male,236.85,277.478,What did you guys do right?,ep_171_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,leading,0.911462903022766,g018
+Ranveer A,HOST,male,1211.583,1227.945,"How has he processed, you know, this full roller coaster life?",ep_041_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,challenge,0.4269848167896271,g019
+Raj Shamani,HOST,male,2106.542,2110.807,How do they know half of the time partner is sometimes maybe faking it or sometimes telling it on their faces?,ep_192_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,challenge,0.3831045627593994,g020
+Raj Shamani,HOST,male,4626.089,4630.012,"Tell me, how is a heart transplant done?",ep_238_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,professional,0.3091856837272644,g021
+Raj Shamani,HOST,male,746.405,763.471,"So if someone takes Ozempic or Monjaro, and he thinks that magically he'll lose 4-5 kilos per month, and he's just taking medicine, he's not training in the gym, he's not lifting weights, he's not eating properly, what will happen to him?",ep_232_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,leading,0.4055140614509582,g022
+Prakhar Gupta,HOST,male,80.419,263.592,"So when he was leading him, what type of concerns were there and what type of conversations were there?",ep_394_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,professional,0.3351848423480987,g023
+Raj Shamani,HOST,male,3525.456,3530.0,Which part of me evolved the most?,ep_278_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,personal,0.6039936542510986,g024
+Ranveer A,HOST,male,1093.766,1101.331,"The second question is, if police were safe and family was safe, So, who had suffered the most in this phase?",ep_108_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,open,0.3985631763935089,g025
+Raj Shamani,HOST,male,550.863,580.672,What is Atomic Precision Mixer?,ep_272_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,closed,0.4397485554218292,g026
+Samdish Bhatia,HOST,male,3398.282,3411.412,"Tell me, who is your favorite poet?",ep_406_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,personal,0.5940629243850708,g027
+Raj Shamani,HOST,male,3709.336,3734.757,"If you had to put If you have to tell every YouTuber, every YouTuber around the planet, okay, to ask themselves three questions before they make a video or even start thinking about a video, what would be those three questions?",ep_269_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,professional,0.5728087425231934,g028
+Nikhil Kamath,HOST,male,384.214,398.323,Can I digress and ask a question?,ep_006_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,closed,0.5563231110572815,g029
+Karishma Mehta,HOST,female,1987.489,2009.386,took the decision of having a child at 37 you know when there's so much pressure it's what a stereotypical strong woman is but do you think that our society is accept strong women like that like are they threatening?,ep_352_whisperx_diarized.gender.host_guest,FEMALE->FEMALE,female,female,challenge,0.3381715714931488,g030
+Raj Shamani,HOST,male,6533.109,6541.593,Who were they?,ep_154_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,open,0.6361259818077087,g031
+Ranveer A,HOST,male,2235.658,2249.65,What has the former PM done to piss you off that much?,ep_038_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,challenge,0.5575533509254456,g032
+Nikhil Kamath,HOST,male,4826.313,4839.906,Most of your traction at that level?,ep_096_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,personal,0.6302423477172852,g033
+Raj Shamani,HOST,male,4207.044,4242.696,Can you change someone's body language or someone's intensity by sitting in front of them without speaking?,ep_216_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,personal,0.2050359100103378,g034
+Raj Shamani,HOST,male,4951.186,4968.16,"And if I don't want that narcissist boss, how do I switch and get away from him?",ep_246_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,open,0.3813385963439941,g035
+Ranveer A,HOST,male,274.127,274.687,Which means what?,ep_097_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,open,0.5772902965545654,g036
+Prakhar Gupta,HOST,male,2677.282,2691.398,"He's done a certification for five dives or whatever it takes, right?",ep_373_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,leading,0.973124086856842,g037
+Ranveer A,HOST,male,2229.403,2231.643,"What's more important for you, career or love?",ep_112_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,personal,0.6111995577812195,g038
+Ranveer A,HOST,male,4694.616,4696.517,"Like ethnically, where is your father from?",ep_085_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,personal,0.5692211389541626,g039
+Karishma Mehta,HOST,female,2193.686,2211.935,"So let's talk about the community aspect that we were discussing earlier, right?",ep_299_whisperx_diarized.gender.host_guest,FEMALE->MALE,female,male,leading,0.9786423444747924,g040
+Karishma Mehta,HOST,female,1098.162,1105.305,What about the multiverse and virtual reality?,ep_318_whisperx_diarized.gender.host_guest,FEMALE->MALE,female,male,open,0.5984710454940796,g041
+Ranveer A,HOST,male,232.751,233.852,Every time you watch a new piece?,ep_065_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,personal,0.4754625260829925,g042
+Raj Shamani,HOST,male,2879.76,2913.541,What is the problem if I use my phone in the bathroom?,ep_224_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,open,0.5041088461875916,g043
+SPEAKER_00,HOST,female,4035.378,4050.971,"It was, did you have to train a lot?",ep_329_whisperx_diarized.gender.host_guest,FEMALE->FEMALE,female,female,closed,0.5040251016616821,g044
+Raj Shamani,HOST,male,3777.32,3790.87,Does it make a difference to the children if they sleep like their parents?,ep_231_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,open,0.4144161641597748,g045
+Prakhar Gupta,HOST,male,8118.805,8210.134,Why don't you finish it?,ep_392_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,challenge,0.5632017254829407,g046
+Ranveer A,HOST,male,2741.758,2743.52,Was it an astrological reason?,ep_051_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,closed,0.6217057108879089,g047
+Raj Shamani,HOST,male,42.719,113.044,Which city do you come from?,ep_283_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,personal,0.3148734271526336,g048
+Samdish Bhatia,HOST,male,3780.257,3806.595,"Why do you think, out of 1 out of 10, how confident are you?",ep_406_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,challenge,0.3485095500946045,g049
+Raj Shamani,HOST,male,2078.891,2112.695,Do you think there's an opportunity for you being a consultant on that?,ep_187_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,professional,0.6629178524017334,g050
+Raj Shamani,HOST,male,2889.027,2890.248,So there are no restrictions in that?,ep_281_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,leading,0.5986302495002747,g051
+Raj Shamani,HOST,male,897.18,912.544,What will happen functionally?,ep_236_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,open,0.7093921899795532,g052
+Raj Shamani,HOST,male,2356.157,2358.458,Is there anything with face massage?,ep_223_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,closed,0.8069710731506348,g053
+Raj Shamani,HOST,male,4061.685,4066.748,How can we be a superpower?,ep_159_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,open,0.4544310569763183,g054
+Raj Shamani,HOST,male,4265.284,4275.389,Why did you get such a hit on Ghee?,ep_195_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,challenge,0.4665289223194122,g055
+Raj Shamani,HOST,male,3037.932,3047.358,"If there is a 30% blockage, is it guaranteed or not?",ep_221_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,closed,0.5065147280693054,g056
+Raj Shamani,HOST,male,3842.136,3846.32,Do you feel that fairness creams don't work?,ep_194_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,closed,0.2421857118606567,g057
+Raj Shamani,HOST,male,3313.633,3315.294,"So, their shivering reduces?",ep_196_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,closed,0.8462203741073608,g058
+Faye Dsouza,HOST,female,1086.141,1087.601,Does that allow you to be happy ever?,ep_146_whisperx_diarized.gender.host_guest,FEMALE->FEMALE,female,female,personal,0.6461693644523621,g059
+Nikhil Kamath,HOST,male,3917.724,3928.914,Is this a place where they could achieve a high return of capital if they start something now?,ep_046_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,professional,0.2682240903377533,g060
+Raj Shamani,HOST,male,2130.255,2148.867,Do you think world chaos starts like this?,ep_166_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,leading,0.5237213373184204,g061
+Prakhar Gupta,HOST,male,2926.094,2976.215,"But my fingers from the tips was glued, right?",ep_393_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,leading,0.9767232537269592,g062
+Raj Shamani,HOST,male,360.681,364.062,So why is it believed in India that it strengthens the bones?,ep_189_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,open,0.4075502157211303,g063
+Prakhar Gupta,HOST,male,6585.066,6641.6,Kiske phone aate hain aapko?,ep_374_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,personal,0.4327419698238373,g064
+Karishma Mehta,HOST,female,1191.739,1226.366,What is the environment that you grew up in?,ep_306_whisperx_diarized.gender.host_guest,FEMALE->MALE,female,male,personal,0.4500818848609924,g065
+Raj Shamani,HOST,male,1534.906,1588.022,"So, like we have Maldives, right?",ep_156_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,leading,0.9755784869194032,g066
+SPEAKER_01,HOST,female,1099.919,1116.612,"But before we get into that, would you explain to us what capitalism is outside of the nine standard economics textbooks?",ep_125_whisperx_diarized.gender.host_guest,FEMALE->MALE,female,male,open,0.4763659834861755,g067
+Nikhil Kamath,HOST,male,4628.246,4629.807,And how did you meet?,ep_096_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,personal,0.4205801784992218,g068
+Karishma Mehta,HOST,female,2476.086,2486.471,"Outside of theatre, what were you doing to keep your motivation?",ep_348_whisperx_diarized.gender.host_guest,FEMALE->MALE,female,male,professional,0.4097275733947754,g069
+Ranveer A,HOST,male,13.006,18.248,What did you think about this car before buying it?,ep_083_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,personal,0.3444135785102844,g070
+Karishma Mehta,HOST,female,1622.199,1625.7,Any fan encounters that are memorable that we can share and talk about?,ep_335_whisperx_diarized.gender.host_guest,FEMALE->FEMALE,female,female,professional,0.3410822451114654,g071
+Raj Shamani,HOST,male,5100.3,5143.241,"And they're like, why are you asking USP?",ep_027_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,challenge,0.4388330578804016,g072
+Ranveer A,HOST,male,6939.899,6945.262,What can we say about this?,ep_039_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,open,0.7287177443504333,g073
+Nikhil Kamath,HOST,male,9630.368,9636.833,What can India do to make sure wage growth is higher than asset growth in the next 10 years?,ep_084_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,professional,0.4087275564670563,g074
+Pooja Dhingra,HOST,female,2836.754,2955.552,"It's so tempting, right?",ep_369_whisperx_diarized.gender.host_guest,FEMALE->MALE,female,male,leading,0.9769544005393982,g075
+Faye Dsouza,HOST,female,4470.374,4471.795,Is there any evidence of that change?,ep_142_whisperx_diarized.gender.host_guest,FEMALE->MALE,female,male,closed,0.3384916484355926,g076
+Karishma Mehta,HOST,female,2329.537,2341.326,Can you tell us more about that mission?,ep_354_whisperx_diarized.gender.host_guest,FEMALE->FEMALE,female,female,professional,0.5711987614631653,g077
+Raj Shamani,HOST,male,2615.595,2654.403,"Here's the thing, right?",ep_294_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,leading,0.974963903427124,g078
+Ranveer A,HOST,male,602.275,623.404,"Before buying this car, what did you think about this car?",ep_083_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,professional,0.4308186173439026,g079
+Ranveer A,HOST,male,3151.697,3355.31,Do you follow stoicism?,ep_091_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,closed,0.4417420923709869,g080
+Prakhar Gupta,HOST,male,1578.075,1608.491,Do you think that's good that a lot of our people are young?,ep_392_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,leading,0.3694310784339905,g081
+Nikhil Kamath,HOST,male,1205.66,1233.142,"And why is the opposite, the whole showing, living in the moment, more appealing to the North?",ep_010_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,open,0.5115934610366821,g082
+Ranveer A,HOST,male,2077.564,2078.265,Was it good music?,ep_094_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,closed,0.8172461986541748,g083
+Raj Shamani,HOST,male,5025.548,5053.476,Don't you want to ask me to change it again?,ep_207_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,leading,0.7285386323928833,g084
+Raj Shamani,HOST,male,2511.195,2517.837,Then why did you stop acting?,ep_280_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,challenge,0.4209572076797485,g085
+Prakhar Gupta,HOST,male,232.366,302.364,"Then on a social level also, people who made it in life, people in the 50s and 60s are sitting back being like, what will happen to our country?",ep_391_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,open,0.6277714967727661,g086
+Soha Ali Khan,HOST,female,1554.974,1563.242,"The transition, was that also something that you planned?",ep_015_whisperx_diarized.gender.host_guest,FEMALE->FEMALE,female,female,professional,0.4529853761196136,g087
+Ranveer A,HOST,male,4055.002,4063.344,Do you know that all this is said about Bengalis?,ep_064_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,closed,0.2929969727993011,g088
+Prakhar Gupta,HOST,male,3772.315,3789.927,How will he find love in the metro?,ep_382_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,open,0.5319028496742249,g089
+Faye Dsouza,HOST,female,200.603,204.405,"Oh, you wanted an entire set that was 100% female?",ep_131_whisperx_diarized.gender.host_guest,FEMALE->FEMALE,female,female,leading,0.5527915358543396,g090
+Ranveer A,HOST,male,599.687,600.668,Do you think that's why you're good at this?,ep_105_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,challenge,0.4624747633934021,g091
+Raj Shamani,HOST,male,5123.13,5124.551,What is crypto for entrepreneurs?,ep_180_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,open,0.5634528398513794,g092
+Karishma Mehta,HOST,female,798.197,825.945,And what about the overall experience?,ep_303_whisperx_diarized.gender.host_guest,FEMALE->FEMALE,female,female,open,0.6779800653457642,g093
+Karishma Mehta,HOST,female,1822.702,1840.166,And how did you arrive at this decision?,ep_357_whisperx_diarized.gender.host_guest,FEMALE->FEMALE,female,female,challenge,0.3366941511631012,g094
+Ranveer A,HOST,male,6952.146,6965.895,"Uh, how do I go about this, uh, dream of creating a base in the hills and or a base in Goa?",ep_073_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,open,0.4036846160888672,g095
+Prakhar Gupta,HOST,male,2056.992,2060.073,Is this a fence boundary?,ep_374_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,closed,0.7732157111167908,g096
+Faye Dsouza,HOST,female,11.515,14.357,What was it like to come out to your parents?,ep_142_whisperx_diarized.gender.host_guest,FEMALE->MALE,female,male,personal,0.7077986598014832,g097
+Ranveer A,HOST,male,3591.817,3592.938,Have you seen this tweet?,ep_064_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,personal,0.3130275309085846,g098
+Ranveer A,HOST,male,5439.778,5445.701,Enough for the families?,ep_108_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,closed,0.8417895436286926,g099
+Ranveer A,HOST,male,8578.397,8591.127,"I asked him, what's the best possible place to visit on this earth?",ep_039_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,challenge,0.3837074637413025,g100
+Raj Shamani,HOST,male,374.932,379.955,Like being multicultural is a strength?,ep_002_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,closed,0.5742822885513306,g101
+Ranveer A,HOST,male,2610.002,2611.243,Do you watch sports yourself?,ep_058_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,personal,0.5412217378616333,g102
+Raj Shamani,HOST,male,3530.273,3533.456,"But if we use it every day, won't our skin get damaged?",ep_210_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,leading,0.5926426649093628,g103
+Ranveer A,HOST,male,496.652,501.255,"But if mushroom therapy starts, will the first clinic be in Kodaikanal or?",ep_080_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,closed,0.4407919347286224,g104
+Ranveer A,HOST,male,1004.565,1008.207,"Generally, what is going on in life now?",ep_071_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,personal,0.4588694870471954,g105
+Samdish Bhatia,HOST,male,301.818,305.28,He's from Punjab?,ep_404_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,closed,0.8135054111480713,g106
+Nikhil Kamath,HOST,male,3412.802,3419.064,"Outside of experiences, would you go back into the education?",ep_095_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,professional,0.3660587966442108,g107
+Raj Shamani,HOST,male,762.058,776.453,"So, how did a nuclear engineer decide to leave his place and shift to Mumbai because his daughter has talent?",ep_032_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,challenge,0.3921905755996704,g108
+SPEAKER_00,HOST,female,736.498,805.133,"And one of the questions, and I'm genuinely asking this, and I brought it up also when talking to Guneet was, We've just had the Malayalam cinema come out with that massive report of sexual harassment on various stages of sex, right?",ep_148_whisperx_diarized.gender.host_guest,FEMALE->FEMALE,female,female,leading,0.9749944806098938,g109
+Ranveer A,HOST,male,3652.658,3676.161,Are we done with giving dietary guidelines for a healthy gut?,ep_054_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,professional,0.3143625259399414,g110
+Ranveer A,HOST,male,945.8,946.881,How did we find it out?,ep_059_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,open,0.6017162203788757,g111
+Raj Shamani,HOST,male,1391.026,1395.349,"And I've always wondered, why do you put Vibhuti here?",ep_277_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,challenge,0.6089918613433838,g112
+Raj Shamani,HOST,male,2169.184,2173.949,"So if both are in normal average birth weight, does it make any difference?",ep_245_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,closed,0.5650019645690918,g113
+Raj Shamani,HOST,male,511.264,515.818,How do you think people can become powerful?,ep_158_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,challenge,0.3966895341873169,g114
+Raj Shamani,HOST,male,292.875,294.636,What type of politics?,ep_276_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,open,0.545565664768219,g115
+Raj Shamani,HOST,male,1746.225,1754.878,"Do you think Prime Ministers and Presidents around the world right now, who look like powerful leaders, are they all narcissists?",ep_246_whisperx_diarized.gender.host_guest,MALE->FEMALE,male,female,leading,0.2968225479125976,g116
+Raj Shamani,HOST,male,4683.261,4744.063,"So I'm just going to ask you, do you think, do you know about it or do you think it's true?",ep_029_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,challenge,0.3668727278709411,g117
+Ranveer A,HOST,male,3771.958,3778.303,Can we speak about him a bit?,ep_094_whisperx_diarized.gender.host_guest,MALE->MALE,male,male,closed,0.5376797318458557,g118
+SPEAKER_01,HOST,female,2181.754,2208.077,"No, but what is your response to how that space has grown?",ep_121_whisperx_diarized.gender.host_guest,FEMALE->MALE,female,male,professional,0.5008309483528137,g119
