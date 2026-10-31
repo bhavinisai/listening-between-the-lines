@@ -1,0 +1,17 @@
+{
+  "mode": "cv",
+  "train_csv": "results/question_type_v2/train_dev.csv",
+  "eval_csv": [],
+  "out_dir": "results/question_type_v2/experiments/E2_base_nocontext_cwsqrt",
+  "model": "xlm-roberta-base",
+  "context": "none",
+  "max_length": 128,
+  "lr": 2e-05,
+  "epochs": 5,
+  "batch_size": 16,
+  "class_weighted": true,
+  "weight_power": 0.5,
+  "folds": 5,
+  "seed": 42,
+  "save_model": false
+}

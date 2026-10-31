@@ -1,0 +1,232 @@
+{
+ "schema_problems": [],
+ "n": 250,
+ "valence": {
+  "label_dist_per_pass": {
+   "valence_A": {
+    "neutral": 0.544,
+    "negative": 0.24,
+    "positive": 0.216
+   },
+   "valence_B": {
+    "neutral": 0.58,
+    "positive": 0.216,
+    "negative": 0.204
+   },
+   "valence_C": {
+    "neutral": 0.556,
+    "positive": 0.232,
+    "negative": 0.212
+   }
+  },
+  "majority_dist": {
+   "neutral": 142,
+   "negative": 54,
+   "positive": 54
+  },
+  "no_majority": 0,
+  "unanimous": 0.908,
+  "pairwise_kappa": {
+   "A-B": 0.8913161612868167,
+   "A-C": 0.8994206630189894,
+   "B-C": 0.8972884141331142
+  },
+  "by_stratum_majority": {
+   "FH/FH_long": {
+    "negative": 7,
+    "positive": 5,
+    "neutral": 2
+   },
+   "MF/H": {
+    "positive": 3,
+    "neutral": 2,
+    "negative": 1
+   },
+   "MF/L": {
+    "neutral": 8,
+    "positive": 3,
+    "negative": 3
+   },
+   "MF/N": {
+    "negative": 6,
+    "neutral": 4
+   },
+   "MF/P": {
+    "positive": 5,
+    "neutral": 2
+   },
+   "MF/R": {
+    "neutral": 23,
+    "negative": 2,
+    "positive": 1
+   },
+   "MM/H": {
+    "positive": 16,
+    "neutral": 12,
+    "negative": 2
+   },
+   "MM/L": {
+    "neutral": 17,
+    "negative": 10,
+    "positive": 5
+   },
+   "MM/N": {
+    "negative": 19,
+    "neutral": 15,
+    "positive": 1
+   },
+   "MM/P": {
+    "positive": 10,
+    "neutral": 5,
+    "negative": 1
+   },
+   "MM/R": {
+    "neutral": 52,
+    "positive": 5,
+    "negative": 3
+   }
+  },
+  "unanimous_by_stratum": {
+   "FH/FH_long": 0.786,
+   "MF/H": 1.0,
+   "MF/L": 0.929,
+   "MF/N": 0.8,
+   "MF/P": 1.0,
+   "MF/R": 0.962,
+   "MM/H": 0.933,
+   "MM/L": 0.969,
+   "MM/N": 0.914,
+   "MM/P": 0.938,
+   "MM/R": 0.85
+  }
+ },
+ "arousal": {
+  "label_dist_per_pass": {
+   "arousal_A": {
+    "medium": 0.844,
+    "low": 0.092,
+    "high": 0.064
+   },
+   "arousal_B": {
+    "medium": 0.836,
+    "low": 0.1,
+    "high": 0.064
+   },
+   "arousal_C": {
+    "medium": 0.868,
+    "low": 0.076,
+    "high": 0.056
+   }
+  },
+  "majority_dist": {
+   "medium": 215,
+   "low": 20,
+   "high": 15
+  },
+  "no_majority": 0,
+  "unanimous": 0.904,
+  "pairwise_kappa": {
+   "A-B": 0.7723392145702903,
+   "A-C": 0.7819586344380762,
+   "B-C": 0.726410505836576
+  },
+  "by_stratum_majority": {
+   "FH/FH_long": {
+    "medium": 12,
+    "low": 1,
+    "high": 1
+   },
+   "MF/H": {
+    "medium": 5,
+    "high": 1
+   },
+   "MF/L": {
+    "medium": 11,
+    "low": 3
+   },
+   "MF/N": {
+    "medium": 8,
+    "low": 2
+   },
+   "MF/P": {
+    "medium": 6,
+    "high": 1
+   },
+   "MF/R": {
+    "medium": 24,
+    "low": 1,
+    "high": 1
+   },
+   "MM/H": {
+    "medium": 22,
+    "high": 7,
+    "low": 1
+   },
+   "MM/L": {
+    "medium": 25,
+    "low": 7
+   },
+   "MM/N": {
+    "medium": 32,
+    "low": 3
+   },
+   "MM/P": {
+    "medium": 14,
+    "high": 2
+   },
+   "MM/R": {
+    "medium": 56,
+    "high": 2,
+    "low": 2
+   }
+  },
+  "unanimous_by_stratum": {
+   "FH/FH_long": 0.929,
+   "MF/H": 0.833,
+   "MF/L": 1.0,
+   "MF/N": 1.0,
+   "MF/P": 1.0,
+   "MF/R": 0.923,
+   "MM/H": 0.833,
+   "MM/L": 0.875,
+   "MM/N": 0.943,
+   "MM/P": 0.812,
+   "MM/R": 0.9
+  }
+ },
+ "proxy_sanity": {
+  "neg_rate_in_N_stratum": 0.5555555555555556,
+  "neg_rate_in_R_stratum": 0.05813953488372093,
+  "low_rate_in_L_stratum": 0.21739130434782608,
+  "low_rate_in_R_stratum": 0.03488372093023256,
+  "high_rate_in_H_stratum": 0.2222222222222222,
+  "high_rate_in_R_stratum": 0.03488372093023256
+ },
+ "female_host_long": {
+  "n": 14,
+  "valence_majority": {
+   "negative": 7,
+   "positive": 5,
+   "neutral": 2
+  },
+  "arousal_majority": {
+   "medium": 12,
+   "low": 1,
+   "high": 1
+  },
+  "unanimous_valence": 0.7857142857142857,
+  "unanimous_arousal": 0.9285714285714286,
+  "truncated_unanimous_valence": 0.8461538461538461
+ },
+ "condensed_vs_full": {
+  "n": 13,
+  "valence_agree": 0.7692307692307693,
+  "arousal_agree": 0.8461538461538461,
+  "valence_disagreements": {
+   "neutral->positive": 1,
+   "negative->positive": 1,
+   "positive->neutral": 1
+  }
+ },
+ "n_ambiguous_turns": 45
+}

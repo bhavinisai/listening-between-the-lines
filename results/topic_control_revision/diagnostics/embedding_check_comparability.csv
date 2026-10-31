@@ -1,0 +1,3 @@
+measure,all_pairs,mixed_pairs,mixed_male,mixed_female,initiation_rule,followup_rule,tests_run
+TF-IDF (Report 1 main),42320,17046,8742,8304,TF-IDF incoming similarity <= episode median,TF-IDF outgoing similarity > episode median,"naive tests, mixed model, GEE, VB-GLMM, paired t, Wilcoxon, permutation"
+Embeddings (Report 1 robustness),40699,15799,8205,7594,MiniLM incoming cosine <= episode median (different initiation set),MiniLM outgoing cosine > episode median,paired t and permutation only (role-unadjusted)

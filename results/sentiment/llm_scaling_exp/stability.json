@@ -1,0 +1,22 @@
+[
+ {
+  "task": "valence",
+  "full_diff_5000_vs_1783": -0.03266260415101552,
+  "loo_min": -0.0416887635603016,
+  "loo_max": -0.026991333874220147,
+  "episodes_improved": 4,
+  "episodes_worse": 10,
+  "episodes_same": 4,
+  "n_episodes": 18
+ },
+ {
+  "task": "arousal",
+  "full_diff_5000_vs_1783": 0.09873490430488341,
+  "loo_min": 0.0706380358058607,
+  "loo_max": 0.11223436054624825,
+  "episodes_improved": 11,
+  "episodes_worse": 2,
+  "episodes_same": 5,
+  "n_episodes": 18
+ }
+]

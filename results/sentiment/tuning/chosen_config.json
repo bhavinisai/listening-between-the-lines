@@ -1,0 +1,26 @@
+{
+ "valence": {
+  "config": "E1 no_context seed-mean + E4 bias=(+1.00,-1.50)",
+  "val_macro_f1": 0.7989928112866643,
+  "nested_cv_macro_f1": 0.7861983333770537,
+  "original_val_macro_f1": 0.7702903679547023,
+  "original_config": "E0 no_context seed0",
+  "bias": [
+   1.0,
+   0.0,
+   -1.5
+  ]
+ },
+ "arousal": {
+  "config": "E2 both variants x seeds + E4 bias=(+1.50,-0.25)",
+  "val_macro_f1": 0.6105104437028798,
+  "nested_cv_macro_f1": 0.572493517471414,
+  "original_val_macro_f1": 0.5196333457203023,
+  "original_config": "E0 context seed0",
+  "bias": [
+   1.5,
+   0.0,
+   -0.25
+  ]
+ }
+}

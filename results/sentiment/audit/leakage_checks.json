@@ -1,0 +1,17 @@
+{
+ "episodes": 174,
+ "turns": 2847,
+ "train_test_overlap": 0,
+ "train_val_overlap": 0,
+ "val_test_overlap": 0,
+ "gold_llm_episode_overlap": 0,
+ "duplicate_turn_ids": 0,
+ "texts_in_multiple_splits": 1,
+ "gold_texts_in_llm_set": 1,
+ "train_episodes": 121,
+ "train_turns": 1783,
+ "val_episodes": 18,
+ "val_turns": 256,
+ "test_episodes": 35,
+ "test_turns": 808
+}

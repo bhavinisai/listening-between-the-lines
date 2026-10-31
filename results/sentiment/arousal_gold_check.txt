@@ -1,0 +1,4 @@
+gold n=400: {'medium': 391, 'high': 6, 'low': 3}
+Spearman(score, low<medium<high) = 0.091 (p=0.071)
+AUC for gold 'high' (n=6) vs rest = 0.607
+AUC for gold 'low' (n=3) vs rest = 0.815

@@ -1,0 +1,7 @@
+task,model,macro_f1
+valence,selected single,0.7945091162674953
+valence,mean single (avg of seeds),0.79000154357039
+valence,ensemble,0.7798266280053158
+arousal,selected single,0.6260112647209422
+arousal,mean single (avg of seeds),0.6180083266407551
+arousal,ensemble,0.6208237679375824

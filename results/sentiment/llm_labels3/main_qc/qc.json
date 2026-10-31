@@ -1,0 +1,231 @@
+{
+ "schema_problems": [],
+ "n": 2967,
+ "valence": {
+  "label_dist_per_pass": {
+   "valence_A": {
+    "neutral": 0.55,
+    "positive": 0.236,
+    "negative": 0.213
+   },
+   "valence_B": {
+    "neutral": 0.536,
+    "positive": 0.24,
+    "negative": 0.223
+   },
+   "valence_C": {
+    "neutral": 0.541,
+    "positive": 0.238,
+    "negative": 0.221
+   }
+  },
+  "majority_dist": {
+   "neutral": 1621,
+   "positive": 704,
+   "negative": 638
+  },
+  "no_majority": 4,
+  "unanimous": 0.8594539939332659,
+  "pairwise_kappa": {
+   "A-B": 0.8428226387164568,
+   "A-C": 0.8401703477858088,
+   "B-C": 0.8469374037660993
+  },
+  "by_stratum_majority": {
+   "FH/FH_long": {
+    "positive": 79,
+    "negative": 46,
+    "neutral": 36
+   },
+   "MF/H": {
+    "positive": 35,
+    "neutral": 28,
+    "negative": 5
+   },
+   "MF/L": {
+    "neutral": 100,
+    "negative": 44,
+    "positive": 19
+   },
+   "MF/N": {
+    "negative": 59,
+    "neutral": 54,
+    "positive": 8
+   },
+   "MF/P": {
+    "positive": 52,
+    "neutral": 25,
+    "negative": 5
+   },
+   "MF/R": {
+    "neutral": 267,
+    "positive": 22,
+    "negative": 15
+   },
+   "MM/H": {
+    "positive": 177,
+    "neutral": 122,
+    "negative": 53
+   },
+   "MM/L": {
+    "neutral": 248,
+    "negative": 91,
+    "positive": 47
+   },
+   "MM/N": {
+    "negative": 221,
+    "neutral": 177,
+    "positive": 19
+   },
+   "MM/P": {
+    "positive": 150,
+    "neutral": 40,
+    "negative": 3
+   },
+   "MM/R": {
+    "neutral": 524,
+    "negative": 96,
+    "positive": 96
+   }
+  },
+  "unanimous_by_stratum": {
+   "FH/FH_long": 0.807,
+   "MF/H": 0.884,
+   "MF/L": 0.896,
+   "MF/N": 0.818,
+   "MF/P": 0.915,
+   "MF/R": 0.901,
+   "MM/H": 0.856,
+   "MM/L": 0.863,
+   "MM/N": 0.809,
+   "MM/P": 0.881,
+   "MM/R": 0.868
+  }
+ },
+ "arousal": {
+  "label_dist_per_pass": {
+   "arousal_A": {
+    "medium": 0.837,
+    "low": 0.105,
+    "high": 0.058
+   },
+   "arousal_B": {
+    "medium": 0.836,
+    "low": 0.102,
+    "high": 0.062
+   },
+   "arousal_C": {
+    "medium": 0.833,
+    "low": 0.105,
+    "high": 0.062
+   }
+  },
+  "majority_dist": {
+   "medium": 2482,
+   "low": 306,
+   "high": 178
+  },
+  "no_majority": 1,
+  "unanimous": 0.8786653185035389,
+  "pairwise_kappa": {
+   "A-B": 0.6972864841088297,
+   "A-C": 0.7229916690171583,
+   "B-C": 0.735527957286078
+  },
+  "by_stratum_majority": {
+   "FH/FH_long": {
+    "medium": 133,
+    "high": 21,
+    "low": 7
+   },
+   "MF/H": {
+    "medium": 51,
+    "high": 15,
+    "low": 3
+   },
+   "MF/L": {
+    "medium": 115,
+    "low": 47,
+    "high": 1
+   },
+   "MF/N": {
+    "medium": 112,
+    "low": 5,
+    "high": 4
+   },
+   "MF/P": {
+    "medium": 78,
+    "low": 2,
+    "high": 2
+   },
+   "MF/R": {
+    "medium": 283,
+    "low": 17,
+    "high": 4
+   },
+   "MM/H": {
+    "medium": 278,
+    "high": 62,
+    "low": 12
+   },
+   "MM/L": {
+    "medium": 256,
+    "low": 122,
+    "high": 8
+   },
+   "MM/N": {
+    "medium": 353,
+    "low": 38,
+    "high": 27
+   },
+   "MM/P": {
+    "medium": 166,
+    "high": 19,
+    "low": 8
+   },
+   "MM/R": {
+    "medium": 657,
+    "low": 45,
+    "high": 15
+   }
+  },
+  "unanimous_by_stratum": {
+   "FH/FH_long": 0.901,
+   "MF/H": 0.797,
+   "MF/L": 0.828,
+   "MF/N": 0.926,
+   "MF/P": 0.89,
+   "MF/R": 0.914,
+   "MM/H": 0.864,
+   "MM/L": 0.785,
+   "MM/N": 0.876,
+   "MM/P": 0.917,
+   "MM/R": 0.918
+  }
+ },
+ "proxy_sanity": {
+  "neg_rate_in_N_stratum": 0.5194805194805194,
+  "neg_rate_in_R_stratum": 0.10871694417238002,
+  "low_rate_in_L_stratum": 0.30783242258652094,
+  "low_rate_in_R_stratum": 0.06072477962781587,
+  "high_rate_in_H_stratum": 0.18246445497630331,
+  "high_rate_in_R_stratum": 0.01860920666013712
+ },
+ "female_host_long": {
+  "n": 161,
+  "valence_majority": {
+   "positive": 79,
+   "negative": 46,
+   "neutral": 36
+  },
+  "arousal_majority": {
+   "medium": 133,
+   "high": 21,
+   "low": 7
+  },
+  "unanimous_valence": 0.8074534161490683,
+  "unanimous_arousal": 0.9006211180124224,
+  "truncated_unanimous_valence": 0.7867647058823529
+ },
+ "n_ambiguous_turns": 711
+}

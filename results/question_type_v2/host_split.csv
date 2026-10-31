@@ -1,0 +1,36 @@
+host_id,split,n_questions,n_episodes,host_gender
+Raj Shamani,dev,11437,148,male
+Ranveer A,dev,6038,75,male
+Karishma Mehta,dev,2843,60,female
+Samdish Bhatia,test,2825,23,male
+Prakhar Gupta,dev,2053,24,male
+Nikhil Kamath,dev,1466,15,male
+Faye Dsouza,test,1378,33,female
+Pooja Dhingra,dev,527,11,female
+unknown_ep_275_whisperx_diarized.gender.host_guest,test,158,1,male
+Soha Ali Khan,dev,97,2,female
+unknown_ep_089_whisperx_diarized.gender.host_guest,test,79,1,male
+unknown_ep_330_whisperx_diarized.gender.host_guest,test,63,1,female
+unknown_ep_045_whisperx_diarized.gender.host_guest,dev,61,1,male
+unknown_ep_140_whisperx_diarized.gender.host_guest,test,55,1,female
+unknown_ep_121_whisperx_diarized.gender.host_guest,test,51,1,female
+unknown_ep_293_whisperx_diarized.gender.host_guest,test,48,1,male
+unknown_ep_324_whisperx_diarized.gender.host_guest,dev,44,1,female
+unknown_ep_125_whisperx_diarized.gender.host_guest,test,43,1,female
+unknown_ep_129_whisperx_diarized.gender.host_guest,test,42,1,female
+unknown_ep_022_whisperx_diarized.gender.host_guest,test,40,1,female
+unknown_ep_298_whisperx_diarized.gender.host_guest,dev,39,1,male
+unknown_ep_329_whisperx_diarized.gender.host_guest,test,37,1,female
+unknown_ep_011_whisperx_diarized.gender.host_guest,dev,36,1,female
+unknown_ep_115_whisperx_diarized.gender.host_guest,dev,35,1,female
+unknown_ep_322_whisperx_diarized.gender.host_guest,test,34,1,female
+unknown_ep_291_whisperx_diarized.gender.host_guest,dev,34,1,male
+unknown_ep_124_whisperx_diarized.gender.host_guest,dev,34,1,female
+unknown_ep_116_whisperx_diarized.gender.host_guest,dev,31,1,female
+unknown_ep_123_whisperx_diarized.gender.host_guest,dev,28,1,female
+unknown_ep_024_whisperx_diarized.gender.host_guest,test,26,1,female
+unknown_ep_148_whisperx_diarized.gender.host_guest,dev,26,1,female
+unknown_ep_327_whisperx_diarized.gender.host_guest,dev,26,1,female
+unknown_ep_326_whisperx_diarized.gender.host_guest,dev,15,1,female
+unknown_ep_323_whisperx_diarized.gender.host_guest,dev,14,1,female
+unknown_ep_295_whisperx_diarized.gender.host_guest,test,7,1,male

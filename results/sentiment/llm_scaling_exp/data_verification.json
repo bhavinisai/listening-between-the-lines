@@ -1,0 +1,117 @@
+{
+ "train_episodes": 121,
+ "val_episodes": 18,
+ "train_val_overlap": 0,
+ "train_test_overlap": 0,
+ "train_gold_overlap": 0,
+ "train_text_in_val": 0,
+ "train_text_in_gold": 0,
+ "nested_1783_in_3000": true,
+ "nested_3000_in_5000": true,
+ "duplicate_turn_ids": 0,
+ "sets": {
+  "1783": {
+   "rows": 1783,
+   "valence_rows": 1782,
+   "arousal_rows": 1783,
+   "valence": {
+    "neutral": 1031,
+    "positive": 412,
+    "negative": 339
+   },
+   "arousal": {
+    "medium": 1549,
+    "low": 133,
+    "high": 101
+   },
+   "dyad": {
+    "MALE->MALE": 808,
+    "MALE->FEMALE": 526,
+    "FEMALE->FEMALE": 242,
+    "FEMALE->MALE": 207
+   },
+   "dyad_share": {
+    "MALE->MALE": 0.453,
+    "MALE->FEMALE": 0.295,
+    "FEMALE->FEMALE": 0.136,
+    "FEMALE->MALE": 0.116
+   },
+   "prev_text_words_p99": 100.0
+  },
+  "3000": {
+   "rows": 3000,
+   "valence_rows": 2997,
+   "arousal_rows": 3000,
+   "valence": {
+    "neutral": 1695,
+    "positive": 711,
+    "negative": 591
+   },
+   "arousal": {
+    "medium": 2571,
+    "low": 258,
+    "high": 171
+   },
+   "dyad": {
+    "MALE->MALE": 1655,
+    "MALE->FEMALE": 830,
+    "FEMALE->FEMALE": 283,
+    "FEMALE->MALE": 232
+   },
+   "dyad_share": {
+    "MALE->MALE": 0.552,
+    "MALE->FEMALE": 0.277,
+    "FEMALE->FEMALE": 0.094,
+    "FEMALE->MALE": 0.077
+   },
+   "prev_text_words_p99": 100.0
+  },
+  "5000": {
+   "rows": 5000,
+   "valence_rows": 4995,
+   "arousal_rows": 4999,
+   "valence": {
+    "neutral": 2794,
+    "positive": 1170,
+    "negative": 1031
+   },
+   "arousal": {
+    "medium": 4246,
+    "low": 459,
+    "high": 294
+   },
+   "dyad": {
+    "MALE->MALE": 3048,
+    "MALE->FEMALE": 1328,
+    "FEMALE->FEMALE": 342,
+    "FEMALE->MALE": 282
+   },
+   "dyad_share": {
+    "MALE->MALE": 0.61,
+    "MALE->FEMALE": 0.266,
+    "FEMALE->FEMALE": 0.068,
+    "FEMALE->MALE": 0.056
+   },
+   "prev_text_words_p99": 100.0
+  }
+ },
+ "val": {
+  "rows": 256,
+  "valence": {
+   "neutral": 144,
+   "positive": 66,
+   "negative": 46
+  },
+  "arousal": {
+   "medium": 203,
+   "low": 33,
+   "high": 20
+  },
+  "dyad": {
+   "MALE->MALE": 99,
+   "FEMALE->FEMALE": 65,
+   "FEMALE->MALE": 48,
+   "MALE->FEMALE": 44
+  }
+ }
+}

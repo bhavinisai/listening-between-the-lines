@@ -1,0 +1,10 @@
+task,true_label,predicted_label,count,row_percent
+valence,Negative,Negative,30,65.21739130434783
+valence,Negative,Neutral,11,23.91304347826087
+valence,Negative,Positive,5,10.869565217391305
+valence,Neutral,Negative,9,6.25
+valence,Neutral,Neutral,123,85.41666666666666
+valence,Neutral,Positive,12,8.333333333333332
+valence,Positive,Negative,1,1.5151515151515151
+valence,Positive,Neutral,7,10.606060606060606
+valence,Positive,Positive,58,87.87878787878788

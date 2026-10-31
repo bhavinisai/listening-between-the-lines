@@ -1,0 +1,82 @@
+{
+ "new_new_valence_labeled": 3213,
+ "excluded_FH_long": 175,
+ "A": {
+  "rows": 1106,
+  "episodes": 112,
+  "dyad": {
+   "MALE->MALE": 776,
+   "MALE->FEMALE": 330
+  },
+  "valence": {
+   "neutral": 522,
+   "negative": 296,
+   "positive": 288
+  },
+  "valence_share": {
+   "neutral": 0.472,
+   "negative": 0.268,
+   "positive": 0.26
+  },
+  "arousal": {
+   "medium": 904,
+   "low": 128,
+   "high": 74
+  },
+  "strata": {
+   "N": 383,
+   "L": 318,
+   "H": 210,
+   "P": 195
+  },
+  "truncated": 0,
+  "mean_words": 41.5,
+  "max_rows_one_episode": 44
+ },
+ "B": {
+  "rows": 1106,
+  "episodes": 103,
+  "dyad": {
+   "MALE->MALE": 776,
+   "MALE->FEMALE": 330
+  },
+  "valence": {
+   "neutral": 866,
+   "positive": 124,
+   "negative": 116
+  },
+  "valence_share": {
+   "neutral": 0.783,
+   "positive": 0.112,
+   "negative": 0.105
+  },
+  "arousal": {
+   "medium": 1019,
+   "low": 65,
+   "high": 22
+  },
+  "strata": {
+   "R": 1106
+  },
+  "truncated": 0,
+  "mean_words": 39.0,
+  "max_rows_one_episode": 55
+ },
+ "episode_count_mismatch_turns": 177.0,
+ "episode_count_mismatch_share": 0.16,
+ "A_B_overlap_turns": 0,
+ "A_in_B_episodes_only": false,
+ "leakage": {
+  "new_in_val_episodes": 0,
+  "new_in_test_episodes": 0,
+  "new_in_gold_episodes": 0,
+  "text_in_val": 0,
+  "duplicate_turn_ids_within_condition": 0
+ },
+ "sizes": {
+  "base": 1783,
+  "A_targeted": 1106,
+  "B_random": 1106
+ },
+ "A_shortfall_filled_from_other_episodes": 177
+}

@@ -1,0 +1,18 @@
+{
+ "A_targeted": {
+  "episodes_better": 4,
+  "episodes_worse": 11,
+  "episodes_same": 3,
+  "per_episode_acc_delta_sd": 0.07873869253281698,
+  "loo_macro_f1_diff_min": -0.02676764857185754,
+  "loo_macro_f1_diff_max": -0.016042704789207995
+ },
+ "B_random": {
+  "episodes_better": 2,
+  "episodes_worse": 13,
+  "episodes_same": 3,
+  "per_episode_acc_delta_sd": 0.054292479125498505,
+  "loo_macro_f1_diff_min": -0.03326791446392985,
+  "loo_macro_f1_diff_max": -0.028248974717826614
+ }
+}

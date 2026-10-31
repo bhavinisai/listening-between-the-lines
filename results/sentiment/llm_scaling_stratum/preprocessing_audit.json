@@ -1,0 +1,34 @@
+{
+ "valence_uses_previous_turn": false,
+ "previous_turn_cap_affects_valence": false,
+ "note_prev_cap": "scaling run capped previous-turn text to its last 100 words for all rows; the valence variant is no-context so prev_text is never read",
+ "original_rows_text_identical_to_baseline_file": true,
+ "original_rows_with_prev_text_over_100_words_in_baseline": 155,
+ "new_rows_truncated_total": 149,
+ "new_rows_truncated_by_stratum": {
+  "FH_long": 149
+ },
+ "settings_identical_to_baseline": {
+  "base": "cardiff_xlmr_multi",
+  "lr": 2e-05,
+  "epochs": 4,
+  "batch": 16,
+  "max_len": 256,
+  "weight_pow": 0.5,
+  "optimizer": "AdamW wd=0.01, 10% warmup, grad-clip 1.0, bf16 autocast",
+  "variant_valence": "no_context"
+ },
+ "differences_vs_baseline": [
+  "checkpoint = best-validation-macro-F1 epoch (baseline llm_pipeline.py used the fixed last epoch)",
+  "3 seeds (0,1,2) per condition (baseline: seed 0 only)",
+  "training rows ordered original-then-new in the DataFrame (the sampler shuffles each epoch, so order does not matter)",
+  "baseline file llm_ft2 trained on 1,782 valence rows; scaling 1,783-set also 1,782 rows (1 row had no valence majority)",
+  "class weights are recomputed from each training set's own class counts (same rule as baseline)"
+ ],
+ "scaling_vs_baseline_val_macro_f1_seed0": {
+  "baseline_llm_ft2_last_epoch": 0.7703,
+  "scaling_1783_seed0_last_epoch": 0.7702903679547023,
+  "scaling_1783_seed0_best_epoch": 0.7764774723165958
+ },
+ "evaluation": "256 validation turns / 18 episodes (valence majority labels); test and human gold are not read for evaluation"
+}

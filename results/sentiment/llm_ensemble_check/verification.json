@@ -1,0 +1,40 @@
+{
+ "valence": {
+  "n_val": 256,
+  "classes": [
+   "negative",
+   "neutral",
+   "positive"
+  ],
+  "n_models": 5,
+  "shapes_ok": true,
+  "no_nan": true,
+  "rows_sum_to_1": true,
+  "val_labels_identical_across_experiments": true,
+  "missing_val_rows": 0,
+  "n_episodes": 18,
+  "same_val_order": "val_labels file shared by all runs (turn_id order identical, asserted)",
+  "preprocessing": "no-context text only, max_len 256",
+  "training": "same code path / hyperparameters (scaling_retrain.train_eval); checkpoint = best-validation epoch",
+  "test_or_gold_used": false
+ },
+ "arousal": {
+  "n_val": 256,
+  "classes": [
+   "low",
+   "medium",
+   "high"
+  ],
+  "n_models": 3,
+  "shapes_ok": true,
+  "no_nan": true,
+  "rows_sum_to_1": true,
+  "val_labels_identical_across_experiments": true,
+  "missing_val_rows": 0,
+  "n_episodes": 18,
+  "same_val_order": "val_labels file shared by all runs (turn_id order identical, asserted)",
+  "preprocessing": "text + previous turn (last 100 words), max_len 256",
+  "training": "same code path / hyperparameters (scaling_retrain.train_eval); checkpoint = best-validation epoch",
+  "test_or_gold_used": false
+ }
+}

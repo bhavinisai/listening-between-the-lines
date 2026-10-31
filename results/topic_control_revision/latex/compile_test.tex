@@ -1,0 +1,16 @@
+% Standalone compile test for the topic-control section (no TeX compiler was available
+% when these files were written, so they have only been checked statically).
+% Compile from this folder:  pdflatex compile_test.tex
+% Citations will show as [?] here because the report's .bib file is not in the repository.
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{amsmath}
+\graphicspath{{../}}   % section files use figures/<name>.png; ../figures/ holds the PNGs
+\begin{document}
+\input{topic_control_section}
+\clearpage
+\input{topic_control_appendix}
+\end{document}

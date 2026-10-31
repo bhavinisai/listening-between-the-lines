@@ -1,0 +1,51 @@
+{
+ "valence": {
+  "macro_f1_gain": -0.014426189857555605,
+  "ci": [
+   -0.036143489726685664,
+   0.007369840301527403
+  ],
+  "rare_f1_gain": -0.022879744222970122,
+  "cond1_gain_ge_0p01": false,
+  "cond2_ci_lower_gt0": false,
+  "cond3_consistent": false,
+  "episode_consistency": {
+   "episodes_improved": 2,
+   "episodes_worse": 5,
+   "episodes_same": 11,
+   "negative_recall_episodes_better": 0,
+   "negative_recall_episodes_worse": 0,
+   "negative_recall_episodes_same": 13,
+   "loo_macro_f1_diff_min": -0.0221226860436059,
+   "loo_macro_f1_diff_max": -0.007914426016870535
+  },
+  "adopt_ensemble": false,
+  "decision": "keep selected single checkpoint"
+ },
+ "arousal": {
+  "macro_f1_gain": -0.003781527439150432,
+  "ci": [
+   -0.03792199417352225,
+   0.03575131538939526
+  ],
+  "rare_f1_gain": -0.004472571208415601,
+  "cond1_gain_ge_0p01": false,
+  "cond2_ci_lower_gt0": false,
+  "cond3_consistent": false,
+  "episode_consistency": {
+   "episodes_improved": 2,
+   "episodes_worse": 2,
+   "episodes_same": 14,
+   "low_recall_episodes_better": 1,
+   "low_recall_episodes_worse": 2,
+   "low_recall_episodes_same": 8,
+   "high_recall_episodes_better": 0,
+   "high_recall_episodes_worse": 0,
+   "high_recall_episodes_same": 10,
+   "loo_macro_f1_diff_min": -0.014754276248051257,
+   "loo_macro_f1_diff_max": 0.005369348199163015
+  },
+  "adopt_ensemble": false,
+  "decision": "keep selected single checkpoint"
+ }
+}

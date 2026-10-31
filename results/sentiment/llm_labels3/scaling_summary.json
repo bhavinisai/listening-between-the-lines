@@ -1,0 +1,258 @@
+{
+ "leakage": {
+  "new_turns": 3217,
+  "new_not_in_train_episodes": 0,
+  "new_in_val_test_episodes": 0,
+  "new_in_gold_episodes": 0,
+  "new_text_dup_within": 0,
+  "new_text_in_original": 0,
+  "new_text_in_gold": 0,
+  "new_key_in_original": 0,
+  "duplicate_turn_ids": 0
+ },
+ "passes": {
+  "A": 33,
+  "B": 33,
+  "C": 34
+ },
+ "accepted_new": {
+  "valence": 3213,
+  "arousal": 3216,
+  "no_majority_valence": 4,
+  "no_majority_arousal": 1
+ },
+ "sets": {
+  "1783": {
+   "rows": 1783,
+   "episodes": 121,
+   "valence": {
+    "neutral": 1031,
+    "positive": 412,
+    "negative": 339
+   },
+   "arousal": {
+    "medium": 1549,
+    "low": 133,
+    "high": 101
+   },
+   "dyad_counts": {
+    "MALE->MALE": 808,
+    "MALE->FEMALE": 526,
+    "FEMALE->FEMALE": 242,
+    "FEMALE->MALE": 207
+   },
+   "dyad_share": {
+    "MALE->MALE": 0.453,
+    "MALE->FEMALE": 0.295,
+    "FEMALE->FEMALE": 0.136,
+    "FEMALE->MALE": 0.116
+   },
+   "weighted_dyad_share": {
+    "FEMALE->FEMALE": 0.136,
+    "FEMALE->MALE": 0.116,
+    "MALE->FEMALE": 0.295,
+    "MALE->MALE": 0.453
+   },
+   "truncated_rows": 0,
+   "max_rows_one_episode": 86
+  },
+  "3000": {
+   "rows": 3000,
+   "episodes": 121,
+   "valence": {
+    "neutral": 1695,
+    "positive": 711,
+    "negative": 591
+   },
+   "arousal": {
+    "medium": 2571,
+    "low": 258,
+    "high": 171
+   },
+   "dyad_counts": {
+    "MALE->MALE": 1655,
+    "MALE->FEMALE": 830,
+    "FEMALE->FEMALE": 283,
+    "FEMALE->MALE": 232
+   },
+   "dyad_share": {
+    "MALE->MALE": 0.552,
+    "MALE->FEMALE": 0.277,
+    "FEMALE->FEMALE": 0.094,
+    "FEMALE->MALE": 0.077
+   },
+   "weighted_dyad_share": {
+    "FEMALE->FEMALE": 0.136,
+    "FEMALE->MALE": 0.116,
+    "MALE->FEMALE": 0.295,
+    "MALE->MALE": 0.453
+   },
+   "truncated_rows": 51,
+   "max_rows_one_episode": 116
+  },
+  "5000": {
+   "rows": 5000,
+   "episodes": 121,
+   "valence": {
+    "neutral": 2794,
+    "positive": 1170,
+    "negative": 1031
+   },
+   "arousal": {
+    "medium": 4246,
+    "low": 459,
+    "high": 294
+   },
+   "dyad_counts": {
+    "MALE->MALE": 3048,
+    "MALE->FEMALE": 1328,
+    "FEMALE->FEMALE": 342,
+    "FEMALE->MALE": 282
+   },
+   "dyad_share": {
+    "MALE->MALE": 0.61,
+    "MALE->FEMALE": 0.266,
+    "FEMALE->FEMALE": 0.068,
+    "FEMALE->MALE": 0.056
+   },
+   "weighted_dyad_share": {
+    "FEMALE->FEMALE": 0.136,
+    "FEMALE->MALE": 0.116,
+    "MALE->FEMALE": 0.295,
+    "MALE->MALE": 0.453
+   },
+   "truncated_rows": 149,
+   "max_rows_one_episode": 176
+  }
+ },
+ "new_by_dyad": {
+  "MALE->MALE": 2240,
+  "MALE->FEMALE": 802,
+  "FEMALE->FEMALE": 100,
+  "FEMALE->MALE": 75
+ },
+ "new_valence": {
+  "neutral": 1763,
+  "positive": 758,
+  "negative": 692
+ },
+ "new_arousal": {
+  "medium": 2697,
+  "low": 326,
+  "high": 193
+ },
+ "new_valence_by_stratum": {
+  "FH/FH_long": {
+   "positive": 84,
+   "negative": 53,
+   "neutral": 38
+  },
+  "MF/H": {
+   "positive": 38,
+   "neutral": 30,
+   "negative": 6
+  },
+  "MF/L": {
+   "neutral": 108,
+   "negative": 47,
+   "positive": 22
+  },
+  "MF/N": {
+   "negative": 65,
+   "neutral": 58,
+   "positive": 8
+  },
+  "MF/P": {
+   "positive": 57,
+   "neutral": 27,
+   "negative": 5
+  },
+  "MF/R": {
+   "neutral": 290,
+   "positive": 23,
+   "negative": 17
+  },
+  "MM/H": {
+   "positive": 193,
+   "neutral": 134,
+   "negative": 55
+  },
+  "MM/L": {
+   "neutral": 265,
+   "negative": 101,
+   "positive": 52
+  },
+  "MM/N": {
+   "negative": 240,
+   "neutral": 192,
+   "positive": 20
+  },
+  "MM/P": {
+   "positive": 160,
+   "neutral": 45,
+   "negative": 4
+  },
+  "MM/R": {
+   "neutral": 576,
+   "positive": 101,
+   "negative": 99
+  }
+ },
+ "new_arousal_by_stratum": {
+  "FH/FH_long": {
+   "medium": 145,
+   "high": 22,
+   "low": 8
+  },
+  "MF/H": {
+   "medium": 56,
+   "high": 16,
+   "low": 3
+  },
+  "MF/L": {
+   "medium": 126,
+   "low": 50,
+   "high": 1
+  },
+  "MF/N": {
+   "medium": 120,
+   "low": 7,
+   "high": 4
+  },
+  "MF/P": {
+   "medium": 84,
+   "high": 3,
+   "low": 2
+  },
+  "MF/R": {
+   "medium": 307,
+   "low": 18,
+   "high": 5
+  },
+  "MM/H": {
+   "medium": 300,
+   "high": 69,
+   "low": 13
+  },
+  "MM/L": {
+   "medium": 281,
+   "low": 129,
+   "high": 8
+  },
+  "MM/N": {
+   "medium": 385,
+   "low": 41,
+   "high": 27
+  },
+  "MM/P": {
+   "medium": 180,
+   "high": 21,
+   "low": 8
+  },
+  "MM/R": {
+   "medium": 713,
+   "low": 47,
+   "high": 17
+  }
+ }
+}

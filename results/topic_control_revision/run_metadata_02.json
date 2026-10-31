@@ -1,0 +1,36 @@
+{
+  "python": "3.11.14",
+  "statsmodels": "0.15.0",
+  "scipy": "1.17.0",
+  "pandas": "3.0.0",
+  "numpy": "2.4.2",
+  "seed": 20261029,
+  "cluster_bootstrap_reps_table10": 5000,
+  "bootstrap_reps_table11": 2000,
+  "inputs": [
+    "../topic_control/topic_control_turns.csv",
+    "../topic_control/topic_control_stats.csv",
+    "../topic_control/topic_control_embeddings_turns.csv"
+  ],
+  "gee_warnings": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [],
+    "E": [],
+    "F": []
+  },
+  "model_diagnostics": {
+    "mixedlm_converged": true,
+    "resid_skew": 4.672024708045015,
+    "share_similarity_zero": 0.5714537134811686,
+    "vb_glmm_male_logodds": -0.1906,
+    "vb_glmm_male_OR": 0.8264631072858744,
+    "mixedlm_is_male_initiator_coef": 0.0020994726316442437,
+    "mixedlm_is_male_initiator_p": 0.42198429322079,
+    "mixedlm_is_host_initiator_coef": 0.018520370400604207,
+    "mixedlm_is_host_initiator_p": 4.051972280459654e-12,
+    "mixedlm_wc100_coef": -0.0008413792857679531,
+    "mixedlm_wc100_p": 0.5333472329296183
+  }
+}

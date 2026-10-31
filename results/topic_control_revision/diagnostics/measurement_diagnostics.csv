@@ -1,0 +1,18 @@
+section,item,value,note
+thresholds,Mixed episodes,131.0,
+thresholds,Mixed episodes with follow-up cutoff = 0,72.0,
+thresholds,Mixed episodes with initiation cutoff = 0,43.0,
+thresholds,Median follow-up cutoff (mixed),0.0,
+thresholds,All 414 episodes with follow-up cutoff = 0,133.0,of 414
+thresholds,"Follow-up similarities exactly 0 (mixed, %)",57.1,
+thresholds,"Followed up = any shared content token, share of pairs (%)",72.9,pairs in episodes whose cutoff is 0: followed_up == (similarity > 0)
+initiation,Turns after merging + backchannel removal (mixed),31393.0,
+initiation,Initiations with a response (mixed),17046.0,
+initiation,Initiations as share of turns (%),54.3,a strict median split would give <= 50%
+initiation,Initiations exactly tied with the cutoff (%),57.2,these enter only because the rule is <= median
+initiation,Initiations with incoming similarity 0 (%),89.4,
+initiation,First turn of episode counted as initiation,131.0,
+empty_turns,Initiating turns with no content tokens,1439.0,"similarity is 0 by construction: always an initiation, never followed up"
+empty_turns,Responses with no content tokens,838.0,never count as a follow-up
+empty_turns,Initiating turns with <= 3 words,3574.0,
+empty_turns,Responses with <= 3 words,2352.0,

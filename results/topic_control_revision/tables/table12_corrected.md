@@ -1,0 +1,7 @@
+**Predictors of topic follow-up in the 131 mixed-gender episodes (17,046 pairs). GEE: binary follow-up, logit link, exchangeable correlation, robust SEs clustered by episode; population-averaged odds ratios. Mixed model: a different outcome, the continuous TF-IDF similarity of the reply, with random intercepts for episode and speaker; β is shown ×100 (similarity points per unit).**
+
+| Predictor | GEE OR [95% CI] | GEE p | Mixed model β ×100 [95% CI] | Mixed model p |
+|---|---|---|---|---|
+| Male initiator (vs female) | 0.85 [0.76, 0.94] | .002 | 0.21 [-0.30, 0.72] | .422 |
+| Host initiator (vs guest) | 2.20 [1.99, 2.44] | < .001 | 1.85 [1.33, 2.38] | < .001 |
+| Initiator turn length, per 100 words | 2.64 [2.26, 3.08] | < .001 | -0.08 [-0.35, 0.18] | .533 |

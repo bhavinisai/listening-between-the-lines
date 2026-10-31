@@ -1,0 +1,4 @@
+Initiator,Initiations,Pooled rate [episode-bootstrap 95% CI],Per-episode mean [95% CI],Per-episode median
+Female,"8,304","37.7% [35.7, 40.0]","42.6% [40.6, 44.7]",43.3%
+Male,"8,742","42.2% [40.5, 43.9]","41.5% [39.8, 43.2]",40.6%
+Male − female,,"+4.4 pp [+1.9, +6.7]","-1.2 pp [-4.1, +1.8]",+1.2 pp

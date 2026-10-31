@@ -1,0 +1,11 @@
+{
+  "seed": 20261029,
+  "per_stratum": 11,
+  "max_per_episode": 3,
+  "length_cut_words": 8,
+  "max_words_shown": 220,
+  "n_items": 176,
+  "n_episodes": 98,
+  "frame": "17,046 mixed-gender pairs, Report 1 definition",
+  "input": "../data/mixed_pairs_with_text.csv"
+}

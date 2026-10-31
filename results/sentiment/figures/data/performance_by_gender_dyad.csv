@@ -1,0 +1,9 @@
+task,dyad,n,class_counts,macro_f1_3class,status,earlier_present_class_macro_f1
+valence,MALE->MALE,99,"[18, 55, 26]",0.8379003063213589,reliable,0.8379003063213589
+valence,MALE->FEMALE,44,"[6, 30, 8]",0.6717752234993615,reliable,0.6717752234993615
+valence,FEMALE->MALE,48,"[12, 29, 7]",0.8394202313693838,reliable,0.8394202313693838
+valence,FEMALE->FEMALE,65,"[10, 30, 25]",0.751210706504824,reliable,0.751210706504824
+arousal,MALE->MALE,99,"[9, 78, 12]",0.7040790381751479,reliable,0.7040790381751479
+arousal,MALE->FEMALE,44,"[4, 40, 0]",,undefined (a class has no true turns),0.5487179487179488
+arousal,FEMALE->MALE,48,"[13, 34, 1]",0.5229638701775873,unreliable (a class has < 5 true turns),0.5229638701775873
+arousal,FEMALE->FEMALE,65,"[7, 51, 7]",0.4909090909090909,reliable,0.4909090909090909

@@ -1,0 +1,16 @@
+{
+ "valence": {
+  "size": 1783,
+  "seed": 2,
+  "checkpoint": "models/llm_scaling/valence_1783_seed2",
+  "val_macro_f1": 0.7945091162674953,
+  "mean_val_macro_f1_for_size": 0.7865151351991718
+ },
+ "arousal": {
+  "size": 5000,
+  "seed": 2,
+  "checkpoint": "models/llm_scaling/arousal_5000_seed2",
+  "val_macro_f1": 0.6260112647209422,
+  "mean_val_macro_f1_for_size": 0.6180083266407551
+ }
+}

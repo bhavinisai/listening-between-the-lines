@@ -1,0 +1,10 @@
+task,true_label,predicted_label,count,row_percent
+arousal,Low,Low,16,48.484848484848484
+arousal,Low,Medium,17,51.515151515151516
+arousal,Low,High,0,0.0
+arousal,Medium,Low,12,5.911330049261084
+arousal,Medium,Medium,188,92.61083743842364
+arousal,Medium,High,3,1.477832512315271
+arousal,High,Low,1,5.0
+arousal,High,Medium,12,60.0
+arousal,High,High,7,35.0

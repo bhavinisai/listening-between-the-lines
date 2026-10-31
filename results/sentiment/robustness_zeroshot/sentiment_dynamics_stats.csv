@@ -1,0 +1,54 @@
+analysis,test,n,statistic,p,effect,note,headline,p_holm_headline,p_fdr_all
+tone by dyad,"Kruskal-Wallis valence (GUEST turns, 4 dyads)",414,36.24655062065153,6.641345204879877e-08,,,True,1.1290286848295792e-06,9.0973600705901e-07
+tone by dyad,"Kruskal-Wallis valence (HOST turns, 4 dyads)",414,32.021835654717506,5.178303828291561e-07,,,True,8.285286125266498e-06,4.5741683816575455e-06
+host vs guest,"Wilcoxon signed-rank valence, host vs guest (paired by episode)",414,37290.0,0.02010364001668213,0.01592120868845239,median host - guest,False,,0.04098049695708281
+tone by dyad,"Kruskal-Wallis arousal (GUEST turns, 4 dyads)",414,28.65348685486697,2.648110053576742e-06,,,True,3.9721650803651124e-05,1.403498328395673e-05
+tone by dyad,"Kruskal-Wallis arousal (HOST turns, 4 dyads)",414,19.00476136628413,0.00027277982966241967,,,True,0.0032733579559490363,0.0009035831857567652
+host vs guest,"Wilcoxon signed-rank arousal, host vs guest (paired by episode)",414,37164.0,0.01749530377132155,0.006125426051971833,median host - guest,False,,0.03709004399520168
+tone by dyad,"Kruskal-Wallis neg_share (GUEST turns, 4 dyads)",414,35.01267168825254,1.2107630168833883e-07,,,False,,1.2834087978963916e-06
+tone by dyad,"Kruskal-Wallis neg_share (HOST turns, 4 dyads)",414,31.257946418390066,7.501096099044611e-07,,,False,,4.969476165617055e-06
+host vs guest,"Wilcoxon signed-rank neg_share, host vs guest (paired by episode)",414,41999.5,0.7585859822841423,-0.0019128111511461376,median host - guest,False,,0.7883344521776381
+tone by dyad,"Kruskal-Wallis pos_share (GUEST turns, 4 dyads)",414,31.695130904820406,6.067808628846542e-07,,,False,,4.5941979618409535e-06
+tone by dyad,"Kruskal-Wallis pos_share (HOST turns, 4 dyads)",414,15.580484053754528,0.0013821474702192164,,,False,,0.0040696564400899155
+host vs guest,"Wilcoxon signed-rank pos_share, host vs guest (paired by episode)",414,29333.5,6.865932128747245e-08,0.023479248110155983,median host - guest,False,,9.0973600705901e-07
+tone by dyad,MixedLM valence: C(gender)[T.male],69486,-6.2202703193244995,4.962990806581088e-10,-0.050098011826050684,"turn-level, episode random intercept",False,,1.3151925637439884e-08
+tone by dyad,MixedLM valence: C(role)[T.HOST]:C(gender)[T.male],69486,1.569677623965453,0.11649012944923426,0.019479731596399198,"turn-level, episode random intercept",False,,0.1624730752844583
+tone by dyad,MixedLM arousal: C(gender)[T.male],69486,-2.5698072911703376,0.0101755101555053,-0.009349125495142817,"turn-level, episode random intercept",False,,0.023447914706164388
+tone by dyad,MixedLM arousal: C(role)[T.HOST]:C(gender)[T.male],69486,2.062255420682309,0.03918342482111147,0.011561141859827633,"turn-level, episode random intercept",False,,0.06993926924851812
+mirroring (valence),"GEE v_prev:C(prev_gender, Treatment('female'))[T.male]",30172,-1.8235600425935279,0.06821861200822159,-0.03342862669280911,GUEST responding; extra slope on previous tone when previous speaker is male vs female (coef),True,0.4775302840575511,0.11298707613861701
+mirroring (valence),"GEE v_prev:C(resp_gender, Treatment('female'))[T.male]",30172,1.5461551067808774,0.12206711265922648,0.02254532564212047,GUEST responding; extra slope when the responder is male (coef),False,,0.16588607617792317
+mirroring (valence),"Mann-Whitney per-episode rho, GUEST responding, prev speaker male vs female",411,14319.0,0.0013307787471537392,-0.04495256755026694,median rho male 0.203 vs female 0.248,False,,0.0040696564400899155
+mirroring (valence),"Kruskal-Wallis per-episode rho by dyad, GUEST responding",411,10.342082783246497,0.01587131092397738,,,False,,0.03504914495711672
+mirroring (valence),"GEE v_prev:C(prev_gender, Treatment('female'))[T.male]",30276,1.1186060912441698,0.26330822370100937,0.01924814784494566,HOST responding; extra slope on previous tone when previous speaker is male vs female (coef),True,0.7899246711030281,0.31716672400348855
+mirroring (valence),"GEE v_prev:C(resp_gender, Treatment('female'))[T.male]",30276,-1.5775581339990992,0.11466715682323722,-0.028770428015843133,HOST responding; extra slope when the responder is male (coef),False,,0.1624730752844583
+mirroring (valence),"Mann-Whitney per-episode rho, HOST responding, prev speaker male vs female",411,16658.0,0.1924575592300758,-0.01630290039854096,median rho male 0.138 vs female 0.154,False,,0.2428631104570004
+mirroring (valence),"Kruskal-Wallis per-episode rho by dyad, HOST responding",411,2.9355539772582233,0.4016685870555966,,,False,,0.45294542795631104
+mirroring (arousal),"GEE a_prev:C(prev_gender, Treatment('female'))[T.male]",30172,-0.07483167846337824,0.9403486367029131,-0.0013671552636336567,GUEST responding; extra slope on previous tone when previous speaker is male vs female (coef),True,0.9403486367029131,0.9403486367029131
+mirroring (arousal),"GEE a_prev:C(resp_gender, Treatment('female'))[T.male]",30172,-0.4347630990746695,0.6637343922168593,-0.0069324514164188274,GUEST responding; extra slope when the responder is male (coef),False,,0.7179167915815008
+mirroring (arousal),"Mann-Whitney per-episode rho, GUEST responding, prev speaker male vs female",411,17960.0,0.9392033211725025,0.0008718389087299938,median rho male 0.133 vs female 0.133,False,,0.9403486367029131
+mirroring (arousal),"Kruskal-Wallis per-episode rho by dyad, GUEST responding",411,1.468024320724453,0.689669716956957,,,False,,0.7310498999743744
+mirroring (arousal),"GEE a_prev:C(prev_gender, Treatment('female'))[T.male]",30276,-1.0055475768032673,0.3146332522641947,-0.014327111414305621,HOST responding; extra slope on previous tone when previous speaker is male vs female (coef),True,0.7899246711030281,0.362512225434833
+mirroring (arousal),"GEE a_prev:C(resp_gender, Treatment('female'))[T.male]",30276,1.5941352243180869,0.11090575095490683,0.02605925220761504,HOST responding; extra slope when the responder is male (coef),False,,0.1624730752844583
+mirroring (arousal),"Mann-Whitney per-episode rho, HOST responding, prev speaker male vs female",411,16789.0,0.23567104229580804,-0.024111337101287517,median rho male 0.069 vs female 0.094,False,,0.29047826143436806
+mirroring (arousal),"Kruskal-Wallis per-episode rho by dyad, HOST responding",411,3.7954717201826043,0.28441328520454395,,,False,,0.3349756470186851
+escalation (arousal escalation step),GEE C(resp_role)[T.HOST],60448,3.9742912330152382,7.058914688394718e-05,1.14131441155982,"step-level, adjacent pairs (odds ratio)",False,,0.0002494149856566134
+escalation (arousal escalation step),"GEE C(prev_gender, Treatment('female'))[T.male]",60448,-1.639840330487121,0.10103837013003507,0.951363696681899,"step-level, adjacent pairs (odds ratio)",True,0.6041208260062374,0.15300096048262454
+escalation (arousal escalation step),"GEE C(resp_gender, Treatment('female'))[T.male]",60448,-0.591138988819977,0.5544272980150844,0.9792951917916014,"step-level, adjacent pairs (odds ratio)",False,,0.6121801415583223
+escalation (arousal escalation step),Kruskal-Wallis per-episode step rate by dyad,411,14.364684398460474,0.0024485290874157353,,,True,0.025236040284539032,0.006488602081651698
+escalation (valence drop step),GEE C(resp_role)[T.HOST],60448,2.058019457804103,0.03958826561236875,1.0717672942399878,"step-level, adjacent pairs (odds ratio)",False,,0.06993926924851812
+escalation (valence drop step),"GEE C(prev_gender, Treatment('female'))[T.male]",60448,-1.6415330885527524,0.1006868043343729,0.9566507082214742,"step-level, adjacent pairs (odds ratio)",True,0.6041208260062374,0.15300096048262454
+escalation (valence drop step),"GEE C(resp_gender, Treatment('female'))[T.male]",60448,2.9368947929936127,0.003315165504030767,1.0868121336444572,"step-level, adjacent pairs (odds ratio)",False,,0.00836684627207765
+escalation (valence drop step),Kruskal-Wallis per-episode step rate by dyad,411,14.50339906210839,0.002294185480412639,,,True,0.025236040284539032,0.006399570024308941
+escalation (high-arousal contagion),GEE C(resp_role)[T.HOST],6045,-2.0768300976933753,0.037817243269478995,0.851965683103772,P(high arousal | previous turn high arousal) (odds ratio),False,,0.06993926924851812
+escalation (high-arousal contagion),"GEE C(prev_gender, Treatment('female'))[T.male]",6045,-1.5062289980543486,0.13200839777892884,0.8754104990461636,P(high arousal | previous turn high arousal) (odds ratio),False,,0.1749111270570807
+escalation (high-arousal contagion),"GEE C(resp_gender, Treatment('female'))[T.male]",6045,-1.3800133412575366,0.1675825371403601,0.8856185701874614,P(high arousal | previous turn high arousal) (odds ratio),False,,0.21663108459607522
+escalation runs (arousal rise),Kruskal-Wallis runs per 100 turns by dyad,412,12.120525814260022,0.006981489875586679,,FEMALE->FEMALE: 10.00; FEMALE->MALE: 9.67; MALE->FEMALE: 10.10; MALE->MALE: 9.18,True,0.0628334088802801,0.01681904379118609
+escalation runs (valence fall),Kruskal-Wallis runs per 100 turns by dyad,412,6.231326656352515,0.10088232966277136,,FEMALE->FEMALE: 9.14; FEMALE->MALE: 9.02; MALE->FEMALE: 9.79; MALE->MALE: 9.23,True,0.6041208260062374,0.15300096048262454
+recovery (next-turn lift),GEE C(resp_role)[T.HOST],20615,4.638031354110803,3.517434359845164e-06,1.1798189479569234,neg turns n=20615; lift >= 0.25 (odds ratio),True,4.92440810378323e-05,1.6947638279253973e-05
+recovery (next-turn lift),"GEE C(resp_gender, Treatment('female'))[T.male]",20615,-4.569532907677993,4.888124128705783e-06,0.7772932897800922,neg turns n=20615; lift >= 0.25 (odds ratio),True,6.354561367317517e-05,2.1589214901783874e-05
+recovery (next-turn lift),"GEE C(neg_gender, Treatment('female'))[T.male]",20615,-2.304570433271242,0.02119064346485219,0.88880857416938,neg turns n=20615; lift >= 0.25 (odds ratio),True,0.16952514771881752,0.041596448282858
+recovery (within 3 turns),GEE C(resp_role)[T.HOST],20615,1.9437386496554614,0.051926975330976566,1.0688699459183393, (odds ratio),False,,0.0887783771787664
+recovery (within 3 turns),"GEE C(resp_gender, Treatment('female'))[T.male]",20615,-4.896702031177189,9.745844449121836e-07,0.6166857771103038, (odds ratio),False,,5.739219508927304e-06
+recovery (within 3 turns),"GEE C(neg_gender, Treatment('female'))[T.male]",20615,-4.415752406354121,1.0065924773797454e-05,0.6534485845361762, (odds ratio),False,,4.103800100086654e-05
+recovery (who recovers),chi-square dyad x first recoverer role,20615,159.7173079604429,6.796990821595622e-32,,,True,1.2234583478872119e-30,3.6024051354456795e-30
+recovery (host vs guest),"Wilcoxon per-episode lift rate, host vs guest responder",400,28007.5,5.3256023517276125e-05,0.03490497076023391,median host - guest,False,,0.00020161208902968818

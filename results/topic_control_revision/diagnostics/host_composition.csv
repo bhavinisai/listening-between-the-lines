@@ -1,0 +1,20 @@
+dyad,host_id,episodes,host_initiations,all_initiations_in_host_episodes
+FEMALE->MALE,Karishma Mehta,28,1167,2111
+FEMALE->MALE,Faye Dsouza,19,713,1234
+FEMALE->MALE,Pooja Dhingra,5,141,253
+FEMALE->MALE,Soha Ali Khan,1,50,92
+FEMALE->MALE,unnamed:ep_022_whisperx_diarized.gender.host_guest,1,65,116
+FEMALE->MALE,unnamed:ep_024_whisperx_diarized.gender.host_guest,1,44,81
+FEMALE->MALE,unnamed:ep_115_whisperx_diarized.gender.host_guest,1,26,51
+FEMALE->MALE,unnamed:ep_116_whisperx_diarized.gender.host_guest,1,24,50
+FEMALE->MALE,unnamed:ep_121_whisperx_diarized.gender.host_guest,1,60,118
+FEMALE->MALE,unnamed:ep_123_whisperx_diarized.gender.host_guest,1,30,62
+FEMALE->MALE,unnamed:ep_125_whisperx_diarized.gender.host_guest,1,18,35
+FEMALE->MALE,unnamed:ep_140_whisperx_diarized.gender.host_guest,1,39,72
+FEMALE->MALE,unnamed:ep_322_whisperx_diarized.gender.host_guest,1,34,55
+FEMALE->MALE,unnamed:ep_324_whisperx_diarized.gender.host_guest,1,37,56
+FEMALE->MALE,unnamed:ep_326_whisperx_diarized.gender.host_guest,1,13,24
+MALE->FEMALE,Raj Shamani,32,2366,4468
+MALE->FEMALE,Ranveer A,26,3400,6194
+MALE->FEMALE,Prakhar Gupta,5,637,1225
+MALE->FEMALE,Samdish Bhatia,4,390,749
