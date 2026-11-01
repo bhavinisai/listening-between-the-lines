@@ -163,6 +163,7 @@ def main():
     device = "cuda" if torch.cuda.is_available() else "cpu"
     os.makedirs(args.out_dir, exist_ok=True)
     tr = pd.read_csv(args.train_csv)
+    tr = tr[tr.label.notna()].reset_index(drop=True)   # v3 files carry unresolved rows with no label
     assert tr.label.isin(LABELS).all()
     tok = AutoTokenizer.from_pretrained(args.model)
     json.dump(vars(args), open(os.path.join(args.out_dir, "config.json"), "w"), indent=2)

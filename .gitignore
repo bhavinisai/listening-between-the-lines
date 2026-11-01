@@ -17,3 +17,4 @@ models/
 *.wav
 # YouTube login cookies for the audio scraper
 cookies.txt
+documentation/
