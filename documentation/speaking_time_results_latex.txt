@@ -12,9 +12,12 @@
 \usepackage{graphicx}
 \usepackage{float}      % [H]: place each table/figure exactly where it appears in the source
 \usepackage{adjustbox}  % max width=\linewidth: shrink a table only if it is wider than the text
+\usepackage{titlesec}   % uniform spacing around headings
+\titlespacing*{\section}{0pt}{1.2em}{0.5em}
+\titlespacing*{\subsection}{0pt}{1.0em}{0.4em}
+\titlespacing*{\subsubsection}{0pt}{0.8em}{0.3em}
 
 \addbibresource{references.bib}
-
 
 \title{\vspace{-1.5em}\textbf{Listening Between The Lines: Analyzing Conversational Flow in Indian Podcasts}\vspace{0.5em}}
 
@@ -36,52 +39,66 @@ Rochester Institute of Technology & Rochester Institute of Technology \\[0.25em]
 \date{}
 \begin{document}
 \maketitle
-\vspace{-0.5em}
 \setstretch{1.2}
 
-\vspace{-0.5em}
-
-
-\vspace{-0.5em}
-
 \section*{Abstract}
-\vspace{-0.8em}
 
     Podcasts are a rapidly growing form of digital media, especially in India, where they provide rich, multi-speaker conversational content. In this work, we provide an automated pipeline that combines gender detection, host-guest role identification, transcription, and speaker diarization to examine conversational flow in Indian podcasts. Using this framework, we analyze speaking time distribution and interaction patterns across episodes. Our results highlight gender-based disparities in interaction patterns and demonstrate that conversations are primarily guest-driven, with guests speaking much more than hosts. This work provides a structured approach for understanding real-world conversational dynamics in podcasts.
 
-\vspace{-0.5em}
-
-
 \section*{Achievements from DSCI-602 }
-\vspace{-0.8em}
 
 In the last semester, we worked on building a dataset of Indian podcast transcripts with accurate labels for the gender and role of each speaker. We first created a pipeline to scrape podcast audio files from YouTube, after which we used deep learning tools such as WhisperX and Pyannote for speaker diarization. This led to the generation of transcripts with basic speaker segmentation and corresponding timestamps. We then used a script to identify and label the gender of each speaker based on the frequency characteristics of their voice.
 
 The next step involved identifying the host and guest in each transcript, which we implemented using the Grok API. The resulting corpus enabled us to begin identifying conversational structures, such as turn-taking and host-versus-guest dominance, and to quantify conversational dynamics, although with some limitations in accuracy. Overall, the work completed during the semester resulted in a basic but functional prototype pipeline for podcast analysis. Using this pipeline, we built a corpus of approximately $\sim 500$  transcripts.
 
-\vspace{-0.5em}
+% \section*{Continuation of Capstone}
+% \vspace{-0.8em}
 
-\section*{Continuation of Capstone}
-\vspace{-0.8em}
-
-\begin{itemize}[noitemsep, labelsep=0.3em]
-    \item \textbf{Compute total speaking time and percentage share per speaker per episode, modeled against host/guest gender dyad (MM, MF, FM, FF) using a linear mixed-effects model with episode as a random effect to isolate gender effects from show-level variation.}
-    \item \textbf{Build a composite conversational dominance score per speaker per episode combining speaking time share, turn initiation rate, interruptions received, and average turn length, then regress against gender, role, topic domain, and platform.}
-    \item \textbf{Measure topic control by computing lexical overlap between consecutive turns using TF-IDF cosine similarity to detect topic initiations and follow-ups, testing whether male speakers' topic introductions are followed up more than female speakers' in mixed-gender dyads.}
-    \item \textbf{Extract all questions from transcripts and classify them into closed, open, leading, personal, professional, and challenge types using a fine-tuned XLM-R classifier, then test whether question type distribution differs by guest gender.}
-    \item Detect overlapping speech segments from WhisperX timestamps and classify them into backchannels (short cooperative overlaps under 1 second), completions, and disruptive interruptions (long overlaps where speaker change occurs), then test interruption asymmetry as a function of gender dyad.
-    \item Score each turn on sentiment valence and arousal using a multilingual sentiment model, then analyze sentiment mirroring, emotional escalation patterns, and recovery behavior (who brings tone back up after negative turns) across gender dyads.
-\end{itemize}
-\vspace{-0.5em}
+% \begin{itemize}[noitemsep, labelsep=0.3em]
+%     \item \textbf{Compute total speaking time and percentage share per speaker per episode, modeled against host/guest gender dyad (MM, MF, FM, FF) using a linear mixed-effects model with host (show) as a random effect to isolate gender effects from show-level variation.}
+%     \item \textbf{Build a composite conversational dominance score per speaker per episode combining speaking time share, turn initiation rate, interruptions received, and average turn length, then regress against gender, role, topic domain, and platform.}
+%     \item \textbf{Measure topic control by computing lexical overlap between consecutive turns using TF-IDF cosine similarity to detect topic initiations and follow-ups, testing whether male speakers' topic introductions are followed up more than female speakers' in mixed-gender dyads.}
+%     \item \textbf{Extract all questions from transcripts and classify them into closed, open, leading, personal, professional, and challenge types using a fine-tuned XLM-R classifier, then test whether question type distribution differs by guest gender.}
+%     \item Detect overlapping speech segments from WhisperX timestamps and classify them into backchannels (short cooperative overlaps under 1 second), completions, and disruptive interruptions (long overlaps where speaker change occurs), then test interruption asymmetry as a function of gender dyad.
+%     \item Score each turn on sentiment valence and arousal using a multilingual sentiment model, then analyze sentiment mirroring, emotional escalation patterns, and recovery behavior (who brings tone back up after negative turns) across gender dyads.
+% \end{itemize}
+% \vspace{-0.5em}
 
 \section*{Software Development}
-\vspace{-0.8em}
+\paragraph{Commit practice:}
+Each analysis was developed and tested on RIT's computing cluster before it was committed to the GitHub repository. The code was only pushed after the results
+ were checked and the analysis was working as we expected. Due to this workflow, the commits show a complete part of the analysis rather than step-by-step changes.
 
-[text goes here]
+In the last month, we made \textbf{12 commits} to the shared GitHub repository
+(\textbf{11 commits with project work} and \textbf{1 merge commit.} These commits added 5,150 lines of code, deleted 301, and edited 270. For each commit, the number of lines written, deleted and edited is shown as \textbf{(written/deleted/edited)}.
 
+\begin{itemize}
+    \item \textbf{Commit 1:} Created a balanced dataset of \textbf{200 episodes}, with \textbf{50 episodes in each host--guest gender group}, and calculated speaking measures for each episode \textbf{(125/0/0)}.
+
+    \item \textbf{Commit 2:} Added summary statistics and plots to compare the four host-guest gender groups \textbf{(185/0/0)}.
+
+    \item \textbf{Commit 3:} Added a model to identify the role of each speaking turn, such as a question, answer, or acknowledgment. We also added statistical tests to compare these patterns across the four gender groups \textbf{(389/13/13)}.
+
+    \item \textbf{Commit 4:} Measured how often a speaker's newly introduced topic was followed up by the other speaker \textbf{(1,048/0/0)}.
+
+    \item \textbf{Commit 5:} Built a pipeline that trains a multilingual language model to classify the types of questions asked by hosts \textbf{(754/58/58)}.
+
+    \item \textbf{Commit 6:} Replaced our own word lists with conventional ones from existing research, checked how accurate they were, added more statistical tests, and increased the dataset size to \textbf{418 episodes} \textbf{(1,581/47/16)}.
+
+    \item \textbf{Commit 7:} Updated the README, no source-code changes \textbf{(0/0/0)}.
+
+    \item \textbf{Commit 8:} Updated the README, no source-code changes \textbf{(0/0/0)}.
+
+    \item \textbf{Commit 9:} Calculated how much of each episode was spoken by the host and guest, and added a statistical model to account for differences across shows \textbf{(473/0/0)}.
+
+    \item \textbf{Commit 10:} Ran the turn-labeling model on all \textbf{418 episodes} and added an additional check for the question-type results \textbf{(233/0/0)}.
+
+    \item \textbf{Commit 11:} Extended topic analysis to \textbf{414 episodes} and \textbf{42,320 speaker exchanges} \textbf{(362/183/183)}.
+
+    \item \textbf{Commit 12:} Merged the work, with no new code.
+\end{itemize}
 
 \section*{Dataset}
-\vspace{-0.8em}
 The dataset consists of \textbf{418} English- and Hindi-language Indian
 podcast episodes collected from YouTube, about \textbf{534 hours} of audio in
 total (median episode length 70 minutes, interquartile range 54--93 minutes).
@@ -122,43 +139,59 @@ make up more than half of the corpus.
   \end{tabular}
 \end{table}
 
+\vspace{2mm}
+% =====================================================================================
+% Progress made
+% =====================================================================================
+\section*{Completed Experiments}
 
 % =====================================================================================
 % Host and guest speaking time by gender dyad (descriptive)
 % =====================================================================================
-\clearpage
-\section*{Host and guest speaking time by gender dyad}
-\vspace{-0.8em}
-For each of the 418 episodes, a speaker's speaking time is the sum of the
-durations (end minus start) of their diarized WhisperX segments. The host's share of speaking time in an episode is
-\[
-  \text{Host share} = \frac{T_{\text{host}}}{T_{\text{host}} + T_{\text{guest}}},
-\]
-where $T_{\text{host}}$ and $T_{\text{guest}}$ are the host's and the guest's
-speaking times in that episode.
-Episodes are grouped by the host$\rightarrow$guest gender dyad. Because the
-shares are skewed, we summarize each dyad by its median and interquartile range
-(IQR).
+\subsection*{Host and guest speaking time by gender dyad}
+\paragraph{Question:}
+How is speaking time divided between the host and the guest, and does the
+division depend on the genders of the host and the guest?
+
+\paragraph{Experiment:}
+\begin{enumerate}[leftmargin=*, noitemsep]
+  \item For each of the 418 episodes, a speaker's speaking time is the sum of
+    the durations (end minus start) of their diarized WhisperX segments.
+  \item The host's share of speaking time in an episode is
+    \[
+      \text{Host share} = \frac{T_{\text{host}}}{T_{\text{host}} + T_{\text{guest}}},
+    \]
+    where $T_{\text{host}}$ and $T_{\text{guest}}$ are the host's and the
+    guest's speaking times. Silence and non-speech are excluded.
+  \item Episodes are grouped by host$\rightarrow$guest gender dyad. Because
+    the shares are skewed, each dyad is summarized by its median and
+    interquartile range (IQR).
+  \item As a robustness check, the host's share is also computed from word
+    counts instead of time.
+\end{enumerate}
 
 \begin{table}[H]
   \centering
   \small
   \caption{Host and guest speaking time by host$\rightarrow$guest gender dyad
-    (418 episodes). Minutes are medians per episode.}
+    (418 episodes).}
   \label{tab:speaking-time}
   \begin{adjustbox}{max width=\linewidth}
-  \begin{tabular}{lrrrc}
+  \begin{tabular}{lrrrcc}
     \toprule
     Dyad (host $\rightarrow$ guest) & Episodes & Host min & Guest min
-      & Host share, median (IQR) \\
+      & Host share, median (IQR) & Host word share \\
     \midrule
-    Male $\rightarrow$ male     & 226 & 13.8 & 49.1 & 21.3\% (17.0--28.1) \\
-    Male $\rightarrow$ female   &  67 & 18.0 & 49.0 & 26.3\% (22.6--32.8) \\
-    Female $\rightarrow$ male   &  64 &  7.8 & 35.9 & 19.0\% (15.5--21.4) \\
-    Female $\rightarrow$ female &  61 &  8.0 & 36.3 & 19.8\% (15.2--25.0) \\
+    Male $\rightarrow$ male     & 226 & 13.8 & 49.1 & 21.3\% (17.0--28.1) & 21.7\% \\
+    Male $\rightarrow$ female   &  67 & 18.0 & 49.0 & 26.3\% (22.6--32.8) & 27.9\% \\
+    Female $\rightarrow$ male   &  64 &  7.8 & 35.9 & 19.0\% (15.5--21.4) & 18.3\% \\
+    Female $\rightarrow$ female &  61 &  8.0 & 36.3 & 19.8\% (15.2--25.0) & 19.9\% \\
     \bottomrule
   \end{tabular}
   \end{adjustbox}
+  \par\smallskip
+  {\footnotesize \textit{Note:} Minutes are medians per episode. The last
+    column uses word counts instead of time.\par}
 \end{table}
 
 \begin{figure}[H]
@@ -166,85 +199,63 @@ shares are skewed, we summarize each dyad by its median and interquartile range
   \includegraphics[width=\linewidth]{figures/speaking_time_minutes.png}
   \caption{Median host and guest speaking time per episode, by
     host$\rightarrow$guest gender dyad (418 episodes). Host and guest medians
-    are computed separately.}
+    are computed separately, so the bar lengths are not the median episode
+    length.}
   \label{fig:speaking-time-minutes}
 \end{figure}
 
 \begin{figure}[H]
   \centering
   \includegraphics[width=\linewidth]{figures/speaking_time_share_distribution.png}
-  \caption{Host share of total speaking time, by
-    host$\rightarrow$guest gender dyad (418 episodes). Each
-    box spans the interquartile range with the median marked and labeled, and
-    the whiskers extend to the most extreme episodes within 1.5 IQR of the box.}
+  \caption{Host share of total speaking time, by host$\rightarrow$guest gender
+    dyad (418 episodes). Labels give each dyad's median.}
   \label{fig:speaking-time-share-distribution}
 \end{figure}
 
-\paragraph{Results.}
+\paragraph{Findings:}
 \begin{itemize}[leftmargin=*]
-  \item Guests speak for most of every conversation: the median host takes
-    19--26\% of the host-plus-guest speaking time (Table~\ref{tab:speaking-time},
-    Figures~\ref{fig:speaking-time-minutes}
+  \item \textbf{Guests do most of the talking:} The median host takes only
+    19--26\% of the host-plus-guest speaking time in every dyad
+    (Table~\ref{tab:speaking-time}, Figures~\ref{fig:speaking-time-minutes}
     and~\ref{fig:speaking-time-share-distribution}).
-  \item Male hosts speak most when the guest is a woman: their median share is
+  \item \textbf{Male hosts talk more with female guests:} their median share is
     26.3\% with female guests against 21.3\% with male guests.
-  \item For female hosts the share is similar with female and male guests
-    (19.8\% vs.\ 19.0\%).
-  \item Episodes with male hosts are also longer: about 64--69 minutes of host
-    and guest speech against 43--46 minutes with female hosts.
-  \item Whether these differences between the dyads are larger than chance is
-    tested in the next section.
+  \item \textbf{Female hosts do not change with guest gender} (19.8\% vs.\
+    19.0\%). This is a null result.
+  \item \textbf{Male-hosted episodes are longer:} about 64--69 minutes of host
+    and guest speech, against 43--46 minutes with female hosts.
+
 \end{itemize}
 
-
+\vspace{2mm}
 % =====================================================================================
 % Statistical comparison of host speaking time across dyads
 % =====================================================================================
-\clearpage
-\section*{Statistical comparison of host speaking time across dyads}
-\vspace{-0.8em}
-To test whether the differences in host share between the dyads (previous
-section) are larger than chance, we estimate a 95\% bootstrap confidence
-interval of each dyad's median host share (10{,}000 resamples of episodes).
-We compare dyads with a Kruskal--Wallis test and
-pairwise two-sided Mann--Whitney $U$ tests, Holm-corrected across the six
-pairs, with the rank-biserial correlation $r$ as the effect size.
+\subsection*{Statistical comparison of host speaking time across dyads}
+\paragraph{Question:}
+Are the differences in host share between the dyads (previous section)
+larger than would be expected by chance? Rank-based tests are used because
+the shares are skewed and the dyads are unequal in size (61--226 episodes);
+the Holm correction keeps the chance of a false positive across the six
+pairwise tests at 5\%, and the rank-biserial correlation $r$ ($-1$ to $+1$,
+$0$ = no difference) shows how large each difference is.
 
-\paragraph{Why these tests.}
-\begin{itemize}[leftmargin=*]
-  \item \textbf{Why test at all.} Some difference between the four dyads'
-    medians would appear by chance alone, so the tests check whether the
-    observed differences are larger than the normal variation between episodes.
-  \item \textbf{Kruskal--Wallis test.} A single overall test of whether any
-    dyad differs from the others; pairwise comparisons are only interpreted
-    when it is significant. It is the rank-based counterpart of a one-way
-    ANOVA: because it compares ranks rather than raw values, it does not assume
-    normally distributed data, it is not pulled by the few episodes with a very
-    high host share, and it allows the unequal group sizes (226 episodes in one
-    dyad, 61--67 in the others).
-  \item \textbf{Pairwise Mann--Whitney $U$ tests.} The Kruskal--Wallis test
-    shows that some dyads differ but not which ones, so each pair of dyads is
-    then compared with a Mann--Whitney $U$ test, the two-group version of the
-    same rank-based approach; the tests are two-sided because no direction was
-    assumed in advance.
-  \item \textbf{Holm correction.} Running six tests at the 5\% level would give
-    roughly a 26\% chance of at least one false positive, so the six $p$-values
-    are adjusted with the Holm method, which keeps that chance at 5\% while
-    being less strict than a Bonferroni correction.
-  \item \textbf{Rank-biserial correlation $r$.} A $p$-value indicates whether a
-    difference is likely to be real, not how large it is, so each comparison
-    also reports the rank-biserial correlation $r$: it ranges from $-1$ to
-    $+1$, is $0$ when the two dyads do not differ, and measures how
-    consistently episodes of one dyad have a higher host share than episodes of
-    the other.
-\end{itemize}
+\paragraph{Experiments:}
+\begin{enumerate}[leftmargin=*, noitemsep]
+  \item \textbf{Confidence intervals:} a 95\% bootstrap confidence interval
+    of each dyad's median host share (10{,}000 resamples of episodes).
+  \item \textbf{Overall test:} a Kruskal--Wallis test of whether the host
+    share differs across the four dyads.
+  \item \textbf{Pairwise tests:} two-sided Mann--Whitney $U$ tests for the six
+    pairs of dyads, Holm-corrected, with the rank-biserial correlation $r$ as
+    the effect size.
+\end{enumerate}
 
 \begin{table}[H]
   \centering
   \small
   \caption{Median host share of speaking time by host$\rightarrow$guest gender
-    dyad with its 95\% bootstrap confidence interval (418 episodes).
-    Kruskal--Wallis test across the four dyads: $H(3) = 41.4$, $p < .001$.}
+    dyad, with 95\% bootstrap confidence intervals}
   \label{tab:speaking-time-ci}
   \begin{tabular}{lrcc}
     \toprule
@@ -256,15 +267,14 @@ pairs, with the rank-biserial correlation $r$ as the effect size.
     Female $\rightarrow$ female &  61 & 19.8\% & 17.2--22.2\% \\
     \bottomrule
   \end{tabular}
+  \par\smallskip
+  {\footnotesize \textit{Note:} Kruskal--Wallis test across the four dyads: $H(3) = 41.4$, $p < .001$.\par}
 \end{table}
 
 \begin{table}[H]
   \centering
   \small
-  \caption{Pairwise comparisons of the host share of speaking time between
-    dyads (Mann--Whitney $U$, Holm-corrected). $r$ is the rank-biserial
-    correlation; positive values mean the first dyad has the higher host share.
-    Significant: Holm-corrected $p < .05$.}
+  \caption{Pairwise comparisons of the host share of speaking time between dyads.}
   \label{tab:speaking-time-pairs}
   \begin{tabular}{lrrrc}
     \toprule
@@ -278,91 +288,85 @@ pairs, with the rank-biserial correlation $r$ as the effect size.
     Female$\rightarrow$male vs.\ female$\rightarrow$female   & $-0.11$ & $.303$  & $.303$  & No \\
     \bottomrule
   \end{tabular}
+  \par\smallskip
+  {\footnotesize \textit{Note:} Mann--Whitney $U$ tests, Holm-corrected. $r$ is the rank-biserial
+    correlation; positive values mean the first dyad has the higher host
+    share. Significant: Holm-corrected $p < .05$.\par}
 \end{table}
-\hspace{2.0mm}
+
 \begin{figure}[H]
   \centering
   \includegraphics[width=\linewidth]{figures/speaking_time_share.png}
-  \caption{Host share of total speaking time, by
-    host$\rightarrow$guest gender dyad (418 episodes).
-    Blue points and bars are the dyad medians with 95\% bootstrap confidence
-    intervals.}
+  \caption{Host share of total speaking time, by host$\rightarrow$guest gender
+    dyad (418 episodes), with each dyad's median and its 95\% bootstrap
+    confidence interval.}
   \label{fig:speaking-time-share}
 \end{figure}
-\newpage
-\paragraph{Results.}
+
+\paragraph{Findings:}
 \begin{itemize}[leftmargin=*]
-  \item \textbf{Step 1 -- Kruskal--Wallis test (do the dyads differ at all?):
-    significant.} The host share differs across the four dyads
-    ($H(3) = 41.4$, $p < .001$; Table~\ref{tab:speaking-time-ci},
-    Figure~\ref{fig:speaking-time-share}), so the pairwise comparisons are
-    interpreted.
-  \item \textbf{Step 2 -- pairwise Mann--Whitney $U$ tests (which dyads
-    differ?):} 4 of the 6 comparisons are significant after Holm correction
-    (Table~\ref{tab:speaking-time-pairs}).
-
-  \item \textbf{Significant differences:}
-    \begin{itemize}
-      \item Male$\rightarrow$male vs.\ male$\rightarrow$female: male hosts
-        take a larger share with female guests than with male guests (21.3\%
-        vs.\ 26.3\%; $r = -0.32$, Holm $p < .001$); the two confidence
-        intervals do not overlap.
-      \item Male$\rightarrow$female vs.\ female$\rightarrow$male: 26.3\% vs.\
-        19.0\% ($r = 0.61$, Holm $p < .001$), the largest difference.
-      \item Male$\rightarrow$female vs.\ female$\rightarrow$female: 26.3\% vs.\
-        19.8\% ($r = 0.49$, Holm $p < .001$).
-      \item Male$\rightarrow$male vs.\ female$\rightarrow$male: 21.3\% vs.\
-        19.0\% ($r = 0.28$, Holm $p = .002$).
-    \end{itemize}
-  \item \textbf{Not significant:}
-    \begin{itemize}
-      \item Female$\rightarrow$male vs.\ female$\rightarrow$female: female
-        hosts take about the same share with male and female guests (19.0\%
-        vs.\ 19.8\%; Holm $p = .30$).
-      \item Male$\rightarrow$male vs.\ female$\rightarrow$female: 21.3\% vs.\
-        19.8\% (uncorrected $p = .037$, but Holm $p = .073$ after correction).
-    \end{itemize}
-  \item \textbf{In short:} the male$\rightarrow$female dyad stands out, with a
-    significantly higher host share than every other dyad. Guest gender makes
-    a significant difference for male hosts but not for female hosts.
+  \item \textbf{The dyads differ:} The Kruskal--Wallis test shows that the
+    host's share of speaking time differs across the four dyads, and the
+    pairwise Mann--Whitney $U$ tests, after Holm correction, show which pairs
+    differ (Table~\ref{tab:speaking-time-ci},
+    Figure~\ref{fig:speaking-time-share},
+    Table~\ref{tab:speaking-time-pairs}).
+  \item \textbf{Male$\rightarrow$female stands out:} Based on the pairwise
+    Mann--Whitney $U$ tests and their rank-biserial correlations, hosts in
+    male$\rightarrow$female episodes take a larger share of speaking time than
+    hosts in every other dyad, with the largest difference against
+    female$\rightarrow$male episodes. Male$\rightarrow$male hosts also speak
+    more than female$\rightarrow$male hosts.
+  \item \textbf{No difference between Female$\rightarrow$female and Female$\rightarrow$male:} After Holm correction, the pairwise tests
+    find no difference between female$\rightarrow$male and
+    female$\rightarrow$female episodes.
 \end{itemize}
-
-
+\vspace{2mm}
 % =====================================================================================
 % Conversational style by gender dyad (descriptive)
 % =====================================================================================
-\clearpage
-\section*{Conversational style by gender dyad}
-\vspace{-0.8em}
-This section describes how hosts and guests speak in each dyad: how often they
-hedge, emphasize, present statements as fact, ask direct questions and
-acknowledge the other speaker. For the host and the guest of each of the 418
-episodes, each feature is counted and expressed as a rate per 1{,}000 words.
-
-\paragraph{Features.}
-\textbf{\emph{Hedges}} (e.g.\ \emph{I think}, \emph{maybe}, \emph{probably}) and
-\emph{boosters} (e.g.\ \emph{really}, \emph{of course}, \emph{definitely}) are
-taken from Hyland's metadiscourse lexicon~\cite{hyland2005metadiscourse}.
-\textbf{\emph{Factuality}} (e.g.\ \emph{actually}, \emph{in fact}), \emph{deference}
-(e.g.\ \emph{interesting}, \emph{nice}, \emph{great question}) and
-\emph{direct questions} (wh-questions) are politeness
-strategies~\cite{danescu2013politeness} as implemented in
-ConvoKit~\cite{chang2020convokit}.
-\paragraph{Accuracy.}
-In a precision audit of 50--100 randomly sampled occurrences per feature,
-71--86\% of the counted words were correct uses of the feature (hedges 86\%,
-boosters 71\%, factuality 76\%, deference 82\%, host direct questions
-97\%).
-Guests' direct questions were mostly rhetorical in the audit, so direct
-questions are analyzed for hosts only.
+\subsection*{Conversational style by gender dyad}
+\paragraph{Question:}
+Do hosts and guests speak differently depending on the host$\rightarrow$guest
+gender dyad: how often they hedge, emphasize, present statements as fact, ask
+direct questions and defer to the other speaker? The dyads are compared with
+the same rank-based tests as speaking time. Comparing the two dyads with a
+host of the same gender (male$\rightarrow$male vs.\ male$\rightarrow$female,
+and female$\rightarrow$male vs.\ female$\rightarrow$female) shows whether the
+guest's gender matters.
+\vspace{2mm}
+\paragraph{Experiment:}
+\begin{enumerate}[leftmargin=*, noitemsep]
+  \item \textbf{Features:} \emph{Hedges} (e.g.\ \emph{I think}, \emph{maybe},
+    \emph{probably}) and \emph{boosters} (e.g.\ \emph{really}, \emph{of
+    course}, \emph{definitely}) are taken from Hyland's metadiscourse
+    lexicon~\cite{hyland2005metadiscourse}. \emph{Factuality} (e.g.\
+    \emph{actually}, \emph{in fact}), \emph{deference} (e.g.\
+    \emph{interesting}, \emph{nice}, \emph{great question}) and \emph{direct
+    questions} (wh-questions) are politeness
+    strategies~\cite{danescu2013politeness} as implemented in
+    ConvoKit~\cite{chang2020convokit}.
+  \item \textbf{Rates:} For the host and the guest of each of the 418
+    episodes, each feature is counted and expressed as a rate per 1{,}000
+    words.
+  \item \textbf{Accuracy audit:} For each feature, 50--100 randomly sampled
+    occurrences were checked by hand: 71--86\% were correct uses (hedges
+    86\%, boosters 71\%, factuality 76\%, deference 82\%, host direct
+    questions 97\%). Guests' direct questions were mostly rhetorical, so
+    direct questions are analyzed for hosts only.
+  \item \textbf{Dyad tests:} For each of the 9 feature-by-speaker measures, a
+    Kruskal--Wallis test across the four dyads (Holm-corrected across the 9
+    tests) and pairwise Mann--Whitney $U$ tests (Holm-corrected across the six
+    pairs). Two of the six pairs keep the host's gender fixed and change only
+    the guest's (male$\rightarrow$male vs.\ male$\rightarrow$female, and
+    female$\rightarrow$male vs.\ female$\rightarrow$female); these test the
+    effect of guest gender.
+\end{enumerate}
 
 \begin{table}[H]
   \centering
   \small
-  \caption{Conversational style by host$\rightarrow$guest gender dyad (418
-    episodes): median rate per 1{,}000 words.
-    $^{\dagger}$Deference is used in only a minority of episodes, so its
-    rows show the share of episodes in which it is used.}
+  \caption{Conversational style by host$\rightarrow$guest gender dyad}
   \label{tab:style}
   \begin{tabular}{llrrrr}
     \toprule
@@ -379,189 +383,135 @@ questions are analyzed for hosts only.
      & Guest & 44\% & 46\% & 17\% & 21\% \\
     \bottomrule
   \end{tabular}
+  \par\smallskip
+  {\footnotesize \textit{Note:} Median rate per 1{,}000 words. $^{\dagger}$Deference is used in only a
+    minority of episodes, so its rows show the share of episodes in which
+    it is used.\par}
 \end{table}
 
 \begin{figure}[H]
   \centering
   \includegraphics[width=\linewidth]{figures/style_rates_iqr.png}
   \caption{Hedges, boosters and factuality markers per 1{,}000 words, by
-    host$\rightarrow$guest gender dyad (418 episodes): host (blue) and guest
-    (orange) medians, with bars spanning the interquartile range.}
+    host$\rightarrow$guest gender dyad (418 episodes): host and guest medians
+    with bars spanning the interquartile range.}
   \label{fig:style-rates-iqr}
 \end{figure}
 
 \begin{figure}[H]
   \centering
   \includegraphics[width=\linewidth]{figures/style_questions_deference_iqr.png}
-  \caption{Left: host direct questions per 1{,}000 words (median, with bars
-    spanning the interquartile range). Right: share of episodes in which the
-    host (blue) and the guest (orange) use deference at least once. 418
-    episodes.}
-  \label{fig:style-questions-deference-iqr}
+  \caption{Left: host direct questions per 1{,}000 words (median and
+    interquartile range). Right: share of episodes in which the host and the
+    guest use deference at all, by host$\rightarrow$guest gender dyad (418
+    episodes).}
+  \label{fig:style-questions-deference}
 \end{figure}
 
-\paragraph{Results.}
-\begin{itemize}[leftmargin=*]
-  \item \textbf{Hedging.} Hosts hedge at a similar rate in all dyads (4.6--5.5
-    per 1{,}000 words). Guests hedge more in episodes with a female host
-    (7.1--8.2) than with a male host (4.4--4.9).
-  \item \textbf{Boosters.} Boosters are more frequent in episodes with a female
-    host, for hosts (5.3--6.0 vs.\ 3.1--3.5 per 1{,}000 words) and for guests.
-    Female guests use more boosters than male guests with hosts of either
-    gender, making FF episodes the most emphatic (guest median 6.1).
-  \item \textbf{Factuality.} Guests in FF episodes use factuality markers most
-    (1.75 per 1{,}000 words, against 0.74 in MM episodes); hosts use them more
-    in the female-host dyads (1.28--1.55) than in MM episodes (0.96).
-  \item \textbf{Direct questions.} Hosts ask more direct questions of guests of
-    the other gender: male hosts ask female guests more than male guests (5.2
-    vs.\ 3.3 per 1{,}000 words), and female hosts ask male guests more than
-    female guests (6.4 vs.\ 3.7).
-  \item \textbf{Deference.} Acknowledgements such as \emph{interesting} or
-    \emph{nice} are far more common in episodes with a male host: hosts use
-    them in 46--60\% of these episodes against 5--10\% with a female host, and
-    guests in 44--46\% against 17--21\%.
-  \item Whether these differences between the dyads are larger than chance is
-    tested in the next section.
-\end{itemize}
-
-
-% =====================================================================================
-% Statistical comparison of conversational style across dyads
-% =====================================================================================
-\clearpage
-\section*{Statistical comparison of conversational style across dyads}
-\vspace{-0.8em}
-The dyads are compared with the same tests as speaking time (see \emph{Why
-these tests} in the statistical comparison of host speaking time): a
-Kruskal--Wallis test per feature and speaker (Holm-corrected across the nine
-features), and pairwise two-sided Mann--Whitney $U$ tests (Holm-corrected
-across the six pairs of a feature), with the rank-biserial correlation $r$ as
-the effect size.
-
 \begin{table}[H]
   \centering
   \small
-  \caption{Kruskal--Wallis test of each conversational style feature across the
-    four host$\rightarrow$guest gender dyads (418 episodes), Holm-corrected
-    across the nine features. Significant: Holm-corrected $p < .05$.
-    Deference is tested on its rate per 1{,}000 words.}
-  \label{tab:style-kw}
-  \begin{tabular}{llrrc}
+  \caption{Tests of conversational style.}
+  \label{tab:style-tests}
+  \begin{tabular}{llrrcrr}
     \toprule
-    Feature & Speaker & $H(3)$ & $p$ (Holm) & Significant \\
+     & & \multicolumn{2}{c}{Kruskal--Wallis} & Pairs & \multicolumn{2}{c}{Guest gender, $p$ (Holm)} \\
+    \cmidrule(lr){3-4}\cmidrule(lr){6-7}
+    Feature & Speaker & $H(3)$ & $p$ (Holm) & sig./6 & MM vs.\ MF & FM vs.\ FF \\
     \midrule
-    Hedges & Host & 3.3 & $.353$ & No \\
-     & Guest & 50.4 & $<.001$ & Yes \\
-    Boosters & Host & 96.6 & $<.001$ & Yes \\
-     & Guest & 74.3 & $<.001$ & Yes \\
-    Factuality & Host & 12.7 & $.011$ & Yes \\
-     & Guest & 50.8 & $<.001$ & Yes \\
-    Direct questions & Host & 34.7 & $<.001$ & Yes \\
-    Deference & Host & 65.5 & $<.001$ & Yes \\
-     & Guest & 20.2 & $<.001$ & Yes \\
+    Hedges & Host & 3.3 & $.35$ & 0 & $1.00$ & $1.00$ \\
+     & Guest & 50.4 & $<.001$ & 4 & $.14$ & $.47$ \\
+    Boosters & Host & 96.6 & $<.001$ & 4 & $.08$ & $.08$ \\
+     & Guest & 74.3 & $<.001$ & 6 & $.015$ & $.025$ \\
+    Factuality & Host & 12.7 & $.011$ & 2 & $.73$ & $.73$ \\
+     & Guest & 50.8 & $<.001$ & 3 & $.07$ & $.07$ \\
+    Direct questions & Host & 34.7 & $<.001$ & 3 & $.004$ & $.006$ \\
+    Deference & Host & 65.5 & $<.001$ & 4 & $.12$ & $.32$ \\
+     & Guest & 20.2 & $<.001$ & 4 & $1.00$ & $1.00$ \\
     \bottomrule
   \end{tabular}
+  \par\smallskip
+  {\footnotesize \textit{Note:} Kruskal--Wallis across the four dyads (Holm-corrected across the 9
+    tests); number of the six pairwise Mann--Whitney $U$ comparisons
+    significant after Holm correction; and the two pairwise comparisons that
+    keep the host's gender fixed and change the guest's gender (Holm-corrected
+    across the six pairs).\par}
 \end{table}
 
-\begin{table}[H]
-  \centering
-  \small
-  \caption{Pairwise comparisons of conversational style between dyads:
-    rank-biserial correlation $r$ (Mann--Whitney $U$). Negative values mean
-    the second dyad has the higher rate. Bold: significant (Holm-corrected
-    $p < .05$ across the six pairs of a feature).}
-  \label{tab:style-pairs}
-  \begin{adjustbox}{max width=\linewidth}
-  \begin{tabular}{llrrrrrr}
-    \toprule
-    Feature & Speaker & MM--MF & MM--FM & MM--FF & MF--FM & MF--FF & FM--FF \\
-    \midrule
-    Hedges & Host & $-0.09$ & $+0.07$ & $+0.06$ & $+0.17$ & $+0.16$ & $-0.01$ \\
-     & Guest & $-0.15$ & $\mathbf{-0.48}$ & $\mathbf{-0.40}$ & $\mathbf{-0.42}$ & $\mathbf{-0.32}$ & $+0.07$ \\
-    Boosters & Host & $-0.17$ & $\mathbf{-0.50}$ & $\mathbf{-0.72}$ & $\mathbf{-0.39}$ & $\mathbf{-0.62}$ & $-0.19$ \\
-     & Guest & $\mathbf{-0.23}$ & $\mathbf{-0.44}$ & $\mathbf{-0.62}$ & $\mathbf{-0.28}$ & $\mathbf{-0.49}$ & $\mathbf{-0.23}$ \\
-    Factuality & Host & $-0.07$ & $\mathbf{-0.24}$ & $\mathbf{-0.21}$ & $-0.18$ & $-0.14$ & $+0.04$ \\
-     & Guest & $-0.18$ & $\mathbf{-0.28}$ & $\mathbf{-0.57}$ & $-0.13$ & $\mathbf{-0.45}$ & $-0.23$ \\
-    Direct questions & Host & $\mathbf{-0.27}$ & $\mathbf{-0.44}$ & $-0.12$ & $-0.21$ & $+0.16$ & $\mathbf{+0.33}$ \\
-    Deference & Host & $-0.14$ & $\mathbf{+0.40}$ & $\mathbf{+0.38}$ & $\mathbf{+0.53}$ & $\mathbf{+0.51}$ & $-0.05$ \\
-     & Guest & $-0.01$ & $\mathbf{+0.25}$ & $\mathbf{+0.22}$ & $\mathbf{+0.26}$ & $\mathbf{+0.24}$ & $-0.03$ \\
-    \bottomrule
-  \end{tabular}
-  \end{adjustbox}
-\end{table}
 
-\paragraph{Results.}
+\paragraph{Findings:}
 \begin{itemize}[leftmargin=*]
-  \item \textbf{Step 1 -- Kruskal--Wallis tests (do the dyads differ at all?):
-    8 of the 9 measures are significant} (Table~\ref{tab:style-kw}). Only host
-    hedging does not differ across dyads ($H(3) = 3.3$, $p = .35$), so its
-    pairwise comparisons are not interpreted.
-  \item \textbf{Step 2 -- pairwise Mann--Whitney $U$ tests (which dyads
-    differ?): 30 of the 54 comparisons are significant} after Holm correction
-    (Table~\ref{tab:style-pairs}; the medians are shown in
-    Figures~\ref{fig:style-rates-iqr}
-    and~\ref{fig:style-questions-deference-iqr}).
-  \item \textbf{Hedges (guests).} Significant: all four comparisons between a
-    female-host and a male-host dyad (MM--FM, MM--FF, MF--FM, MF--FF). Not
-    significant: MM--MF and FM--FF, so guest gender makes no difference within
-    either host gender.
-  \item \textbf{Boosters.}
-    \begin{itemize}
-      \item Hosts: significant for all four female-host vs.\ male-host
-        comparisons; not significant for MM--MF and FM--FF.
-      \item Guests: all six comparisons are significant, including MM--MF
-        ($r = -0.23$) and FM--FF ($r = -0.23$): female guests use more
-        boosters than male guests with hosts of either gender.
-    \end{itemize}
-  \item \textbf{Factuality.}
-    \begin{itemize}
-      \item Hosts: significant only for MM--FM and MM--FF (both female-host
-        dyads above MM).
-      \item Guests: significant for MM--FM, MM--FF and MF--FF; not significant
-        for MM--MF, MF--FM and FM--FF.
-    \end{itemize}
-  \item \textbf{Direct questions (hosts).} Significant: MM--MF ($r = -0.27$),
-    FM--FF ($r = +0.33$) and MM--FM. Not significant: MM--FF, MF--FM and
-    MF--FF. Both within-host-gender comparisons are significant: hosts ask
-    more direct questions of guests of the other gender.
-  \item \textbf{Deference (hosts and guests).} Significant for all four
-    female-host vs.\ male-host comparisons; not significant for MM--MF and
-    FM--FF.
-  \item \textbf{In short:} most significant differences are between episodes
-    with a female host and episodes with a male host. Guest gender makes a
-    significant difference within the same host gender only for guests'
-    boosters and hosts' direct questions.
+  \item \textbf{Most measures differ across dyads:} The Kruskal--Wallis tests
+    (Holm-corrected) show that almost every feature differs across the four
+    dyads, and the pairwise Mann--Whitney $U$ tests, after Holm correction,
+    show which pairs of dyads differ (Table~\ref{tab:style-tests}).
+  \item \textbf{Hedging (host): no difference (negative finding):} The
+    Kruskal--Wallis test on the host's hedging rate per 1{,}000 words is not
+    significant: hosts hedge at a similar rate in all dyads.
+  \item \textbf{Hedging (guest): depends on the host's gender, not the
+    guest's:} The median hedging rates and the pairwise tests show that guests
+    hedge more with a female host than with a male host
+    (Figure~\ref{fig:style-rates-iqr}). The comparisons that keep the host's
+    gender fixed find no difference between female and male guests.
+  \item \textbf{Boosters:} The median booster rates and the pairwise tests show
+    that boosters are more frequent in episodes with a female host, for both
+    hosts and guests, with female$\rightarrow$female episodes the most
+    emphatic. With hosts of either gender, female guests use more boosters
+    than male guests; hosts' own use of boosters does not differ by the
+    guest's gender.
+  \item \textbf{Factuality:} The median factuality rates and the pairwise tests
+    show that guests in female$\rightarrow$female episodes use factuality
+    markers most, more than guests in either male-host dyad. Hosts use them
+    more in the female-host dyads than in male$\rightarrow$male episodes. For
+    hosts and guests alike, the comparisons that keep the host's gender fixed
+    find no difference by guest gender.
+  \item \textbf{Direct questions:} The median rates of host direct questions
+    and the pairwise tests show that hosts ask more direct questions of guests
+    of the other gender: male hosts ask female guests more than male guests,
+    and female hosts ask male guests more than female guests
+    (Figure~\ref{fig:style-questions-deference}). Both comparisons are
+    significant.
+  \item \textbf{Deference:} The share of episodes in which deference is used,
+    together with the pairwise tests on the deference rate, shows that
+    acknowledgements such as \emph{interesting} or \emph{nice} are far more
+    common in episodes with a male host, for both hosts and guests. The
+    comparisons that keep the host's gender fixed find no difference by guest
+    gender, for hosts or guests.
 \end{itemize}
-
+\vspace{2mm}
 % =====================================================================================
 % Dialogue acts by gender dyad
 % =====================================================================================
-\clearpage
-\section*{Dialogue acts by gender dyad}
-\vspace{-0.8em}
-Every transcript segment of the host and the guest was labeled with one of 11
-dialogue acts by a pretrained classifier (\texttt{diwank/silicone-deberta-pair},
-a DeBERTa model fine-tuned on the SILICONE dialogue-act benchmark), which
-reads each segment together with the preceding segment as context. Unlike the
-style features, the unit is the individual transcript segment: segments are not
-merged into turns, and the first and last minute of each episode are included.
-For each episode we compute, separately for the host and the guest, the share
-of their segments that carry each act. The comparisons use the six acts that
-make up at least 1\% of all segments (Table~\ref{tab:da-dist}); the other five
-are too rare to compare per episode. The \emph{ask} label covers every
-question, including rhetorical and mid-turn ones, so it is broader than the
-direct questions of the previous section. The dyads are compared as before:
-medians with 95\% bootstrap confidence intervals, a Kruskal--Wallis test per
-act and speaker (Holm-corrected across the twelve tests), and pairwise
-Mann--Whitney $U$ tests Holm-corrected across the six pairs, with the
-rank-biserial correlation $r$ as the effect size. The classifier's accuracy on
-these podcasts, which mix English and Hindi, has not been audited.
+\subsection*{Dialogue acts by gender dyad}
+\paragraph{Question:}
+Does what hosts and guests \emph{do} in their turns (ask, answer, make
+statements, acknowledge) differ by host$\rightarrow$guest gender dyad? The
+dyads are compared with the same rank-based tests as before.
+
+\paragraph{Experiment:}
+\begin{enumerate}[leftmargin=*, noitemsep]
+  \item \textbf{Labeling:} Every transcript segment of the host and the guest
+    was labeled with one of 11 dialogue acts by a pretrained classifier
+    (\texttt{diwank/silicone-deberta-pair}, a DeBERTa model fine-tuned on the
+    SILICONE dialogue-act benchmark), which reads each segment together with
+    the preceding segment as context. Unlike the style features, the unit is
+    the individual transcript segment: segments are not merged into turns,
+    and the first and last minute of each episode are included.
+  \item \textbf{Shares:} For each episode we compute, separately for the host
+    and the guest, the share of their segments that carry each act. The
+    comparisons use the six acts that make up at least 1\% of all segments
+    (Table~\ref{tab:da-dist}); the other five are too rare to compare per
+    episode.
+  \item \textbf{Dyad tests:} Medians with 95\% bootstrap confidence intervals,
+    a Kruskal--Wallis test per act and speaker (Holm-corrected across the
+    twelve tests), and pairwise Mann--Whitney $U$ tests (Holm-corrected across
+    the six pairs) with the rank-biserial correlation $r$ as the effect size.
+\end{enumerate}
 
 \begin{table}[H]
   \centering
   \small
-  \caption{Dialogue acts of host and guest segments across all 418 episodes
-    (143{,}207 host and 412{,}838 guest segments).}
+  \caption{Dialogue acts of host and guest segments}
   \label{tab:da-dist}
   \begin{tabular}{lrrr}
     \toprule
@@ -585,11 +535,7 @@ these podcasts, which mix English and Hindi, has not been audited.
 \begin{table}[H]
   \centering
   \small
-  \caption{Dialogue acts by host$\rightarrow$guest gender dyad (418 episodes):
-    median share of the speaker's segments (\%), and the Kruskal--Wallis test
-    across the four dyads (Holm-corrected across the twelve tests).
-    MM = male$\rightarrow$male, MF = male$\rightarrow$female,
-    FM = female$\rightarrow$male, FF = female$\rightarrow$female.}
+  \caption{Dialogue acts by host$\rightarrow$guest gender dyad }
   \label{tab:da}
   \begin{tabular}{llrrrrrr}
     \toprule
@@ -609,14 +555,17 @@ these podcasts, which mix English and Hindi, has not been audited.
      & Guest & 1.5 & 2.1 & 1.4 & 1.7 & 31.1 & $<.001$ \\
     \bottomrule
   \end{tabular}
+  \par\smallskip
+  {\footnotesize \textit{Note:} Median share of the speaker's segments (\%), and the Kruskal--Wallis
+    test across the four dyads (Holm-corrected across the twelve tests).
+    MM = male$\rightarrow$male, MF = male$\rightarrow$female, FM =
+    female$\rightarrow$male, FF = female$\rightarrow$female.\par}
 \end{table}
 
 \begin{table}[H]
   \centering
   \small
-  \caption{Pairwise comparisons of dialogue acts between dyads: rank-biserial
-    correlation $r$ (Mann--Whitney $U$). Negative values mean the second dyad
-    has the higher share. Bold: Holm-corrected $p < .05$ across the six pairs.}
+  \caption{Pairwise comparisons of dialogue acts between dyads.}
   \label{tab:da-pairs}
   \begin{adjustbox}{max width=\linewidth}
   \begin{tabular}{llrrrrrr}
@@ -638,6 +587,10 @@ these podcasts, which mix English and Hindi, has not been audited.
     \bottomrule
   \end{tabular}
   \end{adjustbox}
+  \par\smallskip
+  {\footnotesize \textit{Note:} Rank-biserial correlation $r$ (Mann--Whitney $U$). Negative values
+    mean the second dyad has the higher share. Bold: Holm-corrected $p <
+    .05$ across the six pairs.\par}
 \end{table}
 
 \begin{figure}[H]
@@ -658,56 +611,57 @@ these podcasts, which mix English and Hindi, has not been audited.
   \label{fig:da-minor}
 \end{figure}
 
-\paragraph{Results.}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.85\linewidth]{figures/dialogue_acts_composition.png}
+  \caption{How host and guest speech is divided between dialogue acts, by
+    host$\rightarrow$guest gender dyad (418 episodes): mean share of the
+    speaker's segments.}
+  \label{fig:da-composition}
+\end{figure}
+
+\paragraph{Findings:}
 \begin{itemize}[leftmargin=*]
-  \item Hosts and guests play the expected interview roles: one in five host
-    segments is a question against one in thirteen guest segments, and guests'
-    segments are mostly answers and statements (Table~\ref{tab:da-dist}).
-  \item Ten of the twelve act-by-speaker measures differ across dyads
-    (Table~\ref{tab:da}), and 33 of the 72 pairwise comparisons remain
-    significant after correction (Table~\ref{tab:da-pairs}).
-  \item \textbf{Guests.} The clearest difference is between episodes with
-    female and male hosts.
-    \begin{itemize}
-      \item With a female host, guests make more statements (\emph{say}
-        52.8--57.2\% of segments, against 38.0--40.8\% with a male host) and
-        give fewer answers (29.6--36.3\% against 43.8--45.6\%), and they ask
-        fewer questions and express fewer intentions.
-      \item Guest gender matters within the female-host dyads, where female
-        guests make even more statements than male guests (57.2\% vs.\ 52.8\%,
-        $r = -0.32$) and give fewer answers (29.6\% vs.\ 36.3\%, $r = +0.40$).
-      \item With male hosts, female guests reply ``yes'' more often than male
-        guests (2.1\% vs.\ 1.5\%, $r = -0.39$); their other acts do not differ.
-    \end{itemize}
-  \item \textbf{Hosts.}
-    \begin{itemize}
-      \item In the female$\rightarrow$male dyad hosts ask the most questions
-        (23.7\% of segments, against 20.5\% in both male-host dyads).
-      \item Hosts answer less in episodes with a female host and express fewer
-        intentions (three of the four comparisons with male-host dyads are
-        significant).
-      \item Hosts make more statements in the male$\rightarrow$female and
-        female$\rightarrow$female dyads than in male$\rightarrow$male episodes.
-      \item How often hosts acknowledge the guest or reply ``yes'' does not
-        differ between dyads.
-    \end{itemize}
+  \item \textbf{Interview roles:} The overall distribution of dialogue acts
+    shows that hosts ask far more questions than guests, while guests' segments
+    are mostly answers and statements (Table~\ref{tab:da-dist},
+    Figure~\ref{fig:da-composition}).
+  \item \textbf{Most acts differ across dyads:} The Kruskal--Wallis tests
+    (Holm-corrected) show that most act-by-speaker measures differ across the
+    four dyads (Table~\ref{tab:da}), and the pairwise Mann--Whitney $U$ tests,
+    after Holm correction, show which pairs of dyads differ
+    (Table~\ref{tab:da-pairs}).
+  \item \textbf{Guests: the host's gender matters most:} The median shares of
+    each act and the pairwise tests show that, with a female host, guests make
+    more statements, give fewer answers, ask fewer questions and express fewer
+    intentions than with a male host (Figure~\ref{fig:da-main}).
+  \item \textbf{Guests: guest gender matters in places:} The pairwise tests and
+    their rank-biserial correlations show that, with female hosts, female
+    guests make even more statements and give fewer answers than male guests.
+    With male hosts, female guests reply ``yes'' more often than male guests;
+    their other acts do not differ.
+  \item \textbf{Hosts:} The median shares and the pairwise tests show that
+    female hosts of male guests ask the most questions. Hosts answer less and
+    express fewer intentions in episodes with a female host, and make more
+    statements in the male$\rightarrow$female and female$\rightarrow$female
+    dyads than in male$\rightarrow$male episodes
+    (Figures~\ref{fig:da-main} and~\ref{fig:da-minor}).
+  \item \textbf{Negative finding:} The Kruskal--Wallis tests on how often hosts
+    acknowledge the guest or reply ``yes'' are not significant: these acts do
+    not differ between dyads.
 \end{itemize}
 
-
+\clearpage
 % =====================================================================================
 % Topic control
 % =====================================================================================
-\clearpage
-\section*{Topic Control and Follow-up in Mixed-Gender Dyads}
-\vspace{-0.8em}
+\subsection*{Topic Control and Follow-up in Mixed-Gender Dyads}
 
-Topic control is an important aspect of conversational dominance because speakers whose topics are followed may have greater influence over the direction of the discussion. A long-standing idea in language and gender research is that men's topics are more likely to be taken up, whereas women's topics are more likely to be ignored or dropped.
+Topic control is an important aspect of who dominates a conversation. The speaker whose topics the other person picks up usually steers the direction of the conversation. A long-standing idea in language and gender research is that men's topics are more likely to be taken up, whereas women's topics are more likely to be ignored or dropped.
 
-Recent studies suggest that gender still shapes topic initiation \cite{TopicInitiationbyKoreanandChineseSpeakersonRealityDatingShows}, but large-scale analyses indicate that gendered speech patterns vary with context and are not consistently male-dominated \cite{yoo2022conversational}. We examine whether this pattern also appears in English-language Indian podcasts featuring one host and one guest. Podcasts are well suited to this question because they include long and natural conversations between speakers. In addition, hosts often guide the discussion through questions and guests respond to them. This helps us examine whether follow-up depends on the speaker's gender or on their conversational role.
+Recent studies suggest that gender still shapes topic initiation \cite{TopicInitiationbyKoreanandChineseSpeakersonRealityDatingShows}, but large-scale studies indicate that gendered speech patterns depend on context and are not always male-dominated \cite{yoo2022conversational}. We test whether this pattern also appears in Indian podcasts (English and Hindi) featuring one host and one guest. Podcasts are well suited to this question because they include long and natural conversations between speakers. In addition, hosts also steer the discussion by asking questions and guests answer them. This helps us examine whether follow-up is associated with the speaker's gender or with their conversational role.
 
-Our analysis focuses on mixed-gender host--guest conversations and compares how often male-initiated topics receive follow-up with how often female-initiated topics receive follow-up. Since podcast transcripts do not contain direct labels for topic changes, topic initiation and follow-up are identified using lexical similarity between conversational turns, with semantic similarity used as a robustness check.
-
-
+Our analysis focuses on mixed-gender host-guest conversations and compares how often male-initiated topics receive follow-up with how often female-initiated topics do. Since podcast transcripts do not label where the topic changes, topic initiation and follow-up are identified automatically using lexical similarity between conversational turns, with semantic similarity used as a robustness check.
 
 \begin{quote}
 \textbf{RQ:} In mixed-gender host--guest conversations, are topics introduced by male speakers followed up more often than topics introduced by female speakers?
@@ -717,39 +671,37 @@ Our analysis focuses on mixed-gender host--guest conversations and compares how 
 Based on prior research, we develop the following hypotheses:
 \vspace{-0.8em}
 \begin{quote}
-\textbf{H$_1$:} Male-initiated topics receive more follow-up than female-initiated topics.
+\textbf{H$_1$:} Male-initiated topics are followed up more than female-initiated topics.
 
-\textbf{H$_0$:} Follow-up does not differ by the gender of the topic initiator.
+\textbf{H$_0$:} Male-initiated topics are not followed up more than female-initiated topics.
 \end{quote}
 
-The hypothesis test uses the \textbf{131 mixed-gender episodes} (MF + FM;
-262 speakers), which contain \textbf{17,046 topic initiations} with a
-response: \textbf{8,742 by male speakers} and \textbf{8,304 by female
-speakers}.
+The hypothesis test uses the \textbf{131 mixed-gender episodes} (67 MF + 64 FM; 262 speakers), which contain \textbf{17,046 topic initiations} with a response: \textbf{8,742 by male speakers} and \textbf{8,304 by female speakers}. Each of these episodes has one male and one female speaker, and also one host and one guest. This means that within an episode, gender and role are perfectly linked. So the only way to compare men and women in the same role is to compare different episodes (male-hosted vs.\ female-hosted).
 
+\subsubsection*{Identifying initiations and follow-ups}
+Consecutive lines from the same speaker were merged into one turn, and backchannels such as ``yeah'' and ``mhm'' were removed. Each turn was represented as a TF-IDF vector, and cosine similarity measured the lexical overlap between adjacent turns.
 
+A turn was treated as a topic initiation if its similarity to the previous turn was at or below the episode median, and as followed up if the other speaker's next turn was more similar to it than the median. Medians were computed separately for each episode to allow for differences between conversations.
 
-\subsection*{Identifying initiations and follow-ups}
-Consecutive lines from the same speaker are merged into one turn, and
-backchannels such as ``yeah'' and ``mhm'' are removed. Each turn is
-represented as a TF-IDF vector, and similarity between turns is measured with cosine similarity. A turn is a \emph{topic initiation} if its similarity to the previous turn is at or below the episode median. It is followed up if the other speaker's next turn is similar to it, above the episode median. Using each episode's own median keeps the measure comparable across episodes.
+However, most consecutive turns share no content words, so the median is often zero. In 72 of the 131 episodes, a follow-up therefore just means that the reply repeats at least one content word from the initiating turn. Therefore, the measure captures \textbf{lexical overlap} rather than topic continuation as a listener would judge it, and it has not been validated against human judgements.
+
 
 \subsubsection*{Statistical Analysis}
-Because turns from the same episode are not independent, our primary test is a \textbf{GEE logistic regression} that predicts follow-up from the initiator's gender, controls for role (host or guest) and turn length, and groups errors by episode because turns from the same episode are not independent. We validate the result with a mixed-effects model and with paired tests comparing the male and female speakers in the same episode. Additionally, we verify the result at fixed similarity thresholds using sentence embeddings, which capture meaning rather than word overlap.
+Because turns within an episode are not independent, the primary analysis is a \textbf{GEE logistic regression} that predicts follow-up from the initiator's gender, controlling for role (host or guest) and turn length, with errors clustered by episode. Since gender and role are linked within an episode, the gender effect in this model comes only from comparing male-hosted and female-hosted episodes. A \textbf{sensitivity analysis} therefore varied one choice at a time: how turn length is included, how episodes are weighted, and whether errors are clustered by host instead of episode. The host--guest gap was also compared directly between male-hosted and female-hosted episodes.
 
-\subsubsection*{Results}
+Paired tests compared the male and female speakers within each episode, and a mixed-effects model was also fitted. These answer related but different questions: the paired tests do not adjust for role, and the mixed model uses the continuous similarity score instead of the binary follow-up. The paired test was repeated with sentence embeddings, which capture meaning rather than word overlap.
 
-\paragraph{Raw comparison.}
-Pooled across all initiations, male-initiated topics appear to be followed
-up more often (42.2\% vs.\ 37.7\%; Table~\ref{tab:tc-descriptive}), and
-this gap appears at every threshold (Table~\ref{tab:tc-thresholds}).
-Within the same episode, however, there is no gap (41.5\% vs.\ 42.6\%;
-Fig.~\ref{fig:tc-episode}).
 
-\begin{table}[t]
+\subsubsection*{Findings}
+
+\paragraph{Raw comparison:}
+After pooling across all initiations, male-initiated topics appear to be followed
+up more often (42.2\% vs.\ 37.7\%, a gap of \textbf{+4.4 pp}; Table~\ref{tab:tc-descriptive}). This pooled gap appears at every fixed similarity threshold, but it does not take role into account.
+However, within the same episode there is no clear gap (41.5\% vs.\ 42.6\%; Fig.~\ref{fig:tc-episode}). Fig.~\ref{fig:tc-episode} shows why: the male speaker is followed up more when he is the host (+9.4 pp) and less when he is the guest ($-12.3$ pp), and these cancel out.
+
+\begin{table}[H]
 \centering
-\caption{Follow-up rate by initiator gender, pooled and per episode
-(95\% CI).}
+\caption{Follow-up rate by initiator gender, pooled and per episode (95\% CI; not adjusted for role).}
 \label{tab:tc-descriptive}
 \begin{tabular}{lcccc}
 \toprule
@@ -757,32 +709,650 @@ Fig.~\ref{fig:tc-episode}).
 \cmidrule(lr){2-3}\cmidrule(lr){4-5}
 Initiator & Initiations & Follow-up rate & Mean & Median \\
 \midrule
-Female & 8,304 & 37.7\% [36.7, 38.7] & 42.6\% [40.6, 44.6] & 43.3\% \\
-Male   & 8,742 & 42.2\% [41.2, 43.2] & 41.5\% [39.8, 43.2] & 40.6\% \\
+Female & 8,304 & 37.7\% [35.7, 40.0] & 42.6\% [40.6, 44.7] & 43.3\% \\
+Male   & 8,742 & 42.2\% [40.5, 43.9] & 41.5\% [39.8, 43.2] & 40.6\% \\
 \midrule
-Male $-$ female & & $+4.5$ pp & \multicolumn{2}{c}{$-1.2$ pp [$-4.1$, $+1.7$]} \\
+Male $-$ female & & $+4.4$ pp [$+1.9$, $+6.7$] & \multicolumn{2}{c}{$-1.2$ pp [$-4.1$, $+1.8$]} \\
 \bottomrule
 \end{tabular}
 \end{table}
 
-\begin{table}[t]
+
+\begin{figure}[H]
 \centering
-\caption{Pooled follow-up rate at fixed thresholds, not adjusted for role
-(gap CI from 500 episode-level bootstrap samples).}
-\label{tab:tc-thresholds}
-\begin{tabular}{cccc}
+\includegraphics[width=0.65\linewidth]{figures/fig3_within_episode_gender_difference.png}
+\caption{Male $-$ female follow-up difference within each episode, by host gender (95\% CI).}
+\label{fig:tc-episode}
+\end{figure}
+
+\paragraph{Role composition and the pooled gap:}
+78\% of male initiations come from hosts, whereas only 30\% of female
+initiations do. So the pooled gender difference is strongly confounded by who is the host: it mostly compares hosts with guests. Within each role, the difference between men and women is small (hosts: 49\% female vs.\ 46\% male; guests: 36\% vs.\ 37\%; Fig.~\ref{fig:tc-role}). However, these men and women come from different episodes and shows, not the same conversation, so this comparison does not separate gender from show.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.6\linewidth]{figures/fig2_followup_by_gender_within_role.png}
+\caption{Follow-up rate by initiator gender within each role (95\% CI).}
+\label{fig:tc-role}
+\end{figure}
+
+\paragraph{Hypothesis test:}
+The GEE results do not support H$_1$ (Table~\ref{tab:tc-models}). After controlling for role and turn length, host-initiated topics have higher odds of follow-up than guest-initiated topics (OR $= 2.20$). In the original model, male-initiated topics have slightly lower odds of follow-up (OR $= 0.85$, $p = 0.002$), which is the opposite of what H$_1$ predicts.
+
+However, the sensitivity analysis shows that this gender result is not robust (Table~\ref{tab:tc-sensitivity}). The odds ratio for men ranges from \textbf{0.79 to 1.00} depending on how turn length is included, and it is not significant when turn length is left out ($p = 0.94$), when reply length is added ($p = 0.13$), or when errors are grouped by host ($p = 0.08$). The direct episode-level comparison also finds no clear difference ($p = 0.22$). In contrast, the host association stays above 1 in every version (OR 1.50--2.78). The within-episode tests, with either TF-IDF or embeddings ($p = 0.44$ and $p = 0.43$), and the mixed-effects model ($p = 0.42$) also find no clear gender difference, although they answer slightly different questions. \textbf{We therefore do not reject H$_0$}, and we do not treat the OR of 0.85 as evidence that men's topics are followed up less. A non-significant result here also does not show that men and women are followed up equally.
+
+
+
+\begin{table}[H]
+\centering
+\caption{Predictors of follow-up: GEE (binary follow-up) and mixed model (reply similarity).}
+\label{tab:tc-models}
+\begin{tabular}{lcccc}
 \toprule
-Threshold & Female & Male & Male $-$ female (pp) [95\% CI] \\
+ & \multicolumn{2}{c}{GEE (binary follow-up)} & \multicolumn{2}{c}{Mixed model (similarity)} \\
+\cmidrule(lr){2-3}\cmidrule(lr){4-5}
+Predictor & OR [95\% CI] & $p$ & $\beta \times 100$ [95\% CI] & $p$ \\
 \midrule
-0.02 & 33.4\% & 37.8\% & 4.4 [1.9, 7.0] \\
-0.05 & 21.7\% & 25.3\% & 3.5 [1.1, 5.9] \\
-0.10 & 11.9\% & 15.2\% & 3.4 [1.6, 4.9] \\
-0.15 &  7.6\% & 10.2\% & 2.6 [1.3, 3.8] \\
-0.20 &  5.1\% &  7.5\% & 2.4 [1.4, 3.3] \\
-0.30 &  2.9\% &  4.1\% & 1.3 [0.5, 1.9] \\
+Male initiator (vs.\ female)    & 0.85 [0.76, 0.94] & 0.002    & 0.21 [$-0.30$, 0.72]    & 0.42 \\
+Host initiator (vs.\ guest)     & 2.20 [1.99, 2.44] & $<$0.001 & 1.85 [1.33, 2.38]       & $<$0.001 \\
+Initiating turn, per +100 words & 2.64 [2.26, 3.08] & $<$0.001 & $-0.08$ [$-0.35$, 0.18] & 0.53 \\
+\bottomrule
+\end{tabular}
+
+\vspace{3pt}
+\parbox{0.95\linewidth}{\footnotesize \emph{Note.} Mixed-model coefficients are changes in reply similarity (0--1 scale) multiplied by 100. The two models use different outcomes and are not directly comparable.}
+\end{table}
+
+
+
+\begin{table}[H]
+\centering
+\caption{Sensitivity of the gender and role estimates.}
+\label{tab:tc-sensitivity}
+\begin{tabular}{llccc}
+\toprule
+ & Model & Male initiator & $p$ & Host initiator \\
+\midrule
+A & Original                       & 0.85 [0.76, 0.94] & 0.002    & 2.20 [1.99, 2.44] \\
+B & No turn length                 & 1.00 [0.91, 1.09] & 0.94     & 1.50 [1.37, 1.64] \\
+C & Log turn length                & 0.79 [0.72, 0.87] & $<$0.001 & 2.78 [2.53, 3.06] \\
+D & Log turn + log reply length    & 0.93 [0.85, 1.02] & 0.13     & 1.85 [1.69, 2.03] \\
+E & Equal episode weights          & 0.83 [0.75, 0.92] & $<$0.001 & 2.22 [1.99, 2.47] \\
+F & Errors grouped by host$^{\dagger}$ & 0.85 [0.70, 1.02] & 0.08 & 2.21 [1.57, 3.12] \\
+\midrule
+G & Episode-level gap & \multicolumn{3}{l}{MF 9.4 pp vs.\ FM 12.3 pp; difference $-2.8$ [$-7.4$, $+1.6$], $p = 0.22$} \\
+\bottomrule
+\end{tabular}
+
+\vspace{3pt}
+\parbox{0.95\linewidth}{\footnotesize $^{\dagger}$Only 19 hosts (4 male), so these errors are unreliable; shown for reference only.}
+\end{table}
+
+
+\paragraph{Role across all dyads:}
+Across all episodes (42,320 initiations), the host-initiated topics are
+followed up more than guest-initiated topics in every dyad (46--52\% vs.\
+36--41\%; Fig.~\ref{fig:tc-dyad}), whether the host is male or female. Part of this association comes from how the measure works: questions get more lexical follow-up than other turns, hosts ask more questions, and longer replies are more likely to share a word with the turn before them. So when a guest gives a long answer to a host's question, it usually counts as a follow-up.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.75\linewidth]{figures/fig1_followup_by_role_all_dyads.png}
+\caption{Follow-up rate by dyad and initiator role across all episodes (95\% CI).}
+\label{fig:tc-dyad}
+\end{figure}
+
+
+\subsubsection*{Conclusion}
+
+We found no evidence that men's topics are followed up more than women's. The male advantage in the pooled data appears because most topics started by men come from hosts (78\%), whereas most topics started by women come from guests (only 30\% from hosts). Role, rather than gender, is therefore more closely linked to whose topics are taken up. This does not rule out a gender effect, however, as the gender estimate is sensitive to model specification and rests on a small number of hosts. Our measure also relies on word overlap between adjacent turns and has not been validated by human annotators, so it may miss replies that continue a topic in different words. Overall, the findings support the view that gendered speech patterns are context-dependent \cite{yoo2022conversational}, and show that ignoring speaker role and episode structure could have suggested a gender bias that the data do not support.
+
+\clearpage
+
+
+\subsection*{Question Types and Guest Gender}
+
+Questions are one of the main ways a host shapes the interview. The type of question asked (e.g., open or closed, personal or professional) decides what a guest talks about and how much room they get to answer.
+Media research has shown that women are often depicted by their personal life and looks rather than their skills and abilities \cite{Andrich-2023}\cite{bauer_taylor_2023}. We look at whether hosts of English-language Indian podcasts ask different kinds of questions based on the guest's gender.
+
+\begin{quote}
+\textbf{RQ:} Does the type of question asked by the host
+differ by the gender of the guest?
+\vspace{-0.8em}
+\end{quote}
+
+\begin{quote}
+\textbf{H$_1$:} The distribution of question type differs by guest's gender.
+
+\textbf{H$_0$:} The distribution of question type does not differ by guest's
+gender.
+\end{quote}
+
+\subsubsection*{Method}
+
+\paragraph{Data:}
+This analysis currently uses the balanced sample of 200 episodes (50 per
+dyad: MM, MF, FM, FF). We extracted 27,299 questions, of which 12,726 were
+asked by hosts. Only host questions are analysed.
+
+\paragraph{Question extraction:}
+We combined any lines spoken by the same speaker into one turn. Each of the turns was then split into sentences, and sentences ending with a question mark are kept as questions.
+
+\paragraph{Question types:}
+Each question is assigned one of six types (Table~\ref{tab:qt-types}).
+
+\begin{table}[H]
+\centering
+\caption{Question types with example host question from the dataset.}
+\label{tab:qt-types}
+\begin{tabular}{lp{4.2cm}p{5.8cm}}
+\toprule
+Type & Meaning & Example \\
+\midrule
+Closed       & Short or yes/no answer & ``Is this the end of the episode?'' \\
+Open         & Detailed answer & ``So what can we learn about love from them?'' \\
+Leading      & Expects an answer & ``Love bombing means this, right?'' \\
+Personal     & Private life or feelings & ``Was there a night where you lost hope?'' \\
+Professional & Work or career-related & ``What are the five things you look in any company before you invest?'' \\
+Challenge    & Explains or defends a view & ``Why didn't you say yes to anyone?'' \\
 \bottomrule
 \end{tabular}
 \end{table}
+
+\paragraph{Classifier:}
+Since there was no pre-existing labelled dataset, we created a training set of
+1,280 questions sampled across dyads and speaker roles and had to label them by using an
+LLM (Claude Sonnet 5). We fine-tuned an XLM-R model (\texttt{xlm-roberta-base}) on 85\% of
+this set, tested it on the other 15\%, and then used it to classify all
+extracted questions.
+
+\subsubsection*{Findings}
+
+\paragraph{Classifier performance:}
+Currently, the classifier has a 69\% accuracy on the test set
+(Table~\ref{tab:qt-classifier}). We observed that it performs well on closed, open and
+leading questions, reasonably on personal and professional questions, and
+less effectively on challenge questions, as there were only 48 training examples.
+
+\begin{table}[H]
+\centering
+\caption{Classifier performance on the test set (192 questions).}
+\label{tab:qt-classifier}
+\begin{tabular}{lcccc}
+\toprule
+Type & Precision & Recall & F1 & Test $n$ \\
+\midrule
+Closed       & 0.86 & 0.65 & 0.74 & 57 \\
+Open         & 0.75 & 0.82 & 0.78 & 55 \\
+Leading      & 0.76 & 0.81 & 0.79 & 32 \\
+Personal     & 0.52 & 0.58 & 0.55 & 24 \\
+Professional & 0.45 & 0.53 & 0.49 & 17 \\
+Challenge    & 0.12 & 0.14 & 0.13 &  7 \\
+\midrule
+Accuracy / macro-F1 & \multicolumn{4}{c}{0.69 / 0.58} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\paragraph{Question types by guest gender:}
+In general, hosts ask open (28.9\%)  and closed (24.2\%) questions. These are followed by personal (18.6\%), professional (12.7\%), leading (11.9\%), and challenge (3.7\%) questions. Table~\ref{tab:qt-dyad} compares male and
+female guests separately for male and female hosts. 
+When male hosts talked to female guests, about 1 in 5 questions (20.7\%) were personal. With male guests, it was about 1 in 8 questions (12.2\%). Similarly, female hosts did the same thing. About 1 in 4 of their questions (25.4\%) were personal, as opposed to 1 in 6 questions (16.8\%) for male guests. Therefore, it is safe to say that female guests receive more personal questions from both male hosts as well as female hosts. 
+
+
+\begin{table}[H]
+\centering
+\caption{Percentages of host questions by type and guest gender (12,726
+questions, 200 episodes).}
+\label{tab:qt-dyad}
+\begin{tabular}{lcccc}
+\toprule
+ & \multicolumn{2}{c}{Male host} & \multicolumn{2}{c}{Female host} \\
+\cmidrule(lr){2-3}\cmidrule(lr){4-5}
+Type & Male guest & Female guest & Male guest & Female guest \\
+\midrule
+Open         & 35.0\% & 28.3\% & 26.5\% & 23.2\% \\
+Closed       & 26.0\% & 30.6\% & 18.0\% & 12.2\% \\
+Personal     & 12.2\% & 20.7\% & 16.8\% & 25.4\% \\
+Leading      & 11.4\% &  9.1\% & 14.4\% & 17.1\% \\
+Professional & 11.2\% &  7.9\% & 20.4\% & 18.7\% \\
+Challenge    &  4.2\% &  3.3\% &  3.9\% &  3.3\% \\
+\midrule
+Questions    & 3,407 & 5,035 & 2,118 & 2,166 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\clearpage
+
+%-------------------------------------------------------------
+\subsection*{Sentiment and Emotional Dynamics in Gender Dyads}
+
+A second way speakers shape a conversation is through emotional tone. If one speaker becomes more positive, negative or intense, the other speaker might match that tone, push back against it, or try to change it. If listeners match the tone of men more than that of women, men would have a greater influence on the emotional course of a conversation. We examine this in Indian podcasts through three behaviours: \textbf{mirroring} (how closely a speaker's tone follows the previous turn), \textbf{escalation} (whether positivity decreases or intensity increases across turns), and \textbf{recovery} (which speaker brings the tone back up after a negative turn).
+
+
+\begin{quote}
+\textbf{RQ:} Does emotional tone vary across gender dyads, and do guests mirror the tone of male hosts more than that of female hosts?
+\vspace{-0.8em}
+\end{quote}
+
+Based on prior research, we develop the following hypotheses:
+\vspace{-0.8em}
+\begin{quote}
+\textbf{H$_1$:} Guests mirror the tone of male hosts more than that of female hosts.
+
+\textbf{H$_0$:} Guests do not mirror the tone of male hosts more than that of female hosts.
+\end{quote}
+
+
+Because tone by dyad, escalation, and recovery are exploratory, we made no hypotheses for them. The analysis covers 414 episodes (69,486 turns) across the four host$\rightarrow$guest dyads. We prepared turns as in the topic-control analysis: we merged consecutive lines from the same speaker and removed backchannels.
+
+
+\subsubsection*{Building the sentiment scorer}
+Each turn needed two scores: \textbf{valence} (negative, neutral or positive) and \textbf{arousal} (low, medium or high). Since most of this experiment went into building a scorer we could trust, we describe each step below.
+
+\paragraph{Human gold set:}
+We hand-labelled 400 turns from across the corpus, following our predefined guidelines for valence and arousal, and used these labels to evaluate every model. The set turned out to be very unbalanced: 72\% of turns were neutral, and 391 of the 400 turns were medium arousal. A model that always predicts ``neutral'' would already reach 72\% accuracy, so we report macro-F1 and Cohen's $\kappa$ alongside accuracy.
+
+\paragraph{Zero-shot models:}
+We compared several pretrained multilingual sentiment models on the gold set without any training. The best one, a multilingual XLM-R model, reached an accuracy of 0.56, a macro-F1 of 0.44 and $\kappa = 0.17$, below the always-neutral baseline. Fine-tuning on the 400 gold labels (with episode-grouped cross-validation) raised accuracy to 0.66--0.69 but did not improve macro-F1 (0.44), so 400 labels were not enough to train a better model.
+
+\paragraph{LLM-labelled training data:}
+Since more hand labelling was not possible, we used a large language model (LLM; Claude Sonnet) to label training turns, using a fixed prompt based on the same guidelines as the hand labels. Each turn was labelled in three independent passes, and the majority label was kept. The passes agreed strongly with each other (valence $\kappa = 0.87$, arousal $\kappa = 0.71$ between two passes), but only weakly with our hand labels ($\kappa \approx 0.2$). A first model trained on these labels reached a macro-F1 of 0.71 on held-out LLM-labelled episodes, but only 0.45 on the human gold set (Fig.~\ref{fig:sent-gold}). So the trained models reproduce the LLM's judgement of tone, which is not necessarily the same as a human judgement.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.75\linewidth]{figures/earlier_models_test_vs_human_gold.png}
+\caption{Macro-F1 of the first LLM-trained models on LLM-labelled test turns and on the human gold set (95\% CI).}
+\label{fig:sent-gold}
+\end{figure}
+
+
+\paragraph{Improving the models:}
+Next, we ran three checks to improve the models, using a validation set of 256 turns from 18 episodes that were not part of the training data.
+
+\begin{itemize}
+\item \textbf{More data:} we trained on nested sets of 1,783, 3,000 and 5,000 LLM-labelled turns (three seeds each). Arousal improved with more data (macro-F1 0.52 $\rightarrow$ 0.57 $\rightarrow$ 0.62), but valence got slightly worse (0.79 $\rightarrow$ 0.77 $\rightarrow$ 0.75; Fig.~\ref{fig:sent-scaling}).
+
+\item \textbf{Type of added data:} to understand the drop in valence, we added the same number of either targeted turns (likely negative or high-arousal) or random turns to the original 1,783 set (five seeds each). Both additions lowered macro-F1 (0.79 $\rightarrow$ 0.77 and 0.76). Targeted turns improved recall of negative turns compared with random turns, but not compared with the original set.
+
+\item \textbf{Ensembles:} averaging the models from different seeds did not beat the best single model (valence 0.78 vs.\ 0.79; arousal 0.62 vs.\ 0.63).
+\end{itemize}
+
+We also tuned decision thresholds on the validation set. This raised the validation scores, but it did not improve results on the test or gold sets, so we did not use it.
+
+
+\paragraph{Final models:}
+We kept the valence model trained on 1,783 turns and the arousal model trained on 5,000 turns (Table~\ref{tab:sent-models}). Their scores are optimistic, because the best epoch of each run was selected using the same 18 validation episodes. These final models were also not evaluated on the human gold set.
+
+\begin{table}[H]
+\centering
+\caption{Valence and arousal scorers compared during model development.}
+\label{tab:sent-models}
+\begin{tabular}{llcc}
+\toprule
+Model & Evaluated on & Valence macro-F1 & Arousal macro-F1 \\
+\midrule
+Zero-shot XLM-R                 & Human gold (400)         & 0.44 & --   \\
+Fine-tuned on gold labels       & Human gold (CV)          & 0.44 & --   \\
+First LLM-trained model         & LLM test (35 episodes)   & 0.71 & 0.55 \\
+First LLM-trained model         & Human gold (400)         & 0.45 & 0.36 \\
+Final models (1,783 / 5,000)    & Validation (18 episodes) & 0.79 & 0.63 \\
+\bottomrule
+\end{tabular}
+
+\vspace{3pt}
+\parbox{0.95\linewidth}{\footnotesize \emph{Note.} -- = no three-class arousal model at this stage. Always predicting ``neutral'' gives 72\% accuracy. Scores from different evaluation sets are not directly comparable.}
+\end{table}
+
+
+\vspace{3pt}
+\parbox{0.95\linewidth}{\footnotesize \emph{Note.} Always predicting ``neutral'' gives 72\% accuracy on the gold set. Scores on different evaluation sets are not directly comparable.}
+\end{table}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.75\linewidth]{figures/performance_by_training_size.png}
+\caption{Validation macro-F1 by training-set size for valence and arousal (three seeds).}
+\label{fig:sent-scaling}
+\end{figure}
+
+\subsubsection*{Measuring emotional dynamics}
+Each turn's valence was scored from $-1$ to $1$ (the probability of positive minus the probability of negative), and its arousal from 0 to 1. Using these scores, we measured three behaviours. For \textbf{mirroring}, we measured how closely a reply's valence or arousal followed the previous turn, separately for guests replying to hosts and hosts replying to guests. For \textbf{escalation}, we counted steps where arousal rose or valence fell by at least half a standard deviation from one turn to the next, and runs of at least three turns that kept rising (a total rise of at least one standard deviation). For \textbf{recovery}, we took each negative turn (valence $\le -0.25$) and checked whether the next turn raised valence by at least 0.25, and whether the host or the guest did so.
+
+Since turns within the same episode are not independent, the main analysis is a \textbf{GEE regression} with errors clustered by episode, testing whether a guest's reply follows the host's tone more closely when the host is male. Differences across the four dyads were tested on episode-level values with Kruskal--Wallis tests, and host--guest differences within episodes with Wilcoxon signed-rank tests. The main tests were Holm-corrected. Because the scorer has not been validated against human labels, all analyses were repeated with the zero-shot model as a robustness check. As in topic control, gender and role are linked, so comparing male and female hosts also means comparing different shows.
+
+
+\subsubsection*{Findings}
+
+\paragraph{Tone by dyad:}
+Average valence and arousal differ across the four dyads for both hosts and guests (Kruskal--Wallis, all $p < 0.001$; Fig.~\ref{fig:sent-dyad}), and this holds with both scorers.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.7\linewidth]{figures/fig3a_valence_by_dyad_role.png}
+\caption{Average valence of host and guest turns in each dyad (95\% CI).}
+\label{fig:sent-dyad}
+\end{figure}
+
+\paragraph{Mirroring:}
+Guests' valence follows the host's valence in every dyad, but more strongly with \textbf{female hosts} than with male hosts, which is the opposite of H$_1$ (Fig.~\ref{fig:sent-mirror}). With the LLM-trained scorer, this difference is significant after Holm correction ($p = 0.0007$). % CHECK: final-scorer p-value
+With the zero-shot scorer, it points in the same direction but is not significant (GEE $p = 0.068$, Holm $p = 0.48$). Arousal mirroring does not differ by host gender ($p = 0.94$). \textbf{We therefore do not reject H$_0$}: there is no evidence that guests mirror male hosts more.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.65\linewidth]{figures/fig5_mirroring_episode_rho.png}
+\caption{Per-episode valence mirroring of the guest, by host gender.}
+\label{fig:sent-mirror}
+\end{figure}
+
+
+
+\paragraph{Escalation:}
+Hosts are slightly more likely than guests to raise the arousal of the conversation ($\text{OR} = 1.14$, $p < 0.001$), and the rate of escalation steps differs across dyads (Holm $p = 0.025$; Fig.~\ref{fig:sent-escalation}). % CHECK: final-scorer values
+In mixed-gender episodes, neither speaker's gender predicts escalation ($p = 0.10$ and $p = 0.55$).
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.7\linewidth]{figures/fig6b_escalation_runs_by_dyad_v2.png}
+\caption{Escalation runs per 100 turns in each dyad.}
+\label{fig:sent-escalation}
+\end{figure}
+
+\paragraph{Recovery:}
+Recovery results are not consistent between the two scorers (Table~\ref{tab:sent-results}). With one, hosts are less likely than guests to lift the tone after a negative turn ($\text{OR} = 0.76$); with the other, they are more likely ($\text{OR} = 1.18$). We therefore draw no conclusions about who recovers the tone.
+
+
+\subsubsection*{Conclusion}
+We found no evidence that guests mirror the emotional tone of male hosts more than that of female hosts. If anything, guests followed female hosts' tone more closely, although this was only significant with one scorer. Emotional tone does differ across dyads, and hosts are slightly more likely than guests to escalate the conversation. These findings have clear limitations: the scorer was trained on LLM labels that agree only weakly with human labels, arousal could not be validated, and male and female hosts come from different shows. The main methodological finding of this experiment is that, for conversational podcast speech, adding more or more targeted LLM labels did not improve valence scoring.
+
+\vspace{2mm}
+% =====================================================================================
+% Interruptions and overlapping speech
+% =====================================================================================
+\subsection*{Interruptions and Overlapping Speech in Gender Dyads}
+
+Interruptions are a third way speakers shape a conversation: by talking over
+someone, a speaker can take the floor from them. Not every overlap is an
+interruption, however. Short overlaps such as ``yeah'' or ``mhm'' are usually
+backchannels that support the current speaker rather than cut them off. We
+therefore separate overlaps into backchannels, attempts to take the floor that
+fail, and attempts that succeed, and ask whether these differ by
+host$\rightarrow$guest gender dyad.
+
+\begin{quote}
+\textbf{RQ:} Do interruptions and backchannels differ across gender dyads, and
+do male hosts interrupt female guests more than they interrupt male guests?
+\vspace{-0.8em}
+\end{quote}
+
+\begin{quote}
+\textbf{H$_1$:} Male hosts interrupt female guests at a different rate than
+they interrupt male guests.
+
+\textbf{H$_0$:} Male hosts interrupt female and male guests at the same rate.
+\end{quote}
+
+Differences between the other dyads, and between hosts and guests within an
+episode, are exploratory, so we made no hypotheses for them.
+
+\subsubsection*{Method}
+
+\paragraph{Data:}
+This analysis currently covers episodes 331--418 (88 episodes, about 102
+hours of audio). One episode was excluded because its speakers could not be
+reliably matched to host and guest (see below), leaving 87 episodes: 37
+male$\rightarrow$male, 9 male$\rightarrow$female, 15 female$\rightarrow$male
+and 26 female$\rightarrow$female. These episodes come from only four hosts,
+two male and two female.
+
+\paragraph{Detecting overlapping speech:}
+WhisperX keeps only one speaker at a time, so our transcripts contain no
+overlapping speech. We therefore re-ran the same pyannote diarization model
+that WhisperX uses (\texttt{speaker-diarization-community-1}, two speakers)
+on the audio and kept its overlapping output. Each pyannote speaker was then
+matched to the transcript speaker whose words overlap it most in time, which
+gives it the host or guest role and gender. Episodes in which less than 70\%
+of a speaker's time fell on its matched speaker were excluded (one episode).
+In the remaining episodes the median match was 89\% for hosts and 97\% for
+guests. Overlapping speech makes up about 5\% of the audio.
+
+\paragraph{Classifying overlaps:}
+A speaker's turns less than 0.5\,s apart were merged, so that short pauses
+do not count as giving up the floor. An overlap event occurs when speaker B
+starts a turn while speaker A is still talking; overlaps shorter than 0.3\,s
+were ignored. Each event was assigned one of five types:
+\begin{itemize}[leftmargin=*, noitemsep]
+  \item \textbf{Backchannel:} B's turn ends while A is still talking and is
+    at most 1\,s long, or contains only backchannel words (e.g.\
+    \emph{yeah}, \emph{right}, \emph{haan}).
+  \item \textbf{Unsuccessful interruption:} B's turn ends while A is still
+    talking, so A keeps the floor.
+  \item \textbf{Successful interruption:} B keeps talking after A stops,
+    after more than 0.5\,s of overlap, so B takes the floor.
+  \item \textbf{Terminal overlap:} B keeps talking after A stops, but the
+    overlap is at most 0.5\,s (B starts as A is finishing).
+  \item \textbf{Simultaneous start:} both turns start within 0.2\,s of each
+    other, so neither speaker clearly overlaps the other.
+\end{itemize}
+
+\paragraph{Rates:}
+For each episode, the events started by the host and by the guest were
+counted and expressed as a rate per 10 minutes of the \emph{other} speaker's
+speaking time, since a speaker can only be interrupted while they hold the
+floor. This matters because guests speak about three times as long as hosts
+(median 45 vs.\ 15 minutes per episode).
+
+\paragraph{Statistical tests:}
+For each of the six measures (successful interruptions, unsuccessful
+interruptions and backchannels, each made by the host and by the guest), a
+Kruskal--Wallis test compared the four dyads, and pairwise Mann--Whitney $U$
+tests compared the six pairs of dyads. The hypothesis is tested by the
+male$\rightarrow$male vs.\ male$\rightarrow$female comparison of host
+successful interruptions. A Wilcoxon signed-rank test compared the host's and
+the guest's rate within each episode. $p$-values were corrected with the
+Benjamini--Hochberg false discovery rate (FDR) procedure: across the six
+measures for the Kruskal--Wallis tests, across the six pairs for each
+measure, and across all host-vs-guest tests.
+
+\paragraph{Accuracy check:}
+A sample of 200 overlap events has been drawn for checking by ear, but has
+not yet been labelled, so the accuracy of the overlap types is not yet known.
+
+\subsubsection*{Findings}
+
+\paragraph{Overall composition:}
+The 87 episodes contain 22{,}192 overlap events. Most are backchannels
+(56\%), followed by successful interruptions (19\%), unsuccessful
+interruptions (15\%), terminal overlaps (6\%) and simultaneous starts (4\%).
+Hosts start more overlaps than guests (14{,}081 vs.\ 8{,}111), mainly because
+they give far more backchannels (8{,}901 vs.\ 3{,}595). When guests overlap,
+they more often take the floor: 29\% of guest overlaps are successful
+interruptions, compared with 13\% of host overlaps
+(Figure~\ref{fig:int-types}).
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\linewidth]{figures/overlap_type_shares.png}
+  \caption{Share of each overlap type among all overlap events started by
+    hosts and by guests (87 episodes, pooled).}
+  \label{fig:int-types}
+\end{figure}
+
+\begin{table}[H]
+  \centering
+  \small
+  \caption{Interruption and backchannel rates by host$\rightarrow$guest gender dyad.}
+  \label{tab:int-rates}
+  \begin{tabular}{llrrrrrr}
+    \toprule
+     & & & & & & \multicolumn{2}{c}{Kruskal--Wallis} \\
+    \cmidrule(lr){7-8}
+    Measure & Made by & MM & MF & FM & FF & $H(3)$ & $p$ (FDR) \\
+    \midrule
+    Successful interruptions   & Host  &  4.4 &  7.6 &  3.1 &  3.1 &  9.9 & $.034$ \\
+                               & Guest & 13.3 & 20.7 & 11.0 & 11.0 & 11.2 & $.032$ \\
+    Unsuccessful interruptions & Host  &  5.5 &  6.5 &  2.8 &  3.6 &  9.5 & $.034$ \\
+                               & Guest &  4.4 &  7.7 &  4.7 &  5.7 &  7.7 & $.057$ \\
+    Backchannels               & Host  & 17.1 & 25.4 & 22.7 & 20.8 &  7.5 & $.057$ \\
+                               & Guest & 14.2 & 26.6 & 21.5 & 20.0 & 13.9 & $.018$ \\
+    \midrule
+    Episodes                   &       &   37 &    9 &   15 &   26 &      &        \\
+    \bottomrule
+  \end{tabular}
+  \par\smallskip
+  {\footnotesize \textit{Note:} Median events per 10 minutes of the other
+    speaker's speaking time. Kruskal--Wallis across the four dyads,
+    FDR-corrected across the six measures.\par}
+\end{table}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\linewidth]{figures/interruption_rates_iqr.png}
+  \caption{Successful interruptions, unsuccessful interruptions and
+    backchannels made by the host and by the guest, per 10 minutes of the
+    other speaker's speech, by host$\rightarrow$guest gender dyad (87
+    episodes): medians with bars spanning the interquartile range.}
+  \label{fig:int-rates}
+\end{figure}
+
+\paragraph{Differences across dyads:}
+The Kruskal--Wallis tests show that four of the six measures differ across
+dyads: successful interruptions by hosts and by guests, unsuccessful
+interruptions by hosts, and backchannels by guests
+(Table~\ref{tab:int-rates}). Seven of the eight significant pairwise
+differences involve the male$\rightarrow$female dyad, which has the highest
+median on all six measures, for hosts and guests alike
+(Figure~\ref{fig:int-rates}). The two female-host
+dyads do not differ from each other on any measure.
+
+\paragraph{Hypothesis test:}
+Male hosts make more successful interruptions with female guests than with
+male guests (median 7.6 vs.\ 4.4 per 10 minutes; $p_{\text{FDR}} = .030$,
+rank-biserial $r = 0.53$), so we reject H$_0$. However, the female guests in
+these episodes also interrupt and backchannel more than male guests do. They
+give backchannels at almost twice the rate (26.6 vs.\ 14.2;
+$p_{\text{FDR}} = .007$), and their successful interruptions (20.7 vs.\ 13.3)
+and unsuccessful interruptions (7.7 vs.\ 4.4) are also higher, although not
+significantly. Male$\rightarrow$female episodes therefore seem to contain more
+overlapping speech on both sides, rather than male hosts talking over female
+guests while the guests do not respond in kind.
+
+\begin{table}[H]
+  \centering
+  \small
+  \caption{Host vs.\ guest rates within episodes (Wilcoxon signed-rank test).}
+  \label{tab:int-host-guest}
+  \begin{tabular}{lrrrrrr}
+    \toprule
+     & \multicolumn{2}{c}{Successful} & \multicolumn{2}{c}{Unsuccessful} & \multicolumn{2}{c}{Backchannels} \\
+    \cmidrule(lr){2-3}\cmidrule(lr){4-5}\cmidrule(lr){6-7}
+    Dyad & Host / guest & $p$ (FDR) & Host / guest & $p$ (FDR) & Host / guest & $p$ (FDR) \\
+    \midrule
+    MM  & 4.4 / 13.3 & $<.001$ & 5.5 / 4.4 & $.96$  & 17.1 / 14.2 & $.033$ \\
+    MF  & 7.6 / 20.7 & $.010$  & 6.5 / 7.7 & $.065$ & 25.4 / 26.6 & $.82$  \\
+    FM  & 3.1 / 11.0 & $<.001$ & 2.8 / 4.7 & $.072$ & 22.7 / 21.5 & $.95$  \\
+    FF  & 3.1 / 11.0 & $<.001$ & 3.6 / 5.7 & $.033$ & 20.8 / 20.0 & $.95$  \\
+    \midrule
+    All & 4.1 / 12.5 & $<.001$ & 4.0 / 5.6 & $.010$ & 20.2 / 18.3 & $.22$  \\
+    \bottomrule
+  \end{tabular}
+  \par\smallskip
+  {\footnotesize \textit{Note:} Median events per 10 minutes of the other
+    speaker's speaking time; $p$-values FDR-corrected across all 15
+    tests.\par}
+\end{table}
+
+\paragraph{Hosts vs.\ guests:}
+In every dyad, guests make about three times as many successful
+interruptions per 10 minutes of host speech as hosts make per 10 minutes of
+guest speech (overall median 12.5 vs.\ 4.1; Table~\ref{tab:int-host-guest}).
+Guests also make slightly more unsuccessful interruptions overall (5.6 vs.\
+4.0). In raw counts the two roles are much closer (2{,}317 successful
+interruptions by guests vs.\ 1{,}866 by hosts); the gap in rates arises
+because hosts hold the floor for much less time, so each minute of host
+speech is interrupted more often. Some of these ``interruptions'' may also be
+guests starting to answer just before the host has finished a question.
+Backchannel rates are similar for hosts and guests, except in
+male$\rightarrow$male episodes, where hosts give more backchannels than
+guests (17.1 vs.\ 14.2).
+
+\subsubsection*{Conclusion}
+Male hosts interrupt female guests more often than they interrupt male
+guests, but this is part of a broader pattern: male$\rightarrow$female
+episodes contain more interruptions and backchannels from both speakers, so
+we do not read it as male hosts dominating female guests. Role matters more
+than gender for who takes the floor: in every dyad, guests interrupt hosts
+far more often per minute of the other speaker's speech than hosts interrupt
+guests. These results are preliminary. They cover only 87 episodes from four
+hosts, so dyad differences cannot be separated from differences between
+individual hosts, and the male$\rightarrow$female group has only nine
+episodes. The overlap types have also not yet been checked by hand. Next, we
+will label the 200 sampled events to measure the accuracy of the overlap
+types, and extend the analysis to all 418 episodes.
+
+\clearpage
+
+
+% =====================================================================================
+% Next steps
+% =====================================================================================
+\section*{Next Steps}
+Two analyses from our plan remain: interruptions and overlapping speech, and
+sentiment dynamics. We will also finish the question-type analysis. All
+three use the same 418 episodes, the same host$\rightarrow$guest dyads and the
+same statistical approach as the completed analyses, so the results will be
+directly comparable.
+
+\subsection*{1. Completing the question type analysis}
+So far, the results are preliminary, and we need more steps to align them with the topic control and dialogue act analyses.
+
+\begin{itemize}[leftmargin=*]
+  \item Expand the analysis to all 418 episodes. 
+  \item Re-test the hypothesis by grouping questions by episode and comparing each host's questions to male and female guests, so that differences between hosts do not drive the result.
+  \item Evaluate the accuracy of the classifier by hand-labeling a sample of questions and measuring how often the classifier agrees. 
+
+\end{itemize}
+
+\subsection*{2. Interruptions and overlapping speech}
+The results so far cover only 87 episodes from four hosts, so they are
+preliminary. The remaining steps are:
+
+\begin{itemize}[leftmargin=*]
+  \item \textbf{Expand the analysis to all 418 episodes:} Run the
+    overlap-preserving diarization on episodes 1--330 (episodes 1--50 are
+    queued on the GPU cluster; audio for the rest will be downloaded again
+    with our scraper), then repeat the overlap detection, statistical tests
+    and plots on the full corpus. This adds the other five recurring hosts
+    and many more male$\rightarrow$female episodes (67 instead of 9).
+  \item \textbf{Check the accuracy of the overlap types:} Listen to the 200
+    sampled overlap events (40 per type) without seeing the automatic label,
+    and label each one by ear. Use half of the sample to adjust the
+    detection thresholds if needed, and the other half to report how often
+    each automatic type is correct. Both of us will label a shared subset so
+    that agreement between annotators (Cohen's $\kappa$) can be reported.
+  \item \textbf{Separate host effects from gender effects:} With more hosts,
+    compare each host's interruption rate with male and female guests, or
+    fit a mixed-effects model with the host as a random effect, so that
+    differences between individual hosts do not drive the dyad results.
+  \item \textbf{Check early answers:} Test whether guests' successful
+    interruptions are partly guests starting to answer before the host has
+    finished a question, by checking whether the interrupted host turn ends
+    in a question (using the dialogue-act labels).
+\end{itemize}
+
+\subsection*{3. Sentiment and emotional dynamics}
+
+\begin{itemize}[leftmargin=*]
+  \item \textbf{Goal:} Test if emotional tone varies by gender dyad and how hosts and guests react to each other's emotions. (eg: Are guests more likely to mirror a male host's tone more than a female host's tone?) 
+  \item Each turn will be evaluated for valence (how positive or negative it is) and arousal (how calm or intense it is) through a multilingual sentiment model. We will do this after excluding backchannels and very short turns, similar to topic control analysis. 
+  \item Three behaviors will be measured: mirroring (how closely a speaker's tone aligns with the previous turn), escalation (increase in intensity across turns) and recovery (whether the host or the guest brings the tone back up
+  after a negative turn). 
+  \item Statistical tests to compare dyads and check host vs. guest differences within episodes. This will check sentiment measures by dyad, accuracy of the scores, and plots. 
+
+  
+\end{itemize}
+
+  
 
 \clearpage
 \printbibliography

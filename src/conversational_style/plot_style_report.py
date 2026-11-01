@@ -47,6 +47,7 @@ def style(ax, labels=True):
     ax.set_yticks(Y)
     if labels:
         ax.set_yticklabels([LABELS[d] for d in DYADS])
+        ax.set_ylabel("Gender dyad (host \u2192 guest)")
     else:
         ax.tick_params(axis="y", labelleft=False)   # shared axis: hide, don't clear, the labels
     ax.set_ylim(Y.min() - 0.55, Y.max() + 0.55)
@@ -65,7 +66,7 @@ def ci_points(ax, s, metric, color, dy_off, interval="ci"):
 
 
 def legend(fig, handles):
-    fig.legend(handles=handles, loc="upper left", bbox_to_anchor=(0.2, 0.995), ncol=len(handles),
+    fig.legend(handles=handles, loc="upper left", bbox_to_anchor=(0.24, 0.995), ncol=len(handles),
                frameon=False, fontsize=8, handlelength=1.4, borderaxespad=0)
 
 
@@ -91,7 +92,7 @@ def rates_figure(s, path, interval="ci"):
         style(ax, labels=(i == 0))
     fig.supxlabel(INTERVALS[interval][2], fontsize=9, color=INK2, y=0.02)
     legend(fig, [marker(HOST, "Host"), marker(GUEST, "Guest")])
-    fig.subplots_adjust(left=0.15, right=0.98, top=0.84, bottom=0.16)
+    fig.subplots_adjust(left=0.19, right=0.98, top=0.84, bottom=0.16)
     save(fig, path)
 
 
@@ -116,7 +117,7 @@ def questions_deference_figure(s, path, interval="ci"):
     b.set_xlabel("Episodes in which it is used")
     style(b, labels=False)
     legend(fig, [Patch(color=HOST, label="Host"), Patch(color=GUEST, label="Guest")])
-    fig.subplots_adjust(left=0.15, right=0.98, top=0.84, bottom=0.17)
+    fig.subplots_adjust(left=0.19, right=0.98, top=0.84, bottom=0.17)
     save(fig, path)
 
 

@@ -38,7 +38,7 @@ def acts_figure(s, panels, path):
         style(ax, labels=(i == 0))
     fig.supxlabel("Median share of the speaker's segments (95% CI)", fontsize=9, color=INK2, y=0.02)
     legend(fig, [marker(HOST, "Host"), marker(GUEST, "Guest")])
-    fig.subplots_adjust(left=0.15, right=0.98, top=0.84, bottom=0.16)
+    fig.subplots_adjust(left=0.19, right=0.98, top=0.84, bottom=0.16)
     save(fig, path)
 
 

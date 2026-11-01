@@ -82,6 +82,8 @@ def main():
     ax.set_xlim(0, 1)
     ax.xaxis.set_major_formatter(matplotlib.ticker.PercentFormatter(1.0, decimals=0))
     ax.set_xlabel("Share of the speaker's segments (mean over episodes)", color=INK2)
+    fig.text(0.1 / args.width, 0.5, "Gender dyad (host \u2192 guest) and speaker", rotation=90,
+             ha="left", va="center", color=INK2, fontsize=9)
     for side in ("top", "right", "left"):
         ax.spines[side].set_visible(False)
     ax.tick_params(axis="y", length=0)

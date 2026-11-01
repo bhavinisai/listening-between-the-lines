@@ -28,13 +28,14 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+from matplotlib.lines import Line2D
+from matplotlib.patches import Patch
 
 DYADS = ["MALE->MALE", "MALE->FEMALE", "FEMALE->MALE", "FEMALE->FEMALE"]
 LABELS = {"MALE->MALE": "Male host\nmale guest", "MALE->FEMALE": "Male host\nfemale guest",
           "FEMALE->MALE": "Female host\nmale guest", "FEMALE->FEMALE": "Female host\nfemale guest"}
 HOST, GUEST = "#2a78d6", "#eb6834"                 # categorical slots 1 and 2
 INK, INK2, MUTED, GRID = "#0b0b0b", "#52514e", "#8a8984", "#e6e5e0"
-XMAX_SHARE = 0.80
 FIGSIZE = (6.0, 2.8)
 Y = np.arange(len(DYADS))[::-1]
 
@@ -47,6 +48,7 @@ def style(ax):
     ax.tick_params(axis="y", length=0)
     ax.set_yticks(Y)
     ax.set_yticklabels([LABELS[d] for d in DYADS])
+    ax.set_ylabel("Gender dyad (host \u2192 guest)")
 
 
 def save(fig, path):
@@ -73,7 +75,7 @@ def minutes_figure(ep, path):
     ax.legend(loc="lower left", bbox_to_anchor=(0.0, 1.0), ncol=2, frameon=False, fontsize=8,
               handlelength=1.2, borderaxespad=0.3)
     style(ax)
-    fig.subplots_adjust(left=0.2, right=0.97, top=0.88, bottom=0.18)
+    fig.subplots_adjust(left=0.25, right=0.97, top=0.88, bottom=0.18)
     save(fig, path)
 
 
@@ -85,31 +87,36 @@ def share_distribution_figure(ep, path):
     for yi, d in zip(Y, DYADS):
         s = ep.loc[ep.dyad == d, "host_time_share"].to_numpy()
         data.append(s)
-        s = s[s <= XMAX_SHARE]
         ax.scatter(s, yi + rng.uniform(-0.18, 0.18, len(s)), s=7, color=MUTED, alpha=0.3, linewidths=0, zorder=1)
-        ax.text(np.median(data[-1]), yi + 0.3, f"{100 * np.median(data[-1]):.1f}%", va="bottom", ha="center",
+        ax.text(np.median(s), yi + 0.3, f"{100 * np.median(s):.1f}%", va="bottom", ha="center",
                 color=INK, fontsize=8, zorder=5)
     ax.boxplot(data, positions=Y, orientation="horizontal", widths=0.34, showfliers=False, patch_artist=True, zorder=3,
                boxprops={"facecolor": "none", "edgecolor": HOST, "linewidth": 1.6},
                medianprops={"color": HOST, "linewidth": 2.4},
                whiskerprops={"color": HOST, "linewidth": 1.2}, capprops={"color": HOST, "linewidth": 1.2})
-    ax.set_xlim(0, XMAX_SHARE)
+    ax.set_xlim(0, 1.0)
     ax.set_ylim(Y.min() - 0.5, Y.max() + 0.75)
     ax.xaxis.set_major_formatter(matplotlib.ticker.PercentFormatter(1.0, decimals=0))
     ax.set_xlabel("Host share of total speaking time")
+    handles = [
+        Line2D([], [], ls="none", marker="o", markersize=4, color=MUTED, alpha=0.6, label="One episode"),
+        Line2D([], [], color=HOST, lw=2.4, label="Median"),
+        Patch(facecolor="none", edgecolor=HOST, lw=1.6, label="Interquartile range (box)"),
+        Line2D([], [], color=HOST, lw=1.2, marker="|", markersize=8, markeredgewidth=1.2,
+               label="Whiskers (1.5 \u00d7 IQR)"),
+    ]
+    fig.legend(handles=handles, loc="upper center", bbox_to_anchor=(0.5, 1.0), ncol=4, frameon=False, fontsize=7.5,
+               handlelength=1.6, columnspacing=1.2)
     style(ax)
-    fig.subplots_adjust(left=0.2, right=0.97, top=0.97, bottom=0.18)
+    fig.subplots_adjust(left=0.25, right=0.97, top=0.88, bottom=0.18)
     save(fig, path)
 
 
 def share_figure(ep, sm, path):
     fig, ax = plt.subplots(figsize=FIGSIZE)
     rng = np.random.default_rng(1)
-    clipped = 0
     for yi, d in zip(Y, DYADS):
         s = ep.loc[ep.dyad == d, "host_time_share"].to_numpy()
-        clipped += int((s > XMAX_SHARE).sum())
-        s = s[s <= XMAX_SHARE]
         ax.scatter(s, yi + rng.uniform(-0.18, 0.18, len(s)), s=7, color=MUTED, alpha=0.3, linewidths=0, zorder=1)
         r = sm.loc[d]
         med, lo, hi = r.host_share_median, r.host_share_median_ci_low, r.host_share_median_ci_high
@@ -117,14 +124,20 @@ def share_figure(ep, sm, path):
                     color=HOST, ecolor=HOST, elinewidth=2, capsize=4, capthick=1.6, markersize=7,
                     markeredgecolor="white", markeredgewidth=1.2, zorder=4)
         ax.text(med, yi + 0.3, f"{100 * med:.1f}%", va="bottom", ha="center", color=INK, fontsize=8, zorder=5)
-    ax.set_xlim(0, XMAX_SHARE)
+    ax.set_xlim(0, 1.0)
     ax.set_ylim(Y.min() - 0.5, Y.max() + 0.75)
     ax.xaxis.set_major_formatter(matplotlib.ticker.PercentFormatter(1.0, decimals=0))
     ax.set_xlabel("Host share of total speaking time")
+    handles = [
+        Line2D([], [], ls="none", marker="o", markersize=4, color=MUTED, alpha=0.6, label="One episode"),
+        Line2D([], [], color=HOST, lw=2, marker="o", markersize=6, markeredgecolor="white",
+               label="Median with 95% bootstrap CI"),
+    ]
+    fig.legend(handles=handles, loc="upper center", bbox_to_anchor=(0.5, 1.0), ncol=2, frameon=False, fontsize=7.5,
+               handlelength=1.6, columnspacing=1.2)
     style(ax)
-    fig.subplots_adjust(left=0.2, right=0.97, top=0.97, bottom=0.18)
+    fig.subplots_adjust(left=0.25, right=0.97, top=0.88, bottom=0.18)
     save(fig, path)
-    return clipped
 
 
 def main():
@@ -142,10 +155,9 @@ def main():
                          "axes.labelcolor": INK2, "xtick.color": INK2, "ytick.color": INK})
     minutes_figure(ep, f"{args.fig_dir}/speaking_time_minutes")
     share_distribution_figure(ep, f"{args.fig_dir}/speaking_time_share_distribution")
-    clipped = share_figure(ep, sm, f"{args.fig_dir}/speaking_time_share")
+    share_figure(ep, sm, f"{args.fig_dir}/speaking_time_share")
     print(f"Saved {args.fig_dir}/speaking_time_minutes, speaking_time_share_distribution and "
-          f"speaking_time_share (.pdf/.png) "
-          f"({clipped} episode(s) above {XMAX_SHARE:.0%} not drawn in the share figure)")
+          f"speaking_time_share (.pdf/.png)")
 
 
 if __name__ == "__main__":

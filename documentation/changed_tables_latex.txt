@@ -1,0 +1,270 @@
+% Tables whose captions were shortened, with the explanatory text moved
+% to a note below each table. Copied from speaking_time_results_latex.txt.
+
+% ---- tab:speaking-time -----------------------------------------------------
+\begin{table}[H]
+  \centering
+  \small
+  \caption{Host and guest speaking time by host$\rightarrow$guest gender dyad
+    (418 episodes).}
+  \label{tab:speaking-time}
+  \begin{adjustbox}{max width=\linewidth}
+  \begin{tabular}{lrrrcc}
+    \toprule
+    Dyad (host $\rightarrow$ guest) & Episodes & Host min & Guest min
+      & Host share, median (IQR) & Host word share \\
+    \midrule
+    Male $\rightarrow$ male     & 226 & 13.8 & 49.1 & 21.3\% (17.0--28.1) & 21.7\% \\
+    Male $\rightarrow$ female   &  67 & 18.0 & 49.0 & 26.3\% (22.6--32.8) & 27.9\% \\
+    Female $\rightarrow$ male   &  64 &  7.8 & 35.9 & 19.0\% (15.5--21.4) & 18.3\% \\
+    Female $\rightarrow$ female &  61 &  8.0 & 36.3 & 19.8\% (15.2--25.0) & 19.9\% \\
+    \bottomrule
+  \end{tabular}
+  \end{adjustbox}
+  \par\smallskip
+  {\footnotesize \textit{Note:} Minutes are medians per episode. The last
+    column uses word counts instead of time.\par}
+\end{table}
+
+% ---- tab:speaking-time-ci --------------------------------------------------
+\begin{table}[H]
+  \centering
+  \small
+  \caption{Median host share of speaking time by host$\rightarrow$guest gender
+    dyad, with 95\% bootstrap confidence intervals}
+  \label{tab:speaking-time-ci}
+  \begin{tabular}{lrcc}
+    \toprule
+    Dyad (host $\rightarrow$ guest) & Episodes & Median host share & 95\% CI of median \\
+    \midrule
+    Male $\rightarrow$ male     & 226 & 21.3\% & 20.6--22.9\% \\
+    Male $\rightarrow$ female   &  67 & 26.3\% & 24.1--30.0\% \\
+    Female $\rightarrow$ male   &  64 & 19.0\% & 17.5--19.9\% \\
+    Female $\rightarrow$ female &  61 & 19.8\% & 17.2--22.2\% \\
+    \bottomrule
+  \end{tabular}
+  \par\smallskip
+  {\footnotesize \textit{Note:} Kruskal--Wallis test across the four dyads: $H(3) = 41.4$, $p < .001$.\par}
+\end{table}
+
+% ---- tab:speaking-time-pairs -----------------------------------------------
+\begin{table}[H]
+  \centering
+  \small
+  \caption{Pairwise comparisons of the host share of speaking time between dyads.}
+  \label{tab:speaking-time-pairs}
+  \begin{tabular}{lrrrc}
+    \toprule
+    Comparison & $r$ & $p$ & $p$ (Holm) & Significant \\
+    \midrule
+    Male$\rightarrow$male vs.\ male$\rightarrow$female       & $-0.32$ & $<.001$ & $<.001$ & Yes \\
+    Male$\rightarrow$male vs.\ female$\rightarrow$male       & $0.28$  & $<.001$ & $.002$  & Yes \\
+    Male$\rightarrow$male vs.\ female$\rightarrow$female     & $0.17$  & $.037$  & $.073$  & No \\
+    Male$\rightarrow$female vs.\ female$\rightarrow$male     & $0.61$  & $<.001$ & $<.001$ & Yes \\
+    Male$\rightarrow$female vs.\ female$\rightarrow$female   & $0.49$  & $<.001$ & $<.001$ & Yes \\
+    Female$\rightarrow$male vs.\ female$\rightarrow$female   & $-0.11$ & $.303$  & $.303$  & No \\
+    \bottomrule
+  \end{tabular}
+  \par\smallskip
+  {\footnotesize \textit{Note:} Mann--Whitney $U$ tests, Holm-corrected. $r$ is the rank-biserial
+    correlation; positive values mean the first dyad has the higher host
+    share. Significant: Holm-corrected $p < .05$.\par}
+\end{table}
+
+% ---- tab:style -------------------------------------------------------------
+\begin{table}[H]
+  \centering
+  \small
+  \caption{Conversational style by host$\rightarrow$guest gender dyad}
+  \label{tab:style}
+  \begin{tabular}{llrrrr}
+    \toprule
+    Feature & Speaker & MM & MF & FM & FF \\
+    \midrule
+    Hedges & Host & 5.04 & 5.46 & 5.04 & 4.64 \\
+     & Guest & 4.37 & 4.86 & 8.21 & 7.13 \\
+    Boosters & Host & 3.05 & 3.51 & 5.28 & 5.98 \\
+     & Guest & 2.47 & 3.46 & 4.70 & 6.11 \\
+    Factuality & Host & 0.96 & 1.19 & 1.55 & 1.28 \\
+     & Guest & 0.74 & 0.96 & 1.03 & 1.75 \\
+    Direct questions & Host & 3.33 & 5.15 & 6.36 & 3.70 \\
+    Deference$^{\dagger}$ & Host & 46\% & 60\% & 5\% & 10\% \\
+     & Guest & 44\% & 46\% & 17\% & 21\% \\
+    \bottomrule
+  \end{tabular}
+  \par\smallskip
+  {\footnotesize \textit{Note:} Median rate per 1{,}000 words. $^{\dagger}$Deference is used in only a
+    minority of episodes, so its rows show the share of episodes in which
+    it is used.\par}
+\end{table}
+
+% ---- tab:style-tests -------------------------------------------------------
+\begin{table}[H]
+  \centering
+  \small
+  \caption{Tests of conversational style.}
+  \label{tab:style-tests}
+  \begin{tabular}{llrrcrr}
+    \toprule
+     & & \multicolumn{2}{c}{Kruskal--Wallis} & Pairs & \multicolumn{2}{c}{Guest gender, $p$ (Holm)} \\
+    \cmidrule(lr){3-4}\cmidrule(lr){6-7}
+    Feature & Speaker & $H(3)$ & $p$ (Holm) & sig./6 & MM vs.\ MF & FM vs.\ FF \\
+    \midrule
+    Hedges & Host & 3.3 & $.35$ & 0 & $1.00$ & $1.00$ \\
+     & Guest & 50.4 & $<.001$ & 4 & $.14$ & $.47$ \\
+    Boosters & Host & 96.6 & $<.001$ & 4 & $.08$ & $.08$ \\
+     & Guest & 74.3 & $<.001$ & 6 & $.015$ & $.025$ \\
+    Factuality & Host & 12.7 & $.011$ & 2 & $.73$ & $.73$ \\
+     & Guest & 50.8 & $<.001$ & 3 & $.07$ & $.07$ \\
+    Direct questions & Host & 34.7 & $<.001$ & 3 & $.004$ & $.006$ \\
+    Deference & Host & 65.5 & $<.001$ & 4 & $.12$ & $.32$ \\
+     & Guest & 20.2 & $<.001$ & 4 & $1.00$ & $1.00$ \\
+    \bottomrule
+  \end{tabular}
+  \par\smallskip
+  {\footnotesize \textit{Note:} Kruskal--Wallis across the four dyads (Holm-corrected across the 9
+    tests); number of the six pairwise Mann--Whitney $U$ comparisons
+    significant after Holm correction; and the two pairwise comparisons that
+    keep the host's gender fixed and change the guest's gender (Holm-corrected
+    across the six pairs).\par}
+\end{table}
+
+% ---- tab:da ----------------------------------------------------------------
+\begin{table}[H]
+  \centering
+  \small
+  \caption{Dialogue acts by host$\rightarrow$guest gender dyad }
+  \label{tab:da}
+  \begin{tabular}{llrrrrrr}
+    \toprule
+    Act & Speaker & MM & MF & FM & FF & $H(3)$ & $p$ (Holm) \\
+    \midrule
+    Ask & Host & 20.5 & 20.5 & 23.7 & 22.3 & 17.5 & $.003$ \\
+     & Guest & 7.8 & 6.8 & 4.8 & 5.2 & 79.5 & $<.001$ \\
+    Answer & Host & 38.4 & 36.6 & 32.7 & 31.1 & 48.8 & $<.001$ \\
+     & Guest & 45.6 & 43.8 & 36.3 & 29.6 & 81.3 & $<.001$ \\
+    Say & Host & 27.0 & 30.2 & 27.7 & 32.6 & 13.3 & $.012$ \\
+     & Guest & 38.0 & 40.8 & 52.8 & 57.2 & 115.4 & $<.001$ \\
+    Acknowledge & Host & 4.6 & 4.7 & 4.0 & 4.3 & 1.6 & $.658$ \\
+     & Guest & 2.0 & 2.2 & 1.6 & 2.0 & 15.1 & $.007$ \\
+    Intent & Host & 4.3 & 3.5 & 2.9 & 2.7 & 37.3 & $<.001$ \\
+     & Guest & 2.5 & 2.3 & 1.6 & 1.2 & 42.6 & $<.001$ \\
+    Reply yes & Host & 2.2 & 2.4 & 2.1 & 2.8 & 5.8 & $.246$ \\
+     & Guest & 1.5 & 2.1 & 1.4 & 1.7 & 31.1 & $<.001$ \\
+    \bottomrule
+  \end{tabular}
+  \par\smallskip
+  {\footnotesize \textit{Note:} Median share of the speaker's segments (\%), and the Kruskal--Wallis
+    test across the four dyads (Holm-corrected across the twelve tests).
+    MM = male$\rightarrow$male, MF = male$\rightarrow$female, FM =
+    female$\rightarrow$male, FF = female$\rightarrow$female.\par}
+\end{table}
+
+% ---- tab:da-pairs ----------------------------------------------------------
+\begin{table}[H]
+  \centering
+  \small
+  \caption{Pairwise comparisons of dialogue acts between dyads.}
+  \label{tab:da-pairs}
+  \begin{adjustbox}{max width=\linewidth}
+  \begin{tabular}{llrrrrrr}
+    \toprule
+    Act & Speaker & MM--MF & MM--FM & MM--FF & MF--FM & MF--FF & FM--FF \\
+    \midrule
+    Ask & Host & $+0.03$ & $\mathbf{-0.30}$ & $-0.17$ & $\mathbf{-0.33}$ & $-0.21$ & $+0.16$ \\
+     & Guest & $+0.14$ & $\mathbf{+0.57}$ & $\mathbf{+0.54}$ & $\mathbf{+0.52}$ & $\mathbf{+0.45}$ & $-0.11$ \\
+    Answer & Host & $+0.18$ & $\mathbf{+0.42}$ & $\mathbf{+0.46}$ & $\mathbf{+0.31}$ & $\mathbf{+0.37}$ & $+0.05$ \\
+     & Guest & $+0.12$ & $\mathbf{+0.35}$ & $\mathbf{+0.68}$ & $\mathbf{+0.33}$ & $\mathbf{+0.71}$ & $\mathbf{+0.40}$ \\
+    Say & Host & $\mathbf{-0.22}$ & $-0.12$ & $\mathbf{-0.24}$ & $+0.08$ & $-0.09$ & $-0.12$ \\
+     & Guest & $-0.11$ & $\mathbf{-0.54}$ & $\mathbf{-0.74}$ & $\mathbf{-0.54}$ & $\mathbf{-0.79}$ & $\mathbf{-0.32}$ \\
+    Acknowledge & Host & $-0.11$ & $-0.01$ & $-0.05$ & $+0.07$ & $+0.03$ & $-0.02$ \\
+     & Guest & $-0.09$ & $\mathbf{+0.28}$ & $+0.01$ & $\mathbf{+0.37}$ & $+0.10$ & $-0.25$ \\
+    Intent & Host & $+0.15$ & $\mathbf{+0.33}$ & $\mathbf{+0.43}$ & $+0.23$ & $\mathbf{+0.34}$ & $+0.11$ \\
+     & Guest & $+0.04$ & $\mathbf{+0.36}$ & $\mathbf{+0.45}$ & $\mathbf{+0.34}$ & $\mathbf{+0.43}$ & $+0.12$ \\
+    Reply yes & Host & $-0.10$ & $+0.03$ & $-0.17$ & $+0.10$ & $-0.13$ & $-0.18$ \\
+     & Guest & $\mathbf{-0.39}$ & $+0.10$ & $-0.17$ & $\mathbf{+0.47}$ & $+0.25$ & $-0.26$ \\
+    \bottomrule
+  \end{tabular}
+  \end{adjustbox}
+  \par\smallskip
+  {\footnotesize \textit{Note:} Rank-biserial correlation $r$ (Mann--Whitney $U$). Negative values
+    mean the second dyad has the higher share. Bold: Holm-corrected $p <
+    .05$ across the six pairs.\par}
+\end{table}
+
+% ---- tab:tc-thresholds -----------------------------------------------------
+\begin{table}[H]
+\centering
+\caption{Pooled follow-up rate at defined thresholds, unchanged by role (gap confidence interval taken from 500 episode-level bootstrap samples).}
+\label{tab:tc-thresholds}
+\begin{tabular}{cccc}
+\toprule
+Threshold & Female & Male & Male $-$ female (pp) [95\% CI] \\
+\midrule
+0.02 & 33.4\% & 37.8\% & 4.4 [1.9, 7.0] \\
+0.05 & 21.7\% & 25.3\% & 3.5 [1.1, 5.9] \\
+0.10 & 11.9\% & 15.2\% & 3.4 [1.6, 4.9] \\
+0.15 &  7.6\% & 10.2\% & 2.6 [1.3, 3.8] \\
+0.20 &  5.1\% &  7.5\% & 2.4 [1.4, 3.3] \\
+0.30 &  2.9\% &  4.1\% & 1.3 [0.5, 1.9] \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% ---- tab:tc-models ---------------------------------------------------------
+\begin{table}[H]
+\centering
+\caption{Follow-up predictors. GEE: errors grouped by episode, odds ratios. Mixed model: random effects for speaker and episode, effect on follow-up similarity.}
+\label{tab:tc-models}
+\begin{tabular}{lcccc}
+\toprule
+ & \multicolumn{2}{c}{GEE (main test)} & \multicolumn{2}{c}{Mixed model} \\
+\cmidrule(lr){2-3}\cmidrule(lr){4-5}
+Predictor & OR [95\% CI] & $p$ & $\beta$ [95\% CI] & $p$ \\
+\midrule
+Male initiator & 0.85 [0.76, 0.94] & 0.002 & 0.002 [$-0.003$, 0.007] & 0.42 \\
+Host initiator & 2.20 [1.99, 2.44] & $<$0.001 & 0.019 [0.013, 0.024] & $<$0.001 \\
++100 words     & 2.64 [2.26, 3.09] & $<$0.001 & 0.000 [0.000, 0.000] & 0.53 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% ---- tab:tc-within ---------------------------------------------------------
+\begin{table}[H]
+\centering
+\caption{Male vs.\ female speakers within the 131 episodes, using
+TF-IDF and sentence embeddings (10,000 sign flips).}
+\label{tab:tc-within}
+\begin{tabular}{lccccc}
+\toprule
+Similarity & Female & Male & Gap (pp) [95\% CI] & Paired $t$ ($p$) & Permutation $p$ \\
+\midrule
+TF-IDF     & 42.6\% & 41.5\% & $-1.2$ [$-4.1$, $+1.7$] & $-0.78$ (0.44) & 0.44 \\
+Embeddings & 48.4\% & 47.2\% & $-1.2$ [$-4.1$, $+1.8$] & $-0.78$ (0.43) & 0.44 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+% ---- tab:qt-dyad -----------------------------------------------------------
+\begin{table}[H]
+\centering
+\caption{Percentages of host questions by type and guest gender (12,726
+questions, 200 episodes).}
+\label{tab:qt-dyad}
+\begin{tabular}{lcccc}
+\toprule
+ & \multicolumn{2}{c}{Male host} & \multicolumn{2}{c}{Female host} \\
+\cmidrule(lr){2-3}\cmidrule(lr){4-5}
+Type & Male guest & Female guest & Male guest & Female guest \\
+\midrule
+Open         & 35.0\% & 28.3\% & 26.5\% & 23.2\% \\
+Closed       & 26.0\% & 30.6\% & 18.0\% & 12.2\% \\
+Personal     & 12.2\% & 20.7\% & 16.8\% & 25.4\% \\
+Leading      & 11.4\% &  9.1\% & 14.4\% & 17.1\% \\
+Professional & 11.2\% &  7.9\% & 20.4\% & 18.7\% \\
+Challenge    &  4.2\% &  3.3\% &  3.9\% &  3.3\% \\
+\midrule
+Questions    & 3,407 & 5,035 & 2,118 & 2,166 \\
+\bottomrule
+\end{tabular}
+\end{table}
